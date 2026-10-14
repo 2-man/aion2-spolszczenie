@@ -1,0 +1,250 @@
+{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_002_interact_desc", "source": "Examining Paper...", "translation": "Badanie papieru...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_001_desc", "source": "Altar Door", "translation": "Drzwi ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_001_interact_desc", "source": "Opening the Altar Door...", "translation": "Otwieranie drzwi ołtarza...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_002_desc", "source": "Altar Door", "translation": "Drzwi ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_002_interact_desc", "source": "Opening the Altar Door...", "translation": "Otwieranie drzwi ołtarza...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_003_desc", "source": "Altar Door", "translation": "Drzwi ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_003_interact_desc", "source": "Opening the Altar Door...", "translation": "Otwieranie drzwi ołtarza...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_004_desc", "source": "Altar Door", "translation": "Drzwi ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_Door_004_interact_desc", "source": "Opening the Altar Door...", "translation": "Otwieranie drzwi ołtarza...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_EnterPortal_001_desc", "source": "Aullaeu Altar Entrance", "translation": "Wejście do Ołtarza Aullaeu", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_EnterPortal_001_interact_desc", "source": "Entering the Aullaeu Altar...", "translation": "Wchodzenie do Ołtarza Aullaeu...", "status": "draft"}
+{"id": "EnvObjData_E_StrigikAltar_StoneWall_001_desc", "source": "Stone Wall", "translation": "Kamienny mur", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_002_desc", "source": "Hidden Cube", "translation": "Ukryty sześcian", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_004_desc", "source": "Haystack", "translation": "Stóg siana", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_004_interact_desc", "source": "Processing the Haystack...", "translation": "Przeszukiwanie stogu siana...", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_005_desc", "source": "Stone Tomb", "translation": "Kamienny grobowiec", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_005_interact_desc", "source": "Inspecting the Stone Tomb...", "translation": "Badanie kamiennego grobowca...", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_006_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_007_desc", "source": "Transport Kisk", "translation": "Transportowy Kisk", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_007_interact_desc", "source": "Using the Transport Kisk...", "translation": "Korzystanie z transportowego Kiska...", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_008_desc", "source": "Terminon Territory Bulletin Board", "translation": "Tablica ogłoszeń na terytorium Terminonu", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_008_interact_desc", "source": "Checking the Bulletin Board...", "translation": "Sprawdzanie tablicy ogłoszeń...", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_009_desc", "source": "Lush Poisonous Plant", "translation": "Bujna trująca roślina", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_009_interact_desc", "source": "Removing the Poisonous Plant...", "translation": "Usuwanie trującej rośliny...", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_010_desc", "source": "Wine Chest", "translation": "Skrzynia z winem", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_011_desc", "source": "Healing Herb", "translation": "Ziele lecznicze", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_011_interact_desc", "source": "Gathering the Healing Herb...", "translation": "Zbieranie ziela leczniczego...", "status": "draft"}
+{"id": "EnvObjData_E_Trigger_air_desc", "source": "Arrival Point", "translation": "Punkt przybycia", "status": "draft"}
+{"id": "EnvObjData_E_Trigger_desc", "source": "Arrival Point", "translation": "Punkt przybycia", "status": "draft"}
+{"id": "EnvObjData_E_Trigger_maprange_desc", "source": "Arrival Point", "translation": "Punkt przybycia", "status": "draft"}
+{"id": "EnvObjData_E_Trigger_water_desc", "source": "Arrival Point", "translation": "Punkt przybycia", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_D_lv1_desc", "source": "Lapageria", "translation": "Lapageria", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_D_lv2_desc", "source": "Zoot", "translation": "Zoot", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_D_lv3_desc", "source": "Xilix", "translation": "Xilix", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_D_lv4_desc", "source": "Anathe", "translation": "Anathe", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_L_lv1_A_desc", "source": "Ruko", "translation": "Ruko", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_L_lv2_A_desc", "source": "Fess", "translation": "Fess", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_L_lv3_A_desc", "source": "Remi", "translation": "Remi", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Cotton_L_lv4_A_desc", "source": "Linon", "translation": "Linon", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_01_desc", "source": "Raydam", "translation": "Raydam", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_02_desc", "source": "Morfa", "translation": "Morfa", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_03_desc", "source": "Conide", "translation": "Conide", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_04_desc", "source": "Pujery", "translation": "Pujery", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_06_desc", "source": "Ohkra", "translation": "Ohkra", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_07_desc", "source": "Kirka", "translation": "Kirka", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_08_desc", "source": "Blueta", "translation": "Blueta", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_09_desc", "source": "Blicora", "translation": "Blicora", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_10_desc", "source": "Vinna", "translation": "Vinna", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_12_desc", "source": "Pressa", "translation": "Pressa", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_13_desc", "source": "Rogen", "translation": "Rogen", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_14_desc", "source": "Kisaki", "translation": "Kisaki", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_15_desc", "source": "Chikra", "translation": "Chikra", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_16_desc", "source": "Zeller", "translation": "Zeller", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_18_desc", "source": "Vigen", "translation": "Vigen", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_19_desc", "source": "Jardine", "translation": "Jardine", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_21_desc", "source": "Carpen", "translation": "Carpen", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_D_lv1_22_desc", "source": "Pujery", "translation": "Pujery", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_06_desc", "source": "Kukuru", "translation": "Kukuru", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_07_desc", "source": "Omblic", "translation": "Omblic", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_08_desc", "source": "Modida", "translation": "Modida", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_09_desc", "source": "Venera", "translation": "Venera", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_10_desc", "source": "Wiki", "translation": "Wiki", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_12_desc", "source": "Luum", "translation": "Luum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_13_desc", "source": "Zeyla", "translation": "Zeyla", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_14_desc", "source": "Afari", "translation": "Afari", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_15_desc", "source": "Ruta", "translation": "Ruta", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_16_desc", "source": "Triora", "translation": "Triora", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_18_desc", "source": "Perer", "translation": "Perer", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_19_desc", "source": "Pleuro", "translation": "Pleuro", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_21_desc", "source": "Esosa", "translation": "Esosa", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_22_desc", "source": "Cypri", "translation": "Cypri", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv1_A_desc", "source": "Mela", "translation": "Mela", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv2_A_desc", "source": "Coriolus", "translation": "Coriolus", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv3_A_desc", "source": "Inina", "translation": "Inina", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Food_L_lv4_A_desc", "source": "Cypri", "translation": "Cypri", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv1_01_desc", "source": "Sapphire", "translation": "Szafir", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv1_02_desc", "source": "Diamond", "translation": "Diament", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv1_03_desc", "source": "Ruby", "translation": "Rubin", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv2_01_desc", "source": "Aquamarine", "translation": "Akwamaryn", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv2_02_desc", "source": "Zircon", "translation": "Cyrkon", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv2_03_desc", "source": "Topaz", "translation": "Topaz", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv3_01_desc", "source": "Garnet", "translation": "Granat", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv3_02_desc", "source": "Lazuli", "translation": "Lazuryt", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv3_03_desc", "source": "Moonstone", "translation": "Kamień księżycowy", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv4_01_desc", "source": "Diamond", "translation": "Diament", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv4_02_desc", "source": "Ruby", "translation": "Rubin", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_D_lv4_03_desc", "source": "Sapphire", "translation": "Szafir", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv1_02_desc", "source": "Diamond", "translation": "Diament", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv1_03_desc", "source": "Ruby", "translation": "Rubin", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv1_A_desc", "source": "Sapphire", "translation": "Szafir", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv2_01_desc", "source": "Aquamarine", "translation": "Akwamaryn", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv2_02_desc", "source": "Zircon", "translation": "Cyrkon", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv2_03_desc", "source": "Topaz", "translation": "Topaz", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv3_01_desc", "source": "Garnet", "translation": "Granat", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv3_02_desc", "source": "Lazuli", "translation": "Lazuryt", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv3_03_desc", "source": "Moonstone", "translation": "Kamień księżycowy", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv4_01_desc", "source": "Diamond", "translation": "Diament", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv4_02_desc", "source": "Ruby", "translation": "Rubin", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Gemstone_L_lv4_03_desc", "source": "Sapphire", "translation": "Szafir", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv1_01_desc", "source": "Azpha", "translation": "Azpha", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv1_02_desc", "source": "Calendula", "translation": "Nagietek", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv2_01_desc", "source": "Azpha", "translation": "Azpha", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv2_02_desc", "source": "Calendula", "translation": "Nagietek", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv3_01_desc", "source": "Azpha", "translation": "Azpha", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv3_02_desc", "source": "Calendula", "translation": "Nagietek", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv4_01_desc", "source": "Azpha", "translation": "Azpha", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_D_lv4_02_desc", "source": "Calendula", "translation": "Nagietek", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv1_A_desc", "source": "Aria", "translation": "Aria", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv2_01_desc", "source": "Aria", "translation": "Aria", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv2_02_desc", "source": "Targena", "translation": "Targena", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv2_A_desc", "source": "Targena", "translation": "Targena", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv3_01_desc", "source": "Aria", "translation": "Aria", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv3_02_desc", "source": "Targena", "translation": "Targena", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv4_01_desc", "source": "Aria", "translation": "Aria", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Herb_L_lv4_02_desc", "source": "Targena", "translation": "Targena", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_A_lv1_Abyss_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_A_lv1_Content3_desc", "source": "Mysterious Odyle", "translation": "Tajemniczy Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv1_Content2_desc", "source": "Splendent Odyle", "translation": "Lśniący Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv1_Content_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv1_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv2_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv3_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_D_lv4_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv1_A_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv1_Content2_desc", "source": "Splendent Odyle", "translation": "Lśniący Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv1_Content_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv2_A_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv3_A_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Od_L_lv4_A_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_D_lv1_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_D_lv2_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_D_lv3_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_D_lv4_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_L_lv1_A_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_L_lv2_A_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_L_lv3_A_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Ore_L_lv4_A_desc", "source": "Orichalcum", "translation": "Orichalcum", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_D_lv1_desc", "source": "Silver", "translation": "Srebro", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_D_lv2_desc", "source": "Gold", "translation": "Złoto", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_D_lv3_desc", "source": "Platinum", "translation": "Platyna", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_D_lv4_desc", "source": "Mithril", "translation": "Mithril", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_L_lv1_A_desc", "source": "Silver", "translation": "Srebro", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_L_lv2_A_desc", "source": "Gold", "translation": "Złoto", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_L_lv3_A_desc", "source": "Platinum", "translation": "Platyna", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_RareOre_L_lv4_A_desc", "source": "Mithril", "translation": "Mithril", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_D_lv1_desc", "source": "Asvata", "translation": "Asvata", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_D_lv2_desc", "source": "Asvata", "translation": "Asvata", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_D_lv3_desc", "source": "Asvata", "translation": "Asvata", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_D_lv4_desc", "source": "Asvata", "translation": "Asvata", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_L_lv1_A_desc", "source": "Yggdrasil", "translation": "Yggdrasil", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_L_lv2_A_desc", "source": "Yggdrasil", "translation": "Yggdrasil", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_L_lv3_A_desc", "source": "Yggdrasil", "translation": "Yggdrasil", "status": "draft"}
+{"id": "EnvObjData_Gather_Source_Wood_L_lv4_A_desc", "source": "Yggdrasil", "translation": "Yggdrasil", "status": "draft"}
+{"id": "EnvObjData_Test_AD_OrcusGrave_Luckybox_Normal_001_desc", "source": "Unknown Plain Chest", "translation": "Nieznana zwykła skrzynia", "status": "draft"}
+{"id": "EnvObjData_Test_AD_OrcusGrave_Luckybox_Normal_001_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_AD_OrcusGrave_Luckybox_Rare_001_desc", "source": "Unknown High-Quality Chest", "translation": "Nieznana skrzynia wysokiej jakości", "status": "draft"}
+{"id": "EnvObjData_Test_AD_OrcusGrave_Luckybox_Rare_001_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_AbyssArtifact_001_desc", "source": "Abyss Artifact Test 01", "translation": "Abyss Artifact Test 01", "status": "technical"}
+{"id": "EnvObjData_Test_AbyssArtifact_002_desc", "source": "Abyss Artifact Test 02", "translation": "Abyss Artifact Test 02", "status": "technical"}
+{"id": "EnvObjData_Test_AbyssArtifact_003_desc", "source": "Abyss Artifact Test 03", "translation": "Abyss Artifact Test 03", "status": "technical"}
+{"id": "EnvObjData_Test_AbyssArtifact_004_desc", "source": "Abyss Artifact Test 04", "translation": "Abyss Artifact Test 04", "status": "technical"}
+{"id": "EnvObjData_Test_AbyssArtifact_005_desc", "source": "Abyss Artifact Test 05", "translation": "Abyss Artifact Test 05", "status": "technical"}
+{"id": "EnvObjData_Test_AbyssArtifact_006_desc", "source": "Abyss Artifact Test 06", "translation": "Abyss Artifact Test 06", "status": "technical"}
+{"id": "EnvObjData_Test_AgitFrame_001_desc", "source": "Decor Type: Picture Frame", "translation": "Decor Type: Picture Frame", "status": "technical"}
+{"id": "EnvObjData_Test_AgitFrame_001_interact_desc", "source": "Frame Test", "translation": "Frame Test", "status": "technical"}
+{"id": "EnvObjData_Test_AgitLargeDeco_001_desc", "source": "Decor Type: Large Installation", "translation": "Decor Type: Large Installation", "status": "technical"}
+{"id": "EnvObjData_Test_AgitLargeDeco_001_interact_desc", "source": "Midzise Decor Test", "translation": "Midzise Decor Test", "status": "technical"}
+{"id": "EnvObjData_Test_AgitSmallDeco_001_desc", "source": "Decor Type: Installation", "translation": "Decor Type: Installation", "status": "technical"}
+{"id": "EnvObjData_Test_AgitSmallDeco_001_interact_desc", "source": "Small Decor Test", "translation": "Small Decor Test", "status": "technical"}
+{"id": "EnvObjData_Test_Basic_Bakron_Rock_01_desc", "source": "Vakron Rock", "translation": "Skała Vakrona", "status": "draft"}
+{"id": "EnvObjData_Test_Basic_Bakron_Rock_02_Easy_desc", "source": "Vakron Cracked Rock", "translation": "Popękana skała Vakrona", "status": "draft"}
+{"id": "EnvObjData_Test_Basic_Bakron_Rock_02_desc", "source": "Vakron Cracked Rock", "translation": "Popękana skała Vakrona", "status": "draft"}
+{"id": "EnvObjData_Test_CommonPortal_01_001_desc", "source": "Basic Portal", "translation": "Podstawowy portal", "status": "draft"}
+{"id": "EnvObjData_Test_CommonPortal_03_001_desc", "source": "Etheria Rift Entrance", "translation": "Wejście do Szczeliny Etherii", "status": "draft"}
+{"id":"EnvObjData_Test_Contents_Trigger_desc","source":"Contents Trigger Actor","translation":"Obiekt wyzwalający zawartość","status":"draft"}
+{"id": "EnvObjData_Test_Corpse_001_desc", "source": "Unidentified Corpse", "translation": "Niezidentyfikowane zwłoki", "status": "draft"}
+{"id": "EnvObjData_Test_DaevaSense_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_Test_DaevaSense_002_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_Test_Dramata_Pillar_01_desc", "source": "Pillar", "translation": "Filar", "status": "draft"}
+{"id": "EnvObjData_Test_Dramata_Pillar_02_desc", "source": "Pillar", "translation": "Filar", "status": "draft"}
+{"id": "EnvObjData_Test_DreamDungeon_11_001_desc", "source": "Dream Dungeon Entrance Test 210003", "translation": "Dream Dungeon Entrance Test 210003", "status": "technical"}
+{"id": "EnvObjData_Test_DreamDungeon_11_001_interact_desc", "source": "Entering Shining Dream Remnants...", "translation": "Wchodzenie do Lśniących Szczątków Marzeń...", "status": "draft"}
+{"id": "EnvObjData_Test_DreamDungeon_1_001_desc", "source": "Dream Dungeon Entrance Test 200002", "translation": "Dream Dungeon Entrance Test 200002", "status": "technical"}
+{"id": "EnvObjData_Test_DreamDungeon_1_001_interact_desc", "source": "Entering Dream of Torment...", "translation": "Wchodzenie do Snu Udręki...", "status": "draft"}
+{"id": "EnvObjData_Test_DreamDungeon_21_001_desc", "source": "Dream Dungeon Entrance Test 220003", "translation": "Dream Dungeon Entrance Test 220003", "status": "technical"}
+{"id": "EnvObjData_Test_DreamDungeon_21_001_interact_desc", "source": "Entering Shining Dream Remnants...", "translation": "Wchodzenie do Lśniących Szczątków Marzeń...", "status": "draft"}
+{"id": "EnvObjData_Test_DreamDungeon_2_001_desc", "source": "Dream Dungeon Entrance Test 200004", "translation": "Dream Dungeon Entrance Test 200004", "status": "technical"}
+{"id": "EnvObjData_Test_DreamDungeon_2_001_interact_desc", "source": "Entering Nartis...", "translation": "Wchodzenie do Nartis...", "status": "draft"}
+{"id": "EnvObjData_Test_DreamFragment_001_desc", "source": "Dream Fragment_SpawnTest", "translation": "Dream Fragment_SpawnTest", "status": "technical"}
+{"id": "EnvObjData_Test_Drop_Check_01_desc", "source": "Drop Test", "translation": "Drop Test", "status": "technical"}
+{"id": "EnvObjData_Test_Drop_Check_01_interact_desc", "source": "Opening and checking inside the Stone Casket...", "translation": "Otwieranie i przeszukiwanie kamiennego sarkofagu...", "status": "draft"}
+{"id": "EnvObjData_Test_Drop_Check_02_desc", "source": "Drop Test_Despawn", "translation": "Drop Test_Despawn", "status": "technical"}
+{"id": "EnvObjData_Test_Drop_Check_02_interact_desc", "source": "Opening and checking inside the Stone Casket...", "translation": "Otwieranie i przeszukiwanie kamiennego sarkofagu...", "status": "draft"}
+{"id": "EnvObjData_Test_DungeonKibel_01_desc", "source": "Dungeon Kibelisk", "translation": "Kibelisk lochu", "status": "draft"}
+{"id": "EnvObjData_Test_DynamicGround_Cylinder_01_desc", "source": "Collapsing Floor Mechanism_Cylinder", "translation": "Mechanizm zapadającej się podłogi (cylinder)", "status": "draft"}
+{"id": "EnvObjData_Test_DynamicGround_ring_01_desc", "source": "Collapsing Floor Mechanism_Small Ring", "translation": "Mechanizm zapadającej się podłogi (mały pierścień)", "status": "draft"}
+{"id": "EnvObjData_Test_DynamicGround_ring_02_desc", "source": "Collapsing Floor Mechanism_Large Ring", "translation": "Mechanizm zapadającej się podłogi (duży pierścień)", "status": "draft"}
+{"id": "EnvObjData_Test_FlightCircle_001_desc", "source": "[Test] Flight Circle", "translation": "[Test] Flight Circle", "status": "technical"}
+{"id": "EnvObjData_Test_G_Kisk_D_1_001_desc", "source": "Asmodian Legion Kisk", "translation": "Kisk Legionu Asmodian", "status": "draft"}
+{"id": "EnvObjData_Test_G_Kisk_L_1_001_desc", "source": "Elyos Legion Kisk", "translation": "Kisk Legionu Elyos", "status": "draft"}
+{"id": "EnvObjData_Test_L1_IllusionRelicBox_01_001_desc", "source": "Illusion Chest", "translation": "Skrzynia Iluzji", "status": "draft"}
+{"id": "EnvObjData_Test_L1_Image_001_desc", "source": "Check Image for Insertion 1", "translation": "Check Image for Insertion 1", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Image_002_desc", "source": "Check Image for Insertion 2", "translation": "Check Image for Insertion 2", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Image_003_desc", "source": "Check Image for Insertion 3", "translation": "Check Image for Insertion 3", "status": "technical"}
+{"id": "EnvObjData_Test_L1_NahidDoor_001_desc", "source": "Nahid Disposal Plant Door (For Testing)", "translation": "Nahid Disposal Plant Door (For Testing)", "status": "technical"}
+{"id": "EnvObjData_Test_L1_NahidDoor_001_interact_desc", "source": "Entering Dumpsite...", "translation": "Wchodzenie na wysypisko...", "status": "draft"}
+{"id": "EnvObjData_Test_L1_Note_001_desc", "source": "Confirm Note Data 1", "translation": "Confirm Note Data 1", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_002_desc", "source": "Confirm Note Data 2", "translation": "Confirm Note Data 2", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_003_desc", "source": "Confirm Note Data 3", "translation": "Confirm Note Data 3", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_004_desc", "source": "Confirm Note Data 4", "translation": "Confirm Note Data 4", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_005_desc", "source": "Confirm Note Data 5", "translation": "Confirm Note Data 5", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_006_desc", "source": "Confirm Note Data 6", "translation": "Confirm Note Data 6", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_007_desc", "source": "Confirm Note Data 7", "translation": "Confirm Note Data 7", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_008_desc", "source": "Confirm Note Data 8", "translation": "Confirm Note Data 8", "status": "technical"}
+{"id": "EnvObjData_Test_L1_Note_009_desc", "source": "Confirm Note Data 9", "translation": "Confirm Note Data 9", "status": "technical"}
+{"id": "EnvObjData_Test_L1_SealedPoison_001_desc", "source": "Test Meslamtaeda (Toggle type)", "translation": "Test Meslamtaeda (Toggle type)", "status": "technical"}
+{"id": "EnvObjData_Test_L1_SealedPoison_001_interact_desc", "source": "Approaching the poison with the Warding Feather...", "translation": "Zbliżanie się do trucizny z Ochronnym Piórem...", "status": "draft"}
+{"id": "EnvObjData_Test_L1_SealedPoison_002_desc", "source": "Test Meslamtaeda (Portal type)", "translation": "Test Meslamtaeda (Portal type)", "status": "technical"}
+{"id": "EnvObjData_Test_L1_SealedPoison_002_interact_desc", "source": "Approaching the poison with the Warding Feather...", "translation": "Zbliżanie się do trucizny z Ochronnym Piórem...", "status": "draft"}
+{"id": "EnvObjData_Test_N_Kisk_D_1_001_desc", "source": "Asmodian Kisk", "translation": "Kisk Asmodian", "status": "draft"}
+{"id": "EnvObjData_Test_N_Kisk_L_1_001_desc", "source": "Elyos Kisk", "translation": "Kisk Elyos", "status": "draft"}
+{"id": "EnvObjData_Test_Object_Terrain_Type_Air_001_desc", "source": "Midair EnvObj For Testing", "translation": "Midair EnvObj For Testing", "status": "technical"}
+{"id": "EnvObjData_Test_Object_Terrain_Type_Ground_001_desc", "source": "Ground EnvObj For Testing", "translation": "Ground EnvObj For Testing", "status": "technical"}
+{"id": "EnvObjData_Test_Object_Terrain_Type_Water_001_desc", "source": "Underwater EnvObj For Testing", "translation": "Underwater EnvObj For Testing", "status": "technical"}
+{"id": "EnvObjData_Test_Overlap_SpringboardJump_01_desc", "source": "Jump Platform", "translation": "Platforma do skakania", "status": "draft"}
+{"id": "EnvObjData_Test_Overlap_relationship_01_desc", "source": "Blood Orb - Asmodian", "translation": "Kula Krwi – Asmodian", "status": "draft"}
+{"id": "EnvObjData_Test_Overlap_relationship_02_desc", "source": "Blood Orb - Elyos", "translation": "Kula Krwi – Elyos", "status": "draft"}
+{"id": "EnvObjData_Test_P_Kisk_D_1_001_desc", "source": "Asmodian Party Kisk", "translation": "Kisk drużyny Asmodian", "status": "draft"}
+{"id": "EnvObjData_Test_P_Kisk_L_1_001_desc", "source": "Elyos Party Kisk", "translation": "Kisk drużyny Elyos", "status": "draft"}
+{"id": "EnvObjData_Test_Phase_01_desc", "source": "Interaction Phase Change", "translation": "Interaction Phase Change", "status": "technical"}
+{"id": "EnvObjData_Test_Phase_02_desc", "source": "Change hit Phase", "translation": "Change hit Phase", "status": "technical"}
+{"id": "EnvObjData_Test_Portal_Rift_Entrance_Common_001_desc", "source": "Spacetime Rift(Abyss-Inter-entrance)", "translation": "Szczelina czasoprzestrzenna (wejście międzyobszarowe Otchłani)", "status": "draft"}
+{"id": "EnvObjData_Test_Portal_Rift_Entrance_Dark_001_desc", "source": "Spacetime Rift (Asmodian Entrance)", "translation": "Szczelina czasoprzestrzenna (wejście Asmodian)", "status": "draft"}
+{"id": "EnvObjData_Test_Portal_Rift_Entrance_Light_001_desc", "source": "Spacetime Rift (Elyos Entrance)", "translation": "Szczelina czasoprzestrzenna (wejście Elyos)", "status": "draft"}
+{"id": "EnvObjData_Test_Prop_001_desc", "source": "Temporary Stone Wall", "translation": "Tymczasowy kamienny mur", "status": "draft"}
+{"id": "EnvObjData_Test_Prop_001_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloorWrong_01_desc", "source": "Floor Puzzle – Incorrect", "translation": "Zagadka podłogowa – błędna odpowiedź", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_01_V01_desc", "source": "Floor Puzzle - Blue_Keep", "translation": "Zagadka podłogowa – niebieska (zachowaj)", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Zagadka podłogowa – niebieska", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_02_V01_desc", "source": "Floor Puzzle - Red_Keep", "translation": "Zagadka podłogowa – czerwona (zachowaj)", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Zagadka podłogowa – czerwona", "status": "draft"}
+{"id": "EnvObjData_Test_Quest_dummy_5_001_desc", "source": "Shugo Luggage (Temporary)", "translation": "Bagaż Shugo (tymczasowy)", "status": "draft"}
+{"id": "EnvObjData_Test_Reward_Direct_Ownership_01_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
+{"id": "EnvObjData_Test_Reward_Direct_Ownership_02_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
+{"id": "EnvObjData_Test_RiftPortal_001_desc", "source": "[Test] Spacetime Rift", "translation": "[Test] Spacetime Rift", "status": "technical"}
+{"id": "EnvObjData_Test_RiftPortal_001_interact_desc", "source": "Traveling to Altgard...", "translation": "Podróż do Altgard...", "status": "draft"}
+{"id": "EnvObjData_Test_SocialAction_001_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_002_desc", "source": "Crowd NPC Occupation Test", "translation": "Crowd NPC Occupation Test", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_003_desc", "source": "Transparent Env(Crowd NPC Test)", "translation": "Transparent Env(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_02_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}

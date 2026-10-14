@@ -1,0 +1,250 @@
+{"id": "Message_MSG_FORCE_INVITE_UNABLE_body", "source": "Cannot send Force invitation now. Try again later.", "translation": "Nie można teraz wysłać zaproszenia do grupy rajdowej. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_FORCE_JOIN_FAIL_body", "source": "Cannot currently join this Force.", "translation": "Obecnie nie można dołączyć do tej grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_JOIN_TARGET_body", "source": "{0} joined the Force.", "translation": "Do grupy rajdowej dołącza {0}.", "status": "draft"}
+{"id": "Message_MSG_FORCE_JOIN_body", "source": "Joined Force.", "translation": "Dołączono do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_KICKOUT_TARGET_ERROR_body", "source": "Cannot kick this player.", "translation": "Nie można wyrzucić tego gracza.", "status": "draft"}
+{"id": "Message_MSG_FORCE_KICKOUT_TARGET_body", "source": "{0} was kicked from the Force.", "translation": "Wyrzucono {0} z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_KICKOUT_body", "source": "You were kicked from the Force.", "translation": "Wyrzucono cię z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEADER_ENTRUST_ERROR_body", "source": "Cannot reassign this player.", "translation": "Nie można wyznaczyć tego gracza ponownie.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEADER_ENTRUST_FAIL_BY_KICKOUT_VOTE_body", "source": "Cannot delegate kick votes.", "translation": "Nie można przekazać głosów dotyczących wyrzucenia.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEADER_ENTRUST_body", "source": "Force leadership transferred to {0}.", "translation": "Przekazano przywództwo grupy rajdowej graczowi {0}.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEAVE_BY_ABYSSRIFT_REBALANCING_body", "source": "Changed channel and left force for population balance.", "translation": "Zmieniono kanał i opuszczono grupę rajdową, aby wyrównać liczbę graczy.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEAVE_FAILED_body", "source": "Cannot leave Force in current state.", "translation": "W obecnym stanie nie można opuścić grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEAVE_TARGET_BY_ABYSSRIFT_REBALANCING_body", "source": "{0} changed channel and left force for population balance.", "translation": "Po zmianie kanału postać {0} opuściła grupę rajdową, aby wyrównać liczbę graczy.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEAVE_TARGET_body", "source": "{0} left Force.", "translation": "{0} opuszcza grupę rajdową.", "status": "draft"}
+{"id": "Message_MSG_FORCE_LEAVE_body", "source": "Left Force.", "translation": "Opuszczono grupę rajdową.", "status": "draft"}
+{"id": "Message_MSG_FORCE_NOT_FOUND_body", "source": "Cannot find a Force.", "translation": "Nie znaleziono grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_NOT_IN_FORCE_body", "source": "Not in Force.", "translation": "Nie należysz do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_NOT_LEADER_body", "source": "Force Leader only.", "translation": "Tylko dla lidera grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_NOT_PARTY_LEADER_body", "source": "Only party leader can convert to Force.", "translation": "Tylko lider drużyny może przekształcić ją w grupę rajdową.", "status": "draft"}
+{"id": "Message_MSG_FORCE_NO_MORE_INVITE_CHARACTER_body", "source": "{0} cannot receive Force invitations.", "translation": "{0} nie może otrzymywać zaproszeń do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_FORCE_PARTY_MEMBER_OVERFLOW_body", "source": "Target party is full.", "translation": "Drużyna docelowa jest pełna.", "status": "draft"}
+{"id": "Message_MSG_FORCE_PARTY_TO_FORCE_TRANSITION_body", "source": "Switched to Force.", "translation": "Przekształcono w grupę rajdową.", "status": "draft"}
+{"id": "Message_MSG_FORCE_READY_EXPIRED_body", "source": "Readiness confirmation timed out.", "translation": "Upłynął czas na potwierdzenie gotowości.", "status": "draft"}
+{"id": "Message_MSG_FORCE_RECRUITMENT_LINK_CREATED_FAIL_body", "source": "Failed to created Recruitment link.", "translation": "Nie udało się utworzyć odnośnika rekrutacyjnego.", "status": "draft"}
+{"id": "Message_MSG_FORCE_RECRUITMENT_NO_AUTHORITY_body", "source": "You do not have permission to share links.", "translation": "Nie masz uprawnień do udostępniania odnośników.", "status": "draft"}
+{"id": "Message_MSG_FORCE_RECRUITMENT_OFF_01_body", "source": "Shared Force Recruitment link has expired.", "translation": "Udostępniony odnośnik rekrutacyjny grupy rajdowej wygasł.", "status": "draft"}
+{"id": "Message_MSG_FORCE_RECRUITMENT_OFF_02_body", "source": "Cannot join due to recruitment expiring.", "translation": "Nie można dołączyć — rekrutacja wygasła.", "status": "draft"}
+{"id": "Message_MSG_FORCE_SET_VICE_LEADER_ALREADY_VICE_LEADER_body", "source": "Player is already a Vice Leader.", "translation": "Ten gracz jest już zastępcą lidera.", "status": "draft"}
+{"id": "Message_MSG_FORCE_SET_VICE_LEADER_MAX_VICE_LEADER_body", "source": "Reached limit of Vice Leaders that can be assigned.", "translation": "Osiągnięto limit zastępców lidera.", "status": "draft"}
+{"id": "Message_MSG_FORCE_SET_VICE_LEADER_NOT_VICE_LEADER_body", "source": "Only Vice Leaders can be demoted.", "translation": "Można zdegradować tylko zastępców lidera.", "status": "draft"}
+{"id": "Message_MSG_FORCE_SET_VICE_LEADER_TARGET_LEADER_body", "source": "Force Leader cannot be assigned as Vice Leader.", "translation": "Lidera grupy rajdowej nie można mianować zastępcą.", "status": "draft"}
+{"id": "Message_MSG_FORCE_SUCCESS_TO_REQUEST_INVITATION_body", "source": "Force invitation sent to {0}.", "translation": "Wysłano zaproszenie do grupy rajdowej do {0}.", "status": "draft"}
+{"id": "Message_MSG_FORCE_TARGETMARKER_AUTHORITY_ERROR_body", "source": "No permission to set Marks.", "translation": "Brak uprawnień do ustawiania znaczników.", "status": "draft"}
+{"id": "Message_MSG_FORCE_UPGRADE_VICELEADER_body", "source": "{0} was appointed as Vice Leader.", "translation": "Mianowano {0} zastępcą lidera.", "status": "draft"}
+{"id": "Message_MSG_FORCE_USE_SLOT_NO_MORE_body", "source": "Cannot use slots that already have pending invitations.", "translation": "Nie można użyć slotów z oczekującymi zaproszeniami.", "status": "draft"}
+{"id": "Message_MSG_FORCE_YOU_ARE_LEADER_body", "source": "Force Leader does not need to confirm readiness.", "translation": "Lider grupy rajdowej nie musi potwierdzać gotowości.", "status": "draft"}
+{"id": "Message_MSG_GATHER_CANNOT_ACQUIRE_MATERIAL_body", "source": "Insufficient Cube space to receive rewards.", "translation": "Za mało miejsca w ekwipunku, aby odebrać nagrody.", "status": "draft"}
+{"id": "Message_MSG_GATHER_FORCE_FAIL_body", "source": "Essence Extraction failed", "translation": "Pozyskiwanie esencji nie powiodło się.", "status": "draft"}
+{"id": "Message_MSG_GATHER_FORCE_INTERACT_COUNT_NOT_ENOUGH_body", "source": "Cannot extract any more essence from target.", "translation": "Nie można już pozyskiwać esencji z tego celu.", "status": "draft"}
+{"id": "Message_MSG_GATHER_MASTERY_ITEM_CANNOT_USE_body", "source": "Cannot use item due to insufficient Proficiency Level.", "translation": "Nie można użyć przedmiotu — poziom biegłości jest za niski.", "status": "draft"}
+{"id": "Message_MSG_GATHER_MASTERY_UP_body", "source": "{0} Proficiency Level has reached {1}.", "translation": "Poziom biegłości {0} osiągnął wartość {1}.", "status": "draft"}
+{"id": "Message_MSG_GATHER_NOT_ENOUGH_GATHERLEVEL_body", "source": "Insufficient Proficiency Level.", "translation": "Poziom biegłości jest za niski.", "status": "draft"}
+{"id": "Message_MSG_GATHER_NOT_ENOUGH_INVENTORY_SLOT_body", "source": "Insufficient Cube space.", "translation": "Za mało miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_GATHER_OD_INTERACT_COUNT_NOT_ENOUGH_body", "source": "Cannot extract any more Odyle from target.", "translation": "Nie można już pozyskiwać Odyle z tego celu.", "status": "draft"}
+{"id": "Message_MSG_GATHER_OD_NOT_FLIGHT_body", "source": "Odyle can only be extracted during flight.", "translation": "Odyle można pozyskiwać tylko w trakcie lotu.", "status": "draft"}
+{"id": "Message_MSG_GATHER_RESET_BUTTON_NO_SKILL_body", "source": "No skills acquired.", "translation": "Nie odblokowano żadnych umiejętności.", "status": "draft"}
+{"id": "Message_MSG_GATHER_RESTRICTED_DUE_TO_PENALTY_body", "source": "Essence Extraction has been restricted due to repetitive behavior.", "translation": "Pozyskiwanie esencji zostało ograniczone z powodu powtarzalnych działań.", "status": "draft"}
+{"id": "Message_MSG_GETDAEVANIONNODE_CANNOT_LEARN_BOARDOPEN_body", "source": "Board must be unlocked before acquiring selected Node.", "translation": "Aby odblokować wybrany węzeł, najpierw odblokuj planszę.", "status": "draft"}
+{"id": "Message_MSG_GETDAEVANIONNODE_CANNOT_LEARN_CONDITION_body", "source": "Failed to acquire Node due to unmet conditions.", "translation": "Nie udało się odblokować węzła — nie spełniono warunków.", "status": "draft"}
+{"id": "Message_MSG_GETDAEVANIONNODE_CANNOT_LEARN_LV_body", "source": "Insufficient Character Level to acquire Node.", "translation": "Poziom postaci jest za niski, aby odblokować węzeł.", "status": "draft"}
+{"id": "Message_MSG_GETDAEVANIONNODE_CANNOT_LEARN_POINT_body", "source": "Insufficient Daevanion Points to acquire Node.", "translation": "Za mało Punktów Daevanionu, aby odblokować węzeł.", "status": "draft"}
+{"id": "Message_MSG_GETDAEVANIONNODE_CANNOT_LEARN_PRENODE_body", "source": "Cannot acquire Node as no adjacent Nodes have been acquired.", "translation": "Nie można odblokować węzła — nie odblokowano żadnego sąsiedniego węzła.", "status": "draft"}
+{"id": "Message_MSG_GET_ABYSSPOINT_body", "source": "Acquired {0} Abyss Point(s).", "translation": "Zdobyto {0} pkt Otchłani.", "status": "draft"}
+{"id": "Message_MSG_GET_ABYSS_RANKINGPOINT_body", "source": "Acquired {0} Rank Point(s).", "translation": "Zdobyto {0} pkt rangi.", "status": "draft"}
+{"id": "Message_MSG_GET_ARCANA_REFUND_COUNT_body", "source": "Received {0} x{1} from excess enhancement EXP.", "translation": "Za nadmiarowe PD ulepszenia otrzymano {0} ×{1}.", "status": "draft"}
+{"id": "Message_MSG_GET_ARCANA_body", "source": "Obtained {0} x{1}.", "translation": "Zdobyto {0} ×{1}.", "status": "draft"}
+{"id": "Message_MSG_GET_DAEVANION_POINT_NOTICE_body", "source": "Received {1} {0} point(s).", "translation": "Otrzymano {1} pkt: {0}.", "status": "draft"}
+{"id": "Message_MSG_GET_EXP_body", "source": "Acquired {0} EXP.", "translation": "Zdobyto {0} PD.", "status": "draft"}
+{"id": "Message_MSG_GET_GODSTONE_body", "source": "{0} acquired.", "translation": "Zdobyto: {0}.", "status": "draft"}
+{"id": "Message_MSG_GET_KINA_body", "source": "Acquired {0} Kina (Bound).", "translation": "Zdobyto {0} Kiny (Przypisane).", "status": "draft"}
+{"id": "Message_MSG_GET_NONBINDINGKINA_body", "source": "Acquired {0} Kina.", "translation": "Zdobyto {0} Kiny.", "status": "draft"}
+{"id": "Message_MSG_GET_PART_OF_ACHIEVEMENT_REWARD_FULL_INVENTORY_body", "source": "Rewards were only partially collected due to insufficient Cube space.", "translation": "Odebrano tylko część nagród z powodu braku miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_GET_PART_OF_TITLE_REWARD_FULL_INVENTORY_body", "source": "Rewards were only partially collected due to insufficient Cube space.", "translation": "Odebrano tylko część nagród z powodu braku miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_GET_QUEST_REWARD_INVENTORYFULL_body", "source": "Unable to receive rewards because Cube is full.", "translation": "Nie można odebrać nagród, ponieważ ekwipunek jest pełny.", "status": "draft"}
+{"id": "Message_MSG_GET_ROUTE_AVAILABLE_CONTENTS_UNLOCK_body", "source": "Available after unlocking content.", "translation": "Dostępne po odblokowaniu zawartości.", "status": "draft"}
+{"id": "Message_MSG_GET_ROUTE_NOT_EXIST_body", "source": "No source information available.", "translation": "Brak informacji o źródle.", "status": "draft"}
+{"id": "Message_MSG_GET_ROUTE_NOT_USABLE_TIME_body", "source": "Event is not available.", "translation": "Wydarzenie jest niedostępne.", "status": "draft"}
+{"id": "Message_MSG_GET_ROUTE_NO_ACCESS_ZONE_body", "source": "Undiscovered Area", "translation": "Nieodkryty obszar", "status": "draft"}
+{"id": "Message_MSG_GET_SKILL_POINT_NOTICE_body", "source": "Acquired {0} Skill Point(s).", "translation": "Zdobyto {0} pkt umiejętności.", "status": "draft"}
+{"id": "Message_MSG_GET_TITLE_EXIST_body", "source": "Title already owned.", "translation": "Ten tytuł jest już odblokowany.", "status": "draft"}
+{"id": "Message_MSG_GET_TITLE_body", "source": "Title Acquired: {0}", "translation": "Zdobyto tytuł: {0}", "status": "draft"}
+{"id": "Message_MSG_GET_VEHICLE_BROADCASTING_body", "source": "{0} obtained the Pet {1}.", "translation": "Postać {0} zdobyła Wierzchowca {1}.", "status": "draft"}
+{"id": "Message_MSG_GET_VEHICLE_CREATURE_SOUL_POINT_body", "source": "Obtained {1} {0} Soul Crystals.", "translation": "Zdobyto {1} kryształów dusz: {0}.", "status": "draft"}
+{"id": "Message_MSG_GET_VEHICLE_SOUL_POINT_body", "source": "Obtained {1} {0} Soul Points.", "translation": "Zdobyto {1} punktów dusz: {0}.", "status": "draft"}
+{"id": "Message_MSG_GLIDE_NOT_ENOUGH_FP_body", "source": "Insufficient Flight Power.", "translation": "Za mało Siły Lotu.", "status": "draft"}
+{"id": "Message_MSG_GLIDE_NOT_FINISH_COOLTIME_body", "source": "Cannot reuse yet.", "translation": "Nie można jeszcze użyć ponownie.", "status": "draft"}
+{"id": "Message_MSG_GLOBAL_SERVICE_SERVER_REGION_NO_SELECTED_body", "source": "No server selected.", "translation": "Nie wybrano serwera.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_EQUIP_body", "source": "No items to bind Theostones.", "translation": "Brak przedmiotów do związania z Teost kamieniem.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MATERIAL_body", "source": "No Theostones to bind.", "translation": "Brak Teost kamieni do związania.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MONEY_body", "source": "Cannot bind Theostone due to insufficient Kina.", "translation": "Za mało Kiny, aby związać Teost kamień.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_COMBINE_ITEM_NOTENOUGH_body", "source": "Insufficient Theostones for combination.", "translation": "Za mało Teost kamieni do połączenia.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_COST_body", "source": "Insufficient funds for Theostone binding.", "translation": "Za mało środków na związanie Teost kamienia.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_CATEGORY_body", "source": "Item cannot be bound to selected Theostone.", "translation": "Nie można związać przedmiotu z wybranym Teost kamieniem.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_ENOUGH_body", "source": "Register item to bind with Theostone.", "translation": "Zarejestruj przedmiot, który chcesz związać z Teost kamieniem.", "status": "draft"}
+{"id": "Message_MSG_GROUND_SKILL_NOT_AVAILABLE_body", "source": "Invalid location.", "translation": "Nieprawidłowe miejsce.", "status": "draft"}
+{"id": "Message_MSG_GUILDCRAFT_ADD_RECIPE_body", "source": "Registered new Legion crafting recipe: [{0}]", "translation": "Zarejestrowano nowy przepis rzemieślniczy Legionu: [{0}]", "status": "draft"}
+{"id": "Message_MSG_GUILDCRAFT_FAIL_GUILDSTORAGE_FULL_body", "source": "Crafting is not available in the Abyss.", "translation": "W Otchłani nie można wytwarzać przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_GUILDCRAFT_FAIL_RECIPE_DELETE_USE_COUNT_body", "source": "{0} Legion crafting recipe removed due to craft amount being exhausted.", "translation": "Usunięto przepis rzemieślniczy Legionu {0} po wyczerpaniu limitu wytworzeń.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_ENTRUST_ITEMTYPE_body", "source": "Item cannot be stored in Legion Storage.", "translation": "Tego przedmiotu nie można przechowywać w magazynie Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_ENTRUST_ITEM_body", "source": "Item cannot be stored in Legion Storage.", "translation": "Tego przedmiotu nie można przechowywać w magazynie Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_NEED_AUTHORITY_body", "source": "No permission to use Legion Storage.", "translation": "Brak uprawnień do korzystania z magazynu Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_NEED_GUILD_JOIN_body", "source": "Legion Storage available only after joining Legion.", "translation": "Magazyn Legionu jest dostępny tylko dla jego członków.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_NOTENOUGHTAKEOUTITEM_body", "source": "Cannot find item stored in the Legion Storage. Please try again later.", "translation": "Nie znaleziono przedmiotu w magazynie Legionu. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_GUILDSTORAGE_FAIL_SERVERERROR_body", "source": "Legion Storage currently unavailable. Please try again later.", "translation": "Magazyn Legionu jest obecnie niedostępny. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_ALREADY_IN_AGIT_body", "source": "Already inside Hall.", "translation": "Już znajdujesz się w Sali.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_ENTER_NO_ITEM_body", "source": "Cannot enter without Hall Return Scroll.", "translation": "Nie można wejść bez Zwoju powrotu do Sali.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_ENTER_NO_RENT_body", "source": "Cannot enter due to no Hall being currently rented.", "translation": "Nie można wejść — Sala nie jest obecnie wynajęta.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_INVALID_INFO_body", "source": "Invalid Hall information.", "translation": "Nieprawidłowe informacje o Sali.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_NOTENOUGH_MONEY_body", "source": "Insufficient Kina to rent Hall.", "translation": "Za mało Kiny, aby wynająć Salę.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_NO_RENT_PANTHEON_body", "source": "Available after renting Hall.", "translation": "Dostępne po wynajęciu Sali.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_RENTAL_ADD_FAIL_DATE_body", "source": "Rental extension available when the remaining rental time is {0}d or less.", "translation": "Wynajem można przedłużyć, gdy pozostało nie więcej niż {0} dni.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_RENTAL_END_KICK_body", "source": "The Hall rental time will expire in {0}min(s). Once expired, everyone inside will be forced out.", "translation": "Wynajem Sali wygaśnie za {0} min. Po tym czasie wszystkie osoby w środku zostaną wyrzucone.", "status": "draft"}
+{"id": "Message_MSG_GUILD_AGIT_RENTAL_FAIL_AUTHORITY_body", "source": "Do not have permission to rent a Hall.", "translation": "Brak uprawnień do wynajęcia Sali.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ALLIANCE_REQUEST_RECEIVED_body", "source": "New Alliance request(s) received.", "translation": "Otrzymano nowe prośby o zawarcie Sojuszu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ALLIANCE_TERMINATION_NOTICE_body", "source": "Alliance terminated.", "translation": "Sojusz został rozwiązany.", "status": "draft"}
+{"id": "Message_MSG_GUILD_APPLY_CANCEL_OTHER_body", "source": "{0} canceled their application.", "translation": "Postać {0} wycofała swoje zgłoszenie.", "status": "draft"}
+{"id": "Message_MSG_GUILD_APPLY_CANCEL_body", "source": "Canceled your application to join {0}.", "translation": "Wycofano zgłoszenie dołączenia do {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_APPLY_OTHER_body", "source": "{0} applied to join the Legion.", "translation": "{0} zgłasza się do Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_APPLY_body", "source": "Applied to join {0}.", "translation": "Wysłano zgłoszenie dołączenia do {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CANCELED_JOIN_MEMBER_body", "source": "Join request canceled.", "translation": "Anulowano prośbę o dołączenie.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CANNOT_INPUT_TEXT_OTHER_SERVER_body", "source": "Input unavailable on the current server.", "translation": "Wprowadzanie danych jest niedostępne na tym serwerze.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CANNOT_USE_OTHER_SERVER_body", "source": "Feature unavailable on current server.", "translation": "Ta funkcja jest niedostępna na bieżącym serwerze.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CRAFT_FAIL_NEED_GUILD_JOIN_body", "source": "Available after joining Legion.", "translation": "Dostępne po dołączeniu do Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CRAFT_FAIL_NEED_GUILD_LEVEL_body", "source": "Insufficient Legion level to use.", "translation": "Poziom Legionu jest za niski, aby z tego skorzystać.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CRAFT_FAIL_RECIPE_ALREADY_REGISTERED_body", "source": "Design already registered.", "translation": "Projekt został już zarejestrowany.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CREATE_FAIL_NAME_body", "source": "Must enter a Legion name first.", "translation": "Najpierw wpisz nazwę Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_CREATE_NOTENOUGH_MONEY_body", "source": "Insufficient Kina to form a Legion.", "translation": "Za mało Kiny, aby założyć Legion.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_DECORATE_SUCCESS_body", "source": "{0} is now displayed.", "translation": "Wyświetlono: {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_FAIL_INVALID_ITEM_body", "source": "Decoration not found.", "translation": "Nie znaleziono ozdoby.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_FAIL_REGISTER_AUTHORITY_body", "source": "No permission to register decoration.", "translation": "Brak uprawnień do rejestrowania ozdób.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_FAIL_SET_INVALID_ITEM_body", "source": "No decorations placed.", "translation": "Nie umieszczono ozdób.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_FAIL_UNLOCK_AUTHORITY_body", "source": "No permission to remove decoration.", "translation": "Brak uprawnień do usuwania ozdób.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DECO_REMOVE_SUCCESS_body", "source": "{0} has been removed.", "translation": "Usunięto: {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DISBANDED_body", "source": "Legion disbanded.", "translation": "Rozwiązano Legion.", "status": "draft"}
+{"id": "Message_MSG_GUILD_DISBAND_FAILED_body", "source": "Failed to disband Legion.", "translation": "Nie udało się rozwiązać Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_EMBLEM_CHANGED_body", "source": "Legion Crest changed.", "translation": "Zmieniono herb Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISHED_body", "source": "Legion formed.", "translation": "Utworzono Legion.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_BY_EXIST_NAME_body", "source": "This Legion name already exists.", "translation": "Nazwa tego Legionu jest już zajęta.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_BY_GOLD_body", "source": "Insufficient funds.", "translation": "Za mało środków.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_BY_LEVEL_body", "source": "You must be Lv. {0} or above to form a Legion.", "translation": "Aby założyć Legion, musisz mieć co najmniej poziom {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_NAME_COUNT_body", "source": "Legion names can only be 1 to 12 characters.", "translation": "Nazwa Legionu musi mieć od 1 do 12 znaków.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_NAME_EXISTS_body", "source": "This name is already in use.", "translation": "Ta nazwa jest już zajęta.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_NAME_FORBIDDENWORD_body", "source": "Legion name contains a prohibited word.", "translation": "Nazwa Legionu zawiera zabronione słowo.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_NAME_INVALID_LAN_body", "source": "Legion name contains a prohibited character.", "translation": "Nazwa Legionu zawiera zabroniony znak.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_NAME_SPECIALCHARACTER_body", "source": "Legion names cannot include spaces or special characters.", "translation": "Nazwa Legionu nie może zawierać spacji ani znaków specjalnych.", "status": "draft"}
+{"id": "Message_MSG_GUILD_ESTABLISH_FAILED_body", "source": "Failed to form Legion.", "translation": "Nie udało się założyć Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_INTRO_MESSAGE_CHANGED_body", "source": "Legion description changed.", "translation": "Zmieniono opis Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_INVALID_PASSWORD_body", "source": "Restricted from joining for 1 minute due to incorrect password entry.", "translation": "Po wpisaniu nieprawidłowego hasła możliwość dołączenia zostanie zablokowana na 1 minutę.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOINED_FAILD_TARGET_body", "source": "No Membership Application to approve.", "translation": "Brak zgłoszeń członkowskich do zatwierdzenia.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOINSET_CHANGE_SUCCESS_body", "source": "Application Settings have been changed to {0}.", "translation": "Zmieniono ustawienia zgłoszeń na {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOINSET_FAIL_PASSWORD_body", "source": "Please enter a password.", "translation": "Wpisz hasło.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOIN_FAILED_NOT_ENOUGH_LEVEL_body", "source": "You must be Lv. {0} or above to join a Legion.", "translation": "Aby dołączyć do Legionu, musisz mieć co najmniej poziom {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOIN_FAILED_TIME_LIMIT_body", "source": "You cannot join or form a Legion within 24 hours of leaving or being kicked from a Legion.", "translation": "Nie można dołączyć do Legionu ani go założyć przez 24 godziny od opuszczenia lub wyrzucenia z Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOIN_FAILED_body", "source": "Failed to join Legion.", "translation": "Nie udało się dołączyć do Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_JOIN_REQUEST_NUM_EXCEEDED_body", "source": "You can apply to join up to {0} Legions at once.", "translation": "Możesz jednocześnie zgłosić chęć dołączenia do maksymalnie {0} Legionów.", "status": "draft"}
+{"id": "Message_MSG_GUILD_KICKOUT_MEMBER_body", "source": "{0} has been kicked from the Legion.", "translation": "Wyrzucono {0} z Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_KICKOUT_body", "source": "You have been kicked from the Legion.", "translation": "Wyrzucono cię z Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_LEAVE_FAILED_body", "source": "Failed to leave Legion.", "translation": "Nie udało się opuścić Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_LEAVE_body", "source": "Left Legion.", "translation": "Opuszczono Legion.", "status": "draft"}
+{"id": "Message_MSG_GUILD_MEMBER_FULL_body", "source": "Cannot invite because Legion is full.", "translation": "Nie można zaprosić — Legion jest pełny.", "status": "draft"}
+{"id": "Message_MSG_GUILD_MEMBER_JOINED_body", "source": "{0} joined the Legion.", "translation": "Do Legionu dołącza {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_MEMBER_LOGIN_body", "source": "Legion Member {0} has logged in.", "translation": "Członek Legionu {0} zalogował się.", "status": "draft"}
+{"id": "Message_MSG_GUILD_NOTICE_CHANGED_body", "source": "Legion announcement changed.", "translation": "Zmieniono ogłoszenie Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_CHANGE_SUCCESS_body", "source": "{0} has been replaced in the Display.", "translation": "Zastąpiono {0} na ekspozycji.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_REMOVED_FAIL_body", "source": "Select the Display with the Decoration first.", "translation": "Najpierw wybierz ekspozycję z ozdobą.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_REMOVED_body", "source": "{0} has been removed.", "translation": "Usunięto: {0}.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_SET_CANCEL_body", "source": "Canceled placement of Decoration.", "translation": "Anulowano umieszczanie ozdoby.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_SET_FAIL_NOTHAVE_body", "source": "Cannot place unowned Decorations.", "translation": "Nie można umieszczać nieposiadanych ozdób.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_SET_FAIL_SLOT_body", "source": "Cannot register selected Decoration inside the Display.", "translation": "Nie można zarejestrować wybranej ozdoby na ekspozycji.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_SET_FAIL_body", "source": "Select the Decoration to be placed first.", "translation": "Najpierw wybierz ozdobę do umieszczenia.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_DECO_SET_SUCCESS_body", "source": "{0} has been placed in the Display.", "translation": "Umieszczono {0} na ekspozycji.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PANTHEON_FAIL_EFFECT_RESET_body", "source": "No effects selected.", "translation": "Nie wybrano efektów.", "status": "draft"}
+{"id": "Message_MSG_GUILD_PASSWORD_FAIL_INVALID_body", "source": "Password must be at most 6 characters and contain letters and numbers.", "translation": "Hasło może mieć maksymalnie 6 znaków i musi zawierać litery oraz cyfry.", "status": "draft"}
+{"id": "Message_MSG_GUILD_RECEIVED_NUM_EXCEEDED_body", "source": "The Legion cannot receive more join requests.", "translation": "Legion nie może otrzymywać kolejnych zgłoszeń dołączenia.", "status": "draft"}
+{"id": "Message_MSG_GUILD_SELF_JOIN_body", "source": "Joined Legion.", "translation": "Dołączono do Legionu.", "status": "draft"}
+{"id": "Message_MSG_GUILD_SET_FAIL_MANY_REQUESTS_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_GUILD_SIGNUP_REJECTION_body", "source": "Request to join the {0} Legion has been rejected so the request has been canceled.", "translation": "Odrzucono zgłoszenie do Legionu {0} i anulowano prośbę.", "status": "draft"}
+{"id": "Message_MSG_HERO_QUEST_PART_NOT_OPENED_body", "source": "This has not been unlocked yet.", "translation": "Nie odblokowano jeszcze tej funkcji.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_MODE_EXITED_body", "source": "HUD Edit Mode closed.", "translation": "Zamknięto tryb edycji HUD-u.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_M_MOVE_FAIL_body", "source": "This UI cannot be moved.", "translation": "Tego elementu interfejsu nie można przesuwać.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_M_SCALE_FAIL_body", "source": "This UI cannot be resized.", "translation": "Nie można zmieniać rozmiaru tego elementu interfejsu.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_NOTHING_TO_REDO_body", "source": "No changes to redo.", "translation": "Brak zmian do ponowienia.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_NOTHING_TO_UNDO_body", "source": "No changes to undo.", "translation": "Brak zmian do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_NO_CHANGES_TO_SAVE_body", "source": "No changes to be saved.", "translation": "Brak zmian do zapisania.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_EXPORT_CODE_COPY_COMPLETE_body", "source": "Preset code copied to clipboard.", "translation": "Skopiowano kod ustawień do schowka.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_EXPORT_COMPLETE_body", "source": "The file was saved to {0}.", "translation": "Plik zapisano w: {0}.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_EXPORT_FAIL_02_body", "source": "Failed to save file. Please check the file name.", "translation": "Nie udało się zapisać pliku. Sprawdź jego nazwę.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_EXPORT_FAIL_body", "source": "Continue after saving current placement changes.", "translation": "Zapisz bieżące zmiany rozmieszczenia, aby kontynuować.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_IMPORT_ERROR_CORRUPTED_DATA_body", "source": "Could not import Preset data.", "translation": "Nie udało się zaimportować danych zestawu.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_IMPORT_ERROR_EMPTY_DATA_body", "source": "No UI information available.", "translation": "Brak informacji o interfejsie.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_IMPORT_ERROR_INVALID_FILE_FORMAT_body", "source": "Unsupported file format.", "translation": "Nieobsługiwany format pliku.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PRESET_NAME_SAVE_ERROR_body", "source": "Special characters cannot be used. Please try again.", "translation": "Nie można używać znaków specjalnych. Spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_PREVIEW_DISABLED_BUTTON_MSG_body", "source": "Viewing preview. Continue after exiting preview.", "translation": "Trwa podgląd. Wyjdź z niego, aby kontynuować.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_REDO_FAIL_body", "source": "Unable to redo while moving or editing. Please finish editing and try again.", "translation": "Nie można ponowić zmian podczas przesuwania lub edycji. Zakończ edycję i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_SAVE_COMPLETE_body", "source": "Saved as current state.", "translation": "Zapisano bieżący stan.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_SAVE_FAIL_body", "source": "Unable to save while moving or editing. Please finish editing and try again.", "translation": "Nie można zapisać podczas przesuwania lub edycji. Zakończ edycję i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_HUD_EDIT_UNDO_FAIL_body", "source": "Unable to undo while moving or editing. Please finish editing and try again.", "translation": "Nie można cofnąć zmian podczas przesuwania lub edycji. Zakończ edycję i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_HUD_FORCE_NOT_EXIST_body", "source": "Must be in Force to use.", "translation": "Aby tego użyć, musisz należeć do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_HUD_MEXCEEDED_EARNING_LIMIT_KINA_body", "source": "Obtainable Kina amount has been exceeded.", "translation": "Przekroczono maksymalną ilość Kiny do zdobycia.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_AUTOCHANGE_OFF_CLICK_body", "source": "Auto-replace Potions deactivated.", "translation": "Wyłączono automatyczną podmianę mikstur.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_AUTOCHANGE_OFF_body", "source": "Auto-use Potions available once enabled.", "translation": "Włącz automatyczne używanie mikstur, aby móc z nich korzystać.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_AUTOCHANGE_ON_CLICK_body", "source": "Auto-replace Potions activated.", "translation": "Włączono automatyczną podmianę mikstur.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_CONDITION_HP_OFF_body", "source": "Auto-use Potions available once enabled.", "translation": "Włącz automatyczne używanie mikstur, aby móc z nich korzystać.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_OFF_body", "source": "Auto-use Potions deactivated.", "translation": "Wyłączono automatyczne używanie mikstur.", "status": "draft"}
+{"id": "Message_MSG_HUD_POTION_AUTOUSE_ON_body", "source": "Auto-use Potions activated.", "translation": "Włączono automatyczne używanie mikstur.", "status": "draft"}
+{"id": "Message_MSG_HUD_SCANLIST_CANNOT_CLOSE_NOT_AUTOSCAN_OFF_body", "source": "Cannot close the scan list because Auto-scan is set.", "translation": "Nie można zamknąć listy skanowania, gdy aktywne jest automatyczne skanowanie.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_AUTOSET_BUTTON_DISABLED_NOT_DEFAULT_body", "source": "No Auto-bind settings have been changed.", "translation": "Nie zmieniono ustawień automatycznego wiązania.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_AUTOSET_BUTTON_DISABLED_NOT_MONEY_body", "source": "Cannot auto-bind due to insufficient Kina.", "translation": "Za mało Kiny, aby automatycznie wiązać.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_AUTOSET_BUTTON_DISABLED_NOT_OPTION_body", "source": "Auto-bind settings incomplete.", "translation": "Ustawienia automatycznego wiązania są niekompletne.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_AUTOSET_CHECKBOX_DISABLED_NOT_OPTION_body", "source": "Cannot select this grade with current Manastone.", "translation": "Przy użyciu bieżącego Kamienia Many nie można wybrać tej rangi.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_BUTTON_DISABLED_NOT_EQUIP_body", "source": "No items to bind.", "translation": "Brak przedmiotów do związania.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_BUTTON_DISABLED_NOT_MATERIAL_body", "source": "Manastone must be registered to slot.", "translation": "Umieść Kamień Many w slocie.", "status": "draft"}
+{"id": "Message_MSG_IMPRINT_BUTTON_DISABLED_NOT_MONEY_body", "source": "Cannot bind due to insufficient Kina.", "translation": "Za mało Kiny, aby związać.", "status": "draft"}
+{"id": "Message_MSG_INDICATOR_TELEPORT_NOT_ENOUGH_COST_body", "source": "Cannot teleport due to insufficient Kina.", "translation": "Za mało Kiny, aby się teleportować.", "status": "draft"}
+{"id": "Message_MSG_INSTANCEDUNGEON_COMPLETE_body", "source": "Phase Dungeon Complete.", "translation": "Ukończono Loch Etapowy.", "status": "draft"}
+{"id": "Message_MSG_INVALID_ITEM_body", "source": "Invalid item.", "translation": "Nieprawidłowy przedmiot.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_CANNOTBE_STORAGE_TEMPCUBE_body", "source": "Cannot keep items stored in Temporary Cube in Storage.", "translation": "Nie można przenieść przedmiotów z tymczasowego ekwipunku do magazynu.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_EXTEND_FAIL_body", "source": "Failed to expand Cube.", "translation": "Nie udało się powiększyć ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_EXTEND_SUCCESS_body", "source": "Cube expanded.", "translation": "Powiększono ekwipunek.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_ITEMDELETE_SUCCESS_body", "source": "Item deleted.", "translation": "Usunięto przedmiot.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_ITEMMOVE_FAIL_body", "source": "Failed to move item.", "translation": "Nie udało się przenieść przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_ITEM_REMOVE_FAIL_body", "source": "Failed to delete item.", "translation": "Nie udało się usunąć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_INVENTORY_SORT_FAIL_body", "source": "Failed to sort.", "translation": "Nie udało się posortować.", "status": "draft"}
+{"id": "Message_MSG_INVEONTORY_EXTEND_FAIL_OVERMAXEXTENDCOUNT_body", "source": "Cube is at maximum expansion.", "translation": "Ekwipunek jest już maksymalnie powiększony.", "status": "draft"}
+{"id": "Message_MSG_ITEM_CASTING_CANCELED_body", "source": "Item use canceled.", "translation": "Anulowano użycie przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_CASTING_INTERRUPTED_body", "source": "Item use interrupted.", "translation": "Przerwano używanie przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_COMMON_EXPIRED_PERIOD_ITEM_body", "source": "Expired item.", "translation": "Przedmiot wygasł.", "status": "draft"}
+{"id": "Message_MSG_ITEM_COMMON_INVALID_PACKET_body", "source": "Invalid item packet.", "translation": "Nieprawidłowy pakiet przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_COMMON_LOCKED_ITEM_body", "source": "Locked item.", "translation": "Przedmiot jest zablokowany.", "status": "draft"}
+{"id": "Message_MSG_ITEM_COMMON_NOT_ENOUGH_COUNT_ITEM_body", "source": "Insufficient item quantity.", "translation": "Za mało przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_ITEM_COMMON_TOO_MANY_REQUESTS_body", "source": "Too many requests have been sent.", "translation": "Wysłano zbyt wiele żądań.", "status": "draft"}
+{"id": "Message_MSG_ITEM_DELETE_BY_TIME_LIMIT_body", "source": "{0} expired and was deleted.", "translation": "Wygasł przedmiot {0} i został usunięty.", "status": "draft"}
+{"id": "Message_MSG_ITEM_DELETE_EFFECT_BY_TIME_LIMIT_body", "source": "{0} expired and no longer has effect.", "translation": "Efekt przedmiotu {0} wygasł.", "status": "draft"}
+{"id": "Message_MSG_ITEM_FAILED_IMPOSSIBLE_CONDITION_PET_LOOTING_body", "source": "Cannot obtain item.", "translation": "Nie można zdobyć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_FAILED_IMPOSSIBLE_CONDITION_body", "source": "Cannot obtain item.", "translation": "Nie można zdobyć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_FAILED_NOT_FLY_PET_LOOTING_body", "source": "Can be obtained while flying.", "translation": "Można zdobyć w trakcie lotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_FAILED_NOT_FLY_body", "source": "Can be obtained while flying.", "translation": "Można zdobyć w trakcie lotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_GETROUTE_CANNOT_USE_CONTENTS_UNLOCK_body", "source": "Available after unlocking content.", "translation": "Dostępne po odblokowaniu zawartości.", "status": "draft"}
+{"id": "Message_MSG_ITEM_GETROUTE_QUEST_JOURNAL_POPUP_FAIL_body", "source": "Available after acquiring quest.", "translation": "Dostępne po przyjęciu zadania.", "status": "draft"}
+{"id": "Message_MSG_ITEM_GETROUTE_WROLDMAP_POPUP_FAIL_body", "source": "No information on possible locations to move.", "translation": "Brak informacji o możliwych miejscach przemieszczenia.", "status": "draft"}
+{"id": "Message_MSG_ITEM_LIMIT_REMAIN_TIME_body", "source": "Some items will expire soon. Please check Cube or Storage contents.", "translation": "Ważność niektórych przedmiotów wkrótce upłynie. Sprawdź ekwipunek lub magazyn.", "status": "draft"}
+{"id": "Message_MSG_ITEM_LOCKED_CANNOT_AUTOUSE_body", "source": "Auto-use enabled for locked item.", "translation": "Włączono automatyczne używanie zablokowanego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_LOCKED_CANNOT_SOULBIND_body", "source": "Item requires Soul Binding. Please unlock and try again.", "translation": "Przedmiot wymaga związania duszy. Odblokuj go i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_ITEM_LOCKED_body", "source": "Item is locked.", "translation": "Przedmiot jest zablokowany.", "status": "draft"}
+{"id": "Message_MSG_ITEM_NOT_ENOUGH_COUNT_body", "source": "Insufficient item quantity.", "translation": "Za mało przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_ITEM_NOT_ENOUGH_EQUIP_SLOT_body", "source": "Insufficient equipment slots.", "translation": "Za mało slotów wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_ITEM_NOT_EQUIPABLE_CHARACTER_body", "source": "This character cannot equip this.", "translation": "Ta postać nie może założyć tego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_CHECK_FAILED_body", "source": "Unable to retrieve item information.", "translation": "Nie można pobrać informacji o przedmiocie.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_COMPLETED_body", "source": "Recovery for {0} x{1} requested.", "translation": "Wysłano prośbę o odzyskanie {0} ×{1}.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_CONFIRM_NOT_AGREE_body", "source": "Recovery is unavailable without agreeing to the recovery policy.", "translation": "Odzyskiwanie jest niedostępne bez zaakceptowania zasad odzyskiwania.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_CONTAIN_UNRECOVERABLE_ITEM_body", "source": "Includes restricted items.", "translation": "Zawiera zablokowane przedmioty.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_FAILED_INTERNAL_ERROR_body", "source": "Cannot recover item due to an unexpected error.", "translation": "Nie można odzyskać przedmiotu z powodu nieoczekiwanego błędu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_FAILED_MANY_REQUEST_body", "source": "Cannot recover item.", "translation": "Nie można odzyskać przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_FAILED_body", "source": "Item recovery failed.", "translation": "Odzyskiwanie przedmiotu nie powiodło się.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_INVALID_DATA_body", "source": "Invalid item information.", "translation": "Nieprawidłowe informacje o przedmiocie.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_NOT_AVAILABLE_body", "source": "Item recovery has been temporarily restricted.", "translation": "Odzyskiwanie przedmiotu zostało tymczasowo ograniczone.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_NOT_ENOUGH_COST_body", "source": "Insufficient items or funds for recovery.", "translation": "Za mało przedmiotów lub waluty, aby odzyskać przedmiot.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_NOT_ENOUGH_CURRENCY_body", "source": "Insufficient currency for recovery ({0}).", "translation": "Za mało waluty do odzyskania ({0}).", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_NOT_EXIST_COUNT_body", "source": "Insufficient recovery request count.", "translation": "Wykorzystano limit próśb o odzyskanie.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_NOT_EXIST_ITEM_body", "source": "Item required for recovery does not exist.", "translation": "Nie istnieje przedmiot wymagany do odzyskania.", "status": "draft"}

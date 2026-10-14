@@ -1,0 +1,250 @@
+{"id":"SkillAbnormalString_SkillAbnormalString_9610_desc_summary","source":"For testing ConvertDamageToHpHeal_range+BlockJump+Physic+Fire","translation":"Test: ConvertDamageToHpHeal — warunek: zasięg + BlockJump + fizyczne + ogień","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9611_desc_name","source":"For testing ConvertDamageToHpHeal_range+BlockGlide+Magic+Water","translation":"Test: ConvertDamageToHpHeal — warunek: zasięg + BlockGlide + magiczne + woda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9611_desc_summary","source":"For testing ConvertDamageToHpHeal_range+BlockGlide+Magic+Water","translation":"Test: ConvertDamageToHpHeal — warunek: zasięg + BlockGlide + magiczne + woda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9612_desc_name","source":"For testing ConvertDamageToHpHeal_BlockJump","translation":"Test: ConvertDamageToHpHeal — BlockJump","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9612_desc_summary","source":"For testing ConvertDamageToHpHeal_BlockJump","translation":"Test: ConvertDamageToHpHeal — BlockJump","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9613_desc_name","source":"For testing ConvertDamageToHpHeal_BlockGlide","translation":"Test: ConvertDamageToHpHeal — BlockGlide","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9613_desc_summary","source":"For testing ConvertDamageToHpHeal_BlockGlide","translation":"Test: ConvertDamageToHpHeal — BlockGlide","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9614_desc_effect","source":"For Testing NPC_Interaction","translation":"Test: interakcja z NPC","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9614_desc_name","source":"For Testing NPC_Interaction","translation":"Test: interakcja z NPC","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9614_desc_summary","source":"For Testing NPC_Interaction","translation":"Test: interakcja z NPC","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9615_desc_effect","source":"Odyle Drop's Mystical Aura","translation":"Mistyczna aura Odyle Drop","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9615_desc_name","source":"Festival Benediction","translation":"Błogosławieństwo festiwalu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9615_desc_summary","source":"Invincible and reduces Flight Power Cost","translation":"Zapewnia niewrażliwość i zmniejsza koszt mocy lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9616_desc_effect","source":"Adjusts Move Speed and Flight Speed of all participants to be the same during the event.\nLimits use of certain skills and items for a fair competition.\nMove Speed bonus from owning pets are applied.","translation":"Na czas wydarzenia ujednolica szybkość ruchu i lotu wszystkich uczestników.\nOgranicza używanie niektórych umiejętności i przedmiotów, aby zapewnić uczciwą rywalizację.\nUwzględnia premię do szybkości ruchu zapewnianą przez posiadane wierzchowce.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9616_desc_name","source":"Fair Competition","translation":"Uczciwa rywalizacja","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9616_desc_summary","source":"Fair Competition","translation":"Uczciwa rywalizacja","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9619_desc_effect","source":"Reduces Flight Power Cost by 50%\nApplied while flying in Lower Abyss Reshanta","translation":"Zmniejsza koszt mocy lotu o 50%\nDziała podczas lotu w dolnej części Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9619_desc_name","source":"Lower Abyss Reshanta","translation":"Dolna część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9619_desc_summary","source":"Reduces Flight Power Cost","translation":"Zmniejsza koszt mocy lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9622_desc_effect","source":"Test_SkillStart_None_3","translation":"Test: SkillStart_None_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9622_desc_name","source":"Test_SkillStart_None_3","translation":"Test: SkillStart_None_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9622_desc_summary","source":"Test_SkillStart_None_3","translation":"Test: SkillStart_None_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9623_desc_effect","source":"Test_SkillStart_None_1_Positive","translation":"Test: SkillStart_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9623_desc_name","source":"Test_SkillStart_None_1_Positive","translation":"Test: SkillStart_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9623_desc_summary","source":"Test_SkillStart_None_1_Positive","translation":"Test: SkillStart_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9624_desc_effect","source":"Test_SkillStart_None_1_Item","translation":"Test: SkillStart_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9624_desc_name","source":"Test_SkillStart_None_1_Item","translation":"Test: SkillStart_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9624_desc_summary","source":"Test_SkillStart_None_1_Item","translation":"Test: SkillStart_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9625_desc_effect","source":"Test_SkillUse_55100,55200,55300_3","translation":"Test: SkillUse_55100,55200,55300_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9625_desc_name","source":"Test_SkillUse_55100,55200,55300_3","translation":"Test: SkillUse_55100,55200,55300_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9625_desc_summary","source":"Test_SkillUse_55100,55200,55300_3","translation":"Test: SkillUse_55100,55200,55300_3","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9626_desc_effect","source":"Test_SkillUse_None_1","translation":"Test: SkillUse_None_1","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9626_desc_name","source":"Test_SkillUse_None_1","translation":"Test: SkillUse_None_1","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9626_desc_summary","source":"Test_SkillUse_None_1","translation":"Test: SkillUse_None_1","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9627_desc_effect","source":"Test_SkillUse_None_1_Positive","translation":"Test: SkillUse_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9627_desc_name","source":"Test_SkillUse_None_1_Positive","translation":"Test: SkillUse_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9627_desc_summary","source":"Test_SkillUse_None_1_Positive","translation":"Test: SkillUse_None_1_Positive","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9628_desc_effect","source":"Test_SkillUse_None_1_Item","translation":"Test: SkillUse_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9628_desc_name","source":"Test_SkillUse_None_1_Item","translation":"Test: SkillUse_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9628_desc_summary","source":"Test_SkillUse_None_1_Item","translation":"Test: SkillUse_None_1_Item","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9632_desc_effect","source":"Test_KillZone","translation":"Test: strefa zabójcza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9632_desc_name","source":"Test_KillZone","translation":"Test: strefa zabójcza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9632_desc_summary","source":"Test_KillZone","translation":"Test: strefa zabójcza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9635_desc_effect","source":"Test _BeamPierce","translation":"Test: _BeamPierce","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9635_desc_name","source":"Test _BeamPierce","translation":"Test: _BeamPierce","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9635_desc_summary","source":"Test _BeamPierce","translation":"Test: _BeamPierce","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9636_desc_effect","source":"Allows for endless flight in order to search for treasure.\nImmediately restores 100% Flight Power when out of flight.","translation":"Umożliwia nieograniczony lot w poszukiwaniu skarbów.\nPo zakończeniu lotu natychmiast przywraca 100% mocy lotu.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9636_desc_name","source":"Endless Flight","translation":"Niekończący się lot","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9636_desc_summary","source":"Endless Flight","translation":"Niekończący się lot","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9639_desc_effect","source":"+50% Flight Power Cost\nApplied while flying in Middle Abyss Reshanta","translation":"+50% do kosztu mocy lotu\nDziała podczas lotu w środkowej części Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9639_desc_name","source":"Middle Abyss Reshanta","translation":"Środkowa część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9639_desc_summary","source":"Increases Flight Power Cost","translation":"Zwiększa koszt mocy lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9642_desc_effect","source":"+40% Kina gain\n+70% Abyss Point gain","translation":"+40% zdobywanej Kina\n+70% zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9642_desc_name","source":"Middle Abyss Reshanta","translation":"Środkowa część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9642_desc_summary","source":"Increases Kina and Abyss Points gained","translation":"Zwiększa ilość zdobywanej Kina i punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9643_desc_effect","source":"+30% Abyss Point gain","translation":"+30% zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9643_desc_name","source":"Lower Abyss Reshanta","translation":"Dolna część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9643_desc_summary","source":"Increases Kina and Abyss Points gained","translation":"Zwiększa ilość zdobywanej Kina i punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9644_desc_effect","source":"+30% Abyss Point gain","translation":"+30% zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9644_desc_name","source":"Abyss Corridor","translation":"Korytarz Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9644_desc_summary","source":"Increases Abyss Points gained","translation":"Zwiększa ilość zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9645_desc_effect","source":"-30% Abyss Point gain","translation":"-30% zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9645_desc_name","source":"Abyss Corridor","translation":"Korytarz Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9645_desc_summary","source":"Reduces Abyss Points gained","translation":"Zmniejsza ilość zdobywanych punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9646_desc_effect","source":"-20% Incoming Heal and HP Potion Recovery","translation":"-20% otrzymywanego leczenia i skuteczności mikstur PŻ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9646_desc_name","source":"Healing Reduction","translation":"Ograniczenie leczenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9646_desc_summary","source":"Reduces Incoming Heal and HP Potion Recovery","translation":"Zmniejsza otrzymywane leczenie i skuteczność mikstur PŻ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9695_desc_effect","source":"Reduces Flight Power Cost by 70%%\nApplied while flying in Abyss Rift Zone","translation":"Zmniejsza koszt mocy lotu o 70%%\nDziała podczas lotu w strefie szczeliny Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9695_desc_name","source":"Rift Updraft","translation":"Prąd wznoszący przy szczelinie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9695_desc_summary","source":"Reduces Flight Power Cost","translation":"Zmniejsza koszt mocy lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9696_desc_effect","source":"Reduces Flight Power Cost by 70%\nApplied while flying in Upper Abyss Reshanta","translation":"Zmniejsza koszt mocy lotu o 70%\nDziała podczas lotu w górnej części Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9696_desc_name","source":"Upper Abyss Reshanta","translation":"Górna część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9696_desc_summary","source":"Reduces Flight Power Cost","translation":"Zmniejsza koszt mocy lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9701_desc_effect","source":"Passive Manastone Daevanion Level 15","translation":"Pasywny efekt: kamień many Daevanion, poziom 15","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9701_desc_name","source":"Manastone_Daevanion_Level 15","translation":"Kamień many_Daevanion_poziom 15","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9701_desc_summary","source":"Level 15 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 15 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9702_desc_effect","source":"Passive Manastone Daevanion Level 20","translation":"Pasywny efekt: kamień many Daevanion, poziom 20","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9702_desc_name","source":"Manastone_Daevanion_Level 20","translation":"Kamień many_Daevanion_poziom 20","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9702_desc_summary","source":"Level 20 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 20 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9703_desc_effect","source":"Passive Manastone Daevanion Level 25","translation":"Pasywny efekt: kamień many Daevanion, poziom 25","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9703_desc_name","source":"Manastone_Daevanion_Level 25","translation":"Kamień many_Daevanion_poziom 25","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9703_desc_summary","source":"Level 25 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 25 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9704_desc_effect","source":"Passive Manastone Daevanion Level 30","translation":"Pasywny efekt: kamień many Daevanion, poziom 30","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9704_desc_name","source":"Manastone_Daevanion_Level 30","translation":"Kamień many_Daevanion_poziom 30","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9704_desc_summary","source":"Level 30 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 30 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9705_desc_effect","source":"Passive Manastone Daevanion Level 35","translation":"Pasywny efekt: kamień many Daevanion, poziom 35","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9705_desc_name","source":"Manastone_Daevanion_Level 35","translation":"Kamień many_Daevanion_poziom 35","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9705_desc_summary","source":"Level 35 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 35 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9706_desc_effect","source":"Passive Manastone Daevanion Level 40","translation":"Pasywny efekt: kamień many Daevanion, poziom 40","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9706_desc_name","source":"Manastone_Daevanion_Level 40","translation":"Kamień many_Daevanion_poziom 40","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9706_desc_summary","source":"Level 40 Manastone, Daevanion Stats Applied","translation":"Kamień many poziomu 40 — zastosowano statystyki Daevanion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9721_desc_effect","source":"Sets a cap on the maximum value of stats related to PvP in the Upper Abyss.","translation":"Ustanawia limit maksymalnej wartości statystyk związanych z PvP w górnej części Otchłani.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9721_desc_name","source":"Upper Abyss Reshanta","translation":"Górna część Otchłani Reshanty","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_9721_desc_summary","source":"PvP Stat Limit","translation":"Limit statystyk PvP","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_990_desc_effect","source":"Test_BlockMoveControl","translation":"Test: blokada kontroli ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_990_desc_name","source":"Test_BlockMoveControl","translation":"Test: blokada kontroli ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_990_desc_summary","source":"Test_BlockMoveControl","translation":"Test: blokada kontroli ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_991_desc_effect","source":"Test_BlockMove","translation":"Test: blokada ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_991_desc_name","source":"Test_BlockMove","translation":"Test: blokada ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_991_desc_summary","source":"Test_BlockMove","translation":"Test: blokada ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_992_desc_effect","source":"Test_BlockGlide","translation":"Test: blokada szybowania","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_992_desc_name","source":"Test_BlockGlide","translation":"Test: blokada szybowania","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_992_desc_summary","source":"Test_BlockGlide","translation":"Test: blokada szybowania","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_993_desc_effect","source":"Test_BlockFlight","translation":"Test: blokada lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_993_desc_name","source":"Test_BlockFlight","translation":"Test: blokada lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_993_desc_summary","source":"Test_BlockFlight","translation":"Test: blokada lotu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001101_desc_name","source":"Biruta Herbalist","translation":"Zielarz Biruta","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001201_desc_name","source":"Krall Laborer","translation":"Robotnik Krall","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001301_desc_name","source":"Forest Specter","translation":"Leśne widmo","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001401_desc_name","source":"Potcrab","translation":"Potcrab","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001501_desc_name","source":"Swarm","translation":"Rój","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001601_desc_name","source":"Slime","translation":"Szlam","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001701_desc_name","source":"Aultross's Doppelganger","translation":"Sobowtór Aultrossa","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001801_desc_name","source":"Swift Lugi","translation":"Szybki Lugi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40001901_desc_name","source":"Kernon","translation":"Kernon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002001_desc_name","source":"Baby Odyle Spider","translation":"Młody pająk Odyle","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002101_desc_name","source":"Biruta","translation":"Biruta","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002201_desc_name","source":"Manduri Fighter","translation":"Wojownik Manduri","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002301_desc_name","source":"Klaw","translation":"Klaw","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002401_desc_name","source":"Fungie","translation":"Fungie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002501_desc_name","source":"Airon","translation":"Airon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002601_desc_name","source":"Skyray","translation":"Skyray","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40002701_desc_name","source":"Withered Agrint","translation":"Zwiędły Agrint","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003001_desc_name","source":"Sparkie","translation":"Sparkie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003101_desc_name","source":"Drakan Explorer","translation":"Odkrywca Drakan","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003201_desc_name","source":"Cave Bat","translation":"Jaskiniowy nietoperz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003301_desc_name","source":"Crestlich","translation":"Crestlich","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003401_desc_name","source":"Wandering Merchant Lugi","translation":"Wędrowny kupiec Lugi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003501_desc_name","source":"Konutin Worker","translation":"Robotnik Konutin","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003601_desc_name","source":"Skama","translation":"Skama","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003701_desc_name","source":"Stone Spirit","translation":"Duch kamienia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003801_desc_name","source":"Forest Spirit","translation":"Duch lasu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40003901_desc_name","source":"Forest Guardian","translation":"Strażnik lasu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004001_desc_name","source":"Fungen","translation":"Fungen","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004101_desc_name","source":"Grave Rat","translation":"Szczur cmentarny","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004201_desc_name","source":"Gravi","translation":"Gravi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004301_desc_name","source":"Magic Gravi","translation":"Magiczny Gravi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004401_desc_name","source":"Large Leaf Gravi","translation":"Gravi o wielkich liściach","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004501_desc_name","source":"Kailin","translation":"Kailin","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004601_desc_name","source":"Kalgolem","translation":"Kalgolem","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004701_desc_name","source":"Karnif","translation":"Karnif","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004801_desc_name","source":"Krall Shaman","translation":"Szaman Krall","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40004901_desc_name","source":"Contaminated Slime","translation":"Skażony szlam","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005001_desc_name","source":"Lupyllini","translation":"Lupyllini","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005101_desc_name","source":"Lesser Wind Spirit","translation":"Niższy duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005201_desc_name","source":"Intermediate Wind Spirit","translation":"Średni duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005301_desc_name","source":"Superior Wind Spirit","translation":"Wyższy duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005401_desc_name","source":"Ultimate Wind Spirit","translation":"Najwyższy duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005501_desc_name","source":"King Bee","translation":"Król pszczół","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005601_desc_name","source":"Starturtle","translation":"Starturtle","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005701_desc_name","source":"Ultimate Earth Spirit","translation":"Najwyższy duch ziemi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005801_desc_name","source":"Black Smoke Murute","translation":"Murute z czarnego dymu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40005901_desc_name","source":"Krao Test Subject","translation":"Obiekt testowy Krao","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006001_desc_name","source":"Slink","translation":"Slink","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006101_desc_name","source":"Armadon","translation":"Armadon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006201_desc_name","source":"Superior Fire Spirit","translation":"Wyższy duch ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006301_desc_name","source":"Ultimate Fire Spirit","translation":"Najwyższy duch ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006401_desc_name","source":"Ultimate Water Spirit","translation":"Najwyższy duch wody","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006501_desc_name","source":"Tog","translation":"Tog","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006601_desc_name","source":"Sylphen","translation":"Sylphen","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006701_desc_name","source":"Krall Warrior","translation":"Wojownik Krall","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006801_desc_name","source":"Kuru Worker","translation":"Robotnik Kuru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40006901_desc_name","source":"Papis","translation":"Papis","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007001_desc_name","source":"Oculazen","translation":"Oculazen","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007101_desc_name","source":"Varg Berserker","translation":"Berserk Varg","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007201_desc_name","source":"Krao Seal Guardian","translation":"Strażnik pieczęci Krao","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007301_desc_name","source":"Manduri Trebuchet Worker","translation":"Obsługujący trebusz Manduri","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007401_desc_name","source":"Krao Mutant","translation":"Mutant Krao","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007501_desc_name","source":"Harcon","translation":"Harcon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007601_desc_name","source":"Mutant Armadon","translation":"Zmutowany Armadon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007701_desc_name","source":"Klaw Scout","translation":"Zwiadowca Klaw","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007801_desc_name","source":"Vigilant Oculazen","translation":"Czujny Oculazen","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40007901_desc_name","source":"Mutant Odyle Spider","translation":"Zmutowany pająk Odyle","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008001_desc_name","source":"Mutated Mutant Odyle Spider","translation":"Zmutowany pająk Odyle","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008101_desc_name","source":"Pino Worker","translation":"Robotnik Pino","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008201_desc_name","source":"Mutant Potcrab","translation":"Zmutowany Potcrab","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008301_desc_name","source":"Male Crestlich","translation":"Samiec Crestlicha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008401_desc_name","source":"Dried Up Forest Guardian","translation":"Wysuszony strażnik lasu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008501_desc_name","source":"Mutated Forest Spirit","translation":"Zmutowany duch lasu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008601_desc_name","source":"Blue Kalgolem","translation":"Niebieski Kalgolem","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008701_desc_name","source":"Elite Karnif","translation":"Elitarny Karnif","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008801_desc_name","source":"Modified Karnif","translation":"Zmodyfikowany Karnif","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40008901_desc_name","source":"Elite Keneire","translation":"Elitarna Keneire","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009001_desc_name","source":"Krall Enhanced Combatant","translation":"Wzmocniony wojownik Krall","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009101_desc_name","source":"Krall Enhanced Sentry","translation":"Wzmocniony wartownik Krall","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009201_desc_name","source":"Kuru Tinkerer","translation":"Majsterkowicz Kuru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009601_desc_name","source":"Elite Manduri Fighter","translation":"Elitarny wojownik Manduri","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009701_desc_name","source":"Mumu Warrior","translation":"Wojownik Mumu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009801_desc_name","source":"Tayga","translation":"Tayga","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40009901_desc_name","source":"Sentinel K'nash","translation":"Strażnik K'nasha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010001_desc_name","source":"Pretor Veil Administrator","translation":"Administrator zasłony Pretora","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010101_desc_name","source":"Aullaeu Shaman","translation":"Szaman Aullaeu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010201_desc_name","source":"Ursus","translation":"Ursus","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010301_desc_name","source":"Elite Ursus","translation":"Elitarny Ursus","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010401_desc_name","source":"Coradon","translation":"Coradon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010501_desc_name","source":"Urugugu Brawler","translation":"Pięściarz Urugugu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010601_desc_name","source":"Dionae","translation":"Dionae","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010701_desc_name","source":"Cadaver Worm","translation":"Robak trupi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010801_desc_name","source":"Spider","translation":"Pająk","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40010901_desc_name","source":"Nepenthes","translation":"Nepenthes","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011001_desc_name","source":"Giant Sparkie","translation":"Wielki Sparkie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011101_desc_name","source":"Scorpion","translation":"Skorpion","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011201_desc_name","source":"Crasaur","translation":"Crasaur","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011301_desc_name","source":"Mutant Skama","translation":"Zmutowana Skama","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011401_desc_name","source":"Nagarant Guardian Warrior","translation":"Wojownik strażnik Nagarant","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011501_desc_name","source":"Ashen Spider","translation":"Popielaty pająk","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011601_desc_name","source":"Withered Branch Spider","translation":"Zwiędły pająk gałęziowy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011701_desc_name","source":"Kuru Overseer","translation":"Nadzorca Kuru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011801_desc_name","source":"Unstable Spider","translation":"Niestabilny pająk","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40011901_desc_name","source":"Mutant Bee","translation":"Zmutowana pszczoła","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012001_desc_name","source":"Mutant Coradon","translation":"Zmutowany Coradon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012101_desc_name","source":"Young Kailin","translation":"Młody Kailin","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012201_desc_name","source":"Young Slink","translation":"Młody Slink","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012301_desc_name","source":"Young Tog","translation":"Młody Tog","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012401_desc_name","source":"Young Ursus","translation":"Młody Ursus","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012501_desc_name","source":"Black Dragon","translation":"Czarny smok","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012601_desc_name","source":"White Dragon","translation":"Biały smok","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012701_desc_name","source":"Zaif","translation":"Zaif","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012801_desc_name","source":"Mutant Zaif","translation":"Zmutowany Zaif","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40012901_desc_name","source":"Mutant Tog","translation":"Zmutowany Tog","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013001_desc_name","source":"Odyle Stone Spirit","translation":"Kamienny duch Odyle","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013101_desc_name","source":"Drana Slime","translation":"Szlam Drany","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013201_desc_name","source":"Drana Swarm Hive","translation":"Ul roju Drany","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013301_desc_name","source":"Mutated Cadaver Worm","translation":"Zmutowany robak trupi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013401_desc_name","source":"Drana Spore","translation":"Zarodnik Drany","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013501_desc_name","source":"Ashen Lupyllini","translation":"Popielaty Lupyllini","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013601_desc_name","source":"Forest Dionae","translation":"Leśna Dionae","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013701_desc_name","source":"Eternal Coradon","translation":"Wieczny Coradon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013801_desc_name","source":"Ashen Dionae","translation":"Popielata Dionae","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40013901_desc_name","source":"Rafflesia","translation":"Rafflesia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014001_desc_name","source":"Mumu Worker","translation":"Robotnik Mumu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014101_desc_name","source":"Mumu Overseer","translation":"Nadzorca Mumu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014201_desc_name","source":"Swamp Monster","translation":"Potwór z bagien","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014301_desc_name","source":"Forest Monster","translation":"Potwór leśny","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014401_desc_name","source":"Marsh Targon","translation":"Bagienny Targon","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014501_desc_name","source":"Distorted Mutant","translation":"Zniekształcony mutant","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014601_desc_name","source":"Mutated Ursus","translation":"Zmutowany Ursus","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014701_desc_name","source":"Mutated Forest Guardian","translation":"Zmutowany strażnik lasu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014801_desc_name","source":"Mutated Insectoid Valka","translation":"Zmutowany owadzi Valka","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40014901_desc_name","source":"Gatekeeper Pinopi","translation":"Strażnik bramy Pinopi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015001_desc_name","source":"Dratona","translation":"Dratona","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015101_desc_name","source":"Drakana Kalgolem","translation":"Kalgolem Drakany","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015201_desc_name","source":"Drana Brute Mutant","translation":"Potężny mutant Drany","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015301_desc_name","source":"Faded Mutant Brute","translation":"Wyblakły potężny mutant","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015401_desc_name","source":"Superior Water Spirit","translation":"Wyższy duch wody","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015501_desc_name","source":"Elite Klaw","translation":"Elitarny Klaw","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015601_desc_name","source":"Cadaver Cleaner","translation":"Czyściciel trupów","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015701_desc_name","source":"Venomous Insect Sram","translation":"Jadowity owad Sram","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015801_desc_name","source":"Parasite Swarm","translation":"Rój pasożytów","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_Polymorph_40015901_desc_name","source":"Drana Contaminant","translation":"Skażenie Drany","status":"draft"}

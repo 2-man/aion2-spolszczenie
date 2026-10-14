@@ -1,0 +1,3405 @@
+{
+  "table": "main",
+  "namespace": "AION2",
+  "culture": "en-US",
+  "inputSha256": "ffd9a6321165addbfa2cfc3d3a4d58e1a42d0ba6efe5714898f533188045e98f",
+  "records": 152774,
+  "decodedJsonSha256": "6e56b8496b80bc056e972cfb01c04df260895970511ad6d1d74b81b0350c83c5",
+  "batches": [
+    {
+      "file": "main/AchievementString/0001.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0002.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0003.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0004.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0005.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0006.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0007.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0008.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0009.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0010.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0011.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0012.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0013.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0014.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0015.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0016.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0017.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0018.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0019.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0020.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0021.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0022.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0023.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0024.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0025.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0026.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0027.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0028.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0029.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0030.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0031.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0032.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0033.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0034.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0035.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0036.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0037.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0038.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0039.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0040.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0041.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0042.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0043.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0044.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0045.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0046.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0047.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0048.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0049.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0050.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0051.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0052.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0053.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0054.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0055.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0056.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0057.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0058.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0059.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0060.jsonl",
+      "count": 250,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AchievementString/0061.jsonl",
+      "count": 86,
+      "category": "AchievementString"
+    },
+    {
+      "file": "main/AnonymousData/0001.jsonl",
+      "count": 1,
+      "category": "AnonymousData"
+    },
+    {
+      "file": "main/AnonymousNameData/0001.jsonl",
+      "count": 99,
+      "category": "AnonymousNameData"
+    },
+    {
+      "file": "main/CommandFunc/0001.jsonl",
+      "count": 75,
+      "category": "CommandFunc"
+    },
+    {
+      "file": "main/CurrencyInfo/0001.jsonl",
+      "count": 47,
+      "category": "CurrencyInfo"
+    },
+    {
+      "file": "main/CutsceneSubtitle/0001.jsonl",
+      "count": 250,
+      "category": "CutsceneSubtitle"
+    },
+    {
+      "file": "main/CutsceneSubtitle/0002.jsonl",
+      "count": 250,
+      "category": "CutsceneSubtitle"
+    },
+    {
+      "file": "main/CutsceneSubtitle/0003.jsonl",
+      "count": 250,
+      "category": "CutsceneSubtitle"
+    },
+    {
+      "file": "main/CutsceneSubtitle/0004.jsonl",
+      "count": 250,
+      "category": "CutsceneSubtitle"
+    },
+    {
+      "file": "main/CutsceneSubtitle/0005.jsonl",
+      "count": 81,
+      "category": "CutsceneSubtitle"
+    },
+    {
+      "file": "main/EnvObjData/0001.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0002.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0003.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0004.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0005.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0006.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0007.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0008.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0009.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0010.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0011.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0012.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0013.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0014.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0015.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0016.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0017.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0018.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0019.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0020.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0021.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0022.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0023.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0024.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0025.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0026.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0027.jsonl",
+      "count": 250,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EnvObjData/0028.jsonl",
+      "count": 62,
+      "category": "EnvObjData"
+    },
+    {
+      "file": "main/EventContentsString/0001.jsonl",
+      "count": 66,
+      "category": "EventContentsString"
+    },
+    {
+      "file": "main/GatherSkill/0001.jsonl",
+      "count": 42,
+      "category": "GatherSkill"
+    },
+    {
+      "file": "main/GuideData/0001.jsonl",
+      "count": 250,
+      "category": "GuideData"
+    },
+    {
+      "file": "main/GuideData/0002.jsonl",
+      "count": 150,
+      "category": "GuideData"
+    },
+    {
+      "file": "main/InputKeyMapping/0001.jsonl",
+      "count": 250,
+      "category": "InputKeyMapping"
+    },
+    {
+      "file": "main/InputKeyMapping/0002.jsonl",
+      "count": 66,
+      "category": "InputKeyMapping"
+    },
+    {
+      "file": "main/InputKeyText/0001.jsonl",
+      "count": 222,
+      "category": "InputKeyText"
+    },
+    {
+      "file": "main/InventoryFilter/0001.jsonl",
+      "count": 4,
+      "category": "InventoryFilter"
+    },
+    {
+      "file": "main/Message/0001.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0002.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0003.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0004.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0005.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0006.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0007.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0008.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0009.jsonl",
+      "count": 250,
+      "category": "Message"
+    },
+    {
+      "file": "main/Message/0010.jsonl",
+      "count": 160,
+      "category": "Message"
+    },
+    {
+      "file": "main/NoteData/0001.jsonl",
+      "count": 250,
+      "category": "NoteData"
+    },
+    {
+      "file": "main/NoteData/0002.jsonl",
+      "count": 250,
+      "category": "NoteData"
+    },
+    {
+      "file": "main/NoteData/0003.jsonl",
+      "count": 250,
+      "category": "NoteData"
+    },
+    {
+      "file": "main/NoteData/0004.jsonl",
+      "count": 58,
+      "category": "NoteData"
+    },
+    {
+      "file": "main/NpcTalk/0001.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0002.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0003.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0004.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0005.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0006.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0007.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0008.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0009.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0010.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0011.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0012.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0013.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0014.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0015.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0016.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0017.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0018.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0019.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0020.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0021.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0022.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0023.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0024.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0025.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0026.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0027.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0028.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0029.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0030.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0031.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0032.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0033.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0034.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0035.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0036.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0037.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0038.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0039.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0040.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0041.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0042.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0043.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0044.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0045.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0046.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0047.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0048.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0049.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0050.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0051.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0052.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0053.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0054.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0055.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0056.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0057.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0058.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0059.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0060.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0061.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0062.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0063.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0064.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0065.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0066.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0067.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0068.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0069.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0070.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0071.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0072.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0073.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0074.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0075.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0076.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0077.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0078.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0079.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0080.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0081.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0082.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0083.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0084.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0085.jsonl",
+      "count": 250,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/NpcTalk/0086.jsonl",
+      "count": 33,
+      "category": "NpcTalk"
+    },
+    {
+      "file": "main/PCCreationInfo/0001.jsonl",
+      "count": 16,
+      "category": "PCCreationInfo"
+    },
+    {
+      "file": "main/PackageList/0001.jsonl",
+      "count": 34,
+      "category": "PackageList"
+    },
+    {
+      "file": "main/PcSocialAction/0001.jsonl",
+      "count": 173,
+      "category": "PcSocialAction"
+    },
+    {
+      "file": "main/Post/0001.jsonl",
+      "count": 158,
+      "category": "Post"
+    },
+    {
+      "file": "main/QuestPart/0001.jsonl",
+      "count": 34,
+      "category": "QuestPart"
+    },
+    {
+      "file": "main/QuestString/0001.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0002.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0003.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0004.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0005.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0006.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0007.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0008.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0009.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0010.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0011.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0012.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0013.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0014.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0015.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0016.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0017.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0018.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0019.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0020.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0021.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0022.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0023.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0024.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0025.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0026.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0027.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0028.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0029.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0030.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0031.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0032.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0033.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0034.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0035.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0036.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0037.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0038.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0039.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0040.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0041.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0042.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0043.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0044.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0045.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0046.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0047.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0048.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0049.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0050.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0051.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0052.jsonl",
+      "count": 250,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/QuestString/0053.jsonl",
+      "count": 111,
+      "category": "QuestString"
+    },
+    {
+      "file": "main/ServerName/0001.jsonl",
+      "count": 250,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/ServerName/0002.jsonl",
+      "count": 250,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/ServerName/0003.jsonl",
+      "count": 250,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/ServerName/0004.jsonl",
+      "count": 250,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/ServerName/0005.jsonl",
+      "count": 250,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/ServerName/0006.jsonl",
+      "count": 248,
+      "category": "ServerName"
+    },
+    {
+      "file": "main/SkillAbnormalString/0001.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0002.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0003.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0004.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0005.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0006.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0007.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0008.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0009.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0010.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0011.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0012.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0013.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0014.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0015.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0016.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0017.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0018.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0019.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0020.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0021.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0022.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0023.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0024.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0025.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0026.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0027.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0028.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0029.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0030.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0031.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0032.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0033.jsonl",
+      "count": 250,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillAbnormalString/0034.jsonl",
+      "count": 208,
+      "category": "SkillAbnormalString"
+    },
+    {
+      "file": "main/SkillCondString/0001.jsonl",
+      "count": 54,
+      "category": "SkillCondString"
+    },
+    {
+      "file": "main/SkillString/0001.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0002.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0003.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0004.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0005.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0006.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0007.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0008.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0009.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0010.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0011.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0012.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0013.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0014.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0015.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0016.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0017.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0018.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0019.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0020.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0021.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0022.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0023.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0024.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0025.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0026.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0027.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0028.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0029.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0030.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0031.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0032.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0033.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0034.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0035.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0036.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0037.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0038.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0039.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0040.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0041.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0042.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0043.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0044.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0045.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0046.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0047.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0048.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0049.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0050.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0051.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0052.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0053.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0054.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0055.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0056.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0057.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0058.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0059.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0060.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0061.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0062.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0063.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0064.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0065.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0066.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0067.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0068.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0069.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0070.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0071.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0072.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0073.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0074.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0075.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0076.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0077.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0078.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0079.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0080.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0081.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0082.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0083.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0084.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0085.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0086.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0087.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0088.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0089.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0090.jsonl",
+      "count": 250,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/SkillString/0091.jsonl",
+      "count": 224,
+      "category": "SkillString"
+    },
+    {
+      "file": "main/Skin/0001.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0002.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0003.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0004.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0005.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0006.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0007.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0008.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0009.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0010.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0011.jsonl",
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0012.jsonl",
+      "count": 176,
+      "category": "Skin"
+    },
+    {
+      "file": "main/SkinMaterial/0001.jsonl",
+      "count": 9,
+      "category": "SkinMaterial"
+    },
+    {
+      "file": "main/SkinPattern/0001.jsonl",
+      "count": 16,
+      "category": "SkinPattern"
+    },
+    {
+      "file": "main/SkinSet/0001.jsonl",
+      "count": 238,
+      "category": "SkinSet"
+    },
+    {
+      "file": "main/String_attrstatname/0001.jsonl",
+      "count": 107,
+      "category": "String_attrstatname"
+    },
+    {
+      "file": "main/String_basic/0001.jsonl",
+      "count": 2,
+      "category": "String_basic"
+    },
+    {
+      "file": "main/String_category/0001.jsonl",
+      "count": 1,
+      "category": "String_category"
+    },
+    {
+      "file": "main/String_common/0001.jsonl",
+      "count": 1,
+      "category": "String_common"
+    },
+    {
+      "file": "main/String_contents/0001.jsonl",
+      "count": 18,
+      "category": "String_contents"
+    },
+    {
+      "file": "main/String_costmoney/0001.jsonl",
+      "count": 1,
+      "category": "String_costmoney"
+    },
+    {
+      "file": "main/String_dailydungeon/0001.jsonl",
+      "count": 4,
+      "category": "String_dailydungeon"
+    },
+    {
+      "file": "main/String_deletecharacter/0001.jsonl",
+      "count": 1,
+      "category": "String_deletecharacter"
+    },
+    {
+      "file": "main/String_dialog/0001.jsonl",
+      "count": 1,
+      "category": "String_dialog"
+    },
+    {
+      "file": "main/String_dungeon/0001.jsonl",
+      "count": 11,
+      "category": "String_dungeon"
+    },
+    {
+      "file": "main/String_g/0001.jsonl",
+      "count": 76,
+      "category": "String_g"
+    },
+    {
+      "file": "main/String_gender/0001.jsonl",
+      "count": 3,
+      "category": "String_gender"
+    },
+    {
+      "file": "main/String_global/0001.jsonl",
+      "count": 12,
+      "category": "String_global"
+    },
+    {
+      "file": "main/String_group/0001.jsonl",
+      "count": 2,
+      "category": "String_group"
+    },
+    {
+      "file": "main/String_guild/0001.jsonl",
+      "count": 16,
+      "category": "String_guild"
+    },
+    {
+      "file": "main/String_guildhistory/0001.jsonl",
+      "count": 1,
+      "category": "String_guildhistory"
+    },
+    {
+      "file": "main/String_hud/0001.jsonl",
+      "count": 3,
+      "category": "String_hud"
+    },
+    {
+      "file": "main/String_inventory/0001.jsonl",
+      "count": 1,
+      "category": "String_inventory"
+    },
+    {
+      "file": "main/String_l10nsample1/0001.jsonl",
+      "count": 1,
+      "category": "String_l10nsample1"
+    },
+    {
+      "file": "main/String_loginresultunknownerror/0001.jsonl",
+      "count": 1,
+      "category": "String_loginresultunknownerror"
+    },
+    {
+      "file": "main/String_m/0001.jsonl",
+      "count": 5,
+      "category": "String_m"
+    },
+    {
+      "file": "main/String_msg/0001.jsonl",
+      "count": 8,
+      "category": "String_msg"
+    },
+    {
+      "file": "main/String_msgbox/0001.jsonl",
+      "count": 16,
+      "category": "String_msgbox"
+    },
+    {
+      "file": "main/String_mymoney/0001.jsonl",
+      "count": 1,
+      "category": "String_mymoney"
+    },
+    {
+      "file": "main/String_n/0001.jsonl",
+      "count": 2,
+      "category": "String_n"
+    },
+    {
+      "file": "main/String_networkerror/0001.jsonl",
+      "count": 1,
+      "category": "String_networkerror"
+    },
+    {
+      "file": "main/String_npc/0001.jsonl",
+      "count": 3,
+      "category": "String_npc"
+    },
+    {
+      "file": "main/String_npcshop/0001.jsonl",
+      "count": 2,
+      "category": "String_npcshop"
+    },
+    {
+      "file": "main/String_race/0001.jsonl",
+      "count": 3,
+      "category": "String_race"
+    },
+    {
+      "file": "main/String_rewardpopup/0001.jsonl",
+      "count": 1,
+      "category": "String_rewardpopup"
+    },
+    {
+      "file": "main/String_scalelevel/0001.jsonl",
+      "count": 1,
+      "category": "String_scalelevel"
+    },
+    {
+      "file": "main/String_screen/0001.jsonl",
+      "count": 129,
+      "category": "String_screen"
+    },
+    {
+      "file": "main/String_set/0001.jsonl",
+      "count": 10,
+      "category": "String_set"
+    },
+    {
+      "file": "main/String_shortcount/0001.jsonl",
+      "count": 1,
+      "category": "String_shortcount"
+    },
+    {
+      "file": "main/String_shortlevel/0001.jsonl",
+      "count": 1,
+      "category": "String_shortlevel"
+    },
+    {
+      "file": "main/String_shortpoint/0001.jsonl",
+      "count": 1,
+      "category": "String_shortpoint"
+    },
+    {
+      "file": "main/String_skillinfo/0001.jsonl",
+      "count": 6,
+      "category": "String_skillinfo"
+    },
+    {
+      "file": "main/String_skin/0001.jsonl",
+      "count": 7,
+      "category": "String_skin"
+    },
+    {
+      "file": "main/String_srt/0001.jsonl",
+      "count": 5,
+      "category": "String_srt"
+    },
+    {
+      "file": "main/String_statname/0001.jsonl",
+      "count": 250,
+      "category": "String_statname"
+    },
+    {
+      "file": "main/String_statname/0002.jsonl",
+      "count": 250,
+      "category": "String_statname"
+    },
+    {
+      "file": "main/String_statname/0003.jsonl",
+      "count": 40,
+      "category": "String_statname"
+    },
+    {
+      "file": "main/String_str/0001.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0002.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0003.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0004.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0005.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0006.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0007.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0008.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0009.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0010.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0011.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0012.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0013.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0014.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0015.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0016.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0017.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0018.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0019.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0020.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0021.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0022.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0023.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0024.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0025.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0026.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0027.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0028.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0029.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0030.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0031.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0032.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0033.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0034.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0035.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0036.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0037.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0038.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0039.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0040.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0041.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0042.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0043.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0044.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0045.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0046.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0047.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0048.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0049.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0050.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0051.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0052.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0053.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0054.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0055.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0056.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0057.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0058.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0059.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0060.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0061.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0062.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0063.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0064.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0065.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0066.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0067.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0068.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0069.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0070.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0071.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0072.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0073.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0074.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0075.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0076.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0077.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0078.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0079.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0080.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0081.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0082.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0083.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0084.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0085.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0086.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0087.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0088.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0089.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0090.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0091.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0092.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0093.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0094.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0095.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0096.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0097.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0098.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0099.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0100.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0101.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0102.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0103.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0104.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0105.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0106.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0107.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0108.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0109.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0110.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0111.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0112.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0113.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0114.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0115.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0116.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0117.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0118.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0119.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0120.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0121.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0122.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0123.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0124.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0125.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0126.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0127.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0128.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0129.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0130.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0131.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0132.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0133.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0134.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0135.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0136.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0137.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0138.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0139.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0140.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0141.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0142.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0143.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0144.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0145.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0146.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0147.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0148.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0149.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0150.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0151.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0152.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0153.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0154.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0155.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0156.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0157.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0158.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0159.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0160.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0161.jsonl",
+      "count": 250,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_str/0162.jsonl",
+      "count": 152,
+      "category": "String_str"
+    },
+    {
+      "file": "main/String_string/0001.jsonl",
+      "count": 1,
+      "category": "String_string"
+    },
+    {
+      "file": "main/String_systemoption/0001.jsonl",
+      "count": 12,
+      "category": "String_systemoption"
+    },
+    {
+      "file": "main/String_title/0001.jsonl",
+      "count": 31,
+      "category": "String_title"
+    },
+    {
+      "file": "main/String_tooltip/0001.jsonl",
+      "count": 8,
+      "category": "String_tooltip"
+    },
+    {
+      "file": "main/String_tr/0001.jsonl",
+      "count": 1,
+      "category": "String_tr"
+    },
+    {
+      "file": "main/String_u/0001.jsonl",
+      "count": 1,
+      "category": "String_u"
+    },
+    {
+      "file": "main/String_ui/0001.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0002.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0003.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0004.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0005.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0006.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0007.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0008.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0009.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0010.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0011.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0012.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0013.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0014.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0015.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0016.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0017.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0018.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0019.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0020.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0021.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0022.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0023.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0024.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0025.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0026.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0027.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0028.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0029.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0030.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0031.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0032.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0033.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0034.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0035.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0036.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0037.jsonl",
+      "count": 250,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/String_ui/0038.jsonl",
+      "count": 110,
+      "category": "String_ui"
+    },
+    {
+      "file": "main/Tag/0001.jsonl",
+      "count": 47,
+      "category": "Tag"
+    },
+    {
+      "file": "main/TeleportArtifact/0001.jsonl",
+      "count": 250,
+      "category": "TeleportArtifact"
+    },
+    {
+      "file": "main/TeleportArtifact/0002.jsonl",
+      "count": 250,
+      "category": "TeleportArtifact"
+    },
+    {
+      "file": "main/TeleportArtifact/0003.jsonl",
+      "count": 55,
+      "category": "TeleportArtifact"
+    },
+    {
+      "file": "main/Title/0001.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0002.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0003.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0004.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0005.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0006.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0007.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0008.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0009.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0010.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0011.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0012.jsonl",
+      "count": 250,
+      "category": "Title"
+    },
+    {
+      "file": "main/Title/0013.jsonl",
+      "count": 8,
+      "category": "Title"
+    },
+    {
+      "file": "main/TitleCategory/0001.jsonl",
+      "count": 8,
+      "category": "TitleCategory"
+    },
+    {
+      "file": "main/TradeTab/0001.jsonl",
+      "count": 53,
+      "category": "TradeTab"
+    },
+    {
+      "file": "main/Wing/0001.jsonl",
+      "count": 80,
+      "category": "Wing"
+    }
+  ]
+}

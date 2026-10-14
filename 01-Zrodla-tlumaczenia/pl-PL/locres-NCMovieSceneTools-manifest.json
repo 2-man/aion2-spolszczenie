@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCMovieSceneTools",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "e2c0849c1e513666a6018d520f7761d07697c7bb9a5fa451d35b6b033fe6b418",
+  "records": 139,
+  "decodedJsonSha256": "49051a7f048e559383bfec11619f855ca635b7561e8eb538de6d17d7c8604f7f",
+  "batches": [
+    {
+      "file": "locres-NCMovieSceneTools/NCMovieSceneTools/0001.jsonl",
+      "count": 139,
+      "category": "NCMovieSceneTools"
+    }
+  ]
+}

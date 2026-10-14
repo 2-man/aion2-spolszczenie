@@ -1,0 +1,250 @@
+{"id": "SkillAbnormalString_SkillAbnormalString_16000303_desc_name", "source": "Protective Shield", "translation": "Tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16000303_desc_summary", "source": "Protective Shield", "translation": "Tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16000711_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16000711_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16000711_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160010_desc_effect", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160010_desc_name", "source": "Bomb Equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160010_desc_summary", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011091_desc_effect", "source": "Wind Damage over Time every 1s", "translation": "Zadaje okresowe obrażenia od wiatru co 1 s", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011091_desc_name", "source": "Biting Wind", "translation": "Kąsający wiatr", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011091_desc_summary", "source": "Deals Damage over Time", "translation": "Zadaje obrażenia w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011131_desc_effect", "source": "-{abe:1600111311:value02:divide100abs}% Status Effect Resist", "translation": "-{abe:1600111311:value02:divide100abs}% odporności na efekty statusu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011131_desc_name", "source": "Cloud of Dust", "translation": "Chmura pyłu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160011131_desc_summary", "source": "Reduces Status Effect Resist", "translation": "Zmniejsza odporność na efekty statusu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160013_desc_effect", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160013_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160013_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001701_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001701_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001701_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001702_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001702_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16001702_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160020_desc_effect", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160020_desc_name", "source": "Bomb Equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160020_desc_summary", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002201_desc_effect", "source": "CASTING Canceled", "translation": "Rzucanie przerwane", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002201_desc_name", "source": "Skill Cancel", "translation": "Przerwanie umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002201_desc_summary", "source": "Skill Cancel", "translation": "Przerwanie umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160023_desc_effect", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160023_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160023_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002411_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002411_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002411_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002611_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002611_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16002611_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003001_desc_effect", "source": "<desc_point>{abe:160030011:value02:divide100}%</> Attack Speed", "translation": "<desc_point>{abe:160030011:value02:divide100}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003001_desc_name", "source": "Odyle Aura", "translation": "Aura Odylii", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003001_desc_summary", "source": "Increases Attack Speed", "translation": "Zwiększa szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160030_desc_effect", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160030_desc_name", "source": "Bomb Equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160030_desc_summary", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003201_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003201_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003201_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003311_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003311_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003311_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160033_desc_effect", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160033_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160033_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003401_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003401_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003401_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003501_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003501_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003501_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003901_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003901_desc_name", "source": "Odyle Absorption", "translation": "Pochłonięcie Odylii", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16003901_desc_summary", "source": "Odyle Absorption", "translation": "Pochłonięcie Odylii", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160040_desc_effect", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160040_desc_name", "source": "Bomb Equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160040_desc_summary", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004201_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004201_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004201_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160043_desc_effect", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160043_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160043_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004401_desc_effect", "source": "Gartua - Skill 3 - AoE Attack + CC (Pull)", "translation": "Gartua — umiejętność 3 — atak obszarowy + kontrola tłumu (przyciągnięcie)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004401_desc_name", "source": "Pull", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004401_desc_summary", "source": "Pull", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004402_desc_effect", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004402_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004402_desc_summary", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004501_desc_effect", "source": "Gartua - Skill 4 - Stun", "translation": "Gartua — umiejętność 4 — ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004501_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004501_desc_summary", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004901_desc_effect", "source": "Blocks all Negative Skill Effects", "translation": "Blokuje wszystkie negatywne efekty umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004901_desc_name", "source": "Skill Immunity", "translation": "Odporność na umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16004901_desc_summary", "source": "Negative Skill Immunity", "translation": "Odporność na negatywne umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160050_desc_effect", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160050_desc_name", "source": "Bomb Equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160050_desc_summary", "source": "Bomb equipped", "translation": "Wyposażono bombę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160053_desc_effect", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160053_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160053_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16007352_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16007352_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16007352_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008401_desc_effect", "source": "Creates explosion and pool of flame after 5 seconds", "translation": "Po 5 sekundach wywołuje eksplozję i tworzy obszar płomieni", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008401_desc_name", "source": "Delayed Explosion", "translation": "Opóźniona eksplozja", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008401_desc_summary", "source": "Flame Bomb", "translation": "Ognista bomba", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008701_desc_effect", "source": "Taking Damage over Time due to Auldor's aura.", "translation": "Otrzymuje obrażenia okresowe z powodu aury Auldora.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008701_desc_name", "source": "Auldor's Energy", "translation": "Energia Auldora", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16008701_desc_summary", "source": "Underwater Damage over Time", "translation": "Obrażenia okresowe pod wodą", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009201_desc_effect", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009201_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009201_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009603_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009603_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009603_desc_summary", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009801_desc_effect", "source": "Wind Veil", "translation": "Osłona wiatru", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009801_desc_name", "source": "Wind Veil", "translation": "Osłona wiatru", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16009801_desc_summary", "source": "Wind Veil", "translation": "Osłona wiatru", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010301_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010301_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010301_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010302_desc_effect", "source": "Becomes the target of Auldor's Watch.", "translation": "Staje się celem Czujnego Spojrzenia Auldora.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010302_desc_name", "source": "Watch", "translation": "Obserwacja", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010302_desc_summary", "source": "Watch", "translation": "Obserwacja", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010501_desc_effect", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010501_desc_name", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010501_desc_summary", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010502_desc_effect", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010502_desc_name", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010502_desc_summary", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010701_desc_effect", "source": "Gust", "translation": "Podmuch", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010701_desc_name", "source": "Gust", "translation": "Podmuch", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16010701_desc_summary", "source": "Gust", "translation": "Podmuch", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013000_desc_effect", "source": "Poison Blood", "translation": "Trująca krew", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013000_desc_name", "source": "Poison Blood", "translation": "Trująca krew", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013000_desc_summary", "source": "Poison Blood", "translation": "Trująca krew", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013201_desc_effect", "source": "<desc_point>{abe:160132011:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:160132011:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013201_desc_name", "source": "Sticky Poison Blood", "translation": "Lepka trująca krew", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013201_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013702_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013702_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16013702_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015051_desc_effect", "source": "<desc_point>{abe:160150511:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:160150511:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015051_desc_name", "source": "Trace of Sacrifice", "translation": "Ślad ofiary", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015051_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015201_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015201_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015201_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015401_desc_effect", "source": "Blocks all Negative Skill Effects", "translation": "Blokuje wszystkie negatywne efekty umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015401_desc_name", "source": "Magic Overload", "translation": "Przeciążenie magii", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16015401_desc_summary", "source": "Negative Skill Immunity", "translation": "Odporność na negatywne umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018351_desc_effect", "source": "<desc_point>{abe:160183511:value02:divide100}%</> Defense", "translation": "<desc_point>{abe:160183511:value02:divide100}%</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018351_desc_name", "source": "Defense Reduction", "translation": "Zmniejszenie obrony", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018351_desc_summary", "source": "Reduces Defense", "translation": "Zmniejsza obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018601_desc_effect", "source": "Tassin's Action Speed increases.", "translation": "Szybkość akcji Tassina wzrasta.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018601_desc_name", "source": "Fafnite's Frenzy", "translation": "Szał Fafnita", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16018601_desc_summary", "source": "Fafnite's Frenzy", "translation": "Szał Fafnita", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16021921_desc_effect", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16021921_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16021921_desc_summary", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022101_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022101_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022101_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022901_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022901_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16022901_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026501_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026501_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026501_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026801_desc_effect", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026801_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026801_desc_summary", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026901_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026901_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16026901_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160300401_desc_effect", "source": "+<desc_point>{abe:1603004011:value02:divide100}%</> Attack, up to 5 stacks", "translation": "+<desc_point>{abe:1603004011:value02:divide100}%</> Atak (do 5 ładunków)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160300401_desc_name", "source": "Element Flow", "translation": "Przepływ żywiołów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160300401_desc_summary", "source": "Increases Attack", "translation": "Zwiększa atak", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031502_desc_effect", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031502_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031502_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031601_desc_effect", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031601_desc_name", "source": "Snatch", "translation": "Pochwycenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031601_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031602_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031602_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031602_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031605_desc_effect", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031605_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16031605_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032001_desc_effect", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032001_desc_name", "source": "Push", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032001_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032201_desc_effect", "source": "<desc_point>{abe:160322011:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:160322011:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032201_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16032201_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16033501_desc_effect", "source": "Fires lightning projectiles in the area when disappearing", "translation": "Po zniknięciu wystrzeliwuje w obszarze pociski błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16033501_desc_name", "source": "Overcharge", "translation": "Przeciążenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16033501_desc_summary", "source": "Fires lightning projectiles in the area when disappearing", "translation": "Po zniknięciu wystrzeliwuje w obszarze pociski błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16042606_desc_effect", "source": "<desc_point>{abe:160426061:value02:divide100}%</> Damage Boost", "translation": "<desc_point>{abe:160426061:value02:divide100}%</> Premia do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16042606_desc_name", "source": "Devour", "translation": "Pożarcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16042606_desc_summary", "source": "Increases Damage Boost (Up to 5 stacks)", "translation": "Zwiększa premię do obrażeń (do 5 ładunków)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043701_desc_effect", "source": "Removes Root status when hit by an ally.", "translation": "Sojusznik może usunąć unieruchomienie, trafiając cel.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043701_desc_name", "source": "Keen Restraint", "translation": "Silne unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043701_desc_summary", "source": "Incapacitated, removes Status when hit a fixed times or more", "translation": "Unieruchomienie; efekt znika po otrzymaniu określonej liczby trafień lub więcej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043811_desc_effect", "source": "Explodes after a fixed duration, inflicting Root on the caster and transferring Keen Restraint status to an ally within range.", "translation": "Po określonym czasie wybucha, unieruchamiając rzucającego i przenosząc efekt Silnego unieruchomienia na pobliskiego sojusznika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043811_desc_name", "source": "Metastasis Explosion", "translation": "Wybuch przeniesienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043811_desc_summary", "source": "Explodes and deals Root after a fixed duration. Transfers Status Effects to an ally within range", "translation": "Po określonym czasie wybucha i unieruchamia. Przenosi efekty statusu na sojusznika w zasięgu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043821_desc_effect", "source": "Explodes after a fixed duration, inflicting Root on the caster and transferring Keen Restraint status to an ally within range.", "translation": "Po określonym czasie wybucha, unieruchamiając rzucającego i przenosząc efekt Silnego unieruchomienia na pobliskiego sojusznika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043821_desc_name", "source": "Toxic Metastasis Explosion", "translation": "Wybuch toksycznego przeniesienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16043821_desc_summary", "source": "Explodes and deals Root after a fixed duration. Transfers Status Effects to an ally within range", "translation": "Po określonym czasie wybucha i unieruchamia. Przenosi efekty statusu na sojusznika w zasięgu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16044811_desc_effect", "source": "Damage over Time in 3m Radius", "translation": "Zadaje obrażenia okresowe w promieniu 3 m", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16044811_desc_name", "source": "Isolation Zone", "translation": "Strefa izolacji", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16044811_desc_summary", "source": "Forms a damaging area", "translation": "Tworzy obszar zadający obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046601_desc_effect", "source": "Thamon absorbs Physical Damage and restores HP.", "translation": "Thamon pochłania obrażenia fizyczne i przywraca PŻ.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046601_desc_name", "source": "Cry of Life", "translation": "Krzyk życia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046601_desc_summary", "source": "Absorbs Physical Damage as HP", "translation": "Pochłania obrażenia fizyczne, przywracając PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046701_desc_effect", "source": "Thamon absorbs Magic Damage and restores HP.", "translation": "Thamon pochłania obrażenia magiczne i przywraca PŻ.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046701_desc_name", "source": "Mysterious Roar", "translation": "Tajemniczy ryk", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16046701_desc_summary", "source": "Absorbs Magic Damage as HP", "translation": "Pochłania obrażenia magiczne, przywracając PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16047201_desc_effect", "source": "Generates great damage when hit by Thamon\n Allies can cancel Petrify by attacking", "translation": "Otrzymuje ogromne obrażenia po trafieniu przez Thamona\n Sojusznicy mogą przerwać skamienienie, atakując", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16047201_desc_name", "source": "Petrification of Death", "translation": "Śmiertelne skamienienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16047201_desc_summary", "source": "Petrified, big damage when hit by Thamon", "translation": "Skamienienie; trafienie przez Thamona zadaje duże obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16051104_desc_effect", "source": "Forms a damaging area", "translation": "Tworzy obszar zadający obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16051104_desc_name", "source": "Stack Explosion", "translation": "Eksplozja ładunków", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16051104_desc_summary", "source": "Forms a damaging area", "translation": "Tworzy obszar zadający obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053750_desc_effect", "source": "Received energy from the broodkeeper.\nWill explode after a period of time.", "translation": "Otrzymano energię od strażnika lęgu.\nPo pewnym czasie nastąpi wybuch.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053750_desc_name", "source": "Burning Rage Energy", "translation": "Energia płonącego gniewu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053750_desc_summary", "source": "Deals Damage over Time, deals heavy damage after a fixed duration", "translation": "Zadaje obrażenia okresowe, a po określonym czasie — ciężkie obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053751_desc_effect", "source": "Received energy from the broodkeeper.\nIt will disappear if another type of energy is applied or explode if the same aura is applied.\n<desc_point>{abe:160537512:value02:divide100}%</> Move Speed", "translation": "Otrzymano energię od strażnika lęgu.\nZniknie po nałożeniu energii innego rodzaju albo wybuchnie po nałożeniu tej samej aury.\n<desc_point>{abe:160537512:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053751_desc_name", "source": "Burning Rage Energy", "translation": "Energia płonącego gniewu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053751_desc_summary", "source": "Reduces Move Speed, deals heavy damage after delay", "translation": "Zmniejsza szybkość ruchu i zadaje ciężkie obrażenia po pewnym czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053760_desc_effect", "source": "Received energy from the broodkeeper.\nWill explode after a period of time.", "translation": "Otrzymano energię od strażnika lęgu.\nPo pewnym czasie nastąpi wybuch.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053760_desc_name", "source": "Tenebrous Abyssal Energy", "translation": "Mroczna energia Otchłani", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053760_desc_summary", "source": "Deals Damage over Time, deals heavy damage after a fixed duration", "translation": "Zadaje obrażenia okresowe, a po określonym czasie — ciężkie obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053761_desc_effect", "source": "Received energy from the broodkeeper.\nIt will disappear if another type of energy is applied or explode if the same aura is applied.\n<desc_point>{abe:160537512:value02:divide100}%</> Move Speed", "translation": "Otrzymano energię od strażnika lęgu.\nZniknie po nałożeniu energii innego rodzaju albo wybuchnie po nałożeniu tej samej aury.\n<desc_point>{abe:160537512:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053761_desc_name", "source": "Tenebrous Abyssal Energy", "translation": "Mroczna energia Otchłani", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16053761_desc_summary", "source": "Reduces Move Speed, deals heavy damage after delay", "translation": "Zmniejsza szybkość ruchu i zadaje ciężkie obrażenia po pewnym czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16056701_desc_effect", "source": "Detonates a bomb set by Nazmun, dealing area damage.", "translation": "Detonuje bombę podłożoną przez Nazmuna, zadając obrażenia obszarowe.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16056701_desc_name", "source": "High Voltage Electric Current Zone", "translation": "Strefa prądu wysokiego napięcia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16056701_desc_summary", "source": "Deals AoE Damage after a fixed duration", "translation": "Po określonym czasie zadaje obrażenia obszarowe", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600301_desc_effect", "source": "Grants Protective Shield equaling {abe:1606003011:value04:divide100}% of Max HP", "translation": "Zapewnia tarczę ochronną o wartości {abe:1606003011:value04:divide100}% maks. PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600301_desc_name", "source": "Protective Shield", "translation": "Tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600301_desc_summary", "source": "Protective Shield effect", "translation": "Efekt tarczy ochronnej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600501_desc_effect", "source": "Grants Protective Shield equaling {abe:1606005011:value04:divide100}% of Max HP", "translation": "Zapewnia tarczę ochronną o wartości {abe:1606005011:value04:divide100}% maks. PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600501_desc_name", "source": "Protective Shield", "translation": "Tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_160600501_desc_summary", "source": "Protective Shield effect", "translation": "Efekt tarczy ochronnej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060602_desc_effect", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060602_desc_name", "source": "Trajectory of Darkness", "translation": "Tor ciemności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060602_desc_summary", "source": "Black Smoke", "translation": "Czarny dym", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060902_desc_effect", "source": "<desc_point>{abe:160609021:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:160609021:value02:divide100}%</> Odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060902_desc_name", "source": "Chain of Torment", "translation": "Łańcuch Udręki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16060902_desc_summary", "source": "Reduces Damage Tolerance", "translation": "Zmniejsza odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16063724_desc_effect", "source": "Deals AoE damage that spreads after a fixed duration", "translation": "Zadaje obrażenia obszarowe, które rozprzestrzeniają się po określonym czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16063724_desc_name", "source": "Condensed Lightning", "translation": "Skondensowana błyskawica", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16063724_desc_summary", "source": "Deals AoE damage that spreads after a fixed duration", "translation": "Zadaje obrażenia obszarowe, które rozprzestrzeniają się po określonym czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16064521_desc_effect", "source": "Deals Damage over Time", "translation": "Zadaje obrażenia w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16064521_desc_name", "source": "Thunder Strike Remains", "translation": "Pozostałości uderzenia pioruna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16064521_desc_summary", "source": "Deals Damage over Time within an area", "translation": "Zadaje obrażenia w czasie na danym obszarze", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16068705_desc_effect", "source": "<desc_point>{abe:160687051:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:160687051:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_16068705_desc_name", "source": "Lightning Steps", "translation": "Kroki błyskawicy", "status": "draft"}

@@ -1,0 +1,111 @@
+{"id": "QuestString_TestQuest_All_District_None_038_quest_short_summary", "source": "Let's test.", "translation": "Sprawdźmy.", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_quest_summary_journal_complete", "source": "Notification system message test 1", "translation": "Test komunikatu systemowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_quest_summary_popup_complete", "source": "Notification system message test 1", "translation": "Test komunikatu systemowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_quest_title", "source": "Notification system message test 1", "translation": "Test komunikatu systemowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step1", "source": "Reach PC level 20", "translation": "Osiągnij 20. poziom postaci", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step1_obj_1", "source": "Reach level 20", "translation": "Osiągnij 20. poziom", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step2", "source": "Clear a Regional Quest", "translation": "Ukończ zadanie regionalne", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step2_obj_1", "source": "Clear Quest", "translation": "Ukończ zadanie", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step3", "source": "Clear Quest 9120001", "translation": "Ukończ zadanie 9120001", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step3_obj_1", "source": "Clear Quest", "translation": "Ukończ zadanie", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step4", "source": "Clear 9120001 step 1", "translation": "Ukończ etap 1 zadania 9120001", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step4_obj_1", "source": "Clear step 1", "translation": "Ukończ etap 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step5", "source": "Obtain Life Serum", "translation": "Zdobądź serum życia", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_038_step5_obj_1", "source": "Obtain Item", "translation": "Zdobądź przedmiot", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_quest_short_summary", "source": "Let's test.", "translation": "Sprawdźmy.", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_quest_summary_journal_complete", "source": "Notification system message test 2", "translation": "Test komunikatu systemowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_quest_summary_popup_complete", "source": "Notification system message test 2", "translation": "Test komunikatu systemowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_quest_title", "source": "Notification system message test 2", "translation": "Test komunikatu systemowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step1", "source": "Use Life Serum", "translation": "Użyj serum życia", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step1_obj_1", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step2", "source": "Use Potion", "translation": "Użyj mikstury", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step2_obj_1", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step3", "source": "Craft (No move points)", "translation": "Wytwórz (bez punktów ruchu)", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step3_obj_1", "source": "Make Life Potion", "translation": "Wytwórz miksturę życia", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step4", "source": "Craft (Move points exist)", "translation": "Wytwórz (dostępne punkty ruchu)", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step4_obj_1", "source": "Make Life Potion", "translation": "Wytwórz miksturę życia", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step5", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvis", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_039_step5_obj_1", "source": "Click", "translation": "Kliknij", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_complete_desc", "source": "Report completion of quest", "translation": "Zgłoś ukończenie zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_quest_short_summary", "source": "Let's test.", "translation": "Sprawdźmy.", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_quest_summary_journal_complete", "source": "Supplied Item quest test", "translation": "Test zadania z dostarczonym przedmiotem", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_quest_summary_popup_complete", "source": "Supplied Item quest test", "translation": "Test zadania z dostarczonym przedmiotem", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_quest_title", "source": "Supplied Item quest test", "translation": "Test zadania z dostarczonym przedmiotem", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_step1", "source": "Claim item from NPC", "translation": "Odbierz przedmiot od NPC", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_040_step1_obj_1", "source": "Claim item", "translation": "Odbierz przedmiot", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_complete_desc", "source": "Report completion of quest", "translation": "Zgłoś ukończenie zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_quest_short_summary", "source": "CloseNote Test", "translation": "Test CloseNote", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_quest_summary_journal_complete", "source": "CloseNote Test", "translation": "Test CloseNote", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_quest_summary_popup_complete", "source": "CloseNote Test", "translation": "Test CloseNote", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_quest_title", "source": "CloseNote Test", "translation": "Test CloseNote", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_step1", "source": "Go through luggage to find the Note", "translation": "Przeszukaj bagaż, aby znaleźć notatkę", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_step1_obj_1", "source": "Look through luggage", "translation": "Przeszukaj bagaż", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_step2", "source": "View Note", "translation": "Obejrzyj notatkę", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_041_step2_obj_1", "source": "View Note", "translation": "Obejrzyj notatkę", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_complete_desc", "source": "Report completion of quest", "translation": "Zgłoś ukończenie zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_quest_short_summary", "source": "Use_ui_bar Test", "translation": "Test Use_ui_bar", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_quest_summary_journal_complete", "source": "Use_ui_bar Test", "translation": "Test Use_ui_bar", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_quest_summary_popup_complete", "source": "Use_ui_bar Test", "translation": "Test Use_ui_bar", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_quest_title", "source": "Use_ui_bar Test", "translation": "Test Use_ui_bar", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step1", "source": "Collect 10 Daeva Marks\n- Complete Regional Quest\n- Explore Sealed Dungeon\n- Unlock Expedition Achievement\n- Explore Stronghold", "translation": "Zbierz 10 Znaków Daevy\n- Ukończ zadanie regionalne\n- Zbadaj Zapieczętowany Loch\n- Odblokuj osiągnięcie ekspedycji\n- Zbadaj twierdzę", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step1_obj_1", "source": "Collect 10 Daeva Marks", "translation": "Zbierz 10 Znaków Daevy", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step2", "source": "Defeat 3 monsters", "translation": "Pokonaj 3 potwory", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step2_obj_1", "source": "Defeat Monster", "translation": "Pokonaj potwora", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step3", "source": "Defeat 4 monsters", "translation": "Pokonaj 4 potwory", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_042_step3_obj_1", "source": "Defeat Monster", "translation": "Pokonaj potwora", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_complete_desc", "source": "Report completion of quest", "translation": "Zgłoś ukończenie zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_quest_short_summary", "source": "PCSocial Test", "translation": "Test PCSocial", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_quest_summary_journal_complete", "source": "PCSocial Test", "translation": "Test PCSocial", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_quest_summary_popup_complete", "source": "PCSocial Test", "translation": "Test PCSocial", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_quest_title", "source": "PCSocial Test", "translation": "Test PCSocial", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_step1", "source": "Go to location and use social action", "translation": "Udaj się we wskazane miejsce i użyj akcji społecznej", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_step1_obj_1", "source": "Agree to using social actions (/affirm)", "translation": "Użyj akcji społecznej wyrażającej zgodę (/affirm)", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_step2", "source": "Go to location and use social action", "translation": "Udaj się we wskazane miejsce i użyj akcji społecznej", "status": "draft"}
+{"id": "QuestString_TestQuest_All_District_None_043_step2_obj_1", "source": "Use Boast Weapon social actions (/weapon)", "translation": "Użyj akcji społecznej „Pochwal się bronią” (/weapon)", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_quest_short_summary", "source": "AskNpc Goal Test", "translation": "Test celu AskNpc", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_quest_summary_journal_complete", "source": "AskNpc Confirm if the goal and conversations are displayed correctly", "translation": "AskNpc Sprawdź, czy cel i rozmowy wyświetlają się prawidłowo", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_quest_summary_popup_complete", "source": "(Popup text)AskNpc Confirm if the goal and conversations are displayed correctly", "translation": "(Tekst okna)AskNpc Sprawdź, czy cel i rozmowy wyświetlają się prawidłowo", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_quest_title", "source": "Duty Quest Test 1", "translation": "Test zadania służbowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_step1", "source": "Confirm quest functions", "translation": "Sprawdź działanie funkcji zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_001_step1_obj_1", "source": "Talk to Dada", "translation": "Porozmawiaj z Dadą", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_quest_short_summary", "source": "KillNpc Goal Test", "translation": "Test celu KillNpc", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_quest_summary_journal_complete", "source": "KillNpc Defeat balance test monsters for goal test", "translation": "KillNpc Pokonaj potwory testowe do sprawdzenia celu", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_quest_summary_popup_complete", "source": "(Popup text) KillNpc Defeat balance test monsters for goal test", "translation": "(Tekst okna) KillNpc Pokonaj potwory testowe do sprawdzenia celu", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_quest_title", "source": "Duty Quest Test 2", "translation": "Test zadania służbowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_step1", "source": "Confirm hunt functions", "translation": "Sprawdź działanie polowania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_step1_obj_1", "source": "Balance test 1 defeat", "translation": "Pokonaj 1 potwora testowego", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_step1_obj_2", "source": "Defeat balance test 5", "translation": "Pokonaj 5 potworów testowych", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_step1_obj_3", "source": "Balance test 10 defeat", "translation": "Pokonaj 10 potworów testowych", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_002_step1_obj_4", "source": "Defeat balance test 15", "translation": "Pokonaj 15 potworów testowych", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_quest_short_summary", "source": "PcLevel Test", "translation": "Test PcLevel", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_quest_summary_journal_complete", "source": "Achieve the target level and meet Maru", "translation": "Osiągnij wymagany poziom i spotkaj się z Maru", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_quest_summary_popup_complete", "source": "(Popup text)Achieve the target level and meet Maru", "translation": "(Tekst okna)Osiągnij wymagany poziom i spotkaj się z Maru", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_quest_title", "source": "Duty Quest Test 3", "translation": "Test zadania służbowego 3", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_step1", "source": "Confirm quest functions", "translation": "Sprawdź działanie funkcji zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_003_step1_obj_1", "source": "Reach Level 20", "translation": "Osiągnij 20. poziom", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_quest_short_summary", "source": "Zone entry and sub-zone limited hunt test", "translation": "Test polowania ograniczonego do strefy i podstrefy", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_quest_summary_journal_complete", "source": "Examine the spot where the mysterious flowers bloom and solve the problem", "translation": "Zbadaj miejsce, w którym kwitną tajemnicze kwiaty, i rozwiąż problem", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_quest_summary_popup_complete", "source": "(Popup text)Examine the spot where the mysterious flowers bloom and solve the problem", "translation": "(Tekst okna)Zbadaj miejsce, w którym kwitną tajemnicze kwiaty, i rozwiąż problem", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_quest_title", "source": "Duty Quest Test 4", "translation": "Test zadania służbowego 4", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_step1_obj_1", "source": "Enter mysterious area", "translation": "Wejdź na tajemniczy obszar", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_step2", "source": "Second step text", "translation": "Tekst drugiego etapu", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_004_step2_obj_1", "source": "Defeat monsters in the mysterious area", "translation": "Pokonaj potwory na tajemniczym obszarze", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_quest_short_summary", "source": "UseEnvObj, GatherSuccess Test", "translation": "Test UseEnvObj, GatherSuccess", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_quest_summary_journal_complete", "source": "Quest object collection and gathering success test", "translation": "Test zbierania przedmiotu zadania i pomyślnego pozyskiwania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_quest_summary_popup_complete", "source": "(Popup text) Quest object collection and gathering success test", "translation": "(Tekst okna)Test zbierania przedmiotu zadania i pomyślnego pozyskiwania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_quest_title", "source": "Duty Quest Test 5", "translation": "Test zadania służbowego 5", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_step1", "source": "Confirm quest functions", "translation": "Sprawdź działanie funkcji zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_step1_obj_1", "source": "Find the Shugo's belongings", "translation": "Znajdź dobytek Shugo", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_step1_obj_2", "source": "Defeat heckler monster", "translation": "Pokonaj potwora-prześmiewcę", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_step2", "source": "Confirm quest functions", "translation": "Sprawdź działanie funkcji zadania", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Duty_TestGroup_005_step2_obj_1", "source": "Iron Ore gathering success", "translation": "Pomyślnie zbierz rudę żelaza", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_01_quest_short_summary", "source": "Reach level 20.", "translation": "Osiągnij 20. poziom.", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_01_quest_summary_journal_complete", "source": "Training Quest Test 1", "translation": "Test zadania treningowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_01_quest_summary_popup_complete", "source": "Training Quest Test 1", "translation": "Test zadania treningowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_01_quest_title", "source": "Training Quest Test 1", "translation": "Test zadania treningowego 1", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_01_step1", "source": "Reach level 20", "translation": "Osiągnij 20. poziom", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_02_quest_short_summary", "source": "Reach level 30.", "translation": "Osiągnij 30. poziom.", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_02_quest_summary_journal_complete", "source": "Training Quest Test 2", "translation": "Test zadania treningowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_02_quest_summary_popup_complete", "source": "Training Quest Test 2", "translation": "Test zadania treningowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_02_quest_title", "source": "Training Quest Test 2", "translation": "Test zadania treningowego 2", "status": "draft"}
+{"id": "QuestString_TestQuest_All_Training_02_step1", "source": "Reach level 30", "translation": "Osiągnij 30. poziom", "status": "draft"}

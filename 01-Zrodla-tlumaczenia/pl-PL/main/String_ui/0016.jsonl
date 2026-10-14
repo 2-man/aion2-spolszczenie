@@ -1,0 +1,250 @@
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11030_2_body", "source": "This account is currently suspended at the user’s request. If you need further assistance, please contact Customer Support. Press [Cancel] to exit the game.", "translation": "To konto jest obecnie zawieszone na prośbę użytkownika. Jeśli potrzebujesz dalszej pomocy, skontaktuj się z działem obsługi klienta. Naciśnij [Cancel], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11031_SHUTDOWN_body", "source": "Due to operational necessity, this account is currently under temporary protective measures.\nWe sincerely apologize for any inconvenience this may cause.\nFor more details, please refer to the community announcements or the Customer Support page. Press [Cancel] to exit the game.", "translation": "Ze względów operacyjnych konto zostało tymczasowo objęte środkami ochronnymi.\nPrzepraszamy za wszelkie niedogodności.\nWięcej informacji znajdziesz w ogłoszeniach społeczności lub na stronie obsługi klienta. Naciśnij [Cancel], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11031_body", "source": "Due to operational necessity, this account is currently under temporary protective measures.\nWe sincerely apologize for any inconvenience this may cause.\nFor more details, please refer to the community announcements or the Customer Support page.", "translation": "Ze względów operacyjnych konto zostało tymczasowo objęte środkami ochronnymi.\nPrzepraszamy za wszelkie niedogodności.\nWięcej informacji znajdziesz w ogłoszeniach społeczności lub na stronie obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11032_body", "source": "A security vulnerability has been identified in the game, and your account access has been temporarily restricted.", "translation": "Wykryto lukę w zabezpieczeniach gry i tymczasowo ograniczono dostęp do konta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11033_body", "source": "A security vulnerability has been identified in the game, and your account access has been temporarily restricted.\nYou will be able to access the game normally once verification is completed via the link below.", "translation": "Wykryto lukę w zabezpieczeniach gry i tymczasowo ograniczono dostęp do konta.\nPo zakończeniu weryfikacji za pomocą poniższego łącza będzie można normalnie uzyskać dostęp do gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11034_body", "source": "A security vulnerability has been identified in the game, and your account access has been temporarily restricted.\nPress [Confirm] to exit the game.", "translation": "Wykryto lukę w zabezpieczeniach gry i tymczasowo ograniczono dostęp do konta.\nNaciśnij [Confirm], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11035_body", "source": "A security vulnerability has been identified in the game, and your account access has been temporarily restricted.\nYou will be able to access the game normally once verification is completed via the link below.\nPress [Cancel] to close the game.", "translation": "Wykryto lukę w zabezpieczeniach gry i tymczasowo ograniczono dostęp do konta.\nPo zakończeniu weryfikacji za pomocą poniższego łącza będzie można normalnie uzyskać dostęp do gry.\nNaciśnij [Cancel], aby zamknąć grę.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG110_body", "source": "This account has been restricted in accordance with the Terms of Service.\nIf you need further information or assistance, please contact Customer Support.", "translation": "To konto zostało zablokowane zgodnie z Warunkami korzystania z usługi.\nJeśli potrzebujesz dodatkowych informacji lub pomocy, skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG111_body", "source": "This account has been restricted in accordance with our Operational Policy.\nIf you need further information or assistance, please contact Customer Support.\nPress [Cancel] to exit the game.", "translation": "To konto zostało zablokowane zgodnie z naszą Polityką operacyjną.\nJeśli potrzebujesz dodatkowych informacji lub pomocy, skontaktuj się z działem obsługi klienta.\nNaciśnij [Cancel], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG_FORCEDSHUTDOWN_CLIENT_body", "source": "A violation of the Operations Policy has been confirmed and your account has been restricted.\nPlease contact Customer Support for detailed information.\nPress [Confirm] to exit the game.", "translation": "Potwierdzono naruszenie Polityki operacyjnej i zablokowano konto.\nAby uzyskać szczegółowe informacje, skontaktuj się z działem obsługi klienta.\nNaciśnij [Confirm], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG_FORCEDSHUTDOWN_body", "source": "A violation of the Operations Policy has been confirmed and your account has been restricted.\nPlease contact Customer Support for detailed information.", "translation": "Potwierdzono naruszenie Polityki operacyjnej i zablokowano konto.\nAby uzyskać szczegółowe informacje, skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG_SHUTDOWN_body", "source": "Your game session has been terminated by an administrator.\nFor more information, please contact Customer Support.\nPress [Confirm] to exit the game.", "translation": "Administrator zakończył sesję gry.\nAby uzyskać więcej informacji, skontaktuj się z działem obsługi klienta.\nNaciśnij [Confirm], aby wyjść z gry.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG_body", "source": "Your game session has been terminated by an administrator. For more information, please contact Customer Support.", "translation": "Administrator zakończył sesję gry. Aby uzyskać więcej informacji, skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INVENTORY_CONTEXT_CHANGE_NAME_body", "source": "Change Cube Name", "translation": "Zmień nazwę ekwipunku", "status": "draft"}
+{"id": "String_UI_INVENTORY_CONTEXT_UNLOCK_body", "source": "Unlock Cube", "translation": "Odblokuj ekwipunek", "status": "draft"}
+{"id": "String_UI_INVENTORY_CUBE_EXTENSION_CONFIRM_MSGBOX_body", "source": "Add Cube?", "translation": "Dodać ekwipunek?", "status": "draft"}
+{"id": "String_UI_INVENTORY_SLOT_CAN_NOT_EQUIP_body", "source": "Cannot Equip", "translation": "Nie można założyć", "status": "draft"}
+{"id": "String_UI_INVENTORY_SLOT_CAN_NOT_USE_body", "source": "Unusable", "translation": "Niedostępne do użycia", "status": "draft"}
+{"id": "String_UI_INVENTORY_SLOT_COUNT_body", "source": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2}", "translation": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2}", "status": "draft"}
+{"id": "String_UI_INVENTORY_TEMPORARY_SLOT_MORE_GUIDE_body", "source": "There are items left to claim.\nPlease make room in your Cube.", "translation": "Pozostały przedmioty do odebrania.\nZrób miejsce w ekwipunku.", "status": "draft"}
+{"id": "String_UI_INVENTORY_TEMPORARY_body", "source": "Temporary Storage", "translation": "Magazyn tymczasowy", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_ACCESSORY_body", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_APPEARANCE_body", "source": "Skins", "translation": "Skórki", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_ARMOR_body", "source": "Armor", "translation": "Zbroja", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_CRAFT_body", "source": "Design/Upgrade", "translation": "Schematy/ulepszenia", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_CURRENCY_body", "source": "Currency", "translation": "Waluta", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_EMBLEM_body", "source": "Seals", "translation": "Pieczęcie", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_ENCHANTSTONE_body", "source": "Gear Enhance", "translation": "Ulepszanie wyposażenia", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_ETC_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_FOOD_body", "source": "Food/Beverage", "translation": "Jedzenie/napoje", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_MATERIAL_body", "source": "Crafting Materials", "translation": "Materiały rzemieślnicze", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_MISCGROWTH_body", "source": "Growth Materials", "translation": "Materiały rozwoju", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_MISC_body", "source": "Miscellaneous", "translation": "Różne", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_NONE_body", "source": "Misc.", "translation": "Pozostałe", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_POTION_body", "source": "Potions", "translation": "Mikstury", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_QUESTITEM_body", "source": "Quest Items", "translation": "Przedmioty zadaniowe", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_QUEST_body", "source": "Quest", "translation": "Zadanie", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_SCROLL_body", "source": "Scrolls", "translation": "Zwoje", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_SUPPLY_body", "source": "Supplies", "translation": "Zaopatrzenie", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_TELEPORT_body", "source": "Travel", "translation": "Podróż", "status": "draft"}
+{"id": "String_UI_ITEMFILTERTYPE_INVENTORY_WEAPON_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_EXTENDING_WEAPON_TEXT_body", "source": "(Extend)", "translation": "(Rozszerz)", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_GRADE_CATEGORY_body", "source": "<{0}>{1}</> {2} {3}", "translation": "<{0}>{1}</> {2} {3}", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_ADDTIONALINFO_body", "source": "{0}/{1}-Hit Weapon", "translation": "Broń trafiająca {0}/{1} razy", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_COMMON_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_WEAPON_ONEHAND_body", "source": "One-Handed", "translation": "Jednoręczna", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_WEAPON_SUB_body", "source": "Secondary", "translation": "Dodatkowa", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_WEAPON_TWOHANDED_body", "source": "Two-Handed", "translation": "Dwuręczna", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_INFO_TYPE_WEAPON_body", "source": "{0}/{1}/{2}-hit Weapon", "translation": "Broń trafiająca {0}/{1}/{2} razy", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_ITEMLEVEL_TITLE_body", "source": "Item Level", "translation": "Poziom przedmiotu", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_EFFECT_TIME_body", "source": "Duration", "translation": "Czas działania", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_EXCEED_ENCHANT_body", "source": "Amplify", "translation": "Wzmocnij", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_GoldBinding_body", "source": "Unbound", "translation": "Niezwiązany", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_GoldNonbinding_body", "source": "Bind", "translation": "Zwiąż", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_NEW_body", "source": "NEW", "translation": "NOWE", "status": "draft"}
+{"id": "String_UI_ITEMTOOLTIP_TEXT_PRICE_body", "source": "Sale Price", "translation": "Cena sprzedaży", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_BUTTON_RECOVERY_body", "source": "Recover", "translation": "Odzyskaj", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_BUTTON_REQUEST_body", "source": "Request", "translation": "Złóż wniosek", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_COUNT_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_GUIDE_body", "source": "{1} recovery requests available until {0}.", "translation": "Dostępne wnioski o odzyskanie: {1} do {0}.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_ITEM_RESTORE_body", "source": "Recovered", "translation": "Odzyskano", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_ITEM_RETURN_body", "source": "Retrieved", "translation": "Przywrócono", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_DECOMPOSE_body", "source": "Extracted Item", "translation": "Odzyskany przedmiot", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_DELETE_body", "source": "Deleted Item", "translation": "Usunięty przedmiot", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_POLICY_body", "source": "Recovery Policy", "translation": "Zasady odzyskiwania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_SHOP_COIN_BUY_body", "source": "Purchased Abyss Shop Item", "translation": "Kupiony przedmiot ze sklepu Otchłani", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_SHOP_KINA_BUY_body", "source": "Purchased Wind Breeze Merchants Item", "translation": "Kupiony przedmiot od Kupców Wietrznej Bryzy", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_SHOP_NPC_BUY_body", "source": "Purchased NPC Shop Item", "translation": "Kupiony przedmiot ze sklepu NPC", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_SHOP_NPC_SELL_body", "source": "Items Sold to Shops", "translation": "Przedmioty sprzedane do sklepów", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_MENU_SOULATTUNE_body", "source": "Consumed Soul Sync Item", "translation": "Przedmiot zużyty do synchronizacji duszy", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POLICY_DESC_body", "source": "- Items lost within the last 3 days are eligible for recovery (up to 50 items shown in the recovery list).\n- Each item counts as one request. Stacked items are treated as a single item regardless of quantity.\n- Temporary items cannot be recovered.\n- Recovered item(s) are delivered to the Cube immediately.\n- Recovery limit resets annually on January 1 at 00:00.\n- Unique grade or higher items are eligible for extraction recovery.\n- Enhance Stones and Abyss Points obtained from extraction are retrieved upon recovering the extracted items. Kina consumed are recovered in Kina (Bound).\n- Skins obtained from extraction are not retrieved, and related Collection Effects will also remain as is.\n- Stats synced will remain as is when recovering materials for Soul Sync.", "translation": "- Odzyskać można przedmioty utracone w ciągu ostatnich 3 dni (na liście odzyskiwania widać maksymalnie 50 przedmiotów).\n- Każdy przedmiot zużywa jeden wniosek. Przedmioty w stosie liczą się jako jeden, niezależnie od liczby sztuk.\n- Przedmiotów tymczasowych nie można odzyskać.\n- Odzyskane przedmioty są natychmiast dostarczane do ekwipunku.\n- Limit odzyskiwania resetuje się co roku 1 stycznia o 00:00.\n- Przedmioty rangi unikatowej lub wyższej można odzyskać po pozyskaniu esencji.\n- Kamienie ulepszeń i punkty Otchłani uzyskane podczas pozyskiwania esencji są zwracane po odzyskaniu przedmiotów. Zużyte Kina są zwracane jako związane Kina.\n- Skórki uzyskane podczas pozyskiwania esencji nie są zwracane, a powiązane efekty kolekcji pozostają bez zmian.\n- Przy odzyskiwaniu materiałów do synchronizacji duszy zsynchronizowane statystyki pozostają bez zmian.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POLICY_STANDARD_DESC_body", "source": "[Items Sold to Shops]\n- Applies to: Items unintentionally sold to Merchant NPCs\n- Recovery Limit: 30 times per year\n\n[Extracted Items]\n- Applies to: Items unintentionally extracted\n- Recovery Limit: 1 time per year\n\n[Soul Sync Materials]\n- Applies to: Items (including Sync Stones) unintentionally consumed for Soul Sync\n- Recovery Limit: 1 time per year", "translation": "[Przedmioty sprzedane do sklepów]\n- Dotyczy: przedmiotów przypadkowo sprzedanych kupcom NPC\n- Limit odzyskiwania: 30 razy w roku\n\n[Przedmioty pozyskane]\n- Dotyczy: przedmiotów przypadkowo pozyskanych\n- Limit odzyskiwania: 1 raz w roku\n\n[Materiały do synchronizacji duszy]\n- Dotyczy: przedmiotów (w tym kamieni synchronizacji) przypadkowo zużytych do synchronizacji duszy\n- Limit odzyskiwania: 1 raz w roku", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POLICY_STANDARD_TITLE_body", "source": "Recovery Eligibility", "translation": "Warunki odzyskiwania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POLICY_SUMMARY_body", "source": "Eligibility for item recovery is as follows. Eligibility and scope of recovery for items not listed below are subject to general recovery principles.", "translation": "Zasady odzyskiwania przedmiotów opisano poniżej. Do przedmiotów niewymienionych poniżej stosują się ogólne zasady odzyskiwania.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POLICY_TITLE_body", "source": "Recovery Policy", "translation": "Zasady odzyskiwania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_COMPLETED_body", "source": "Recovery complete.\nPlease check your Cube.", "translation": "Odzyskiwanie zakończone.\nSprawdź ekwipunek.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_GUIDE_AGREE_NO_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_GUIDE_AGREE_YES_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_GUIDE_AGREE_body", "source": "I have read and agree to the recovery policy and consent to item recovery.", "translation": "Zapoznałem(-am) się z zasadami odzyskiwania i wyrażam zgodę na odzyskanie przedmiotu.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_GUIDE_CAUTION_body", "source": "Recovery counts are limited in accordance with the operational policy. Future recovery requests may be unavailable based on recovery counts. Please refer to the recovery policy for further details.", "translation": "Liczba odzyskań jest ograniczona zgodnie z polityką operacyjną. Możliwość składania kolejnych wniosków może zależeć od wykorzystanego limitu. Szczegóły znajdziesz w zasadach odzyskiwania.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_POPUP_TITLE_body", "source": "Request Recovery", "translation": "Złóż wniosek o odzyskanie", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_REQUEST_ITEM_LIST_body", "source": "List of Items for Recovery", "translation": "Lista przedmiotów do odzyskania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_REQUEST_NOT_EXIST_body", "source": "No items to recover.", "translation": "Brak przedmiotów do odzyskania.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_RESULT_DAY_body", "source": "Recovery Date", "translation": "Data odzyskania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_RESULT_ITEM_body", "source": "Recovered Item", "translation": "Odzyskany przedmiot", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_RESULT_NOT_EXIST_body", "source": "No recovery history in the past 3 months.", "translation": "Brak historii odzyskiwania z ostatnich 3 miesięcy.", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_RESULT_STATUS_body", "source": "Recovery Status", "translation": "Status odzyskiwania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_SELECTED_CURRENCY_body", "source": "Amount to be {0}", "translation": "Kwota do {0}", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_SELECTED_ITEM_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_SELECTED_ITEM_body", "source": "Item to be {0}", "translation": "Przedmiot do {0}", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_STATUS_FAIL_body", "source": "Failure", "translation": "Niepowodzenie", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_STATUS_SUCCESS_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_TAB_REQUEST_body", "source": "Request Recovery", "translation": "Złóż wniosek o odzyskanie", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_TAB_RESULT_body", "source": "Recovery Details", "translation": "Szczegóły odzyskiwania", "status": "draft"}
+{"id": "String_UI_ITEM_RECOVERY_TITLE_body", "source": "Recover Item", "translation": "Odzyskaj przedmiot", "status": "draft"}
+{"id": "String_UI_ITEM_SUBSTAT_SKILL_LEVEL_UPGRADE_VALUE_body", "source": "Lv. +{0}", "translation": "Poz. +{0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_CONVERSION_LIST_body", "source": "Morph Available Design", "translation": "Dostępne projekty przemiany", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_CONVERSION_REGISTER_body", "source": "Substance Morph Design", "translation": "Projekt transmutacji substancji", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_CRAFT_LIST_body", "source": "Craftable Designs", "translation": "Projekty rzemieślnicze", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_EMBLEM_CHARACTERINFO_body", "source": "Item Bound to Another Character", "translation": "Przedmiot związany z inną postacią", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_EMBLEM_body", "source": "Seal", "translation": "Pieczęć", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ACHIEVEMENT_INFO1_body", "source": "Achievements Complete", "translation": "Ukończono osiągnięcia", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ACHIEVEMENT_INFO2_1_body", "source": "[{0}] Rewards per Level", "translation": "[{0}] Nagrody za poziom", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ACHIEVEMENT_INFO2_body", "source": "Achievement Unlocked", "translation": "Odblokowano osiągnięcie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ACHIEVEMENT_body", "source": "Achievements", "translation": "Osiągnięcia", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ARENA_body", "source": "Arena", "translation": "Arena", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ASCENSION_INFO_body", "source": "Complete the \"{0}\" Quest", "translation": "Ukończ zadanie „{0}”", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ASCENSION_body", "source": "Ascension", "translation": "Wstąpienie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ATTENDANCE_body", "source": "Attendance", "translation": "Obecność", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_AWAKEN_INFO1_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_AWAKEN_body", "source": "Ascension Trial", "translation": "Próba Wstąpienia", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BATTLEFIELD_body", "source": "Battlefield", "translation": "Pole bitwy", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BATTLEPASS_INFO_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BATTLEPASS_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BMSHOP_INFO1_body", "source": "{0} [{1}]", "translation": "{0} [{1}]", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BMSHOP_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BOSSCHALLENGE_INFO1_body", "source": "{0} (Level {1})", "translation": "{0} (poziom {1})", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_BOSSCHALLENGE_body", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_COINSHOP_INFO1_body", "source": "{0} [{1}]", "translation": "{0} [{1}]", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_COINSHOP_body", "source": "Trade Shop", "translation": "Sklep wymiany", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_CONVERSION_body", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_CRAFT_body", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DAILYDUNGEON_DAILY_body", "source": "Unknown Fissure", "translation": "Nieznana Szczelina", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DAILYDUNGEON_GROWTH_body", "source": "Fields of Progress", "translation": "Pola Postępu", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DAILYDUNGEON_body", "source": "Daily Dungeon", "translation": "Loch dzienny", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DECOMPOSE_body", "source": "Item Extraction", "translation": "Pozyskiwanie przedmiotów", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DUNGEON_GARRISION_INFO_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DUNGEON_GARRISION_body", "source": "Stronghold", "translation": "Twierdza", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DUNGEON_SEAL_INFO_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_DUNGEON_SEAL_body", "source": "Sealed Dungeon", "translation": "Zapieczętowany loch", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_FIELDEVENT_BATTLE_INFO_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_FIELDEVENT_BATTLE_body", "source": "Dimensional Invasion", "translation": "Inwazja międzywymiarowa", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_FIELDEVENT_body", "source": "Shugo Festival", "translation": "Festiwal Shugo", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_GATHER_body", "source": "Gathering", "translation": "Zbieractwo", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_HIDDEN_CUBE_body", "source": "Hidden Cube", "translation": "Ukryty ekwipunek", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MEMBERSHIPPASS_INFO_body", "source": "[{0}] Rewards per Level", "translation": "[{0}] Nagrody za poziom", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MEMBERSHIPPASS_body", "source": "Membership Pass", "translation": "Przepustka członkowska", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MONOLITH_body", "source": "Monolith", "translation": "Monolit", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MONSTERDROP_INFO1_body", "source": "Lv. {0} {1}", "translation": "Poz. {0} {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MONSTERDROP_INFO2_body", "source": "{0} (Heroic)", "translation": "{0} (bohaterski)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MONSTERDROP_INFO4_body", "source": "{0} (Legendary)", "translation": "{0} (legendarny)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_MONSTERDROP_body", "source": "Looted from monsters", "translation": "Łupy z potworów", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_NPCSHOP_body", "source": "Merchant NPC", "translation": "Kupiec NPC", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ONBOARDING_INFO_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_ONBOARDING_body", "source": "Growth Support", "translation": "Wsparcie rozwoju", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYCHALLENGE_INFO1_body", "source": "[Stage{0}] {1}", "translation": "[Etap {0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYCHALLENGE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYDUNGEON_INFO1_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYDUNGEON_INFO2_body", "source": "{0} (Difficulty ★★)", "translation": "{0} (trudność ★★)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYDUNGEON_INFO3_body", "source": "{0} (Difficulty ★★★)", "translation": "{0} (trudność ★★★)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTYDUNGEON_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTY_RAID_INFO1_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PARTY_RAID_body", "source": "Sanctuary", "translation": "Sanktuarium", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_PERIODCOLLECTION_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_QUEST_INFO_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_QUEST_body", "source": "Quest", "translation": "Zadanie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_RANDOMSHOP_body", "source": "Black Cloud Merchants", "translation": "Kupcy Czarnej Chmury", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_RANKING_INFO1_body", "source": "{0} Rank", "translation": "Ranga {0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_RANKING_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_REWARD_BOX_body", "source": "Reward Chest", "translation": "Skrzynia z nagrodą", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SEASON_body", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SKIN_EXTRACTION_body", "source": "Extract Skin", "translation": "Pozyskaj skórkę", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SKIN_SHOP_body", "source": "Closet Shop", "translation": "Sklep z garderobą", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SUBSCRIBE_BATTLEPASS_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SUBSCRIBE_MEMBERSHIP_body", "source": "Membership", "translation": "Członkostwo", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SUBSCRIBE_body", "source": "Subscribe", "translation": "Subskrybuj", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SUPPRESSION_INFO1_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_SUPPRESSION_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_TITLE_body", "source": "Titles", "translation": "Tytuły", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_CATEGORY_VEHICLE_body", "source": "Pet Collection", "translation": "Kolekcja zwierzaków", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_ONBOARDING_BASIC_body", "source": "Basic", "translation": "Podstawowa", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_ONBOARDING_PREMIUM_body", "source": "Premium", "translation": "Premium", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_TITLE_CURRENCY_body", "source": "Main Source of Currency", "translation": "Główne źródło waluty", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GETROUTE_TITLE_body", "source": "Item Source", "translation": "Źródło przedmiotu", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GODSTONE_EFFECT_TITLE_body", "source": "Detailed Effects", "translation": "Szczegółowe efekty", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GODSTONE_EQUIP_CATEGORY_body", "source": "Engravable Item", "translation": "Przedmiot do grawerowania", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_GODSTONE_SLOT_EMPTY_body", "source": "Theostone Engravable", "translation": "Kamień Theostone do grawerowania", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_CHAT_ITEMLINK_body", "source": "Link Item in Chat", "translation": "Połącz przedmiot na czacie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_ACQUIRE_body", "source": "Source", "translation": "Źródło", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_ALL_body", "source": "Available to All Classes", "translation": "Dostępne dla wszystkich klas", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_ASSASSIN_body", "source": "Assassin", "translation": "Asasyn", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_AUTOUSE_body", "source": "Auto-use", "translation": "Użyj automatycznie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_BATCHUSE_body", "source": "Use in Bulk", "translation": "Użyj seriami", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CANNOT_EQUIP_ITEM_BY_MASTERY_body", "source": "Unequippable Gear", "translation": "Nie można założyć", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CANNOT_SURPASS_body", "source": "The Potential for this gear cannot be enhanced.", "translation": "Nie można zwiększyć potencjału tego wyposażenia.", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CAN_EQUIP_ITEM_BY_MASTERY_body", "source": "Equippable Gear", "translation": "Można założyć", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CAN_RANKENCHANT_body", "source": "Amplified Gear", "translation": "Wzmocnione wyposażenie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CAN_SURPASS_body", "source": "This gear can have Potential enhanced.", "translation": "Można zwiększyć potencjał tego wyposażenia.", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CHANTER_body", "source": "Chanter", "translation": "Zaklinacz", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CHARACTER_STORAGE_NOT_body", "source": "Cannot be placed in Character Storage", "translation": "Nie można umieścić w magazynie postaci", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CHARACTER_STORAGE_body", "source": "Can be placed in Character Storage", "translation": "Można umieścić w magazynie postaci", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_CLERIC_body", "source": "Cleric", "translation": "Kapłan", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_COMPARE_body", "source": "Compare Equipment", "translation": "Porównaj wyposażenie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_DARK_NOT_body", "source": "Asmodians Only (Unavailable)", "translation": "Tylko dla Asmodian (niedostępne)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_DARK_body", "source": "Asmodians Only", "translation": "Tylko dla Asmodian", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_DECOMPOSE_body", "source": "Extract", "translation": "Pozyskaj esencję", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_DELETE_body", "source": "Delete", "translation": "Usuń", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_ELEMENTALIST_body", "source": "Spiritmaster", "translation": "Zaklinacz duchów", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_EMBLEM_body", "source": "Seals", "translation": "Pieczęcie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_ENCHANT_body", "source": "Enhance Item", "translation": "Ulepsz przedmiot", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_EQUIP_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_EXCHANGE_NOT_body", "source": "Personal Trade Unavailable", "translation": "Handel osobisty niedostępny", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_EXCHANGE_SEARCH_body", "source": "Search Exchange", "translation": "Wyszukaj na giełdzie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_EXCHANGE_body", "source": "Grants Access to Personal Trade", "translation": "Umożliwia handel osobisty", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_FIGHTER_body", "source": "Brawler", "translation": "Pięściarz", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_GLADIATOR_body", "source": "Gladiator", "translation": "Gladiator", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_GODSTONE_body", "source": "Engrave Theostone", "translation": "Wygraweruj Theostone", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_GUILD_STORAGE_NOT_body", "source": "Cannot be placed in Legion Storage", "translation": "Nie można umieścić w magazynie legionu", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_GUILD_STORAGE_body", "source": "Can be placed in Legion Storage", "translation": "Można umieścić w magazynie legionu", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_IMPRINT_body", "source": "Engrave Manastone", "translation": "Wygraweruj kamień many", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_LEFT_body", "source": "View Left Info", "translation": "Wyświetl informacje po lewej", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_LIGHT_NOT_body", "source": "Elyos Only (Unavailable)", "translation": "Tylko dla Elyosów (niedostępne)", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_LIGHT_body", "source": "Elyos Only", "translation": "Tylko dla Elyosów", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_LOCK_body", "source": "Lock", "translation": "Zablokuj", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_MAX_ENCHANT_body", "source": "Can be amplified upon Reaching Max Enhancement", "translation": "Można wzmocnić po osiągnięciu maksymalnego poziomu ulepszenia", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_MORE_body", "source": "View Details", "translation": "Wyświetl szczegóły", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_PERIODCOLLECTION_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_PREVIEW_body", "source": "Preview", "translation": "Podgląd", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_PRICE_body", "source": "Shop Price", "translation": "Cena w sklepie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_RANGER_body", "source": "Ranger", "translation": "Łowca", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_RATE_INFO_body", "source": "View Probability Info", "translation": "Wyświetl informacje o szansach", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_RIGHT_body", "source": "View Right Info", "translation": "Wyświetl informacje po prawej", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_SORCERER_body", "source": "Sorcerer", "translation": "Czarownik", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_SOULBIND_body", "source": "Soul Bind", "translation": "Zwiąż duszę", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_STORAGE_NOT_body", "source": "Cannot be placed in Server Storage", "translation": "Nie można umieścić w magazynie serwera", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_STORAGE_body", "source": "Can be placed in Server Storage", "translation": "Można umieścić w magazynie serwera", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_TEMPLAR_body", "source": "Templar", "translation": "Templariusz", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_TRADESEARCH_body", "source": "Search Market", "translation": "Wyszukaj na rynku", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_TRADE_NOT_body", "source": "Not Tradable", "translation": "Nie można handlować", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_TRADE_body", "source": "Tradable", "translation": "Można handlować", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_UNEQUIP_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_UNLOCK_body", "source": "Unlock", "translation": "Odblokuj", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_USE_body", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_WORLD_EXCHANGE_SEARCH_body", "source": "Search World Exchange", "translation": "Wyszukaj na giełdzie światowej", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_MOUSEOVER_TEXT_WORLD_TRADESEARCH_body", "source": "Search World Market", "translation": "Wyszukaj na rynku światowym", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOULADD_INFO_BUTTON_body", "source": "Soul Fuse becomes available\nupon hitting 100% Soul Binding rate", "translation": "Fuzja dusz staje się dostępna\npo osiągnięciu 100% związania duszy", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOULADD_MATERIAL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOULADD_body", "source": "Soul Fuse", "translation": "Fuzja dusz", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOULBIND_ACQUIRE_body", "source": "Bind on pickup", "translation": "Zwiąż przy podniesieniu", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOULBIND_ONCE_ACQUIRE_body", "source": "Additional Properties", "translation": "Dodatkowe właściwości", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOUL_BIND_FIXED_body", "source": "Guaranteed Bind", "translation": "Gwarantowane związanie", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_SOUL_BIND_PERCENT_body", "source": "Soul Binding Rate", "translation": "Szansa związania duszy", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_USEROUTE_CATEGORY_PERIODCOLLECTION_INFO_body", "source": "[{0}] {1}", "translation": "[{0}] {1}", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_USEROUTE_CATEGORY_PERIODCOLLECTION_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_ITEM_TOOLTIP_USEROUTE_TITLE_body", "source": "Item Usage", "translation": "Użycie przedmiotu", "status": "draft"}
+{"id": "String_UI_ITEM_USE_MULTI_POPUP_COUNT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ITEM_USE_MULTI_POPUP_GUIDE_body", "source": "Use the selected number of items at once.", "translation": "Użyj jednocześnie wybraną liczbę przedmiotów.", "status": "draft"}
+{"id": "String_UI_ITEM_USE_MULTI_POPUP_TITLE_body", "source": "Bulk Use", "translation": "Użyj seriami", "status": "draft"}

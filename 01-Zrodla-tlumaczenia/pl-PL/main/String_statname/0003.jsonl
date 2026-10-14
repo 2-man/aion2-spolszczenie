@@ -1,0 +1,40 @@
+{"id": "String_StatName_SwimmingDefense_body", "source": "Underwater Defense", "translation": "Obrona pod wodą", "status": "draft"}
+{"id": "String_StatName_SwimmingMagicDamage_body", "source": "Underwater Magic Attack", "translation": "Atak magiczny pod wodą", "status": "draft"}
+{"id": "String_StatName_SwimmingMagicDefense_body", "source": "Underwater Magic Defense", "translation": "Obrona magiczna pod wodą", "status": "draft"}
+{"id": "String_StatName_SwimmingPhysicDamage_body", "source": "Underwater Physical Attack", "translation": "Atak fizyczny pod wodą", "status": "draft"}
+{"id": "String_StatName_SwimmingPhysicDefense_body", "source": "Underwater Physical Defense", "translation": "Obrona fizyczna pod wodą", "status": "draft"}
+{"id": "String_StatName_SwimmingSpeed_body", "source": "Swimming Speed", "translation": "Szybkość pływania", "status": "draft"}
+{"id": "String_StatName_SwimmingSprintCost_body", "source": "Sprint Stamina Cost Reduction Rate", "translation": "Współczynnik zmniejszenia kosztu Wytrzymałości podczas sprintu", "status": "draft"}
+{"id": "String_StatName_SwimmingSprintSpeed_body", "source": "Underwater Sprinting Speed", "translation": "Szybkość sprintu pod wodą", "status": "draft"}
+{"id": "String_StatName_SwordDamageRatio_body", "source": "Longsword Attack increase", "translation": "Zwiększenie ataku długim mieczem", "status": "draft"}
+{"id": "String_StatName_TauntAccuracy_body", "source": "Taunt Chance", "translation": "Szansa na sprowokowanie", "status": "draft"}
+{"id": "String_StatName_TauntResist_body", "source": "Taunt Resist", "translation": "Odporność na prowokację", "status": "draft"}
+{"id": "String_StatName_TauntTimeDecrease_body", "source": "Taunt duration reduction", "translation": "Skrócenie czasu prowokacji", "status": "draft"}
+{"id": "String_StatName_TauntTimeIncrease_body", "source": "Taunt duration increase", "translation": "Wydłużenie czasu prowokacji", "status": "draft"}
+{"id": "String_StatName_Time_body", "source": "Time [Siel]", "translation": "Czas [Siel]", "status": "draft"}
+{"id": "String_StatName_TorsoDefenseRatio_body", "source": "Top Defense increase", "translation": "Zwiększenie obrony tułowia", "status": "draft"}
+{"id": "String_StatName_TransAccuracy_body", "source": "Varian Accuracy", "translation": "Celność Varian", "status": "draft"}
+{"id": "String_StatName_TransAmplifyDamage_body", "source": "Varian Damage Boost", "translation": "Premia do obrażeń Varian", "status": "draft"}
+{"id": "String_StatName_TransBlockPierce_body", "source": "Varian Block Penetration", "translation": "Przebicie bloku Varian", "status": "draft"}
+{"id": "String_StatName_TransBlock_body", "source": "Varian Block", "translation": "Blok Varian", "status": "draft"}
+{"id": "String_StatName_TransCriticalResist_body", "source": "Varian Critical Hit Resist", "translation": "Odporność Varian na trafienia krytyczne", "status": "draft"}
+{"id": "String_StatName_TransCritical_body", "source": "Varian Critical Hit", "translation": "Trafienie krytyczne Varian", "status": "draft"}
+{"id": "String_StatName_TransDamage_body", "source": "Varian Attack", "translation": "Atak Varian", "status": "draft"}
+{"id": "String_StatName_TransDecreaseDamage_body", "source": "Varian Damage Tolerance", "translation": "Redukcja obrażeń Varian", "status": "draft"}
+{"id": "String_StatName_TransDefense_body", "source": "Varian Defense", "translation": "Obrona Varian", "status": "draft"}
+{"id": "String_StatName_TransEvasion_body", "source": "Varian Evasion", "translation": "Uniki Varian", "status": "draft"}
+{"id": "String_StatName_VehicleSpeed_body", "source": "Mount Move Speed", "translation": "Szybkość ruchu wierzchowca", "status": "draft"}
+{"id": "String_StatName_VehicleSprintCost_body", "source": "Mount Sprint Stamina Cost Reduction Rate", "translation": "Współczynnik zmniejszenia kosztu Wytrzymałości podczas sprintu wierzchowca", "status": "draft"}
+{"id": "String_StatName_VehicleSprintSpeed_body", "source": "Mount Sprint Speed", "translation": "Szybkość sprintu wierzchowca", "status": "draft"}
+{"id": "String_StatName_WIS_body", "source": "Willpower", "translation": "Siła Woli", "status": "draft"}
+{"id": "String_StatName_WalkSpeed_body", "source": "Walking Speed", "translation": "Szybkość chodzenia", "status": "draft"}
+{"id": "String_StatName_WaterDamageDefense_body", "source": "Water Defense", "translation": "Obrona przed wodą", "status": "draft"}
+{"id": "String_StatName_WeaponAccuracy_body", "source": "Accuracy", "translation": "Celność", "status": "draft"}
+{"id": "String_StatName_WeaponBlockDefense_body", "source": "Parry Defense", "translation": "Obrona przy parowaniu", "status": "draft"}
+{"id": "String_StatName_WeaponBlockPierce_body", "source": "Parry Penetration", "translation": "Przebicie parowania", "status": "draft"}
+{"id": "String_StatName_WeaponBlock_body", "source": "Parry", "translation": "Parowanie", "status": "draft"}
+{"id": "String_StatName_WeaponDamage_body", "source": "Max Attack", "translation": "Maksymalny atak", "status": "draft"}
+{"id": "String_StatName_WeaponFixingDamage_body", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "String_StatName_WeaponMinDamage_body", "source": "Min Attack", "translation": "Minimalny atak", "status": "draft"}
+{"id": "String_StatName_WindDamageDefense_body", "source": "Wind Defense", "translation": "Obrona przed wiatrem", "status": "draft"}
+{"id": "String_StatName_Wisdom_body", "source": "Wisdom [Lumiel]", "translation": "Mądrość [Lumiel]", "status": "draft"}

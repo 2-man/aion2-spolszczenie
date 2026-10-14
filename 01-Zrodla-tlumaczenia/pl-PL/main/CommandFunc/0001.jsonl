@@ -1,0 +1,75 @@
+{"id": "CommandFunc_cmd_chattype_fieldevent_enter_command", "source": "e, event, fieldevent", "translation": "e, event, fieldevent", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_fieldevent_spacebar_command", "source": "e, event, fieldevent", "translation": "e, event, fieldevent", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_force_enter_command", "source": "f, force", "translation": "f, force", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_force_spacebar_command", "source": "f, force", "translation": "f, force", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_forcealert_enter_command", "source": "a, notification, forcenotification, alarm", "translation": "a, notification, forcenotification, alarm", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_forcealert_spacebar_command", "source": "a, notification, forcenotification, alarm", "translation": "a, notification, forcenotification, alarm", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_guild_enter_command", "source": "l, legion", "translation": "l, legion", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_guild_spacebar_command", "source": "l, legion", "translation": "l, legion", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_party_enter_command", "source": "p, party", "translation": "p, party", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_party_spacebar_command", "source": "p, party", "translation": "p, party", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_partydungeon_enter_command", "source": "d, dungeon", "translation": "d, dungeon", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_partydungeon_spacebar_command", "source": "d, dungeon", "translation": "d, dungeon", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_race_enter_command", "source": "t, faction", "translation": "t, faction", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_race_spacebar_command", "source": "t, faction", "translation": "t, faction", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_region_enter_command", "source": "s, common", "translation": "s, common", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_region_spacebar_command", "source": "s, common", "translation": "s, common", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_shout_enter_command", "source": "h, shout", "translation": "h, shout", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_shout_spacebar_command", "source": "h, shout", "translation": "h, shout", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_whisper_enter_command", "source": "w, whisper", "translation": "w, whisper", "status": "technical"}
+{"id": "CommandFunc_cmd_chattype_whisper_spacebar_command", "source": "w, whisper", "translation": "w, whisper", "status": "technical"}
+{"id": "CommandFunc_cmd_force_change_leader_command", "source": "fleader", "translation": "fleader", "status": "technical"}
+{"id": "CommandFunc_cmd_force_create_command", "source": "fform", "translation": "fform", "status": "technical"}
+{"id": "CommandFunc_cmd_force_kickout_command", "source": "fkick", "translation": "fkick", "status": "technical"}
+{"id": "CommandFunc_cmd_force_leave_command", "source": "fquit", "translation": "fquit", "status": "technical"}
+{"id": "CommandFunc_cmd_force_recruit_enter_command", "source": "frally", "translation": "frally", "status": "technical"}
+{"id": "CommandFunc_cmd_party_change_leader_command", "source": "pleader", "translation": "pleader", "status": "technical"}
+{"id": "CommandFunc_cmd_party_create_command", "source": "pform", "translation": "pform", "status": "technical"}
+{"id": "CommandFunc_cmd_party_invite_command", "source": "invite, inv, partyinvite", "translation": "invite, inv, partyinvite", "status": "technical"}
+{"id": "CommandFunc_cmd_party_kickout_command", "source": "pkick", "translation": "pkick", "status": "technical"}
+{"id": "CommandFunc_cmd_party_leave_command", "source": "pquit", "translation": "pquit", "status": "technical"}
+{"id": "CommandFunc_cmd_party_recruit_enter_command", "source": "prally", "translation": "prally", "status": "technical"}
+{"id": "CommandFunc_cmd_party_to_force_command", "source": "fchange", "translation": "fchange", "status": "technical"}
+{"id": "CommandFunc_cmd_pcrest_command", "source": "rest, sit, sitdown, sit", "translation": "rest, sit, sitdown, sit", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_agree_command", "source": "yes, affirmative, agree, nod", "translation": "yes, affirmative, agree, nod", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_angry_command", "source": "rage, anger", "translation": "rage, anger", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_beg_command", "source": "pray, beg", "translation": "pray, beg", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_boo_command", "source": "boo", "translation": "boo", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_bow_command", "source": "deepbow, kneebow", "translation": "deepbow, kneebow", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_clap_command", "source": "applaud, clap", "translation": "applaud, clap", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_cool_command", "source": "cool, nice, awesome, stylish", "translation": "cool, nice, awesome, stylish", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_dance_command", "source": "dance", "translation": "dance", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_deny_command", "source": "no, disagree, nope, decline", "translation": "no, disagree, nope, decline", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_direction_command", "source": "point", "translation": "point", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_fear_command", "source": "fear, scared", "translation": "fear, scared", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_good_command", "source": "thumbsup, okay, good, like", "translation": "thumbsup, okay, good, like", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_greeting_command", "source": "greet", "translation": "greet", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_handgreeting_command", "source": "wave, hi, hello", "translation": "wave, hi, hello", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_hate_command", "source": "disgust", "translation": "disgust", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_kneel_command", "source": "kneel", "translation": "kneel", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_kurukuru_command", "source": "kurukuru, kuru, kurudance", "translation": "kurukuru, kuru, kurudance", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_laugh_command", "source": "laugh, giggle, lol", "translation": "laugh, giggle, lol", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_lie_down_command", "source": "liedown, lie", "translation": "liedown, lie", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_look_command", "source": "look", "translation": "look", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose001_command", "source": "gaze", "translation": "gaze", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose002_command", "source": "intrigued", "translation": "intrigued", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose003_command", "source": "sentimental", "translation": "sentimental", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose004_command", "source": "ready", "translation": "ready", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose005_command", "source": "doubt", "translation": "doubt", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose006_command", "source": "disdain", "translation": "disdain", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose007_command", "source": "elegant", "translation": "elegant", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_pose008_command", "source": "calm", "translation": "calm", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_sad_command", "source": "sad, cry, tears", "translation": "sad, cry, tears", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_sassy_command", "source": "pose, sassy, slay, model", "translation": "pose, sassy, slay, model", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_shy_command", "source": "blush", "translation": "blush", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_sick_command", "source": "pain, ouch, ow", "translation": "pain, ouch, ow", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_sneer_command", "source": "mock, sneer", "translation": "mock, sneer", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_talk_command", "source": "talk", "translation": "talk", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_taunt_command", "source": "taunt", "translation": "taunt", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_think_command", "source": "think, anguish", "translation": "think, anguish", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_v_command", "source": "peace, v, victory", "translation": "peace, v, victory", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_weapon_command", "source": "weapon, showweapon", "translation": "weapon, showweapon", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_wing_command", "source": "wings, showwings", "translation": "wings, showwings", "status": "technical"}
+{"id": "CommandFunc_cmd_pcsocial_worry_command", "source": "worry", "translation": "worry", "status": "technical"}
+{"id": "CommandFunc_cmd_whisper_reply_enter_command", "source": "reply, r, answer", "translation": "reply, r, answer", "status": "technical"}
+{"id": "CommandFunc_cmd_whisper_reply_spacebar_command", "source": "reply, r, answer", "translation": "reply, r, answer", "status": "technical"}

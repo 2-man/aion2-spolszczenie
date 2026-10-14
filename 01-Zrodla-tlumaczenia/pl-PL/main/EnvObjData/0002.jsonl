@@ -1,0 +1,250 @@
+{"id": "EnvObjData_Basic_HiddenCube_01_V01_desc", "source": "Refined Odyle Shard", "translation": "Uszlachetniony odłamek Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_HiddenCube_01_V02_desc", "source": "Holiday Cube", "translation": "Świąteczna kostka", "status": "draft"}
+{"id": "EnvObjData_Basic_HiddenCube_01_V03_desc", "source": "Nexus of Fate", "translation": "Węzeł Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_Basic_HiddenCube_01_V04_desc", "source": "Random Cube", "translation": "Losowa kostka", "status": "draft"}
+{"id": "EnvObjData_Basic_HiddenCube_01_V05_desc", "source": "Cube_Holiday_OnlyAvailablewithKey", "translation": "Kostka (dostępna tylko podczas świąt z kluczem)", "status": "draft"}
+{"id": "EnvObjData_Basic_HiddenCube_01_desc", "source": "Cube", "translation": "Kostka", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_01_desc", "source": "Up! Up! Up!_FixedPlatform1", "translation": "W górę! W górę! W górę! (platforma stała 1)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_02_desc", "source": "Up! Up! Up!_FixedPlatform2", "translation": "W górę! W górę! W górę! (platforma stała 2)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_03_desc", "source": "Up! Up! Up!_FixedPlatform3", "translation": "W górę! W górę! W górę! (platforma stała 3)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_04_desc", "source": "Up! Up! Up!_FixedPlatform4", "translation": "W górę! W górę! W górę! (platforma stała 4)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_05_desc", "source": "Up! Up! Up!_JumpPlatform", "translation": "W górę! W górę! W górę! (platforma skoczna)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_06_desc", "source": "Up! Up! Up!_JumpPlatform", "translation": "W górę! W górę! W górę! (platforma skoczna)", "status": "draft"}
+{"id": "EnvObjData_Basic_High_Board_07_desc", "source": "Up! Up! Up!_FixedPlatform6", "translation": "W górę! W górę! W górę! (platforma stała 6)", "status": "draft"}
+{"id": "EnvObjData_Basic_Honeycomb_01_attack_desc", "source": "Beehive", "translation": "Ul", "status": "draft"}
+{"id": "EnvObjData_Basic_Honeycomb_01_desc", "source": "Beehive", "translation": "Ul", "status": "draft"}
+{"id": "EnvObjData_Basic_HugoCorpse_01_desc", "source": "Hugo's Corpse", "translation": "Zwłoki Hugo", "status": "draft"}
+{"id": "EnvObjData_Basic_IllusionOrbOld_L_01_desc", "source": "Faded Illusion Orb", "translation": "Wyblakła kula iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_IllusionOrb_L_01_desc", "source": "Splendent Illusion Orb", "translation": "Lśniąca kula iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_IronDoor_01_V01_desc", "source": "Balaur Stronghold Entrance Door", "translation": "Drzwi wejściowe do twierdzy Balaurów", "status": "draft"}
+{"id": "EnvObjData_Basic_IronDoor_01_V02_desc", "source": "Common Iron Door_Scale_0.45", "translation": "Zwykłe żelazne drzwi (skala 0,45)", "status": "draft"}
+{"id": "EnvObjData_Basic_IronDoor_01_desc", "source": "Common Iron Door", "translation": "Zwykłe żelazne drzwi", "status": "draft"}
+{"id": "EnvObjData_Basic_IshtarTotem_01_desc", "source": "Ishtar Totem", "translation": "Totem Ishtar", "status": "draft"}
+{"id": "EnvObjData_Basic_JewelryRosequartz_desc", "source": "Rose Quartz", "translation": "Różowy kwarc", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_01_desc", "source": "Shugo Festival Balloon 1", "translation": "Balon festiwalowy Shugów 1", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_02_desc", "source": "Shugo Festival Balloon 2", "translation": "Balon festiwalowy Shugów 2", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_03_desc", "source": "Shugo Festival Balloon 3", "translation": "Balon festiwalowy Shugów 3", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_04_desc", "source": "Shugo Festival Balloon 4", "translation": "Balon festiwalowy Shugów 4", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_05_desc", "source": "Shugo Festival Balloon 5", "translation": "Balon festiwalowy Shugów 5", "status": "draft"}
+{"id": "EnvObjData_Basic_JumpBubble_06_desc", "source": "Shugo Festival Balloon 6", "translation": "Balon festiwalowy Shugów 6", "status": "draft"}
+{"id": "EnvObjData_Basic_Jump_TrapBubble_01_desc", "source": "Jump Trap Bubble", "translation": "Balonowa pułapka skokowa", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_D_02_desc", "source": "Asmodian Personal Kisk", "translation": "Osobisty Kisk Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_D_03_desc", "source": "Asmodian Party Kisk", "translation": "Kisk drużynowy Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_D_04_desc", "source": "Asmodian Force Kisk", "translation": "Kisk sił Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_L_02_desc", "source": "Elyos Personal Kisk", "translation": "Osobisty Kisk Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_L_03_desc", "source": "Elyos Party Kisk", "translation": "Kisk drużynowy Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_Kisk_L_04_desc", "source": "Elyos Force Kisk", "translation": "Kisk sił Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_KnifeCorpse_01_desc", "source": "Blades Corpse", "translation": "Zwłoki członka Ostrzy", "status": "draft"}
+{"id": "EnvObjData_Basic_KrakiCorpse_01_desc", "source": "Kraki's Corpse", "translation": "Zwłoki Krakiego", "status": "draft"}
+{"id": "EnvObjData_Basic_Krao_Door_01_desc", "source": "Anima Tower Door", "translation": "Drzwi Wieży Anima", "status": "draft"}
+{"id": "EnvObjData_Basic_KukuriTree_01_desc", "source": "Kukuri Tree", "translation": "Drzewo Kukuri", "status": "draft"}
+{"id": "EnvObjData_Basic_LedaPortal_01_Opened_desc", "source": "Deactivated Reda Gate", "translation": "Nieaktywna Brama Reda", "status": "draft"}
+{"id": "EnvObjData_Basic_LedaPortal_01_desc", "source": "Reda Gate", "translation": "Brama Reda", "status": "draft"}
+{"id": "EnvObjData_Basic_Letters_01_desc", "source": "Reda's Letter", "translation": "List Redy", "status": "draft"}
+{"id": "EnvObjData_Basic_Lever_01_desc", "source": "Floor Lever", "translation": "Dźwignia podłogowa", "status": "draft"}
+{"id": "EnvObjData_Basic_LightPillar_01_desc", "source": "Light Pillar", "translation": "Słup światła", "status": "draft"}
+{"id": "EnvObjData_Basic_LightPillar_02_desc", "source": "Light Pillar 2", "translation": "Słup światła 2", "status": "draft"}
+{"id": "EnvObjData_Basic_LootBox01_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_Basic_LootBoxPile_01_desc", "source": "Balaur's Loot", "translation": "Łup Balaurów", "status": "draft"}
+{"id": "EnvObjData_Basic_LowOdium_01_desc", "source": "Low-Purity Odylium", "translation": "Odylium niskiej czystości", "status": "draft"}
+{"id": "EnvObjData_Basic_LycanBox_01_desc", "source": "Mau Chest", "translation": "Skrzynia Mau", "status": "draft"}
+{"id": "EnvObjData_Basic_LycanCorpse_01_desc", "source": "Mau Corpse", "translation": "Zwłoki Mau", "status": "draft"}
+{"id": "EnvObjData_Basic_MagiCoffin_01_desc", "source": "Sealed Magic Casket", "translation": "Zapieczętowana magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_Basic_MagiCoffin_02_desc", "source": "Unsealed Magic Casket", "translation": "Otwarta magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_Basic_MagiCoffin_03_desc", "source": "Sealed Magic Casket", "translation": "Zapieczętowana magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicCircle_01_desc", "source": "Seal Magic Circle", "translation": "Krąg magii pieczętującej", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDevice_01_desc", "source": "Elyos Magic Device", "translation": "Urządzenie magiczne Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDevice_02_desc", "source": "Asmodian Magic Device", "translation": "Urządzenie magiczne Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDoor_01_V01_desc", "source": "Archon Underground Fortress Door_Vari1", "translation": "Drzwi podziemnej twierdzy Archontów (wariant 1)", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDoor_01_desc", "source": "Archon Underground Fortress Door", "translation": "Drzwi podziemnej twierdzy Archontów", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDoor_02_desc", "source": "Gate of Beginnings", "translation": "Brama Początku", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicDoor_03_desc", "source": "Ru Sealed Door", "translation": "Zapieczętowane drzwi Ru", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicTrap_01_V01_desc", "source": "Magic Trap_SizeVari", "translation": "Pułapka magiczna (wariant rozmiaru)", "status": "draft"}
+{"id": "EnvObjData_Basic_MagicTrap_01_desc", "source": "Magic Trap", "translation": "Pułapka magiczna", "status": "draft"}
+{"id": "EnvObjData_Basic_MauItem_01_desc", "source": "Mau Accessory", "translation": "Akcesorium Mau", "status": "draft"}
+{"id": "EnvObjData_Basic_MauPrison_01_desc", "source": "Mau Prison Door", "translation": "Drzwi więzienia Mau", "status": "draft"}
+{"id": "EnvObjData_Basic_MauStaff_01_desc", "source": "Amunta's Staff", "translation": "Laska Amunty", "status": "draft"}
+{"id": "EnvObjData_Basic_MauTotem_01_desc", "source": "Black Claw Traditional Totem 01", "translation": "Tradycyjny totem Czarnego Pazura 01", "status": "draft"}
+{"id": "EnvObjData_Basic_MauTotem_02_desc", "source": "Black Claw Traditional Totem 02", "translation": "Tradycyjny totem Czarnego Pazura 02", "status": "draft"}
+{"id": "EnvObjData_Basic_MediumFafnium_03_desc", "source": "Medium Fafnium", "translation": "Średnie Fafnium", "status": "draft"}
+{"id": "EnvObjData_Basic_MediumFafnium_D_01_desc", "source": "Medium Fafnium", "translation": "Średnie Fafnium", "status": "draft"}
+{"id": "EnvObjData_Basic_MediumFafnium_D_02_desc", "source": "Extinguished Medium Fafnium", "translation": "Zgaszone średnie Fafnium", "status": "draft"}
+{"id": "EnvObjData_Basic_MediumFafnium_D_03_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_Basic_Message_01_desc", "source": "Fallen Note", "translation": "Porzucona notatka", "status": "draft"}
+{"id": "EnvObjData_Basic_MirajuStatueCurtain_01_desc", "source": "Illusion God's Barrierstone", "translation": "Kamień bariery boga iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_MirajuStatueDestroyed_01_V01_desc", "source": "Destroyed Illusion God Statue_WithoutLight", "translation": "Zniszczony posąg boga iluzji (bez światła)", "status": "draft"}
+{"id": "EnvObjData_Basic_MirajuStatueDestroyed_01_V02_desc", "source": "Destroyed Illusion God Statue_Fragment", "translation": "Fragment zniszczonego posągu boga iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_MirajuStatueDestroyed_01_desc", "source": "Destroyed Illusion God Statue", "translation": "Zniszczony posąg boga iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_MirajuStatue_desc", "source": "Illusion God's Barrierstone", "translation": "Kamień bariery boga iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_Mirror_01_desc", "source": "Mirror of Desire", "translation": "Lustro Pragnień", "status": "draft"}
+{"id": "EnvObjData_Basic_Monolith_01_desc", "source": "Elyos Monolith", "translation": "Monolit Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_Monolith_02_desc", "source": "Asmodian Monolith", "translation": "Monolit Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_Monolith_03_desc", "source": "Destroyed Asmodian Monolith", "translation": "Zniszczony monolit Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_Monument_01_desc", "source": "Blood Monument", "translation": "Krwawy pomnik", "status": "draft"}
+{"id": "EnvObjData_Basic_MossStone_01_desc", "source": "Moss Stone", "translation": "Omszały kamień", "status": "draft"}
+{"id": "EnvObjData_Basic_MudLump_01_desc", "source": "Mud Clot", "translation": "Bryła błota", "status": "draft"}
+{"id": "EnvObjData_Basic_MuqakasTent_01_desc", "source": "Muqaka Structure Door", "translation": "Drzwi budowli Muqaka", "status": "draft"}
+{"id": "EnvObjData_Basic_Mushroom_01_desc", "source": "Mushroom", "translation": "Grzyb", "status": "draft"}
+{"id": "EnvObjData_Basic_Nemon_Easel_01_desc", "source": "Nemon's Portrait and Stand", "translation": "Portret Nemon ze stojakiem", "status": "draft"}
+{"id": "EnvObjData_Basic_NornirAltarDoor_01_V01_desc", "source": "Nornir Altar Door_SeamlessX", "translation": "Drzwi ołtarza Nornir (wariant bez szwu)", "status": "draft"}
+{"id": "EnvObjData_Basic_NornirAltarDoor_01_desc", "source": "Nornir Altar Door", "translation": "Drzwi ołtarza Nornir", "status": "draft"}
+{"id": "EnvObjData_Basic_NortosLegionOfficeDoor_01_V01_desc", "source": "Verteron Inhouse Door", "translation": "Drzwi budynku w Verteronie", "status": "draft"}
+{"id": "EnvObjData_Basic_NortosLegionOfficeDoor_01_desc", "source": "Notos Legion Office Door", "translation": "Drzwi biura Legionu Notos", "status": "draft"}
+{"id": "EnvObjData_Basic_ODBubble_01_desc", "source": "Green Odyle Drop", "translation": "Zielona kropla Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdBubble_02_desc", "source": "Golden Odyle Drop", "translation": "Złota kropla Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdBubble_03_desc", "source": "Rainbow Odyle Drop", "translation": "Tęczowa kropla Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdBubble_04_desc", "source": "Dark Odyle Drop", "translation": "Ciemna kropla Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdCollectorDebris_01_desc", "source": "Odyle Collector Remnants", "translation": "Szczątki zbieracza Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdCollectorMini_01_desc", "source": "Small Odyle Collector", "translation": "Mały zbieracz Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdEnergyCube_01_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdPiece_01_V01_desc", "source": "Illusion Beast's Core", "translation": "Rdzeń bestii iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_OdPiece_01_desc", "source": "Odyle Fragment", "translation": "Fragment Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdPot_01_desc", "source": "Odyle Jar", "translation": "Dzban Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_OdPot_01_interact_desc", "source": "Acquiring the Odyle...", "translation": "Pozyskiwanie Odylu...", "status": "draft"}
+{"id": "EnvObjData_Basic_OdSmall_desc", "source": "Odyle", "translation": "Odyl", "status": "draft"}
+{"id": "EnvObjData_Basic_OdVideo_01_desc", "source": "Odyle Video Converter", "translation": "Konwerter wideo Odylu", "status": "draft"}
+{"id": "EnvObjData_Basic_Odella_01_desc", "source": "Burned Wild Odylla", "translation": "Spalona dzika Odylla", "status": "draft"}
+{"id": "EnvObjData_Basic_OhHuiTree_01_desc", "source": "Ohui Tree", "translation": "Drzewo Ohui", "status": "draft"}
+{"id": "EnvObjData_Basic_OldArtifactD_01_desc", "source": "Deactivated Ancient Artifact", "translation": "Nieaktywny starożytny artefakt", "status": "draft"}
+{"id": "EnvObjData_Basic_OldBox_01_desc", "source": "Old Luggage Chest", "translation": "Skrzynia na stary bagaż", "status": "draft"}
+{"id": "EnvObjData_Basic_OldBox_02_desc", "source": "Dust-Covered Chest", "translation": "Skrzynia pokryta kurzem", "status": "draft"}
+{"id": "EnvObjData_Basic_OldLeatherBag_01_desc", "source": "Worn Leather Bag", "translation": "Zniszczona skórzana torba", "status": "draft"}
+{"id": "EnvObjData_Basic_OldLeatherBag_02_desc", "source": "Leather Bag Variation 1", "translation": "Skórzana torba (wariant 1)", "status": "draft"}
+{"id": "EnvObjData_Basic_OldLeatherBag_03_desc", "source": "Leather Bag Variation 2", "translation": "Skórzana torba (wariant 2)", "status": "draft"}
+{"id": "EnvObjData_Basic_OracleDoor_01_desc", "source": "Medium Oracle Door", "translation": "Średnie drzwi Wyroczni", "status": "draft"}
+{"id": "EnvObjData_Basic_OrcusTower_01_desc", "source": "Orcus Floating Tower", "translation": "Wieża latająca Orcus", "status": "draft"}
+{"id": "EnvObjData_Basic_OreIron_V01_desc", "source": "Iron Ore_x0.7", "translation": "Ruda żelaza (x0,7)", "status": "draft"}
+{"id": "EnvObjData_Basic_OreIron_desc", "source": "Iron Ore", "translation": "Ruda żelaza", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlBox_01_desc", "source": "Aullaeu Large Chest", "translation": "Wielka skrzynia Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlBox_02_desc", "source": "Aullaeu Large Chest 02", "translation": "Wielka skrzynia Aullaeu 02", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_01_desc", "source": "Aullaeu Wooden Door", "translation": "Drewniane drzwi Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_02_V2_desc", "source": "Aullaeu Big Wooden Door", "translation": "Wielkie drewniane drzwi Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_02_desc", "source": "Aullaeu Big Wooden Door", "translation": "Wielkie drewniane drzwi Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_03_V01_desc", "source": "Aullaeu Tree Root Door Vari", "translation": "Drzwi z korzeni Aullaeu (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_03_desc", "source": "Aullaeu Tree Root Door", "translation": "Drzwi z korzeni Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_04_desc", "source": "Aullaeu Prison Door", "translation": "Drzwi więzienia Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlDoor_05_desc", "source": "Aullaeu Stone Door", "translation": "Kamienne drzwi Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_OwlPapers_01_desc", "source": "Aullaeu Document", "translation": "Dokument Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_PaperPile_01_desc", "source": "Stacked Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_Basic_Pernos_Sleep_01_desc", "source": "Unconscious Phernos", "translation": "Nieprzytomny Phernos", "status": "draft"}
+{"id": "EnvObjData_Basic_Pillar_01_desc", "source": "Stone Pillar", "translation": "Kamienny filar", "status": "draft"}
+{"id": "EnvObjData_Basic_PlantAngelica_desc", "source": "Aria", "translation": "Aria", "status": "draft"}
+{"id": "EnvObjData_Basic_PoisonGas_01_V01_desc", "source": "Toxic Aura_ColorVari", "translation": "Toksyczna aura (wariant kolorystyczny)", "status": "draft"}
+{"id": "EnvObjData_Basic_PoisonGas_01_desc", "source": "Toxic Aura", "translation": "Toksyczna aura", "status": "draft"}
+{"id": "EnvObjData_Basic_PollutedGrass_01_desc", "source": "Poison Grass", "translation": "Zatruta trawa", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Attack_01_desc", "source": "Destructible Portal", "translation": "Niszczalny portal", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Basic_01_desc", "source": "Common Portal", "translation": "Zwykły portal", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Crack_01_desc", "source": "Etheria Rift Entrance", "translation": "Wejście do Szczeliny Etherii", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Dungeon_02_desc", "source": "Quest Dungeon Portal", "translation": "Portal do lochu zadania", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Dungeon_03_desc", "source": "Party Dungeon Portal", "translation": "Portal do lochu drużynowego", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Rift_01_desc", "source": "Spacetime Portal", "translation": "Portal czasoprzestrzenny", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Space_01_V01_desc", "source": "Portal Between Walls", "translation": "Portal między Wałami", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Space_01_desc", "source": "Portal Between Walls", "translation": "Portal między Wałami", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Space_02_desc", "source": "Floor Gap Portal", "translation": "Portal nad szczeliną w podłodze", "status": "draft"}
+{"id": "EnvObjData_Basic_PowerUnitControl_01_V01_desc", "source": "Pantheon Control Panel", "translation": "Panel sterowania Panteonu", "status": "draft"}
+{"id": "EnvObjData_Basic_PowerUnitControl_01_desc", "source": "Power Tower Control Device", "translation": "Urządzenie sterujące Wieżą Mocy", "status": "draft"}
+{"id": "EnvObjData_Basic_PowerUnit_01_desc", "source": "Power Tower Control Device", "translation": "Urządzenie sterujące Wieżą Mocy", "status": "draft"}
+{"id": "EnvObjData_Basic_PowerUnit_02_desc", "source": "Power Tower Control Device_Effect", "translation": "Urządzenie sterujące Wieżą Mocy (efekt)", "status": "draft"}
+{"id": "EnvObjData_Basic_PrismShard_01_desc", "source": "Illusion Prism Fragment", "translation": "Fragment pryzmatu iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonCaveDoor_01_V01_desc", "source": "Prisoners Grotto Door_Vari", "translation": "Drzwi Groty Więźniów (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonCaveDoor_01_desc", "source": "Prisoners Grotto Door", "translation": "Drzwi Groty Więźniów", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonDoor_01_desc", "source": "Common Prison Door", "translation": "Zwykłe drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonDoor_02_desc", "source": "Medium Prison Door", "translation": "Średnie drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonDoor_03_desc", "source": "Large Prison Door", "translation": "Duże drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_Basic_PrisonDoor_04_desc", "source": "Ruins Prison Door", "translation": "Drzwi więzienne w ruinach", "status": "draft"}
+{"id": "EnvObjData_Basic_Projector_01_desc", "source": "Illusion Projector", "translation": "Projektor iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_Protect_01_desc", "source": "Warding Feather", "translation": "Pióro ochronne", "status": "draft"}
+{"id": "EnvObjData_Basic_Pumpkin_01_desc", "source": "Punkini", "translation": "Punkini", "status": "draft"}
+{"id": "EnvObjData_Basic_PurificationTool_01_desc", "source": "Contaminated Water Purification Tool", "translation": "Narzędzie do oczyszczania skażonej wody", "status": "draft"}
+{"id": "EnvObjData_Basic_PurityLight_01_desc", "source": "Purifying Light", "translation": "Oczyszczające światło", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_01_V01_desc", "source": "Floor Puzzle - Blue_V01", "translation": "Niebieska podłoga-puzzle (wariant 01)", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_02_V01_desc", "source": "Floor Puzzle - Red_V01", "translation": "Czerwona podłoga-puzzle (wariant 01)", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingBoard_01_desc", "source": "Slowing Platform", "translation": "Platforma spowalniająca", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingBoard_02_desc", "source": "Booster Platform", "translation": "Platforma przyspieszająca", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingBoard_03_desc", "source": "Updraft Platform", "translation": "Platforma prądu wstępującego", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingItem_01_desc", "source": "Recovery Item", "translation": "Przedmiot regenerujący", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingItem_02_desc", "source": "Booster Item", "translation": "Przedmiot przyspieszający", "status": "draft"}
+{"id": "EnvObjData_Basic_RacingItem_03_desc", "source": "Invincible Item", "translation": "Przedmiot zapewniający nieśmiertelność", "status": "draft"}
+{"id": "EnvObjData_Basic_RareOre_Lv1_desc", "source": "Silver", "translation": "Srebro", "status": "draft"}
+{"id": "EnvObjData_Basic_RecoveryOrb_01_desc", "source": "Blood Orb", "translation": "Kula krwi", "status": "draft"}
+{"id": "EnvObjData_Basic_RecoveryOrb_02_desc", "source": "Blood Orb_Blue", "translation": "Niebieska kula krwi", "status": "draft"}
+{"id": "EnvObjData_Basic_RecoveryOrb_03_desc", "source": "Blood Orb_Green", "translation": "Zielona kula krwi", "status": "draft"}
+{"id": "EnvObjData_Basic_RecoveryOrb_04_desc", "source": "Blood Orb_White", "translation": "Biała kula krwi", "status": "draft"}
+{"id": "EnvObjData_Basic_RecoveryOrb_05_desc", "source": "Blood Orb_Yellow", "translation": "Żółta kula krwi", "status": "draft"}
+{"id": "EnvObjData_Basic_RelicBox_01_desc", "source": "High-Quality Relic Chest", "translation": "Skrzynia z cennymi relikwiami", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_01_desc", "source": "Rewards Chest 01_Stronghold Goal", "translation": "Skrzynia nagród 01 (cel w twierdzy)", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_02_desc", "source": "Rewards Chest 02_Stronghold Orb", "translation": "Skrzynia nagród 02 (kula twierdzy)", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_03_desc", "source": "Rewards Chest 03_Stronghold Superior", "translation": "Skrzynia nagród 03 (rzadka nagroda twierdzy)", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_04_desc", "source": "Rewards Chest 04_Stronghold Treasure", "translation": "Skrzynia nagród 04 (skarb twierdzy)", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_05_desc", "source": "Reward Chest 05", "translation": "Skrzynia z nagrodą 05", "status": "draft"}
+{"id": "EnvObjData_Basic_RewardBox_06_desc", "source": "Reward Chest 06", "translation": "Skrzynia z nagrodą 06", "status": "draft"}
+{"id": "EnvObjData_Basic_Rift_02_desc", "source": "Etheria Rift Portal", "translation": "Portal Szczeliny Etherii", "status": "draft"}
+{"id": "EnvObjData_Basic_Root_01_desc", "source": "Tree Root", "translation": "Korzeń drzewa", "status": "draft"}
+{"id": "EnvObjData_Basic_Root_02_desc", "source": "Contaminated Root of the Sacred Tree", "translation": "Skażony korzeń Świętego Drzewa", "status": "draft"}
+{"id": "EnvObjData_Basic_Root_03_desc", "source": "Contaminated Sacred Tree Root", "translation": "Skażony korzeń Świętego Drzewa", "status": "draft"}
+{"id": "EnvObjData_Basic_RuinPile_01_desc", "source": "Archon Fortress Remnants", "translation": "Szczątki twierdzy Archontów", "status": "draft"}
+{"id": "EnvObjData_Basic_RuinPile_L_01_desc", "source": "Ruins Remnants", "translation": "Pozostałości ruin", "status": "draft"}
+{"id": "EnvObjData_Basic_RuinSTower_01_desc", "source": "Ruins Small Stone Tower", "translation": "Mała kamienna wieża w ruinach", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_Board_01_desc", "source": "Village Bulletin Board", "translation": "Wiejska tablica ogłoszeń", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_Bonfire_01_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_Bonfire_02_desc", "source": "Firepit Cooking Station", "translation": "Palenisko do gotowania", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_Chair_01_desc", "source": "Wooden Chair", "translation": "Drewniane krzesło", "status": "draft"}
+{"id": "EnvObjData_Basic_SA_Memorial_01_desc", "source": "Memorial Statue", "translation": "Posąg pamięci", "status": "draft"}
+{"id": "EnvObjData_Basic_SacrificeVessel_01_desc", "source": "Sacrificial Bowl", "translation": "Misa ofiarna", "status": "draft"}
+{"id": "EnvObjData_Basic_SearchEffect_01_desc", "source": "Investigation Effect", "translation": "Efekt przeszukiwania", "status": "draft"}
+{"id": "EnvObjData_Basic_Seedling_01_desc", "source": "Young Sapling", "translation": "Młoda sadzonka", "status": "draft"}
+{"id": "EnvObjData_Basic_ShellSherry_desc", "source": "Inina", "translation": "Inina", "status": "draft"}
+{"id": "EnvObjData_Basic_ShipDebris_01_desc", "source": "Airship Remnants", "translation": "Szczątki statku powietrznego", "status": "draft"}
+{"id": "EnvObjData_Basic_Shooter_Polymoph_01_desc", "source": "Sticker Shooter_Transformation_01", "translation": "Miotacz naklejek (przemiana 01)", "status": "draft"}
+{"id": "EnvObjData_Basic_Shooter_Polymoph_02_desc", "source": "Sticker Shooter_Transformation_02", "translation": "Miotacz naklejek (przemiana 02)", "status": "draft"}
+{"id": "EnvObjData_Basic_Shooter_Polymoph_03_desc", "source": "Sticker Shooter_Transformation_03", "translation": "Miotacz naklejek (przemiana 03)", "status": "draft"}
+{"id": "EnvObjData_Basic_ShugoBeast_01_desc", "source": "Lugi", "translation": "Lugi", "status": "draft"}
+{"id": "EnvObjData_Basic_ShugoBodyDiscolored_01_desc", "source": "Discolored Shugo Corpse (Elyos)", "translation": "Odbarwione zwłoki Shugo (Elyosi)", "status": "draft"}
+{"id": "EnvObjData_Basic_ShugoTentDoor_01_desc", "source": "Kochi Tent Door", "translation": "Drzwi namiotu Kochi", "status": "draft"}
+{"id": "EnvObjData_Basic_ShulackCorpse_01_desc", "source": "Shulak Laborer Corpse", "translation": "Zwłoki robotnika Shulak", "status": "draft"}
+{"id": "EnvObjData_Basic_ShulackCorpse_02_desc", "source": "Shulak Miner Corpse", "translation": "Zwłoki górnika Shulak", "status": "draft"}
+{"id": "EnvObjData_Basic_ShulackCorpse_03_desc", "source": "Shulak Cart Worker Corpse", "translation": "Zwłoki woźnicy Shulak", "status": "draft"}
+{"id": "EnvObjData_Basic_ShulackCorpse_04_desc", "source": "Shulak Sentinel Corpse", "translation": "Zwłoki wartownika Shulak", "status": "draft"}
+{"id": "EnvObjData_Basic_SimpleTent_01_desc", "source": "Makeshift Tent", "translation": "Prowizoryczny namiot", "status": "draft"}
+{"id": "EnvObjData_Basic_SparkieEgg_01_attack_1_desc", "source": "Sparkie Egg", "translation": "Jajo Sparkie", "status": "draft"}
+{"id": "EnvObjData_Basic_SparkieEgg_01_attack_desc", "source": "Sparkie Egg", "translation": "Jajo Sparkie", "status": "draft"}
+{"id": "EnvObjData_Basic_SparkieEgg_01_desc", "source": "Sparkie Egg", "translation": "Jajo Sparkie", "status": "draft"}
+{"id": "EnvObjData_Basic_SparkieEgg_02_desc", "source": "Insect Egg", "translation": "Jajo owada", "status": "draft"}
+{"id": "EnvObjData_Basic_SpellTrace_01_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_01_V01_desc", "source": "Wind Altar_Vari", "translation": "Ołtarz ducha wiatru (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_02_V01_desc", "source": "Fire Altar_Vari", "translation": "Ołtarz ducha ognia (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_03_V01_desc", "source": "Earth Altar_Vari", "translation": "Ołtarz ducha ziemi (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_04_V01_desc", "source": "Water Altar_Vari", "translation": "Ołtarz ducha wody (wariant)", "status": "draft"}
+{"id":"EnvObjData_Basic_SpiritAltar_05_desc","source":"Wind Altar","translation":"Ołtarz ducha wiatru","status":"draft"}
+{"id":"EnvObjData_Basic_SpiritAltar_06_desc","source":"Fire Altar","translation":"Ołtarz ducha ognia","status":"draft"}
+{"id":"EnvObjData_Basic_SpiritAltar_07_desc","source":"Earth Altar","translation":"Ołtarz ducha ziemi","status":"draft"}
+{"id":"EnvObjData_Basic_SpiritAltar_08_desc","source":"Water Altar","translation":"Ołtarz ducha wody","status":"draft"}
+{"id": "EnvObjData_Basic_SpiritBrazier_01_V01_desc", "source": "Spirit Brazier_Vari", "translation": "Kadzielnica ducha (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritBrazier_01_desc", "source": "Spirit Brazier", "translation": "Kadzielnica ducha", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritFlower_01_desc", "source": "Spirit Flower", "translation": "Kwiat ducha", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritStone_01_desc", "source": "Spiritstone", "translation": "Kamień ducha", "status": "draft"}
+{"id": "EnvObjData_Basic_Spirit_01_desc", "source": "Forest Essence", "translation": "Esencja lasu", "status": "draft"}
+{"id": "EnvObjData_Basic_StatueHead_01_desc", "source": "Statue Head Fragment", "translation": "Fragment głowy posągu", "status": "draft"}
+{"id": "EnvObjData_Basic_Statue_01_V01_desc", "source": "Headless Statue_Vari1", "translation": "Posąg bez głowy (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_Statue_01_desc", "source": "Headless Statue", "translation": "Posąg bez głowy", "status": "draft"}
+{"id": "EnvObjData_Basic_Statue_02_desc", "source": "Zikel's Sword Large Statue", "translation": "Wielki posąg z Mieczem Zikela", "status": "draft"}
+{"id": "EnvObjData_Basic_Statue_03_desc", "source": "Zikel's Sword Small Statue", "translation": "Mały posąg z Mieczem Zikela", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_01_V01_desc", "source": "Large Stone Chamber Door", "translation": "Wielkie kamienne drzwi komnaty", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_01_desc", "source": "Stone Chamber Door", "translation": "Kamienne drzwi komnaty", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_02_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_03_V01_desc", "source": "Ruins Common Door_NoEffect", "translation": "Zwykłe kamienne drzwi w ruinach (bez efektu)", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_03_desc", "source": "Ruins Common Door", "translation": "Zwykłe kamienne drzwi w ruinach", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_05_desc", "source": "Massive Blades Stone Door", "translation": "Masywne kamienne drzwi Ostrzy", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_06_V2_desc", "source": "Zumion Stone Gate", "translation": "Kamienna brama Zumionu", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_06_desc", "source": "Zumion Stone Gate", "translation": "Kamienna brama Zumionu", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_07_desc", "source": "Sliding Ruins Door", "translation": "Przesuwne drzwi w ruinach", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneDoor_08_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneNornir_01_desc", "source": "Petrified Nornir01", "translation": "Skamieniała Nornir 01", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneNornir_02_desc", "source": "Petrified Nornir02", "translation": "Skamieniała Nornir 02", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneNornir_03_desc", "source": "Petrified Nornir03", "translation": "Skamieniała Nornir 03", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneNornir_04_desc", "source": "Petrified Nornir04", "translation": "Skamieniała Nornir 04", "status": "draft"}
+{"id": "EnvObjData_Basic_StonePile_01_desc", "source": "Collapsing Stone Pile", "translation": "Stos osuwających się kamieni", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneTablet_01_desc", "source": "Stone Tablet", "translation": "Kamienna tablica", "status": "draft"}

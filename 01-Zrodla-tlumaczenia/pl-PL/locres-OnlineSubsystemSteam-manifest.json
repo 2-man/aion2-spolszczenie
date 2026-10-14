@@ -1,0 +1,15 @@
+{
+  "table": "locres-OnlineSubsystemSteam",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "893f42a8b19f5b743012d40b7ecee60a1f6d7154673d9dd8246b4eaa8a15d19e",
+  "records": 2,
+  "decodedJsonSha256": "2c0941f4ce7097344edff862447642cbf76a02fb4c80082387d4dae5a77f3037",
+  "batches": [
+    {
+      "file": "locres-OnlineSubsystemSteam/OnlineSubsystemSteam/0001.jsonl",
+      "count": 2,
+      "category": "OnlineSubsystemSteam"
+    }
+  ]
+}

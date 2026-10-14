@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCCineMediaEditor",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "9064339c72550b96d5a47ab2964b24f62feb554d77bbf7cc441444ee3e122809",
+  "records": 29,
+  "decodedJsonSha256": "cf36b6344d2feac58d11c516526a6fb0207ac1a2f217f64b17d53904714dc332",
+  "batches": [
+    {
+      "file": "locres-NCCineMediaEditor/NCCineMediaEditor/0001.jsonl",
+      "count": 29,
+      "category": "NCCineMediaEditor"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{"id": "SkillAbnormalString_SkillAbnormalString_18032001_desc_name", "source": "Ludra's Curse", "translation": "Klątwa Ludry", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18032001_desc_summary", "source": "Under Ludra's curse for a fixed duration.", "translation": "Przez określony czas postać jest objęta klątwą Ludry.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034001_desc_effect", "source": "Reacts to Despair Aura and deals damage.", "translation": "Reaguje na Aurę rozpaczy i zadaje obrażenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034001_desc_name", "source": "Chaos Aura", "translation": "Aura chaosu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034001_desc_summary", "source": "Reacts to Despair Aura and deals damage.", "translation": "Reaguje na Aurę rozpaczy i zadaje obrażenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034002_desc_effect", "source": "Reacts to Chaos Aura and deals damage.", "translation": "Reaguje na Aurę chaosu i zadaje obrażenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034002_desc_name", "source": "Despairing Aura", "translation": "Aura rozpaczy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034002_desc_summary", "source": "Reacts to Chaos Aura and deals damage.", "translation": "Reaguje na Aurę chaosu i zadaje obrażenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034004_desc_effect", "source": "Despair reacts with chaos to deal damage over time.", "translation": "Rozpacz łączy się z chaosem i zadaje obrażenia okresowe.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034004_desc_name", "source": "Mark of Extinction", "translation": "Piętno zagłady", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034004_desc_summary", "source": "Despair reacts with chaos to deal damage over time.", "translation": "Rozpacz łączy się z chaosem i zadaje obrażenia okresowe.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034104_desc_effect", "source": "Imbued with Mortal's Benediction.", "translation": "Nasycono błogosławieństwem Śmiertelnika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034104_desc_name", "source": "Invincible", "translation": "Niezniszczalność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034104_desc_summary", "source": "Imbued with Mortal's Benediction.", "translation": "Nasycono błogosławieństwem Śmiertelnika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034105_desc_effect", "source": "Imbued with Mortal's Benediction.", "translation": "Nasycono błogosławieństwem Śmiertelnika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034105_desc_name", "source": "Invincible", "translation": "Niezniszczalność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034105_desc_summary", "source": "Imbued with Mortal's Benediction.", "translation": "Nasycono błogosławieństwem Śmiertelnika.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034505_desc_effect", "source": "The flow of eternity deals damage over time.", "translation": "Przepływ wieczności zadaje obrażenia okresowe.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034505_desc_name", "source": "Eternal Flow", "translation": "Wieczny przepływ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18034505_desc_summary", "source": "The flow of eternity deals damage over time.", "translation": "Przepływ wieczności zadaje obrażenia okresowe.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036200_desc_effect", "source": "+<desc_point>{abe:180362001:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:180362001:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036200_desc_name", "source": "Tranquil Soul", "translation": "Spokojna dusza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036200_desc_summary", "source": "+<desc_point>{abe:180362001:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:180362001:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036204_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036204_desc_name", "source": "Soul Corrosion", "translation": "Korozja duszy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036204_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036701_desc_effect", "source": "Knockback", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036701_desc_name", "source": "Knockback", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18036701_desc_summary", "source": "Knockback", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037101_desc_effect", "source": "Yank", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037101_desc_name", "source": "Yank", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037101_desc_summary", "source": "Yank", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037102_desc_effect", "source": "Immobilized", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037102_desc_name", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037102_desc_summary", "source": "Immobilized", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037201_desc_effect", "source": "Bargott - Grab\nImmobilized", "translation": "Bargott — chwycenie\nUnieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037201_desc_name", "source": "Grab", "translation": "Chwyt", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037201_desc_summary", "source": "Grab", "translation": "Chwyt", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037202_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037202_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18037202_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18038601_desc_effect", "source": "<desc_point>{abe:180386011:value02:divide100}%</> Move Speed\n<desc_point>{abe:180386014:value02:divide100}%</> Damage Boost", "translation": "<desc_point>{abe:180386011:value02:divide100}%</> Szybkości ruchu\n<desc_point>{abe:180386014:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18038601_desc_name", "source": "Frenzy", "translation": "Szał", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18038601_desc_summary", "source": "Frenzy", "translation": "Szał", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180400201_desc_effect", "source": "Block", "translation": "Blok", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180400201_desc_name", "source": "Block", "translation": "Blok", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180400201_desc_summary", "source": "Block", "translation": "Blok", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040201_desc_name", "source": "Yank", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040201_desc_summary", "source": "Yank", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040603_desc_name", "source": "Lightning Zone", "translation": "Strefa błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040603_desc_summary", "source": "Lightning Zone", "translation": "Strefa błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040702_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040702_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18040702_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041251_desc_effect", "source": "<desc_point>{abe:180412511:value02:divide100}%</> Defense", "translation": "<desc_point>{abe:180412511:value02:divide100}%</> Obrony", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041251_desc_name", "source": "Armor Break", "translation": "Przełamanie pancerza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041251_desc_summary", "source": "Reduces Defense by 20%", "translation": "Zmniejsza obronę o 20%", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041252_desc_effect", "source": "<desc_point>{abe:180412521:value02:divide100}%</> Defense", "translation": "<desc_point>{abe:180412521:value02:divide100}%</> Obrony", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041252_desc_name", "source": "Armor Break", "translation": "Przełamanie pancerza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041252_desc_summary", "source": "Reduces Defense by 20%", "translation": "Zmniejsza obronę o 20%", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041401_desc_effect", "source": "A barrier that destroys crimson rock.", "translation": "Bariera niszcząca szkarłatną skałę.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041401_desc_name", "source": "Crimson Barrier of Condemnation", "translation": "Szkarłatna Bariera Potępienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041401_desc_summary", "source": "A barrier that destroys crimson rock.", "translation": "Bariera niszcząca szkarłatną skałę.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041501_desc_effect", "source": "A barrier that destroys azure rock.", "translation": "Bariera niszcząca lazurową skałę.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041501_desc_name", "source": "Azure Barrier of Judgment", "translation": "Lazurowa Bariera Sądu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18041501_desc_summary", "source": "A barrier that destroys azure rock.", "translation": "Bariera niszcząca lazurową skałę.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18043301_desc_effect", "source": "Creates Meteor Zone at 3 stacks", "translation": "Tworzy strefę meteorytów po zebraniu 3 ładunków", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18043301_desc_name", "source": "Aura of Darkness", "translation": "Aura ciemności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18043301_desc_summary", "source": "Creates Meteor Zone at 3 stacks", "translation": "Tworzy strefę meteorytów po zebraniu 3 ładunków", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044003_desc_effect", "source": "Creates a contamination zone after a fixed duration.", "translation": "Po określonym czasie tworzy strefę skażenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044003_desc_name", "source": "Contamination", "translation": "Skażenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044003_desc_summary", "source": "Creates a contamination zone after a fixed duration", "translation": "Po określonym czasie tworzy strefę skażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044203_desc_effect", "source": "Poison Zone Immunity", "translation": "Odporność na strefy trucizny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044203_desc_name", "source": "Slime Area", "translation": "Obszar śluzu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044203_desc_summary", "source": "Unaffected by Poison Zones while near slime.", "translation": "W pobliżu śluzu strefy trucizny nie mają wpływu na postać.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044204_desc_effect", "source": "Blatt's Roar Damage Immunity", "translation": "Odporność na obrażenia od Ryku Blatta", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044204_desc_name", "source": "Slime Remnants", "translation": "Pozostałości śluzu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044204_desc_summary", "source": "Unaffected by Blatt's Roar attack while inside Slime Remnants.", "translation": "Pozostałości śluzu chronią przed atakiem Ryku Blatta.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044206_desc_effect", "source": "The slime absorbs HP.", "translation": "Śluz pochłania PŻ.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044206_desc_name", "source": "Absorb Vitality", "translation": "Pochłonięcie witalności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18044206_desc_summary", "source": "Transfer Vitality", "translation": "Przekazanie witalności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045104_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045104_desc_name", "source": "Deep Wound", "translation": "Głęboka rana", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045104_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045551_desc_effect", "source": "Incapacitated\nRemoves Root status when hit by an ally.", "translation": "Unieruchomienie\nSojusznik może usunąć unieruchomienie, trafiając cel.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045551_desc_name", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045551_desc_summary", "source": "Tentacle Root status", "translation": "Unieruchomienie macką", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045553_desc_effect", "source": "Inflicts Powerful Poison if inflicted with Poison again", "translation": "Ponowne zatrucie nakłada Silną truciznę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045553_desc_name", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045553_desc_summary", "source": "Deals Poison Damage for a fixed duration", "translation": "Zadaje obrażenia od trucizny przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045554_desc_effect", "source": "Deals strong Poison Damage for a fixed duration", "translation": "Zadaje silne obrażenia od trucizny przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045554_desc_name", "source": "Powerful Poison", "translation": "Silna trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045554_desc_summary", "source": "Deals strong Poison Damage for a fixed duration", "translation": "Zadaje silne obrażenia od trucizny przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045557_desc_effect", "source": "Inflicts Powerful Poison if inflicted with Poison again", "translation": "Ponowne zatrucie nakłada Silną truciznę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045557_desc_name", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045557_desc_summary", "source": "Deals Poison Damage for a fixed duration", "translation": "Zadaje obrażenia od trucizny przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045558_desc_effect", "source": "Incapacitated\nRemoves Root status when hit by an ally.", "translation": "Unieruchomienie\nSojusznik może usunąć unieruchomienie, trafiając cel.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045558_desc_name", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045558_desc_summary", "source": "Tentacle Root status", "translation": "Unieruchomienie macką", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045559_desc_effect", "source": "<desc_point>{abe:180455591:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:180455591:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045559_desc_name", "source": "Consuming Tentacle", "translation": "Pochłaniająca macka", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18045559_desc_summary", "source": "Reduces Damage Tolerance while bound by a tentacle.", "translation": "Zmniejsza odporność na obrażenia, gdy postać jest związana macką.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18046301_desc_effect", "source": "Taking Damage over Time from Distorted Wave of Life.", "translation": "Otrzymuje obrażenia okresowe od Zniekształconej fali życia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18046301_desc_name", "source": "Distorted Wave of Life", "translation": "Zniekształcona fala życia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18046301_desc_summary", "source": "Deals Damage over Time when in water", "translation": "Zadaje obrażenia okresowe w wodzie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18047000_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18047000_desc_name", "source": "Poison Corrosion", "translation": "Korozja trucizny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18047000_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18048901_desc_effect", "source": "<desc_point>{abe:180489011:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:180489011:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18048901_desc_name", "source": "Damage Tolerance Reduction", "translation": "Zmniejszenie odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18048901_desc_summary", "source": "Reduces Damage Tolerance", "translation": "Zmniejsza odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180500401_desc_effect", "source": "-<desc_point>{abe:1805004011:value02:noneabs}</> Accuracy", "translation": "-<desc_point>{abe:1805004011:value02:noneabs}</> Celności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180500401_desc_name", "source": "Bursting Blow", "translation": "Eksplozywny Cios", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180500401_desc_summary", "source": "Reduces Accuracy", "translation": "Zmniejsza celność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18053709_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18053709_desc_name", "source": "Illusion Infiltrate", "translation": "Infiltracja iluzji", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18053709_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055010_desc_effect", "source": "<desc_point>{abe:180169002:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:180169002:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055010_desc_name", "source": "Tolerance Increase", "translation": "Zwiększenie odporności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055010_desc_summary", "source": "Increases Damage Tolerance", "translation": "Zwiększa odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055013_desc_effect", "source": "+<desc_point>{abe:180550131:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:180550131:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055013_desc_name", "source": "Transferred Light", "translation": "Przeniesione światło", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18055013_desc_summary", "source": "+<desc_point>{abe:180550131:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:180550131:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057044_desc_effect", "source": "Bargott Teleport, Bomb Check Status Efffect", "translation": "Teleportacja Bargotta, status kontroli bomby", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057044_desc_name", "source": "Bomb Stack Check", "translation": "Kontrola ładunków bomby", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057044_desc_summary", "source": "Bargott Teleport, Bomb Check Status Efffect", "translation": "Teleportacja Bargotta, status kontroli bomby", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057301_desc_effect", "source": "<desc_point>{abe:180573011:value02:divide100}%</> Accuracy", "translation": "<desc_point>{abe:180573011:value02:divide100}%</> Celności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057301_desc_name", "source": "Blind", "translation": "Oślepienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18057301_desc_summary", "source": "Reduces Accuracy", "translation": "Zmniejsza celność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058242_desc_effect", "source": "Cannot absorb additional Venom Spheres for the duration. Causes death if additional spheres are absorbed.", "translation": "Przez określony czas nie można pochłaniać kolejnych Kul jadu. Pochłonięcie kolejnej kuli powoduje śmierć.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058242_desc_name", "source": "Absorb Venom Sphere", "translation": "Pochłoń Kulę jadu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058242_desc_summary", "source": "Cannot absorb additional Venom Spheres for the duration. Causes death if additional spheres are absorbed.", "translation": "Przez określony czas nie można pochłaniać kolejnych Kul jadu. Pochłonięcie kolejnej kuli powoduje śmierć.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058265_desc_effect", "source": "Will be killed instantly in the next Unstable Venom Sphere explosion", "translation": "Postać zginie natychmiast podczas kolejnego wybuchu Niestabilnej Kuli jadu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058265_desc_name", "source": "Venom Corrosion", "translation": "Korozja jadu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058265_desc_summary", "source": "Will be killed instantly in the next Unstable Venom Sphere explosion", "translation": "Postać zginie natychmiast podczas kolejnego wybuchu Niestabilnej Kuli jadu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058305_desc_effect", "source": "<desc_point>{abe:180583051:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:180583051:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058305_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058305_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058501_desc_effect", "source": "Safe from the Klawfly's Wriggling Poison Fluid when hiding behind waste", "translation": "Ukrycie się za odpadami chroni przed wijącym się trującym płynem Klawfly'a", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058501_desc_name", "source": "Waste Cover", "translation": "Osłona z odpadów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058501_desc_summary", "source": "Safe from the Klawfly's Wriggling Poison Fluid when hiding behind waste", "translation": "Ukrycie się za odpadami chroni przed wijącym się trującym płynem Klawfly'a", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058660_desc_effect", "source": "<desc_point>{abe:180586601:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:180586601:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058660_desc_name", "source": "Damage Tolerance Reduction", "translation": "Zmniejszenie odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18058660_desc_summary", "source": "Reduces Damage Tolerance", "translation": "Zmniejsza odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18060802_desc_effect", "source": "Takes Damage over Time from Azure Lightning Wave", "translation": "Otrzymuje obrażenia okresowe od Lazurowej fali błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18060802_desc_name", "source": "Azure Lightning Wave", "translation": "Fala błękitnych błyskawic", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18060802_desc_summary", "source": "Damage over Time (Up to 5 stacks)", "translation": "Obrażenia okresowe (do 5 ładunków)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064951_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064951_desc_name", "source": "Fire Aura", "translation": "Aura ognia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064951_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064952_desc_effect", "source": "Deals Damage over Time to nearby allies for a fixed duration", "translation": "Zadaje pobliskim sojusznikom obrażenia okresowe przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064952_desc_name", "source": "Creeping Hellfire", "translation": "Pełzający piekielny ogień", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18064952_desc_summary", "source": "Deals Damage over Time to nearby allies for a fixed duration", "translation": "Zadaje pobliskim sojusznikom obrażenia okresowe przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18065601_desc_effect", "source": "Will be killed instantly if mark stacks\nDeals AoE Damage if killed while mark is applied", "translation": "Zginie natychmiast po nałożeniu piętna\nPo śmierci pod wpływem piętna zadaje obrażenia obszarowe", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18065601_desc_name", "source": "Mark of Hellfire", "translation": "Piętno piekielnego ognia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18065601_desc_summary", "source": "Will be killed instantly if mark stacks\nDeals AoE Damage if killed while mark is applied", "translation": "Zginie natychmiast po nałożeniu piętna\nPo śmierci pod wpływem piętna zadaje obrażenia obszarowe", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066201_desc_effect", "source": "Deals AoE Damage when repeatedly hit by fireballs for a fixed duration", "translation": "Przez określony czas wielokrotne trafienia kulami ognia zadają obrażenia obszarowe", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066201_desc_name", "source": "Unbearable Heat", "translation": "Nieznośny żar", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066201_desc_summary", "source": "Deals AoE Damage when repeatedly hit by fireballs for a fixed duration", "translation": "Przez określony czas wielokrotne trafienia kulami ognia zadają obrażenia obszarowe", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066901_desc_effect", "source": "+<desc_point>{abe:180669011:value02:divide100}%</> Damage Boost per stack\nCasts a special skill at a certain amount of stacks", "translation": "+<desc_point>{abe:180669011:value02:divide100}%</> Premii do obrażeń za ładunek\nPo zebraniu określonej liczby ładunków używa specjalnej umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066901_desc_name", "source": "Scorching Flames", "translation": "Płomienie spiekoty", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18066901_desc_summary", "source": "+<desc_point>{abe:180669011:value02:divide100}%</> Damage Boost per stack\nCasts a special skill at a certain amount of stacks", "translation": "+<desc_point>{abe:180669011:value02:divide100}%</> Premii do obrażeń za ładunek\nPo zebraniu określonej liczby ładunków używa specjalnej umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18071422_desc_effect", "source": "Nullifies damage from Kromede's expanding domain", "translation": "Niweluje obrażenia z rozszerzającej się domeny Kromede", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18071422_desc_name", "source": "Escaping Desire", "translation": "Ulotne pragnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18071422_desc_summary", "source": "Nullifies damage from Kromede's expanding domain", "translation": "Niweluje obrażenia z rozszerzającej się domeny Kromede", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18072006_desc_effect", "source": "Character dies at 2 stacks of Lovesick.", "translation": "Postać umiera po zebraniu 2 ładunków Zauroczenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18072006_desc_name", "source": "Lovesick", "translation": "Zauroczenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18072006_desc_summary", "source": "Character dies at 2 stacks of Lovesick.", "translation": "Postać umiera po zebraniu 2 ładunków Zauroczenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800004_desc_effect", "source": "In an incapacitated state. It can be removed through the Defiance skill.", "translation": "Unieruchomienie. Można je usunąć umiejętnością Opór.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800004_desc_name", "source": "Wave Blow", "translation": "Cios Fali", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800004_desc_summary", "source": "Grab status", "translation": "Efekt chwycenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800401_desc_effect", "source": "-<desc_point>{abe:1808004011:value02:divide100abs}%</> PvE Damage Boost\n-<desc_point>{abe:1808004012:value02:divide100abs}%</> PvP Damage Boost", "translation": "-<desc_point>{abe:1808004011:value02:divide100abs}%</> Premii do obrażeń w PvE\n-<desc_point>{abe:1808004012:value02:divide100abs}%</> Premii do obrażeń w PvP", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800401_desc_name", "source": "Wave Blow", "translation": "Cios Fali", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180800401_desc_summary", "source": "Reduces PvE Damage Boost and PvP Damage Boost", "translation": "Zmniejsza premie do obrażeń w PvE i PvP", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085001_desc_effect", "source": "3 stacks of Bleed becomes Ruptured Scapegoat.", "translation": "3 ładunki krwawienia zmieniają się w Rozszarpanego kozła ofiarnego.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085001_desc_name", "source": "Scapegoat", "translation": "Kozioł ofiarny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085001_desc_summary", "source": "Deals Bleed Damage for a fixed duration", "translation": "Zadaje obrażenia od krwawienia przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085003_desc_effect", "source": "Takes Damage over Time when in Bleed Zone.", "translation": "Otrzymuje obrażenia okresowe w strefie krwawienia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085003_desc_name", "source": "Ruptured Scapegoat", "translation": "Rozszarpany kozioł ofiarny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085003_desc_summary", "source": "Creates a Bleed Zone on the spot after a fixed duration", "translation": "Po określonym czasie tworzy w tym miejscu strefę krwawienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085004_desc_effect", "source": "Takes more damage from specific attacks by Gargaum.", "translation": "Otrzymuje większe obrażenia od określonych ataków Gargauma.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085004_desc_name", "source": "Hunt Mark", "translation": "Piętno łowcy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085004_desc_summary", "source": "Expose Weakness Status", "translation": "Efekt ujawnienia słabości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085013_desc_effect", "source": "Takes more damage from specific attacks by Gargaum.", "translation": "Otrzymuje większe obrażenia od określonych ataków Gargauma.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085013_desc_name", "source": "Hunt Mark", "translation": "Piętno łowcy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18085013_desc_summary", "source": "Expose Weakness Status", "translation": "Efekt ujawnienia słabości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088000_desc_effect", "source": "Boss Corruption Status", "translation": "Efekt skażenia bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088000_desc_name", "source": "Corrupted Daeva", "translation": "Skażony Daeva", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088000_desc_summary", "source": "Boss Corruption Status", "translation": "Efekt skażenia bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088005_desc_effect", "source": "Boss Judgment Status", "translation": "Efekt sądu bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088005_desc_name", "source": "Judged Daeva", "translation": "Osądzony Daeva", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088005_desc_summary", "source": "Boss Judgment Status", "translation": "Efekt sądu bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088010_desc_effect", "source": "Immunity to some boss Corruption skills", "translation": "Odporność na niektóre umiejętności skażenia bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088010_desc_name", "source": "Corruption", "translation": "Skażenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088010_desc_summary", "source": "Immunity to some boss Corruption skills", "translation": "Odporność na niektóre umiejętności skażenia bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088015_desc_effect", "source": "Immunity to some boss Judgement skills", "translation": "Odporność na niektóre umiejętności sądu bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088015_desc_name", "source": "Judgment", "translation": "Osąd", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088015_desc_summary", "source": "Immunity to some boss Judgement skills", "translation": "Odporność na niektóre umiejętności sądu bossa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088090_desc_effect", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088090_desc_name", "source": "Rift", "translation": "Szczelina", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088090_desc_summary", "source": "Deals Damage over Time for a fixed duration", "translation": "Zadaje obrażenia w czasie przez określony czas", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088551_desc_effect", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088551_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088551_desc_summary", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088601_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088601_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088601_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088809_desc_effect", "source": "Sword Aura is temporarily suppressed.\nSword Aura will fluctuate and kill the player at 2 stacks.", "translation": "Aura miecza zostaje tymczasowo stłumiona.\nJej niestabilność zabije postać po zebraniu 2 ładunków.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088809_desc_name", "source": "Suppressed Sword Aura", "translation": "Stłumiona aura miecza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088809_desc_summary", "source": "Sword Aura is temporarily suppressed.\nSword Aura will fluctuate and kill the player at 2 stacks.", "translation": "Aura miecza zostaje tymczasowo stłumiona.\nJej niestabilność zabije postać po zebraniu 2 ładunków.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088900_desc_effect", "source": "Damage Tolerance", "translation": "Redukcja otrzymywanych obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088900_desc_name", "source": "Indomitable", "translation": "Niezłomność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18088900_desc_summary", "source": "Indomitable", "translation": "Niezłomność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089005_desc_effect", "source": "Absorbs Judgment if standing underneath Trial of Swords", "translation": "Pochłania Sąd, gdy postać stoi pod Próbą mieczy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089005_desc_name", "source": "Absorb Judgment", "translation": "Pochłoń Sąd", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089005_desc_summary", "source": "Absorbs Judgment if standing underneath Trial of Swords", "translation": "Pochłania Sąd, gdy postać stoi pod Próbą mieczy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089151_desc_effect", "source": "Pushback", "translation": "Odepchnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089151_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089151_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089251_desc_effect", "source": "Explodes and destroys Shields of Corruption upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Skażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089251_desc_name", "source": "Sword of Corruption", "translation": "Miecz Skażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089251_desc_summary", "source": "Explodes and destroys Shields of Corruption upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Skażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_effect", "source": "Explodes and destroys Shields of Judgment upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Sądu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_name", "source": "Sword of Judgment", "translation": "Miecz osądu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_summary", "source": "Explodes and destroys Shields of Judgment upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Sądu", "status": "draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_180900102_desc_effect","source":"-<desc_point>{abe:1809001021:value02:divide100abs}%</> Impact-type Resist","translation":"-<desc_point>{abe:1809001021:value02:divide100abs}%</> Odporności na efekty uderzeniowe","status":"draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180900102_desc_name", "source": "Rushing Smash", "translation": "Pędzące Uderzenie", "status": "draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_180900102_desc_summary","source":"Reduces Impact-type Resist","translation":"Zmniejsza odporność na efekty uderzeniowe","status":"draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_effect", "source": "Becomes unable to act and immune to Askran's damage.", "translation": "Uniemożliwia działanie i zapewnia odporność na obrażenia Askrana.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_name", "source": "Petrify", "translation": "Skamienienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_summary", "source": "Incapacitated, immune to Askran's damage", "translation": "Unieruchomienie, odporność na obrażenia Askrana", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091552_desc_effect", "source": "Can nullify the Crimson Purge Beam activated by Askran.", "translation": "Może zniwelować Szkarłatną wiązkę oczyszczenia Askrana.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091552_desc_name", "source": "Red Protective Shield", "translation": "Czerwona tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091552_desc_summary", "source": "Nullifies the Crimson Purge Beam.", "translation": "Niweluje Szkarłatną wiązkę oczyszczenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091562_desc_effect", "source": "Can nullify the Azure Purge Beam activated by Askran.", "translation": "Może zniwelować Lazurową wiązkę oczyszczenia Askrana.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091562_desc_name", "source": "Blue Protective Shield", "translation": "Niebieska tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091562_desc_summary", "source": "Nullifies the Azure Purge Beam.", "translation": "Niweluje Lazurową wiązkę oczyszczenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091572_desc_effect", "source": "Can nullify the Green Purge Beam activated by Askran.", "translation": "Może zniwelować Zieloną wiązkę oczyszczenia Askrana.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091572_desc_name", "source": "Green Protective Shield", "translation": "Zielona tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091572_desc_summary", "source": "Nullifies the Green Purge Beam.", "translation": "Niweluje Zieloną wiązkę oczyszczenia.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091601_desc_effect", "source": "Utilizable energy absorbed via the Protective Shield", "translation": "Energia wchłonięta przez tarczę ochronną, gotowa do użycia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091601_desc_name", "source": "Condensed Energy", "translation": "Skondensowana energia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18091601_desc_summary", "source": "Utilizable energy absorbed via the Protective Shield", "translation": "Energia wchłonięta przez tarczę ochronną, gotowa do użycia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092806_desc_effect", "source": "Increases Combat Speed by 30%.", "translation": "Zwiększa szybkość walki o 30%.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092806_desc_name", "source": "Strengthen Body", "translation": "Wzmocnienie ciała", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092806_desc_summary", "source": "Increases Atiel's stats.", "translation": "Zwiększa statystyki Atiela.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092807_desc_effect", "source": "+5% Attack and Combat Speed per stack.", "translation": "+5% ataku i szybkości walki za ładunek.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092807_desc_name", "source": "Strengthen Body", "translation": "Wzmocnienie ciała", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092807_desc_summary", "source": "Increases Atiel's stats.", "translation": "Zwiększa statystyki Atiela.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_18092852_desc_effect", "source": "Explodes at 5 stacks, dealing damage in the area around the target.", "translation": "Wybucha po zebraniu 5 ładunków, zadając obrażenia obszarowe wokół celu.", "status": "draft"}

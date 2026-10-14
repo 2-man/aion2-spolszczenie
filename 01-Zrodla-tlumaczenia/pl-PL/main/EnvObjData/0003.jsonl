@@ -1,0 +1,250 @@
+{"id": "EnvObjData_Basic_StoneWall_01_desc", "source": "Destructible Stone Wall", "translation": "Niszczalny kamienny mur", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneWall_02_desc", "source": "Destructible Stone Wall 2", "translation": "Niszczalny kamienny mur 2", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneWall_04_desc", "source": "Temporary Stone Wall", "translation": "Tymczasowy kamienny mur", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneWall_05_V01_desc", "source": "Destructible Stone Wall_ColorVari", "translation": "Niszczalny kamienny mur (wariant kolorystyczny)", "status": "draft"}
+{"id": "EnvObjData_Basic_StoneWall_05_desc", "source": "Etheria Rift Stone Wall", "translation": "Kamienny mur Szczeliny Etherii", "status": "draft"}
+{"id": "EnvObjData_Basic_StormLegionFlag_01_desc", "source": "Red Team Storm Legion Banner", "translation": "Czerwony sztandar Legionu Burzy", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikAltarDoor_01_desc", "source": "Aullaeu Altar Common Door", "translation": "Zwykłe drzwi ołtarza Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikAltarDoor_02_desc", "source": "Aullaeu Main Altar Door", "translation": "Główne drzwi ołtarza Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikBasket_01_desc", "source": "Aullaeu Basket", "translation": "Kosz Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikBrazier_01_desc", "source": "Aullaeu Brazier", "translation": "Kadzielnica Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikDeadBody_01_desc", "source": "Aullaeu Corpse Pile", "translation": "Stos zwłok Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikPot_01_desc", "source": "Aullaeu Jar", "translation": "Dzban Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikStone_01_desc", "source": "Aullaeu Hexing Stone", "translation": "Kamień klątw Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikTotemBig_01_desc", "source": "Large Aullaeu Totem", "translation": "Wielki totem Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikTotem_01_desc", "source": "Aullaeu Totem", "translation": "Totem Aullaeu", "status": "draft"}
+{"id": "EnvObjData_Basic_StrigikTotem_02_desc", "source": "Aullaeu Village Censer Totem", "translation": "Totem Aullaeu do okadzania w wiosce", "status": "draft"}
+{"id": "EnvObjData_Basic_StrongGrass_01_desc", "source": "Tough Grass", "translation": "Wytrzymała trawa", "status": "draft"}
+{"id": "EnvObjData_Basic_Subspace_01_desc", "source": "Subspace Gate", "translation": "Brama podprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_Basic_TableOfTestify_01_desc", "source": "Table of Testament", "translation": "Stół testamentu", "status": "draft"}
+{"id": "EnvObjData_Basic_TableOfTestify_02_desc", "source": "Kaisinel's Spiritstone", "translation": "Kamień ducha Kaisinela", "status": "draft"}
+{"id": "EnvObjData_Basic_TeleportArtifact_D_01_desc", "source": "Asmodian Kibelisk", "translation": "Kibelisk Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Basic_TeleportArtifact_D_01_interact_desc", "source": "Testing Bind...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_Basic_TeleportArtifact_L_01_desc", "source": "Elyos Kibelisk", "translation": "Kibelisk Elyosów", "status": "draft"}
+{"id": "EnvObjData_Basic_TeleportArtifact_L_01_interact_desc", "source": "Testing Bind...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_Basic_Teleport_Rift_01_desc", "source": "Spacetime Portal", "translation": "Portal czasoprzestrzenny", "status": "draft"}
+{"id": "EnvObjData_Basic_TempleDoor_01_desc", "source": "Temple Door", "translation": "Drzwi świątyni", "status": "draft"}
+{"id": "EnvObjData_Basic_Thornbush_01_desc", "source": "Thorn Bush", "translation": "Ciernisty krzew", "status": "draft"}
+{"id": "EnvObjData_Basic_Thought_01_desc", "source": "Faint Remains of an Apparition", "translation": "Słabe szczątki zjawy", "status": "draft"}
+{"id": "EnvObjData_Basic_Thought_02_desc", "source": "Wrathful Apparition", "translation": "Rozgniewana zjawa", "status": "draft"}
+{"id": "EnvObjData_Basic_Thought_03_desc", "source": "Soul Crystal", "translation": "Kryształ duszy", "status": "draft"}
+{"id": "EnvObjData_Basic_Tombstone_01_desc", "source": "Monument", "translation": "Pomnik", "status": "draft"}
+{"id": "EnvObjData_Basic_Tombstone_02_desc", "source": "Broken Blood Monument A", "translation": "Uszkodzony krwawy pomnik A", "status": "draft"}
+{"id": "EnvObjData_Basic_Tombstone_03_desc", "source": "Broken Blood Monument B", "translation": "Uszkodzony krwawy pomnik B", "status": "draft"}
+{"id": "EnvObjData_Basic_Tombstone_04_desc", "source": "Broken Blood Monument C", "translation": "Uszkodzony krwawy pomnik C", "status": "draft"}
+{"id": "EnvObjData_Basic_Tombstone_05_desc", "source": "Broken Blood Monument D", "translation": "Uszkodzony krwawy pomnik D", "status": "draft"}
+{"id": "EnvObjData_Basic_TowerFragment_01_desc", "source": "Barrier Tower Fragment", "translation": "Fragment Wieży Bariery", "status": "draft"}
+{"id": "EnvObjData_Basic_Trace_01_desc", "source": "Daeva Hunter's Trace", "translation": "Ślad łowcy Daevów", "status": "draft"}
+{"id": "EnvObjData_Basic_Trap_01_attack_desc", "source": "Trap", "translation": "Pułapka", "status": "draft"}
+{"id": "EnvObjData_Basic_Trap_01_desc", "source": "Trap", "translation": "Pułapka", "status": "draft"}
+{"id": "EnvObjData_Basic_TreasureBoxLower01_desc", "source": "Worn Treasure Chest", "translation": "Zniszczona skrzynia ze skarbami", "status": "draft"}
+{"id": "EnvObjData_Basic_TreeBetua_desc", "source": "Betua Log", "translation": "Kłoda Betuy", "status": "draft"}
+{"id": "EnvObjData_Basic_TreeHole_01_desc", "source": "Large Tree Hollow", "translation": "Duża dziupla w drzewie", "status": "draft"}
+{"id": "EnvObjData_Basic_VegetableMela_V01_desc", "source": "Mela_x0.7", "translation": "Mela (x0,7)", "status": "draft"}
+{"id": "EnvObjData_Basic_VegetableMela_desc", "source": "Mela", "translation": "Mela", "status": "draft"}
+{"id": "EnvObjData_Basic_VerteronFortressDoor_01_desc", "source": "Krall Command Post Door", "translation": "Drzwi posterunku dowodzenia Krallów", "status": "draft"}
+{"id": "EnvObjData_Basic_VerteronFortressDoor_02_desc", "source": "Illusion Oratory Door", "translation": "Drzwi kaplicy iluzji", "status": "draft"}
+{"id": "EnvObjData_Basic_VerteronFortressDoor_03_desc", "source": "Krall Command Post Door_02", "translation": "Drzwi posterunku dowodzenia Krallów 02", "status": "draft"}
+{"id": "EnvObjData_Basic_Wagon_03_desc", "source": "Broken Shugo Wagon", "translation": "Rozbity wóz Shugo", "status": "draft"}
+{"id": "EnvObjData_Basic_Wagonwheel_01_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
+{"id": "EnvObjData_Basic_Wall_01_desc", "source": "Decorative Castle Wall", "translation": "Dekoracyjny mur zamku", "status": "draft"}
+{"id": "EnvObjData_Basic_Wall_04_desc", "source": "Mirror Wall", "translation": "Lustrzany mur", "status": "draft"}
+{"id": "EnvObjData_Basic_WarehouseDoor_01_V01_desc", "source": "Balaur Barracks Storage Door Vari", "translation": "Drzwi magazynu koszar Balaurów (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_WarehouseDoor_01_desc", "source": "Balaur Barracks Storage Door", "translation": "Drzwi magazynu koszar Balaurów", "status": "draft"}
+{"id": "EnvObjData_Basic_Waste_01_desc", "source": "Waste", "translation": "Odpadki", "status": "draft"}
+{"id": "EnvObjData_Basic_Waste_02_desc", "source": "Massive Waste", "translation": "Wielka sterta odpadków", "status": "draft"}
+{"id": "EnvObjData_Basic_WaterController_01_desc", "source": "Coolant Console", "translation": "Panel sterowania chłodziwem", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodPrisonDoor_01_V01_desc", "source": "Wooden Prison Door Vary", "translation": "Drewniane drzwi więzienne (wariant)", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodPrisonDoor_01_desc", "source": "Wooden Prison Door", "translation": "Drewniane drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodWall_01_desc", "source": "Wooden Wall", "translation": "Drewniany mur", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenBarrel01_attack_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenBarrel01_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenBarrel_02_desc", "source": "Common Oak Barrel 02", "translation": "Zwykła dębowa beczka 02", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenBox01_attack_desc", "source": "Wooden Chest", "translation": "Drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenBox01_desc", "source": "Wooden Chest", "translation": "Drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenStool_attack_01_desc", "source": "Destructible Chair", "translation": "Niszczalne krzesło", "status": "draft"}
+{"id": "EnvObjData_Basic_WoodenTable_attack_01_desc", "source": "Destructible Table", "translation": "Niszczalny stół", "status": "draft"}
+{"id": "EnvObjData_Basic_YellowHerb_01_desc", "source": "Yellow Herb", "translation": "Żółte zioło", "status": "draft"}
+{"id": "EnvObjData_Basic_ZikelDoor_01_desc", "source": "Zikel's Sanctum Door", "translation": "Drzwi sanktuarium Zikela", "status": "draft"}
+{"id": "EnvObjData_Basic_bloodstainedclothes_01_desc", "source": "Blood-Stained Clothes", "translation": "Odzienie splamione krwią", "status": "draft"}
+{"id": "EnvObjData_Battlefield_A_1_BLUE_Barrier_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_Battlefield_A_1_RED_Barrier_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_AB1_FlyCircle_001_desc", "source": "Flight Circle", "translation": "Krąg lotu", "status": "draft"}
+{"id": "EnvObjData_E_AB1_PrimumLanding_TeleportArtifact_001_desc", "source": "Rift Eastern Root Base", "translation": "Baza Wschodniego Korzenia Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_AB1_TeminonLanding_TeleportArtifact_001_desc", "source": "Rift Western Root Base", "translation": "Baza Zachodniego Korzenia Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_001_desc", "source": "Reshanta's Root Artifact", "translation": "Artefakt Reshanta's Root", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_002_desc", "source": "Black Fragments Area Artifact", "translation": "Artefakt na obszarze Czarnych Fragmentów", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_003_desc", "source": "Sulfur Tree Island Artifact", "translation": "Artefakt na Wyspie Siarkowego Drzewa", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_004_desc", "source": "Sulfur Tree Island II Artifact", "translation": "Artefakt na Wyspie Siarkowego Drzewa II", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_005_desc", "source": "Archipelago of Siel's Wings Artifact", "translation": "Artefakt Archipelago of Siel's Wings", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssArtifact_006_desc", "source": "Archipelago of Siel's Wings II Artifact", "translation": "Artefakt Archipelago of Siel's Wings II", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_001_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_002_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_003_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_004_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_005_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_AbyssCore_006_desc", "source": "Binding Entity", "translation": "Istota wiążąca", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_ArtifactDungeonPortal_02_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_ArtifactDungeonPortal_03_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_GodMonolith_10_desc", "source": "Dark Monolith", "translation": "Ciemny monolit", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_GodMonolith_14_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_STI_TeleportArtifact_001_desc", "source": "River of Rotten Sap", "translation": "Rzeka Zgniłego Soku", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_STI_TeleportArtifact_002_desc", "source": "Sulfur Tree Island", "translation": "Wyspa Siarkowego Drzewa", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_WSA_TeleportArtifact_001_desc", "source": "Siel's Left Wing", "translation": "Lewe Skrzydło Siel", "status": "draft"}
+{"id": "EnvObjData_E_AR1_D_WSA_TeleportArtifact_002_desc", "source": "Siel's Right Wing", "translation": "Prawe Skrzydło Siel", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Dark_Fragment_Air_desc", "source": "Dark Fragment", "translation": "Ciemny fragment", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Dark_Fragment_Ground_desc", "source": "Dark Fragment", "translation": "Ciemny fragment", "status": "draft"}
+{"id": "EnvObjData_E_AR1_FlyCircle_001_desc", "source": "Flight Circle", "translation": "Krąg lotu", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Fragment_Air_desc", "source": "Empyrean Trace: Lower Reshanta", "translation": "Szlak Empyreum: Lower Reshanta", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Fragment_Ground_desc", "source": "Empyrean Trace: Lower Reshanta", "translation": "Szlak Empyreum: Lower Reshanta", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_ArtifactDungeonPortal_02_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_ArtifactDungeonPortal_03_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_GodMonolith_07_desc", "source": "Light Monolith", "translation": "Jasny monolit", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_GodMonolith_13_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_STI_TeleportArtifact_001_desc", "source": "Branding Island", "translation": "Wyspa Piętna", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_STI_TeleportArtifact_002_desc", "source": "River of Rotten Sap", "translation": "Rzeka Zgniłego Soku", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_WSA_TeleportArtifact_001_desc", "source": "Siel's Right Wing", "translation": "Prawe Skrzydło Siel", "status": "draft"}
+{"id": "EnvObjData_E_AR1_L_WSA_TeleportArtifact_002_desc", "source": "Siel's Left Wing", "translation": "Lewe Skrzydło Siel", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Light_Fragment_Air_desc", "source": "Light Fragment", "translation": "Jasny fragment", "status": "draft"}
+{"id": "EnvObjData_E_AR1_Light_Fragment_Ground_desc", "source": "Light Fragment", "translation": "Jasny fragment", "status": "draft"}
+{"id": "EnvObjData_E_AR1_PrimumLanding_TeleportArtifact_001_desc", "source": "Latesran Eastern Root", "translation": "Wschodni Korzeń Latesran", "status": "draft"}
+{"id": "EnvObjData_E_AR1_TeminonLanding_TeleportArtifact_001_desc", "source": "Latesran Western Root", "translation": "Zachodni Korzeń Latesran", "status": "draft"}
+{"id": "EnvObjData_E_AR1_WH4_RiftLight_desc", "source": "Light Pillar", "translation": "Słup światła", "status": "draft"}
+{"id": "EnvObjData_E_AR1_WH5_RiftLight_desc", "source": "Light Pillar", "translation": "Słup światła", "status": "draft"}
+{"id": "EnvObjData_E_AR1_WH6_RiftLight_desc", "source": "Light Pillar", "translation": "Słup światła", "status": "draft"}
+{"id": "EnvObjData_E_AR2_AbyssArtifact_001_desc", "source": "Garzykan Observatory Artifact", "translation": "Artefakt Garzykan Observatory", "status": "draft"}
+{"id": "EnvObjData_E_AR2_AbyssArtifact_002_desc", "source": "Garzykan Fortress Artifact", "translation": "Artefakt w Twierdzy Garzykana", "status": "draft"}
+{"id": "EnvObjData_E_AR2_AbyssArtifact_003_desc", "source": "Underground Temple Artifact", "translation": "Artefakt w Podziemnej Świątyni", "status": "draft"}
+{"id": "EnvObjData_E_AR2_D_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_D_ArtifactDungeonPortal_02_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_D_ArtifactDungeonPortal_03_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_D_GodMonolith_14_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR2_FlyCircle_001_desc", "source": "Flight Circle", "translation": "Krąg lotu", "status": "draft"}
+{"id": "EnvObjData_E_AR2_Fragment_Air_desc", "source": "Empyrean Trace: Middle Reshanta", "translation": "Szlak Empyreum: Middle Reshanta", "status": "draft"}
+{"id": "EnvObjData_E_AR2_Fragment_Ground_desc", "source": "Empyrean Trace: Middle Reshanta", "translation": "Szlak Empyreum: Middle Reshanta", "status": "draft"}
+{"id": "EnvObjData_E_AR2_L_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_L_ArtifactDungeonPortal_02_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_L_ArtifactDungeonPortal_03_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR2_L_GodMonolith_13_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR3_PrimumLanding_GodMonolith_14_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR3_PrimumLanding_TeleportArtifact_001_desc", "source": "Latesran Eastern Ridge", "translation": "Wschodni Grzbiet Latesran", "status": "draft"}
+{"id": "EnvObjData_E_AR3_RR_AbyssArtifact_001_desc", "source": "Corroded Heart Artifact", "translation": "Artefakt Skażonego Serca", "status": "draft"}
+{"id": "EnvObjData_E_AR3_RR_D_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR3_RR_L_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR3_STI_AbyssArtifact_001_desc", "source": "Contaminated Marsh Artifact", "translation": "Artefakt Skażonego Bagna", "status": "draft"}
+{"id": "EnvObjData_E_AR3_STI_D_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR3_STI_L_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR3_TeminonLanding_GodMonolith_13_desc", "source": "Ereshkigal's Monolith", "translation": "Monolit Ereshkigal", "status": "draft"}
+{"id": "EnvObjData_E_AR3_TeminonLanding_TeleportArtifact_001_desc", "source": "Latesran Western Ridge", "translation": "Zachodni Grzbiet Latesran", "status": "draft"}
+{"id": "EnvObjData_E_AR3_WSA_AbyssArtifact_001_desc", "source": "Distorted Old Growth Forest Artifact", "translation": "Artefakt Wypaczonego Pierwotnego Lasu", "status": "draft"}
+{"id": "EnvObjData_E_AR3_WSA_D_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR3_WSA_L_ArtifactDungeonPortal_01_desc", "source": "Abyss Corridor", "translation": "Korytarz Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_AR4_PrimumLanding_TeleportArtifact_001_desc", "source": "Krotan Fortress", "translation": "Twierdza Krotan", "status": "draft"}
+{"id": "EnvObjData_E_AR4_TeminonLanding_TeleportArtifact_001_desc", "source": "Dukysas Fortress", "translation": "Twierdza Dukysas", "status": "draft"}
+{"id": "EnvObjData_E_All_EtheriaRift_StoneWall_001_desc", "source": "Stone Wall", "translation": "Kamienny mur", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBoxRandom_01_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBoxRandom_01_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_01_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_01_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_02_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_02_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_03_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_03_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_04_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_All_RecoveryOrbBox_04_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_Boss_001_desc", "source": "Seal Door", "translation": "Drzwi pieczęci", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_Boss_001_interact_desc", "source": "Opening the Seal Door...", "translation": "Otwieranie drzwi pieczęci...", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R1_001_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R1_002_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R2_001_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R2_002_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R3_001_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R3_002_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R4_001_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_R4_002_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_Start_001_desc", "source": "Sealed Door", "translation": "Zapieczętowane drzwi", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_MagicDoor_Start_001_interact_desc", "source": "Opening the Sealed Door...", "translation": "Otwieranie zapieczętowanych drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_SpellTrace_001_desc", "source": "Suspicious Sorcery", "translation": "Podejrzana magia", "status": "draft"}
+{"id": "EnvObjData_E_All_SealAdvanced_0001_SpellTrace_001_interact_desc", "source": "Removing the Suspicious Sorcery...", "translation": "Usuwanie podejrzanej magii...", "status": "draft"}
+{"id": "EnvObjData_E_Arena_Barrier_001_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_Arena_Barrier_002_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BlueFlag_001_desc", "source": "Blue Team Storm Legion Banner", "translation": "Niebieski sztandar Legionu Burzy", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BlueFlag_002_desc", "source": "Blue Team Storm Legion Banner", "translation": "Niebieski sztandar Legionu Burzy", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BombSkill_001_desc", "source": "Refined Odyle Shard", "translation": "Uszlachetniony odłamek Odylu", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BombSkill_002_desc", "source": "Nexus of Fate", "translation": "Węzeł Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BuffOrb_001_desc", "source": "Buff Orb", "translation": "Kula premii", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BuffOrb_002_desc", "source": "Buff Orb", "translation": "Kula premii", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BuffOrb_003_desc", "source": "Buff Orb", "translation": "Kula premii", "status": "draft"}
+{"id": "EnvObjData_E_Arena_BuffOrb_004_desc", "source": "Buff Orb", "translation": "Kula premii", "status": "draft"}
+{"id": "EnvObjData_E_Arena_FireBall_001_desc", "source": "Fire Orb", "translation": "Kula ognia", "status": "draft"}
+{"id": "EnvObjData_E_Arena_MoveSpeedOrb_001_desc", "source": "Move Speed Orb", "translation": "Kula szybkości ruchu", "status": "draft"}
+{"id": "EnvObjData_E_Arena_RedFlag_001_desc", "source": "Red Team Storm Legion Banner", "translation": "Czerwony sztandar Legionu Burzy", "status": "draft"}
+{"id": "EnvObjData_E_Arena_RedFlag_002_desc", "source": "Red Team Storm Legion Banner", "translation": "Czerwony sztandar Legionu Burzy", "status": "draft"}
+{"id": "EnvObjData_E_ArtifactDungeon_MagicDoor_001_desc", "source": "Seal Door", "translation": "Drzwi pieczęci", "status": "draft"}
+{"id": "EnvObjData_E_ArtifactDungeon_MagicDoor_001_interact_desc", "source": "Opening the Seal Door...", "translation": "Otwieranie drzwi pieczęci...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_02_Memory_001_desc", "source": "Dream of Willpower Fragment", "translation": "Fragment snu o sile woli", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_01_Door_001_desc", "source": "Door of Tolerance", "translation": "Drzwi Tolerancji", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_01_Door_001_interact_desc", "source": "Opening the Door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_01_Wall_001_desc", "source": "Rampart", "translation": "Mur obronny", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_DrakanCorpse_001_desc", "source": "Drakan Corpse", "translation": "Zwłoki Drakana", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_DrakanCorpse_002_desc", "source": "Drakan Corpse", "translation": "Zwłoki Drakana", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_DrakanCorpse_003_desc", "source": "Drakan Corpse", "translation": "Zwłoki Drakana", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_DrakanDevice_001_desc", "source": "Windstream Activation Device", "translation": "Urządzenie aktywujące strumień wiatru", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_DreamFragment_001_desc", "source": "Dream of Sacrifice Fragment", "translation": "Fragment snu o poświęceniu", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_EnterPortal_001_desc", "source": "Narun's Dream", "translation": "Sen Naruna", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_03_02_EnterPortal_001_interact_desc", "source": "Entering Narun's Dream...", "translation": "Wchodzenie do snu Naruna...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_DreamFragment_001_desc", "source": "Abyssal Core", "translation": "Rdzeń Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_DreamFragment_001_interact_desc", "source": "Resonating with Abyssal Core...", "translation": "Rezonowanie z rdzeniem Otchłani...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_001_desc", "source": "Abyssal Door", "translation": "Drzwi Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_001_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_002_desc", "source": "Abyssal Door", "translation": "Drzwi Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_002_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_003_desc", "source": "Abyssal Door", "translation": "Drzwi Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_003_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_004_desc", "source": "Abyssal Door", "translation": "Drzwi Otchłani", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_05_01_MagicDoor_004_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_02_EnterPortal_001_desc", "source": "Dream Remnants", "translation": "Pozostałości snu", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_02_EnterPortal_001_interact_desc", "source": "Entering Dream Remnants...", "translation": "Wchodzenie do Dream Remnants...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_03_01_EnterPortal_001_desc", "source": "Forgotten Battlefield", "translation": "Zapomniane Pole Bitwy", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_03_01_EnterPortal_001_interact_desc", "source": "Entering Forgotten Battlefield...", "translation": "Wchodzenie na Forgotten Battlefield...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_01_Barrier_001_desc", "source": "Sanctum Barrier", "translation": "Bariera Sanktuarium", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_01_Barrier_001_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_01_Protect_001_desc", "source": "Kaisinel's Spiritstone", "translation": "Kamień ducha Kaisinela", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_01_Protect_001_interact_desc", "source": "Obtaining Kaisinel's Spiritstone...", "translation": "Pozyskiwanie kamienia ducha Kaisinela...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_02_DreamFragment_001_desc", "source": "Kaisinel's Dream Fragment", "translation": "Fragment snu Kaisinela", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_02_EnterPortal_001_desc", "source": "Kaisinel's Distorted Dream", "translation": "Zniekształcony sen Kaisinel", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_D_04_02_EnterPortal_001_interact_desc", "source": "Entering Kaisinel's Distorted Dream...", "translation": "Wchodzenie do wypaczonego snu Kaisinela...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_DreamOfPain_Artifact_001_desc", "source": "Dream Artifact", "translation": "Artefakt snu", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_DreamOfPain_EnterPortal_001_desc", "source": "Dream of Torment Entrance", "translation": "Wejście do Snu Udręki", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_DreamOfPain_EnterPortal_001_interact_desc", "source": "Entering Dream of Torment...", "translation": "Wchodzenie do Snu Udręki...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_02_EnterPortal_001_desc", "source": "Dream Remnants", "translation": "Pozostałości snu", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_02_EnterPortal_001_interact_desc", "source": "Entering Dream Remnants...", "translation": "Wchodzenie do Dream Remnants...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_03_01_EnterPortal_001_desc", "source": "Forgotten Battlefield", "translation": "Zapomniane Pole Bitwy", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_03_01_EnterPortal_001_interact_desc", "source": "Entering Forgotten Battlefield...", "translation": "Wchodzenie na Forgotten Battlefield...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Door_001_desc", "source": "Barracks Door", "translation": "Drzwi koszar", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Door_001_interact_desc", "source": "Opening the Barracks Door...", "translation": "Otwieranie drzwi koszar...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Door_002_desc", "source": "Barracks Entrance", "translation": "Wejście do koszar", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Door_002_interact_desc", "source": "Opening the Barracks Door...", "translation": "Otwieranie drzwi koszar...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Protect_001_desc", "source": "Zikel's Blood", "translation": "Krew Zikela", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_01_Protect_001_interact_desc", "source": "Obtaining Zikel's Blood...", "translation": "Pozyskiwanie krwi Zikela...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_02_DreamFragment_001_desc", "source": "Zikel's Dream Fragment", "translation": "Fragment snu Zikela", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_02_EnterPortal_001_desc", "source": "Zikel's Distorted Dream", "translation": "Zniekształcony sen Zikela", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_04_02_EnterPortal_001_interact_desc", "source": "Entering Zikel's Distorted Dream...", "translation": "Wchodzenie do wypaczonego snu Zikela...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_001_desc", "source": "Guardian Monolith", "translation": "Monolit Strażnika", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_001_interact_desc", "source": "Taking the oath of the guardian...", "translation": "Składanie przysięgi Strażnika...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_002_desc", "source": "Liberation Monolith", "translation": "Monolit Wyzwolenia", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_002_interact_desc", "source": "Taking the oath of liberation...", "translation": "Składanie przysięgi Wyzwolenia...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_003_desc", "source": "Purification Monolith", "translation": "Monolit Oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_01_Monolith_003_interact_desc", "source": "Taking the oath of purification...", "translation": "Składanie przysięgi Oczyszczenia...", "status": "draft"}
+{"id": "EnvObjData_E_Ascension_L_05_02_Barrier_001_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_BalaurBox_03_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_001_desc", "source": "Destroyed Quarry", "translation": "Zniszczony kamieniołom", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_002_desc", "source": "Blue Quarry", "translation": "Niebieski kamieniołom", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_003_desc", "source": "Shaded Nest", "translation": "Zacienione gniazdo", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_D_DungeonKibel_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_L_DungeonKibel_01_001_desc", "source": "Destroyed Quarry", "translation": "Zniszczony kamieniołom", "status": "draft"}
+{"id": "EnvObjData_E_CoG_FafniteBasin_L_DungeonKibel_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}

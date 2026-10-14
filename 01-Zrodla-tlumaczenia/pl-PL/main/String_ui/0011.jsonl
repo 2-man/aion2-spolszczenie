@@ -1,0 +1,250 @@
+{"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_LEVEL_body", "source": "By Item Level", "translation": "Według poziomu przedmiotu", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_SET_EFFECT_body", "source": "By Set Effects", "translation": "Według efektów zestawu", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_UNLOCK_CATEGORY_ACHIEVEMENT_body", "source": "Achievement Unlocked", "translation": "Osiągnięcie odblokowane", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_UNLOCK_CATEGORY_DUNGEON_body", "source": "Clear Dungeons", "translation": "Ukończ lochy", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_UNLOCK_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_UNLOCK_CATEGORY_QUEST_body", "source": "Complete Quests", "translation": "Ukończ zadania", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_UNLOCK_LIST_body", "source": "Slot Unlock Condition", "translation": "Warunek odblokowania slotu", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMA_body", "source": "Breath Seal", "translation": "Pieczęć Oddechu", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMB_body", "source": "Prismatic Seal", "translation": "Pryzmatyczna Pieczęć", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMC_body", "source": "Calamity Seal", "translation": "Pieczęć Kataklizmu", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMD_body", "source": "Blade Seal", "translation": "Pieczęć Ostrza", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEME_body", "source": "Destruction Seal", "translation": "Pieczęć Zniszczenia", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMF_body", "source": "Rage Seal", "translation": "Pieczęć Gniewu", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMG_body", "source": "Ironclad Seal", "translation": "Pieczęć Żelaznej Skóry", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMH_body", "source": "Focus Seal", "translation": "Pieczęć Skupienia", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMI_body", "source": "Strike Seal", "translation": "Pieczęć Uderzenia", "status": "draft"}
+{"id": "String_UI_EMBLEM_TYPE_EMBLEMJ_body", "source": "Sprint Seal", "translation": "Pieczęć Sprintu", "status": "draft"}
+{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Superior Transfer Recovery Count: {0}", "translation": "Liczba udanych doskonałych transferów: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_SUCCESS_MAX_COUNT_body", "source": "Seasonal Superior Transfer Successes: {0}", "translation": "Liczba sezonowych udanych doskonałych transferów: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_ACC_MAGICSTONE_body", "source": "Soulstone", "translation": "Kamień duszy", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_COMBINE_CLOSE_GODSTONE_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_EXCEED_ENCHANT_SUCCESS_PROB_COUNT_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_EXCEED_ENCHANT_SUCCESS_PROB_body", "source": "Success Chance", "translation": "Szansa powodzenia", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_EXCEED_ENCHANT_body", "source": "Amplified Enhance", "translation": "Wzmocnione ulepszanie", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_GODSTONE_body", "source": "Theostone", "translation": "Teoskal", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_GRADEUP_body", "source": "Upgrade", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_LEVEL_body", "source": "Lv.", "translation": "Poz.", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_MAGICSTONE_body", "source": "Engrave", "translation": "Graweruj", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SOULADD_body", "source": "Fuse", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SOULATTUNE_body", "source": "Sync", "translation": "Synchronizuj", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SOULBIND_REROLLL_body", "source": "Rebind", "translation": "Zwiąż duszę", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SOULBIND_body", "source": "Bind", "translation": "Zwiąż", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SUCCESSION_body", "source": "Transfer", "translation": "Przenieś", "status": "draft"}
+{"id": "String_UI_ENCHANT_BUTTON_SURPASS_body", "source": "Enhance Potential", "translation": "Ulepsz potencjał", "status": "draft"}
+{"id": "String_UI_ENCHANT_CANT_ITEM_ENCHANT_body", "source": "This item cannot be enhanced.", "translation": "Tego przedmiotu nie można ulepszyć.", "status": "draft"}
+{"id": "String_UI_ENCHANT_CANT_ITEM_GODSTONE_body", "source": "This item cannot be engraved with Theostone.", "translation": "Tego przedmiotu nie można grawerować teoskalem.", "status": "draft"}
+{"id": "String_UI_ENCHANT_CANT_ITEM_MAGICSTONE_body", "source": "This item cannot be engraved with Manastone.", "translation": "Tego przedmiotu nie można grawerować kamieniem many.", "status": "draft"}
+{"id": "String_UI_ENCHANT_CANT_ITEM_SOULBIND_body", "source": "This item cannot be Soul-bound.", "translation": "Tego przedmiotu nie można związać z duszą.", "status": "draft"}
+{"id": "String_UI_ENCHANT_CORRECTION_PROB_GUIDETEXT_body", "source": "This item has an Adjustment Chance. When traded, the Adjustment Chance will be reset.", "translation": "Ten przedmiot ma szansę na dostrojenie. Po wymianie szansa na dostrojenie zostanie zresetowana.", "status": "draft"}
+{"id": "String_UI_ENCHANT_CORRECTION_PROB_ITEM_REGISTER_body", "source": "Would you like to register this item?", "translation": "Czy chcesz zarejestrować ten przedmiot?", "status": "draft"}
+{"id": "String_UI_ENCHANT_ENCHANTSTONE_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_ENCHANT_MATERIAL_body", "source": "Enhance Materials", "translation": "Materiały do ulepszania", "status": "draft"}
+{"id": "String_UI_ENCHANT_EQUIP_INFO_GODSTONE_body", "source": "Equipped Theostone Status", "translation": "Stan założonego teoskalu", "status": "draft"}
+{"id": "String_UI_ENCHANT_EQUIP_body", "source": "Equipped Gear", "translation": "Założony ekwipunek", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXCEEDENCHANT_GUIDE_DESTRUCTION_body", "source": "Destroyed upon Amplified Enhance failure.", "translation": "Przedmiot ulega zniszczeniu w przypadku niepowodzenia wzmocnionego ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXCEEDENCHANT_GUIDE_DOWN_body", "source": "Level decreases upon Amplified Enhance failure.", "translation": "Poziom spada w przypadku niepowodzenia wzmocnionego ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXCEEDENCHANT_MATERIAL_body", "source": "Amplified Enhance Materials", "translation": "Materiały do wzmocnionego ulepszania", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXCEED_ENCHANT_FAIL_CORRECTION_PROB_body", "source": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "translation": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXCEED_ENCHANT_FAIL_CORRECTION_body", "source": "Success Chance increases by {0}% on failure.", "translation": "W razie niepowodzenia szansa powodzenia wzrasta o {0}%.", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXP_VALUE_COUNT_body", "source": "{0}/<EnchantGroup_EnchantNeedPoint>{1}</>", "translation": "{0}/<EnchantGroup_EnchantNeedPoint>{1}</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_EXP_VALUE_RATE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_FAIL_CORRECTION_PROB_body", "source": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "translation": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "status": "draft"}
+{"id": "String_UI_ENCHANT_FAIL_CORRECTION_body", "source": "Success Chance increases by {0}% on failure.", "translation": "W razie niepowodzenia szansa powodzenia wzrasta o {0}%.", "status": "draft"}
+{"id": "String_UI_ENCHANT_FAIL_ENCHANT_body", "source": "FAIL", "translation": "NIEPOWODZENIE", "status": "draft"}
+{"id": "String_UI_ENCHANT_FAIL_MAX_ENCHANT_body", "source": "Cannot enhance further.", "translation": "Nie można ulepszać dalej.", "status": "draft"}
+{"id": "String_UI_ENCHANT_FAIL_MAX_SOULBIND_body", "source": "Maximum binding rate reached.", "translation": "Osiągnięto maksymalny współczynnik związania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_FILTER_TITLE_GODSTONE_body", "source": "Theostone", "translation": "Teoskal", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_BUTTON_COMBINE_AUTOREGISTER_body", "source": "Auto Register", "translation": "Rejestruj automatycznie", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_BUTTON_COMBINE_body", "source": "Combine", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_BUTTON_EQUIP_body", "source": "Engrave", "translation": "Graweruj", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_BUTTON_UNEQUIP_body", "source": "Remove Theostone", "translation": "Usuń teoskal", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_CATEGORY_ACCESSORY_body", "source": "Accessories Theostone", "translation": "Teoskale do akcesoriów", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_CATEGORY_ARMOR_body", "source": "Armor Theostone", "translation": "Teoskale do zbroi", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_CATEGORY_WEAPON_body", "source": "Weapon Theostone", "translation": "Teoskale do broni", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_COUNT_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_ALL_body", "source": "ALL", "translation": "WSZYSTKIE", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_COMMON_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_EPIC_body", "source": "Heroic", "translation": "Heroiczny", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_LEGEND_body", "source": "Epic", "translation": "Epicki", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_MYTHIC_body", "source": "Mythic", "translation": "Mityczny", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_RARE_body", "source": "Rare", "translation": "Rzadki", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_GRADE_TAB_UNIQUE_body", "source": "Unique", "translation": "Unikatowy", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_PROB_body", "source": "Combine Success Chance", "translation": "Szansa powodzenia łączenia", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_RESULT_ALL_body", "source": "View All", "translation": "Pokaż wszystkie", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_TAB_TOOLTIP_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_COMBINE_TITLE_body", "source": "Combine Theostone", "translation": "Połącz teoskale", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EFFECT_CHANGE_NOTICE_body", "source": "Effect will be changed upon engraving Theostone.", "translation": "Efekt zmieni się po wygrawerowaniu teoskalu.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EFFECT_body", "source": "Detailed Effects", "translation": "Szczegółowe efekty", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_GODSTONE_body", "source": "Engrave", "translation": "Graweruj", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_POPUP_CONFIRM_DESC_body", "source": "The equipped gear has already been engraved with an identical Theostone.\nOnly one effect applies when engraved with multiple Theostones of the same kind.", "translation": "Założony ekwipunek ma już wygrawerowany identyczny teoskal.\nPrzy kilku teoskalach tego samego rodzaju działa tylko jeden efekt.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_POPUP_CONFIRM_body", "source": "Would you like to Engrave this Theostone?", "translation": "Czy chcesz wygrawerować ten teoskal?", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_POPUP_DELETE_NOTICE_body", "source": "<GodStone_UnEquip_Msg_Warning>The currently engraved Theostone will be destroyed when engraving the Theostone.</>", "translation": "<GodStone_UnEquip_Msg_Warning>Obecnie wygrawerowany teoskal zostanie zniszczony podczas grawerowania nowego.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_POPUP_RETURN_NOTICE_body", "source": "<GodStone_UnEquip_Msg_Normal>The currently engraved Theostone will be returned when engraving the Theostone.</>", "translation": "<GodStone_UnEquip_Msg_Normal>Obecnie wygrawerowany teoskal zostanie zwrócony podczas grawerowania nowego.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_EQUIP_SAME_POPUP_CONFIRM_body", "source": "The equipped gear has already been engraved with an identical Theostone.\nOnly one effect applies when engraved with multiple Theostones of the same kind.\nDo you wish to Engrave?", "translation": "Założony ekwipunek ma już wygrawerowany identyczny teoskal.\nPrzy kilku teoskalach tego samego rodzaju działa tylko jeden efekt.\nCzy chcesz go wygrawerować?", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_GUIDETEXT_COMBINE_RESULT_LIST_body", "source": "Theostone Combination Result", "translation": "Wynik łączenia teoskali", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_GUIDETEXT_COMBINE_body", "source": "Register Theostones to combine.", "translation": "Zarejestruj teoskale do połączenia.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_GUIDETEXT_RIGSTER_body", "source": "Select Theostone", "translation": "Wybierz teoskal", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_GUIDTEXT_SELECT_ITEM_body", "source": "Select the gear and Theostone you wish to Engrave.", "translation": "Wybierz ekwipunek i teoskal do wygrawerowania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_POPUP_COMBINE_PROB_body", "source": "Combine Theostone", "translation": "Połącz teoskale", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_TAB_TOOLTIP_EQUIPMENT_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_TAB_TOOLTIP_MATERIAL_body", "source": "Theostone", "translation": "Teoskal", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_UNEQUIP_POPUP_CONFIRM_body", "source": "Remove the equipped Theostone?", "translation": "Usunąć założony teoskal?", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_UNEQUIP_POPUP_DELETE_NOTICE_body", "source": "<GodStone_UnEquip_Msg_Warning>The Theostone will be destroyed when removed.</>", "translation": "<GodStone_UnEquip_Msg_Warning>Teoskal zostanie zniszczony po usunięciu.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_GODSTONE_UNEQUIP_POPUP_RETURN_NOTICE_body", "source": "<GodStone_UnEquip_Msg_Normal>The Theostone will be returned when removed.</>", "translation": "<GodStone_UnEquip_Msg_Normal>Teoskal zostanie zwrócony po usunięciu.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_GRADEUP_GUIDE_body", "source": "Enhance Level, Manastone, Theostone, Soul Binding information will be transferred upon Upgrade.", "translation": "Podczas ulepszania zostaną przeniesione informacje o poziomie ulepszenia, kamieniach many, teoskalach i związaniu duszy.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GRADEUP_MATERIAL_body", "source": "Upgrade Materials", "translation": "Materiały do ulepszania", "status": "draft"}
+{"id": "String_UI_ENCHANT_GRADEUP_SUCCESS_PROB_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_GROWTH_SUBTAB_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_ENCHANT_GROWTH_SUBTAB_SURPASS_body", "source": "Potential", "translation": "Potencjał", "status": "draft"}
+{"id": "String_UI_ENCHANT_GUIDETEXT_ENCHANT_body", "source": "Additional potential ability growth available", "translation": "Można rozwinąć dodatkową zdolność potencjału", "status": "draft"}
+{"id": "String_UI_ENCHANT_GUIDE_DESTRUCTION_body", "source": "Destroyed upon Enhance failure.", "translation": "Przedmiot ulega zniszczeniu w przypadku niepowodzenia ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_GUIDE_DOWN_body", "source": "Level decreases upon Enhance failure.", "translation": "Poziom spada w przypadku niepowodzenia ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_HAVE_COST_GODSTONE_body", "source": "Funds", "translation": "Środki", "status": "draft"}
+{"id": "String_UI_ENCHANT_HOLD_MATERIAL_body", "source": "Owned", "translation": "Posiadane", "status": "draft"}
+{"id": "String_UI_ENCHANT_INVENTORY_TAB_MAGICSTONE_MATERIAL_body", "source": "Engraving Materials", "translation": "Materiały do grawerowania", "status": "draft"}
+{"id": "String_UI_ENCHANT_INVENTORY_TAB_MAGICSTONE_body", "source": "Manastone / Soulstone", "translation": "Kamień many / Kamień duszy", "status": "draft"}
+{"id": "String_UI_ENCHANT_INVENTORY_body", "source": "Cube", "translation": "Sześcian", "status": "draft"}
+{"id": "String_UI_ENCHANT_LIST_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_APPLY_GUIDETEXT_CHANGE_body", "source": "Engraving will change the current engraving effects.", "translation": "Grawerowanie zmieni obecne efekty grawerowania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_APPLY_GUIDETEXT_body", "source": "After Engraving, all slots will gain effects.", "translation": "Po grawerowaniu wszystkie sloty otrzymają efekty.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_APPLY_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_GRADE_HIGH_body", "source": "Ultimate", "translation": "Najwyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_GRADE_LOW_body", "source": "Basic", "translation": "Podstawowy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_GRADE_MID_body", "source": "Superior", "translation": "Doskonały", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_GUIDE_body", "source": "Engraving will be performed continuously until the set goal is reached.", "translation": "Grawerowanie będzie wykonywane bez przerwy, aż do osiągnięcia ustawionego celu.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_EFFECT_body", "source": "Effect", "translation": "Efekt", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_GRADE_HIGT_body", "source": "Ultimate", "translation": "Najwyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_GRADE_LOW_body", "source": "Basic or Higher", "translation": "Podstawowy lub wyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_GRADE_MID_body", "source": "Superior or Higher", "translation": "Doskonały lub wyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_GRADE_body", "source": "Grade", "translation": "Jakość", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_SELECT_body", "source": "Auto Engraving Goal Settings", "translation": "Ustawienia celu automatycznego grawerowania", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SETTING_body", "source": "Auto Engraving Settings", "translation": "Ustawienia automatycznego grawerowania", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_ACCEPT_body", "source": "Select", "translation": "Wybierz", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_GUIDETEXT_body", "source": "Engraving will be performed continuously until the set goal is reached.", "translation": "Grawerowanie będzie wykonywane bez przerwy, aż do osiągnięcia ustawionego celu.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_OPTION_COUNT_TITLE_body", "source": "Amount", "translation": "Liczba", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_OPTION_COUNT_body", "source": "{0} or more", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_STAT_TYPE_body", "source": "Type", "translation": "Typ", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_STAT_VALUE_HIGH_body", "source": "Ultimate", "translation": "Najwyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_STAT_VALUE_LOW_body", "source": "Basic or Higher", "translation": "Podstawowy lub wyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_STAT_VALUE_MID_body", "source": "Superior or Higher", "translation": "Doskonały lub wyższy", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_STAT_VALUE_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_AUTO_SET_TITLE_body", "source": "Auto Engraving Goal Settings", "translation": "Ustawienia celu automatycznego grawerowania", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_CURRENT_OPTION_body", "source": "Current Properties", "translation": "Obecne właściwości", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_EFFECT_CHANGE_NOTICE_body", "source": "Only the checked slots will have their effects changed.", "translation": "Efekty zmienią się tylko w zaznaczonych slotach.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_GUIDTEXT_SELECT_ITEM_body", "source": "Select the gear and Manastone you wish to Engrave.", "translation": "Wybierz ekwipunek i kamień many do wygrawerowania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_SETTING_OPTION_body", "source": "Settings Properties", "translation": "Ustawienia właściwości", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_SLOT_GUIDE_body", "source": "Manastone engraving available.", "translation": "Można grawerować kamieniem many.", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_STAT_PROB_body", "source": "Probability to Acquire", "translation": "Szansa na zdobycie", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_STAT_body", "source": "Stats", "translation": "Statystyki", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_TAB_TOOLTIP_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_ENCHANT_MAGICSTONE_VALUE_body", "source": "Values", "translation": "Wartości", "status": "draft"}
+{"id": "String_UI_ENCHANT_MATERIAL_body", "source": "Owned", "translation": "Posiadane", "status": "draft"}
+{"id": "String_UI_ENCHANT_NEED_COST_GODSTONE_body", "source": "Amount Due", "translation": "Do zapłaty", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOHAVE_ENCHANTSTONE_body", "source": "Insufficient Enhance materials.", "translation": "Za mało materiałów do ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOHAVE_SOULATTUNE_ITEM_body", "source": "No Soul Codex", "translation": "Brak Kodeksu Dusz", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOHAVE_SOULREROLL_ITEM_body", "source": "No Soul Codex: Reset.", "translation": "Brak Kodeksu Dusz: reset.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_ENCHANTSTONE_body", "source": "Insufficient Enhance materials.", "translation": "Za mało materiałów do ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_EXCEEDENCHANT_body", "source": "Insufficient Amplified Enhance materials.", "translation": "Za mało materiałów do wzmocnionego ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_GODSTONE_body", "source": "No Theostones are available.", "translation": "Brak dostępnych teoskali.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_MAGICSTONE_body", "source": "There are no engraving materials available.", "translation": "Brak dostępnych materiałów do grawerowania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_SOULADD_ITEM_body", "source": "Insufficient Philosopher's Stones.", "translation": "Za mało Kamieni Filozoficznych.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_SOULATTUNE_ITEM_body", "source": "No Sync Materials.", "translation": "Brak materiałów do synchronizacji.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_SOULBIND_body", "source": "Insufficient Soul Codices", "translation": "Za mało Kodeksów Dusz.", "status": "draft"}
+{"id": "String_UI_ENCHANT_NOTHAVE_SOULREROLL_ITEM_body", "source": "Insufficient Soul Codex: Resets", "translation": "Za mało resetów Kodeksu Dusz.", "status": "draft"}
+{"id": "String_UI_ENCHANT_POPUP_TEXT_CONFIRM_body", "source": "Would you like to enhance {0}?", "translation": "Czy chcesz ulepszyć {0}?", "status": "draft"}
+{"id": "String_UI_ENCHANT_POPUP_TEXT_WARNING_body", "source": "On failure, Enhancement drops to Level {0}.", "translation": "W razie niepowodzenia poziom ulepszenia spadnie do {0}.", "status": "draft"}
+{"id": "String_UI_ENCHANT_POSSIBLE_NOTICE_body", "source": "This item can be enhanced with Enhance Materials.", "translation": "Ten przedmiot można ulepszyć za pomocą materiałów do ulepszania.", "status": "draft"}
+{"id": "String_UI_ENCHANT_REGISTER_GODSTONE_NONE_body", "source": "No Theostones currently engraved.", "translation": "Brak wygrawerowanych teoskali.", "status": "draft"}
+{"id": "String_UI_ENCHANT_REGISTER_ITEM_NONE_body", "source": "No target item.", "translation": "Brak przedmiotu docelowego.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_GUIDETEXT_body", "source": "Cannot Soul Fuse.", "translation": "Nie można połączyć dusz.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_NOHAVE_ITEM_GUIDETEXT_body", "source": "Insufficient Soul Fuse materials.", "translation": "Za mało materiałów do łączenia dusz.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_OPTION_TITLE_body", "source": "Soul Fuse", "translation": "Połącz dusze", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_POPUP_CONFIRM_body", "source": "Would you like to Soul Fuse?", "translation": "Czy chcesz połączyć dusze?", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_POPUP_NOTICE_body", "source": "Adds a Soul Fuse slot and automatically binds an effect.\nSoul Fuse effects cannot be transferred.", "translation": "Dodaje slot łączenia dusz i automatycznie wiąże efekt.\nEfektów łączenia dusz nie można przenosić.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_SLOT_GUIDETEXT_body", "source": "Eligible for Soul Fuse", "translation": "Można połączyć dusze", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULADD_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULATTUNE_CONDITION_NOTIFICATION_body", "source": "To Soul Sync, a Soul Binding effect must be selected along with the materials required.", "translation": "Aby zsynchronizować dusze, wybierz efekt związania duszy oraz wymagane materiały.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULATTUNE_NOTICE_body", "source": "Selected Soul Binding effect will be changed.", "translation": "Wybrany efekt związania duszy zostanie zmieniony.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULATTUNE_PROB_TOOLTIP_body", "source": "Adjustment Chance\nSoul Sync Chance applies depending on the Materials Item Grade and Item Level.", "translation": "Szansa na dostrojenie\nSzansa synchronizacji duszy zależy od jakości i poziomu przedmiotu użytego jako materiał.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULATTUNE_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_APPLY_GUIDETEXT_REROLL_body", "source": "The current binding effects will change.", "translation": "Obecne efekty związania zostaną zmienione.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_COMPLETED_GUIDETEXT_body", "source": "Soul Binding complete.", "translation": "Związanie duszy zakończone.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_CONDITION_GUIDE_body", "source": "Soul Binding is required to unlock effects.", "translation": "Wiązanie duszy jest wymagane do odblokowania efektów.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_EFFECT_NOTICE_body", "source": "Soul Binding will enhance the effects.", "translation": "Wiązanie duszy wzmocni efekty.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_GUIDETEXT_COST_REGISTER_body", "source": "Select Materials", "translation": "Wybierz materiały", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_MAX_BONUS_body", "source": "Reaching a 100% binding rate will unlock an additional Manastone slot.", "translation": "Osiągnięcie 100% współczynnika związania odblokuje dodatkowy slot kamienia many.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_MENU_ATTUNE_body", "source": "Sync", "translation": "Synchronizuj", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_MENU_BIND_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_MENU_ENHANCE_body", "source": "Bind", "translation": "Zwiąż", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_POPUP_CONFIRM_REROLL_WARNING_body", "source": "Rebinding will replace the current binding effects with new effects.", "translation": "Ponowne związanie zastąpi obecne efekty nowymi.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_POPUP_CONFIRM_REROLL_body", "source": "Would you like to perform Soul Rebinding?", "translation": "Czy chcesz ponownie związać duszę?", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_PROGRESS_EQUIP_BTN_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_PROGRESS_RETRY_BTN_body", "source": "Rebind", "translation": "Zwiąż ponownie", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_PROGRESS_body", "source": "Soul Binding in Progress", "translation": "Trwa wiązanie duszy", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_RESULT_CLOSE_BTN_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_RESULT_COMPARE_BTN_body", "source": "Compare", "translation": "Porównaj", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_RESULT_EQUIP_BTN_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_RESULT_EXCHANGE_BTN_body", "source": "Refresh", "translation": "Odśwież", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_SYNCHRONIZATION_RATE_body", "source": "Soul Binding Rate", "translation": "Współczynnik związania duszy", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_SYNC_MATERAIL_body", "source": "Binding Materials", "translation": "Materiały do związania", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_SYNC_RANDOM_OPTION_GUIDE_SKILL_COUNT_MAX_body", "source": "Up to {0} skill effects can be acquired.", "translation": "Można uzyskać maksymalnie {0} efektów umiejętności.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_SYNC_RANDOM_OPTION_GUIDE_body", "source": "Initial Soul Binding will grant {0} properties.", "translation": "Początkowe związanie duszy zapewni {0} właściwości.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_SYNC_RATE_body", "source": "Binding Rate", "translation": "Współczynnik związania", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_TAB_TOOLTIP_EQUIPMENT_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULBIND_TAB_TOOLTIP_MATERIAL_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_ENCHANT_SOULSELECT_PROB_TOOLTIP_body", "source": "Soul Sync Chance applies depending on the Materials Item Grade and Item Level.", "translation": "Szansa synchronizacji duszy zależy od jakości i poziomu przedmiotu użytego jako materiał.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_ADVANCED_SUCCESS_COUNT_body", "source": "Superior Transfer", "translation": "Doskonały transfer", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_MAX_COUNT_body", "source": "Cannot perform any further Gear Transfers this season.", "translation": "W tym sezonie nie można już wykonywać transferów ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Regular Transfer Recovery Count: {0}", "translation": "Liczba zwykłych odzyskań transferu: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SELECT_ITEM_body", "source": "Select a target item for Gear Transfer.", "translation": "Wybierz przedmiot docelowy do transferu ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SELECT_MATERIAL_ITEM_body", "source": "Select an item to use as material for Gear Transfer.", "translation": "Wybierz przedmiot, który będzie materiałem do transferu ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_COUNT_body", "source": "Seasonal Transfer Success: {0}", "translation": "Liczba udanych transferów w sezonie: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_GUIDE_body", "source": "Enhancement and Transfer Crafting Superior Transfer count are shown.", "translation": "Wyświetlana jest liczba doskonałych transferów rzemieślniczych oraz ulepszeń i transferów.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_MAX_COUNT_body", "source": "Seasonal Transfer Success: {0}", "translation": "Liczba udanych transferów w sezonie: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_body", "source": "Transfers Enhance Level and Soul Binding effects.", "translation": "Przenosi poziom ulepszenia i efekty związania duszy.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDE_SOULBIND_FIXED_ITEM_body", "source": "Fixed Soul Binding effects are not transferred.\nOnly Enhance Level is transferred.", "translation": "Stałe efekty związania duszy nie zostaną przeniesione.\nPrzenoszony jest tylko poziom ulepszenia.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_INFO_TEXT_body", "source": "<Title_List_CurCount>Superior Gear Transfer</>\nTransfers gear to a higher grade.\nHigher grade gear cannot be transferred to lower grade gear.\nWhen transferring to a higher grade, Soul Binding stats are applied at the enhance level of the transferred gear.", "translation": "<Title_List_CurCount>Doskonały transfer ekwipunku</>\nPrzenosi ekwipunek do przedmiotu o wyższej jakości.\nEkwipunku o wyższej jakości nie można przenieść na przedmiot niższej jakości.\nPrzy transferze do przedmiotu wyższej jakości statystyki związania duszy zostaną zastosowane na poziomie ulepszenia przenoszonego ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_MAIN_STAT_body", "source": "Main Stats", "translation": "Główne statystyki", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_MATERIAL_body", "source": "Gear Transfer Material", "translation": "Materiał do transferu ekwipunku", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_NOTICE_SOULADD_body", "source": "(Cannot Transfer)", "translation": "(Nie można przenieść)", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_ONBOARDING_NOTHAVE_MATERIAL_body", "source": "No material for Gear Transfer.", "translation": "Brak materiału do transferu ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_ONBOARDING_REGISTER_ITEM_NONE_body", "source": "No target item.", "translation": "Brak przedmiotu docelowego.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_CHECKBOX_DESCRIPTION_body", "source": "I have reviewed the contents above.", "translation": "Zapoznałem się z powyższymi informacjami.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_CONFIRM_body", "source": "Would you like to proceed with this Gear Transfer?\nThe Source Item will be <warning>consumed</> if the Gear Transfer succeeds.", "translation": "Czy chcesz wykonać transfer ekwipunku?\nW przypadku powodzenia przedmiot źródłowy zostanie <warning>zużyty</>.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_CONSUME_ITEM_body", "source": "Consumed Item", "translation": "Zużyty przedmiot", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_DESCRIPTION_body", "source": "Obtain {0} upon Gear Transfer.\nThe Source Item {1} will be <warning>consumed</>.", "translation": "Zdobędziesz {0} podczas transferu ekwipunku.\nPrzedmiot źródłowy {1} zostanie <warning>zużyty</>.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_NOTICE_ITEM_LEVEL_body", "source": "<warning>The target Gear Transfer item has a lower level than the source item.</>", "translation": "<warning>Przedmiot docelowy transferu ekwipunku ma niższy poziom niż przedmiot źródłowy.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_NOTICE_SOULADD_SAME_EFFECT_body", "source": "Soul Bind stats identical to the Soul Fuse stats of the target gear will not be transferred.", "translation": "Statystyki związania duszy identyczne z efektami łączenia dusz przedmiotu docelowego nie zostaną przeniesione.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_NOTICE_SOULADD_body", "source": "Soul Fuse effects cannot be transferred.", "translation": "Efektów łączenia dusz nie można przenosić.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_NOTICE_SUBSTAT_COUNT_body", "source": "<warning> The Gear Transfer target item has fewer Soul Binding stats than the source item.</>", "translation": "<warning> Przedmiot docelowy transferu ekwipunku ma mniej statystyk związania duszy niż przedmiot źródłowy.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_POPUP_NOTICE_body", "source": "<warning>The enhance level(s) of the target Gear Transfer item will be replaced.</>", "translation": "<warning>Poziomy ulepszenia przedmiotu docelowego transferu ekwipunku zostaną zastąpione.</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SLOT_GUIDE_CONSUME_ITEM_WARNING_body", "source": "Source Gear", "translation": "Ekwipunek źródłowy", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SLOT_GUIDE_TARGET_ITEM_body", "source": "Target Gear", "translation": "Ekwipunek docelowy", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SOULATTUNE_RANDOM_COUNT_WARNING_body", "source": "{0} Soul Binding effects from above will be transferred at random.", "translation": "{0} powyższych efektów związania duszy zostanie przeniesionych losowo.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SOULATTUNE_RANDOM_STAT_VALUE_body", "source": "???", "translation": "???", "status": "pending"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SOULATTUNE_RANDOM_STAT_body", "source": "{0} random effects from existing effects.", "translation": "{0} losowych efektów spośród obecnych.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SOULATTUNE_body", "source": "Soul Bind", "translation": "Zwiąż duszę", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SOULBIND_FIXED_GUIDETEXT_body", "source": "Only Enhance Level is transferred.", "translation": "Przenoszony jest tylko poziom ulepszenia.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SUCCESS_CONSUME_ITEM_WARNING_body", "source": "Equipped or Preset gear cannot be used for Gear Transfer.", "translation": "Założonego ekwipunku ani ekwipunku z zestawu nie można użyć do transferu.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_SUCCESS_CONSUME_ITEM_body", "source": "Deleted upon Gear Transfer", "translation": "Usuwane podczas transferu ekwipunku", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_TAB_TOOLTIP_EQUIPMENT_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_TAB_TOOLTIP_MATERIAL_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESS_CORRECTION_PROB_body", "source": "{0}(+{1})", "translation": "{0}(+{1})", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESS_ENCHANT_body", "source": "SUCCESS", "translation": "POWODZENIE", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESS_PROB_TITLE_body", "source": "Success Chance", "translation": "Szansa powodzenia", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUPPLEMENT_ADD_COUNT_body", "source": "<ref style=\"EnchantSupplement_Count_Normal\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"EnchantSupplement_Count_Normal\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUPPLEMENT_EMPTY_ITEM_MSG_body", "source": "No supplement available.", "translation": "Brak dostępnych materiałów dodatkowych.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUPPLEMENT_TEXT_PROB_body", "source": "Additional Chance: <ref style=\"EnchantSupplement_Prob\" attr=\"color\">{0}%</>", "translation": "Dodatkowa szansa: <ref style=\"EnchantSupplement_Prob\" attr=\"color\">{0}%</>", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUPPLEMENT_TITLE_body", "source": "Additional Supplement", "translation": "Dodatkowy materiał", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_FAIL_CORRECTION_PROB_body", "source": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "translation": "({0}% + <Enchant_Prob_Correction>{1}%</>)", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_FAIL_CORRECTION_body", "source": "Success Chance increases by {0}% on failure.", "translation": "W razie niepowodzenia szansa powodzenia wzrasta o {0}%.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_MATERIAL_body", "source": "Potential Enhance Material", "translation": "Materiał do ulepszania potencjału", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_MAX_GUIDETEXT_body", "source": "Reached Max Potential Level.", "translation": "Osiągnięto maksymalny poziom potencjału.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_NOHAVE_MATERIAL_GUIDETEXT_body", "source": "Insufficient Potential enhance materials.", "translation": "Za mało materiałów do ulepszania potencjału.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_POSSIBLE_GUIDETEXT_body", "source": "Enhance Potential using Potential Enhance Materials.", "translation": "Ulepsz potencjał za pomocą materiałów do ulepszania potencjału.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SURPASS_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}

@@ -1,0 +1,16 @@
+{"id": "String_MsgBox_Cancel_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_MsgBox_ChangeCulture_Ok_body", "source": "Restart", "translation": "Uruchom ponownie", "status": "draft"}
+{"id": "String_MsgBox_ChangeCulture_body", "source": "A restart is required to change the language. Restart now?", "translation": "Zmiana języka wymaga ponownego uruchomienia. Uruchomić ponownie teraz?", "status": "draft"}
+{"id": "String_MsgBox_Change_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_MsgBox_GuildDisband_Confirm_body", "source": "Are you sure you wish to disband the Legion?", "translation": "Czy na pewno chcesz rozwiązać Legion?", "status": "draft"}
+{"id": "String_MsgBox_GuildDisband_Warning_body", "source": "All Legion members will be kicked from the Legion upon disbandment.", "translation": "Rozwiązanie Legionu spowoduje usunięcie z niego wszystkich członków.", "status": "draft"}
+{"id": "String_MsgBox_GuildLeave_Confirm_body", "source": "Are you sure you wish to leave the Legion?", "translation": "Czy na pewno chcesz opuścić Legion?", "status": "draft"}
+{"id": "String_MsgBox_GuildLeave_Warning_body", "source": "You will no longer be a member of the Legion upon leaving.", "translation": "Po opuszczeniu Legionu utracisz członkostwo.", "status": "draft"}
+{"id": "String_MsgBox_Guild_AcceptJoinRequest_Confirm_body", "source": "Approve {0}'s application to join the Legion?", "translation": "Zatwierdzić podanie o przyjęcie do Legionu od {0}?", "status": "draft"}
+{"id": "String_MsgBox_Guild_CancelJoinRequest_Confirm_body", "source": "Deny {0}'s application to join the Legion?", "translation": "Odrzucić podanie o przyjęcie do Legionu od {0}?", "status": "draft"}
+{"id": "String_MsgBox_Guild_KickOut_Confirm_body", "source": "Are you sure you want to kick <msg_pc>{0}</> from the Legion?", "translation": "Czy na pewno chcesz usunąć <msg_pc>{0}</> z Legionu?", "status": "draft"}
+{"id": "String_MsgBox_No_body", "source": "No", "translation": "Nie", "status": "draft"}
+{"id": "String_MsgBox_Ok_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_MsgBox_Title_Confirm_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_MsgBox_Title_Warning_body", "source": "Warning", "translation": "Ostrzeżenie", "status": "draft"}
+{"id": "String_MsgBox_Yes_body", "source": "Yes", "translation": "Tak", "status": "draft"}

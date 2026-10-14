@@ -1,0 +1,250 @@
+{"id": "EnvObjData_E_D1_LostGrainSack_01_desc", "source": "Lost Supplies", "translation": "Zgubione zapasy", "status": "draft"}
+{"id": "EnvObjData_E_D1_LostLootBox_01_desc", "source": "Lost Supplies", "translation": "Zgubione zapasy", "status": "draft"}
+{"id": "EnvObjData_E_D1_LycanBox_001_desc", "source": "Search Party Supplies", "translation": "Zapasy grupy poszukiwawczej", "status": "draft"}
+{"id": "EnvObjData_E_D1_LycanTotemPile_001_desc", "source": "Pile of Broken Totems", "translation": "Stos rozbitych totemów", "status": "draft"}
+{"id": "EnvObjData_E_D1_MagiCoffin_001_desc", "source": "Magic Casket", "translation": "Magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_E_D1_MagiCoffin_002_desc", "source": "Magic Casket", "translation": "Magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_E_D1_MagiCoffin_003_desc", "source": "Magic Casket", "translation": "Magiczna trumna", "status": "draft"}
+{"id": "EnvObjData_E_D1_MahindelRiverCliff_TeleportArtifact_001_desc", "source": "Mahindel Cliff", "translation": "Klif Mahindel", "status": "draft"}
+{"id": "EnvObjData_E_D1_MediumFafnium_001_desc", "source": "Extinguished Medium Fafnium", "translation": "Zgaszone średnie Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D1_MediumFafnium_002_desc", "source": "Medium Fafnium", "translation": "Średnie Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D1_Memorial_001_desc", "source": "Memorial Statue", "translation": "Posąg pamięci", "status": "draft"}
+{"id": "EnvObjData_E_D1_MinushanSite_TeleportArtifact_001_desc", "source": "Minushan Site", "translation": "Placówka Minushana", "status": "draft"}
+{"id": "EnvObjData_E_D1_Monument_001_desc", "source": "Blood Monument", "translation": "Krwawy pomnik", "status": "draft"}
+{"id": "EnvObjData_E_D1_MorheimEnterPortal_01_desc", "source": "Morheim", "translation": "Morheim", "status": "draft"}
+{"id": "EnvObjData_E_D1_MorheimEnterPortal_01_interact_desc", "source": "Entering Morheim...", "translation": "Wchodzenie do Morheimu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_MorheimEnterPortal_02_desc", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
+{"id": "EnvObjData_E_D1_MorheimEnterPortal_02_interact_desc", "source": "Traveling to Morheim...", "translation": "Podróż do Morheimu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_MudCamp_TeleportArtifact_001_desc", "source": "Mire Campsite", "translation": "Obóz na bagnach", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBook_001_desc", "source": "Overseer's Manual", "translation": "Podręcznik nadzorcy", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBook_002_desc", "source": "Stacked Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBook_003_desc", "source": "Document Box", "translation": "Skrzynia na dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBook_004_desc", "source": "Leather Ledger", "translation": "Skórzany rejestr", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBox_001_desc", "source": "Mumu Worker Cart", "translation": "Wózek robotnika Mumu", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuBox_004_desc", "source": "Laborer Food Chest", "translation": "Skrzynia z żywnością dla robotników", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuDevice_001_desc", "source": "Central Surveillance Device", "translation": "Centralne urządzenie obserwacyjne", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuDevice_002_desc", "source": "Central Surveillance Device", "translation": "Centralne urządzenie obserwacyjne", "status": "draft"}
+{"id": "EnvObjData_E_D1_MumuDevice_003_desc", "source": "Central Surveillance Device", "translation": "Centralne urządzenie obserwacyjne", "status": "draft"}
+{"id": "EnvObjData_E_D1_NVStage_Fromise9_01_desc", "source": "fromis_9 Stage", "translation": "Scena fromis_9", "status": "draft"}
+{"id": "EnvObjData_E_D1_Nemon_001_desc", "source": "Dream Nemon", "translation": "Śniąca Nemon", "status": "draft"}
+{"id": "EnvObjData_E_D1_Nemon_001_interact_desc", "source": "Resonating...", "translation": "Rezonowanie...", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirAltarDoor_001_desc", "source": "Nornir Altar Door", "translation": "Drzwi ołtarza Nornir", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirAltarDoor_Exit_001_desc", "source": "Nornir Altar Door", "translation": "Drzwi ołtarza Nornir", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirBox_001_desc", "source": "General Goods Chest", "translation": "Skrzynia z dobrami codziennymi", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirBox_002_desc", "source": "Garment Chest", "translation": "Skrzynia na ubrania", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirCargo_01_desc", "source": "Nornir Supply Chest", "translation": "Skrzynia z zaopatrzeniem Nornir", "status": "draft"}
+{"id": "EnvObjData_E_D1_NornirsLodge_TeleportArtifact_001_desc", "source": "Nornir Assembly", "translation": "Zgromadzenie Nornirów", "status": "draft"}
+{"id": "EnvObjData_E_D1_NorthSlaveCamp_TeleportArtifact_001_desc", "source": "North Laborer's Tent", "translation": "Namiot robotników na północy", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldBox_003_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldLeatherBag_001_desc", "source": "Wudsson's Bag", "translation": "Torba Wudssona", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldPurifyingAltar_EnterDoor_001_desc", "source": "Old Purifying Altar Door", "translation": "Stare drzwi Ołtarza Oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldPurifyingAltar_ExitDoor_001_desc", "source": "Old Purifying Altar Door", "translation": "Stare drzwi Ołtarza Oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldSanctum_TeleportArtifact_001_desc", "source": "Neglected Crematorium", "translation": "Zaniedbane krematorium", "status": "draft"}
+{"id": "EnvObjData_E_D1_PF_FafBlood_01_desc", "source": "Giant Poison Blood", "translation": "Olbrzymia zatruta krew", "status": "draft"}
+{"id": "EnvObjData_E_D1_PlundererCamp_TeleportArtifact_001_desc", "source": "Canyon Dispatch Area", "translation": "Punkt wysyłkowy w kanionie", "status": "draft"}
+{"id": "EnvObjData_E_D1_PoisonGas_001_desc", "source": "Toxic Aura", "translation": "Toksyczna aura", "status": "draft"}
+{"id": "EnvObjData_E_D1_PoisonWater_001_desc", "source": "Contaminated Water", "translation": "Skażona woda", "status": "draft"}
+{"id": "EnvObjData_E_D1_PollutedRoot_001_desc", "source": "Contaminated Root", "translation": "Skażony korzeń", "status": "draft"}
+{"id": "EnvObjData_E_D1_PrisonDoor_001_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_D1_PrisonDoor_002_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_D1_PrisonObj_002_desc", "source": "Small Wooden Chest", "translation": "Mała drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_PrisonObj_003_desc", "source": "Small Wooden Chest", "translation": "Stos rozbitych totemów", "status": "draft"}
+{"id": "EnvObjData_E_D1_PurificatoryForest_Insk_001_desc", "source": "Forest Marauder Campsite Artifact", "translation": "Artefakt obozowiska leśnych rabusiów", "status": "draft"}
+{"id": "EnvObjData_E_D1_QuairerkCamp_TeleportArtifact_001_desc", "source": "Quai Campsite", "translation": "Obóz Quai", "status": "draft"}
+{"id": "EnvObjData_E_D1_QuairerkCertificate_01_desc", "source": "Quai Merchant Card", "translation": "Karta kupca Quai", "status": "draft"}
+{"id": "EnvObjData_E_D1_QuairerkDummy_001_desc", "source": "Pile of Loot", "translation": "Stos łupów", "status": "draft"}
+{"id": "EnvObjData_E_D1_RecoverySpring_TeleportArtifact_001_desc", "source": "Healing Spring", "translation": "Lecznicze źródło", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_001_desc", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_001_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_002_desc", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_002_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_003_desc", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_003_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_004_desc", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_E_D1_RiftPortal_004_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubenObj_001_desc", "source": "Old Record", "translation": "Stary zapis", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubenObj_002_desc", "source": "Open Record Book", "translation": "Otwarta księga zapisów", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubenObj_003_desc", "source": "Timeworn Chest", "translation": "Wysłużona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubenObj_004_desc", "source": "Rusty Chest", "translation": "Zardzewiała skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubensHideout_EnterDoor_001_desc", "source": "Reuben's Hideout", "translation": "Kryjówka Reubena", "status": "draft"}
+{"id": "EnvObjData_E_D1_RubensHideout_ExitDoor_001_desc", "source": "Reuben's Hideout", "translation": "Kryjówka Reubena", "status": "draft"}
+{"id": "EnvObjData_E_D1_RuinPile_001_desc", "source": "Broken Remnants", "translation": "Uszkodzone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_D1_RuinPile_01_desc", "source": "Decorative Remnants", "translation": "Dekoracyjne pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_D1_SA_Firewood_01_desc", "source": "Dry Firewood", "translation": "Suche drewno na opał", "status": "draft"}
+{"id": "EnvObjData_E_D1_SecretRendezvousPoint_TeleportArtifact_001_desc", "source": "Secret Rendezvous Point", "translation": "Tajny punkt spotkań", "status": "draft"}
+{"id": "EnvObjData_E_D1_ShadeofOdar_TeleportArtifact_001_desc", "source": "Odar's Shade", "translation": "Cień Odara", "status": "draft"}
+{"id": "EnvObjData_E_D1_ShugoBeast_01_1_desc", "source": "Frightened Lugi", "translation": "Przestraszony Lugi", "status": "draft"}
+{"id": "EnvObjData_E_D1_ShugoBeast_01_1_interact_desc", "source": "Calming the Lugi...", "translation": "Uspokajanie Lugiego...", "status": "draft"}
+{"id": "EnvObjData_E_D1_ShugoBodyDiscolored_001_desc", "source": "Discolored Shugo Corpse (Elyos)", "translation": "Odbarwione zwłoki Shugo (Elyosi)", "status": "draft"}
+{"id": "EnvObjData_E_D1_ShulackStreetStall_TeleportArtifact_001_desc", "source": "Steel Hammer Temporary Trading Post", "translation": "Tymczasowy targ Stalowego Młota", "status": "draft"}
+{"id": "EnvObjData_E_D1_Shulack_005_desc", "source": "Miner's Corpse", "translation": "Zwłoki górnika", "status": "draft"}
+{"id": "EnvObjData_E_D1_Shulack_007_desc", "source": "Cart Worker's Corpse", "translation": "Zwłoki woźnicy", "status": "draft"}
+{"id": "EnvObjData_E_D1_Shulack_009_desc", "source": "Sentinel's Corpse", "translation": "Zwłoki wartownika", "status": "draft"}
+{"id": "EnvObjData_E_D1_SouthSlaveCamp_TeleportArtifact_001_desc", "source": "South Laborer's Tent", "translation": "Namiot robotników na południu", "status": "draft"}
+{"id": "EnvObjData_E_D1_SpiritStone_001_desc", "source": "Splendent Spiritstone", "translation": "Lśniący kamień ducha", "status": "draft"}
+{"id": "EnvObjData_E_D1_SpiritStone_002_desc", "source": "Splendent Spiritstone", "translation": "Lśniący kamień ducha", "status": "draft"}
+{"id": "EnvObjData_E_D1_SpiritStone_003_desc", "source": "Splendent Spiritstone", "translation": "Lśniący kamień ducha", "status": "draft"}
+{"id": "EnvObjData_E_D1_SpiritsRetreat_TeleportArtifact_001_desc", "source": "Guide Rest Stop", "translation": "Miejsce odpoczynku przewodników", "status": "draft"}
+{"id": "EnvObjData_E_D1_StealerCamp_TeleportArtifact_001_desc", "source": "Graverobber Campsite", "translation": "Obóz rabusiów grobów", "status": "draft"}
+{"id": "EnvObjData_E_D1_SteelHammerCamp_TeleportArtifact_001_desc", "source": "Steel Hammer Workcamp", "translation": "Obóz roboczy Stalowego Młota", "status": "draft"}
+{"id": "EnvObjData_E_D1_SteelHammerTradersPost_TeleportArtifact_001_desc", "source": "Steel Hammer Merchants HQ", "translation": "Siedziba kupców Stalowego Młota", "status": "draft"}
+{"id": "EnvObjData_E_D1_StonePile_01_desc", "source": "Collapsing Stone Pile", "translation": "Stos osuwających się kamieni", "status": "draft"}
+{"id": "EnvObjData_E_D1_StoneTablet_001_desc", "source": "Stone Tablet", "translation": "Kamienna tablica", "status": "draft"}
+{"id": "EnvObjData_E_D1_StorageYard_Dummy_001_desc", "source": "(Temporary) Cutscene Replacement Env", "translation": "(Temporary) Cutscene Replacement Env", "status": "technical"}
+{"id": "EnvObjData_E_D1_StorageYard_Dummy_001_interact_desc", "source": "(Temporary) Cutscene SEQ_2190", "translation": "(Temporary) Cutscene SEQ_2190", "status": "technical"}
+{"id": "EnvObjData_E_D1_StorageYard_EnterDoor_001_desc", "source": "Merchant's Yard", "translation": "Dziedziniec kupca", "status": "draft"}
+{"id": "EnvObjData_E_D1_StorageYard_ExitDoor_001_desc", "source": "Merchant's Yard", "translation": "Dziedziniec kupca", "status": "draft"}
+{"id": "EnvObjData_E_D1_Subspace_001_desc", "source": "Incomplete Subspace Rift", "translation": "Niekompletna szczelina podprzestrzenna", "status": "draft"}
+{"id": "EnvObjData_E_D1_SupplyBaseBox_002_desc", "source": "Medicine Chest", "translation": "Skrzynia na lekarstwa", "status": "draft"}
+{"id": "EnvObjData_E_D1_SupplyBaseNote_001_desc", "source": "Bundle of Documents", "translation": "Paczka dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_D1_SupplyBaseNote_002_desc", "source": "Document Box", "translation": "Skrzynia na dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_D1_SupplyBox_002_desc", "source": "Abandoned Wooden Chest", "translation": "Porzucona drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_001_desc", "source": "Silent Hill Mushroom Rock", "translation": "Skała grzybowa na Cichym Wzgórzu", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_002_desc", "source": "Sanctum Outpost Sky Island", "translation": "Podniebna wyspa placówki w Sanctum", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_003_desc", "source": "Silent Hill Coastal Cliff", "translation": "Klif nadbrzeżny Cichego Wzgórza", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_004_desc", "source": "Moslan Forest Dry Shade", "translation": "Suchy zakątek w lesie Moslan", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_005_desc", "source": "Safe Haven Cliff", "translation": "Klif Bezpiecznej Przystani", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_006_desc", "source": "Remote Island", "translation": "Odległa wyspa", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_007_desc", "source": "Wave-Swept Cliff", "translation": "Klif smagany falami", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_008_desc", "source": "Basfelt Waterfall Arch Zone", "translation": "Łuk przy Wodospadzie Basfelt", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_009_desc", "source": "Basfelt Ruins Cliff", "translation": "Klif ruin Basfelt", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_010_desc", "source": "Moslan Forest Cliff", "translation": "Klif w lesie Moslan", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_011_desc", "source": "Purifying Forest Sunny Hill", "translation": "Nasłonecznione wzgórze Oczyszczającego Lasu", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_012_desc", "source": "Gribade Highland Crossroad", "translation": "Rozstaje na Wyżynie Gribade", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_013_desc", "source": "Battlescar Mound Clifftop", "translation": "Szczyt kurhanu Battlescar", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_014_desc", "source": "Purifying Forest Coastal Cliff", "translation": "Klif nadbrzeżny Oczyszczającego Lasu", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_015_desc", "source": "Dranactus Shore", "translation": "Wybrzeże Dranactusa", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_016_desc", "source": "Eastern Gribade Highland Cliff", "translation": "Wschodni klif Wyżyny Gribade", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_017_desc", "source": "Beneath the Tranein Highland Bridge", "translation": "Pod mostem na Wyżynie Tranein", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_018_desc", "source": "Eastern Gribade Highland Tail Island", "translation": "Wschodnia wyspa krańcowa Wyżyny Gribade", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_019_desc", "source": "Impetusium Lower Path", "translation": "Dolna ścieżka Impetusium", "status": "draft"}
+{"id": "EnvObjData_E_D1_TeleportArtifact_020_desc", "source": "Uruthumheim Cliff", "translation": "Klif Uruthumheim", "status": "draft"}
+{"id": "EnvObjData_E_D1_TemporaryBase_TeleportArtifact_001_desc", "source": "Temporary Investigation Base", "translation": "Tymczasowa baza badawcza", "status": "draft"}
+{"id": "EnvObjData_E_D1_Tombstone_001_desc", "source": "Monument", "translation": "Pomnik", "status": "draft"}
+{"id": "EnvObjData_E_D1_TreasureBoxLegend_001_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D1_TreasureBoxRare_001_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D1_TreasureBoxRare_002_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D1_TreasureBoxUnique_001_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D1_UQ_Aspot_Box_01_desc", "source": "Material Storage Chest", "translation": "Skrzynia na materiały", "status": "draft"}
+{"id": "EnvObjData_E_D1_UmbabaTrace_001_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
+{"id": "EnvObjData_E_D1_UmbabaTrace_002_desc", "source": "Blood-Stained Rock", "translation": "Skała splamiona krwią", "status": "draft"}
+{"id": "EnvObjData_E_D1_UmbabaTrace_003_desc", "source": "Society's Totem", "translation": "Totem Stowarzyszenia", "status": "draft"}
+{"id": "EnvObjData_E_D1_VictoryDaevasStatue_TeleportArtifact_001_desc", "source": "Victorious Daeva's Statue", "translation": "Posąg zwycięskiego daeva", "status": "draft"}
+{"id": "EnvObjData_E_D1_Wagonwheel_01_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
+{"id": "EnvObjData_E_D1_WatchTowerBarracks_Barrier_01_001_desc", "source": "Cave Barrier", "translation": "Bariera jaskini", "status": "draft"}
+{"id": "EnvObjData_E_D1_Watcherstent_TeleportArtifact_001_desc", "source": "Watcher's Tent", "translation": "Namiot obserwatora", "status": "draft"}
+{"id": "EnvObjData_E_D1_WaterAltar_001_desc", "source": "Water Altar", "translation": "Ołtarz wody", "status": "draft"}
+{"id": "EnvObjData_E_D1_WindAltar_001_desc", "source": "Wind Altar", "translation": "Ołtarz wiatru", "status": "draft"}
+{"id": "EnvObjData_E_D1_WoodenBarrel_01_desc", "source": "Magic Explosive Oak Barrel", "translation": "Dębowa beczka z magicznym ładunkiem wybuchowym", "status": "draft"}
+{"id": "EnvObjData_E_D1_WoodenBarrel_02_desc", "source": "Magic Explosive Oak Barrel", "translation": "Dębowa beczka z magicznym ładunkiem wybuchowym", "status": "draft"}
+{"id": "EnvObjData_E_D1_WoodenBarrel_03_desc", "source": "Magic Explosive Oak Barrel", "translation": "Dębowa beczka z magicznym ładunkiem wybuchowym", "status": "draft"}
+{"id": "EnvObjData_E_D1_WorkshopObj_002_desc", "source": "Dusty Hole", "translation": "Zakurzona dziura", "status": "draft"}
+{"id": "EnvObjData_E_D1_standardStone_001_desc", "source": "Ritual Stone", "translation": "Kamień rytualny", "status": "draft"}
+{"id": "EnvObjData_E_D2_AlsigOutpost_TeleportArtifact_desc", "source": "Iralcig Outpost", "translation": "Placówka Iralcig", "status": "draft"}
+{"id": "EnvObjData_E_D2_AltKnifeStorageT_001_desc", "source": "[Temporary] Blades' Secret Storage", "translation": "[Temporary] Blades' Secret Storage", "status": "technical"}
+{"id": "EnvObjData_E_D2_AltgardEnterPortal_01_desc", "source": "Altgard", "translation": "Altgard", "status": "draft"}
+{"id": "EnvObjData_E_D2_AltgardEnterPortal_01_interact_desc", "source": "Entering Altgard...", "translation": "Wchodzenie do Altgardu...", "status": "draft"}
+{"id": "EnvObjData_E_D2_AltgardEnterPortal_02_desc", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
+{"id": "EnvObjData_E_D2_AltgardEnterPortal_02_interact_desc", "source": "Traveling to Altgard...", "translation": "Podróż do Altgardu...", "status": "draft"}
+{"id": "EnvObjData_E_D2_ArkanisT_001_desc", "source": "[Temporary] Floating Temple of Arkanis", "translation": "[Temporary] Floating Temple of Arkanis", "status": "technical"}
+{"id": "EnvObjData_E_D2_ArtifactParts_001_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_ArtifactParts_002_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_ArtifactParts_003_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_AshenOutpost_TeleportArtifact_desc", "source": "Ashen Outpost", "translation": "Placówka w popiele", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_001_desc", "source": "Eastern Base", "translation": "Baza wschodnia", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_002_desc", "source": "Western Base", "translation": "Baza zachodnia", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_003_desc", "source": "Abandoned Base", "translation": "Opuszczona baza", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_004_desc", "source": "Fate Daeva Base", "translation": "Baza Daevów Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_005_desc", "source": "Fate Daeva Outpost", "translation": "Placówka Daevów Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_006_desc", "source": "Fate Daeva Base", "translation": "Baza Daevów Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_007_desc", "source": "Fortress East Side", "translation": "Wschodnia strona twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_008_desc", "source": "Fortress West Side", "translation": "Zachodnia strona twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_D2_BaseSearch_009_desc", "source": "Fortress Information", "translation": "Informacje o twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_D2_BelldandyT_001_desc", "source": "[Temporary] Verdandi's Altar", "translation": "[Temporary] Verdandi's Altar", "status": "technical"}
+{"id": "EnvObjData_E_D2_ControlHallT_001_desc", "source": "[Temporary] Hall of Dominion", "translation": "[Temporary] Hall of Dominion", "status": "technical"}
+{"id": "EnvObjData_E_D2_CurseStone_001_desc", "source": "Destroy the Curse Stone", "translation": "Zniszcz Kamień Klątwy", "status": "draft"}
+{"id": "EnvObjData_E_D2_D4_Garrison_BalaurBoxPile_01_desc", "source": "Stacked Balaur Chests", "translation": "Stos skrzyń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_D4_Garrison_Barrier_A_07_desc", "source": "Reward Room Veil", "translation": "Zasłona sali nagród", "status": "draft"}
+{"id": "EnvObjData_E_D2_D4_Garrison_LootBoxPile_01_desc", "source": "Tent-Shrouded Balaur Chest", "translation": "Skrzynia Balaurów ukryta pod namiotem", "status": "draft"}
+{"id": "EnvObjData_E_D2_D4_Garrison_SA_Bonfire_01_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_DeadNornir_01_desc", "source": "Skuld's Corpse", "translation": "Zwłoki Skuld", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_DeadNornir_02_desc", "source": "Verdandi's Corpse", "translation": "Zwłoki Verdandi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_DeadNornir_03_desc", "source": "Elvida's Corpse", "translation": "Zwłoki Elvidy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_MagicTrap_01_V01_01_desc", "source": "Purifying Magic Circle", "translation": "Oczyszczający krąg magii", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_MagicTrap_01_desc", "source": "Magic Circle", "translation": "Krąg magii", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_Portal_Basic_01_desc", "source": "Purifying Light", "translation": "Oczyszczające światło", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_SpiritBrazier_01_V01_01_desc", "source": "Purifying Brazier", "translation": "Kadzielnica oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_SpiritBrazier_01_V01_02_desc", "source": "Purifying Brazier", "translation": "Kadzielnica oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_SpiritBrazier_01_desc", "source": "Purifying Brazier", "translation": "Kadzielnica oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_2_SpiritBrazier_02_desc", "source": "Purifying Brazier", "translation": "Kadzielnica oczyszczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_BookStandFall_01_desc", "source": "Fallen Pedestal", "translation": "Przewrócony postument", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_BookStand_01_desc", "source": "Pedestal", "translation": "Postument", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_BrokenWagon_01_desc", "source": "Pile of Broken Chests", "translation": "Stos rozbitych skrzyń", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_OwlBox_01_desc", "source": "Wooden Barricade", "translation": "Drewniana barykada", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_PaperPile_01_desc", "source": "Fallen Papers", "translation": "Rozrzucone kartki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_3_StoneDoor_01_desc", "source": "Storage Door", "translation": "Drzwi magazynu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_BloodyBook_01_desc", "source": "Blood-Stained Book", "translation": "Księga splamiona krwią", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_BookStand_01_desc", "source": "Podium", "translation": "Mównica", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_BrokenMediumFafnium_01_desc", "source": "Broken Fafnium", "translation": "Uszkodzone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadDestDaeva_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadDestDaeva_02_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadDestDaeva_03_desc", "source": "Mysterious Daeva Corpse", "translation": "Tajemnicze zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadDestDaeva_04_desc", "source": "Mysterious Daeva Corpse", "translation": "Tajemnicze zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadDestDaeva_05_desc", "source": "Mysterious Daeva Corpse", "translation": "Tajemnicze zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DeadFollower_01_desc", "source": "Follower Corpse", "translation": "Zwłoki wyznawcy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_DiaryOld_01_desc", "source": "Bloody Book", "translation": "Krwawa księga", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_FafniteCart_01_desc", "source": "Cart with Fafnite", "translation": "Wózek z Fafnitem", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_FafniteCart_02_desc", "source": "Cart with Fafnite", "translation": "Wózek z Fafnitem", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_FafniteHeap_01_desc", "source": "Fafnite Pile", "translation": "Stos Fafnitu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_FafniteHeap_02_desc", "source": "Fafnite Barrel", "translation": "Beczka Fafnitu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_MediumFafnium_01_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_MediumFafnium_02_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_SearchEffect_02_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_StoneDoor_01_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_StoneDoor_02_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_StoneDoor_03_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_4_TokenPile_01_desc", "source": "Pile of Blood-Stained Tokens", "translation": "Stos żetonów splamionych krwią", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_5_BloodClothes_01_desc", "source": "Blood-Stained Clothes", "translation": "Odzienie splamione krwią", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_5_DeadFollower_02_desc", "source": "Mutilated Corpse", "translation": "Zmasakrowane zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_5_DeadFollower_03_desc", "source": "Mutilated Corpse", "translation": "Zmasakrowane zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ7_5_DeadFollower_04_desc", "source": "Mutilated Corpse", "translation": "Zmasakrowane zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_BookCase_01_desc", "source": "Storage Door", "translation": "Drzwi magazynu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_BookStand_01_desc", "source": "Book Stand", "translation": "Stojak na książki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_BoxPile_01_Attack_desc", "source": "Stacked Chests", "translation": "Stos skrzyń", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_BrokenWagon_01_desc", "source": "Broken Remnants", "translation": "Uszkodzone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_DeadVillagerM_D_01_desc", "source": "Mysterious Documents", "translation": "Tajemnicze dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_DiaryOld_01_desc", "source": "Old Tome", "translation": "Stary tom", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_Lever_02_desc", "source": "Stacked Balaur Chest", "translation": "Stos skrzyń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_PaperPile_01_desc", "source": "Scattered Flyers", "translation": "Rozrzucone ulotki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_PaperPile_02_desc", "source": "Scattered Papers", "translation": "Rozrzucone dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_RuinSTower_01_desc", "source": "Old Stone Tower", "translation": "Stara kamienna wieża", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_SearchEffect_01_desc", "source": "Tattered Paper Scraps", "translation": "Strzępy papieru", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_SearchEffect_02_desc", "source": "Broken Chest", "translation": "Uszkodzona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_Statue_01_desc", "source": "Oratory Statue", "translation": "Posąg w kaplicy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_StoneDoor_01_desc", "source": "Storage Door", "translation": "Drzwi magazynu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_StoneDoor_02_desc", "source": "Storage Door", "translation": "Drzwi magazynu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_Tombstone_01_desc", "source": "Huge Stele", "translation": "Wielka stela", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_Wagonwheel_01_desc", "source": "Wheel Debris", "translation": "Szczątki koła", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_1_WoodenBarrel_01_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Barrier_01_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_BookStandFall_01_desc", "source": "Fallen Book Stand", "translation": "Przewrócony stojak na książki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_BrokenWeapons_01_desc", "source": "Destroyed Weapons and Shields", "translation": "Zniszczona broń i tarcze", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_DeadVillagerF_01_desc", "source": "Corpse3", "translation": "Zwłoki 3", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_DeadVillagerM_01_desc", "source": "Corpse1", "translation": "Zwłoki 1", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_DeadVillagerM_02_desc", "source": "Corpse2", "translation": "Zwłoki 2", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Monolith_03_01_desc", "source": "Destroyed Asmodian Monolith", "translation": "Zniszczony monolit Asmodianów", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Monolith_03_02_desc", "source": "Broken Monument", "translation": "Uszkodzony pomnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_NagaCorpse_01_desc", "source": "Naga Corpse", "translation": "Zwłoki Nagi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_OdVideo_01_desc", "source": "Odyle Projector", "translation": "Projektor Odylu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_OdVideo_02_desc", "source": "Odyle Projector", "translation": "Projektor Odylu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_OldBox_01_desc", "source": "Dusty Document", "translation": "Zakurzony dokument", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_OldLeatherBag_01_desc", "source": "Worn Leather Sack", "translation": "Zużyty skórzany worek", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Search_02_desc", "source": "Old Book", "translation": "Stara księga", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_StoneDoor_01_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_StoneDoor_02_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_StoneDoor_03_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_StoneTablet_01_desc", "source": "Stone Tablet", "translation": "Kamienna tablica", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_StoneWall_01_desc", "source": "Stone Wall", "translation": "Kamienny mur", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Wall_01_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_2_Waste_01_desc", "source": "Pile of Chests", "translation": "Stos skrzyń", "status": "draft"}

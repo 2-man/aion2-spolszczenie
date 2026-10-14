@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCETSettings",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "d29d54d52687ab5d988f9ea16234c27e86a67bba2bef43d72302ee7cacf9a61c",
+  "records": 45,
+  "decodedJsonSha256": "09077fe0321f58c80d0263a7f9497b52865f03b14da9699488d61eda9bf0dedb",
+  "batches": [
+    {
+      "file": "locres-NCETSettings/NCETSettings/0001.jsonl",
+      "count": 45,
+      "category": "NCETSettings"
+    }
+  ]
+}

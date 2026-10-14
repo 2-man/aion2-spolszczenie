@@ -1,0 +1,34 @@
+{
+  "experiment": 4,
+  "testedInGame": false,
+  "cultureSlot": "en-US",
+  "translationLanguage": "pl-PL",
+  "datSha256": "a90699147f0ae41ba3c6474a3433a78e6cb89ae1d5914adc538316eb8a8d5059",
+  "changedValues": 148287,
+  "selectedRecords": 152455,
+  "installationMethodConfirmedInGame": true,
+  "records": 152774,
+  "prefixPolicy": "zero-reference",
+  "originals": [
+    {
+      "name": "pakchunk502000-Windows_0_P.pak",
+      "sha256": "9f305aa46f63640a0d5f10fff206bae4e345b508f13a72fda1957337a2769b7c"
+    },
+    {
+      "name": "pakchunk502000-Windows_0_P.sig",
+      "sha256": "4d803599fb9a6cdbe8c22eb1c370fc9d9690a0f22517002e992a31829bd6a3e3"
+    },
+    {
+      "name": "pakchunk502000-Windows_0_P.ucas",
+      "sha256": "c8e7146240adc7718e7e7d0b65468a8c71f4c7dd1f8a96e60d9a8daddc30be4f"
+    },
+    {
+      "name": "pakchunk502000-Windows_0_P.utoc",
+      "sha256": "588dd500e88bd7cc6170831e78c3409c275018ae13a9c1a8fc21633e43612c7e"
+    }
+  ],
+  "referenceUrl": "https://github.com/duoluoyuji/Aion2-Steam-CN",
+  "referenceSha256": "0d13b61c4957b83021c8088c19a866c5f1e916528c95edd7be54448a539567a5",
+  "sdkIncluded": false,
+  "audioModified": false
+}

@@ -1,0 +1,250 @@
+{"id": "EnvObjData_E_L2_DQ7_2_GrainSack_02_desc", "source": "Sack", "translation": "Worek", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_Lever_02_desc", "source": "Secret Door Lever", "translation": "Dźwignia tajnych drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_Lever_03_desc", "source": "Secret Door Lever", "translation": "Dźwignia tajnych drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_Message_01_desc", "source": "Document", "translation": "Dokument", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_OwlBox_01_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_OwlDoor_03_V01_01_desc", "source": "Root to hide door", "translation": "Korzeń zasłaniający drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_PaperPile_01_desc", "source": "Stacked Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_SearchEffect_01_desc", "source": "Suspicious Bookshelf", "translation": "Podejrzany regał z książkami", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_SecretDoor_01_desc", "source": "Master's Room Door", "translation": "Drzwi do pokoju mistrza", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_SecretExit_01_desc", "source": "Emergency Escape Route", "translation": "Awaryjna droga ucieczki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_StoneDoor_02_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_StoneDoor_03_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_StoneDoor_05_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_Wagonwheel_01_desc", "source": "Broken Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_WoodenBarrel_01_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_WoodenBox_01_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_BoxPileAttack_01_desc", "source": "Wooden Chest", "translation": "Drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_BoxPileAttack_02_desc", "source": "Wooden Chest", "translation": "Drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_BrokenWoodenBarrel_02_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_DestroyBox_01_desc", "source": "Wooden Chest", "translation": "Drewniana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_DiaryOld_01_desc", "source": "Mysterious Diary", "translation": "Tajemniczy pamiętnik", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_EnterDoor_01_desc", "source": "Sand Dunes Hideout", "translation": "Kryjówka na wydmach", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_EnterDoor_02_desc", "source": "Traitor's Temporary Office", "translation": "Tymczasowy gabinet zdrajcy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_LightPillar_01_desc", "source": "Light Pillar", "translation": "Słup światła", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_OldBox_01_desc", "source": "Suspicious Chest", "translation": "Podejrzana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_OldBox_02_desc", "source": "Suspicious Chest", "translation": "Podejrzana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_PrisonDoor_01_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_PrisonDoor_02_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_SearchEffect_01_desc", "source": "Mysterious Book", "translation": "Tajemnicza księga", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_ShugoDoor_01_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_ShugoDoor_02_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_ShugoDoor_03_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_ShugoDoor_04_desc", "source": "Inn Door", "translation": "Drzwi gospody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_StoneDoor_01_desc", "source": "Inner Door", "translation": "Wewnętrzne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_StoneDoor_02_desc", "source": "Inner Door", "translation": "Wewnętrzne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_StoneDoor_03_desc", "source": "Inner Door", "translation": "Wewnętrzne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_Wagon_01_desc", "source": "Broken Shugo Wagon", "translation": "Rozbity wóz Shugo", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_Wagon_02_desc", "source": "Broken Shugo Wagon", "translation": "Rozbity wóz Shugo", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_WoodenBox_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_WoodenBox_02_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_WoodenBox_03_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_3_WoodenBox_04_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_DeadShugo_01_desc", "source": "Tsenka Shugo's Corpse", "translation": "Zwłoki Shugo Tsenki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_DeadShugo_02_desc", "source": "Tsenka Shugo's Corpse", "translation": "Zwłoki Shugo Tsenki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_EnterDoor_01_desc", "source": "Tsenka Upper Supply Storage", "translation": "Górny magazyn zaopatrzenia Tsenki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_PrisonDoor_01_desc", "source": "Iron Door", "translation": "Żelazne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_SearchEffect_01_desc", "source": "Pile of Ancient Life Tomes", "translation": "Stos starożytnych ksiąg życia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_ShugoBox_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_Wagon_01_desc", "source": "Broken Shugo Wagon", "translation": "Rozbity wóz Shugo", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_WoodenBox_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_4_WoodenBox_02_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_BrokenMonolith_01_desc", "source": "Broken Monolith", "translation": "Uszkodzony monolit", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_BrokenWoodenBarrel_01_desc", "source": "Destroyed Supplies", "translation": "Zniszczone zapasy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_DrakanCorpse_01_desc", "source": "Corpse Afterimage", "translation": "Widmowy obraz zwłok", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_EnterDoor_01_desc", "source": "Faded Pulse Library", "translation": "Biblioteka Zanikającego Tętna", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_Message_01_desc", "source": "Pile of Damaged Documents", "translation": "Stos uszkodzonych dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_MonorithPiece_01_desc", "source": "Faded Monolith", "translation": "Wyblakły monolit", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_MossStone_01_desc", "source": "Moss-Covered Rock", "translation": "Skała porośnięta mchem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_PaperPile_01_desc", "source": "Disheveled Pile of Documents", "translation": "Nieuporządkowany stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_PaperPile_02_desc", "source": "Writings of a Life Daeva", "translation": "Pisma Daevy Życia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_RuinRemains_01_desc", "source": "Pile of Stones", "translation": "Stos kamieni", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_SearchEffect_01_desc", "source": "Pile of Intact Documents", "translation": "Stos nienaruszonych dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_SearchEffect_02_desc", "source": "Pile of Intact Documents", "translation": "Stos nienaruszonych dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_StoneDoor_01_desc", "source": "Firmly Sealed Stone Door", "translation": "Solidnie zapieczętowane kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_StoneTablet_01_desc", "source": "Worn Stone Tablet", "translation": "Podniszczona kamienna tablica", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_5_Tombstone_01_desc", "source": "Broken Monument", "translation": "Uszkodzony pomnik", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_EisaGoods_01_desc", "source": "Abandoned Bag", "translation": "Porzucona torba", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_EisaGoods_02_desc", "source": "Discarded Book", "translation": "Porzucona księga", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_EisaLetter_01_desc", "source": "Eisa's Letter", "translation": "List Eisy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_LifedevaCart_01_desc", "source": "Cart", "translation": "Wóz", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_1_MiddleDoor_01_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_EnterPortal_01_desc", "source": "Contaminated Basement", "translation": "Skażona piwnica", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_OdVideoBox_01_desc", "source": "Old Chest", "translation": "Stara skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_OdVideo_01_desc", "source": "Odyle Video Converter", "translation": "Konwerter wideo Odylu", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_OldLeatherBag_01_desc", "source": "Grain Sack", "translation": "Worek zboża", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_OldPrayer_01_desc", "source": "Ancient Prayer", "translation": "Starożytna modlitwa", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_OwlDoor_01_desc", "source": "Light-Blocking Wooden Door", "translation": "Drewniane drzwi blokujące światło", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_SearchEffect_01_desc", "source": "Broken Floor", "translation": "Uszkodzona podłoga", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_SearchEffect_02_desc", "source": "Pile of Old Books", "translation": "Stos starych ksiąg", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_SearchEffect_03_desc", "source": "Install", "translation": "Zainstaluj", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Statue_01_desc", "source": "Destroyed Statue", "translation": "Zniszczony posąg", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Statue_02_desc", "source": "Destroyed Statue", "translation": "Zniszczony posąg", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_StoneDoor_01_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_StoneDoor_02_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_StoneDoor_03_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_01_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_02_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_03_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_04_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_05_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_06_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_07_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_08_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_09_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_10_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_11_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_12_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_13_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_14_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_15_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_2_Toxicsludge_16_desc", "source": "Contaminated Residue", "translation": "Skażone pozostałości", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_BoxPile_01_desc", "source": "Abandoned Supplies", "translation": "Porzucone zapasy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_BoxPile_Attack_01_desc", "source": "Abandoned Supplies", "translation": "Porzucone zapasy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_BoxPile_Attack_02_desc", "source": "Abandoned Supplies", "translation": "Porzucone zapasy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_Corpse_01_desc", "source": "Abandoned Corpse", "translation": "Porzucone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_Corpse_02_desc", "source": "Abandoned Corpse", "translation": "Porzucone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_Corpse_03_desc", "source": "Abandoned Corpse", "translation": "Porzucone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_DiscardedBox_01_desc", "source": "Discarded Possessions Chest", "translation": "Skrzynia z porzuconymi rzeczami", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_EnterPortal_01_desc", "source": "Abandoned Cave", "translation": "Opuszczona jaskinia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_EnterPortal_02_desc", "source": "Lepharist Experiment Site", "translation": "Teren eksperymentów Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_GrainSack_01_desc", "source": "Abandoned Sack", "translation": "Porzucony worek", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_GrainSack_Attack_01_desc", "source": "Abandoned Sack", "translation": "Porzucony worek", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_KeyChainBox_01_desc", "source": "Emergency Supply Storage", "translation": "Awaryjny magazyn zaopatrzenia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_PrisonDoor_01_desc", "source": "Iron Door", "translation": "Żelazne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_SecretPlanBox_01_desc", "source": "Confidential Document Box", "translation": "Skrzynka z poufnymi dokumentami", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_01_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_Attack_01_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_Attack_02_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_Attack_01_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_BoxPile_01_desc", "source": "Stacked Chests", "translation": "Stos skrzyń", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_Corpse_01_desc", "source": "Lepharist Corpse", "translation": "Zwłoki Lepharysty", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_DeadVillagerM_01_desc", "source": "Test Subject Victim", "translation": "Ofiara będąca obiektem testów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_DeadVillagerM_02_desc", "source": "Test Subject Victim", "translation": "Ofiara będąca obiektem testów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_DeadVillagerM_03_desc", "source": "Test Subject Victim", "translation": "Ofiara będąca obiektem testów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_DeavaTankOff_01_desc", "source": "Lepharist Test Tube", "translation": "Probówka Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_DeavaTankOn_01_desc", "source": "Lepharist Test Tube", "translation": "Probówka Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_EnterPortal_01_desc", "source": "Lepharist Laboratory", "translation": "Laboratorium Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OdVideo_01_desc", "source": "Odyle Video Converter", "translation": "Konwerter wideo Odylu", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OldBox_01_desc", "source": "Experimental Waste Chest", "translation": "Skrzynia z odpadami eksperymentalnymi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OldBox_02_desc", "source": "Experimental Waste Chest", "translation": "Skrzynia z odpadami eksperymentalnymi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OracleDoor_01_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OracleDoor_02_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_OracleDoor_03_desc", "source": "Door", "translation": "Drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_PowerUnitControl_01_desc", "source": "Test Tube Control Device", "translation": "Urządzenie sterujące probówką", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_SearchEffect_01_desc", "source": "Perform first aid", "translation": "Udziel pierwszej pomocy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_4_SpiritStone_01_desc", "source": "Security Control Device", "translation": "Urządzenie kontroli bezpieczeństwa", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_Deadman_01_desc", "source": "Decaying Corpse", "translation": "Rozkładające się zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_Deadman_02_desc", "source": "Decaying Corpse", "translation": "Rozkładające się zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_Deadman_03_desc", "source": "Decaying Corpse", "translation": "Rozkładające się zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_EnterPortal_01_desc", "source": "Former Chloris's Band Base", "translation": "Dawna baza bandy Chloris", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_FileBox_01_desc", "source": "Old Storage Chest", "translation": "Stara skrzynia magazynowa", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_GrainSack_01_desc", "source": "Old Sack", "translation": "Stary worek", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_OldBook_01_desc", "source": "Worn Book", "translation": "Podniszczona księga", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_PrisonDoor_01_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_PrisonDoor_02_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_StoneDoor_01_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_StoneDoor_02_desc", "source": "Stone Door", "translation": "Kamienne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_5_WoodenBox01_desc", "source": "Old Pile of Luggage", "translation": "Stos starych bagaży", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Bonfire_01_desc", "source": "Firepit Cooking Station", "translation": "Palenisko do gotowania", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Bonfire_03_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_BrokenWeapons_01_desc", "source": "Weapon Remnants", "translation": "Pozostałości broni", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_DeadVillagerM_01_desc", "source": "Eiron Refugee Corpse", "translation": "Zwłoki uchodźcy z Eiron", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Device_01_desc", "source": "Inspect the Purification Device", "translation": "Sprawdź urządzenie oczyszczające", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_EnterPortal_01_desc", "source": "Tsenka Merchants Secret Library", "translation": "Tajna biblioteka kupców Tsenki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_GrainSack_01_desc", "source": "Grain Sack", "translation": "Worek zboża", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Instructions_01_desc", "source": "Lepharist Commands", "translation": "Rozkazy Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Journal_01_desc", "source": "Lepharist Researcher's Journal", "translation": "Dziennik badacza Lepharystów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_LootBox01_desc", "source": "Document Box", "translation": "Skrzynia na dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Message_01_desc", "source": "Pile of Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Notice_01_desc", "source": "Place leaflets", "translation": "Rozłóż ulotki", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_RefugeeBox_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_RuinRemains_01_desc", "source": "Ruins Remnants", "translation": "Pozostałości ruin", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_ShugoSearch_01_desc", "source": "Administer the brew", "translation": "Podaj miksturę", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_ShugoSearch_02_desc", "source": "Administer the brew", "translation": "Podaj miksturę", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_ShugoSearch_03_desc", "source": "Administer the brew", "translation": "Podaj miksturę", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Supplies_01_desc", "source": "Lost Restoration Supplies", "translation": "Zagubione zapasy do odnowy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_Supplies_02_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_WaterPot_01_desc", "source": "Water Bucket", "translation": "Wiadro wody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ_YellowHerb_01_desc", "source": "Brinegrass", "translation": "Słonorośl", "status": "draft"}
+{"id": "EnvObjData_E_L2_DeadBody_001_desc", "source": "Member Corpse", "translation": "Zwłoki członka", "status": "draft"}
+{"id": "EnvObjData_E_L2_DrakanArmor_001_desc", "source": "Abandoned Drakan Armor", "translation": "Porzucona zbroja Drakan", "status": "draft"}
+{"id": "EnvObjData_E_L2_DrakanReport_001_desc", "source": "Surana Research Booklet", "translation": "Broszura badawcza Surany", "status": "draft"}
+{"id": "EnvObjData_E_L2_DrakanReport_002_desc", "source": "Balaur Command Document", "translation": "Dokument dowództwa Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DrakanReport_003_desc", "source": "Stamped Balaur Tablet", "translation": "Ostemplowana tablica Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_DranaEnergy_001_desc", "source": "Power Supply Drana", "translation": "Drana zasilająca", "status": "draft"}
+{"id": "EnvObjData_E_L2_DreadgionParts_001_desc", "source": "Scattered Dredgion Components", "translation": "Rozrzucone części Dredgiona", "status": "draft"}
+{"id": "EnvObjData_E_L2_EP7_4_EnterDoor_01_desc", "source": "Hall of Compassion Door", "translation": "Drzwi Sali Współczucia", "status": "draft"}
+{"id": "EnvObjData_E_L2_EP7_4_ExitDoor_01_desc", "source": "Hall of Compassion Door", "translation": "Drzwi Sali Współczucia", "status": "draft"}
+{"id": "EnvObjData_E_L2_EP8_1_EnterDoor_01_desc", "source": "Hidden Door", "translation": "Ukryte drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_EP8_1_ExitDoor_01_desc", "source": "Hidden Door", "translation": "Ukryte drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltenenTest_001_desc", "source": "Dream Crossroad Entrance (Temporary)", "translation": "Wejście na Rozdroże Marzeń (tymczasowe)", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltenenTest_002_desc", "source": "5th Ascension (Temporary)", "translation": "Piąta Ascenta (tymczasowa)", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltenenTest_003_desc", "source": "Dream Crossroad Entrance (Temporary)", "translation": "Wejście na Rozdroże Marzeń (tymczasowe)", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltenenTest_004_desc", "source": "6th Ascension (Temporary)", "translation": "Szósta Ascenta (tymczasowa)", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltnenToVerteron_AgitPortal_desc", "source": "Hall Teleportation Portal", "translation": "Portal teleportacyjny do sali", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltnenToVerteron_AgitPortal_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltnenToVerteron_Portal_desc", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
+{"id": "EnvObjData_E_L2_EltnenToVerteron_Portal_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
+{"id": "EnvObjData_E_L2_Eltnen_MonoLith_desc", "source": "Eltnen Monolith", "translation": "Monolit Eltnen", "status": "draft"}
+{"id": "EnvObjData_E_L2_EracusTempleCavernT_001_desc", "source": "Eracus Underground Temple (Temporary)", "translation": "Podziemna Świątynia Eracus (tymczasowa)", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_BoxLower_02_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_BoxPile_01_desc", "source": "Suspicious Chest", "translation": "Podejrzana skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_Door_01_desc", "source": "Iron Door", "translation": "Żelazne drzwi", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_EnterDoor_01_desc", "source": "Hilsrother Loot Depository", "translation": "Skład łupów Hilsrother", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_FakeStoneTrap_01_desc", "source": "Petrification Trap", "translation": "Pułapka petryfikująca", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_FileBox_01_desc", "source": "Document Box", "translation": "Skrzynia na dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_Lever_01_desc", "source": "Lever", "translation": "Dźwignia", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_Lever_02_desc", "source": "Lever", "translation": "Dźwignia", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_LootBox_01_desc", "source": "Old Luggage Chest", "translation": "Skrzynia na stary bagaż", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_Message_01_desc", "source": "Pile of Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_Message_02_desc", "source": "Pile of Documents", "translation": "Stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_OdVideo_01_desc", "source": "Odyle Video Converter", "translation": "Konwerter wideo Odylu", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_OldBox_01_desc", "source": "Old Luggage Chest", "translation": "Skrzynia na stary bagaż", "status": "draft"}
+{"id": "EnvObjData_E_L2_FallenLightSiteT_001_desc", "source": "Light Crash Site (Temporary)", "translation": "Miejsce upadku Światła (tymczasowe)", "status": "draft"}
+{"id": "EnvObjData_E_L2_FallenParts_001_desc", "source": "Fallen Fragment", "translation": "Upadły fragment", "status": "draft"}
+{"id": "EnvObjData_E_L2_FallenParts_002_desc", "source": "Fallen Fragment", "translation": "Upadły fragment", "status": "draft"}
+{"id": "EnvObjData_E_L2_FallenParts_003_desc", "source": "Crushed Carapace Fragment", "translation": "Fragment zmiażdżonego pancerza", "status": "draft"}
+{"id": "EnvObjData_E_L2_Frigin_001_desc", "source": "Check on Prikhi", "translation": "Sprawdź, co z Prikhi", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_BalaurBox_01_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_1_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_2_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_3_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_4_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_5_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_AbyssArtifactCore_01_6_desc", "source": "Energy Generator", "translation": "Generator energii", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_BalaurBoxPile_01_desc", "source": "Pile of Balaur Chests", "translation": "Stos skrzyń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_BalaurBoxPile_03_desc", "source": "Pile of Balaur Chests", "translation": "Stos skrzyń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_BrokenDevice_01_desc", "source": "Pipe", "translation": "Rura", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DaevaTank_01_desc", "source": "Illuminated Test Tube", "translation": "Podświetlona probówka", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DiaryOld_01_desc", "source": "Guard Manual", "translation": "Podręcznik strażnika", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_1_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_2_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_3_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_4_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_5_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoPrisonDoor_01_6_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_DracoWeaponRack_02_desc", "source": "Weapon Rack", "translation": "Stojak na broń", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_INS_Exit_001_desc", "source": "Digunaka Forward Base Door", "translation": "Drzwi wysuniętej bazy Digunaki", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_Insk_001_desc", "source": "Digunaka Forward Base Door", "translation": "Drzwi wysuniętej bazy Digunaki", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_LootBoxPile_01_desc", "source": "Balaur Tent Supply Pile", "translation": "Stos zaopatrzenia w namiocie Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D1_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DaevaTank_04_1_desc", "source": "Daeva Test Tube", "translation": "Probówka Daevy", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanDevice_01_desc", "source": "Updraft Activation Device", "translation": "Urządzenie aktywujące prąd wstępujący", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanDevice_02_desc", "source": "Updraft Activation Device", "translation": "Urządzenie aktywujące prąd wstępujący", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanDevice_03_desc", "source": "Updraft Activation Device", "translation": "Urządzenie aktywujące prąd wstępujący", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanDevice_04_desc", "source": "Updraft Activation Device", "translation": "Urządzenie aktywujące prąd wstępujący", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_01_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_02_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_03_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_04_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_INS_Insk_001_desc", "source": "Hidden Vein Outpost Door", "translation": "Drzwi posterunku Ukrytej Żyły", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_Insk_001_desc", "source": "Hidden Vein Outpost Door", "translation": "Drzwi posterunku Ukrytej Żyły", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D3_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}

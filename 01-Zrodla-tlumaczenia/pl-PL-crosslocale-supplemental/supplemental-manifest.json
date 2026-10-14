@@ -1,0 +1,36 @@
+{
+  "table": "pl-PL-crosslocale-supplemental",
+  "canonicalTable": "main",
+  "canonicalDecodedJsonSha256": "6e56b8496b80bc056e972cfb01c04df260895970511ad6d1d74b81b0350c83c5",
+  "canonicalInputSha256": "ffd9a6321165addbfa2cfc3d3a4d58e1a42d0ba6efe5714898f533188045e98f",
+  "sourceAuditJsonSha256": "6b2648968452f40f4cd09d7f11362ead32e4f825dd2ccd5a48ad0eb514b37c85",
+  "canonicalSourceHashes": {
+    "AchievementString_Archieve_STR_ACHIEVEMENT_GETREWARDONCE_achievement_title": "36b2fd8ccefe3bcdbaa6e1049574ad15b77852ed5ac4604ee2e73362fa3f989f",
+    "AchievementString_Archieve_STR_ACHIEVEMENT_GETREWARDONCE_obj_desc": "36b2fd8ccefe3bcdbaa6e1049574ad15b77852ed5ac4604ee2e73362fa3f989f",
+    "NpcTalk_74C911BF736440E7AA29C22DE752EA99_cv_text": "f5cd16802a32887140b90f5015dfe4760cb3a601079126fb0d21996297a4b170",
+    "String_L10NSample1_body": "f5cd16802a32887140b90f5015dfe4760cb3a601079126fb0d21996297a4b170",
+    "String_STR_N_SkillTutorial_body": "f5cd16802a32887140b90f5015dfe4760cb3a601079126fb0d21996297a4b170",
+    "QuestString_STR_HQ2103010_quest_summary_journal_complete": "03626549a59abf648ee59163b3b8acbf66c36513cb1e76d6e277bc044c926e30",
+    "QuestString_STR_HQ2103010_quest_summary_journal_progress": "03626549a59abf648ee59163b3b8acbf66c36513cb1e76d6e277bc044c926e30",
+    "QuestString_STR_HQ2103010_quest_summary_popup_complete": "03626549a59abf648ee59163b3b8acbf66c36513cb1e76d6e277bc044c926e30"
+  },
+  "sourceFingerprints": {
+    "ko-KR": {
+      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\ko-KR\\pakchunk501000-Windows_0_P.pak",
+      "containerSha256": "4197570ee8501ce8178cab595e666c02e2e7fd4b417aa2876b7f601c0f3e5bea",
+      "datPath": "work\\locale-source-audit\\crosslocale\\ko-KR-L10NString.dat",
+      "datSha256": "e0dd5e799acb1f5f9ad73a25eca1aa5c2389fa7e9350c2488e33e6c2660b4341",
+      "decodedPath": "work\\locale-source-audit\\crosslocale\\ko-KR-L10NString.json",
+      "decodedJsonSha256": "3371d289607902f9a864e2931c079ed17c436f5f214f64ed758ec01c9ec310b1",
+      "recordCount": 152273
+    }
+  },
+  "records": 8,
+  "batchSize": 8,
+  "batches": [
+    {
+      "file": "0001.jsonl",
+      "count": 8
+    }
+  ]
+}

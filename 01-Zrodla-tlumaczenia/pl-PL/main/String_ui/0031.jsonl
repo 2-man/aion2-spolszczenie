@@ -1,0 +1,250 @@
+{"id": "String_UI_SKIN_COMBINE_DECO_SKIN_USE_DISABLED_body", "source": "You must <warning>remove customization</> from a customized skin before it can be used for combination.", "translation": "Przed połączeniem <warning>usuń personalizację</> ze spersonalizowanej skórki.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_FILTER_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_FILTER_RESET_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_FILTER_TITLE_body", "source": "Select Skin to Display", "translation": "Wybierz wyświetlaną skórkę", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_GUIDE_body", "source": "Register the Skins you want to combine.", "translation": "Zarejestruj skórki, które chcesz połączyć.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_OPENALLRESULTS_body", "source": "Open All", "translation": "Otwórz wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PAGE_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITYPOPUPTITLE_body", "source": "Combination Success Probability by Grade", "translation": "Szansa na uzyskanie przedmiotu danej rangi", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_BASE_body", "source": "Top Grade Item Probability {0}%", "translation": "Szansa na przedmiot najwyższej rangi: {0}%", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_GRADE_NOT_SELECTED_body", "source": "Select a grade.", "translation": "Wybierz rangę.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_INCREASE_UNAVAILABLE_body", "source": "Rate Increase Unavailable Grade", "translation": "Ranga bez możliwości zwiększenia szansy", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_INCREASE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_INFORMATION_body", "source": "Probability to Acquire Skins", "translation": "Szansa na zdobycie skórek", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_ITEM_QUANTITY_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_body", "source": "{0} %", "translation": "{0} %", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_RESULT_CONFIRM_BUTTON_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_RESULT_TITLE_body", "source": "Combination Results", "translation": "Wyniki łączenia", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_body", "source": "Combine", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_INDEX_CHANGE_COMPLETE_body", "source": "Index Change Completed", "translation": "Zmieniono indeks", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_INDEX_CHANGE_body", "source": "Change Index", "translation": "Zmień indeks", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_INDEX_SELECT_body", "source": "Select a customization to use as an index.", "translation": "Wybierz personalizację, która ma służyć jako indeks.", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_LIST_COUNT_INFO_body", "source": "Up to 100 of the same skins can be displayed in a slot,\nand up to 100 customizations can be applied.", "translation": "W jednym slocie można wyświetlić maksymalnie 100 takich samych skórek,\na nałożyć można maksymalnie 100 personalizacji.", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_LIST_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_NO_CUSTOM_body", "source": "This skin does not support customization.", "translation": "Tej skórki nie można personalizować.", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_PRESET_APPLY_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_PRESET_APPLY_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_PRESET_APPLY_NOTICE_body", "source": "Applying the selected customization preset will reset what has been edited so far.\nAre you sure you wish to apply this preset?", "translation": "Zastosowanie wybranego zestawu personalizacji zresetuje dotychczasowe zmiany.\nCzy na pewno chcesz zastosować ten zestaw?", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_PRESET_APPLY_TITLE_body", "source": "Customization Preset", "translation": "Zestaw personalizacji", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_REMOVE_DYE_body", "source": "Remove Dye", "translation": "Usuń barwnik", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_REMOVE_MATERIAL_body", "source": "Remove Material", "translation": "Usuń materiał", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_REMOVE_PATTERN_COLOR_body", "source": "Remove Pattern Color", "translation": "Usuń kolor wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_REMOVE_PATTERN_body", "source": "Remove Pattern", "translation": "Usuń wzór", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_SALE_RATE_body", "source": "-{0}%", "translation": "-{0}%", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_SALE_body", "source": "Customization Discount", "translation": "Zniżka na personalizację", "status": "draft"}
+{"id": "String_UI_SKIN_DECO_SAVE_COLOR_body", "source": "Save Color", "translation": "Zapisz kolor", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_BUTTON_body", "source": "Purchase", "translation": "Kup", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_CHECK_ALL_body", "source": "Check All", "translation": "Zaznacz wszystko", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_COMMON_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_NOTICE_ONLY_CHECKED_MATERIALS_body", "source": "Purchase only selected skin customization.", "translation": "Kup tylko wybraną personalizację skórki.", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_PREMIUM_body", "source": "High-Quality", "translation": "Wysoka jakość", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_BUY_QUANTITY_body", "source": "Selected Customization: <desc_point>{0}</> Units", "translation": "Wybrana personalizacja: <desc_point>{0}</> szt.", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_EXIT_BUTTON_body", "source": "Exit Customization", "translation": "Zakończ personalizację", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_PURCHASEPOPUP_DESCRIPTION_body", "source": "Proceed with skin customization?", "translation": "Czy kontynuować personalizację skórki?", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_PURCHASEPOPUP_TITLE_body", "source": "Customize", "translation": "Personalizuj", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_PURCHASE_POPUP_GUID_1_body", "source": "Skin customization takes place in a fixed environment.", "translation": "Personalizacja skórki odbywa się w stałych warunkach.", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_PURCHASE_POPUP_GUID_2_body", "source": "Once applied, it may appear differently in-game depending on device settings and environment (lighting, background, etc.).", "translation": "Po zastosowaniu wygląd w grze może się różnić w zależności od ustawień urządzenia i otoczenia (oświetlenia, tła itp.).", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_SAVE_ERROR_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_SAVE_ERROR_BTN_OK_body", "source": "Save", "translation": "Zapisz", "status": "draft"}
+{"id": "String_UI_SKIN_DYE_SAVE_INFO_EXCEPT_body", "source": "※ Select the icon to exclude it from saving.", "translation": "※ Wybierz ikonę, aby wykluczyć ją z zapisywania.", "status": "draft"}
+{"id": "String_UI_SKIN_Deco_BTN_SAVE_body", "source": "Save Customization", "translation": "Zapisz personalizację", "status": "draft"}
+{"id": "String_UI_SKIN_Deco_NOT_SELECT_body", "source": "Select the skin to customize.", "translation": "Wybierz skórkę do personalizacji.", "status": "draft"}
+{"id": "String_UI_SKIN_EQUIPMENT_TOOLTIP_body", "source": "Gear Info", "translation": "Informacje o wyposażeniu", "status": "draft"}
+{"id": "String_UI_SKIN_EQUIP_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_EQUIP_TAB_ORNAMENTS_body", "source": "Decoration", "translation": "Ozdoba", "status": "draft"}
+{"id": "String_UI_SKIN_EQUIP_TAB_SET_body", "source": "Set", "translation": "Zestaw", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_SAVE_INFO_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_SAVE_INFO_BTN_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_SAVE_INFO_DYE_body", "source": "There are unsaved dyes on the equipped skin.\nExit without saving?", "translation": "Na założonej skórce są niezapisane barwniki.\nWyjść bez zapisywania?", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_SAVE_INFO_SKIN_DYE_PREVIEW_body", "source": "There are dyed skins in the skin slot.\nIn preview mode, dyes on skins unsaved in the slot will be removed.\nExit without saving?", "translation": "W slocie skórki znajdują się zabarwione skórki.\nW trybie podglądu barwniki na skórkach niezapisanych w slocie zostaną usunięte.\nWyjść bez zapisywania?", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_SAVE_INFO_SKIN_body", "source": "There are unsaved skins in the skin slot.\nExit without saving?", "translation": "W slocie skórki znajdują się niezapisane skórki.\nWyjść bez zapisywania?", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_WARNING_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_WARNING_BTN_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SKIN_EXIT_WARNING_body", "source": "There is an unpurchased customization option selected.\nUnpurchased customization options will be reset.\nExit customization?", "translation": "Wybrano niezapłaconą opcję personalizacji.\nNiezapłacone opcje personalizacji zostaną zresetowane.\nWyjść z personalizacji?", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_ACQUIRED_body", "source": "You have acquired a Skin.", "translation": "Zdobyto skórkę.", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_BTN_body", "source": "Extract", "translation": "Wyodrębnij", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_GAUGE_TEXT_body", "source": "Extracting", "translation": "Wyodrębnianie", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_GET_SKIN_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_GET_SKIN_TEXT_body", "source": "Obtained Skin", "translation": "Zdobyta skórka", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_GUIDE_body", "source": "Select the gear you wish to extract the skin from.", "translation": "Wybierz wyposażenie, z którego chcesz wyodrębnić skórkę.", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_NOTIC_body", "source": "Extracting the skin will consume the gear.\nExtracted skins can be viewed in the Equip List.", "translation": "Wyodrębnienie skórki zużyje wyposażenie.\nWyodrębnione skórki można znaleźć na liście wyposażenia.", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_RESULT_FAIL_body", "source": "You have obtained nothing.", "translation": "Nic nie zdobyto.", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_RESULT_body", "source": "Skin Extraction Results", "translation": "Wyniki wyodrębniania skórki", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_SUCCESS_PROB_TEXT_body", "source": "Extraction Success Chance", "translation": "Szansa powodzenia wyodrębniania", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_SUCCESS_body", "source": "Extraction Successful", "translation": "Wyodrębnianie powiodło się", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_TITLE_body", "source": "Extract Skin", "translation": "Wyodrębnij skórkę", "status": "draft"}
+{"id": "String_UI_SKIN_EXTRACTION_WARNING_body", "source": "Extraction may fail.\nKeep in mind you will not get the gear back if it does.", "translation": "Wyodrębnianie może się nie powieść.\nPamiętaj, że w razie niepowodzenia nie odzyskasz wyposażenia.", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_DISPLAY_SKIP_body", "source": "Skip", "translation": "Pomiń", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_EXIT_AGAIN_BTN_body", "source": "Retry", "translation": "Ponów", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_EXIT_AGAIN_DISPLAY_SKIP_body", "source": "Skip Visual Effects", "translation": "Pomiń efekty wizualne", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_EXIT_AGAIN_TEXT_body", "source": "1 / {0}", "translation": "1 / {0}", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SKIN_GACHA_SKINCRYSTAL_body", "source": "X {0}", "translation": "× {0}", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_COOLTIME_TEXT_body", "source": "Cooldown", "translation": "Czas odnowienia", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_DURATION_NO_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_DURATION_TEXT_body", "source": "Duration", "translation": "Czas trwania", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_INFO_DEFAULT_TEXT_body", "source": "You can view effect information.\n\nSelect an effect.", "translation": "Możesz wyświetlić informacje o efekcie.\n\nWybierz efekt.", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_NEED_POINT_TEXT_body", "source": "Points Consumed", "translation": "Zużyte punkty", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_NEED_POINT_body", "source": "{0} pts.", "translation": "{0} pkt", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_SETLIST_TITLE_body", "source": "Obtainable Set List", "translation": "Lista dostępnych zestawów", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_SKILL_LEVEL_body", "source": "Lv. {0}/{1}", "translation": "Poz. {0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_SORT_DURATION_DESC_body", "source": "Longest Duration First", "translation": "Najdłuższy czas trwania", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_SORT_LEVEL_DESC_body", "source": "Highest Level First", "translation": "Najwyższy poziom", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_SORT_POINT_ASC_body", "source": "Least Required Points First", "translation": "Najmniejszy wymagany koszt punktów", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_BUFF_TITLE_body", "source": "Closet Effect", "translation": "Efekt garderoby", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_POINT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_TEXT_body", "source": "Skin Record {0} Grade", "translation": "Ranga {0} w rejestrze skórek", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_BTN_ACQUISITIONINFORMATION_body", "source": "Acquisition Information", "translation": "Informacje o zdobyciu", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_BTN_Deco_body", "source": "Customize", "translation": "Personalizuj", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_BTN_register_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_FX_OFF_body", "source": "Show FX", "translation": "Pokaż efekty", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_FX_ON_body", "source": "Hide FX", "translation": "Ukryj efekty", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_GET_EXPNPOINT_TEXT_body", "source": "{0} Lv. <Skin_Increase>+{1}</>", "translation": "{0} poz. <Skin_Increase>+{1}</>", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_GET_EXP_body", "source": "Grade EXP: <Skin_Total>{0}</>", "translation": "PD rangi: <Skin_Total>{0}</>", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_GET_ROUTE_body", "source": "Source", "translation": "Źródło", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_GET_SETBUFF_TITLE_body", "source": "Style Effects", "translation": "Efekty stylu", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_GET_SKINEFFECT_TITLE_body", "source": "Skin Effects", "translation": "Efekty skórki", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_HELMET_DOWN_body", "source": "Lower Helm", "translation": "Opuść hełm", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_HELMET_UP_body", "source": "Raise Helm", "translation": "Podnieś hełm", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_HOOD_OFF_body", "source": "Remove Hood", "translation": "Zdejmij kaptur", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_HOOD_ON_body", "source": "Equip Hood", "translation": "Załóż kaptur", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_MY_PRESET_body", "source": "My Skins", "translation": "Moje skórki", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_NOT_SELECTED_body", "source": "Select a Skin.", "translation": "Wybierz skórkę.", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_SET_PRESET_body", "source": "Skin Sets", "translation": "Zestawy skórek", "status": "draft"}
+{"id": "String_UI_SKIN_INFO_Skin_Name_Text_body", "source": "Skin Name", "translation": "Nazwa skórki", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_DISPLAY_NONE_body", "source": "No skins to display.", "translation": "Brak skórek do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTERED_EMPTY_body", "source": "No Skins to display.", "translation": "Brak skórek do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_BOOKMARK_body", "source": "Favorites", "translation": "Ulubione", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_GRADE_body", "source": "Skin Grade", "translation": "Ranga skórki", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_REGISTERED_body", "source": "Equipped Skin", "translation": "Założona skórka", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_STATUS_body", "source": "Skin Status", "translation": "Stan skórki", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_STYLE_HeavyArmor_body", "source": "Heavy Armor Skin", "translation": "Skórka ciężkiej zbroi", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_STYLE_LightArmor_body", "source": "Light Armor Skin", "translation": "Skórka lekkiej zbroi", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_STYLE_body", "source": "Skin Style", "translation": "Styl skórki", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_TITLE_body", "source": "Filter Options", "translation": "Opcje filtrowania", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_OWNED_EMPTY_body", "source": "No Skins owned.", "translation": "Nie masz żadnych skórek.", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SKINSET_EQUIP_BUTTON_body", "source": "Equip All", "translation": "Załóż wszystkie", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_BASIC_body", "source": "Default Sorting", "translation": "Sortowanie domyślne", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_GRADE_HIGH_body", "source": "Highest Grade First", "translation": "Od najwyższej rangi", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_GRADE_LOW_body", "source": "Lowest Grade First", "translation": "Od najniższej rangi", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_NAME_body", "source": "By Name", "translation": "Według nazwy", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_NEW_body", "source": "Newest Skin First", "translation": "Od najnowszych skórek", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_TITLE_body", "source": "Sorting Options", "translation": "Opcje sortowania", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_DYE_DELETE_body", "source": "Remove Dye", "translation": "Usuń barwnik", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_DYE_UNDO_body", "source": "Revert Dye", "translation": "Cofnij barwienie", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_MATERIAL_UNDO_body", "source": "Revert Materials", "translation": "Cofnij zmianę materiałów", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_PATTERN_DYE_UNDO_body", "source": "Revert Pattern Color", "translation": "Cofnij zmianę koloru wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_PATTERN_TYPE_body", "source": "Pattern Type", "translation": "Rodzaj wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_PATTERN_UNDO_body", "source": "Revert Patterns", "translation": "Cofnij zmianę wzorów", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_SETTING_body", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_CUSTOM_body", "source": "User Settings", "translation": "Ustawienia użytkownika", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_GLOSSY_body", "source": "Gloss Patterns", "translation": "Błyszczące wzory", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_METALLIC_body", "source": "Metallic Patterns", "translation": "Metaliczne wzory", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_SIZE_HORIZONTAL_body", "source": "Width", "translation": "Szerokość", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_SIZE_KEEP_RATIO_body", "source": "Retain Ratio", "translation": "Zachowaj proporcje", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_DECO_TAB_PATTERN_SIZE_VERTICAL_body", "source": "Height", "translation": "Wysokość", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Areas1_body", "source": "Area 1", "translation": "Obszar 1", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Areas2_body", "source": "Area 2", "translation": "Obszar 2", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Areas3_body", "source": "Area 3", "translation": "Obszar 3", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Areas4_body", "source": "Area 4", "translation": "Obszar 4", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Areas_Text_body", "source": "Customization Area", "translation": "Obszar personalizacji", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Dye_body", "source": "Dye", "translation": "Barwnik", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Material_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Pattern_Dye_body", "source": "Pattern Color", "translation": "Kolor wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Pattern_body", "source": "Patterns", "translation": "Wzory", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Dye_Transparency_body", "source": "Pattern Color Opacity", "translation": "Krycie koloru wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Embossed_body", "source": "Embossing", "translation": "Tłoczenie", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Etched_body", "source": "Engraving", "translation": "Grawerowanie", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Normal_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Not_Applied_Notice_body", "source": "Selectable after Applying Pattern.", "translation": "Można wybrać po zastosowaniu wzoru.", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Size_body", "source": "Pattern Size", "translation": "Rozmiar wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MENU_Deco_Tab_Pattern_Transparency_body", "source": "Pattern Opacity", "translation": "Krycie wzoru", "status": "draft"}
+{"id": "String_UI_SKIN_MODE_TAB_DECO_body", "source": "Customize", "translation": "Personalizuj", "status": "draft"}
+{"id": "String_UI_SKIN_MODE_TAB_SHOP_body", "source": "Closet", "translation": "Garderoba", "status": "draft"}
+{"id": "String_UI_SKIN_Mode_Tab_Equip_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_SKIN_Mode_Tab_Preview_body", "source": "Preview", "translation": "Podgląd", "status": "draft"}
+{"id": "String_UI_SKIN_OWNED_EFFECT_body", "source": "Owned Effect", "translation": "Posiadany efekt", "status": "draft"}
+{"id": "String_UI_SKIN_PREVIEW_OPTIONS_CAMERA_ZOOM_IN_body", "source": "Zoom-in Effect ON/OFF", "translation": "Włącz/wyłącz efekt zbliżenia", "status": "draft"}
+{"id": "String_UI_SKIN_PREVIEW_OPTIONS_CHANGE_COMBAT_STATUS_body", "source": "In Combat", "translation": "W walce", "status": "draft"}
+{"id": "String_UI_SKIN_PREVIEW_OPTIONS_CHANGE_RESET_body", "source": "Revert", "translation": "Przywróć", "status": "draft"}
+{"id": "String_UI_SKIN_PREVIEW_OPTIONS_HIDE_UI_body", "source": "Hide UI", "translation": "Ukryj interfejs", "status": "draft"}
+{"id": "String_UI_SKIN_PREVIEW_OPTIONS_SHOW_WINGS_body", "source": "Show Wings", "translation": "Pokaż skrzydła", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_ACQUIRED_PRODUCT_body", "source": "Obtained Skin", "translation": "Zdobyta skórka", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_BUY_CONFIRM_QUANTITY_body", "source": "x{0}", "translation": "×{0}", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_BUY_CONFIRM_SINGLE_TITLE_body", "source": "Purchase Selected Item(s)", "translation": "Kup wybrane przedmioty", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_BUY_body", "source": "Purchase", "translation": "Kup", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_CANNOT_BUY_body", "source": "Unavailable", "translation": "Niedostępne", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_COLLECTION_POINT_NOT_ACQUIRED_body", "source": "Does not grant collection points", "translation": "Nie przyznaje punktów kolekcji", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_FILTER_NOT_OWNED_body", "source": "Not Owned", "translation": "Nieposiadane", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_FILTER_OWNED_STATUS_body", "source": "Possession Status", "translation": "Stan posiadania", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_FILTER_OWNED_body", "source": "Owned", "translation": "Posiadane", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_GET_MILEAGE_body", "source": "{0} Earned", "translation": "Zdobyto: {0}", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_GUIDE_PLEASE_SELECT_PRODUCT_body", "source": "Select a product.", "translation": "Wybierz produkt.", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_IN_STORAGE_body", "source": "In Storage", "translation": "W magazynie", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_LABEL_DISCOUNT_RATE_body", "source": "-{0}%", "translation": "-{0}%", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_OWNED_body", "source": "Owned", "translation": "Posiadane", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_A_body", "source": "A", "translation": "A", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_B_body", "source": "B", "translation": "B", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_C_body", "source": "C", "translation": "C", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_INCLUDED_NOTICE_body", "source": "A Customization Fee is required when applying a customization after purchasing a skin.", "translation": "Po zakupie skórki zastosowanie personalizacji wymaga opłaty.", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_INCLUDED_TITLE_body", "source": "Customization Preset Guide", "translation": "Informacje o zestawie personalizacji", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_NOTICE_body", "source": "A Customization Fee is required when applying a customization after purchasing a skin.", "translation": "Po zakupie skórki zastosowanie personalizacji wymaga opłaty.", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRESET_TITLE_body", "source": "Customization Preset", "translation": "Zestaw personalizacji", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_PRODUCT_INFO_OWNED_body", "source": "[Owned]", "translation": "[Posiadane]", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_SALE_END_TODAY_body", "source": "Ends today!", "translation": "Kończy się dzisiaj!", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_SHOW_WITH_EQUIPPED_body", "source": "View All Equipped Skins", "translation": "Wyświetl wszystkie założone skórki", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_SORT_DISCOUNT_PRIORITY_body", "source": "Prioritize sale", "translation": "Najpierw wyprzedaż", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_SORT_PRICE_ASCENDING_body", "source": "Ascending price", "translation": "Cena rosnąco", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_SORT_PRICE_DESCENDING_body", "source": "Descending price", "translation": "Cena malejąco", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAB_ACCESSORY_SINGLE_body", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAB_APPAREL_SINGLE_body", "source": "Armor", "translation": "Zbroja", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAB_SET_body", "source": "Outfit", "translation": "Strój", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAB_SINGLE_body", "source": "Single", "translation": "Pojedyncze", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAB_WEAPON_SINGLE_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_UI_SKIN_SHOP_TAG_CANNOT_DECO_body", "source": "[Undyeable]", "translation": "[Nie można barwić]", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_L_TEXT_body", "source": "L", "translation": "L", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_OPTION_BOTH_EQUIP_body", "source": "Equip Both Sides", "translation": "Załóż po obu stronach", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_OPTION_BOTH_UNEQUIP_body", "source": "Unequip Both Sides", "translation": "Zdejmij po obu stronach", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_OPTION_WEAPON_EFFECT_body", "source": "Hide Weapon basic effects", "translation": "Ukryj podstawowe efekty broni", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_R_TEXT_body", "source": "R", "translation": "R", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_WEAPON_L_TEXT_body", "source": "L", "translation": "L", "status": "draft"}
+{"id": "String_UI_SKIN_SLOT_WEAPON_R_TEXT_body", "source": "R", "translation": "R", "status": "draft"}
+{"id": "String_UI_SKIN_SWAP_LR_TEXT_body", "source": "Adjust Position", "translation": "Dostosuj położenie", "status": "draft"}
+{"id": "String_UI_SKIN_TITLE_body", "source": "Closet", "translation": "Garderoba", "status": "draft"}
+{"id": "String_UI_SKIN_TOTAL_OWNED_EFFECT_body", "source": "All Owned Effects", "translation": "Wszystkie posiadane efekty", "status": "draft"}
+{"id": "String_UI_SLOT_NOTICE_CLASS_body", "source": "Class", "translation": "Klasa", "status": "draft"}
+{"id": "String_UI_SLOT_NOTICE_CRAFTRECIPE_MASTERY_LEVEL_body", "source": "Crafting\nProficiency Level", "translation": "Poziom\nbiegłości w rzemiośle", "status": "draft"}
+{"id": "String_UI_SLOT_NOTICE_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_SLOT_NOTICE_RACE_body", "source": "Faction", "translation": "Frakcja", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_01_body", "source": "[ON]", "translation": "[WŁ.]", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_02_body", "source": "Snapshots will be saved with skin info included when you take a shot. You can register the saved snapshot in the Style Shop to share skin info.\nThere may be a delay until a snapshot is taken.\n[Save Location]\n(PC) PURPLE designated path for screenshots > snapshot_styleShop", "translation": "Zrzuty ekranu będą zapisywane z informacjami o skórce. Zapisany zrzut możesz zarejestrować w Sklepie Stylu, aby udostępnić te informacje.\nWykonanie zrzutu może się opóźnić.\n[Miejsce zapisu]\n(PC) Wyznaczona ścieżka PURPLE dla zrzutów ekranu > snapshot_styleShop", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_03_body", "source": "[OFF]", "translation": "[WYŁ.]", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_04_body", "source": "Snapshots will be saved without skin info.\n[Save Location]\n(PC) PURPLE designated path for screenshots > snapshot", "translation": "Zrzuty ekranu będą zapisywane bez informacji o skórce.\n[Miejsce zapisu]\n(PC) Wyznaczona ścieżka PURPLE dla zrzutów ekranu > snapshot", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_body", "source": "Include Customization Info", "translation": "Uwzględnij informacje o personalizacji", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_SHOOTING_body", "source": "Shoot", "translation": "Zrób zdjęcie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_body", "source": "Snapshot", "translation": "Zrzut ekranu", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_BASIC_SETUP_body", "source": "Default Settings", "translation": "Ustawienia domyślne", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_EXPRESSION_SETUP_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_LOOKAT_body", "source": "Face Camera", "translation": "Zwróć twarz w stronę kamery", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_OTHER_PLAYER_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_PLAYER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_body", "source": "Display Nameplate", "translation": "Wyświetl tabliczkę z nazwą", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_HIDE_ALL_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_SHOW_OWNER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_body", "source": "Change Target", "translation": "Zmień cel", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_PET_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_BOTTOM_body", "source": "Bottom Left", "translation": "Lewy dolny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_TOP_body", "source": "Top Left", "translation": "Lewy górny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_BOTTOM_body", "source": "Bottom Right", "translation": "Prawy dolny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_TOP_body", "source": "Top Right", "translation": "Prawy górny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_body", "source": "Display Watermark", "translation": "Wyświetl znak wodny", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_body", "source": "Snapshot Settings", "translation": "Ustawienia zrzutu ekranu", "status": "draft"}

@@ -1,0 +1,250 @@
+{"id":"String_UI_TRADE_MAIN_CATEGORY_BUY_PRICE_TOTAL_body","source":"Sale Price","translation":"Cena sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_BUY_TITLE_body","source":"Purchase","translation":"Zakup","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_APPLY_BTN_body","source":"Apply","translation":"Zastosuj","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_0_body","source":"0","translation":"0","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_10_body","source":"10","translation":"10","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_11_body","source":"11","translation":"11","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_12_body","source":"12","translation":"12","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_13_body","source":"13","translation":"13","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_14_body","source":"14","translation":"14","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_15_body","source":"15","translation":"15","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_1_body","source":"1","translation":"1","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_2_body","source":"2","translation":"2","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_3_body","source":"3","translation":"3","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_4_body","source":"4","translation":"4","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_5_body","source":"5","translation":"5","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_6_body","source":"6","translation":"6","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_7_body","source":"7","translation":"7","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_8_body","source":"8","translation":"8","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_9_body","source":"9","translation":"9","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_SELECT_MARK_body","source":"Enhance Level +{0} - +{0}","translation":"Poziom wzmocnienia +{0}–+{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_ENCHANT_body","source":"Enhance Level","translation":"Poziom wzmocnienia","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GODSTONE_OPTION_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GODSTONE_OPTION_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GODSTONE_SELECT_MARK_body","source":"Theostone Properties {0}","translation":"Właściwości Kamienia Theos: {0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GODSTONE_body","source":"Theostone Properties","translation":"Właściwości Kamienia Theos","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GUIDETEXT_body","source":"Search for listed items that meet the following conditions.","translation":"Wyszukaj wystawione przedmioty spełniające poniższe warunki.","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_MAGICSTONE_OPTION_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_MAGICSTONE_OPTION_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_MAGICSTONE_SELECT_MARK_body","source":"Manastone Properties {0}","translation":"Właściwości kamienia many: {0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_MAGICSTONE_body","source":"Manastone Properties","translation":"Właściwości kamienia many","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_DETAIL_FILTER_TITLE_body","source":"Detailed Search Conditions","translation":"Szczegółowe kryteria wyszukiwania","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_CLASS_ALL_body","source":"All Classes","translation":"Wszystkie klasy","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_CLASS_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_DETAIL_ENCHANT_MARK_body","source":"+{0} - +{1}","translation":"+{0}–+{1}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_DETAIL_body","source":"Detailed Search","translation":"Wyszukiwanie szczegółowe","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_GRADE_ALL_body","source":"All Grades","translation":"Wszystkie rangi","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FILTER_GRADE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_FIRST_LIST_BTN_body","source":"First","translation":"Pierwsza","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_ITEM_BUY_BTN_body","source":"Purchase","translation":"Kup","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_ITEM_REFRESH_BTN_body","source":"Refresh","translation":"Odśwież","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_NO_LIST_SELECT_TEXT_body","source":"No items have been selected.","translation":"Nie wybrano żadnych przedmiotów.","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_NO_LIST_TEXT_body","source":"No applicable content.","translation":"Brak pasujących wyników.","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_FAIL_COUNT_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_FAIL_COUNT_body","source":"Fail","translation":"Niepowodzenie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_FAIL_body","source":"Sold Out","translation":"Wyprzedano","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_ITEM_COUNT_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_ITEM_COUNT_body","source":"Purchase Quantity","translation":"Liczba zakupów","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_PAYMENT_MONEY_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_PAYMENT_body","source":"Total Amount Due","translation":"Łączna kwota do zapłaty","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_SUCCESS_COUNT_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_SUCCESS_COUNT_body","source":"Success","translation":"Powodzenie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_SUCCESS_body","source":"Complete","translation":"Ukończono","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_PURCHASE_RESULT_TITLE_body","source":"Purchase Results","translation":"Wyniki zakupu","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_TAB_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_CATEGORY_TOP_ITEM_PICK_BTN_body","source":"Select Top 5","translation":"Wybierz 5 najlepszych","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_BOOKMARK_LIST_EMPTY_body","source":"Up to 10 favorites can be registered.","translation":"Można dodać maksymalnie 10 ulubionych.","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_BOOKMARK_LIST_TITLE_body","source":"Favorites","translation":"Ulubione","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_RECOMMEND_SLOT_ACCESSORIES_body","source":"ACCESSORIES","translation":"AKCESORIA","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_RECOMMEND_SLOT_ARMOR_body","source":"ARMOR","translation":"ZBROJA","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_RECOMMEND_SLOT_WEAPON_body","source":"WEAPON","translation":"BROŃ","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_RECOMMEND_TITLE_body","source":"Recommended Gear","translation":"Polecane wyposażenie","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_ITEM_RECOMMEND_TOOLTIP_TEXT_body","source":"Recommends gear of a higher level than that which you currently have equipped.\nOnly items registered for sale will be recommended.\nArmor and Accessories for different body parts are recommended every {0}.","translation":"Poleca wyposażenie o wyższym poziomie niż obecnie założone.\nPolecane będą tylko przedmioty wystawione na sprzedaż.\nZbroje i akcesoria dla różnych części ciała są polecane co {0}.","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_MAIN_TAB_body","source":"Main","translation":"Główna","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_SUB_CATEGORY_TAB_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_MAIN_TAB_body","source":"Main","translation":"Główna","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_DATE_body","source":"Last 28 Days","translation":"Ostatnie 28 dni","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_HIGH_body","source":"Highest Trading Unit Price","translation":"Najwyższa cena jednostkowa transakcji","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_LAST_body","source":"Last Trading Unit Price","translation":"Cena jednostkowa ostatniej transakcji","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_LOW_NOW_body","source":"Current Lowest Trading Unit Price","translation":"Obecnie najniższa cena jednostkowa transakcji","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_LOW_body","source":"Lowest Trading Unit Price","translation":"Najniższa cena jednostkowa transakcji","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_MID_body","source":"Average Trading Unit Price","translation":"Średnia cena jednostkowa transakcji","status":"draft"}
+{"id":"String_UI_TRADE_MARKET_PRICE_body","source":"Market Price","translation":"Cena rynkowa","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_BTN_body","source":"Search","translation":"Szukaj","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_CANCEL_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_NO_RESULT_TEXT_body","source":"No applicable items.","translation":"Brak pasujących przedmiotów.","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_RESULT_HISTORY_body","source":"\"{0}\"","translation":"„{0}”","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_RESULT_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_TEXT_GUIDE2_body","source":"No result.","translation":"Brak wyników.","status":"draft"}
+{"id":"String_UI_TRADE_NAME_SEARCH_TEXT_GUIDE_body","source":"Enter a search keyword.","translation":"Wpisz szukaną frazę.","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOOLTIP_CONFIDENCE_STEP_body","source":"{0} Settlement Limit","translation":"Limit rozliczenia {0}","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOOLTIP_GUIDE_TEXT_body","source":"You can receive settlement money based on the max receivable amount. \nIf it exceeds the maximum limit, you won't be able to get the settlement.","translation":"Rozliczenie możesz odebrać do maksymalnej dostępnej kwoty.\nPo przekroczeniu maksymalnego limitu nie będzie można odebrać rozliczenia.","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOOLTIP_RESET_TIME_body","source":"Resets every {0}.","translation":"Reset co {0}.","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOOLTIP_TITLE_body","source":"Max Settlement Amount","translation":"Maksymalna kwota rozliczenia","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOTAL_AVAILABLE_AMOUNT_NUMBER_TOOLTIP_body","source":"Total Settlement Amount / Max Settlement Amount","translation":"Łączna kwota rozliczenia / maksymalna kwota rozliczenia","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOTAL_AVAILABLE_AMOUNT_NUMBER_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_TRADE_PAYOUT_LIMIT_TOTAL_AVAILABLE_AMOUNT_body","source":"Total Possible Settlement Amount","translation":"Łączna możliwa kwota rozliczenia","status":"draft"}
+{"id":"String_UI_TRADE_POLICY_SERVICE_STATUS_BUTTON_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_TRADE_POLICY_SERVICE_STATUS_TEXT_body","source":"Maintenance in progress.\nPlease try again later.","translation":"Trwa konserwacja.\nSpróbuj ponownie później.","status":"draft"}
+{"id":"String_UI_TRADE_POPUP_CANCEL_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_TRADE_POPUP_CONFIRM_BTN_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_TRADE_RECOMMEND_SLOT_NO_ITEM_body","source":"No items registered for sale.","translation":"Brak przedmiotów wystawionych na sprzedaż.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_LIST_ITEM_LEVEL_body","source":"Item Level {0}","translation":"Poziom przedmiotu {0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_LIST_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_LIST_body","source":"Sales List","translation":"Lista sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_NEED_REGISTER_DEVICE_BUTTON_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_TRADE_SELL_NEED_REGISTER_DEVICE_TEXT_body","source":"Device registration is necessary to register items for sale.\nPlease register your device through [Security Settings] on the title screen.","translation":"Aby wystawić przedmioty na sprzedaż, musisz zarejestrować urządzenie.\nZarejestruj urządzenie w [Ustawieniach zabezpieczeń] na ekranie tytułowym.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ALL_PRICE_MONEY_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ALL_PRICE_body","source":"Total Sale Amount","translation":"Łączna kwota sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_CANCEL_ITEM_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_CANCEL_TEXT_GUIDE_body","source":"Registration fees you paid when you made the listing will not be refunded.","translation":"Opłata za wystawienie przedmiotu nie zostanie zwrócona.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_CANCEL_TEXT_body","source":"Are you sure you wish to cancel the sale?","translation":"Czy na pewno chcesz anulować sprzedaż?","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_CANCEL_TITLE_body","source":"Cancel Sale","translation":"Anuluj sprzedaż","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_COUNT_NUMBER_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_COUNT_body","source":"List","translation":"Wystaw","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_FEE_body","source":"Registration Fee {0}%","translation":"Opłata za wystawienie: {0}%","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_ALL_SELECT_BTN_body","source":"Select All","translation":"Zaznacz wszystko","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_BTN1_body","source":"Resale","translation":"Wystaw ponownie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_BTN2_body","source":"Retrieve","translation":"Odbierz","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_BTN3_body","source":"Cancel Sale","translation":"Anuluj sprzedaż","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_FAIL_body","source":"Sale Failed","translation":"Sprzedaż nieudana","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_SALE_TIME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_WAIT_body","source":"Listing pending...","translation":"Wystawianie...","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_CONDITION_body","source":"Status","translation":"Status","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_ALL_PRICE_body","source":"Total Sale Price","translation":"Łączna cena sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_GUIDE_MSG_01_body","source":"Quantity cannot be changed when reselling.","translation":"Nie można zmienić liczby przedmiotów przy ponownym wystawianiu.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_GUIDE_MSG_02_body","source":"A fee is imposed when registering items for resale.","translation":"Ponowne wystawienie przedmiotów wiąże się z opłatą.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_ITEM_NAME_body","source":"Item","translation":"Przedmiot","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_REGISTRATION_FEE_body","source":"Total Registration Fee","translation":"Łączna opłata za wystawienie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_POPUP_TITLE_body","source":"Resale Registration","translation":"Ponowne wystawienie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_ALL_PRICE_body","source":"Total Sale Registration Price","translation":"Łączna opłata za wystawienie sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_FAIL_QUANTITY_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_FAIL_QUANTITY_body","source":"Fail","translation":"Niepowodzenie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_FAIL_body","source":"Fail","translation":"Niepowodzenie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_QUANTITY_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_QUANTITY_body","source":"Resale Quantity","translation":"Liczba wystawionych ponownie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_SUCCESS_QUANTITY_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_SUCCESS_QUANTITY_body","source":"Success","translation":"Powodzenie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_SUCCESS_body","source":"Complete","translation":"Ukończono","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_RESULT_POPUP_TITLE_body","source":"Resale Registration Result","translation":"Wynik ponownego wystawienia","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_SELECT_COLLECT_BTN_body","source":"Select and Retrieve","translation":"Wybierz i odbierz","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_SELECT_REGISTRATION_BTN_body","source":"Resale Selection","translation":"Wybór do ponownego wystawienia","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_ITEM_SELECT_body","source":"Select","translation":"Wybierz","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_NO_ITEM_TEXT_body","source":"No items currently for sale.","translation":"Brak przedmiotów wystawionych na sprzedaż.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_CANCEL_GUIDE_TEXT2_body","source":"Registration fees you paid when you made the listing will not be refunded.","translation":"Opłata za wystawienie przedmiotu nie zostanie zwrócona.","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_CANCEL_GUIDE_TEXT_body","source":"Are you sure you wish to cancel the sale?","translation":"Czy na pewno chcesz anulować sprzedaż?","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_CANCEL_TITLE_body","source":"Cancel Sale","translation":"Anuluj sprzedaż","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_GUIDE_TEXT_body","source":"Are you sure you wish to list for sale?","translation":"Czy na pewno chcesz wystawić przedmiot na sprzedaż?","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_HAVE_MONEY_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_HAVE_MONEY_body","source":"Funds","translation":"Środki","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_REGISTRATION_FEE_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_REGISTRATION_FEE_body","source":"Registration Fee","translation":"Opłata za wystawienie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_POPUP_TITLE_body","source":"List","translation":"Wystaw","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SELECT_COLLECT_TEXT_body","source":"Would you like to retrieve all selected items?","translation":"Czy chcesz odebrać wszystkie zaznaczone przedmioty?","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_ALL_PRICE_EACH_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_ALL_PRICE_EACH_body","source":"Sale Price Per Item","translation":"Cena sprzedaży za sztukę","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_ALL_PRICE_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_ALL_PRICE_body","source":"Total Sale Price","translation":"Łączna cena sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_ITEM_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_QUANTITY_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_QUANTITY_body","source":"Sale Quantity","translation":"Liczba wystawionych przedmiotów","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_REGISTRATION_FEE_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_REGISTRATION_FEE_body","source":"Registration Fee","translation":"Opłata za wystawienie","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_TARIFF_body","source":"Current Tax Rate {0}","translation":"Bieżąca stawka podatku: {0}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AMOUNT_TITLE_body","source":"Sale Quantity / Amount Settings","translation":"Ustawienia liczby i kwoty sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AVG_PRICE_RANGE_NUM_body","source":"{0}-{1}","translation":"{0}–{1}","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_SET_AVG_PRICE_RANGE_body","source":"Possible Range","translation":"Możliwy zakres","status":"draft"}
+{"id":"String_UI_TRADE_SELL_REGISTRATION_TAB_body","source":"List","translation":"Wystaw","status":"draft"}
+{"id":"String_UI_TRADE_SELL_TIME_DAY_body","source":"Sale Time","translation":"Czas sprzedaży","status":"draft"}
+{"id":"String_UI_TRADE_SERVER_MENU_LINK_TEXT_body","source":"Market","translation":"Rynek","status":"draft"}
+{"id":"String_UI_TRADE_TITLE_body","source":"Market","translation":"Rynek","status":"draft"}
+{"id":"String_UI_TRADE_WORLD_MENU_LINK_TEXT_body","source":"World Market","translation":"Rynek światowy","status":"draft"}
+{"id":"String_UI_TRANSPARENTMAP_FILTER_TITLE_body","source":"Filter","translation":"Filtr","status":"draft"}
+{"id":"String_UI_TRANSPARENTMAP_OPACITY_BAR_TITLE_MAP_body","source":"Map Opacity","translation":"Krycie mapy","status":"draft"}
+{"id":"String_UI_TRANSPARENTMAP_OPACITY_BAR_TITLE_WAY_body","source":"Path Opacity","translation":"Krycie trasy","status":"draft"}
+{"id":"String_UI_TRANSPARENTMAP_POPUP_TITLE_body","source":"Transparent Map","translation":"Mapa przezroczysta","status":"draft"}
+{"id":"String_UI_TRIAL_HUD_TITLE_POINT_body","source":"Ordeal Difficulty Lv. {0}","translation":"Poziom trudności Próby: {0}","status":"draft"}
+{"id":"String_UI_TUTORIAL_POPUP_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_TUTORIAL_POPUP_INFO_EXIT_body","source":"Would you like to stop the tutorial?\nNext time you play the tutorial, you will need to restart from the beginning.","translation":"Czy chcesz przerwać samouczek?\nPrzy następnym uruchomieniu trzeba będzie zacząć od początku.","status":"draft"}
+{"id":"String_UI_TUTORIAL_POPUP_INFO_REPLAY_body","source":"Would you like to start the tutorial from the beginning?","translation":"Czy chcesz rozpocząć samouczek od początku?","status":"draft"}
+{"id":"String_UI_TUTORIAL_POPUP_NEXT_body","source":"Next","translation":"Dalej","status":"draft"}
+{"id":"String_UI_TUTORIAL_UIGUIDE_SKIP_body","source":"Do you want to exit the guide in progress?","translation":"Czy chcesz zamknąć aktualnie wyświetlany przewodnik?","status":"draft"}
+{"id":"String_UI_UI_SERVER_TRANSFER_SELECT_BUTTON_body","source":"Select Server","translation":"Wybierz serwer","status":"draft"}
+{"id":"String_UI_UI_SERVER_TRANSFER_SERVER_LIST_SERVER_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_UI_SERVER_TRANSFER_SERVER_LIST_TITLE_body","source":"Server List","translation":"Lista serwerów","status":"draft"}
+{"id":"String_UI_UI_SERVER_TRANSFER_SERVER_LIST_WINDOW_NOTICE_body","source":"Servers that have closed transfer applications will be displayed as inactive.\nWe plan to introduce gradual adjustments based on transfer applications. Please check the announcement for details.","translation":"Serwery, na których zakończono przyjmowanie wniosków o transfer, będą nieaktywne.\nPlanujemy stopniowo wprowadzać zmiany w zależności od liczby wniosków o transfer. Szczegóły znajdziesz w ogłoszeniu.","status":"draft"}
+{"id":"String_UI_UI_SERVER_TRANSFER_TRANSFER_AVAILABLE_TEXT_body","source":"Transfer Available","translation":"Dostępny transfer","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_CAN_MAINTENANCE_MOBILE_body","source":"A new update is available.\nPress confirm to go to the app market and update.","translation":"Dostępna jest nowa aktualizacja.\nNaciśnij „Potwierdź”, aby przejść do sklepu z aplikacjami i zaktualizować grę.","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_CAN_MAINTENANCE_WINDOW_body","source":"A new update is available.\nRestart game to update.","translation":"Dostępna jest nowa aktualizacja.\nUruchom grę ponownie, aby ją zaktualizować.","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_CLOSE_2_body","source":"Ended","translation":"Zakończono","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_MOVE_2_body","source":"Go","translation":"Przejdź","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_MOVE_body","source":"Move","translation":"Przenieś","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_MUST_MAINTENANCE_MOBILE_body","source":"A new update is available.\nPress confirm to go to the app market.","translation":"Dostępna jest nowa aktualizacja.\nNaciśnij „Potwierdź”, aby przejść do sklepu z aplikacjami.","status":"draft"}
+{"id":"String_UI_UPDATE_DOWNLOAD_MUST_MAINTENANCE_WINDOW_body","source":"A new update is available.\nRestarting game.","translation":"Dostępna jest nowa aktualizacja.\nPonowne uruchamianie gry.","status":"draft"}
+{"id":"String_UI_USEREBIRTH_AUTO_REBIRTH_TIME_body","source":"Auto resurrects at the default resurrection location in {0}.","translation":"Automatyczne wskrzeszenie w domyślnym miejscu za {0}.","status":"draft"}
+{"id":"String_UI_USEREBIRTH_AUTO_REJECT_TIME_body","source":"Automatically declined after {0}.","translation":"Automatycznie odrzucono po {0}.","status":"draft"}
+{"id":"String_UI_UseRebirth_BUTTON_CANCEL_body","source":"Decline","translation":"Odrzuć","status":"draft"}
+{"id":"String_UI_UseRebirth_BUTTON_OK_body","source":"Accept","translation":"Przyjmij","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_BTN_body","source":"Bulk Analysis","translation":"Analizuj wszystkie","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_CANCEL_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_LOCK_body","source":"Locked or max-level pets are excluded.","translation":"Pominięte zostaną zablokowane Wierzchowce i Wierzchowce na maksymalnym poziomie.","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_OK_BTN_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_TEXT_body","source":"Would you like to consume your duplicate pet souls to perform bulk insight analysis?","translation":"Czy chcesz zużyć dusze zduplikowanych Wierzchowców, aby przeprowadzić analizę Wnikliwości rodzaju?","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_POPUP_WARNING_body","source":"Some pets have exceeded max EXP.","translation":"Niektóre Wierzchowce przekroczyły maksymalną liczbę PD.","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_CREAETURE_EXP_body","source":"EXP","translation":"PD","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_CREAETURE_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_CREAETURE_body","source":"Total Genus Insight Gained","translation":"Łącznie zdobyta Wnikliwość rodzaju","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_SKIP_body","source":"SKIP","translation":"POMIŃ","status":"draft"}
+{"id":"String_UI_VEHICLE_ALL_SAME_LEVELUP_RESULT_TITLE_body","source":"Bulk Analysis Results","translation":"Wyniki analizy zbiorczej","status":"draft"}
+{"id":"String_UI_VEHICLE_BUTTON_EQUIP_body","source":"Equip Mount","translation":"Załóż wierzchowca","status":"draft"}
+{"id":"String_UI_VEHICLE_BUTTON_NEW_body","source":"N","translation":"N","status":"draft"}
+{"id":"String_UI_VEHICLE_BUTTON_RIDEON_body","source":"Pets","translation":"Wierzchowce","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_DESC_body","source":"EXP gained with a Pet counts towards Insight of that Pet's respective genus.\nSpecial Pets can only gain experience points through Genus Insight Analysis.","translation":"PD zdobyte przez Wierzchowca zwiększają Wnikliwość odpowiedniego rodzaju.\nSpecjalne Wierzchowce zdobywają PD wyłącznie podczas analizy Wnikliwości rodzaju.","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_LIST_01_body","source":"Obtain a pet","translation":"Zdobądź Wierzchowca","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_LIST_02_body","source":"Reach Pet Insight Lv. {0}","translation":"Osiągnij poz. Wnikliwości Wierzchowca {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_LIST_03_body","source":"Genus Insight Analysis (per slot)","translation":"Analiza Wnikliwości rodzaju (na miejsce)","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_LIST_EXP_body","source":"{0} EXP","translation":"{0} PD","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_EXP_GUIDE_TITLE_body","source":"Source of Genus Insight EXP","translation":"Źródło PD Wnikliwości rodzaju","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_GET_OPTION_body","source":"Analyze","translation":"Analizuj","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_DESC_body","source":"Leveling up increases the chance of obtaining higher-grade properties.","translation":"Awans poziomu zwiększa szansę na uzyskanie właściwości wyższej rangi.","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_GRADE_01_body","source":"Common","translation":"Zwykła","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_GRADE_body","source":"Grade","translation":"Ranga","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_LEVEL_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_LEVEL_body","source":"Level {0}","translation":"Poziom {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_GUIDE_TITLE_body","source":"Obtainable Property Grade","translation":"Dostępna ranga właściwości","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_MAX_body","source":"Lv. {0} MAX","translation":"Poz. {0} — MAKS.","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_TITLE_body","source":"{0} Insight","translation":"Wnikliwość: {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_LOCK_body","source":"Owning at least 1 {0} Genus Mount unlocks {0} Insight.","translation":"Posiadanie co najmniej 1 wierzchowca rodzaju {0} odblokowuje Wnikliwość {0}.","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE01_body","source":"Common","translation":"Zwykła","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE02_body","source":"Rare","translation":"Rzadka","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE03_body","source":"Epic","translation":"Epicka","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE04_body","source":"Unique","translation":"Unikatowa","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE05_body","source":"Heroic","translation":"Heroiczna","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE06_body","source":"Mythic","translation":"Mityczna","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST01_body","source":"Properties","translation":"Właściwości","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST02_body","source":"Value","translation":"Wartość","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST03_body","source":"Obtain Probability","translation":"Szansa na zdobycie","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT01_body","source":"Slot 1","translation":"Miejsce 1","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT02_body","source":"Slot 2","translation":"Miejsce 2","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT03_body","source":"Slot 3","translation":"Miejsce 3","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT04_body","source":"Slot 4","translation":"Miejsce 4","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT05_body","source":"Slot 5","translation":"Miejsce 5","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT06_body","source":"Slot 6","translation":"Miejsce 6","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT07_body","source":"Slot 7","translation":"Miejsce 7","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT08_body","source":"Slot 8","translation":"Miejsce 8","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT09_body","source":"Slot 9","translation":"Miejsce 9","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_POPUP_TITLE_body","source":"{0} Genus Insight Acquirable Properties","translation":"Możliwe do zdobycia właściwości Wnikliwości rodzaju {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_OPTION_TITLE_body","source":"Analysis Effect","translation":"Efekt analizy","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_SLOT_LOCK_body","source":"Unlock Insight {0}","translation":"Odblokuj Wnikliwość {0}","status":"draft"}
+{"id":"String_UI_VEHICLE_CREAETURE_SLOT_OPEN_body","source":"Analyzable","translation":"Można analizować","status":"draft"}
+{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_START_body","source":"Auto Analysis","translation":"Automatyczna analiza","status":"draft"}
+{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_STOP_body","source":"Stop Auto Analysis","translation":"Zatrzymaj automatyczną analizę","status":"draft"}
+{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_body","source":"Auto Analysis","translation":"Automatyczna analiza","status":"draft"}
+{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_LOCKED_OPTION_LIST_body","source":"This slot is locked.","translation":"To miejsce jest zablokowane.","status":"draft"}

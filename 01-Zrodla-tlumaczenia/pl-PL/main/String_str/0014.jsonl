@@ -1,0 +1,250 @@
+{"id":"String_STR_Group_D_Challenge_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Bakron_body","source":"Vakron","translation":"Vakron","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_BlueBreathIsle_body","source":"Azure Breath Island","translation":"Wyspa Lazurowego Oddechu","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Citadel_body","source":"Citadel of the Fallen Daeva","translation":"Cytadela Poległego Daevy","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Cradle_body","source":"Cradle of Nihility","translation":"Kolebka Nicości","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Dramata_body","source":"Dramata","translation":"Dramata","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Draupnir_body","source":"Draupnir","translation":"Draupnir","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Firetemple_body","source":"Fire Temple","translation":"Świątynia Ognia","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Horn_body","source":"Horn Den","translation":"Legowisko Rogaczy","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Kraocave_body","source":"Krao","translation":"Krao","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_PhantomsHall_body","source":"Hall of Illusion","translation":"Sala Iluzji","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Rudra_body","source":"Sanctuary","translation":"Sanktuarium","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_Urugugu_body","source":"Urugugu","translation":"Urugugu","status":"draft"}
+{"id":"String_STR_Group_D_Dungeon_body","source":"Dungeon","translation":"Loch","status":"draft"}
+{"id":"String_STR_Group_D_Growth_Accomplish_body","source":"Quest","translation":"Zadanie","status":"draft"}
+{"id":"String_STR_Group_D_Growth_Complete_body","source":"Complete","translation":"Ukończone","status":"draft"}
+{"id":"String_STR_Group_D_Growth_Custom_body","source":"Custom","translation":"Własne","status":"draft"}
+{"id":"String_STR_Group_D_Growth_body","source":"Progress","translation":"Postęp","status":"draft"}
+{"id":"String_STR_Group_D_Item_Collect_body","source":"Collection","translation":"Kolekcja","status":"draft"}
+{"id":"String_STR_Group_D_Item_Craft_body","source":"Crafting","translation":"Rzemiosło","status":"draft"}
+{"id":"String_STR_Group_D_Item_Enhance_body","source":"Enhancement","translation":"Ulepszanie","status":"draft"}
+{"id":"String_STR_Group_D_Item_Gather_body","source":"Gathering","translation":"Zbieractwo","status":"draft"}
+{"id":"String_STR_Group_D_Item_Use_body","source":"Use","translation":"Użycie","status":"draft"}
+{"id":"String_STR_Group_D_Item_body","source":"Resource","translation":"Zasób","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Field_body","source":"Field","translation":"Teren","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Fieldevent_body","source":"Shugo Festival","translation":"Festiwal Shugo","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Garrison_body","source":"Stronghold","translation":"Twierdza","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Imprint_body","source":"Bind","translation":"Przypisz","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Island_body","source":"Eternal Isle","translation":"Wieczna Wyspa","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_Seal_body","source":"Sealed Dungeon","translation":"Zapieczętowany loch","status":"draft"}
+{"id":"String_STR_Group_L_Adventure_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
+{"id":"String_STR_Group_L_Challenge_Boss_body","source":"Boss","translation":"Boss","status":"draft"}
+{"id":"String_STR_Group_L_Challenge_Combat_body","source":"Combat","translation":"Walka","status":"draft"}
+{"id":"String_STR_Group_L_Challenge_Hunt_body","source":"Hunting","translation":"Polowanie","status":"draft"}
+{"id":"String_STR_Group_L_Challenge_body","source":"Challenge","translation":"Wyzwanie","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Bakron_body","source":"Vakron","translation":"Vakron","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_BlueBreathIsle_body","source":"Azure Breath Island","translation":"Wyspa Lazurowego Oddechu","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Citadel_body","source":"Citadel of the Fallen Daeva","translation":"Cytadela Poległego Daevy","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Cradle_body","source":"Cradle of Nihility","translation":"Kolebka Nicości","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Dramata_body","source":"Dramata","translation":"Dramata","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Draupnir_body","source":"Draupnir","translation":"Draupnir","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Firetemple_body","source":"Fire Temple","translation":"Świątynia Ognia","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Horn_body","source":"Horn Den","translation":"Legowisko Rogaczy","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Kraocave_body","source":"Krao","translation":"Krao","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_PhantomsHall_body","source":"Hall of Illusion","translation":"Sala Iluzji","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Rudra_body","source":"Sanctuary","translation":"Sanktuarium","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_Urugugu_body","source":"Urugugu","translation":"Urugugu","status":"draft"}
+{"id":"String_STR_Group_L_Dungeon_body","source":"Dungeon","translation":"Loch","status":"draft"}
+{"id":"String_STR_Group_L_Growth_Accomplish_body","source":"Quest","translation":"Zadanie","status":"draft"}
+{"id":"String_STR_Group_L_Growth_Complete_body","source":"Complete","translation":"Ukończone","status":"draft"}
+{"id":"String_STR_Group_L_Growth_Custom_body","source":"Custom","translation":"Własne","status":"draft"}
+{"id":"String_STR_Group_L_Growth_body","source":"Progress","translation":"Postęp","status":"draft"}
+{"id":"String_STR_Group_L_Item_Collect_body","source":"Collection","translation":"Kolekcja","status":"draft"}
+{"id":"String_STR_Group_L_Item_Craft_body","source":"Crafting","translation":"Rzemiosło","status":"draft"}
+{"id":"String_STR_Group_L_Item_Enhance_body","source":"Enhancement","translation":"Ulepszanie","status":"draft"}
+{"id":"String_STR_Group_L_Item_Gather_body","source":"Gathering","translation":"Zbieractwo","status":"draft"}
+{"id":"String_STR_Group_L_Item_Use_body","source":"Use","translation":"Użycie","status":"draft"}
+{"id":"String_STR_Group_L_Item_body","source":"Resource","translation":"Zasób","status":"draft"}
+{"id":"String_STR_Group_Season_D_Abyss_body","source":"Abyss","translation":"Otchłań","status":"draft"}
+{"id":"String_STR_Group_Season_D_Arena_body","source":"Arena","translation":"Arena","status":"draft"}
+{"id":"String_STR_Group_Season_D_Event_body","source":"Event","translation":"Wydarzenie","status":"draft"}
+{"id":"String_STR_Group_Season_D_Nightmare_body","source":"Nightmare","translation":"Koszmar","status":"draft"}
+{"id":"String_STR_Group_Season_D_PartyChallenge_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
+{"id":"String_STR_Group_Season_D_Server_body","source":"Server","translation":"Serwer","status":"draft"}
+{"id":"String_STR_Group_Season_D_Thema_body","source":"Challenge","translation":"Wyzwanie","status":"draft"}
+{"id":"String_STR_Group_Season_D_Weekly_body","source":"Weekly Mission","translation":"Misja tygodniowa","status":"draft"}
+{"id":"String_STR_Group_Season_L_Abyss_body","source":"Abyss","translation":"Otchłań","status":"draft"}
+{"id":"String_STR_Group_Season_L_Arena_body","source":"Arena","translation":"Arena","status":"draft"}
+{"id":"String_STR_Group_Season_L_Event_body","source":"Event","translation":"Wydarzenie","status":"draft"}
+{"id":"String_STR_Group_Season_L_Nightmare_body","source":"Nightmare","translation":"Koszmar","status":"draft"}
+{"id":"String_STR_Group_Season_L_PartyChallenge_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
+{"id":"String_STR_Group_Season_L_Server_body","source":"Server","translation":"Serwer","status":"draft"}
+{"id":"String_STR_Group_Season_L_Thema_body","source":"Challenge","translation":"Wyzwanie","status":"draft"}
+{"id":"String_STR_Group_Season_L_Weekly_body","source":"Weekly Mission","translation":"Misja tygodniowa","status":"draft"}
+{"id":"String_STR_Growth_Desc_FafniteBasin_body","source":"A place overrun by mutants contaminated by Fafnite, where the supplies of Shulak merchants who were mining Fafnite Gemstone still remain untouched.\nIt is likely you can recover many of these lost supplies, as well as a number of treasures held by the mutants.","translation":"Miejsce opanowane przez mutanty skażone Fafnitem, gdzie wciąż nietknięte pozostają zapasy kupców Shulak wydobywających klejnoty Fafnitu.\nMożliwe, że uda ci się odzyskać wiele zaginionych zapasów, a także skarby należące do mutantów.","status":"draft"}
+{"id":"String_STR_Growth_Desc_SilentNecropolis_body","source":"A land littered with ruined tombs and ancient relics, now overrun by wraiths and other undead.\nThough abandoned, this land untouched by time boasts buried riches and long-forgotten resources.","translation":"Kraina usiana ruinami grobowców i starożytnymi reliktami, obecnie opanowana przez widma i inne nieumarłe istoty.\nChoć opuszczona, ta nietknięta przez czas kraina skrywa bogactwa i dawno zapomniane zasoby.","status":"draft"}
+{"id":"String_STR_Growth_FafniteBasin_Village_body","source":"Abandoned Steel Hammer Post","translation":"Opuszczona placówka Stalowego Młota","status":"draft"}
+{"id":"String_STR_Growth_FafniteBasin_body","source":"Fafnite Amphitheater","translation":"Amfiteatr Fafnitu","status":"draft"}
+{"id":"String_STR_Growth_SilentNecropolis_Village_body","source":"Gravekeeper Campsite","translation":"Obozowisko strażników grobów","status":"draft"}
+{"id":"String_STR_Growth_SilentNecropolis_body","source":"Silent Graveyard","translation":"Cichy Cmentarz","status":"draft"}
+{"id":"String_STR_GuildBenefit_Shop_None_body","source":"-","translation":"-","status":"draft"}
+{"id":"String_STR_GuildBuff_DescLong_body","source":"Legion Level Passive","translation":"Pasywny efekt poziomu Legionu","status":"draft"}
+{"id":"String_STR_GuildBuff_Level_body","source":"Legion Lv. {0}","translation":"Poziom Legionu {0}","status":"draft"}
+{"id":"String_STR_GuildBuff_Type_body","source":"Passive","translation":"Pasywna","status":"draft"}
+{"id":"String_STR_GuildData_Level_body","source":"Level {0}","translation":"Poziom {0}","status":"draft"}
+{"id":"String_STR_GuildData_Stat_body","source":"{0} +{1}","translation":"{0} +{1}","status":"draft"}
+{"id":"String_STR_GuildJoinPassword_Desc_body","source":"Enter the password required to join.","translation":"Wpisz hasło wymagane do dołączenia.","status":"draft"}
+{"id":"String_STR_GuildTooltip_Desc_body","source":"Contribution is the sum amount of all Legion members' reputations.","translation":"Wkład to łączna reputacja wszystkich członków Legionu.","status":"draft"}
+{"id":"String_STR_Guild_Authority_AgitRental_body","source":"Rent Hall","translation":"Wynajmij salę","status":"draft"}
+{"id":"String_STR_Guild_Authority_ChangeEmblem_body","source":"Change Crest","translation":"Zmień herb","status":"draft"}
+{"id":"String_STR_Guild_Authority_ChangeGrade_body","source":"Appoint Rank","translation":"Nadaj rangę","status":"draft"}
+{"id":"String_STR_Guild_Authority_ChangeIntroduce_body","source":"Edit Description","translation":"Edytuj opis","status":"draft"}
+{"id":"String_STR_Guild_Authority_ChangeJoinrule_body","source":"Application Settings","translation":"Ustawienia zgłoszeń","status":"draft"}
+{"id":"String_STR_Guild_Authority_ChangeNotice_body","source":"Edit Notice","translation":"Edytuj ogłoszenie","status":"draft"}
+{"id":"String_STR_Guild_Authority_DecoSet_body","source":"Hall Decoration","translation":"Dekoracja sali","status":"draft"}
+{"id":"String_STR_Guild_Authority_JoinRequestApproval_body","source":"Approve Application","translation":"Zatwierdź zgłoszenie","status":"draft"}
+{"id":"String_STR_Guild_Authority_Kickout_body","source":"Kick Member","translation":"Usuń członka","status":"draft"}
+{"id":"String_STR_Guild_Centurion_body","source":"Elite Officer","translation":"Elitarny oficer","status":"draft"}
+{"id":"String_STR_Guild_Commander_body","source":"High Commander","translation":"Wielki Dowódca","status":"draft"}
+{"id":"String_STR_Guild_ManageApplicantList_body","source":"Applications {0}/{1}","translation":"Zgłoszenia {0}/{1}","status":"draft"}
+{"id":"String_STR_Guild_Soldier_body","source":"Soldier","translation":"Żołnierz","status":"draft"}
+{"id":"String_STR_Guild_ViceCommander_body","source":"Deputy Commander","translation":"Zastępca dowódcy","status":"draft"}
+{"id":"String_STR_HUD_DungeonMaze_0001_1_body","source":"Destroy the Giant Fafnium and defeat the boss.","translation":"Zniszcz Gigantyczne Fafnium i pokonaj bossa.","status":"draft"}
+{"id":"String_STR_HUD_DungeonRush_0001_1_body","source":"Defeat all Special monsters.","translation":"Pokonaj wszystkie specjalne potwory.","status":"draft"}
+{"id":"String_STR_HUD_DungeonWave_0001_1_body","source":"Defeat swarming enemies","translation":"Pokonaj nadciągających wrogów","status":"draft"}
+{"id":"String_STR_HUD_Dungeon_Daily_0001_1_body","source":"Destroy Unstable Odylium to obtain Odyle Orbs.","translation":"Zniszcz niestabilne Odylium, aby zdobyć kule Odyle.","status":"draft"}
+{"id":"String_STR_HUD_Dungeon_Daily_0002_1_body","source":"Collect Crobakhi's hidden coins","translation":"Zbierz ukryte monety Crobakhiego","status":"draft"}
+{"id":"String_STR_HUD_TestWaveA_1_body","source":"Defeat swarming enemies 1","translation":"Pokonaj nadciągających wrogów 1","status":"draft"}
+{"id":"String_STR_HUD_TestWaveA_2_body","source":"Defeat swarming enemies 2","translation":"Pokonaj nadciągających wrogów 2","status":"draft"}
+{"id":"String_STR_HUD_TestWaveA_3_body","source":"Defeat swarming enemies 3","translation":"Pokonaj nadciągających wrogów 3","status":"draft"}
+{"id":"String_STR_HalabanaValley_Subzone_body","source":"Halabana Canyon","translation":"Kanion Halabana","status":"draft"}
+{"id":"String_STR_HunterHideout_Subzone_body","source":"Hunter's Hideout","translation":"Kryjówka Łowcy","status":"draft"}
+{"id":"String_STR_INSTANCEDUNGEON_CLEAR_body","source":"Phase Dungeons Complete","translation":"Lochy fazowe ukończone","status":"draft"}
+{"id":"String_STR_INSTANCELAYERDUNGEON_OUT_BODY_body","source":"Leaving area of quest in progress.\nLeaving now will reset progress.\nLeave?","translation":"Opuszczasz obszar trwającego zadania.\nWyjście teraz zresetuje postępy.\nOpuścić?","status":"draft"}
+{"id":"String_STR_ITEM_ABYSSPOINTBOX_A_01_B_DESC_body","source":"A Rift Fragment created by the collision of the tower's energy.\nGrants Abyss Points that are useful in the Abyss.","translation":"Odłamek Szczeliny powstały w wyniku zderzenia energii wieży.\nPrzyznaje Punkty Otchłani przydatne w Otchłani.","status":"draft"}
+{"id":"String_STR_ITEM_ABYSSPOINTBOX_A_01_B_body","source":"Rift Fragment (Bound)","translation":"Odłamek Szczeliny (związany)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_001A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_001A_B_body","source":"Artwork: Zumion Stone Gate (Bound)","translation":"Dzieło: Kamienna Brama Zumion (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_001A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_001A_F_body","source":"Artwork: Zumion Stone Gate","translation":"Dzieło: Kamienna Brama Zumion","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_002A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_002A_B_body","source":"Artwork: High Commander Nahid's Greatsword (Bound)","translation":"Dzieło: Wielki Miecz Wielkiego Dowódcy Nahid (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_002A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_002A_F_body","source":"Artwork: High Commander Nahid's Greatsword","translation":"Dzieło: wielki miecz Wysokiego Dowódcy Nahida","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_003A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_003A_B_body","source":"Artwork: Verteron Fortress Ruins (Bound)","translation":"Dzieło: Ruiny Twierdzy Verteron (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_003A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_003A_F_body","source":"Artwork: Verteron Fortress Ruins","translation":"Dzieło: ruiny twierdzy Verteron","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_004A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_004A_B_body","source":"Artwork: Enraged Reda (Bound)","translation":"Dzieło: Rozjuszona Reda (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_004A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_004A_F_body","source":"Artwork: Enraged Reda","translation":"Dzieło: Rozjuszona Reda","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_005A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_005A_B_body","source":"Artwork: Siel (Bound)","translation":"Dzieło: Siel (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_005A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_005A_F_body","source":"Artwork: Siel","translation":"Dzieło: Siel","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_006A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_006A_B_body","source":"Artwork: Incarnated Warding Feather (Bound)","translation":"Dzieło: Wcielone Pióro Ochronne (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_006A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_006A_F_body","source":"Artwork: Incarnated Warding Feather","translation":"Dzieło: Wcielone Pióro Ochronne","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_007A_B_DESC_body","source":"A frame rewarded for achieving Master in Season 1 of Nightmare.\nPlacing it in the Pantheon grants the effect contained within the Artwork.\nThis effect is maintained until the end of Season 2.","translation":"Rama przyznawana za osiągnięcie rangi Mistrza w 1. sezonie Koszmaru.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.\nEfekt utrzymuje się do końca 2. sezonu.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_007A_B_body","source":"Artwork: Fortress Guardian Notun (Bound)","translation":"Dzieło: Strażnik Twierdzy Notun (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_007A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_007A_F_body","source":"Artwork: Fortress Guardian Notun","translation":"Dzieło: strażnik twierdzy Notun","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_008A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_008A_B_body","source":"Artwork: Asahr (Bound)","translation":"Dzieło: Asahr (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_008A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_008A_F_body","source":"Artwork: Asahr","translation":"Dzieło: Asahr","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_009A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_009A_B_body","source":"Artwork: Wind Breeze Merchants (Bound)","translation":"Dzieło: Kupcy Wietrznego Powiewu (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_009A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_009A_F_body","source":"Artwork: Wind Breeze Merchants","translation":"Dzieło: kupcy Wietrznej Bryzy","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_010A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_010A_B_body","source":"Artwork: Quai Merchants (Bound)","translation":"Dzieło: Kupcy Quai (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_010A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_010A_F_body","source":"Artwork: Quai Merchants","translation":"Dzieło: kupcy Quai","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_011A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_011A_B_body","source":"Artwork: Shulak (Bound)","translation":"Dzieło: Shulak (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_011A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_011A_F_body","source":"Artwork: Shulak","translation":"Dzieło: Shulak","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_012A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_012A_B_body","source":"Artwork: Artisan Handicrafter (Bound)","translation":"Dzieło: Rzemieślnik-rękodzielnik (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_012A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_012A_F_body","source":"Artwork: Artisan Handicrafter","translation":"Dzieło: mistrz rzemiosła","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_013A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_013A_B_body","source":"Artwork: Artisan Alchemist (Bound)","translation":"Dzieło: Rzemieślnik-alchemik (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_013A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_013A_F_body","source":"Artwork: Artisan Alchemist","translation":"Dzieło: mistrz alchemii","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_014A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_014A_B_body","source":"Artwork: Artisan Chef (Bound)","translation":"Dzieło: Rzemieślnik-kucharz (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_014A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_014A_F_body","source":"Artwork: Artisan Chef","translation":"Dzieło: mistrz kucharski","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_015A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_015A_B_body","source":"Artwork: Shugo Alchemist (Bound)","translation":"Dzieło: Alchemik Shugo (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_015A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_015A_F_body","source":"Artwork: Shugo Alchemist","translation":"Dzieło: alchemik Shugo","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_016A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_016A_B_body","source":"Artwork: Lake Guardian (Bound)","translation":"Dzieło: Strażnik Jeziora (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_016A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_016A_F_body","source":"Artwork: Lake Guardian","translation":"Dzieło: strażnik jeziora","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_017A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_017A_B_body","source":"Artwork: Resentful Daeva Wraith Boss (Bound)","translation":"Dzieło: Mściwe widmo Daevy — boss (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_017A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_017A_F_body","source":"Artwork: Resentful Daeva Wraith Boss","translation":"Dzieło: mściwy przywódca widm Daevy","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_018A_B_DESC_body","source":"A frame rewarded for achieving Grand Master in Season 1 of Nightmare.\nPlacing it in the Pantheon grants the effect contained within the Artwork.\nThis effect is maintained until the end of Season 2.","translation":"Rama przyznawana za osiągnięcie rangi Wielkiego Mistrza w 1. sezonie Koszmaru.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.\nEfekt utrzymuje się do końca 2. sezonu.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_018A_B_body","source":"Artwork: Gerod (Bound)","translation":"Dzieło: Gerod (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_018A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_018A_F_body","source":"Artwork: Gerod","translation":"Dzieło: Gerod","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_019A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_019A_B_body","source":"Artwork: Karas Mutant Heladrir (Bound)","translation":"Dzieło: Zmutowany Heladrir Karas (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_019A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_019A_F_body","source":"Artwork: Karas Mutant Heladrir","translation":"Dzieło: zmutowany Karas Heladrir","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_020A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_020A_B_body","source":"Artwork: Tyrant Tassin (Bound)","translation":"Dzieło: Tyran Tassin (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_020A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_020A_F_body","source":"Artwork: Tyrant Tassin","translation":"Dzieło: tyran Tassin","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_021A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_021A_B_body","source":"Artwork: Guardian Lord (Bound)","translation":"Dzieło: Pan Strażników (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_021A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_021A_F_body","source":"Artwork: Guardian Lord","translation":"Dzieło: Władca Strażników","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_022A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_022A_B_body","source":"Artwork: Guardian Lord (Bound)","translation":"Dzieło: Pan Strażników (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_022A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_022A_F_body","source":"Artwork: Guardian Lord","translation":"Dzieło: Władca Strażników","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_023A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_023A_B_body","source":"Artwork: Sura Priest (Bound)","translation":"Dzieło: Kapłan Sura (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_023A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_023A_F_body","source":"Artwork: Sura Priest","translation":"Dzieło: kapłan Sura","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_024A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_024A_B_body","source":"Artwork: Modified Lupyllini (Bound)","translation":"Dzieło: Zmodyfikowane Lupyllini (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_024A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_024A_F_body","source":"Artwork: Modified Lupyllini","translation":"Dzieło: zmodyfikowany Lupyllini","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_025A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_025A_B_body","source":"Artwork: Crasaur (Bound)","translation":"Dzieło: Crasaur (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_025A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_025A_F_body","source":"Artwork: Crasaur","translation":"Dzieło: Crasaur","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_026A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_026A_B_body","source":"Artwork: Soulless Destruction Archons Gladiator (Bound)","translation":"Dzieło: Bezduchowy gladiator Archontów Zniszczenia (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_026A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_026A_F_body","source":"Artwork: Soulless Destruction Archons Gladiator","translation":"Dzieło: bezduszny gladiator Archontów Zniszczenia","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_027A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_027A_B_body","source":"Artwork: Addicted Shulak Laborer (Bound)","translation":"Dzieło: Uzależniony robotnik Shulak (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_027A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_027A_F_body","source":"Artwork: Addicted Shulak Laborer","translation":"Dzieło: uzależniony robotnik Shulak","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_028A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_028A_B_body","source":"Artwork: Duduka Worker (Bound)","translation":"Dzieło: Robotnik Duduka (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_028A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_028A_F_body","source":"Artwork: Duduka Worker","translation":"Dzieło: robotnik Duduka","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_029A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_029A_B_body","source":"Artwork: Brawler Wings (Bound)","translation":"Dzieło: Skrzydła Pięściarza (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_029A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_029A_F_body","source":"Artwork: Brawler Wings","translation":"Dzieło: skrzydła zapaśnika","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_030A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_030A_B_body","source":"Artwork: Artisan Chef (Bound)","translation":"Dzieło: Rzemieślnik-kucharz (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_030A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_030A_F_body","source":"Artwork: Artisan Chef","translation":"Dzieło: mistrz kucharski","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_031A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_031A_B_body","source":"Artwork: Artisan Armorsmith (Bound)","translation":"Dzieło: Rzemieślnik-płatnerz (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_031A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_031A_F_body","source":"Artwork: Artisan Armorsmith","translation":"Dzieło: mistrz płatnerstwa","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_032A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_032A_B_body","source":"Artwork: Artisan Armorsmith (Bound)","translation":"Dzieło: Rzemieślnik-płatnerz (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_032A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_032A_F_body","source":"Artwork: Artisan Armorsmith","translation":"Dzieło: mistrz płatnerstwa","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_033A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_033A_B_body","source":"Artwork: Moslan Forest (Bound)","translation":"Dzieło: Las Moslan (związane)","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_033A_F_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_033A_F_body","source":"Artwork: Moslan Forest","translation":"Dzieło: Las Moslan","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_034A_B_DESC_body","source":"A beautiful frame capturing a variety of scenes.\nPlacing it in the Pantheon grants the effect contained within the Artwork.","translation":"Piękna rama przedstawiająca różne sceny.\nUmieszczenie jej w Panteonie zapewnia efekt związany z dziełem.","status":"draft"}
+{"id":"String_STR_ITEM_AGITDECO_FRAME_034A_B_body","source":"Artwork: Dredgion Warship (Bound)","translation":"Dzieło: Okręt wojenny Dredgionu (związane)","status":"draft"}

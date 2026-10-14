@@ -1,0 +1,250 @@
+{"id":"SkillAbnormalString_SkillAbnormalString_10013001_desc_name","source":"Light of Regeneration","translation":"Światło regeneracji","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013001_desc_summary","source":"Heal over Time","translation":"Leczenie w czasie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100130_desc_effect","source":"-<desc_point>{abe:1001301:value02:divide100}%</> Damage Taken\n+<desc_point>{abe:1001302:value02}</> Parry","translation":"-<desc_point>{abe:1001301:value02:divide100}%</> Otrzymywane obrażenia\n+<desc_point>{abe:1001302:value02}</> Parowanie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100130_desc_name","source":"Damage Taken reduction, Parry increase","translation":"Zmniejszenie otrzymywanych obrażeń, zwiększenie parowania","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100130_desc_summary","source":"Reduces Damage Taken and increases Parry","translation":"Zmniejsza otrzymywane obrażenia i zwiększa parowanie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013901_desc_effect","source":"Reduces Move Speed and Combat Speed","translation":"Zmniejsza szybkość ruchu i walki","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013901_desc_name","source":"Snare","translation":"Unieruchomienie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013901_desc_summary","source":"Reduces Move Speed and Combat Speed","translation":"Zmniejsza szybkość ruchu i walki","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013_desc_effect","source":"+<desc_point>{abe:100131:value02:divide100}%</> Damage Tolerance","translation":"+<desc_point>{abe:100131:value02:divide100}%</> Odporność na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013_desc_name","source":"Tempered Soul","translation":"Hartowana dusza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10013_desc_summary","source":"Increases Damage Tolerance for a fixed duration after resurrection","translation":"Po wskrzeszeniu na określony czas zwiększa odporność na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100140_desc_effect","source":"Resets Vengeful Smite cooldown on Perfect Block","translation":"Resetuje czas odnowienia Mściwego ciosu po doskonałej blokadzie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100140_desc_name","source":"Vengeful Smite [Accelerated]","translation":"Mściwy cios [przyspieszony]","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100140_desc_summary","source":"Resets Vengeful Smite Cooldown","translation":"Resetuje czas odnowienia Mściwego ciosu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10014_desc_effect","source":"+<desc_point>{abe:100141:value02:divide100}%</> Abyss Point Gain","translation":"+<desc_point>{abe:100141:value02:divide100}%</> Zdobywane Punkty Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10014_desc_name","source":"Spacetime Guardian Level 1","translation":"Strażnik Szczeliny Czasoprzestrzennej — poziom 1","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10014_desc_summary","source":"Increases Abyss Points gained","translation":"Zwiększa liczbę zdobywanych Punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10015_desc_effect","source":"+<desc_point>{abe:100151:value02:divide100}%</> Abyss Point Gain","translation":"+<desc_point>{abe:100151:value02:divide100}%</> Zdobywane Punkty Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10015_desc_name","source":"Spacetime Disruptor Level 1","translation":"Zakłócacz Szczeliny Czasoprzestrzennej — poziom 1","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10015_desc_summary","source":"Increases Abyss Points gained","translation":"Zwiększa liczbę zdobywanych Punktów Otchłani","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10016_desc_effect","source":"Limit for Abyss Points has been reached.\nCannot acquire additional Abyss Points through Spacetime Rifts.","translation":"Osiągnięto limit Punktów Otchłani.\nNie można zdobyć kolejnych Punktów Otchłani przez Szczeliny Czasoprzestrzenne.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10016_desc_name","source":"Spacetime Guardian Level 2","translation":"Strażnik Szczeliny Czasoprzestrzennej — poziom 2","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10016_desc_summary","source":"Abyss Points can be acquired through Spacetime Rift","translation":"Punkty Otchłani można zdobywać przez Szczelinę Czasoprzestrzenną","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10017_desc_effect","source":"Limit for Abyss Points has been reached.\nCannot acquire additional Abyss Points through Spacetime Rifts.","translation":"Osiągnięto limit Punktów Otchłani.\nNie można zdobyć kolejnych Punktów Otchłani przez Szczeliny Czasoprzestrzenne.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10017_desc_name","source":"Spacetime Disruptor Level 2","translation":"Zakłócacz Szczeliny Czasoprzestrzennej — poziom 2","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10017_desc_summary","source":"Abyss Points can be acquired through Spacetime Rift","translation":"Punkty Otchłani można zdobywać przez Szczelinę Czasoprzestrzenną","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10019_desc_effect","source":"5% PvP Damage Boost\n5% PvP Damage Tolerance","translation":"5% premii do obrażeń PvP\n5% odporności na obrażenia PvP","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10019_desc_name","source":"Sprout Daeva Buff","translation":"Premia kiełkującej Daevy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10019_desc_summary","source":"Increases PvP Damage Boost and PvP Damage Tolerance","translation":"Zwiększa premię do obrażeń PvP i odporność na obrażenia PvP","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1001_desc_effect","source":"Shield Block Successful","translation":"Udana blokada tarczą","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1001_desc_name","source":"Shield Block Status","translation":"Stan blokady tarczą","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1001_desc_summary","source":"Shield Block","translation":"Blokada tarczą","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200001_desc_effect","source":"Status Effect Immunity","translation":"Odporność na efekty statusu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200001_desc_name","source":"Tenacity","translation":"Niezłomność","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200001_desc_summary","source":"Status Effect Immunity","translation":"Odporność na efekty statusu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200101_desc_effect","source":"Status Effect Immunity\n+<desc_point>{abe:1002001014:value02:divide100}%</> PvE Damage Tolerance\n+<desc_point>{abe:1002001015:value02:divide100}%</> PvP Damage Tolerance","translation":"Odporność na efekty statusu\n+<desc_point>{abe:1002001014:value02:divide100}%</> Odporność na obrażenia PvE\n+<desc_point>{abe:1002001015:value02:divide100}%</> Odporność na obrażenia PvP","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200101_desc_name","source":"Tenacity","translation":"Niezłomność","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100200101_desc_summary","source":"Grants Status Effect Immunity, increases PvE Damage Tolerance and PvP Damage Tolerance","translation":"Zapewnia odporność na efekty statusu oraz zwiększa odporność na obrażenia PvE i PvP","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10021_desc_effect","source":"Damage taken by Team Blue greatly reduced.","translation":"Otrzymywane obrażenia drużyny niebieskiej są znacznie zmniejszone.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10021_desc_name","source":"Team Blue Resurrection Base","translation":"Punkt odrodzenia drużyny niebieskiej","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10021_desc_summary","source":"Damage taken by Team Blue greatly reduced.","translation":"Otrzymywane obrażenia drużyny niebieskiej są znacznie zmniejszone.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10022_desc_effect","source":"Damage taken by Team Red greatly reduced.","translation":"Otrzymywane obrażenia drużyny czerwonej są znacznie zmniejszone.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10022_desc_name","source":"Team Red Resurrection Base","translation":"Punkt odrodzenia drużyny czerwonej","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_10022_desc_summary","source":"Damage taken by Team Red greatly reduced.","translation":"Otrzymywane obrażenia drużyny czerwonej są znacznie zmniejszone.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1002_desc_effect","source":"HP does not drop below 1.","translation":"PŻ nie spada poniżej 1.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1002_desc_name","source":"HP Preservation","translation":"Ochrona PŻ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1002_desc_summary","source":"Preserves HP","translation":"Chroni PŻ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100300001_desc_effect","source":"Invincibility effects cannot be stacked","translation":"Efekty nieśmiertelności nie kumulują się","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100300001_desc_name","source":"Invincibility Stacking Blocked","translation":"Kumulowanie nieśmiertelności zablokowane","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100300001_desc_summary","source":"Invincibility effects cannot be stacked","translation":"Efekty nieśmiertelności nie kumulują się","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003901_desc_effect","source":"Increases spirit summon skill damage","translation":"Zwiększa obrażenia umiejętności przywołanego ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003901_desc_name","source":"Spirit Summon Skill Damage Increase","translation":"Zwiększenie obrażeń umiejętności przywołanego ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003901_desc_summary","source":"Increases spirit summon skill damage","translation":"Zwiększa obrażenia umiejętności przywołanego ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003_desc_effect","source":"Guaranteed Critical 3 times when hit","translation":"Gwarantowany cios krytyczny przy trafieniu (3 razy)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003_desc_name","source":"For Testing_ForceCriticalDamageByCaste (3 Times)","translation":"Test: wymuszenie obrażeń krytycznych według rzucającego (3 razy)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1003_desc_summary","source":"For Testing_ForceCriticalDamageByCaste (3 Times)","translation":"Test: wymuszenie obrażeń krytycznych według rzucającego (3 razy)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004901_desc_effect","source":"Increases Jointstrike damage","translation":"Zwiększa obrażenia wspólnego ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004901_desc_name","source":"Jointstrike Damage Increase","translation":"Zwiększenie obrażeń wspólnego ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004901_desc_summary","source":"Increases Jointstrike damage","translation":"Zwiększa obrażenia wspólnego ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004_desc_effect","source":"Guaranteed Critical once when hit","translation":"Gwarantowany cios krytyczny przy trafieniu (1 raz)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004_desc_name","source":"For Testing_ForceCriticalDamageByCaste (1 Time)","translation":"Test: wymuszenie obrażeń krytycznych według rzucającego (1 raz)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1004_desc_summary","source":"For Testing_ForceCriticalDamageByCaste (1 Time)","translation":"Test: wymuszenie obrażeń krytycznych według rzucającego (1 raz)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005001_desc_name","source":"Earth Chain","translation":"Łańcuch ziemi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005001_desc_summary","source":"Deals Damage over Time and reduces Move Speed","translation":"Zadaje obrażenia w czasie i zmniejsza szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005301_desc_name","source":"Earth Chain","translation":"Łańcuch ziemi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005301_desc_summary","source":"Deals Damage over Time and reduces Move Speed","translation":"Zadaje obrażenia w czasie i zmniejsza szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005_desc_name","source":"For Testing StanceEvade","translation":"Test: unik w postawie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1005_desc_summary","source":"For Testing StanceEvade","translation":"Test: unik w postawie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006001_desc_effect","source":"Reduces Attack Speed","translation":"Zmniejsza szybkość ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006001_desc_name","source":"Lethargy","translation":"Ospałość","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006001_desc_summary","source":"Reduces Attack Speed","translation":"Zmniejsza szybkość ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006301_desc_effect","source":"Reduces Attack Speed","translation":"Zmniejsza szybkość ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006301_desc_name","source":"Lethargy","translation":"Ospałość","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006301_desc_summary","source":"Reduces Attack Speed","translation":"Zmniejsza szybkość ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006_desc_name","source":"Evasive","translation":"Unik","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1006_desc_summary","source":"Evasion","translation":"Unik","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1007101_desc_effect","source":"Fear\nMagic Damage Tolerance reduction","translation":"Strach\nZmniejszenie odporności na obrażenia magiczne","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1007101_desc_name","source":"Soul's Cry","translation":"Krzyk duszy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1007101_desc_summary","source":"Reduces Fear Status and Magic Damage Tolerance","translation":"Zmniejsza efekt strachu i odporność na obrażenia magiczne","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1007_desc_name","source":"Evasive","translation":"Unik","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1007_desc_summary","source":"Evasion","translation":"Unik","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1008_desc_name","source":"Doppelganger Skill","translation":"Umiejętność sobowtóra","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1008_desc_summary","source":"Doppelganger Skill","translation":"Umiejętność sobowtóra","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009001_desc_name","source":"Magic Backflow","translation":"Magiczny odpływ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009001_desc_summary","source":"Deals Damage over Time","translation":"Zadaje obrażenia w czasie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009201_desc_name","source":"Magic Backflow","translation":"Magiczny odpływ","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009201_desc_summary","source":"Deals Damage over Time and increases MP Cost","translation":"Zadaje obrażenia w czasie i zwiększa koszt PM","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009_desc_effect","source":"For Testing DamageMultiply (10x damage on BackAttack)","translation":"Test: mnożnik obrażeń (10x obrażeń przy ataku w plecy)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009_desc_name","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1009_desc_summary","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100_desc_effect","source":"Stun Status","translation":"Stan ogłuszenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100_desc_name","source":"Stun","translation":"Ogłuszenie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_100_desc_summary","source":"Stun","translation":"Ogłuszenie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1010_desc_name","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1010_desc_summary","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1011_desc_name","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1011_desc_summary","source":"For Testing DamageMultiply","translation":"Test: mnożnik obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1012_desc_effect","source":"+1 Physical Attack","translation":"+1 do ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1012_desc_name","source":"FXFor Testing Physical Attack increase Replace","translation":"Efekt testowy: zastąpienie zwiększenia ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1012_desc_summary","source":"FXFor Testing Physical Attack increase Replace","translation":"Efekt testowy: zastąpienie zwiększenia ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1013_desc_effect","source":"+1 Physical Attack","translation":"+1 do ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1013_desc_name","source":"FXFor Testing Physical Attack increase Stack","translation":"Efekt testowy: kumulowanie zwiększenia ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1013_desc_summary","source":"FXFor Testing Physical Attack increase Stack","translation":"Efekt testowy: kumulowanie zwiększenia ataku fizycznego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1014_desc_effect","source":"38 Wind Magic Damage every 2 seconds","translation":"38 obrażeń od magii wiatru co 2 sekundy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1014_desc_name","source":"For Testing Dot_Dmg","translation":"Test: obrażenia okresowe","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1014_desc_summary","source":"For Testing Dot_Dmg","translation":"Test: obrażenia okresowe","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015411_desc_effect","source":"Increases Enmity","translation":"Zwiększa poziom wrogości","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015411_desc_name","source":"Enmity Increase","translation":"Zwiększenie poziomu wrogości","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015411_desc_summary","source":"Increases Enmity","translation":"Zwiększa poziom wrogości","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015_desc_effect","source":"38 Wind Magic Damage every 2 seconds","translation":"38 obrażeń od magii wiatru co 2 sekundy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015_desc_name","source":"For Testing_Dot_TargetHP","translation":"Test: obrażenia okresowe zależne od PŻ celu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1015_desc_summary","source":"For Testing_Dot_TargetHP","translation":"Test: obrażenia okresowe zależne od PŻ celu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016111_desc_effect","source":"Increases Fire Defense","translation":"Zwiększa obronę przed ogniem","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016111_desc_name","source":"Spirit Protection: Fire Spirit","translation":"Ochrona ducha: duch ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016111_desc_summary","source":"Resists skill attacks once and increases Fire Tolerance","translation":"Jednokrotnie odpiera atak umiejętnością i zwiększa odporność na ogień","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016211_desc_effect","source":"Increases Water Defense","translation":"Zwiększa obronę przed wodą","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016211_desc_name","source":"Spirit Protection: Water Spirit","translation":"Ochrona ducha: duch wody","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016211_desc_summary","source":"Resists skill attacks once and increases Water Tolerance","translation":"Jednokrotnie odpiera atak umiejętnością i zwiększa odporność na wodę","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016311_desc_effect","source":"Wind Defense increase","translation":"Zwiększenie obrony przed wiatrem","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016311_desc_name","source":"Spirit Protection: Wind Spirit","translation":"Ochrona ducha: duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016311_desc_summary","source":"Resists skill attacks once and increases Wind Tolerance","translation":"Jednokrotnie odpiera atak umiejętnością i zwiększa odporność na wiatr","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016411_desc_effect","source":"Increases Earth Defense","translation":"Zwiększa obronę przed ziemią","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016411_desc_name","source":"Spirit Protection: Earth Spirit","translation":"Ochrona ducha: duch ziemi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016411_desc_summary","source":"Resists skill attacks once and increases Earth Tolerance","translation":"Jednokrotnie odpiera atak umiejętnością i zwiększa odporność na ziemię","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016511_desc_effect","source":"Increases Earth Defense","translation":"Zwiększa obronę przed ziemią","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016511_desc_name","source":"Spirit Protection: Ancient Spirit","translation":"Ochrona ducha: duch pradawny","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016511_desc_summary","source":"Resists skill attacks once and increases all Element Tolerance","translation":"Jednokrotnie odpiera atak umiejętnością i zwiększa odporność na wszystkie żywioły","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016_desc_effect","source":"38 Wind Magic Damage every 2 seconds","translation":"38 obrażeń od magii wiatru co 2 sekundy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016_desc_name","source":"For Testing_Dot_TargetMaxHP","translation":"Test: obrażenia okresowe zależne od maksymalnego PŻ celu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1016_desc_summary","source":"For Testing_Dot_TargetMaxHP","translation":"Test: obrażenia okresowe zależne od maksymalnego PŻ celu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017101_desc_effect","source":"Increases Move Speed","translation":"Zwiększa szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017101_desc_name","source":"Spirit Sacrifice","translation":"Ofiara ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017101_desc_summary","source":"Increases Move Speed","translation":"Zwiększa szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017201_desc_effect","source":"Move Speed increase\nPhysical Defense increase\nMagic Defense increase","translation":"Zwiększenie szybkości ruchu\nZwiększenie obrony fizycznej\nZwiększenie obrony magicznej","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017201_desc_name","source":"Spirit Sacrifice","translation":"Ofiara ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017201_desc_summary","source":"Increases Move Speed and Defense","translation":"Zwiększa szybkość ruchu i obronę","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017301_desc_effect","source":"Move Speed increase\nImpact-type Resist increase","translation":"Zwiększenie szybkości ruchu\nZwiększenie odporności na efekty uderzeniowe","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017301_desc_name","source":"Spirit Sacrifice","translation":"Ofiara ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017301_desc_summary","source":"Increases Move Speed and Impact-type Status Effect Resist","translation":"Zwiększa szybkość ruchu i odporność na efekty statusu typu uderzeniowego","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017_desc_name","source":"For Testing_Dot_DPot","translation":"Test: obrażenia okresowe i moc","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1017_desc_summary","source":"For Testing_Dot_DPot","translation":"Test: obrażenia okresowe i moc","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018001_desc_effect","source":"Attack Speed increase\nSpell Speed increase\nAttack increase","translation":"Zwiększenie szybkości ataku\nZwiększenie szybkości rzucania zaklęć\nZwiększenie ataku","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018001_desc_name","source":"Spirit Momentum","translation":"Pęd ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018001_desc_summary","source":"Increases Attack Speed, Spell Speed, and Attack","translation":"Zwiększa szybkość ataku, szybkość rzucania zaklęć i atak","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018101_desc_effect","source":"Attack Speed increase\nSpell Speed increase\nAttack increase\nMP Cost reduction","translation":"Zwiększenie szybkości ataku\nZwiększenie szybkości rzucania zaklęć\nZwiększenie ataku\nZmniejszenie kosztu PM","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018101_desc_name","source":"Spirit Momentum","translation":"Pęd ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018101_desc_summary","source":"Increases Attack Speed, Spell Speed, and Attack and reduces MP Cost","translation":"Zwiększa szybkość ataku, szybkość rzucania zaklęć i atak oraz zmniejsza koszt PM","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018201_desc_effect","source":"Attack Speed increase\nSpell Speed increase\nAttack increase\nMP Cost reduction\nDamage Boost","translation":"Zwiększenie szybkości ataku\nZwiększenie szybkości rzucania zaklęć\nZwiększenie ataku\nZmniejszenie kosztu PM\nPremia do obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018201_desc_name","source":"Spirit Momentum","translation":"Pęd ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018201_desc_summary","source":"Increases Attack Speed, Spell Speed, and Attack, and reduces MP Cost, and Damage Boost","translation":"Zwiększa szybkość ataku, szybkość rzucania zaklęć i atak, a także zmniejsza koszt PM i premię do obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018301_desc_effect","source":"Attack Speed increase\nSpell Speed increase\nAttack increase\nMP Cost reduction\nCritical Hit increase","translation":"Zwiększenie szybkości ataku\nZwiększenie szybkości rzucania zaklęć\nZwiększenie ataku\nZmniejszenie kosztu PM\nZwiększenie szansy na cios krytyczny","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018301_desc_name","source":"Spirit Momentum","translation":"Pęd ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018301_desc_summary","source":"Increases Attack Speed, Spell Speed, Attack, and Critical Hit and reduces MP Cost","translation":"Zwiększa szybkość ataku, szybkość rzucania zaklęć, atak i szansę na cios krytyczny oraz zmniejsza koszt PM","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018_desc_name","source":"For Testing_Dot_DPot_Ratio","translation":"Test: współczynnik mocy obrażeń okresowych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1018_desc_summary","source":"For Testing_Dot_DPot_Ratio","translation":"Test: współczynnik mocy obrażeń okresowych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019001_desc_effect","source":"Defense increase\nHP Regen every 1s","translation":"Zwiększenie obrony\nRegeneracja PŻ co 1 s","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019001_desc_name","source":"Spirit Armor","translation":"Pancerz ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019001_desc_summary","source":"Increases Defense, Heal over Time","translation":"Zwiększa obronę i zapewnia leczenie w czasie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019101_desc_effect","source":"Defense increase\nHP Regen every 1s","translation":"Zwiększenie obrony\nRegeneracja PŻ co 1 s","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019101_desc_name","source":"Spirit Armor","translation":"Pancerz ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019101_desc_summary","source":"Increases Defense, Heal over Time","translation":"Zwiększa obronę i zapewnia leczenie w czasie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019201_desc_effect","source":"Defense increase\nHP Regen every 1s","translation":"Zwiększenie obrony\nRegeneracja PŻ co 1 s","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019201_desc_name","source":"Spirit Armor","translation":"Pancerz ducha","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019201_desc_summary","source":"Increases Defense, Heal over Time","translation":"Zwiększa obronę i zapewnia leczenie w czasie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019_desc_name","source":"For Testing_Dot_DPot_Item","translation":"Test: przedmiot obrażeń okresowych i mocy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1019_desc_summary","source":"For Testing_Dot_DPot_Item","translation":"Test: przedmiot obrażeń okresowych i mocy","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_101_desc_name","source":"Trigger Activation","translation":"Aktywacja wyzwalacza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_101_desc_summary","source":"Attacking fires the projectile.","translation":"Atak wystrzeliwuje pocisk.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1020001_desc_effect","source":"Unused","translation":"Nieużywane","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1020001_desc_name","source":"Defiance","translation":"Opór","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1020_desc_name","source":"For Testing_Dot_DPotRatio_Item","translation":"Test: przedmiot współczynnika obrażeń okresowych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1020_desc_summary","source":"For Testing_Dot_DPotRatio_Item","translation":"Test: przedmiot współczynnika obrażeń okresowych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1021_desc_name","source":"For Testing_target_abnormal_type_AbnormalId","translation":"Test: typ anomalii celu — identyfikator anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1021_desc_summary","source":"For Testing_target_abnormal_type_AbnormalId","translation":"Test: typ anomalii celu — identyfikator anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1022_desc_name","source":"For Testing_target_abnormal_type_AbnormalGroupId","translation":"Test: typ anomalii celu — identyfikator grupy anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1022_desc_summary","source":"For Testing_target_abnormal_type_AbnormalGroupId","translation":"Test: typ anomalii celu — identyfikator grupy anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1023_desc_name","source":"For Testing_target_abnormal_type_AbnormalEffectType","translation":"Test: typ anomalii celu — rodzaj efektu anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1023_desc_summary","source":"For Testing_target_abnormal_type_AbnormalEffectType","translation":"Test: typ anomalii celu — rodzaj efektu anomalii","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1024_desc_name","source":"For Testing_need_condition_HasAbnormalId_TRUE","translation":"Test: warunek HasAbnormalId celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1024_desc_summary","source":"For Testing_need_condition_HasAbnormalId_TRUE","translation":"Test: warunek HasAbnormalId celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1025_desc_name","source":"For Testing_need_condition_HasAbnormalId_FALSE","translation":"Test: warunek HasAbnormalId celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1025_desc_summary","source":"For Testing_need_condition_HasAbnormalId_FALSE","translation":"Test: warunek HasAbnormalId celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1026_desc_name","source":"For Testing_need_condition_HasAbnormalGroupId_TRUE","translation":"Test: warunek HasAbnormalGroupId celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1026_desc_summary","source":"For Testing_need_condition_HasAbnormalGroupId_TRUE","translation":"Test: warunek HasAbnormalGroupId celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1027_desc_name","source":"For Testing_need_condition_HasAbnormalGroupId_FALSE","translation":"Test: warunek HasAbnormalGroupId celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1027_desc_summary","source":"For Testing_need_condition_HasAbnormalGroupId_FALSE","translation":"Test: warunek HasAbnormalGroupId celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1028_desc_name","source":"For Testing_need_condition_HasAbnormalEffectType_TRUE","translation":"Test: warunek HasAbnormalEffectType celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1028_desc_summary","source":"For Testing_need_condition_HasAbnormalEffectType_TRUE","translation":"Test: warunek HasAbnormalEffectType celu = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1029_desc_name","source":"For Testing_need_condition_HasAbnormalEffectType_FALSE","translation":"Test: warunek HasAbnormalEffectType celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1029_desc_summary","source":"For Testing_need_condition_HasAbnormalEffectType_FALSE","translation":"Test: warunek HasAbnormalEffectType celu = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_102_desc_effect","source":"Pushback","translation":"Odepchnięcie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_102_desc_name","source":"Knockback","translation":"Odrzucenie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_102_desc_summary","source":"Knock Back","translation":"Odrzucenie","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1030_desc_name","source":"For Testing_need_condition_MaxHPRatio_Lower_TRUE","translation":"Test: warunek MaxHPRatio_Lower = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1030_desc_summary","source":"For Testing_need_condition_MaxHPRatio_Lower_TRUE","translation":"Test: warunek MaxHPRatio_Lower = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1031_desc_name","source":"For Testing_need_condition_MaxHPRatio_Lower_FALSE","translation":"Test: warunek MaxHPRatio_Lower = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1031_desc_summary","source":"For Testing_need_condition_MaxHPRatio_Lower_FALSE","translation":"Test: warunek MaxHPRatio_Lower = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1032_desc_name","source":"For Testing_need_condition_MaxHPRatio_Upper_TRUE","translation":"Test: warunek MaxHPRatio_Upper = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1032_desc_summary","source":"For Testing_need_condition_MaxHPRatio_Upper_TRUE","translation":"Test: warunek MaxHPRatio_Upper = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1033_desc_name","source":"For Testing_need_condition_MaxHPRatio_Upper_FALSE","translation":"Test: warunek MaxHPRatio_Upper = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1033_desc_summary","source":"For Testing_need_condition_MaxHPRatio_Upper_FALSE","translation":"Test: warunek MaxHPRatio_Upper = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1034_desc_name","source":"For Testing_need_condition_MaxMPRatio_Lower_TRUE","translation":"Test: warunek MaxMPRatio_Lower = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1034_desc_summary","source":"For Testing_need_condition_MaxMPRatio_Lower_TRUE","translation":"Test: warunek MaxMPRatio_Lower = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1035_desc_name","source":"For Testing_need_condition_MaxMPRatio_Lower_FALSE","translation":"Test: warunek MaxMPRatio_Lower = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1035_desc_summary","source":"For Testing_need_condition_MaxMPRatio_Lower_FALSE","translation":"Test: warunek MaxMPRatio_Lower = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036111_desc_effect","source":"Fire Defense increase\nDamage Tolerance increase","translation":"Zwiększenie obrony przed ogniem\nZwiększenie odporności na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036111_desc_name","source":"Spirit Protection: Fire Spirit","translation":"Ochrona ducha: duch ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036111_desc_summary","source":"Resists skill attacks once and increases Fire Tolerance and Move Speed","translation":"Jednokrotnie odpiera atak umiejętnością oraz zwiększa odporność na ogień i szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036211_desc_effect","source":"Water Defense increase\nDamage Tolerance increase","translation":"Zwiększenie obrony przed wodą\nZwiększenie odporności na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036211_desc_name","source":"Spirit Protection: Water Spirit","translation":"Ochrona ducha: duch wody","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036211_desc_summary","source":"Resists skill attacks once and increases Water Tolerance and Move Speed","translation":"Jednokrotnie odpiera atak umiejętnością oraz zwiększa odporność na wodę i szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036311_desc_effect","source":"Wind Defense increase\nDamage Tolerance increase","translation":"Zwiększenie obrony przed wiatrem\nZwiększenie odporności na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036311_desc_name","source":"Spirit Protection: Wind Spirit","translation":"Ochrona ducha: duch wiatru","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036311_desc_summary","source":"Resists skill attacks once and increases Wind Tolerance and Move Speed","translation":"Jednokrotnie odpiera atak umiejętnością oraz zwiększa odporność na wiatr i szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036411_desc_effect","source":"Earth Defense increase\nDamage Tolerance increase","translation":"Zwiększenie obrony przed ziemią\nZwiększenie odporności na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036411_desc_name","source":"Spirit Protection: Earth Spirit","translation":"Ochrona ducha: duch ziemi","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036411_desc_summary","source":"Resists skill attacks once and increases Earth Tolerance and Move Speed","translation":"Jednokrotnie odpiera atak umiejętnością oraz zwiększa odporność na ziemię i szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036511_desc_effect","source":"All Element Defense increase\nDamage Tolerance increase","translation":"Zwiększenie obrony przed wszystkimi żywiołami\nZwiększenie odporności na obrażenia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036511_desc_name","source":"Spirit Protection: Ancient Spirit","translation":"Ochrona ducha: duch pradawny","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036511_desc_summary","source":"Resists skill attacks once and increases all Element Tolerance and Move Speed","translation":"Jednokrotnie odpiera atak umiejętnością oraz zwiększa odporność na wszystkie żywioły i szybkość ruchu","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036_desc_name","source":"For Testing_need_condition_MaxMPRatio_Upper_TRUE","translation":"Test: warunek MaxMPRatio_Upper = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1036_desc_summary","source":"For Testing_need_condition_MaxMPRatio_Upper_TRUE","translation":"Test: warunek MaxMPRatio_Upper = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1037_desc_name","source":"For Testing_need_condition_MaxMPRatio_Upper_FALSE","translation":"Test: warunek MaxMPRatio_Upper = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1037_desc_summary","source":"For Testing_need_condition_MaxMPRatio_Upper_FALSE","translation":"Test: warunek MaxMPRatio_Upper = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1038_desc_name","source":"For Testing_need_condition_Combat_TRUE","translation":"Test: warunek Combat = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1038_desc_summary","source":"For Testing_need_condition_Combat_TRUE","translation":"Test: warunek Combat = prawda","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1039_desc_name","source":"For Testing_need_condition_Combat_FALSE","translation":"Test: warunek Combat = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1039_desc_summary","source":"For Testing_need_condition_Combat_FALSE","translation":"Test: warunek Combat = fałsz","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_103_desc_effect","source":"Stun for stack testing","translation":"Ogłuszenie do testowania kumulacji","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_103_desc_name","source":"Stun for stack testing (no level) / Separate","translation":"Ogłuszenie do testowania kumulacji (bez poziomu) / osobne","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_103_desc_summary","source":"Stun for stack testing (no level) / Separate","translation":"Ogłuszenie do testowania kumulacji (bez poziomu) / osobne","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1040_desc_name","source":"Trigger Activation","translation":"Aktywacja wyzwalacza","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1040_desc_summary","source":"Attacking fires the projectile.","translation":"Atak wystrzeliwuje pocisk.","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1041_desc_name","source":"For Testing TriggerSkillByGetAbnormal (self)","translation":"Test: TriggerSkillByGetAbnormal (własny efekt)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1041_desc_summary","source":"For Testing TriggerSkillByGetAbnormal (self)","translation":"Test: TriggerSkillByGetAbnormal (własny efekt)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1043_desc_name","source":"For Testing TriggerSkillByAddAbnormal (self)","translation":"Test: TriggerSkillByAddAbnormal (własny efekt)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1043_desc_summary","source":"For Testing TriggerSkillByAddAbnormal (self)","translation":"Test: TriggerSkillByAddAbnormal (własny efekt)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1045_desc_name","source":"For Testing TriggerSkillByKill (self)","translation":"Test: TriggerSkillByKill (własne zabójstwo)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1045_desc_summary","source":"For Testing TriggerSkillByKill (self)","translation":"Test: TriggerSkillByKill (własne zabójstwo)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1046_desc_name","source":"For Testing TriggerSkillByKill (target)","translation":"Test: TriggerSkillByKill (zabójstwo celu)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1046_desc_summary","source":"For Testing TriggerSkillByKill (target)","translation":"Test: TriggerSkillByKill (zabójstwo celu)","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1047_desc_effect","source":"For Testing_ForceMissDamage","translation":"Test: wymuszenie chybienia obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1047_desc_name","source":"For Testing_ForceMissDamage","translation":"Test: wymuszenie chybienia obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1047_desc_summary","source":"For Testing_ForceMissDamage","translation":"Test: wymuszenie chybienia obrażeń","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1048_desc_effect","source":"For Testing_ForceMissDamage_Physic","translation":"Test: wymuszenie chybienia obrażeń fizycznych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1048_desc_name","source":"For Testing_ForceMissDamage_Physic","translation":"Test: wymuszenie chybienia obrażeń fizycznych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1048_desc_summary","source":"For Testing_ForceMissDamage_Physic","translation":"Test: wymuszenie chybienia obrażeń fizycznych","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1049_desc_effect","source":"For Testing_ForceMissDamage_Fire","translation":"Test: wymuszenie chybienia obrażeń od ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1049_desc_name","source":"For Testing_ForceMissDamage_Fire","translation":"Test: wymuszenie chybienia obrażeń od ognia","status":"draft"}
+{"id":"SkillAbnormalString_SkillAbnormalString_1049_desc_summary","source":"For Testing_ForceMissDamage_Fire","translation":"Test: wymuszenie chybienia obrażeń od ognia","status":"draft"}

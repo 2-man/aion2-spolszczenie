@@ -1,0 +1,250 @@
+{"id": "SkillString_SkillString_ETC_9276_skill_name", "source": "MP 100 Recovery_Single-target_Damage_GrowthX_on Crit", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — wzrost X przy trafieniu krytycznym", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9277_skill_desc_effect", "source": "MP 100 Recovery_Single-target_Clone_GrowthX", "translation": "Odzyskuje 100 PM — klon pojedynczego celu — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9277_skill_name", "source": "MP 100 Recovery_Single-target_Clone_GrowthX", "translation": "Odzyskuje 100 PM — klon pojedynczego celu — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9278_skill_desc_effect", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9278_skill_name", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9279_skill_desc_effect", "source": "Teleport around the target", "translation": "Teleportuje wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9279_skill_name", "source": "Teleport around the target", "translation": "Teleportuje wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9280_skill_desc_effect", "source": "MP 100 Recovery_Self_HPHeal_GrowthX", "translation": "Odzyskuje 100 PM — leczenie PŻ postaci — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9280_skill_name", "source": "MP 100 Recovery_Self_HPHeal_GrowthX", "translation": "Odzyskuje 100 PM — leczenie PŻ postaci — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9281_skill_desc_effect", "source": "MP 100 Recovery_Self_Abnormal_100%Chance_BlockSkill_GrowthX", "translation": "Odzyskuje 100 PM — efekt stanu na postaci — 100% szansy na blokadę umiejętności — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9281_skill_name", "source": "MP 100 Recovery_Self_Abnormal_100%Chance_BlockSkill_GrowthX", "translation": "Odzyskuje 100 PM — efekt stanu na postaci — 100% szansy na blokadę umiejętności — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9282_skill_desc_effect", "source": "MP 100 Recovery_Self_Abnormal_30%Chance_BlockJump_GrowthX", "translation": "Odzyskuje 100 PM — efekt stanu na postaci — 30% szansy na blokadę skoku — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9282_skill_name", "source": "MP 100 Recovery_Self_Abnormal_30%Chance_BlockJump_GrowthX", "translation": "Odzyskuje 100 PM — efekt stanu na postaci — 30% szansy na blokadę skoku — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9283_skill_desc_effect", "source": "MP 100 Recovery_Single-target_CasterSkill_GrowthX", "translation": "Odzyskuje 100 PM — umiejętność rzucającego na pojedynczy cel — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9283_skill_name", "source": "MP 100 Recovery_Single-target_CasterSkill_GrowthX", "translation": "Odzyskuje 100 PM — umiejętność rzucającego na pojedynczy cel — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9284_skill_desc_effect", "source": "MP 100 Recovery_Single-target_Damage_System", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — system", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9284_skill_name", "source": "MP 100 Recovery_Single-target_Damage_System", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — system", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9285_skill_desc_effect", "source": "MP 100 Recovery_Self_Spawn_GrowthX", "translation": "Odzyskuje 100 PM — przywołanie przy postaci — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9285_skill_name", "source": "MP 100 Recovery_Self_Spawn_GrowthX", "translation": "Odzyskuje 100 PM — przywołanie przy postaci — wzrost X", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9286_skill_desc_effect", "source": "category = Spawn, and Element = None", "translation": "category = Spawn, żywioł = brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9286_skill_name", "source": "category = Spawn, and Element = None", "translation": "category = Spawn, żywioł = brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9287_skill_desc_effect", "source": "category = None, and Element = Wind", "translation": "category = brak, żywioł = Wiatr", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9287_skill_name", "source": "category = None, and Element = Wind", "translation": "category = brak, żywioł = Wiatr", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9288_skill_desc_effect", "source": "category = Buff, Heal, and Element = Fire", "translation": "category = wzmocnienie, leczenie, żywioł = Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9288_skill_name", "source": "category = Buff, Heal, and Element = Fire", "translation": "category = wzmocnienie, leczenie, żywioł = Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9289_skill_desc_effect", "source": "category = DeBuff, and Element = Water", "translation": "category = osłabienie, żywioł = Woda", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9289_skill_name", "source": "category = DeBuff, and Element = Water", "translation": "category = osłabienie, żywioł = Woda", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9290_skill_desc_effect", "source": "category = None, and Element = Fire, auto_load = 3,000", "translation": "category = brak, żywioł = Ogień, auto_load = 3,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9290_skill_name", "source": "category = None, and Element = Fire, auto_load = 3,000", "translation": "category = brak, żywioł = Ogień, auto_load = 3,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9291_skill_desc_effect", "source": "category = Buff, DeBuff, and Element = None, auto_load = 2, 3, 6,000", "translation": "category = wzmocnienie, osłabienie, żywioł = brak, auto_load = 2, 3, 6,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9291_skill_name", "source": "category = Buff, DeBuff, and Element = None, auto_load = 2, 3, 6,000", "translation": "category = wzmocnienie, osłabienie, żywioł = brak, auto_load = 2, 3, 6,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9292_skill_desc_effect", "source": "ignore_hp_drain = TRUE", "translation": "ignore_hp_drain = TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9292_skill_name", "source": "ignore_hp_drain = TRUE", "translation": "ignore_hp_drain = TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9293_skill_desc_effect", "source": "ignore_hp_drain = FALSE", "translation": "ignore_hp_drain = FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9293_skill_name", "source": "ignore_hp_drain = FALSE", "translation": "ignore_hp_drain = FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9294_skill_desc_effect", "source": "ignore_hp_drain = FALSE, MaxHPRatio = 1,000 (Capped at 500)", "translation": "ignore_hp_drain = FALSE, MaxHPRatio = 1,000 (limit 500)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9294_skill_name", "source": "ignore_hp_drain = FALSE, MaxHPRatio = 1,000 (Capped at 500)", "translation": "ignore_hp_drain = FALSE, MaxHPRatio = 1,000 (limit 500)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9295_skill_desc_effect", "source": "ignore_hp_drain = FALSE, CurrentHPRatio = 1,000 (Capped at 500)", "translation": "ignore_hp_drain = FALSE, CurrentHPRatio = 1,000 (limit 500)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9295_skill_name", "source": "ignore_hp_drain = FALSE, CurrentHPRatio = 1,000 (Capped at 500)", "translation": "ignore_hp_drain = FALSE, CurrentHPRatio = 1,000 (limit 500)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9296_skill_desc_effect", "source": "ignore_hp_drain = FALSE, FixElement", "translation": "ignore_hp_drain = FALSE, FixElement", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9296_skill_name", "source": "ignore_hp_drain = FALSE, FixElement", "translation": "ignore_hp_drain = FALSE, FixElement", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9297_skill_desc_effect", "source": "Reflection condition None, 100% chance, 50% Reflected, Capped at 100", "translation": "Warunek odbicia: brak, szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9297_skill_name", "source": "Reflection condition None, 100% chance, 50% Reflected, Capped at 100", "translation": "Warunek odbicia: brak, szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9298_skill_desc_effect", "source": "If Physical, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli fizyczne: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9298_skill_name", "source": "If Physical, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli fizyczne: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9299_skill_desc_effect", "source": "If Magic, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli magiczne: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9299_skill_name", "source": "If Magic, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli magiczne: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9300_skill_desc_effect", "source": "If Fire Skill, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli umiejętność Ognia: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9300_skill_name", "source": "If Fire Skill, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli umiejętność Ognia: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9301_skill_desc_effect", "source": "If Water or Fire, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli Woda lub Ogień: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9301_skill_name", "source": "If Water or Fire, 100% chance, 50% Reflected, Capped at 100", "translation": "Jeśli Woda lub Ogień: szansa 100%, odbija 50%, limit 100", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9302_skill_desc_effect", "source": "Targets an enemy within 25m, dealing <desc_point>{se:6120011:SkillUIMinDmg}-{se:6120011:SkillUIMaxDmg} Water Magic damage to up to {sef:612001:target_count_max} enemies within 6m of the target.\n<system_game_system>Consumes 550 MP", "translation": "Wybiera wroga w promieniu 25 m i zadaje maksymalnie {sef:612001:target_count_max} wrogom w promieniu 6 m od celu obrażenia od magii wody <desc_point>{se:6120011:SkillUIMinDmg}-{se:6120011:SkillUIMaxDmg}.\n<system_game_system>Zużywa 550 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9302_skill_name", "source": "Glacial Smite", "translation": "Lodowy cios", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9303_skill_name", "source": "Mace_Magic_Basic Attack_1_Parent", "translation": "Buława — magia — atak podstawowy 1 — nadrzędny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9304_skill_desc_effect", "source": "DP Continuous Condition-specific Skill Test Skill_Original", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — oryginalna", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9304_skill_name", "source": "DP Continuous Condition-specific Skill Test Skill_Original", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — oryginalna", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9305_skill_desc_effect", "source": "DP Continuous Condition-specific Skill Test Skill_LinkSkill_Combo Skill", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — umiejętność kombinacji łańcuchowej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9305_skill_name", "source": "DP Continuous Condition-specific Skill Test Skill_LinkSkill_Combo Skill", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — umiejętność kombinacji łańcuchowej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9306_skill_desc_effect", "source": "DP Continuous Condition-specific Skill Test Skill_SystemSkill", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — umiejętność systemowa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9306_skill_name", "source": "DP Continuous Condition-specific Skill Test Skill_SystemSkill", "translation": "Test umiejętności zależnej od warunku ciągłej mocy boskiej — umiejętność systemowa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9307_skill_name", "source": "Mace_Magic_Basic Attack_1_Parent", "translation": "Buława — magia — atak podstawowy 1 — nadrzędny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9308_skill_desc_effect", "source": "3-hit Skill", "translation": "Umiejętność z 3 trafieniami", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9308_skill_name", "source": "3-hit Skill", "translation": "Umiejętność z 3 trafieniami", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9309_skill_desc_effect", "source": "Rushes at a target within 15m, dealing Physical Damage equal to <desc_point>N% of Attack and inflicting Airborne for 3s.", "translation": "Szarżuje na cel w promieniu 15 m, zadając obrażenia fizyczne równe <desc_point>N% ataku i podrzucając go na 3 s.", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9309_skill_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9310_skill_desc_effect", "source": "Strikes targets inflicted with Airborne 4 times, dealing damage and causing them to fall.", "translation": "Czterokrotnie trafia podrzucone cele, zadając im obrażenia i strącając je na ziemię.", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9310_skill_name", "source": "Aerial Slaughter", "translation": "Powietrzna Rzeź", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9320_skill_desc_effect", "source": "Lifts up to {sef:630001:target_count_max} enemies within 10m into the air, <desc_point>removing all buffs, before causing them to fall and lose 20% of Max HP. (Max HP Loss does not exceed 2,000.)\n\nRequires 4,000 DP", "translation": "Podrzuca maksymalnie {sef:630001:target_count_max} wrogów w promieniu 10 m, <desc_point>usuwając wszystkie ich wzmocnienia, a następnie strąca ich na ziemię i odbiera im 20% maksymalnych PŻ. (Utrata maksymalnych PŻ nie przekracza 2 000.)\n\nWymaga 4 000 pkt. mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9320_skill_name", "source": "Lumiel's Space", "translation": "Przestrzeń Lumiel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9321_skill_desc_effect", "source": "Lifts up to {sef:630001:target_count_max} enemies within 10m into the air, <desc_point>removing all buffs, before causing them to fall and lose 20% of Max HP. (Max HP Loss does not exceed 2,000.)\n\nRequires 4,000 DP", "translation": "Podrzuca maksymalnie {sef:630001:target_count_max} wrogów w promieniu 10 m, <desc_point>usuwając wszystkie ich wzmocnienia, a następnie strąca ich na ziemię i odbiera im 20% maksymalnych PŻ. (Utrata maksymalnych PŻ nie przekracza 2 000.)\n\nWymaga 4 000 pkt. mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9321_skill_name", "source": "Lumiel's Space", "translation": "Przestrzeń Lumiel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9323_skill_desc_effect", "source": "Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "translation": "Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9323_skill_name", "source": "Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "translation": "Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9324_skill_desc_effect", "source": "Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "translation": "Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9324_skill_name", "source": "Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "translation": "Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9325_skill_desc_effect", "source": "Movable_In_Casting=TRUE,Movable_In_Use=TRUE", "translation": "Movable_In_Casting=TRUE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9325_skill_name", "source": "Movable_In_Casting=TRUE,Movable_In_Use=TRUE", "translation": "Movable_In_Casting=TRUE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9326_skill_desc_effect", "source": "Movable_In_Casting=FALSE,Movable_In_Use=TRUE", "translation": "Movable_In_Casting=FALSE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9326_skill_name", "source": "Movable_In_Casting=FALSE,Movable_In_Use=TRUE", "translation": "Movable_In_Casting=FALSE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9327_skill_desc_effect", "source": "Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9327_skill_name", "source": "Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9328_skill_desc_effect", "source": "Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9328_skill_name", "source": "Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9329_skill_desc_effect", "source": "Movable_In_Charge=TRUE,Movable_In_Use=TRUE", "translation": "Movable_In_Charge=TRUE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9329_skill_name", "source": "Movable_In_Charge=TRUE,Movable_In_Use=TRUE", "translation": "Movable_In_Charge=TRUE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9330_skill_desc_effect", "source": "Movable_In_Charge=FALSE,Movable_In_Use=TRUE", "translation": "Movable_In_Charge=FALSE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9330_skill_name", "source": "Movable_In_Charge=FALSE,Movable_In_Use=TRUE", "translation": "Movable_In_Charge=FALSE,Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9331_skill_desc_effect", "source": "Root Motion, Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9331_skill_name", "source": "Root Motion, Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Casting=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9332_skill_desc_effect", "source": "Root Motion, Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9332_skill_name", "source": "Root Motion, Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Casting=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9333_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9333_skill_name", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9334_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9334_skill_name", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9335_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9335_skill_name", "source": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=TRUE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9336_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9336_skill_name", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9337_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9337_skill_name", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9338_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9338_skill_name", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
+{"id":"SkillString_SkillString_ETC_9339_skill_desc_effect","source":"Charge Level 1, Movable_In_Use=FALSE","translation":"Poziom naładowania 1, Movable_In_Use=FALSE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9339_skill_name","source":"Charge Level 1, Movable_In_Use=FALSE","translation":"Poziom naładowania 1, Movable_In_Use=FALSE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9340_skill_desc_effect","source":"Charge Level 2, Movable_In_Use=FALSE","translation":"Poziom naładowania 2, Movable_In_Use=FALSE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9340_skill_name","source":"Charge Level 2, Movable_In_Use=FALSE","translation":"Poziom naładowania 2, Movable_In_Use=FALSE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9341_skill_desc_effect","source":"Charge Level 1, Movable_In_Use=TRUE","translation":"Poziom naładowania 1, Movable_In_Use=TRUE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9341_skill_name","source":"Charge Level 1, Movable_In_Use=TRUE","translation":"Poziom naładowania 1, Movable_In_Use=TRUE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9342_skill_desc_effect","source":"Charge Level 2, Movable_In_Use=TRUE","translation":"Poziom naładowania 2, Movable_In_Use=TRUE","status":"draft"}
+{"id":"SkillString_SkillString_ETC_9342_skill_name","source":"Charge Level 2, Movable_In_Use=TRUE","translation":"Poziom naładowania 2, Movable_In_Use=TRUE","status":"draft"}
+{"id": "SkillString_SkillString_ETC_9344_skill_desc_effect", "source": "AoE Dispel", "translation": "Rozproszenie obszarowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9344_skill_name", "source": "AoE Dispel", "translation": "Rozproszenie obszarowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9345_skill_desc_effect", "source": "Movable_In_Use=TRUE", "translation": "Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9345_skill_name", "source": "Movable_In_Use=TRUE", "translation": "Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9346_skill_desc_effect", "source": "Movable_In_Use=FALSE", "translation": "Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9346_skill_name", "source": "Movable_In_Use=FALSE", "translation": "Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9347_skill_desc_effect", "source": "Parallel Skill", "translation": "Umiejętność równoległa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9347_skill_name", "source": "Parallel Skill", "translation": "Umiejętność równoległa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9349_skill_desc_effect", "source": "Deals spherical AoE damage upon collision", "translation": "Zadaje obszarowe obrażenia w kształcie kuli przy kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9349_skill_name", "source": "Deals spherical AoE damage upon collision", "translation": "Zadaje obszarowe obrażenia w kształcie kuli przy kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9350_skill_desc_effect", "source": "Per Tick Dot_TargetHP", "translation": "Obrażenia okresowe — PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9350_skill_name", "source": "Per Tick Dot_TargetHP", "translation": "Obrażenia okresowe — PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9351_skill_desc_effect", "source": "Dispels EndCastSkillByCaster", "translation": "Rozprasza EndCastSkillByCaster", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9351_skill_name", "source": "Dispels EndCastSkillByCaster", "translation": "Rozprasza EndCastSkillByCaster", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9352_skill_desc_effect", "source": "Grants CastSkillByCaster nearby", "translation": "Nakłada CastSkillByCaster na pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9352_skill_name", "source": "Grants CastSkillByCaster nearby", "translation": "Nakłada CastSkillByCaster na pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9353_skill_desc_effect", "source": "Grants EndCastSkillByCaster nearby", "translation": "Nakłada EndCastSkillByCaster na pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9353_skill_name", "source": "Grants EndCastSkillByCaster nearby", "translation": "Nakłada EndCastSkillByCaster na pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9362_skill_desc_effect", "source": "Horizontal 5 Shots Instant", "translation": "Natychmiastowe 5 strzałów poziomo", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9362_skill_name", "source": "Horizontal 5 Shots Instant", "translation": "Natychmiastowe 5 strzałów poziomo", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9363_skill_desc_effect", "source": "Jump Slam - Self", "translation": "Skok i uderzenie — postać", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9363_skill_name", "source": "Jump Slam - Self", "translation": "Skok i uderzenie — postać", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9364_skill_desc_effect", "source": "Jump Slam - Target", "translation": "Skok i uderzenie — cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9364_skill_name", "source": "Jump Slam - Target", "translation": "Skok i uderzenie — cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9365_skill_desc_effect", "source": "Jump Slam - Self CASTING", "translation": "Skok i uderzenie — postać, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9365_skill_name", "source": "Jump Slam - Self CASTING", "translation": "Skok i uderzenie — postać, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9366_skill_desc_effect", "source": "Jump Slam - Target CASTING", "translation": "Skok i uderzenie — cel, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9366_skill_name", "source": "Jump Slam - Target CASTING", "translation": "Skok i uderzenie — cel, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9367_skill_desc_effect", "source": "Backline Move - Target", "translation": "Przemieszczenie za cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9367_skill_name", "source": "Backline Move - Target", "translation": "Przemieszczenie za cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9368_skill_desc_effect", "source": "Backline Move - Target CASTING", "translation": "Przemieszczenie za cel — rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9368_skill_name", "source": "Backline Move - Target CASTING", "translation": "Przemieszczenie za cel — rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9369_skill_desc_effect", "source": "Jump Slam - Self CASTING (Arrival Position Decal)", "translation": "Skok i uderzenie — postać, rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9369_skill_name", "source": "Jump Slam - Self CASTING (Arrival Position Decal)", "translation": "Skok i uderzenie — postać, rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9370_skill_desc_effect", "source": "Jump Slam - Target CASTING (Arrival Position Decal)", "translation": "Skok i uderzenie — cel, rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9370_skill_name", "source": "Jump Slam - Target CASTING (Arrival Position Decal)", "translation": "Skok i uderzenie — cel, rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9371_skill_desc_effect", "source": "Backline Move - Target CASTING (Arrival Position Decal)", "translation": "Przemieszczenie za cel — rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9371_skill_name", "source": "Backline Move - Target CASTING (Arrival Position Decal)", "translation": "Przemieszczenie za cel — rzucanie (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9372_skill_desc_effect", "source": "Backline Move - Target CASTING (Arrival Position Decal),Red,Filled", "translation": "Przemieszczenie za cel — rzucanie (znacznik miejsca lądowania), czerwony, wypełniony", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9372_skill_name", "source": "Backline Move - Target CASTING (Arrival Position Decal),Red,Filled", "translation": "Przemieszczenie za cel — rzucanie (znacznik miejsca lądowania), czerwony, wypełniony", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9373_skill_desc_effect", "source": "Inflicts AoE Abnormal - Abnormal Decal", "translation": "Nakłada obszarowy efekt stanu — znacznik efektu stanu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9373_skill_name", "source": "Inflicts AoE Abnormal - Abnormal Decal", "translation": "Nakłada obszarowy efekt stanu — znacznik efektu stanu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9374_skill_desc_effect", "source": "Jump Slam - Self (Arrival Position Decal)", "translation": "Skok i uderzenie — postać (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9374_skill_name", "source": "Jump Slam - Self (Arrival Position Decal)", "translation": "Skok i uderzenie — postać (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9375_skill_desc_effect", "source": "Jump Slam - target (Arrival Position Decal)", "translation": "Skok i uderzenie — cel (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9375_skill_name", "source": "Jump Slam - target (Arrival Position Decal)", "translation": "Skok i uderzenie — cel (znacznik miejsca lądowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9376_skill_desc_effect", "source": "Blade Toss (StaggerIncrease)", "translation": "Rzut ostrzem (zwiększenie zachwiania równowagi)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9376_skill_name", "source": "Blade Toss (StaggerIncrease)", "translation": "Rzut ostrzem (zwiększenie zachwiania równowagi)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9377_skill_desc_effect", "source": "Blade Toss (StaggerDecrease)", "translation": "Rzut ostrzem (zmniejszenie zachwiania równowagi)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9377_skill_name", "source": "Blade Toss (StaggerDecrease)", "translation": "Rzut ostrzem (zmniejszenie zachwiania równowagi)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9378_skill_desc_effect", "source": "Heals if 992 and 993", "translation": "Leczy, jeśli 992 i 993", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9378_skill_name", "source": "Heals if 992 and 993", "translation": "Leczy, jeśli 992 i 993", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9379_skill_desc_effect", "source": "Heals if 992 or 993", "translation": "Leczy, jeśli 992 lub 993", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9379_skill_name", "source": "Heals if 992 or 993", "translation": "Leczy, jeśli 992 lub 993", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9380_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9380_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9385_skill_name", "source": "TEST (Chain Skill 1/3)", "translation": "TEST (umiejętność łańcuchowa 1/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9386_skill_name", "source": "TEST (Chain Skill 2/3)", "translation": "TEST (umiejętność łańcuchowa 2/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9387_skill_name", "source": "TEST - Auto Load (Chain Skill 3/3)", "translation": "TEST — automatyczne ładowanie (umiejętność łańcuchowa 3/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9388_skill_name", "source": "TEST Charging Level 0 (Chain Skill A 1/2)", "translation": "TEST — poziom naładowania 0 (umiejętność łańcuchowa A 1/2)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9389_skill_name", "source": "TEST Charging Level 1 (Chain Skill A 1/2)", "translation": "TEST — poziom naładowania 1 (umiejętność łańcuchowa A 1/2)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9390_skill_name", "source": "TEST Charging Level 2 (Chain Skill A 1/2)", "translation": "TEST — poziom naładowania 2 (umiejętność łańcuchowa A 1/2)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9391_skill_name", "source": "TEST Charging Level 3 (Chain Skill A 1/2)", "translation": "TEST — poziom naładowania 3 (umiejętność łańcuchowa A 1/2)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9392_skill_name", "source": "TEST (Chain Skill A 2/2)", "translation": "TEST (umiejętność łańcuchowa A 2/2)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9393_skill_name", "source": "TEST (Chain Skill B 1/3)", "translation": "TEST (umiejętność łańcuchowa B 1/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9394_skill_name", "source": "TEST (Chain Skill B 2/3)", "translation": "TEST (umiejętność łańcuchowa B 2/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9395_skill_name", "source": "TEST (Chain Skill B 3/3)", "translation": "TEST (umiejętność łańcuchowa B 3/3)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9398_skill_desc_effect", "source": "Decal_Arc 1 Hit (Need_Target=TRUE, offset)", "translation": "Znacznik_łuk 1 trafienie (Need_Target=TRUE, przesunięcie)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9398_skill_name", "source": "Decal_Arc 1 Hit (Need_Target=TRUE, offset)", "translation": "Znacznik_łuk 1 trafienie (Need_Target=TRUE, przesunięcie)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9399_skill_desc_effect", "source": "Decal_splash_FixTime, offset", "translation": "Znacznik_obszarowy_stały czas, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9399_skill_name", "source": "Decal_splash_FixTime, offset", "translation": "Znacznik_obszarowy_stały czas, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9400_skill_desc_effect", "source": "Decal_splash_FixTime_Target, offset", "translation": "Znacznik_obszarowy_stały czas_cel, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9400_skill_name", "source": "Decal_splash_FixTime_Target, offset", "translation": "Znacznik_obszarowy_stały czas_cel, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9401_skill_desc_effect", "source": "Decal_splash_VariableTime_Casting, offset", "translation": "Znacznik_obszarowy_zmienny czas_rzucanie, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9401_skill_name", "source": "Decal_splash_VariableTime_Casting, offset", "translation": "Znacznik_obszarowy_zmienny czas_rzucanie, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9402_skill_desc_effect", "source": "Decal_splash_VariableTime_SkillStart, offset", "translation": "Znacznik_obszarowy_zmienny czas_początek umiejętności, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9402_skill_name", "source": "Decal_splash_VariableTime_SkillStart, offset", "translation": "Znacznik_obszarowy_zmienny czas_początek umiejętności, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9403_skill_desc_effect", "source": "Decal_splash_VariableTime_Projectile_Fire, offset", "translation": "Znacznik_obszarowy_zmienny czas_wystrzał pocisku, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9403_skill_name", "source": "Decal_splash_VariableTime_Projectile_Fire, offset", "translation": "Znacznik_obszarowy_zmienny czas_wystrzał pocisku, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9404_skill_desc_effect", "source": "Decal_splash_VariableTime_Target, offset", "translation": "Znacznik_obszarowy_zmienny czas_cel, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9404_skill_name", "source": "Decal_splash_VariableTime_Target, offset", "translation": "Znacznik_obszarowy_zmienny czas_cel, przesunięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9405_skill_desc_effect", "source": "splash_FixTime Projectile Offset", "translation": "Przesunięcie pocisku — obszarowy efekt o stałym czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9405_skill_name", "source": "splash_FixTime Projectile Offset", "translation": "Przesunięcie pocisku — obszarowy efekt o stałym czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9406_skill_desc_effect", "source": "splash_FixTime projectile and AoE offset", "translation": "Przesunięcie pocisku i obszaru — obszarowy efekt o stałym czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9406_skill_name", "source": "splash_FixTime projectile and AoE offset", "translation": "Przesunięcie pocisku i obszaru — obszarowy efekt o stałym czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9407_skill_desc_effect", "source": "splash_VariableTime_Projectile_Fire Projectile Offset", "translation": "Przesunięcie pocisku — obszarowy efekt o zmiennym czasie, wystrzał pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9407_skill_name", "source": "splash_VariableTime_Projectile_Fire Projectile Offset", "translation": "Przesunięcie pocisku — obszarowy efekt o zmiennym czasie, wystrzał pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9408_skill_desc_effect", "source": "splash_VariableTime_Projectile_Fire Projectile and Area offset", "translation": "Przesunięcie pocisku i obszaru — obszarowy efekt o zmiennym czasie, wystrzał pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9408_skill_name", "source": "splash_VariableTime_Projectile_Fire Projectile and Area offset", "translation": "Przesunięcie pocisku i obszaru — obszarowy efekt o zmiennym czasie, wystrzał pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9410_skill_desc_effect", "source": "SoftMove Ring_Pull", "translation": "Łagodne przemieszczenie — pierścień, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9410_skill_name", "source": "SoftMove Ring_Pull", "translation": "Łagodne przemieszczenie — pierścień, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9411_skill_desc_effect", "source": "SoftMove RingArc_Pull", "translation": "Łagodne przemieszczenie — łuk pierścienia, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9411_skill_name", "source": "SoftMove RingArc_Pull", "translation": "Łagodne przemieszczenie — łuk pierścienia, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9412_skill_desc_effect", "source": "SoftMove Rectangle_Pull", "translation": "Łagodne przemieszczenie — prostokąt, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9412_skill_name", "source": "SoftMove Rectangle_Pull", "translation": "Łagodne przemieszczenie — prostokąt, przyciąganie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9413_skill_desc_effect", "source": "SoftMove Ring_Push", "translation": "Łagodne przemieszczenie — pierścień, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9413_skill_name", "source": "SoftMove Ring_Push", "translation": "Łagodne przemieszczenie — pierścień, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9414_skill_desc_effect", "source": "SoftMove RingArc_Push", "translation": "Łagodne przemieszczenie — łuk pierścienia, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9414_skill_name", "source": "SoftMove RingArc_Push", "translation": "Łagodne przemieszczenie — łuk pierścienia, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9415_skill_desc_effect", "source": "SoftMove Rectangle_Push", "translation": "Łagodne przemieszczenie — prostokąt, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9415_skill_name", "source": "SoftMove Rectangle_Push", "translation": "Łagodne przemieszczenie — prostokąt, odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9416_skill_desc_effect", "source": "OPHeal", "translation": "Leczenie OP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9416_skill_name", "source": "OPHeal", "translation": "Leczenie OP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9417_skill_desc_effect", "source": "OPHealRatio", "translation": "Współczynnik leczenia OP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9417_skill_name", "source": "OPHealRatio", "translation": "Współczynnik leczenia OP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9418_skill_desc_effect", "source": "OPHeal_Item", "translation": "Leczenie OP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9418_skill_name", "source": "OPHeal_Item", "translation": "Leczenie OP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9419_skill_desc_effect", "source": "OPHealRatio_Item", "translation": "Współczynnik leczenia OP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9419_skill_name", "source": "OPHealRatio_Item", "translation": "Współczynnik leczenia OP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9420_skill_desc_effect", "source": "Applies Bind Abnormal to 2 Nearby Targets", "translation": "Nakłada unieruchamiający efekt stanu na 2 pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9420_skill_name", "source": "Applies Bind Abnormal to 2 Nearby Targets", "translation": "Nakłada unieruchamiający efekt stanu na 2 pobliskie cele", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9421_skill_desc_effect", "source": "Applies Bind Abnormal to 2 nearby targets, then inflicts Bind.", "translation": "Nakłada unieruchamiający efekt stanu na 2 pobliskie cele, a następnie unieruchamia je.", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9421_skill_name", "source": "Applies Bind Abnormal to 2 nearby targets, then inflicts Bind.", "translation": "Nakłada unieruchamiający efekt stanu na 2 pobliskie cele, a następnie unieruchamia je.", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9423_skill_desc_effect", "source": "SpawnLocation_SpawnDirection", "translation": "Miejsce przywołania — kierunek przywołania", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9423_skill_name", "source": "SpawnLocation_SpawnDirection", "translation": "Miejsce przywołania — kierunek przywołania", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9424_skill_desc_effect", "source": "SpawnLocation_CasterDirection", "translation": "Miejsce przywołania — kierunek rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9424_skill_name", "source": "SpawnLocation_CasterDirection", "translation": "Miejsce przywołania — kierunek rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9425_skill_desc_effect", "source": "Ground_Movable", "translation": "Ziemia — można się poruszać", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9425_skill_name", "source": "Ground_Movable", "translation": "Ziemia — można się poruszać", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9426_skill_desc_effect", "source": "Ground_UnMovable", "translation": "Ziemia — brak możliwości ruchu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9426_skill_name", "source": "Ground_UnMovable", "translation": "Ziemia — brak możliwości ruchu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9501_skill_desc_effect", "source": "Joinstrike Skill 1 (TargetChange / bt_reset_force_child_behavior_id = 10)", "translation": "Umiejętność dołączonego uderzenia 1 (zmiana celu / bt_reset_force_child_behavior_id = 10)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9501_skill_name", "source": "Joinstrike Skill 1 (TargetChange / bt_reset_force_child_behavior_id = 10)", "translation": "Umiejętność dołączonego uderzenia 1 (zmiana celu / bt_reset_force_child_behavior_id = 10)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9502_skill_desc_effect", "source": "Joinstrike Skill 2 (TargetChangeWhenNoTarget / bt_reset_force_child_behavior_id = 20)", "translation": "Umiejętność dołączonego uderzenia 2 (zmiana celu, gdy brak celu / bt_reset_force_child_behavior_id = 20)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9502_skill_name", "source": "Joinstrike Skill 2 (TargetChangeWhenNoTarget / bt_reset_force_child_behavior_id = 20)", "translation": "Umiejętność dołączonego uderzenia 2 (zmiana celu, gdy brak celu / bt_reset_force_child_behavior_id = 20)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9503_skill_desc_effect", "source": "Test_aggro_ratio / max lv 5", "translation": "Test_stosunek nienawiści / maks. poz. 5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9503_skill_name", "source": "Test_aggro_ratio / max lv 5", "translation": "Test_stosunek nienawiści / maks. poz. 5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9504_skill_desc_effect", "source": "Test_aggro_absolute / max lv 5", "translation": "Test_wartość bezwzględna nienawiści / maks. poz. 5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9504_skill_name", "source": "Test_aggro_absolute / max lv 5", "translation": "Test_wartość bezwzględna nienawiści / maks. poz. 5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9505_skill_desc_effect", "source": "Test_aggro_ratio", "translation": "Test_stosunek nienawiści", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9505_skill_name", "source": "Test_aggro_ratio 50,000", "translation": "Test_stosunek nienawiści 50 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9506_skill_desc_effect", "source": "Test_aggro_absolute", "translation": "Test_wartość bezwzględna nienawiści", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9506_skill_name", "source": "Test_aggro_absolute 500", "translation": "Test_wartość bezwzględna nienawiści 500", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9507_skill_desc_effect", "source": "Grants buff to summoned child", "translation": "Nakłada wzmocnienie na przywołane stworzenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9507_skill_name", "source": "Grants buff to summoned child", "translation": "Nakłada wzmocnienie na przywołane stworzenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9508_skill_desc_effect", "source": "Grants buff to same Tribe", "translation": "Nakłada wzmocnienie na członka tego samego plemienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9508_skill_name", "source": "Grants buff to same Tribe", "translation": "Nakłada wzmocnienie na członka tego samego plemienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9509_skill_desc_effect", "source": "Temporary_ArmorEquipable / WeaponEquipable", "translation": "Tymczasowe_Możliwość założenia zbroi / broni", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9509_skill_name", "source": "Temporary_ArmorEquipable / WeaponEquipable", "translation": "Tymczasowe_Możliwość założenia zbroi / broni", "status": "draft"}

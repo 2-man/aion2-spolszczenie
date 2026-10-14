@@ -1,0 +1,250 @@
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_TICKET_RECHARGE_TIME_body","source":"Time Until Reset","translation":"Czas do resetu","status":"draft"}
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_TICKET_TITLE_body","source":"Reward Count","translation":"Liczba nagród","status":"draft"}
+{"id":"String_UI_MENTOR_REWARD_LIMIT_DAILY_body","source":"Daily","translation":"Dziennie","status":"draft"}
+{"id":"String_UI_MENTOR_REWARD_LIMIT_WEEKLY_body","source":"Weekly","translation":"Tygodniowo","status":"draft"}
+{"id":"String_UI_MENTOR_REWARD_LIMIT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_ACHIEVEMENT_body","source":"Achievements","translation":"Osiągnięcia","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_AWAKEN_body","source":"Ascension Trial","translation":"Próba Wniebowstąpienia","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_BOSSCHALLENGE_body","source":"Nightmare","translation":"Koszmar","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_CONQUEROR_body","source":"Conqueror","translation":"Zdobywca","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_DAILYDUNGEON_body","source":"Daily Dungeon","translation":"Codzienny loch","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_DREAM_CROSSROAD_body","source":"Dream Crossroad","translation":"Rozdroże snów","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_SEASON_body","source":"Season","translation":"Sezon","status":"draft"}
+{"id":"String_UI_MENU_BUTTON_SUPPRESSION_body","source":"Subjugation","translation":"Podbój","status":"draft"}
+{"id":"String_UI_MINIMAP_FORCE_body","source":"F","translation":"F","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_ENTERDUNGEON_body","source":"Dungeon Entrance","translation":"Wejście do lochu","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_ENTERFIELDEVENT_body","source":"Event","translation":"Wydarzenie","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_EXPLORATION_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_FLIGHTRING_body","source":"Flight Circle","translation":"Krąg lotu","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_FUNCNPC_body","source":"Functional NPC","translation":"NPC usługowy","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_GATHER_body","source":"Gatherable Material","translation":"Surowce do zebrania","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_MONOLITHFRAGMENT_COMPLETE_body","source":"Empyrean Trace - Collection Complete","translation":"Ślad Empiriana — kolekcja ukończona","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_MONOLITHFRAGMENT_INCOMPLETE_body","source":"Empyrean Trace","translation":"Ślad Empiriana","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_MONSTER_body","source":"Monster","translation":"Potwór","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_MOVEMAPCONDITON_body","source":"Teleportation Portal","translation":"Portal teleportacyjny","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_QUEST_body","source":"Quest","translation":"Zadanie","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_RIFTEVENT_body","source":"Domination","translation":"Dominacja","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_RIFT_body","source":"Spacetime Rift","translation":"Szczelina czasoprzestrzenna","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_SPRINGBOARD_body","source":"Updraft","translation":"Prąd wstępujący","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_TELEPORTARTIFACT_body","source":"Kibelisk","translation":"Kibielisk","status":"draft"}
+{"id":"String_UI_MINIMAP_LIST_FILTER_WORLDMARKER_body","source":"World Marker","translation":"Znacznik świata","status":"draft"}
+{"id":"String_UI_MINIMAP_MOVEMAPCONDTION_QUEST_TITLE_body","source":"Quest Requirements","translation":"Wymagania zadania","status":"draft"}
+{"id":"String_UI_MINIMAP_MOVEMAPCONDTION_QUEST_body","source":"Step \"{1}\" of \"{0}\" Complete","translation":"Ukończ etap „{1}” z „{0}”","status":"draft"}
+{"id":"String_UI_MINIMAP_NOT_DISPLAYABLE_body","source":"Cannot display map in this area.","translation":"Nie można wyświetlić mapy w tym miejscu.","status":"draft"}
+{"id":"String_UI_MINIMAP_OPTION_GATHER_TITLE_body","source":"Gathered Material Type","translation":"Typ zebranych surowców","status":"draft"}
+{"id":"String_UI_MINIMAP_OPTION_GATHER_TOGGLE_ALL_body","source":"Select All","translation":"Zaznacz wszystko","status":"draft"}
+{"id":"String_UI_MINIMAP_PARTY_body","source":"P","translation":"D","status":"draft"}
+{"id":"String_UI_MINIMAP_QUEST_TOOLTIP_ACQUIRE_body","source":"Available","translation":"Dostępne","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MAPPIN_body","source":"Map Pin","translation":"Znacznik mapy","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_DESC_COLOR_body","source":"<ref style=\"insufficient\" attr=\"color\">{0} or more</>","translation":"<ref style=\"insufficient\" attr=\"color\">co najmniej {0}</>","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_DESC_body","source":"{0} or more","translation":"co najmniej {0}","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_NAME_body","source":"Combat Power Requirement","translation":"Wymagana moc bojowa","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_DESC_COLOR_body","source":"<ref style=\"insufficient\" attr=\"color\">{0} or more</>","translation":"<ref style=\"insufficient\" attr=\"color\">co najmniej {0}</>","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_DESC_body","source":"{0} or more","translation":"co najmniej {0}","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_NAME_body","source":"Item Level Requirement","translation":"Wymagany poziom przedmiotów","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_DESC_COLOR_body","source":"<ref style=\"insufficient\" attr=\"color\">Lv. {0} or higher</>","translation":"<ref style=\"insufficient\" attr=\"color\">poz. {0} lub wyższy</>","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_DESC_body","source":"Lv. {0} or higher","translation":"poz. {0} lub wyższy","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_NAME_body","source":"Level Requirement","translation":"Wymagany poziom","status":"draft"}
+{"id":"String_UI_MINIMAP_TOOLTIP_SPRINGBOARD_body","source":"Updraft","translation":"Prąd wstępujący","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_ELTNEN_body","source":"[Empyrean Trace: Eltnen] Collection Status","translation":"[Ślad Empiriana: Eltnen] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_KAISINEL_body","source":"Collected Fragments of Kaisinel","translation":"Zebrane fragmenty Kaisinel","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_LUMIEL_body","source":"Collected Fragments of Lumiel","translation":"Zebrane fragmenty Lumiel","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_MORHEIM_body","source":"[Empyrean Trace: Morheim] Collection Status","translation":"[Ślad Empiriana: Morheim] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_RESHANTA_DARK_body","source":"[Empyrean Trace: Middle Reshanta] Collection Status","translation":"[Ślad Empiriana: Środkowa Reshanta] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_RESHANTA_LIGHT_body","source":"[Empyrean Trace: Middle Reshanta] Collection Status","translation":"[Ślad Empiriana: Środkowa Reshanta] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_SIEL_body","source":"[Empyrean Trace: Verteron] Collection Status","translation":"[Ślad Empiriana: Verteron] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_TRINIEL_body","source":"Collected Fragments of Triniel","translation":"Zebrane fragmenty Triniel","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_VAIZEL_body","source":"Collected Fragments of Vaizel","translation":"Zebrane fragmenty Vaizel","status":"draft"}
+{"id":"String_UI_MONOLITH_COLLECTION_ZIKEL_body","source":"[Empyrean Trace: Altgard] Collection Status","translation":"[Ślad Empiriana: Altgard] Postęp kolekcji","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_ACHIEVED_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_BUTTON_RESONATE_ALL_body","source":"Resonate","translation":"Rezonuj","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_BUTTON_SYNC_body","source":"Sync Empyrean Traces","translation":"Synchronizuj Ślady Empiriana","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_ARIEL_body","source":"Ariel's Monolith","translation":"Monolit Ariel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_ELTNEN_body","source":"Eltnen Monolith","translation":"Monolit Eltnen","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_ISRAPHEL_body","source":"Israphel's Monolith","translation":"Monolit Israphel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_KAISINEL_body","source":"Kaisinel's Monolith","translation":"Monolit Kaisinel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_LUMIEL_body","source":"Lumiel's Monolith","translation":"Monolit Lumiel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_MARCHUTAN_body","source":"Marchutan's Monolith","translation":"Monolit Marchutan","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_MORHEIM_body","source":"Morheim Monolith","translation":"Monolit Morheim","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_NEZEKAN_body","source":"Nezekan's Monolith","translation":"Monolit Nezekan","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_RESHANTA_DARK_body","source":"Ereshkigal Monolith","translation":"Monolit Ereshkigal","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_RESHANTA_LIGHT_body","source":"Ereshkigal Monolith","translation":"Monolit Ereshkigal","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_SIEL_body","source":"Verteron Monolith","translation":"Monolit Verteron","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_TRINIEL_body","source":"Triniel's Monolith","translation":"Monolit Triniel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_VAIZEL_body","source":"Vaizel's Monolith","translation":"Monolit Vaizel","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_NAME_ZIKEL_body","source":"Altgard Monolith","translation":"Monolit Altgard","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_PROGRESSBAR_MAX_body","source":"Max Resonance Level","translation":"Maksymalny poziom rezonansu","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_PROGRESSBAR_body","source":"<Monolith_Accent>{0}</> / {1}","translation":"<Monolith_Accent>{0}</> / {1}","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_REWARD_HOLDER_ITEM_body","source":"Next Level Completion Reward","translation":"Nagroda za osiągnięcie następnego poziomu","status":"draft"}
+{"id":"String_UI_MONOLITH_MAIN_REWARD_HOLDER_STAT_body","source":"Next Level Completion Effect","translation":"Efekt po osiągnięciu następnego poziomu","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_COLLECT_TOTAL_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_COLLECT_TOTAL_EACH_COUNT_body","source":"<Monolith_Accent>{0}</>/{1}","translation":"<Monolith_Accent>{0}</>/{1}","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_COLLECT_TOTAL_NAME_body","source":"Overall Progress","translation":"Łączny postęp","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_COLLECT_TOTAL_PROGRESS_body","source":"{0}%","translation":"{0}%","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_REWARDINFO_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_MONOLITH_POPUP_REWARDINFO_NAME_body","source":"Resonance Level Up Rewards Info","translation":"Informacje o nagrodach za awans poziomu rezonansu","status":"draft"}
+{"id":"String_UI_MONOLITH_REQUIRED_ITEM_GUIDE_body","source":"Currently Owned","translation":"Obecnie posiadane","status":"draft"}
+{"id":"String_UI_MONOLITH_REQUIRED_ITEM_INFO_MAX_LEVEL_body","source":"Max Resonance Level","translation":"Maksymalny poziom rezonansu","status":"draft"}
+{"id":"String_UI_MONOLITH_REQUIRED_ITEM_INFO_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REQUIRED_ITEM_NAME_body","source":"Required Materials","translation":"Wymagane materiały","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_BUTTON_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_HOLDER_ITEM_body","source":"Level Reached Rewards","translation":"Nagroda za osiągnięty poziom","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_HOLDER_STAT_body","source":"Level Reached Effect","translation":"Efekt za osiągnięty poziom","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_ITEM_NONE_body","source":"No level reached reward.","translation":"Brak nagrody za osiągnięty poziom.","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_ITEM_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_LEVEL_AFTER_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_LEVEL_BEFORE_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_MAX_LEVEL_body","source":"Achieved max Resonance Level","translation":"Osiągnięto maksymalny poziom rezonansu","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_NAME_body","source":"Resonance Level Up Rewards","translation":"Nagrody za awans poziomu rezonansu","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_NONE_body","source":"No Rewards","translation":"Brak nagród","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_STAT_CURRENT_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_STAT_NEXT_body","source":"<Monolith_Accent>{0}</>","translation":"<Monolith_Accent>{0}</>","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_STAT_NONE_body","source":"No level reached effect.","translation":"Brak efektu za osiągnięty poziom.","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_STAT_TOBE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_MONOLITH_REWARD_STAT_body","source":"{0} +{1}","translation":"{0} +{1}","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ADDTICKET_POPUP_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ADDTICKET_POPUP_GUIDE_body","source":"Charging the Monster Cube Key.\nSelect an item to use for charging.","translation":"Uzupełnianie klucza Kostki potworów.\nWybierz przedmiot do użycia.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ADDTICKET_POPUP_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ADDTICKET_POPUP_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ADDTICKET_POPUP_TITLE_body","source":"Charge Monster Cube Key","translation":"Uzupełnij klucz Kostki potworów","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_AUTO_OUT_POPUP_DESC_body","source":"<ref style=\"insufficient\" attr=\"color\">Monster Cube reward selection is incomplete.</>\n<ref style=\"insufficient\" attr=\"color\">Monster Cube rewards will be automatically selected upon teleportation.</>","translation":"<ref style=\"insufficient\" attr=\"color\">Wybór nagród z Kostki potworów jest niekompletny.</>\n<ref style=\"insufficient\" attr=\"color\">Po teleportacji nagrody z Kostki potworów zostaną wybrane automatycznie.</>","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_AUTO_SELECT_BTN_body","source":"Auto Select","translation":"Wybierz automatycznie","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_AUTO_SELECT_TELEPORT_POPUP_DESC_body","source":"Monster Cube reward selection is incomplete.\nRewards will be Auto-selected upon teleportation.","translation":"Wybór nagród z Kostki potworów jest niekompletny.\nNagrody zostaną wybrane automatycznie po teleportacji.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_BTN_ITEMLIST_body","source":"Available Items","translation":"Dostępne przedmioty","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_BUYTICKET_POPUP_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_BUYTICKET_POPUP_GUIDE_body","source":"Insufficient Monster Cube Key Recharge Tickets.\nGo to the shop to purchase them?","translation":"Za mało biletów do doładowania klucza Kostki potworów.\nCzy przejść do sklepu, aby je kupić?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_BUYTICKET_POPUP_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_ITEMLIST_POPUP_GUIDE_body","source":"Each item in the reward highlights will only appear 1 time among all Cubes.\nAcquisition may vary depending on the Cube selected.\nRounded to the sixth decimal place.\nDue to rounding differences, the total probability may not equal 100%.","translation":"Każdy przedmiot wyróżniony na liście nagród pojawi się tylko raz we wszystkich Kostkach.\nZdobycie może zależeć od wybranej Kostki.\nWartości zaokrąglono do sześciu miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_ITEMLIST_POPUP_TITLE_body","source":"Obtainable Rewards","translation":"Możliwe nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_RESULT_BTN_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_RESULT_GUIDE_02_body","source":"Rewards have been sent to your cube.","translation":"Nagrody wysłano do twojej Kostki.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_RESULT_GUIDE_body","source":"Rewards will be sent to your mail.","translation":"Nagrody zostaną wysłane pocztą.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_REWARD_POPUP_BEFORE_body","source":"Previous Item","translation":"Poprzedni przedmiot","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_REWARD_POPUP_TAB_COMMON_body","source":"Basic Rewards","translation":"Podstawowe nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_REWARD_POPUP_TAB_KEY_body","source":"Reward Highlights","translation":"Wyróżnione nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_SELECT_CANCEL_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_FIELD_SELECT_GUIDE_FINISH_body","source":"Please click on the Selection Complete button.","translation":"Kliknij przycisk „Zakończ wybór”.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_PARTY_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_PARTY_POPUP_BTN_OK_body","source":"Leave","translation":"Opuść","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_PARTY_POPUP_DESC_body","source":"Reward selection is incomplete.\nForfeit the reward and leave the party?","translation":"Wybór nagród nie został zakończony.\nZrezygnować z nagrody i opuścić drużynę?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_POPUP_BTN_OK_body","source":"Go","translation":"Przejdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_GETOUT_POPUP_DESC_body","source":"Cube selection is incomplete.\nForfeit the rewards and proceed?","translation":"Wybór Kostki nie został zakończony.\nZrezygnować z nagród i kontynuować?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_POPUP_PARTY_DUNGEON_body","source":"Expedition","translation":"Ekspedycja","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_POPUP_STATE_RESULT_body","source":"Results","translation":"Wyniki","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_POPUP_STATE_SELECT_body","source":"Select","translation":"Wybierz","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_POPUP_TITLE_body","source":"Monster Cube","translation":"Kostka potworów","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_POPUP_WORLD_EVENT_body","source":"Event","translation":"Wydarzenie","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_SELECT_POPUP_BTN_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_INFO_SELECT_POPUP_DESC_body","source":"If a Monster Cube is Selected, you can view it in the corresponding dungeon.\nPlease enter the dungeon again.","translation":"Po wybraniu Kostki potworów możesz ją zobaczyć w odpowiednim lochu.\nWejdź ponownie do lochu.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ITEMLIST_POPUP_BOSS_body","source":"Mini-Boss Rewards","translation":"Nagrody za mini-bossa","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ITEMLIST_POPUP_BTN_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_ITEMLIST_POPUP_COMMON_body","source":"Basic Rewards","translation":"Podstawowe nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_LOGOUT_POPUP_DESC_body","source":"Reward selection is incomplete.\nForfeit the reward and proceed?","translation":"Wybór nagród nie został zakończony.\nZrezygnować z nagrody i kontynuować?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_PARTY_DUNGEON_BOSS_KILL_SCREEN_MSG_TITLE_body","source":"Defeat Mini Boss","translation":"Pokonaj mini-bossa","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RANKING_MONSTERCUBE_BTN_body","source":"Monster Cube","translation":"Kostka potworów","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_COMMON_REWARD_body","source":"Common Rewards","translation":"Wspólne nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_GIVE_UP_BTN_body","source":"Cancel Selection","translation":"Anuluj wybór","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_KEY_REWARD_body","source":"Reward Highlights","translation":"Wyróżnione nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_LIST_POPUP_OK_BTN_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_LIST_POPUP_TITLE_body","source":"Obtained Rewards","translation":"Zdobyte nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_NO_SELECT_GUIDE_body","source":"Select the reward within the time limit.","translation":"Wybierz nagrodę przed upływem limitu czasu.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_NO_SELECT_POPUP_GUIDE_body","source":"Choose not to select the Monster Cube?\nThe number of Reward Keys will remain the same.","translation":"Zrezygnować z wyboru Kostki potworów?\nLiczba kluczy nagrody pozostanie bez zmian.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_REWARD_COUNT_body","source":"Can select {0} time(s)","translation":"Można wybrać {0} raz(y)","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_REWARD_GUIDE_body","source":"Click on a Cube to display its reward information.","translation":"Kliknij Kostkę, aby wyświetlić informacje o jej nagrodach.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_REWARD_body","source":"Rewards","translation":"Nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_SELECT_GUIDE_body","source":"Obtain rewards by clicking the Selection Complete button.","translation":"Kliknij przycisk „Zakończ wybór”, aby odebrać nagrody.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_SKIP_BTN_body","source":"SKIP","translation":"POMIŃ","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_SUB_GUIDE_02_body","source":"Insufficient Reward Keys to receive a reward.","translation":"Za mało kluczy nagrody, aby odebrać nagrodę.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_SUB_GUIDE_body","source":"{0} will not be consumed on canceling selection.","translation":"Anulowanie wyboru nie zużyje {0}.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_TOTAL_REWARD_BTN_body","source":"Total Obtained Rewards","translation":"Łącznie zdobyte nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_RESULT_TOTAL_REWARD_body","source":"Total Obtained Rewards","translation":"Łącznie zdobyte nagrody","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_REWARD_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_SELECT_FINISH_GUIDE_body","source":"Rewards will open once all participants complete their selection.","translation":"Nagrody zostaną otwarte, gdy wszyscy uczestnicy zakończą wybór.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_SELECT_GUIDE_body","source":"Up to {0} Cubes can be selected per person.","translation":"Każda osoba może wybrać maksymalnie {0} Kostek.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_SELECT_OK_BTN_body","source":"Selection Complete","translation":"Zakończ wybór","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_TITLE_body","source":"Monster Cube","translation":"Kostka potworów","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_AUTO_SELECT_BTN_body","source":"Auto Select","translation":"Wybierz automatycznie","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_AUTO_SELECT_GETOUT_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_AUTO_SELECT_GETOUT_POPUP_BTN_OK_body","source":"Go","translation":"Przejdź","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_AUTO_SELECT_GETOUT_POPUP_DESC_body","source":"Monster Cube Reward selection is incomplete.\nAuto-select the reward and proceed?","translation":"Wybór nagród z Kostki potworów jest niekompletny.\nWybrać nagrodę automatycznie i kontynuować?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_INFO_TOOLTIP_body","source":"Selecting a Cube deducts one key.\nUse all your keys to select Cubes.\nIf you do not select Cubes within the time limit, they will be auto-selected randomly based on the number of keys you have.\nRewards will be sent automatically via mail even if you close the window. \nYou can reopen the Monster Cube window anytime via the minimap button within the time limit.","translation":"Wybranie Kostki zużywa jeden klucz.\nWykorzystaj wszystkie klucze, aby wybrać Kostki.\nJeśli nie wybierzesz Kostek przed upływem limitu czasu, zostaną wybrane losowo, odpowiednio do liczby posiadanych kluczy.\nNagrody zostaną automatycznie wysłane pocztą, nawet po zamknięciu okna.\nW czasie limitu możesz ponownie otworzyć okno Kostki potworów przyciskiem na minimapie.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_LOGOUT_AUTO_SELECT_POPUP_DESC_body","source":"Reward selection is incomplete.\nAuto-select the reward and proceed?","translation":"Wybór nagród nie został zakończony.\nWybrać nagrodę automatycznie i kontynuować?","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_RESULT_REWARD_GUIDE_body","source":"Click on a Cube to display its reward information.","translation":"Kliknij Kostkę, aby wyświetlić informacje o jej nagrodach.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_SELECT_GUIDE_body","source":"Click the cube as much as the number of keys owned within the time limit.","translation":"Przed upływem limitu czasu kliknij Kostki tyle razy, ile masz kluczy.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_SELECT_OK_BTN_body","source":"Selection Complete","translation":"Zakończ wybór","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_SELECT_OK_POPUP_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_SELECT_OK_POPUP_GUIDE_body","source":"Complete the reward selection?\nOnce completed, cancellation is not possible.","translation":"Zakończyć wybór nagród?\nPo zakończeniu nie będzie można go anulować.","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_SELECT_OK_POPUP_OK_body","source":"Complete","translation":"Zakończ","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_TITLE_body","source":"Monster Cube","translation":"Kostka potworów","status":"draft"}
+{"id":"String_UI_MONSTERCUBE_WORLD_TOUCH_FX_body","source":"TOUCH","translation":"DOTKNIJ","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_COMBATVALUE_TITLE_body","source":"Combat Power Requirement","translation":"Wymagana moc bojowa","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_COMBATVALUE_body","source":"{0} or more","translation":"co najmniej {0}","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_ITEMLEVEL_TITLE_body","source":"Item Level Requirement","translation":"Wymagany poziom przedmiotów","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_ITEMLEVEL_body","source":"{0} or more","translation":"co najmniej {0}","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_LEVEL_TITLE_body","source":"Level Requirement","translation":"Wymagany poziom","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_LEVEL_body","source":"Lv. {0} or higher","translation":"poz. {0} lub wyższy","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_QUEST_TITLE_body","source":"Quest Requirements","translation":"Wymagania zadania","status":"draft"}
+{"id":"String_UI_MOVEMAPCONDTION_QUEST_body","source":"Step \"{1}\" of \"{0}\" Complete","translation":"Ukończ etap „{1}” z „{0}”","status":"draft"}
+{"id":"String_UI_NAMEPLATE_MYNAME_STREAMER_MODE_body","source":"Player","translation":"Gracz","status":"draft"}
+{"id":"String_UI_NAMEPLATE_OTHER_RACE_SEASON_RANKING_NONE_body","source":"Trainee","translation":"Rekrut","status":"draft"}
+{"id":"String_UI_NAMEPLATE_PLAYER_body","source":"{0}[{1}]","translation":"{0}[{1}]","status":"draft"}
+{"id":"String_UI_NET_ACCOUNT_NOT_FOUND_body","source":"Account not registered. Please check account information.","translation":"Nie znaleziono konta. Sprawdź dane konta.","status":"draft"}
+{"id":"String_UI_NET_ALREADY_CLAIMED_body","source":"Product has already been received or is being processed.","translation":"Produkt został już odebrany lub jest przetwarzany.","status":"draft"}
+{"id":"String_UI_NET_BILLING_VERSION_CHANGED_body","source":"Product information has changed. Please try again.","translation":"Informacje o produkcie uległy zmianie. Spróbuj ponownie.","status":"draft"}
+{"id":"String_UI_NET_CLAIMED_BY_OTHER_body","source":"Product has already been received on another account. Please check the receiving account.","translation":"Produkt został już odebrany na innym koncie. Sprawdź konto odbiorcy.","status":"draft"}
+{"id":"String_UI_NET_DUPLICATE_REQUEST_body","source":"Request already processed.","translation":"Żądanie zostało już przetworzone.","status":"draft"}
+{"id":"String_UI_NET_ERROR_body","source":"Could not process request. Please try again later.","translation":"Nie udało się przetworzyć żądania. Spróbuj ponownie później.","status":"draft"}
+{"id":"String_UI_NET_EXTERNAL_ACCOUNT_MISMATCH_body","source":"Linked external account information does not match. Please check the status of the linked account.","translation":"Dane połączonego konta zewnętrznego są niezgodne. Sprawdź stan połączonego konta.","status":"draft"}
+{"id":"String_UI_NET_EXTERNAL_ACCOUNT_NOT_LINKED_body","source":"No linked external account. Please link an account first.","translation":"Brak połączonego konta zewnętrznego. Najpierw połącz konto.","status":"draft"}
+{"id":"String_UI_NET_GOODS_NOT_FOUND_body","source":"Cannot find product information.","translation":"Nie można znaleźć informacji o produkcie.","status":"draft"}
+{"id":"String_UI_NET_INVALID_PARAMETER_body","source":"Request info is invalid. Please try again.","translation":"Nieprawidłowe dane żądania. Spróbuj ponownie.","status":"draft"}
+{"id":"String_UI_NET_INVALID_SALE_STATUS_body","source":"Product not for sale.","translation":"Produkt nie jest dostępny w sprzedaży.","status":"draft"}
+{"id":"String_UI_NET_NOT_PURCHASED_body","source":"Unable to confirm product purchase record.","translation":"Nie można potwierdzić zakupu produktu.","status":"draft"}
+{"id":"String_UI_NET_SERVER_ERROR_body","source":"A temporary server error has occurred.Please try again later.","translation":"Wystąpił tymczasowy błąd serwera. Spróbuj ponownie później.","status":"draft"}
+{"id":"String_UI_NET_TIMEOUT_body","source":"The server has timed out. Please try again later.","translation":"Przekroczono limit czasu serwera. Spróbuj ponownie później.","status":"draft"}
+{"id":"String_UI_NPCSHOP_BUTTON_AUTOREGISTER_MISC_body","source":"List Misc Item","translation":"Wystaw różne przedmioty","status":"draft"}
+{"id":"String_UI_NPCSHOP_BUTTON_AUTOREGISTER_SELL_body","source":"List","translation":"Wystaw","status":"draft"}
+{"id":"String_UI_NPCSHOP_BUTTON_AUTOREGISTER_body","source":"Purchase Registration","translation":"Rejestracja zakupu","status":"draft"}
+{"id":"String_UI_NPCSHOP_BUTTON_CHANGESHOP_body","source":"Go to Sell","translation":"Przejdź do sprzedaży","status":"draft"}
+{"id":"String_UI_NPCSHOP_CATEGORY_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
+{"id":"String_UI_NPCSHOP_CATEGORY_ETC_body","source":"Miscellaneous","translation":"Różne","status":"draft"}
+{"id":"String_UI_NPCSHOP_CATEGORY_POTION_body","source":"Potion","translation":"Mikstura","status":"draft"}
+{"id":"String_UI_NPCSHOP_CATEGORY_SCROLL_body","source":"Scroll","translation":"Zwój","status":"draft"}
+{"id":"String_UI_NPCSHOP_CHARACTERLEVEL_LIMIT_body","source":"Required Level <insufficient>{0}/{1}</>","translation":"Wymagany poziom <insufficient>{0}/{1}</>","status":"draft"}
+{"id":"String_UI_NPCSHOP_FILTER_RESULT_NOTHING_body","source":"No Applicable Items","translation":"Brak pasujących przedmiotów","status":"draft"}
+{"id":"String_UI_NPCSHOP_GOODSLIST_FILTER_CAN_EQUIP_body","source":"Show equippable gear only","translation":"Pokaż tylko przedmioty, które można założyć","status":"draft"}
+{"id":"String_UI_NPCSHOP_GUILDLEVEL_LIMIT_body","source":"Required Legion Level <insufficient>{0}/{1}</>","translation":"Wymagany poziom Legionu <insufficient>{0}/{1}</>","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADD1000_body","source":"+1,000","translation":"+1000","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADD100_body","source":"+100","translation":"+100","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADD10_body","source":"+10","translation":"+10","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADDMAX49_body","source":"MAX 49.9%","translation":"MAKS. 49,9%","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADDMAX79_body","source":"MAX 79.9%","translation":"MAKS. 79,9%","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_BUTTON_ADDMAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_TITLELIST_COUNT_body","source":"[<ref style=\"ItemList_Count_Normal\" attr=\"color\">{0}</>/{1}]","translation":"[<ref style=\"ItemList_Count_Normal\" attr=\"color\">{0}</>/{1}]","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEMLIST_TITLELIST_body","source":"Purchase / Sell List","translation":"Lista kupna / sprzedaży","status":"draft"}
+{"id":"String_UI_NPCSHOP_ITEM_BUNDLE_COUNT_body","source":"x{0}","translation":"x{0}","status":"draft"}
+{"id":"String_UI_NPCSHOP_LIMIT_TARGET_CHARACTER_body","source":"Per Character","translation":"Na postać","status":"draft"}
+{"id":"String_UI_NPCSHOP_LIMIT_TARGET_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_NPCSHOP_LIMIT_TARGET_SERVER_ACCOUNT_body","source":"Per Server","translation":"Na serwer","status":"draft"}
+{"id":"String_UI_NPCSHOP_RESET_TIME_body","source":"Resets in {0}","translation":"Reset za {0}","status":"draft"}
+{"id":"String_UI_NPCSHOP_TITLE_body","source":"NPC Shop","translation":"Sklep NPC","status":"draft"}
+{"id":"String_UI_NPCSHOP_TOTAL_PRICE_body","source":"Total Amount","translation":"Łączna kwota","status":"draft"}
+{"id":"String_UI_NPC_FUNC_ADD_ABNORMAL_POPUP_DESC_body","source":"{0} has granted you {1}.\nWould you like to accept this buff?\n(Duration: {2})","translation":"{0} przyznaje ci {1}.\nCzy chcesz przyjąć to wzmocnienie?\n(Czas trwania: {2})","status":"draft"}
+{"id":"String_UI_NPC_FUNC_ADD_ABNORMAL_POPUP_TITLE_body","source":"Grant Buff","translation":"Przyznanie wzmocnienia","status":"draft"}
+{"id":"String_UI_NPLOGIN_ID_TEXT_body","source":"ID","translation":"ID","status":"draft"}
+{"id":"String_UI_NPLOGIN_PW_TEXT_body","source":"PW","translation":"Hasło","status":"draft"}
+{"id":"String_UI_NUMBER_COUNTTEXT_body","source":"{0}{1}{2}","translation":"{0}{1}{2}","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_0_body","source":"0","translation":"0","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_1_body","source":"1","translation":"1","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_2_body","source":"2","translation":"2","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_3_body","source":"3","translation":"3","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_4_body","source":"4","translation":"4","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_5_body","source":"5","translation":"5","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_6_body","source":"6","translation":"6","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_7_body","source":"7","translation":"7","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_8_body","source":"8","translation":"8","status":"draft"}
+{"id":"String_UI_NUMPAD_KEY_9_body","source":"9","translation":"9","status":"draft"}
+{"id":"String_UI_NUMPAD_TEXT_AMOUNT_body","source":"Quantity","translation":"Ilość","status":"draft"}
+{"id":"String_UI_NUMPAD_TITLE_body","source":"Enter Quantity","translation":"Wprowadź ilość","status":"draft"}

@@ -1,0 +1,45 @@
+{
+  "table": "locres-NCUMG",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "cfbd34367f94b2424f87220cfebb146500829f8620eed3a13781a4a4a3e21c27",
+  "records": 1697,
+  "decodedJsonSha256": "b8f0c264c3aea7ced4977f6e787f4abccf85c2697a4ad92a62196bb983bac9f6",
+  "batches": [
+    {
+      "file": "locres-NCUMG/NCUMG/0001.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0002.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0003.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0004.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0005.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0006.jsonl",
+      "count": 250,
+      "category": "NCUMG"
+    },
+    {
+      "file": "locres-NCUMG/NCUMG/0007.jsonl",
+      "count": 197,
+      "category": "NCUMG"
+    }
+  ]
+}

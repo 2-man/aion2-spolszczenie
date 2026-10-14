@@ -1,0 +1,250 @@
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_SUPPRESSION_REWARD_DESC_body", "source": "Be sure to pay attention to which Raid Debuffs are applied, and activate Raid Buffs to perfect your strategy.\n+ Debuffs are applied randomly when starting the dungeon and accumulate each time a boss is defeated.\n+ Defeating the enemies at each stronghold grants Buffs that will aid you.\n+ Clear rewards are fixed, but Rank Points calculated based on clear time and remaining deaths are reflected in the season rank.", "translation": "Zwróć uwagę na aktywne osłabienia rajdu i uruchamiaj wzmocnienia rajdu, aby dopracować strategię.\n+ Osłabienia są losowane przy wejściu do lochu i kumulują się po pokonaniu każdego bossa.\n+ Pokonuj wrogów w każdej warowni, aby zdobywać pomocne wzmocnienia.\n+ Nagrody za ukończenie są stałe, ale punkty rangi zależą od czasu ukończenia i liczby pozostałych śmierci, co wpływa na rangę sezonową.", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_SUPPRESSION_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_TITLE_DESC_body", "source": "Titles are earned by completing achievements.\n\n+ View your titles in the [Title] menu.\n+ [Equip] the titles you've acquired.\n+ You can equip up to 3 titles at once, and gain bonus stats from them.", "translation": "Tytuły zdobywa się za osiągnięcia.\n\n+ Swoje tytuły sprawdzisz w menu [Tytuł].\n+ [Wyposaż] zdobyte tytuły.\n+ Możesz mieć jednocześnie wyposażone maksymalnie 3 tytuły, które zapewniają dodatkowe statystyki.", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_TITLE_REWARD_DESC_body", "source": "View acquired titles via [Main Menu] - [Title]\n+ Equipped titles grant stat boosts based on their [Equip Effect] (up to 3).\n+ You can display your title above your character's name using [Equip Title].", "translation": "Zdobyte tytuły sprawdzisz w [Menu główne] - [Tytuł].\n+ Wyposażone tytuły zapewniają premie do statystyk zgodnie z ich [Efektem wyposażenia] (maks. 3).\n+ Możesz wyświetlać tytuł nad imieniem postaci, wybierając [Wyposaż tytuł].", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_TITLE_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_TRIAL_DESC_body", "source": "A 5-player Party Dungeon that is available on a weekly basis.\n\n+ Check the list of Ordeal from [Main Menu] - [Expedition].", "translation": "Cotygodniowy loch drużynowy dla 5 graczy.\n\n+ Listę Ordeal sprawdzisz w [Menu główne] - [Wyprawa].", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_TRIAL_REWARD_DESC_body", "source": "You can adjust the difficulty using four different settings.\n\n+ Each setting can be configured from Level 1 to Level 4. Rewards vary based on the selected difficulty.", "translation": "Możesz ustawić poziom trudności na jeden z czterech sposobów.\n\n+ Każde ustawienie można skonfigurować na poziomach od 1 do 4. Nagrody zależą od wybranego poziomu trudności.", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_WING_DESC_body", "source": "Daeva possess a unique ability to change wings and fly.\n\n+ Completing the Ascension quest in Poeta or Ishalgen grants you basic wings and unlocks flight.", "translation": "Daeva potrafią zmieniać skrzydła i latać.\n\n+ Ukończenie zadania wniebowstąpienia w Poecie lub Ishalgen zapewnia podstawowe skrzydła i odblokowuje latanie.", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_WING_REWARD_DESC_body", "source": "View the full list of wings and the list of wings you own in [Main Menu] - [Wings].\n+ Each pair of wings has additional stats.\n+ You can obtain wings in their completed form or by collecting Wing Featherdown and using Substance Morph.\n+ You can get wings and Wing Featherdown via monster kills, content rewards, or Substance Morph.", "translation": "Pełną listę skrzydeł i posiadane skrzydła sprawdzisz w [Menu główne] - [Skrzydła].\n+ Każda para skrzydeł zapewnia dodatkowe statystyki.\n+ Skrzydła możesz zdobyć w gotowej postaci albo zebrać puch skrzydeł i użyć Transmutacji substancji.\n+ Skrzydła i puch skrzydeł zdobywasz za pokonywanie potworów, nagrody za zawartość lub Transmutację substancji.", "status": "draft"}
+{"id": "String_UI_CONTENTSNAVIGATOR_TYPE_WING_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_AWAKEN_ITEM_COUNT_DEFAULT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_AWAKEN_ITEM_COUNT_body", "source": "{0}<Awaken_Recharge_Ticket>(+{1})</>/{2}", "translation": "{0}<Awaken_Recharge_Ticket>(+{1})</>/{2}", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_COUNT_DEFAULT_TITLE_body", "source": "Default Count", "translation": "Liczba podstawowa", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_COUNT_ITEM_TITLE_body", "source": "Recharge Count", "translation": "Liczba doładowań", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_COUNT_RECHARGE_TIME_body", "source": "Default Count recharges in", "translation": "Doładowanie liczby podstawowej za", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_ITEM_COUNT_DEFAULT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_ITEM_COUNT_ZERO_body", "source": "<insufficient>{0}/{1}</>", "translation": "<insufficient>{0}/{1}</>", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_ITEM_COUNT_body", "source": "{0}<BossChallenge_Recharge_Ticket>(+{1})</>/{2}", "translation": "{0}<BossChallenge_Recharge_Ticket>(+{1})</>/{2}", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_ITEM_TIME_DEFAULT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_ITEM_TIME_body", "source": "{0}<BossChallenge_Recharge_Ticket>(+{1})</>", "translation": "{0}<BossChallenge_Recharge_Ticket>(+{1})</>", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TIME_DEFAULT_TITLE_body", "source": "Basic Usage Time", "translation": "Podstawowy czas korzystania", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TIME_ITEM_TITLE_body", "source": "Added Usage Time", "translation": "Dodatkowy czas korzystania", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_DAILY_DEFAULT_COUNT_body", "source": "Daily Charge Amount", "translation": "Dzienna liczba doładowań", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_DAILY_DEFAULT_TIME_body", "source": "Daily Added Usage Time", "translation": "Dodatkowy dzienny czas korzystania", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_DAILY_ENERGY_COUNT_body", "source": "Daily Charged Energy", "translation": "Dziennie doładowana energia", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TICKET_DAILY_body", "source": "Daily recharge in", "translation": "Codzienne doładowanie za", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TICKET_RECHARGE_TITLE_body", "source": "Auto Recharge", "translation": "Automatyczne doładowanie", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TICKET_TIME_body", "source": "Periodic recharge in", "translation": "Okresowe doładowanie za", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TICKET_WEEKLY_body", "source": "Weekly recharge in", "translation": "Cotygodniowe doładowanie za", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TIME_DEFAULT_COUNT_body", "source": "Periodical Charge Amount", "translation": "Okresowa liczba doładowań", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TIME_DEFAULT_TIME_body", "source": "Periodically Added Usage Time", "translation": "Okresowo dodany czas korzystania", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_TIME_ENERGY_COUNT_body", "source": "Periodically Charged Energy", "translation": "Okresowo doładowana energia", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_WEEKLY_DEFAULT_COUNT_body", "source": "Weekly Charge Amount", "translation": "Cotygodniowa liczba doładowań", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_WEEKLY_DEFAULT_TIME_body", "source": "Weekly Added Usage Time", "translation": "Dodatkowy cotygodniowy czas korzystania", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_RECHARGE_WEEKLY_ENERGY_COUNT_body", "source": "Weekly Charged Energy", "translation": "Cotygodniowo doładowana energia", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_UNCLAIMED_TICKET_COUNT_body", "source": "Remaining Unobtained Cube Count", "translation": "Pozostała liczba nieodebranych Kostek", "status": "draft"}
+{"id": "String_UI_CONTENTS_TICKET_TOOLTIP_UNCLAIMED_TICKET_TIME_body", "source": "Time Until Reset", "translation": "Czas do resetu", "status": "draft"}
+{"id": "String_UI_CONTENTS_TOOLTIP_TRIAL_REWARD_INFO_body", "source": "Time Until Reset", "translation": "Czas do resetu", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ACHIEVEMENT_body", "source": "Achievements", "translation": "Osiągnięcia", "status": "draft"}
+{"id":"String_UI_CONTENTS_UNLOCK_ARCANA_body","source":"Arcana","translation":"Arkana","status":"draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ARENA_body", "source": "Arena and Battlefield", "translation": "Arena i Pole bitwy", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ATTENDANCE_body", "source": "Attendance", "translation": "Logowanie", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_AUTOBATTLE_body", "source": "Auto Combat", "translation": "Automatyczna walka", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_AWAKENDUNGEON_body", "source": "Ascension Trial", "translation": "Próba wniebowstąpienia", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_BATTLEPASS_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_BMSHOP_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_BOSSCHALLENGE_body", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CHARACTERCHANGE_body", "source": "Change Character", "translation": "Zmień postać", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CHAT_body", "source": "Chat", "translation": "Czat", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_COLLECTION_body", "source": "Holy Artifact", "translation": "Święty artefakt", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_COMMUNITY_body", "source": "Manage Friends", "translation": "Zarządzaj znajomymi", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONDITION_ASCENSION_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONDITION_LEVEL_body", "source": "Reach Level {0}", "translation": "Osiągnij poziom {0}", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONDITION_QUEST_body", "source": "Complete the '{0}' Quest", "translation": "Ukończ zadanie „{0}”", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONDITION_body", "source": "<ContentsUnlock_Title>Unlock Condition</>", "translation": "<ContentsUnlock_Title>Warunek odblokowania</>", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONTENTSNAVIGATOR_body", "source": "Navigator", "translation": "Nawigator", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CONVERSION_body", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_COUPON_body", "source": "Enter Coupon", "translation": "Wpisz kod", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CRAFT_body", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_CUSTOMIZING_body", "source": "Customization", "translation": "Personalizacja", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_DAEVANION_body", "source": "Daevanion", "translation": "Daevanion", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_DAILYDUNGEONLOBBY_body", "source": "Daily Dungeon", "translation": "Loch codzienny", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_DAILYDUNGEON_body", "source": "Unknown Fissure", "translation": "Nieznana Szczelina", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_DAMAGEANALYZER_body", "source": "Combat Analysis", "translation": "Analiza walki", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_DREAMCROSSROAD_body", "source": "Dream Crossroad", "translation": "Rozdroże marzeń", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_EMBLEM_body", "source": "Seals", "translation": "Pieczęcie", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ENCHANT_body", "source": "Enhancement", "translation": "Wzmocnienie", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_GATHER_body", "source": "Gathering", "translation": "Zbieractwo", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_GROWTHDUNGEON_body", "source": "Fields of Progress", "translation": "Pola postępu", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_GUILD_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_HUDEDIT_body", "source": "Edit HUD", "translation": "Edytuj interfejs", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ITEMDECOMPOSE_body", "source": "Item Extraction", "translation": "Wydobycie przedmiotu", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ITEMDELETE_body", "source": "Delete Item", "translation": "Usuń przedmiot", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_JOURNAL_body", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_MESSAGE_BODY_body", "source": "Content unlocked.", "translation": "Odblokowano zawartość.", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_MESSAGE_TITLE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_ONBOARDING_body", "source": "Growth Support", "translation": "Wsparcie rozwoju", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PANTHEON_body", "source": "Pantheon", "translation": "Panteon", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON1TIER_body", "source": "Conquest Tier 1", "translation": "Podbój — poziom 1", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON2TIER_body", "source": "Conquest Tier 2", "translation": "Podbój — poziom 2", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON3TIER_body", "source": "Conquest Tier 3", "translation": "Podbój — poziom 3", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON4TIER_body", "source": "Conquest Tier 4", "translation": "Podbój — poziom 4", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON5TIER_body", "source": "Conquest Tier 5", "translation": "Podbój — poziom 5", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON6TIER_body", "source": "Conquest Tier 6", "translation": "Podbój — poziom 6", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEONCHALLENGE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYDUNGEON_body", "source": "Expedition", "translation": "Wyprawa", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PARTYFORCE_body", "source": "Party", "translation": "Drużyna", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_PERIODCOLLECTION_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_POST_body", "source": "Mail", "translation": "Poczta", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_RAID_body", "source": "Sanctuary", "translation": "Sanktuarium", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_RANKING_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_RIDE_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SEASONMISSION_body", "source": "Season Mission", "translation": "Misja sezonowa", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SEASON_body", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SHUGOFESTA_body", "source": "Shugo Festival", "translation": "Festiwal Shugo", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SKILL_body", "source": "Skill", "translation": "Umiejętność", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SKIN_body", "source": "Closet", "translation": "Garderoba", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SNAPSHOT_body", "source": "Snapshot", "translation": "Zrzut ekranu", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_STATINFO_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_SUPPRESSION_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_TITLE_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_TRADE_body", "source": "Market", "translation": "Rynek", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_WING_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_WORLDLEVELSCALE_body", "source": "World Level", "translation": "Poziom świata", "status": "draft"}
+{"id": "String_UI_CONTENTS_UNLOCK_body", "source": "Content Unlocked", "translation": "Odblokowano zawartość", "status": "draft"}
+{"id": "String_UI_CONVERSION_AVAILABLE_COUNT_MAX_body", "source": "{0} / {1}", "translation": "{0} / {1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_BUTTON_CONVERSION_CANCEL_body", "source": "Cancel Morph", "translation": "Anuluj transmutację", "status": "draft"}
+{"id": "String_UI_CONVERSION_BUTTON_CONVERSION_body", "source": "Morph", "translation": "Transmutuj", "status": "draft"}
+{"id": "String_UI_CONVERSION_CHECKBUTTON_REGISTERED_body", "source": "Only show designs that are currently available", "translation": "Pokaż tylko dostępne projekty", "status": "draft"}
+{"id": "String_UI_CONVERSION_COMPONENTCOMBINE_MOUSEOVER_TEXT_body", "source": "Material Summary", "translation": "Podsumowanie materiałów", "status": "draft"}
+{"id": "String_UI_CONVERSION_COMPONENT_ITEM_NAME_body", "source": "{0} Gear Material Item", "translation": "{0} — materiał ekwipunku", "status": "draft"}
+{"id": "String_UI_CONVERSION_CONVERSION_MOUSEOVER_TEXT_body", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "String_UI_CONVERSION_COUNT_TEXT_body", "source": "Morph Quantity: {0}", "translation": "Liczba transmutacji: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_GREAT_SUCCESS_RATE_body", "source": "Great Success Chance", "translation": "Szansa na wielki sukces", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIMITRESETTYPE_DAILY_body", "source": "Daily", "translation": "Codziennie", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIMITRESETTYPE_MONTHLY_body", "source": "Monthly", "translation": "Co miesiąc", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIMITRESETTYPE_NONE_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIMITRESETTYPE_WEEKLY_body", "source": "Weekly", "translation": "Co tydzień", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIST_AVAILABLE_COUNT_REGISTER_body", "source": "[{0}/{1} Morphs possible]", "translation": "[{0}/{1} możliwych transmutacji]", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIST_AVAILABLE_COUNT_body", "source": "Morph Available {0}", "translation": "Dostępne transmutacje: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIST_AVAILABLE_COUNT_success_body", "source": "Success Possible {0}/{1}", "translation": "Możliwe sukcesy: {0}/{1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIST_AVAILABLE_COUNT_try_body", "source": "Morph Available {0}/{1}", "translation": "Dostępne transmutacje: {0}/{1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_LIST_QUANTITY_body", "source": "Quantity to Receive: {0}", "translation": "Ilość do otrzymania: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_BY_QUANTITY_body", "source": "Select Materials by Quantity to Receive", "translation": "Wybierz materiały według ilości do otrzymania", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_1_body", "source": "Items that are difficult to obtain will be used as ingredients.", "translation": "Jako składniki zostaną użyte przedmioty trudne do zdobycia.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_2_body", "source": "Please check consumed materials.", "translation": "Sprawdź zużywane materiały.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_EXPLAIN1_body", "source": "Crafting materials include effect-imbued gear.", "translation": "Materiały rzemieślnicze obejmują ekwipunek nasycony efektami.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_EXPLAIN2_body", "source": "Would you like to proceed with Substance Morph?", "translation": "Czy chcesz kontynuować transmutację substancji?", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_QUANTITY_body", "source": "Quantity to Receive: {0}", "translation": "Ilość do otrzymania: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_SELECT_ALL_body", "source": "Select All", "translation": "Zaznacz wszystko", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_CONFIRM_STORAGE_TEXT_body", "source": "Stored Location: {0}", "translation": "Miejsce przechowywania: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_INFO_NEED_DP_TEXT_body", "source": "Divine Power", "translation": "Moc boska", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_INFO_REPLACEMENT_POPUP_TITLE_body", "source": "Select Replacement Item", "translation": "Wybierz przedmiot zastępczy", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_QUANTITY_FORMAT_body", "source": "{0} Unit(s)", "translation": "{0} szt.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_TOOLTIP_ENCHANTED_EQUIP_SELECT_body", "source": "Include Enhanced Gear", "translation": "Uwzględnij wzmocniony ekwipunek", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_TOOLTIP_MULTI_MATERIAL_SELECET_body", "source": "Select All", "translation": "Zaznacz wszystko", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_TOOLTIP_MULTI_body", "source": "Materials in your Cube are used first. Gear that has been equipped, Soul Bound to another character, or registered in a Preset will not be used as material.", "translation": "Najpierw wykorzystywane są materiały z Kostki. Wyposażony ekwipunek, związany duszą z inną postacią lub zarejestrowany w zestawie nie zostanie użyty jako materiał.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_TOOLTIP_body", "source": "Materials in your Cube are used first. Gear that has been equipped, Soul Bound to another character, or registered in a Preset will not be used as material.", "translation": "Najpierw wykorzystywane są materiały z Kostki. Wyposażony ekwipunek, związany duszą z inną postacią lub zarejestrowany w zestawie nie zostanie użyty jako materiał.", "status": "draft"}
+{"id": "String_UI_CONVERSION_MATERIAL_info_Title_body", "source": "Material", "translation": "Materiał", "status": "draft"}
+{"id": "String_UI_CONVERSION_MULTI_SELECT_MATERIAL_body", "source": "Multiple Selected Materials", "translation": "Wiele wybranych materiałów", "status": "draft"}
+{"id": "String_UI_CONVERSION_NO_MATERIAL_body", "source": "No materials owned.", "translation": "Nie masz żadnych materiałów.", "status": "draft"}
+{"id": "String_UI_CONVERSION_PRODUCT_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_Product_Count_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_QUANTITY_body", "source": "Morph Quantity", "translation": "Liczba transmutacji", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_CRITICAL_SUCCESS_PROB_body", "source": "<ref style=\"sufficient\" attr=\"color, size\">Great Success Chance:</> {0}", "translation": "<ref style=\"sufficient\" attr=\"color, size\">Szansa na wielki sukces:</> {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_CRITICAL_SUCCESS_body", "source": "Great Success", "translation": "Wielki sukces", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_FAILURE_REWARD_PROB_body", "source": "<ref style=\"sufficient\" attr=\"color, size\">Compensation Chance on failure:</>{0}", "translation": "<ref style=\"sufficient\" attr=\"color, size\">Szansa na rekompensatę przy porażce:</>{0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_ACCOUNT_body", "source": "Per Server", "translation": "Na serwer", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_CHARACTER_body", "source": "Per Character", "translation": "Na postać", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_GoldNonbinding_body", "source": "Only unbound Kina can be used as a material.", "translation": "Jako materiał można wykorzystać tylko niezwiązane Kina.", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_NUM_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_SERVER_body", "source": "Server Sequential Order", "translation": "Kolejność na serwerze", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_LIMIT_TIME_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_INFO_RESET_body", "source": "(Reset {0})", "translation": "(Reset: {0})", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_Info_Success_Prob_body", "source": "<ref style=\"sufficient\" attr=\"color, size\">Success Chance: </>{0}", "translation": "<ref style=\"sufficient\" attr=\"color, size\">Szansa na sukces: </>{0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RECIPE_LIST_NOTHING_body", "source": "No designs to display.", "translation": "Brak projektów do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_ACHIEVEMENT_TOOLTIP_body", "source": "{0} Achievement Unlocked", "translation": "Odblokowano osiągnięcie: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_ACHIEVEMENT_body", "source": "Achievement Unlock Required", "translation": "Wymagane odblokowanie osiągnięcia", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_ALCHEMYMASTERY_body", "source": "Alchemy Proficiency Level {0}", "translation": "Poziom biegłości alchemii {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_BLACKSMITHINGMASTERY_body", "source": "Blacksmithing Proficiency Level {0}", "translation": "Poziom biegłości kowalstwa {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_COOKINGMASTERY_body", "source": "Cooking Proficiency Level {0}", "translation": "Poziom biegłości gotowania {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_EXTRACTFORCEMASTERY_body", "source": "Essence Extraction Proficiency Level {0}", "translation": "Poziom biegłości pozyskiwania esencji {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_GATHER_body", "source": "Acquirable upon extracting {0}", "translation": "Można zdobyć przez wydobycie: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_ITEM_body", "source": "Must acquire design", "translation": "Wymagane zdobycie projektu", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_JEWELCRAFTINGMASTERY_body", "source": "Handicrafting Proficiency Level {0}", "translation": "Poziom biegłości rękodzieła {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_LEVEL_body", "source": "Auto acquired at Level {0}", "translation": "Automatycznie zdobywane na poziomie {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_MASTERY_body", "source": "A higher {0} Crafting Proficiency Level is required", "translation": "Wymagany wyższy poziom biegłości rzemiosła: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_METHOD_body", "source": "Acquisition Requirements", "translation": "Wymagania zdobycia", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_MONOLITH_LEVEL_TOOLTIP_body", "source": "{0} Level {1} Required", "translation": "Wymagany poziom {0}: {1}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_MONOLITH_LEVEL_body", "source": "Insufficient {0} Level", "translation": "Niewystarczający poziom: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_PCLEVEL_TOOLTIP_body", "source": "Required Character Level {0}", "translation": "Wymagany poziom postaci: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_PCLEVEL_body", "source": "Insufficient Character Level", "translation": "Niewystarczający poziom postaci", "status": "draft"}
+{"id": "String_UI_CONVERSION_REGISTER_TAILORINGMASTERY_body", "source": "Armorsmithing Proficiency Level {0}", "translation": "Poziom biegłości płatnerstwa {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_REPLACEMENT_POPUP_BUTTON_body", "source": "Replace", "translation": "Zastąp", "status": "draft"}
+{"id": "String_UI_CONVERSION_REPLACE_MOUSEOVER_TEXT_body", "source": "Replace Materials", "translation": "Zastąp materiały", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_CONFIRM_BUTTON_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_CRITICAL_COUNT_body", "source": "Great Success: {0}", "translation": "Wielki sukces: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_FAILURE_COUNT_body", "source": "Failure {0}", "translation": "Porażka: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_FAILURE_REWARD_COUNT_body", "source": "Failure Compensation: {0}", "translation": "Rekompensata za porażkę: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_SUCCESS_COUNT_body", "source": "Success {0}", "translation": "Sukces: {0}", "status": "draft"}
+{"id": "String_UI_CONVERSION_RESULT_body", "source": "Substance Morph Results", "translation": "Wyniki transmutacji substancji", "status": "draft"}
+{"id": "String_UI_CONVERSION_SELECTED_MATERIAL_LIST_body", "source": "Selected Materials", "translation": "Wybrane materiały", "status": "draft"}
+{"id": "String_UI_CONVERSION_SELECT_MATERIAL_NOTICE_body", "source": "Select materials to use.", "translation": "Wybierz materiały do użycia.", "status": "draft"}
+{"id": "String_UI_CONVERSION_SUCCESS_RATE_body", "source": "Success Chance", "translation": "Szansa na sukces", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_ALL_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_EV_body", "source": "Event", "translation": "Wydarzenie", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_E_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_F_body", "source": "Decor", "translation": "Dekoracje", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_G_body", "source": "Gatherable Material", "translation": "Zbierane materiały", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_S_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_MAIN_W_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_BMSHOP_body", "source": "Wind Breeze Merchants", "translation": "Handlarze Zefiru", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_BOSSBOX_body", "source": "Medal", "translation": "Medal", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_CANDY_body", "source": "Candy", "translation": "Cukierek", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_EQUIPSUPPLY_body", "source": "Gear Material", "translation": "Materiały do ekwipunku", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_EQUIP_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_FOOD_body", "source": "Cooking Ingredient", "translation": "Składnik kulinarny", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_FRAME_body", "source": "Artwork", "translation": "Dzieło sztuki", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_GEMSTONE_body", "source": "Gem", "translation": "Klejnot", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_HERB_body", "source": "Herb", "translation": "Zioło", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_MATERIAL_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_OD_body", "source": "Odyle", "translation": "Odyle", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_ORE_body", "source": "Ore", "translation": "Ruda", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_SKIN_body", "source": "Skins", "translation": "Skórki", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_STATUE_body", "source": "Statue", "translation": "Posąg", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_SUCCESSION_body", "source": "Transfer Stone", "translation": "Kamień transferu", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_SURPASS_body", "source": "Potential", "translation": "Potencjał", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_TOKEN_body", "source": "Crystal", "translation": "Kryształ", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_UPGRADE_body", "source": "Growth Materials", "translation": "Materiały rozwoju", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_USABLE_body", "source": "Consumable", "translation": "Przedmiot użytkowy", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_WINGENCHANT_body", "source": "Wing Enhancement", "translation": "Wzmocnienie skrzydeł", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_WING_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_CONVERSION_TAB_SUB_WOOD_body", "source": "Log", "translation": "Kłoda", "status": "draft"}
+{"id": "String_UI_CONVERSION_TITLE_body", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "String_UI_CONVERSION_TRADESEARCH_MOUSEOVER_TEXT_body", "source": "Search Market", "translation": "Szukaj na rynku", "status": "draft"}
+{"id": "String_UI_COUNTTEXT_HUNDREDMILLION_body", "source": "00 Mil.", "translation": "00 mln", "status": "draft"}
+{"id": "String_UI_COUNTTEXT_TENTHOUSAND_body", "source": "0K", "translation": "0 tys.", "status": "draft"}
+{"id": "String_UI_COUNTTEXT_TRILLION_body", "source": "Tril.", "translation": "bln", "status": "draft"}
+{"id": "String_UI_COUNTTEXT_body", "source": "{0}{1}", "translation": "{0}{1}", "status": "draft"}
+{"id": "String_UI_COUNT_NUMBER_body", "source": "{0}{1}", "translation": "{0}{1}", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_ALREADY_USED_body", "source": "This coupon has already been registered and used.", "translation": "Ten kupon został już zarejestrowany i wykorzystany.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_COMMON_MESSAGE_body", "source": "Invalid coupon.", "translation": "Nieprawidłowy kupon.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_EXCEED_ACCOUNT_LIMIT_body", "source": "Exceeded the number of registrations allowed.", "translation": "Przekroczono dozwoloną liczbę rejestracji.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INCORRECT_SETTING_body", "source": "Incorrect coupon setting.", "translation": "Nieprawidłowe ustawienie kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INVALID_EFFECTIVE_FROM_body", "source": "Not usable at the moment.", "translation": "Kupon jest obecnie niedostępny.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INVALID_EFFECTIVE_TO_body", "source": "The coupon has expired.", "translation": "Kupon stracił ważność.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INVALID_ISSUE_SEQ_STATUS_body", "source": "Incorrect coupon setting.", "translation": "Nieprawidłowe ustawienie kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INVALID_KEY_BLANK_body", "source": "Cannot register this coupon code.", "translation": "Nie można zarejestrować tego kodu kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_INVALID_KEY_NUMBER_body", "source": "Cannot register this coupon code.", "translation": "Nie można zarejestrować tego kodu kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_NOT_ONLINE_body", "source": "Please log in to use it.", "translation": "Zaloguj się, aby użyć kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_NOT_USABLE_COUPON_body", "source": "Invalid coupon.", "translation": "Nieprawidłowy kupon.", "status": "draft"}
+{"id": "String_UI_COUPON_ERROR_UNIDENTIFIED_COUPON_body", "source": "This coupon cannot be verified.", "translation": "Nie można zweryfikować tego kuponu.", "status": "draft"}
+{"id": "String_UI_COUPON_GUIDE_TUTORIAL_CHARACTER_REGISTRATION_body", "source": "Coupon can be registered after completing \"{0}\".", "translation": "Kupon można zarejestrować po ukończeniu zadania „{0}”.", "status": "draft"}
+{"id": "String_UI_COUPON_SUCCESS_REGISTRATION_body", "source": "Coupon successfully registered and item awarded.\nPlease check your Cube.", "translation": "Kupon zarejestrowano. Przedmiot został przyznany.\nSprawdź swoją Kostkę.", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TAB_ALCHEMY_body", "source": "Alchemy", "translation": "Alchemia", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TAB_BLACKSMITHING_body", "source": "Blacksmithing", "translation": "Kowalstwo", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TAB_COOKING_body", "source": "Cooking", "translation": "Gotowanie", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TAB_JEWELCRAFTING_body", "source": "Handicrafting", "translation": "Rękodzieło", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TAB_TAILORING_body", "source": "Armorsmithing", "translation": "Płatnerstwo", "status": "draft"}
+{"id": "String_UI_CRAFTSKILL_TITLE_body", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "String_UI_CRAFT_ACQUIRE_POPUP_BTN_ACQUIRE_body", "source": "Acquire", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_CRAFT_BTN_ACQUIRE_body", "source": "Acquire", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_CRAFT_COMPONENTCOMBINE_MOUSEOVER_TEXT_body", "source": "Material Summary", "translation": "Podsumowanie materiałów", "status": "draft"}
+{"id": "String_UI_CRAFT_CRAFT_BUTTON_CRAFT_body", "source": "Start Crafting", "translation": "Rozpocznij rzemiosło", "status": "draft"}
+{"id": "String_UI_CRAFT_CRAFT_MOUSEOVER_TEXT_body", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "String_UI_CRAFT_CRAFT_SUBTITLE_COUNT_body", "source": "Crafting Quantity: {0}", "translation": "Liczba wytwarzanych przedmiotów: {0}", "status": "draft"}
+{"id": "String_UI_CRAFT_GUIDE_SOULBIND_ACQUIRE_body", "source": "The crafted item will be bound to the character that made it.", "translation": "Wytworzony przedmiot zostanie związany z postacią, która go stworzyła.", "status": "draft"}
+{"id": "String_UI_CRAFT_HIT_NOTIFICATION_body", "source": "If hit during crafting, the process will fail and the materials used will still be consumed.", "translation": "Trafienie podczas wytwarzania przerwie proces, spowoduje porażkę i zużyje użyte materiały.", "status": "draft"}
+{"id": "String_UI_CRAFT_MASTERY_BTN_MASTER_body", "source": "Artisan Upgrade", "translation": "Awans na mistrza rzemiosła", "status": "draft"}

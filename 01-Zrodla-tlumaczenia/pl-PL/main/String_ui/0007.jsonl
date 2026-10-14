@@ -1,0 +1,250 @@
+{"id":"String_UI_CRAFT_MASTERY_CANCEL_POPUP_TEXT_body","source":"Canceling the upgrade will remove all related Items.\n\nAre you sure you want to cancel?","translation":"Anulowanie awansu usunie wszystkie powiązane przedmioty.\n\nCzy na pewno chcesz anulować?","status":"draft"}
+{"id":"String_UI_CRAFT_MASTERY_MASTER_CANCEL_POPUP_BTN_OK_body","source":"Cancel {0} Artisan","translation":"Anuluj awans na mistrza rzemiosła: {0}","status":"draft"}
+{"id":"String_UI_CRAFT_MASTERY_MASTER_POPUP_BTN_OK_body","source":"Select Artisan","translation":"Wybierz mistrza rzemiosła","status":"draft"}
+{"id":"String_UI_CRAFT_MASTERY_MASTER_POPUP_TITLE_body","source":"Artisan Guide","translation":"Poradnik mistrza rzemiosła","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_CONFIRM_EXPLAIN1_body","source":"Crafting materials include effect-imbued gear.","translation":"Materiały rzemieślnicze obejmują ekwipunek nasycony efektami.","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_CONFIRM_EXPLAIN2_body","source":"Proceed with crafting?","translation":"Kontynuować wytwarzanie?","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_CONFIRM_STORAGE_TEXT_body","source":"Stored Location: {0}","translation":"Miejsce przechowywania: {0}","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_ITEM_SELECT_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_ITEM_SELECT_GUIDE_body","source":"Select items to use as materials.","translation":"Wybierz przedmioty, których chcesz użyć jako materiałów.","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_ITEM_SELECT_body","source":"Select Material Item","translation":"Wybierz przedmiot do użycia jako materiał","status":"draft"}
+{"id":"String_UI_CRAFT_MATERIAL_TOOLTIP_body","source":"Materials in your Cube are used first. Gear that has been equipped, Soul Bound to another character, or registered in a Preset will not be used as material.\n\nTransfer material must be bound to the character attempting the transfer crafting.","translation":"Materiały z Kostki są wykorzystywane w pierwszej kolejności. Wyposażony ekwipunek, związany duszą z inną postacią lub zarejestrowany w zestawie nie zostanie użyty jako materiał.\n\nMateriał transferowy musi być związany z postacią wykonującą transfer rzemieślniczy.","status":"draft"}
+{"id":"String_UI_CRAFT_ONBOARDING_SELECT_ITEM_body","source":"Select a Design.","translation":"Wybierz projekt.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPESELECT_TITLE_body","source":"Select Crafting Design","translation":"Wybierz projekt rzemieślniczy","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_ABYSS_body","source":"Abyss","translation":"Otchłań","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_ALCHEMY_CONSUMABLES_body","source":"Consumables","translation":"Przedmioty użytkowe","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_ALCHEMY_MATERIAL_body","source":"Materials","translation":"Materiały","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_ALCHEMY_WEAPON_body","source":"Weapons","translation":"Broń","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_AVAILABLE_COUNT_MAX_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_BLACKSMITHING_MATERIAL_body","source":"Materials","translation":"Materiały","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_BLACKSMITHING_WEAPON_body","source":"Weapons","translation":"Broń","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_BUTTON_CRAFT_body","source":"Craft","translation":"Wytwórz","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_COOKING_Drink_body","source":"Beverage","translation":"Napój","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_COOKING_Food_body","source":"Food","translation":"Jedzenie","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_COOKING_MATERIAL_body","source":"Materials","translation":"Materiały","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_HIT_NOTICE_CANCEL_body","source":"Yes","translation":"Tak","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_HIT_NOTICE_CRAFT_body","source":"No","translation":"Nie","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_HIT_NOTICE_body","source":"Would you like to start crafting?\nIf hit during crafting, the process will fail and the materials used will still be consumed.","translation":"Czy rozpocząć wytwarzanie?\nTrafienie podczas wytwarzania przerwie proces, spowoduje porażkę i zużyje użyte materiały.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_COMBO_PROBABILITY_TEXT_body","source":"Combo Activation Chance","translation":"Szansa aktywacji kombo","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_COMBO_PROBABILITY_VALUE_body","source":"{0}%","translation":"{0}%","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_COMBO_TOOLTIP_body","source":"Crafting Combo: Activate a combo to acquire more items or an item of a higher grade.\nA Combo has a chance to activate when regular crafting succeeds. When a Combo activates, the standard crafting results will be replaced by the new results.","translation":"Kombo rzemieślnicze: aktywuj kombo, aby zdobyć więcej przedmiotów lub przedmiot wyższej klasy.\nKombo może aktywować się po udanym zwykłym wytwarzaniu. Po aktywacji kombo zastępuje standardowy wynik wytwarzania nowym wynikiem.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_COMBO_body","source":"COMBO","translation":"KOMBO","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_FAILURE_REWARD_body","source":"Failure Compensation Info:","translation":"Informacje o rekompensacie za porażkę:","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_Mastery_Max_NOT_Up_body","source":"Reached max Proficiency Level. Cannot gain further Proficiency Level EXP.","translation":"Osiągnięto maksymalny poziom biegłości. Nie można zdobyć więcej PD biegłości.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_Mastery_Max_body","source":"Reached max Proficiency Level. Cannot gain further Proficiency Level EXP.\nCompleting the tasks of the Crafting Artisan will allow you to increase Proficiency Level.","translation":"Osiągnięto maksymalny poziom biegłości. Nie można zdobyć więcej PD biegłości.\nUkończ zadania mistrza rzemiosła, aby zwiększyć poziom biegłości.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_INFO_RESET_WEEK_body","source":"(Reset: {0} at {1}:00)","translation":"(Reset: {0}, godz. {1}:00)","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_JEWELCRAFTING_ACCESSORIES_body","source":"Accessories","translation":"Akcesoria","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_JEWELCRAFTING_MATERIAL_body","source":"Materials","translation":"Materiały","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_JEWELCRAFTING_WEAPON_body","source":"Weapons","translation":"Broń","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LEARN_REGISTER_NOT_body","source":"Not Acquired","translation":"Nie zdobyto","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LEARN_REGISTER_body","source":"Acquire","translation":"Zdobądź","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_AVAILABLE_COUNT_body","source":"<ref style=\"CraftList_Recipe\" attr=\"color\">Can craft</> {0}","translation":"<ref style=\"CraftList_Recipe\" attr=\"color\">Można wytworzyć</> {0}","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_Filter_TITLE_BOOKMARK_body","source":"Show favorited designs only","translation":"Pokaż tylko ulubione projekty","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_Filter_TITLE_REGISTERED_body","source":"Show acquired designs only","translation":"Pokaż tylko zdobyte projekty","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_Filter_TITLE_body","source":"Filter Options","translation":"Opcje filtrowania","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_MASTERY_body","source":"{0} pts.","translation":"{0} pkt.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_NOTHING_body","source":"No designs to display.","translation":"Brak projektów do wyświetlenia.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_DEFAULT_body","source":"Default Sorting","translation":"Sortowanie domyślne","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_EQUIPMENT_High_body","source":"Highest Level Gear First","translation":"Najpierw ekwipunek o najwyższym poziomie","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_EQUIPMENT_LOW_body","source":"Lowest Level Gear First","translation":"Najpierw ekwipunek o najniższym poziomie","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_Mastery_High_body","source":"By Proficiency Level Descending","translation":"Malejąco według poziomu biegłości","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_Mastery_Low_body","source":"By Proficiency Level Ascending","translation":"Rosnąco według poziomu biegłości","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_LIST_SORT_TITLE_body","source":"Sorting Options","translation":"Opcje sortowania","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_POINT_body","source":"1P","translation":"1 pkt.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_GUIDE_TEXT_body","source":"The crafting chance for the selected item displayed is based on the difference in crafting proficiency levels. You can view crafting chance information based on your proficiency level.","translation":"Szansa wytworzenia wybranego przedmiotu zależy od różnicy poziomów biegłości w rzemiośle. Możesz sprawdzić szansę wytworzenia dla swojego poziomu biegłości.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_MASTERY_GAP_body","source":"Proficiency Level Difference","translation":"Różnica poziomów biegłości","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_MASTERY_LEVEL_body","source":"Required Proficiency Level: {0} Lv. {1} ({2})","translation":"Wymagany poziom biegłości: {0} poz. {1} ({2})","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_MASTERY_RATE_body","source":"Crafting Chance","translation":"Szansa wytworzenia","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_MY_MASTERY_LEVEL_body","source":"Current Proficiency Level: {0} Lv. {1} ({2})","translation":"Bieżący poziom biegłości: {0} poz. {1} ({2})","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TAB_RATE_GUIDE_DESC_body","source":"[Crafting System Overview]\n\n- Crafting uses separate success and failure gauges.\n- When crafting, each time the success or failure gauge increases is called a \"turn\".\n- The result of each turn is calculated independently.\n- If the success gauge reaches the target first, crafting succeeds, but if the failure gauge reaches the target first, crafting fails.\n- However, if you are attacked while crafting is in progress, crafting will be canceled and result in failure.\n- Each recipe has different gauge target and increase values, so the rates of success also vary.\n- Gauge increase values correlate to the difference between your character's Proficiency Level and the recipe's Proficiency Level, and therefore affect your maximum chances of crafting success.\n- When normal crafting succeeds, COMBO recipe crafting may be attempted based on COMBO activation chance.\n\n[Success Chance Information]\n\n- The [Expected Probability] tab shows the maximum probability of success based on the difference with the current recipe's Proficiency Level.\n- The probability is rounded to six decimal places.\n- The displayed probability is calculated using recipe gauge information, Proficiency Level adjustments, and any other factors that affect the probability of crafting success.\n- To view COMBO recipe success chances, press the \"Change\" button in the [Expected Probability] tab to switch between base probability and COMBO probability.","translation":"[Przegląd systemu rzemiosła]\n\n- Wytwarzanie korzysta z osobnych pasków sukcesu i porażki.\n- Każde zwiększenie paska sukcesu lub porażki podczas wytwarzania nazywa się „turą”.\n- Wynik każdej tury jest obliczany niezależnie.\n- Jeśli pasek sukcesu pierwszy osiągnie cel, wytwarzanie się powiedzie. Jeśli cel osiągnie pasek porażki, wytwarzanie zakończy się niepowodzeniem.\n- Trafienie podczas wytwarzania anuluje proces i powoduje niepowodzenie.\n- Każda receptura ma inne wartości docelowe i przyrostu pasków, dlatego różnią się też szanse powodzenia.\n- Przyrost pasków zależy od różnicy między poziomem biegłości twojej postaci a poziomem biegłości wymaganym przez recepturę, co wpływa na maksymalną szansę powodzenia.\n- Po udanym zwykłym wytwarzaniu może rozpocząć się wytwarzanie receptury KOMBO, zależnie od szansy aktywacji KOMBO.\n\n[Informacje o szansie powodzenia]\n\n- Karta [Szacowane prawdopodobieństwo] pokazuje maksymalną szansę powodzenia na podstawie różnicy między twoim poziomem biegłości a poziomem wymaganym przez recepturę.\n- Prawdopodobieństwo jest zaokrąglane do sześciu miejsc po przecinku.\n- Wyświetlana szansa jest obliczana na podstawie informacji o paskach receptury, korekt poziomu biegłości i innych czynników wpływających na prawdopodobieństwo powodzenia wytwarzania.\n- Aby zobaczyć szansę powodzenia receptur KOMBO, naciśnij przycisk „Zmień” na karcie [Szacowane prawdopodobieństwo], aby przełączyć widok między szansą podstawową a szansą KOMBO.","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TAB_RATE_GUIDE_body","source":"Probability Info","translation":"Informacje o szansie","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TAB_RATE_INFO_BASIC_body","source":"Basic","translation":"Podstawowe","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TAB_RATE_INFO_COMBO_body","source":"COMBO","translation":"KOMBO","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TAB_RATE_INFO_body","source":"Expected Probability","translation":"Szacowane prawdopodobieństwo","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_RATE_POPUP_TITLE_body","source":"Crafting Chance","translation":"Szansa wytwarzania","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_SUBTITLE_NEED_MATERIAL_body","source":"Crafting Materials","translation":"Materiały rzemieślnicze","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_TAILORING_ARMOR_body","source":"Armor","translation":"Zbroja","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_TAILORING_MATERIAL_body","source":"Materials","translation":"Materiały","status":"draft"}
+{"id":"String_UI_CRAFT_RECIPE_TITLE_body","source":"Crafting","translation":"Rzemiosło","status":"draft"}
+{"id":"String_UI_CRAFT_REMOTE_PENALTY_body","source":"Crafting through the \"Crafting\" menu reduces Combat EXP gain.","translation":"Wytwarzanie z menu „Rzemiosło” zmniejsza liczbę zdobywanych bojowych PD.","status":"draft"}
+{"id":"String_UI_CRAFT_REPLACE_BUTTON_REPLACE_body","source":"Replace","translation":"Zastąp","status":"draft"}
+{"id":"String_UI_CRAFT_REPLACE_MOUSEOVER_TEXT_body","source":"Replace Materials","translation":"Zastąp materiały","status":"draft"}
+{"id":"String_UI_CRAFT_REPLACE_TITLE_body","source":"Replace Materials","translation":"Zastąp materiały","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_ABNORMAL_body","source":"{0}% chance to grant {1} ({2} seconds)","translation":"Szansa {0}% na zapewnienie efektu {1} (przez {2} s)","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_ADDPRODUCT_2_body","source":"{0}% chance to additionally obtain {1}-{2} Crafting Items","translation":"Szansa {0}% na dodatkowe zdobycie {1}–{2} przedmiotów rzemieślniczych","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_ADDPRODUCT_body","source":"{0}% chance to additionally obtain {1} Crafting Item(s)","translation":"Szansa {0}% na dodatkowe zdobycie {1} przedmiotów rzemieślniczych","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_ALWAYSSUCCESS_body","source":"{0}% chance to activate, guaranteed Turn Success when activated","translation":"Szansa {0}% na aktywację; po aktywacji tura na pewno zakończy się sukcesem","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_CANCELFAIL_body","source":"{0}% chance to activate on Crafting failure, reverting Failure Gauge increase from the last turn when activated","translation":"Szansa {0}% na aktywację po nieudanym wytwarzaniu; po aktywacji cofa przyrost paska porażki z poprzedniej tury","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_CRAFTMASTERYADD_body","source":"{3} Proficiency Level +{1}","translation":"{3} Poziom biegłości +{1}","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_CRAFTMASTERYMUL_body","source":"{3} Proficiency Level +{1}%","translation":"{3} Poziom biegłości +{1}%","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_FAILGAUGEDIV_body","source":"{0}% chance to reduce Failure Gauge by {1}%","translation":"Szansa {0}% na zmniejszenie paska porażki o {1}%","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_FAILGAUGEMINUS_body","source":"{0}% chance to reduce Failure Gauge by {1}","translation":"Szansa {0}% na zmniejszenie paska porażki o {1}","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_GAUGESPEED_body","source":"{0}% chance to increase Crafting Gauge Speed by {1}%","translation":"Szansa {0}% na zwiększenie szybkości wypełniania paska wytwarzania o {1}%","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_MATERIALRETURN_2_body","source":"{0}% chance to return {1}-{2}% of the materials used in Crafting","translation":"Szansa {0}% na zwrot {1}–{2}% materiałów zużytych podczas wytwarzania","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_MATERIALRETURN_body","source":"{0}% chance to return {1}% of the materials used in Crafting","translation":"Szansa {0}% na zwrot {1}% materiałów zużytych podczas wytwarzania","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_NAME_body","source":"{0}% chance to bind the Crafter's name to the Crafting Item","translation":"Szansa {0}% na umieszczenie imienia rzemieślnika na wytworzonym przedmiocie","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_NONE_body","source":"-","translation":"-","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_SUCCESSGAUGEADD_body","source":"{0}% chance to increase Success Gauge by {1}","translation":"Szansa {0}% na zwiększenie paska sukcesu o {1}","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_SUCCESSGAUGEFULL_body","source":"{0}% chance to activate, guaranteed Crafting Success when activated","translation":"Szansa {0}% na aktywację; po aktywacji wytwarzanie na pewno się powiedzie","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_SUCCESSGAUGEMUL_body","source":"{0}% chance to increase Success Gauge by {1}%","translation":"Szansa {0}% na zwiększenie paska sukcesu o {1}%","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_EFFECT_SUCCESSRATEUP_body","source":"{0}% chance to increase Turn Success Chance by {1}%","translation":"Szansa {0}% na zwiększenie szansy powodzenia tury o {1}%","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TEXT_CRAFT_COUNT_body","source":"Crafting Quantity: {0}","translation":"Liczba wytwarzanych przedmiotów: {0}","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TEXT_RECIPE_MASTERY_body","source":"Recipe Proficiency Level: - {0}","translation":"Poziom biegłości receptury: - {0}","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TITLE_ALCHEMY_body","source":"Acquired Alchemy Skill","translation":"Zdobyto umiejętność alchemii","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TITLE_BLACKSMITHING_body","source":"Acquired Blacksmithing Skill","translation":"Zdobyto umiejętność kowalstwa","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TITLE_COOKING_body","source":"Acquired Cooking Skill","translation":"Zdobyto umiejętność gotowania","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TITLE_JEWELCRAFTING_body","source":"Acquired Handicrafting Skill","translation":"Zdobyto umiejętność rękodzieła","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_INFO_TITLE_TAILORING_body","source":"Acquired Armorsmithing Skill","translation":"Zdobyto umiejętność płatnerstwa","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_TRIGGER_CRAFT_body","source":"Mid-Crafting Effect","translation":"Efekt podczas wytwarzania","status":"draft"}
+{"id":"String_UI_CRAFT_SKILL_TRIGGER_RESULT_body","source":"Post-Crafting Effect","translation":"Efekt po wytworzeniu","status":"draft"}
+{"id":"String_UI_CRAFT_SUCCESSION_GUIDETEXT_SUCCESS_COUNT_body","source":"Seasonal Superior Transfer Successes: {0}","translation":"Liczba udanych sezonowych transferów wyższej klasy: {0}","status":"draft"}
+{"id":"String_UI_CRAFT_SUCCESSION_GUIDETEXT_SUCCESS_GUIDE_body","source":"Enhancement and Transfer Crafting Superior Transfer count are shown.","translation":"Wyświetla liczbę udanych wzmocnień oraz transferów wyższej klasy.","status":"draft"}
+{"id":"String_UI_CRAFT_SUCCESSION_INFO_TEXT_body","source":"<Title_List_CurCount>Transfer Crafting</>\nThis craft will transfer stats for Enhancement and Amplify level, and Soul Binding.\n\n<Title_List_CurCount>Superior Transfer Crafting</>\nThis craft will transfer Unique Grade to Heroic Grade.\nStats for Enhancement and Amplify level, and Soul Binding will transfer over.","translation":"<Title_List_CurCount>Transfer rzemieślniczy</>\nTen proces przenosi poziom wzmocnienia i amplifikacji oraz wiązanie duszy.\n\n<Title_List_CurCount>Transfer rzemieślniczy wyższej klasy</>\nTen proces przenosi przedmiot z klasy unikatowej do bohaterskiej.\nPrzeniesione zostaną też poziomy wzmocnienia i amplifikacji oraz wiązanie duszy.","status":"draft"}
+{"id":"String_UI_CRAFT_SUCCESSION_MATERIAL_body","source":"Gear Transfer Material","translation":"Materiał transferowy ekwipunku","status":"draft"}
+{"id":"String_UI_CRAFT_TAB_SUCCESSION_body","source":"Transfer Crafting","translation":"Transfer rzemieślniczy","status":"draft"}
+{"id":"String_UI_CRAFT_TAB_body","source":"All","translation":"Wszystko","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_CERTAIN_SUCCESS_GUIDE_body","source":"This crafting is guaranteed to succeed.","translation":"To wytwarzanie na pewno się powiedzie.","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_CERTAIN_SUCCESS_body","source":"Success Guaranteed","translation":"Gwarantowany sukces","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_SUCCESSION_EQUIP_SELECT_body","source":"Select Transfer Gear","translation":"Wybierz ekwipunek do transferu","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_SUCCESSION_GUIDE_FAIL_body","source":"Materials are lost but transfer materials are preserved upon failure.","translation":"W razie porażki materiały zostaną utracone, ale materiały transferowe zostaną zachowane.","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_SUCCESSION_GUIDE_body","source":"<img id=\"Icon_Craft_Succession\"></> The enhancement, amplification, and Soul Binding levels of the transfer material will be carried over to the crafted item. The crafted item will also be Soul Bound to the character who crafted it.","translation":"<img id=\"Icon_Craft_Succession\"></> Poziomy wzmocnienia i amplifikacji oraz wiązanie duszy materiału transferowego zostaną przeniesione na wytworzony przedmiot. Wytworzony przedmiot zostanie również związany duszą z postacią, która go stworzyła.","status":"draft"}
+{"id":"String_UI_CRAFT_TOOLTIP_SUCCESSION_body","source":"Transfer Crafting","translation":"Transfer rzemieślniczy","status":"draft"}
+{"id":"String_UI_CUBE_ENCHANT_MENU_TOOLTIP_TEXT_body","source":"Enhancement","translation":"Wzmocnienie","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_COUNT_NUMBER_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_HOLDING_TITLE_body","source":"Owned Currency Only","translation":"Tylko posiadana waluta","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_KINA_GoldBinding_body","source":"Unbound","translation":"Niezwiązana","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_KINA_GoldNonbinding_body","source":"Bind","translation":"Zwiąż","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_KINA_TITLE_body","source":"Total Kina Info","translation":"Łączna liczba Kina","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_TITLE_body","source":"Currency Info","translation":"Informacje o walucie","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_TYPE_BASIC_TITLE_body","source":"Default","translation":"Podstawowe","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_TYPE_POINT_TITLE_body","source":"Points","translation":"Punkty","status":"draft"}
+{"id":"String_UI_CURRENCYINFO_USE_ROUTE_ACTION_BTN_body","source":"Go to Shop","translation":"Przejdź do sklepu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BEARD_COLOR_body","source":"Facial Hair Color","translation":"Kolor zarostu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BEARD_SHAPE_body","source":"Facial Hair Type","translation":"Rodzaj zarostu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BEARD_SHAVEDHAIR_INTENSITY_body","source":"Default Intensity","translation":"Domyślne natężenie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BEARD_SHAVEDHAIR_STUBBLE_body","source":"Stubble Type","translation":"Rodzaj zarostu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BUTTON_CHARACTER_CREATE_body","source":"Enter Name","translation":"Wpisz imię","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_BUTTON_CLASS_SELECT_body","source":"Select Class","translation":"Wybierz klasę","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_APPERANCE_APPLICATION_body","source":"Apply","translation":"Zastosuj","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_APPERANCE_MANAGEMENT_body","source":"Manage Appearance","translation":"Zarządzaj wyglądem","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_HIDDEN_UI_body","source":"Hide UI","translation":"Ukryj interfejs","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_LIFT_HAIR_body","source":"Lift Hair","translation":"Unieś włosy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_LOOKAT_body","source":"Face Camera","translation":"Ustaw twarz do kamery","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_NEW_APPERANCE_body","source":"Create","translation":"Utwórz","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_PROFITS_body","source":"Settlement","translation":"Korzyści","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_RANDOM_ALL_body","source":"Randomize All","translation":"Losuj wszystko","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_RANDOM_EACH_body","source":"Randomize Feature","translation":"Losuj cechę","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_REDO_body","source":"Redo","translation":"Ponów","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_RESET_ALL_body","source":"Reset All","translation":"Resetuj wszystko","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_RESET_EACH_body","source":"Reset Feature","translation":"Resetuj cechę","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_STYLE_SHOP_body","source":"Style Shop","translation":"Sklep stylizacji","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_BUTTON_UNDO_body","source":"Undo","translation":"Cofnij","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_COLORPICKER_B_body","source":"B","translation":"B","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_COLORPICKER_H_body","source":"H","translation":"H","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_COMMON_COLORPICKER_S_body","source":"S","translation":"S","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_DIALOGUE_RESET_ALL_BUTTON_RESET_body","source":"Reset","translation":"Resetuj","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_DIALOGUE_RESET_ALL_TITLE_body","source":"All previous changes will be <system_point>reset</>.\nProceed with <system_point>reset</>?","translation":"Wszystkie wcześniejsze zmiany zostaną <system_point>zresetowane</>.\nKontynuować <system_point>resetowanie</>?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_DIALOGUE_RESET_PART_TITLE_body","source":"Changes in the currently selected tab will be <system_point>reset</>.\nProceed with <system_point>reset</>?","translation":"Zmiany na aktualnie wybranej karcie zostaną <system_point>zresetowane</>.\nKontynuować <system_point>resetowanie</>?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_DOWNLOAD_DIALOGUE_NOT_APPLY_TITLE_body","source":"There are unsaved changes. Would you like to proceed with <system_point>New Skin Creation</> without applying changes?","translation":"Masz niezapisane zmiany. Czy chcesz przejść do <system_point>Tworzenia nowej skórki</> bez ich zastosowania?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_DROPBOX_TITLE_FACE_DECORATION_DETAIL_SCAR_body","source":"Scar","translation":"Blizna","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_COLOR_body","source":"Glitter Color","translation":"Kolor brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_MENU_body","source":"Glitter","translation":"Brokat","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_METALIC_body","source":"Glitter Metallic","translation":"Metaliczność brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_ROUGHNESS_body","source":"Glitter Intensity","translation":"Intensywność brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_SPARKLE_RATE_body","source":"Glitter Particle Size","translation":"Rozmiar drobin brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_SPECULAR_body","source":"Glitter Shine","translation":"Połysk brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_TRANSPARENCY_body","source":"Glitter Opacity","translation":"Krycie brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_GLITTER_USE_body","source":"Use Glitter","translation":"Użyj brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_APPLY_BUTTON_APPLY_body","source":"Apply","translation":"Zastosuj","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_APPLY_GUIDE_1_body","source":"Customization takes place in a fixed environment.","translation":"Personalizacja odbywa się w stałych warunkach.","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_APPLY_GUIDE_2_body","source":"Once applied, it may appear differently in-game depending on device settings and environment (lighting, background, etc.).","translation":"Po zastosowaniu wygląd w grze może się różnić w zależności od ustawień urządzenia i otoczenia (oświetlenia, tła itp.).","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_APPLY_TITLE_body","source":"<system_point>Apply</> the changes made?","translation":"<system_point>Zastosować</> wprowadzone zmiany?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_NOT_APPLY_BUTTON_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_NOT_APPLY_CHANGE_GENDER_BUTTON_CHANGE_body","source":"Change","translation":"Zmień","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_NOT_APPLY_CHANGE_GENDER_TITLE_body","source":"Any changes will be lost upon <system_point>changing body type</>. Are you sure you want to <system_point>change body type</>?","translation":"Wszystkie zmiany zostaną utracone po <system_point>zmianie typu sylwetki</>. Czy na pewno chcesz <system_point>zmienić typ sylwetki</>?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_DIALOGUE_NOT_APPLY_TITLE_body","source":"There are unsaved changes. Are you sure you want to <system_point>exit</> without applying them?","translation":"Masz niezapisane zmiany. Czy na pewno chcesz <system_point>wyjść</> bez ich zastosowania?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_ITEM_TITLE_body","source":"Customization","translation":"Personalizacja","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_ARM_HAND_body","source":"Arms / Hands","translation":"Ramiona / dłonie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_ARM_INTENSITY_body","source":"Muscle","translation":"Mięśnie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_BODY_body","source":"Body","translation":"Ciało","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_FOOT_body","source":"Feet","translation":"Stopy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_HEAD_body","source":"Head","translation":"Głowa","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_LEG_INTENSITY_body","source":"Muscle","translation":"Mięśnie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SETTING_DETAIL_NECK_body","source":"Neck","translation":"Szyja","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODYPRESET_body","source":"Preset","translation":"Predefiniowany wygląd","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_ARM_body","source":"Arms","translation":"Ramiona","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_BODY_INTENSITY_body","source":"Muscle","translation":"Mięśnie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_BUTT_QUADRICEPS_body","source":"Glutes","translation":"Pośladki","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_DELTOID_TRAPEZIUS_body","source":"Shoulder / Trapezius Muscle","translation":"Barki / mięśnie czworoboczne","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_DELTOID_WIDTH_SHOULDER_body","source":"Shoulder Width","translation":"Szerokość barków","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_LEG_CALFMUSCLE_body","source":"Legs","translation":"Nogi","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_LOWER_body","source":"Lower Body","translation":"Dolna część ciała","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_SPINE_BREAST_body","source":"Chest / Rib Cage","translation":"Klatka piersiowa / żebra","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_DETAIL_WAIST_ABDOMINAL_body","source":"Stomach / Waist","translation":"Brzuch / talia","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_HEAD_body","source":"Body / Head","translation":"Ciało / głowa","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_SUBTAB_BODY_body","source":"Body","translation":"Ciało","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_BODY_body","source":"Body Shape","translation":"Kształt sylwetki","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_FACE_SUBTAB_PRESET_body","source":"Shape","translation":"Kształt","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_FACE_body","source":"Face","translation":"Twarz","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_HAIR_SUBTAB_COLOR_body","source":"Dye","translation":"Farba","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_HAIR_body","source":"Hair","translation":"Włosy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYEBROW_PENCIL_body","source":"Eyebrow","translation":"Brwi","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELASH_OPTION_BOTH_body","source":"Both Sides","translation":"Obie strony","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELASH_OPTION_LOWER_body","source":"Lower","translation":"Dolna powieka","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELASH_OPTION_UPPER_body","source":"Upper","translation":"Górna powieka","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELASH_body","source":"Eyelash","translation":"Rzęsy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELINE_DETAIL_body","source":"Eyeliner","translation":"Eyeliner","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYELINE_body","source":"Eyeliner","translation":"Eyeliner","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYESHADOW_DETAIL_BASE_body","source":"Base","translation":"Baza","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYESHADOW_DETAIL_POINT_body","source":"Eyeshadow Detail","translation":"Szczegóły cieni","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_EYESHADOW_body","source":"Eyeshadow","translation":"Cienie do powiek","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_EYE_body","source":"Eyes","translation":"Oczy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_DETAIL_EYELINE_body","source":"Eyeliner","translation":"Eyeliner","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_DETAIL_EYESHADOW_body","source":"Eyeshadow","translation":"Cienie do powiek","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_DETAIL_LIP_body","source":"Lips","translation":"Usta","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_DETAIL_SKIN_body","source":"Skin Detail","translation":"Detale skóry","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_DETAIL_STRONG_body","source":"Glitter Intensity","translation":"Intensywność brokatu","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_GLITTER_body","source":"Glitter","translation":"Brokat","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_LIP_DETAIL_BASE_body","source":"Base","translation":"Baza","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_LIP_DETAIL_POINT_body","source":"Detail","translation":"Detale","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_LIP_body","source":"Lips","translation":"Usta","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_PRESET_body","source":"Preset","translation":"Predefiniowany wygląd","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_BASE_DETAIL_FOUNDATION_body","source":"Foundation","translation":"Podkład","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_BASE_body","source":"Base","translation":"Baza","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_POINT_DETAIL_BLUSHER_body","source":"Blush","translation":"Róż","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_POINT_DETAIL_HIGHLITER_body","source":"Highlighter","translation":"Rozświetlacz","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_POINT_body","source":"Detail","translation":"Detale","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_SHADING_body","source":"Contour","translation":"Konturowanie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_SUBTAB_SKIN_body","source":"Skin","translation":"Skóra","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_MAKEUP_body","source":"Style","translation":"Styl","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_PRESET_body","source":"Preset","translation":"Predefiniowany wygląd","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_BEARD_body","source":"Facial Hair","translation":"Zarost","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_MOLE_FRECKLE_body","source":"Mole / Freckle","translation":"Pieprzyk / piegi","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_PACEART_SCAR_body","source":"Face Art / Scar","translation":"Zdobienie twarzy / blizna","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_PACEART_TATTO_body","source":"Tattoos","translation":"Tatuaże","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_PACEART_WARPAINTING_body","source":"War Paint","translation":"Malowanie wojenne","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_TATTOO_SCAR_DETAIL_PACEART_body","source":"Face Art","translation":"Zdobienie twarzy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_TATTOO_SCAR_DETAIL_SCAR_body","source":"Scars","translation":"Blizny","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_TATTOO_SCAR_DETAIL_TATTOO_body","source":"Tattoo","translation":"Tatuaż","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_TATTOO_SCAR_DETAIL_WARPAINTING_body","source":"War Paint","translation":"Malowanie wojenne","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_SUBTAB_TATTOO_SCAR_body","source":"Face Art / Scar","translation":"Zdobienie twarzy / blizna","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_MAINTAB_STYLING_body","source":"Styling","translation":"Stylizacja","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_OUTFIT_BUTTON1_TOOLTIP_body","source":"Current Skin","translation":"Aktualna skórka","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_OUTFIT_BUTTON2_TOOLTIP_body","source":"Undergarments","translation":"Bielizna","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_OUTFIT_BUTTON3_TOOLTIP_body","source":"Preset 1","translation":"Predefiniowany wygląd 1","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_OUTFIT_BUTTON4_TOOLTIP_body","source":"Preset 2","translation":"Predefiniowany wygląd 2","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_OUTFIT_BUTTON5_TOOLTIP_body","source":"Preset 3","translation":"Predefiniowany wygląd 3","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_APPLICATION_body","source":"Applying","translation":"Stosowanie","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_BUTTON_DELETE_body","source":"Delete","translation":"Usuń","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_BUTTON_RELOAD_body","source":"Load","translation":"Wczytaj","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_BUTTON_SAVE_body","source":"Save","translation":"Zapisz","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_DELETE_BUTTON_DELETE_body","source":"Delete","translation":"Usuń","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_DELETE_TITLE_body","source":"<insufficient>Deleting</> the selected Appearance.\nDeleted Appearances cannot be recovered.\n<insufficient>Delete</> Appearance?","translation":"<insufficient>Usuwasz</> wybrany wygląd.\nUsuniętych wyglądów nie można odzyskać.\n<insufficient>Usunąć</> wygląd?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_RELOAD_BUTTON_RELOAD_body","source":"Load","translation":"Wczytaj","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_RELOAD_TITLE_body","source":"Loading the selected Appearance.\nUnsaved changes from the current customization will be <insufficient>deleted</>.","translation":"Wczytujesz wybrany wygląd.\nNiezapisane zmiany w bieżącej personalizacji zostaną <insufficient>usunięte</>.","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_SAVE_BUTTON_SAVE_body","source":"Save","translation":"Zapisz","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_SAVE_OVERWRITE_TITLE_body","source":"Saving will overwrite the previously saved Appearance.\nProceed with <system_point>saving</>?","translation":"Zapisanie zastąpi poprzednio zapisany wygląd.\nKontynuować <system_point>zapisywanie</>?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_DIALOGUE_SAVE_TITLE_body","source":"<system_point>Save</> the current Appearance?","translation":"<system_point>Zapisać</> bieżący wygląd?","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_SUBTITLE_01_body","source":"My Appearance","translation":"Mój wygląd","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_SUBTITLE_02_body","source":"Download Storage","translation":"Pobrane wyglądy","status":"draft"}
+{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_SUB_02_REFRESHMENT_body","source":"Get new information","translation":"Pobierz nowe informacje","status":"draft"}

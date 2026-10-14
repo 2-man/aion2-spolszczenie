@@ -1,0 +1,250 @@
+{"id":"String_UI_GATHER_CRAFT_SKILL_LEVELUP_BUTTON_MAX_body","source":"Max Level","translation":"Maksymalny poziom","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_LEVELUP_BUTTON_body","source":"Level Up","translation":"Awansuj na poziom","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_MASTERYGRADE_EXP_MAX_body","source":"Max","translation":"Maks.","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_MASTERYGRADE_EXP_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_MASTERYGRADE_LEVEL_body","source":"{0} pts.","translation":"{0} pkt.","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_POINT_AVAILABLE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_PONIT_body","source":"Common Skill Points","translation":"Zwykłe punkty umiejętności","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_RESET_CONFIRM_body","source":"Reset skills?","translation":"Zresetować umiejętności?","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_RESET_INFO_body","source":"(All learned skills will disappear, and used Skill Points will be refunded.)","translation":"(Wszystkie poznane umiejętności znikną, a wykorzystane punkty umiejętności zostaną zwrócone.)","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_TREE_LEVEL_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_INFO_CONDITION_POINT_SPECIALIZED_body","source":"Required Specialty Skill Points","translation":"Wymagane punkty umiejętności specjalizacji","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_COMMON_1_body","source":"Luck","translation":"Szczęście","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_COMMON_2_body","source":"Adeptness","translation":"Zręczność","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_COMMON_3_body","source":"Prudence","translation":"Roztropność","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_COMMON_body","source":"Common Essence Extraction Skill","translation":"Zwykła umiejętność pozyskiwania esencji","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_CONDITION_UNLOCK_body","source":"General Extraction Skill over {0}SP required","translation":"Wymagana umiejętność zwykłego pozyskiwania o wartości ponad {0} SP","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_FOOD_body","source":"Cooking Ingredient","translation":"Składnik kulinarny","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_HERB_body","source":"Herb","translation":"Zioło","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_JEWELRY_body","source":"Gem","translation":"Klejnot","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_METAL_body","source":"Ore","translation":"Ruda","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_OD_body","source":"Odyle","translation":"Odyl","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_SPECIALIZED_body","source":"Specialty Essence Extraction Skill","translation":"Umiejętność pozyskiwania esencji specjalizacji","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_TREE_body","source":"Log","translation":"Drewno","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_USED_SKILL_POINTS_body","source":"{0} SP","translation":"{0} SP","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_NO_ACQUIRED_body","source":"No Essence Extraction skills acquired.","translation":"Nie zdobyto umiejętności pozyskiwania esencji.","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_TARGET_ExtractForce_body","source":"All Essence Extraction Gathered Material","translation":"Wszystkie materiały zebrane podczas pozyskiwania esencji","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_TARGET_body","source":"{0} Material","translation":"Materiał: {0}","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_TITLE_body","source":"{0}: Acquired Skill","translation":"{0}: zdobyta umiejętność","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_USED_POINT_TEXT_POINT_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_INFO_USED_POINT_TEXT_body","source":"Consumed Points","translation":"Zużyte punkty","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_MASTERYGRADE_GUIDE_MAX_body","source":"{0} is the highest grade.\nCan upgrade up to {1}.","translation":"{0} to najwyższa jakość.\nMożna ulepszyć do poziomu {1}.","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_MASTERYGRADE_GUIDE_body","source":"Can upgrade to {1} upon reaching {0}.","translation":"Można ulepszyć do poziomu {1} po osiągnięciu {0}.","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_POINT_AVAILABLE_SPECIALIZED_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_PONIT_SPECIALIZED_body","source":"Specialty Skill Points","translation":"Punkty umiejętności specjalizacji","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_TRIGGER_GATHER_body","source":"Mid-Gathering Effect","translation":"Efekt podczas zbierania","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_TRIGGER_PASSIVE_body","source":"Passive","translation":"Pasywny","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_TRIGGER_RESULT_body","source":"Post-Gathering Effect","translation":"Efekt po zebraniu","status":"draft"}
+{"id":"String_UI_GENOCIDE_PENALTY_PRUIFICATION_DESCRIPTION_body","source":"You can cleanse curses and divine punishments with a priest's prayer.\nCleansing requires {0} (Kina).\nReceive cleansing?","translation":"Kapłan może oczyścić klątwy i boskie kary modlitwą.\nOczyszczenie kosztuje {0} (Kina).\nCzy chcesz oczyścić?","status":"draft"}
+{"id":"String_UI_GETITEM_CONFIRM_GUIDE_TEXT_body","source":"Click the screen to close the pop-up.","translation":"Kliknij ekran, aby zamknąć okno.","status":"draft"}
+{"id":"String_UI_GETITEM_CONFIRM_TITLE_body","source":"Obtained Items","translation":"Uzyskane przedmioty","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_ACCOUNT_SIGNUP_REQUIRED_body","source":"An account is required to play the game. Please create an account to continue.","translation":"Do gry wymagane jest konto. Utwórz konto, aby kontynuować.","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_LANGUAGE_body","source":"Language","translation":"Język","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_DELAY_TIME_NOTIE_body","source":"※ Moving characters between global service regions is not supported.\n※ Please carefully choose your server region before creating your character.\nNetwork status is shown based on login location.\nA smoother connection will allow for more enjoyable gameplay.","translation":"※ Przenoszenie postaci między regionami usług globalnych nie jest obsługiwane.\n※ Przed utworzeniem postaci dokładnie wybierz region serwera.\nStan sieci jest określany na podstawie miejsca logowania.\nLepsze połączenie zapewni przyjemniejszą rozgrywkę.","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_BUTTON_body","source":"Select","translation":"Wybierz","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_AS_body","source":"Asia<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Tokyo, Japan) - Recommended: Northeast Asia</>","translation":"Azja<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Tokio, Japonia) — zalecane: Azja Północno-Wschodnia</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_EU_body","source":"Europe<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Frankfurt, Germany) - Recommended: Germany, Ireland, United Kingdom, France, Sweden, Italy, Spain, Switzerland</>","translation":"Europa<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Frankfurt, Niemcy) — zalecane: Niemcy, Irlandia, Wielka Brytania, Francja, Szwecja, Włochy, Hiszpania, Szwajcaria</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_JP_body","source":"Japan<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Korea) - Recommended: Japan</>","translation":"Japonia<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Korea) — zalecane: Japonia</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_LA_body","source":"South America<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Sao Paulo, Brazil) - Recommended: Brazil</>","translation":"Ameryka Południowa<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: São Paulo, Brazylia) — zalecane: Brazylia</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_NAE_body","source":"North America - East<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Virginia) - Recommended: Eastern U.S.</>","translation":"Ameryka Północna — wschód<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Wirginia) — zalecane: wschodnie USA</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_NAW_body","source":"North America - West<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Phoenix) - Recommended: Western U.S.</>","translation":"Ameryka Północna — zachód<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Phoenix) — zalecane: zachodnie USA</>","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_LIST_body","source":"Global Server List","translation":"Lista serwerów globalnych","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_MAINTENANCE_DESC_body","source":"The selected region is currently undergoing maintenance and unavailable.","translation":"Wybrany region jest obecnie niedostępny z powodu prac konserwacyjnych.","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_AS_body","source":"Asia","translation":"Azja","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_EU_body","source":"Europe","translation":"Europa","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_JP_body","source":"Japan","translation":"Japonia","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_LA_body","source":"South America","translation":"Ameryka Południowa","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_NAE_body","source":"North America - East","translation":"Ameryka Północna — wschód","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_NAW_body","source":"North America - West","translation":"Ameryka Północna — zachód","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_PING_FAST_body","source":"Fast","translation":"Szybkie","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_PING_NORMAL_body","source":"Normal","translation":"Normalne","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_PING_SLOW_body","source":"Slow","translation":"Wolne","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_PING_UNKNOWN_body","source":"No Signal","translation":"Brak sygnału","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_PING_VERYSLOW_body","source":"Very Slow","translation":"Bardzo wolne","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_SELECT_body","source":"Select your Global server region.","translation":"Wybierz region serwera globalnego.","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_BINDING_DESC_body","source":"Dispensable in various content with no restrictions, same as normal Quna.","translation":"Można wydać w różnych treściach bez ograniczeń, tak jak zwykłą Qunę.","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_BINDING_TITLE_body","source":"Complimentary Quna","translation":"Bezpłatna Quna","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_DESC_body","source":"Sum of Quna and Pending Quna.","translation":"Suma Quny i oczekującej Quny.","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_NONBINDING_DESC_body","source":"Dispensable in various content with no restrictions.","translation":"Można wydawać w różnych treściach bez ograniczeń.","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_NONBINDING_TITLE_body","source":"Quna","translation":"Quna","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_PENDING_DESC_body","source":"Quna that can be used 72 hours after acquisition.\n(Cannot be used for Market, Exchange, and Customization)","translation":"Quna, której można używać 72 godziny po zdobyciu.\n(Nie można jej użyć na Rynku, w wymianie ani podczas dostosowywania wyglądu)","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_PENDING_TITLE_body","source":"Pending Quna","translation":"Oczekująca Quna","status":"draft"}
+{"id":"String_UI_GNB_TOOLTIP_GAMECASH_TITLE_body","source":"Total Quna","translation":"Łączna Quna","status":"draft"}
+{"id":"String_UI_GODSTONE_COMBINE_PROB_POPUP_GUIDE_body","source":"Rounded to the fourth decimal place.\nDue to rounding differences, the total probability may not equal 100%.","translation":"Zaokrąglono do czwartego miejsca po przecinku.\nZ powodu zaokrągleń suma prawdopodobieństw może nie wynosić 100%.","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_RESULT_BTN_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_RESULT_POINT_TOTAL_body","source":"Acquired EXP","translation":"Zdobyte PD","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_RESULT_REWARD_TITLE_body","source":"Obtained Rewards","translation":"Uzyskane nagrody","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_RESULT_TIME_TITLE_body","source":"Time Spent","translation":"Spędzony czas","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_RESULT_TITLE_body","source":"Results","translation":"Wyniki","status":"draft"}
+{"id":"String_UI_GROWTHDUNGEON_SCREENMSG_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
+{"id":"String_UI_GSTAR_LOBBY_body","source":"Delete All","translation":"Usuń wszystko","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_BUTTON_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_BUTTON_RENT_ADD_body","source":"Extend Rental","translation":"Przedłuż wynajem","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_BUTTON_RENT_UPGRADE_body","source":"Upgrade Hall","translation":"Ulepsz salę","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_BUTTON_RENT_body","source":"Rent","translation":"Wynajmij","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_DECO_ABNORMAL_TITLE_body","source":"Hall Effect","translation":"Efekt sali","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_DECO_BUTTON_ABNORMAL_body","source":"Effect","translation":"Efekt","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_DECO_GUIDE_NOABNORMAL_body","source":"No Hall effect currently active.","translation":"Obecnie nie działa żaden efekt sali.","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_POPUP_EXIT_body","source":"Leave the Hall?\nYou will keep the Hall even if you leave.","translation":"Opuścić salę?\nSala pozostanie twoja po wyjściu.","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_POPUP_RENT_ADD_body","source":"Extend Hall rental by {0} day(s)?","translation":"Czy przedłużyć wynajem sali o {0} dzień/dni?","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_POPUP_RENT_UPGRADE_body","source":"Upgrade the Hall?\nUpgrading will apply a {0}-day rental.","translation":"Ulepszyć salę?\nUlepszenie ustawi wynajem na {0} dni.","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_POPUP_RENT_body","source":"Rent Hall for {0} day(s)?","translation":"Wynajmij salę na {0} dzień/dni?","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_POPUP_TITLE_BUY_body","source":"Purchase","translation":"Kup","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_RENTAL_DATE_body","source":"Remaining Rental Time","translation":"Pozostały czas wynajmu","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_RENTAL_REQUIRE_body","source":"Other Conditions","translation":"Inne warunki","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_TAB_body","source":"Hall","translation":"Sala","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_TEXT_RENTAL_DAY_body","source":"Remaining Rental Time {0}","translation":"Pozostały czas wynajmu: {0}","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_TEXT_RENTAL_NEED_AUTHORITY_body","source":"Rental available for {0}","translation":"Można wynająć na {0}","status":"draft"}
+{"id":"String_UI_GUILD_AGIT_TEXT_RENTAL_NEED_LEVEL_body","source":"Rental available to Legion Lv. {0} or higher","translation":"Dostępne dla Legionu na poz. {0} lub wyższym","status":"draft"}
+{"id":"String_UI_GUILD_BUTTON_ESTABLISH_body","source":"Create Legion","translation":"Utwórz Legion","status":"draft"}
+{"id":"String_UI_GUILD_BUTTON_JOIN_body","source":"Join Legion","translation":"Dołącz do Legionu","status":"draft"}
+{"id":"String_UI_GUILD_CANNOT_INPUT_TEXT_OTHER_SERVER_body","source":"Input unavailable on the current server.","translation":"Wprowadzanie danych jest niedostępne na tym serwerze.","status":"draft"}
+{"id":"String_UI_GUILD_CRAFT_RECIPE_USE_GUILDMEMBER_GRADE_body","source":"{0} or Higher","translation":"{0} lub wyższy","status":"draft"}
+{"id":"String_UI_GUILD_CRAFT_TITLE_body","source":"Legion Crafting","translation":"Rzemiosło Legionu","status":"draft"}
+{"id":"String_UI_GUILD_DECO_ABNORMAL_TITLE_body","source":"Display Effects","translation":"Efekty wyświetlania","status":"draft"}
+{"id":"String_UI_GUILD_DECO_BUTTON_CHANGE_body","source":"Refresh","translation":"Odśwież","status":"draft"}
+{"id":"String_UI_GUILD_DECO_BUTTON_CONFIRM_body","source":"Place","translation":"Umieść","status":"draft"}
+{"id":"String_UI_GUILD_DECO_BUTTON_EQUIP_body","source":"Equip","translation":"Załóż","status":"draft"}
+{"id":"String_UI_GUILD_DECO_BUTTON_REMOVE_body","source":"Remove","translation":"Usuń","status":"draft"}
+{"id":"String_UI_GUILD_DECO_NEED_GUILD_LEVEL_body","source":"Legion Level {0} Required","translation":"Wymagany Legion na poziomie {0}","status":"draft"}
+{"id":"String_UI_GUILD_DECO_POPUP_CHANGE_CONFIRM_TEXT_body","source":"Would you like to replace this decoration?","translation":"Czy chcesz zastąpić tę dekorację?","status":"draft"}
+{"id":"String_UI_GUILD_DECO_POPUP_CONFIRM_TEXT_body","source":"Would you like to place this decoration?","translation":"Czy chcesz umieścić tę dekorację?","status":"draft"}
+{"id":"String_UI_GUILD_DECO_POPUP_CONFIRM_WARNING_TEXT_body","source":"The item will disappear upon decoration.","translation":"Przedmiot zniknie po umieszczeniu dekoracji.","status":"draft"}
+{"id":"String_UI_GUILD_DECO_POPUP_REMOVE_TEXT_body","source":"Remove this decoration?","translation":"Usunąć tę dekorację?","status":"draft"}
+{"id":"String_UI_GUILD_DECO_POPUP_REMOVE_WARNING_TEXT_body","source":"Removed items will not be returned.","translation":"Usunięte przedmioty nie zostaną zwrócone.","status":"draft"}
+{"id":"String_UI_GUILD_DECO_TITLE_body","source":"Display","translation":"Wyświetl","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_BUTTON_REMOVED_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_BUTTON_SET_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_BUTTON_SET_body","source":"Place","translation":"Umieść","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_DECO_EFFECT_NOTHING_body","source":"No decoration display effect.","translation":"Brak efektu wyświetlania dekoracji.","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_DECO_TITLE_body","source":"Display","translation":"Wyświetl","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_EFFECT_NOTHING_body","source":"No display effects active.","translation":"Brak aktywnych efektów wyświetlania.","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_EFFECT_body","source":"Pantheon Display Effect","translation":"Efekt wyświetlania Panteonu","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_ALL_body","source":"ALL","translation":"WSZYSTKIE","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_APPLY_BUTTON_body","source":"Apply Filter","translation":"Zastosuj filtr","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_BUTTON_ON_body","source":"Filter Stats Active","translation":"Filtr statystyk aktywny","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_BUTTON_body","source":"Filter Stats","translation":"Filtr statystyk","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_CLOSE_BUTTON_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_FRAME_body","source":"Artwork","translation":"Grafika","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_LARGE_body","source":"Colossus","translation":"Kolos","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_FILTER_SMALL_body","source":"Statue","translation":"Posąg","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_ITEM_EFFECT_body","source":"Decoration Display Effect","translation":"Efekt wyświetlania dekoracji","status":"draft"}
+{"id":"String_UI_GUILD_PANTHEON_OWN_COUNT_body","source":"{0} / {1} Owned","translation":"Posiadane: {0} / {1}","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_AUTHORITY_INFO_ALL_body","source":"Depositable and Retrievable","translation":"Można zdeponować i odebrać","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_AUTHORITY_INFO_ENTRUST_body","source":"Depositable","translation":"Można zdeponować","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_AUTHORITY_INFO_PICKUP_body","source":"Retrievable","translation":"Można odebrać","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_AUTHORITY_KEEP_body","source":"Deposit in Legion Storage","translation":"Zdeponuj w magazynie Legionu","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_AUTHORITY_WITHDRAW_body","source":"Find Legion Storage","translation":"Znajdź magazyn Legionu","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_CUBE_DEFAULT_TITLE_body","source":"Legion Storage Cube","translation":"Sześcian magazynu Legionu","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_EXTENSION_CONFIRM_MSGBOX_body","source":"Would you like to expand Legion Storage?","translation":"Czy chcesz powiększyć magazyn Legionu?","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_EXTENSION_TITLE_body","source":"Expand Legion Storage","translation":"Powiększ magazyn Legionu","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_ONBOARDING_NOHISTORY_body","source":"No storage record.","translation":"Brak historii magazynu.","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_RECORD_ENTRUST_body","source":"{0} has deposited items: {1} x{2}","translation":"{0} zdeponował przedmioty: {1} x{2}","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_RECORD_PICKUP_body","source":"{0} has retrieved items: {1} x{2}","translation":"{0} odebrał przedmioty: {1} x{2}","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_RECORD_TIME_body","source":"(Elapsed Time: {0})","translation":"(Czas, który upłynął: {0})","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_RECORD_USE_body","source":"{0} has used items: {1} x{2}","translation":"{0} użył przedmiotów: {1} x{2}","status":"draft"}
+{"id":"String_UI_GUILD_STORAGE_TITLE_body","source":"Legion Storage","translation":"Magazyn Legionu","status":"draft"}
+{"id":"String_UI_GUILD_TAB_PANTHEON_body","source":"Pantheon","translation":"Panteon","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_FOUNDERSPACK_body","source":"Founder's Pack","translation":"Pakiet Założyciela","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_MILEAGE_body","source":"A2 Mileage","translation":"Punkty A2","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_SHOP_FOUNDERSPACK_D_body","source":"Deluxe Skin","translation":"Wygląd Deluxe","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_SHOP_FOUNDERSPACK_S_body","source":"Title","translation":"Tytuł","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_SHOP_FOUNDERSPACK_U_body","source":"Ultimate Exclusive","translation":"Wyłącznie najwyższa jakość","status":"draft"}
+{"id":"String_UI_G_SHOP_ENUM_CATEGORY_SHOP_FOUNDERSPACK_body","source":"Founder's Pack","translation":"Pakiet Założyciela","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Advanced_Clear_body","source":"Ready to upgrade?","translation":"Czy można już ulepszyć?","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Advanced_Start_body","source":"You must complete a special type of gathering to overcome the limit.\n\nAre you ready?","translation":"Musisz wykonać specjalny rodzaj zbierania, aby przekroczyć limit.\n\nCzy jesteś gotowy?","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Expert_Clear_body","source":"Ready to upgrade?","translation":"Czy można już ulepszyć?","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Expert_Start_body","source":"You must complete a special type of gathering to overcome the limit.\n\nAre you ready?","translation":"Musisz wykonać specjalny rodzaj zbierania, aby przekroczyć limit.\n\nCzy jesteś gotowy?","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Intermediate_Clear_body","source":"Ready to upgrade?","translation":"Czy można już ulepszyć?","status":"draft"}
+{"id":"String_UI_GatherMasteryGrade_Up_Forc_Intermediate_Start_body","source":"You must complete a special type of gathering to overcome the limit.\n\nAre you ready?","translation":"Musisz wykonać specjalny rodzaj zbierania, aby przekroczyć limit.\n\nCzy jesteś gotowy?","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_All_body","source":"Common","translation":"Zwykły","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Common_body","source":"Common","translation":"Zwykły","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Flower_body","source":"<DNT>","translation":"<DNT>","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Food_body","source":"Ingredient","translation":"Składnik","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Herb_body","source":"Herb","translation":"Zioło","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Jewelry_body","source":"Gem","translation":"Klejnot","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Metal_body","source":"Ore","translation":"Ruda","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Od_body","source":"Odyle","translation":"Odyl","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_RareMetal_body","source":"<DNT>","translation":"<DNT>","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Tree_body","source":"Log","translation":"Drewno","status":"draft"}
+{"id":"String_UI_HERO_QUEST_LEVEL_COND_DESC_body","source":"Must reach Level {0}","translation":"Wymagany poziom {0}","status":"draft"}
+{"id":"String_UI_HERO_QUEST_UNIFIEDOBJECTIVESCORE_COND_DESC_body","source":"Unlocked when Ascension Gauge reaches 100%.","translation":"Odblokowuje się po napełnieniu wskaźnika Wstąpienia do 100%.","status":"draft"}
+{"id":"String_UI_HUDEDIT_PRESET_NAME_GUIDE_TEXT_body","source":"Enter the Preset name.","translation":"Wpisz nazwę zestawu.","status":"draft"}
+{"id":"String_UI_HUDEDIT_PRESET_NAME_body","source":"Preset {0}","translation":"Zestaw {0}","status":"draft"}
+{"id":"String_UI_HUD_AIRSPACE_BATTLE_TIME_body","source":"TIME","translation":"CZAS","status":"draft"}
+{"id":"String_UI_HUD_AVAILABLE_AMOUNT_ABYSS_POINT_DESC_body","source":"Abyss Points accumulate as they are earned through PvE or PvP.\nOnce the accumulated amount reaches the limit, only a small amount of additional Abyss Points can be obtained through Spacetime Rifts.\nThe cumulative limit increases after the weekly reset.","translation":"Punkty Otchłani gromadzą się podczas PvE i PvP.\nPo osiągnięciu limitu przez Szczeliny Czasoprzestrzenne można zdobyć tylko niewielką dodatkową liczbę Punktów Otchłani.\nLimit kumulacji zwiększa się po cotygodniowym resecie.","status":"draft"}
+{"id":"String_UI_HUD_AVAILABLE_AMOUNT_ABYSS_POINT_NUMBER_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_HUD_BOSSCHALLENGE_INFO_DESC_body","source":"Defeat {0}","translation":"Pokonaj {0}","status":"draft"}
+{"id":"String_UI_HUD_BUTTON_TARGET_CAMERA_LOCKON_OFF_body","source":"OFF","translation":"WYŁ.","status":"draft"}
+{"id":"String_UI_HUD_BUTTON_TARGET_CAMERA_LOCKON_ON_body","source":"ON","translation":"WŁ.","status":"draft"}
+{"id":"String_UI_HUD_COMMANDMSG_AUTOCHASE_body","source":"Following <desc_point>{0}</>","translation":"Podąża za <desc_point>{0}</>","status":"draft"}
+{"id":"String_UI_HUD_COMMANDMSG_AUTOMOVE_body","source":"Auto Move","translation":"Ruch automatyczny","status":"draft"}
+{"id":"String_UI_HUD_CONFIDENCE_TOOLTIP_STEP_DESC_body","source":"Kina Purchase Limit (Exchange)\nDaily Settlement Limit (Market)\nChange in Pending Quna Distribution Rate Upon Quna Recharge","translation":"Limit zakupu Kina (wymiana)\nDzienny limit rozliczeń (Rynek)\nZmiana współczynnika dystrybucji oczekującej Quny po doładowaniu Quny","status":"draft"}
+{"id":"String_UI_HUD_CONFIDENCE_TOOLTIP_STEP_TITLE_body","source":"{0} Restricted","translation":"{0} zablokowany","status":"draft"}
+{"id":"String_UI_HUD_CONTROL_VIRTUALPAD_TAB_body","source":"TAB","translation":"TAB","status":"draft"}
+{"id":"String_UI_HUD_CONVERSION_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_COUNT_STOP_NOTICE_body","source":"Crafting in Progress {0} / {1} (The next scheduled Craft attempt has been canceled)","translation":"Tworzenie w toku {0} / {1} (następna zaplanowana próba została anulowana)","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_COUNT_body","source":"Crafting in Progress {0} / {1}","translation":"Tworzenie w toku {0} / {1}","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_CATEGORY_PCMASTERY_body","source":"{0} Crafting Proficiency Level {1}","translation":"{0} — poziom biegłości w rzemiośle {1}","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_PRODUCT_MASTERYLEVEL_body","source":"({0})","translation":"({0})","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_PRODUCT_MASTERY_body","source":"{0} ({1})","translation":"{0} ({1})","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_PRODUCT_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_PROGRESS_FAIL_body","source":"Fail","translation":"Niepowodzenie","status":"draft"}
+{"id":"String_UI_HUD_CRAFT_POPUP_PROGRESS_SUCCESS_body","source":"Success","translation":"Powodzenie","status":"draft"}
+{"id":"String_UI_HUD_DUNGEON_POINT_INFO_BOUNS_POINT_body","source":"+{0}","translation":"+{0}","status":"draft"}
+{"id":"String_UI_HUD_DUNGEON_POINT_INFO_BOUNS_body","source":"Bonus","translation":"Premia","status":"draft"}
+{"id":"String_UI_HUD_EDIT_BUFF_SIZESTEP_01_body","source":"Restore Default","translation":"Przywróć domyślne","status":"draft"}
+{"id":"String_UI_HUD_EDIT_BUFF_SIZESTEP_02_body","source":"Enlarge","translation":"Powiększ","status":"draft"}
+{"id":"String_UI_HUD_EDIT_BUFF_SIZESTEP_03_body","source":"Enlarge","translation":"Powiększ","status":"draft"}
+{"id":"String_UI_HUD_EDIT_CLOSE_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_HUD_EDIT_CLOSE_POPUP_BTN_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_HUD_EDIT_CLOSE_POPUP_DESC2_body","source":"<warning>Will not be saved if there is edited or reset content.</>","translation":"<warning>Zmiany nie zostaną zapisane, jeśli edytowano lub zresetowano zawartość.</>","status":"draft"}
+{"id":"String_UI_HUD_EDIT_CLOSE_POPUP_DESC_body","source":"Cancel HUD edits\nWould you like to stop editing and return to the game?","translation":"Anuluj edycję HUD\nCzy chcesz przerwać edycję i wrócić do gry?","status":"draft"}
+{"id":"String_UI_HUD_EDIT_GRID_DENSE_body","source":"Dense","translation":"Gęsty","status":"draft"}
+{"id":"String_UI_HUD_EDIT_GRID_NORMAL_body","source":"Normal","translation":"Normalny","status":"draft"}
+{"id":"String_UI_HUD_EDIT_GRID_TITLE_body","source":"Grid Preview","translation":"Podgląd siatki","status":"draft"}
+{"id":"String_UI_HUD_EDIT_GRID_WIDE_body","source":"Wide","translation":"Szeroki","status":"draft"}
+{"id":"String_UI_HUD_EDIT_HIDE_BTN_TOOLTIP_body","source":"Hide","translation":"Ukryj","status":"draft"}
+{"id":"String_UI_HUD_EDIT_HUDUI_RATIO_SETTING_body","source":"HUD UI Proportion","translation":"Proporcje interfejsu HUD","status":"draft"}
+{"id":"String_UI_HUD_EDIT_MARGIN_SETTING_COMPACT_body","source":"Narrow","translation":"Wąski","status":"draft"}
+{"id":"String_UI_HUD_EDIT_MARGIN_SETTING_MEDIUM_body","source":"Normal","translation":"Normalny","status":"draft"}
+{"id":"String_UI_HUD_EDIT_MARGIN_SETTING_NONE_body","source":"None","translation":"Brak","status":"draft"}
+{"id":"String_UI_HUD_EDIT_MARGIN_SETTING_WIDE_body","source":"Wide","translation":"Szeroki","status":"draft"}
+{"id":"String_UI_HUD_EDIT_MARGIN_SETTING_body","source":"Outer Margin Settings","translation":"Ustawienia marginesu zewnętrznego","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_CLOSE_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_CLOSE_POPUP_BTN_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_CLOSE_POPUP_DESC2_body","source":"<warning>Will not be saved if there is edited or reset content.</>","translation":"<warning>Zmiany nie zostaną zapisane, jeśli edytowano lub zresetowano zawartość.</>","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_CLOSE_POPUP_DESC_body","source":"Cancel HUD edits\nWould you like to stop editing and return to the game?","translation":"Anuluj edycję HUD\nCzy chcesz przerwać edycję i wrócić do gry?","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_SETTINGS_TITLE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_AUTOBATTLE_body","source":"Auto Combat Assist","translation":"Asysta automatycznej walki","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_BMSHOP_body","source":"Shop","translation":"Sklep","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_CAMERATARGETLOCK_body","source":"Lock Camera Target","translation":"Zablokuj cel kamery","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_CHAT_body","source":"Chat","translation":"Czat","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_CUBE_body","source":"Cube","translation":"Sześcian","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_DAEVANION_body","source":"Daevanion","translation":"Daevanion","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_EVASIONASSIST_body","source":"Evasion Assist","translation":"Asysta uniku","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_EXPBAR_body","source":"EXP Bar","translation":"Pasek PD","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_ITEMSLOT_body","source":"Consumables Slot","translation":"Slot przedmiotów użytkowych","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_JUMP_body","source":"Jump/Glide","translation":"Skok / lot","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_MACRO_body","source":"Macro","translation":"Makro","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_MINIMAP_body","source":"Minimap","translation":"Minimapa","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_POLYMORPH_1_body","source":"Transformation Skill 1","translation":"Umiejętność przemiany 1","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_POLYMORPH_2_body","source":"Transformation Skill 2","translation":"Umiejętność przemiany 2","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_POLYMORPH_3_body","source":"Transformation Skill 3","translation":"Umiejętność przemiany 3","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_POLYMORPH_4_body","source":"Transformation Skill 4","translation":"Umiejętność przemiany 4","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_POTIONAUTO_body","source":"Auto-Use Potions","translation":"Automatyczne używanie mikstur","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_PRESETMODE_body","source":"Batch Preset","translation":"Zestaw seryjny","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_QUEST_body","source":"Journal","translation":"Dziennik","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_RIFTPVPMODE_body","source":"Combat Status Settings","translation":"Ustawienia stanu walki","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SEALSTONE_body","source":"Auto-Use Power Shards","translation":"Automatyczne używanie Odłamków Mocy","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_10_body","source":"Skill Slot 10","translation":"Slot umiejętności 10","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_11_body","source":"Skill Slot 11","translation":"Slot umiejętności 11","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_12_body","source":"Skill Slot 12","translation":"Slot umiejętności 12","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_1_body","source":"Skill Slot 1","translation":"Slot umiejętności 1","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_2_body","source":"Skill Slot 2","translation":"Slot umiejętności 2","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_3_body","source":"Skill Slot 3","translation":"Slot umiejętności 3","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_4_body","source":"Skill Slot 4","translation":"Slot umiejętności 4","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_5_body","source":"Skill Slot 5","translation":"Slot umiejętności 5","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_6_body","source":"Skill Slot 6","translation":"Slot umiejętności 6","status":"draft"}
+{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_7_body","source":"Skill Slot 7","translation":"Slot umiejętności 7","status":"draft"}

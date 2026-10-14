@@ -1,0 +1,7 @@
+{"id": "String_SKIN_GRADE_BUFF_GET_SKILL_INFO_body", "source": "This is a list of skin sets that grant effects.\nThe level of the Closet effect increases depending on the acquired skin set.", "translation": "Lista zestawów wyglądu zapewniających efekty.\nPoziom efektu garderoby wzrasta zależnie od zdobytego zestawu wyglądu.", "status": "draft"}
+{"id": "String_SKIN_SLOT_OPTION_HIDE_body", "source": "Hide", "translation": "Ukryj", "status": "draft"}
+{"id": "String_SKIN_SLOT_OPTION_WEAPON_ENHANCE_EFFECT_body", "source": "Hide Weapon Enhance effects", "translation": "Ukryj efekty wzmocnienia broni", "status": "draft"}
+{"id": "String_SKIN_SLOT_OPTION_WEAPON_INSCRIPTION_EFFECT_body", "source": "Hide Weapon Theostone effects", "translation": "Ukryj efekty teokamieni broni", "status": "draft"}
+{"id": "String_Skin_Mode_Preview_BTN_Save_body", "source": "Save Preview {0}", "translation": "Zapisz podgląd {0}", "status": "draft"}
+{"id": "String_Skin_Mode_Preview_Deco_Notice_body", "source": "In the preview, removing the equipped skin will also remove the customization info.", "translation": "Usunięcie założonego wyglądu w podglądzie usunie również informacje o personalizacji.", "status": "draft"}
+{"id": "String_Skin_Mode_Preview_Page_Select_body", "source": "Preview {0}", "translation": "Podgląd {0}", "status": "draft"}

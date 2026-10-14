@@ -1,0 +1,250 @@
+{"id":"Message_MSG_CHAT_PARTY_NOT_JOIN_body","source":"Must join party to use.","translation":"Aby z tego skorzystać, musisz należeć do drużyny.","status":"draft"}
+{"id":"Message_MSG_CHAT_PLATFORM_DISCONNECT_body","source":"Chat unavailable due to platform disconnection.","translation":"Czat niedostępny z powodu rozłączenia z platformą.","status":"draft"}
+{"id":"Message_MSG_CHAT_RECRUITMENT_CANNOT_INPUT_LIMIT_TEXT_body","source":"Cannot enter more Recruitment links due to character limit being exceeded.","translation":"Przekroczono limit znaków. Nie można dodać kolejnych odnośników rekrutacyjnych.","status":"draft"}
+{"id":"Message_MSG_CHAT_RECRUITMENT_CANNOT_INPUT_STT_body","source":"Unable to share Recruitment links during voice recognition.","translation":"Nie można udostępniać odnośników rekrutacyjnych podczas rozpoznawania mowy.","status":"draft"}
+{"id":"Message_MSG_CHAT_RECRUITMENT_CANNOT_JOIN_FORCE_KICKOUT_body","source":"Cannot join a Force you were kicked from.","translation":"Nie można dołączyć do grupy rajdowej, z której cię wyrzucono.","status":"draft"}
+{"id":"Message_MSG_CHAT_RECRUITMENT_CANNOT_JOIN_PARTY_KICKOUT_body","source":"Cannot join a Party you were kicked from.","translation":"Nie można dołączyć do drużyny, z której cię wyrzucono.","status":"draft"}
+{"id":"Message_MSG_CHAT_RECRUITMENT_INPUT_body","source":"Recruitment link entered in chat.","translation":"Dodano odnośnik rekrutacyjny na czacie.","status":"draft"}
+{"id":"Message_MSG_CHAT_REPORT_FAIL_LIMIT_DAILY_body","source":"Already used max reporting count for the day.","translation":"Wykorzystano dzienny limit zgłoszeń.","status":"draft"}
+{"id":"Message_MSG_CHAT_REPORT_FAIL_body","source":"Select reasons for reporting.","translation":"Wybierz powody zgłoszenia.","status":"draft"}
+{"id":"Message_MSG_CHAT_REPORT_SUCCESS_body","source":"Reported the chat.","translation":"Zgłoszono czat.","status":"draft"}
+{"id":"Message_MSG_CHAT_SERVER_MASTER_LEVEL_body","source":"Master chat is unlocked at Lv. {0}.","translation":"Czat główny odblokowuje się na poziomie {0}.","status":"draft"}
+{"id":"Message_MSG_CHAT_SERVER_MIN_LEVEL_body","source":"Faction chat is unlocked at Lv. {0}.","translation":"Czat frakcji odblokowuje się na poziomie {0}.","status":"draft"}
+{"id":"Message_MSG_CHAT_STT_FAIL_GETTER_NAME_EMPTY_body","source":"Whisper target has not been specified.","translation":"Nie wybrano adresata wiadomości prywatnej.","status":"draft"}
+{"id":"Message_MSG_CHAT_STT_FAIL_VOICE_TO_TEXT_body","source":"Text conversion failed due to voice recognition error.","translation":"Nie udało się zamienić mowy na tekst.","status":"draft"}
+{"id":"Message_MSG_CHAT_TAB_FORCE_NOT_JOIN_body","source":"Must join Force to use.","translation":"Aby z tego skorzystać, musisz należeć do grupy rajdowej.","status":"draft"}
+{"id":"Message_MSG_CHAT_TAB_LEGION_NOT_JOIN_body","source":"Must join Legion to use.","translation":"Aby z tego skorzystać, musisz należeć do Legionu.","status":"draft"}
+{"id":"Message_MSG_CHAT_TAB_PARTYDUNGEON_NOT_JOIN_body","source":"Must join a dungeon to use.","translation":"Aby z tego skorzystać, musisz wejść do lochu.","status":"draft"}
+{"id":"Message_MSG_CHAT_TAB_PARTY_NOT_JOIN_body","source":"Must join party to use.","translation":"Aby z tego skorzystać, musisz należeć do drużyny.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_BLOCK_body","source":"Character is blocked. Unblock to send whispers.","translation":"Ta postać jest zablokowana. Odblokuj ją, aby wysyłać wiadomości prywatne.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_FAIL_OTHER_WORLDSERVER_GROUPNO_body","source":"Cannot whisper to a character in a different server group.","translation":"Nie można wysłać wiadomości prywatnej do postaci z innej grupy serwerów.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_FAIL_body","source":"Cannot whisper to target.","translation":"Nie można wysłać wiadomości prywatnej do celu.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_NO_RECENT_body","source":"No recent whispers.","translation":"Brak ostatnich wiadomości prywatnych.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_NO_TARGET_body","source":"No whisper target.","translation":"Nie wybrano adresata wiadomości prywatnej.","status":"draft"}
+{"id":"Message_MSG_CHAT_WHISPER_SELF_SEND_body","source":"Cannot whisper to self.","translation":"Nie można wysłać wiadomości prywatnej do siebie.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_BATCH_PURCHASING_SUCCESS_body","source":"Bulk purchase complete.","translation":"Zakup hurtowy zakończony.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_BUY_FAILED_NOT_EXIST_ITEM_body","source":"There are no products for sale.","translation":"Brak produktów na sprzedaż.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_BUY_SUCCESS_body","source":"Purchase complete.","translation":"Zakup zakończony.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_NOT_ENOUGH_ABYSS_RANK_body","source":"Insufficient Abyss Tier.","translation":"Zbyt niska ranga w Otchłani.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_NOT_ENOUGH_BATTLEPASS_CONDITION_body","source":"Daeva Pass purchase required.","translation":"Wymagany zakup Przepustki Daevy.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_NOT_ENOUGH_CHARACTER_LEVEL_body","source":"Insufficient character level.","translation":"Zbyt niski poziom postaci.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_NOT_ENOUGH_COIN_body","source":"Insufficient funds.","translation":"Za mało waluty.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_NOT_ENOUGH_GUILD_LEVEL_body","source":"Insufficient Legion level.","translation":"Zbyt niski poziom Legionu.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_STEPUP_ITEM_BUY_FAILED_STEP_WRONG_body","source":"Cannot purchase at this Stage.","translation":"Nie można kupić na tym etapie.","status":"draft"}
+{"id":"Message_MSG_COINSHOP_STEPUP_ITEM_SOLD_OUT_body","source":"Item has already been purchased.","translation":"Ten przedmiot został już kupiony.","status":"draft"}
+{"id":"Message_MSG_COMMON_FAIL_ALREADY_KICKED_body","source":"Currently kicked.","translation":"Wyrzucono cię z grupy.","status":"draft"}
+{"id":"Message_MSG_COMMON_FAIL_INVALID_CHARACTER_body","source":"Cannot find character.","translation":"Nie można znaleźć postaci.","status":"draft"}
+{"id":"Message_MSG_COMMON_FAIL_NOT_ENOUGH_GOLD_body","source":"Insufficient funds.","translation":"Za mało waluty.","status":"draft"}
+{"id":"Message_MSG_COMMON_NOT_ENOUGH_ITEM_body","source":"Insufficient items.","translation":"Za mało przedmiotów.","status":"draft"}
+{"id":"Message_MSG_COMMON_NOT_EXIST_USER_body","source":"Target not found.","translation":"Nie znaleziono celu.","status":"draft"}
+{"id":"Message_MSG_COMMON_REPORT_ERROR_81605_body","source":"An error has occurred. Please try again.","translation":"Wystąpił błąd. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_COMMON_REPORT_ERROR_81606_body","source":"Unable to view the opponent's information. Please try again.","translation":"Nie można wyświetlić informacji o przeciwniku. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_COMMON_REPORT_ERROR_81607_body","source":"Select reasons for reporting.","translation":"Wybierz powody zgłoszenia.","status":"draft"}
+{"id":"Message_MSG_COMMON_REPORT_ERROR_81609_body","source":"An error has occurred. Please try again.","translation":"Wystąpił błąd. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_COMMON_REPORT_ERROR_COMMON_body","source":"An error has occurred. Please try again.","translation":"Wystąpił błąd. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_COMMON_REQUEST_FAIL_body","source":"Failed to request.","translation":"Nie udało się wysłać prośby.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_COMMON_ERROR_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_COMMON_INVALID_SERVER_body","source":"Character information not found.","translation":"Nie znaleziono informacji o postaci.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_BLOCK_body","source":"Cannot become friends with blocked characters.","translation":"Nie można zaprzyjaźnić się z zablokowanymi postaciami.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_INVALID_CHARACTER_body","source":"Character not found.","translation":"Nie znaleziono postaci.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_MYLIST_FULL_body","source":"Cannot add more friends because friend list is full.","translation":"Lista znajomych jest pełna. Nie można dodać kolejnych osób.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_TARGETINBLOCK_body","source":"Character is set to auto-decline friend requests.","translation":"Ta postać automatycznie odrzuca zaproszenia do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_YOURLIST_FULL_body","source":"The recipient cannot add more friends.","translation":"Odbiorca nie może dodać więcej znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_FAILED_body","source":"Request not found.","translation":"Nie znaleziono prośby.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_ADD_SUCCESS_body","source":"You are now friends with {0}.","translation":"Od teraz {0} jest twoim znajomym.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_BLOCK_FAIL_OTHER_WORLDSERVER_GROUPNO_body","source":"Cannot block a character in a different server group.","translation":"Nie można zablokować postaci z innej grupy serwerów.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_DELETE_FAILED_body","source":"Target not found.","translation":"Nie znaleziono celu.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_DELETE_SUCCESS_body","source":"Unfriended {0}.","translation":"Usunięto {0} ze znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_LOGIN_body","source":"Your friend {0} has logged in.","translation":"Twój znajomy {0} zalogował się.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_MEMO_EMPTY_body","source":"Enter memo.","translation":"Wpisz notatkę.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REJECT_FAILED_body","source":"Request canceled.","translation":"Anulowano prośbę.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REJECT_GET_body","source":"{0} rejected your friend request.","translation":"{0} odrzucił(-a) twoje zaproszenie do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REJECT_SUCCESS_body","source":"Rejected friend request from {0}.","translation":"Odrzucono zaproszenie do znajomych od {0}.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_CANCEL_FAILED_INVALID_body","source":"Request not found.","translation":"Nie znaleziono prośby.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_CANCEL_body","source":"Request canceled.","translation":"Anulowano prośbę.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_ALREADY_FRIEND_body","source":"Character already registered as friend.","translation":"Ta postać jest już na liście znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_ALREADY_GET_body","source":"Friend request already received from this character.","translation":"Otrzymano już zaproszenie do znajomych od tej postaci.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_ALREADY_body","source":"Friend request already sent to this character.","translation":"Wysłano już zaproszenie do znajomych do tej postaci.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_AUTOREJECT_body","source":"Character is set to auto-decline friend requests.","translation":"Ta postać automatycznie odrzuca zaproszenia do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_BLOCK_body","source":"Cannot send friend request to blocked characters.","translation":"Nie można zapraszać do znajomych zablokowanych postaci.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_INVALID_CHARACTER_body","source":"Character not found. Check name again.","translation":"Nie znaleziono postaci. Sprawdź jej imię.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_INVALID_SERVER_body","source":"Server not found. Failed to send friend request.","translation":"Nie znaleziono serwera. Nie udało się wysłać zaproszenia do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_MYLIST_FULL_body","source":"Cannot send more requests. Request list is full.","translation":"Lista próśb jest pełna. Nie można wysłać kolejnych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_NOTSAMERACE_body","source":"Can only befriend characters of the same faction.","translation":"Można dodawać do znajomych tylko postacie z tej samej frakcji.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_TARGETINBLOCK_body","source":"Character is set to auto-decline friend requests.","translation":"Ta postać automatycznie odrzuca zaproszenia do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAILED_YOURLIST_FULL_body","source":"Recipient cannot receive more requests.","translation":"Odbiorca nie może otrzymać więcej próśb.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_FAIL_OTHER_WORLDSERVER_GROUPNO_body","source":"Cannot send friend request to a character in a different server group.","translation":"Nie można wysłać zaproszenia do znajomych do postaci z innej grupy serwerów.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_GET_body","source":"Friend request received from {0}.","translation":"Otrzymano zaproszenie do znajomych od {0}.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_FRIEND_REQUEST_SUCCESS_body","source":"Friend request sent to {0}.","translation":"Wysłano zaproszenie do znajomych do {0}.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MEMO_FAILED_LIMIT_body","source":"Input character limit exceeded.","translation":"Przekroczono limit znaków.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_ALREADY_FRIEND_body","source":"Cannot block friends.","translation":"Nie można zablokować znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_ALREADY_body","source":"Character is already blocked.","translation":"Ta postać jest już zablokowana.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_CANCEL_FAILED_INVALID_body","source":"Target not found.","translation":"Nie znaleziono celu.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_FAILED_ALREADY_GET_body","source":"Cannot block characters you have a pending friend request from.","translation":"Nie można zablokować postaci, od której oczekuje się zaproszenia do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_FAILED_ALREADY_REQUEST_body","source":"Cannot block characters you have a pending a friend request with.","translation":"Nie można zablokować postaci, do której wysłano oczekujące zaproszenie do znajomych.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_FAILED_INVALID_CHARACTER_body","source":"Character not found. Please check name again.","translation":"Nie znaleziono postaci. Sprawdź jej imię.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_FAILED_INVALID_SERVER_body","source":"Failed to block because server not found.","translation":"Nie udało się zablokować — nie znaleziono serwera.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_MENU_BLOCK_MYLIST_FULL_body","source":"Cannot block because block list is full.","translation":"Lista blokowanych jest pełna.","status":"draft"}
+{"id":"Message_MSG_COMMUNITY_REQUEST_BLOCK_SELF_SEND_body","source":"Invalid target.","translation":"Nieprawidłowy cel.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_ABYSS_body","source":"Action unavailable during Abyss.","translation":"Tej czynności nie można wykonać w Otchłani.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_ARENA_MATCHING_body","source":"Action unavailable during matchmaking.","translation":"Tej czynności nie można wykonać podczas dobierania przeciwników.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_ARENA_body","source":"Action unavailable during Arena.","translation":"Tej czynności nie można wykonać na arenie.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_FIELDEVENT_body","source":"Action unavailable during Dimensional Invasion.","translation":"Tej czynności nie można wykonać podczas Inwazji Wymiarowej.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_PARTYDUNGEONCHALLENGE_body","source":"Action unavailable during Transcendence.","translation":"Tej czynności nie można wykonać podczas Transcendencji.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_PARTYDUNGEONRAID_body","source":"Action unavailable during Sanctuary.","translation":"Tej czynności nie można wykonać w Sanktuarium.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_PARTYDUNGEON_body","source":"Action unavailable during Expedition.","translation":"Tej czynności nie można wykonać podczas Ekspedycji.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_RAID_body","source":"Action unavailable during Sanctuary.","translation":"Tej czynności nie można wykonać w Sanktuarium.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_RIFT_body","source":"Action unavailable while in a Spacetime Rift.","translation":"Tej czynności nie można wykonać w Szczelinie Czasoprzestrzennej.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_SHUGOFESTA_body","source":"Action unavailable during Shugo Festival.","translation":"Tej czynności nie można wykonać podczas Festiwalu Shugo.","status":"draft"}
+{"id":"Message_MSG_CONTENTSFEATURE_SUPPRESSION_body","source":"Action unavailable during Subjugation.","translation":"Tej czynności nie można wykonać podczas Pacyfikacji.","status":"draft"}
+{"id":"Message_MSG_CONTENTSTICKET_ITEM_CHARGE_ADD_COUNT_body","source":"Charged {0} by {1}.","translation":"Odnowiono {0} o {1}.","status":"draft"}
+{"id":"Message_MSG_CONTENTSTICKET_ITEM_CHARGE_ADD_TIME_body","source":"Charged {0} by {1}.","translation":"Odnowiono {0} o {1}.","status":"draft"}
+{"id":"Message_MSG_CONTENTS_BAN_ITEM_body","source":"Usage of the item is currently restricted.","translation":"Obecnie używanie tego przedmiotu jest ograniczone.","status":"draft"}
+{"id":"Message_MSG_CONTENTS_SWEEP_FAIL_BY_ITEM_body","source":"Insufficient Instant Clear Tickets.","translation":"Za mało Biletów natychmiastowego ukończenia.","status":"draft"}
+{"id":"Message_MSG_CONTENTS_SWEEP_FAIL_BY_MAX_SWEEP_COUNT_body","source":"Insufficient instant clear count.","translation":"Brak dostępnych natychmiastowych ukończeń.","status":"draft"}
+{"id":"Message_MSG_CONTENTS_SWEEP_FAIL_BY_NOT_CLEAR_BOSSCHALLENGE_LEVEL_body","source":"Cannot access because previous stage has not been cleared.","translation":"Nie można wejść, ponieważ nie ukończono poprzedniego etapu.","status":"draft"}
+{"id":"Message_MSG_CONTENTS_SWEEP_FAIL_BY_TICKET_body","source":"Insufficient entry attempts.","translation":"Za mało prób wejścia.","status":"draft"}
+{"id":"Message_MSG_CONTROLMODE_CHANGE_AION2_body","source":"Control mode changed to AION 2 mode.","translation":"Zmieniono tryb sterowania na AION 2.","status":"draft"}
+{"id":"Message_MSG_CONTROLMODE_CHANGE_CLASSIC_body","source":"Control mode changed to AION 1 mode.","translation":"Zmieniono tryb sterowania na AION 1.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BOOKMARK_MAX_body","source":"Maximum number of registered Favorites exceeded.","translation":"Osiągnięto limit ulubionych przepisów.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BUTTON_DISABLED_INVALID_PERIOD_body","source":"Cannot Substance Morph at this time.","translation":"Obecnie nie można użyć Transmutacji substancji.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BUTTON_DISABLED_NOTENOUGH_MATERIALS_body","source":"Insufficient materials.","translation":"Za mało materiałów.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BUTTON_DISABLED_NOTENOUGH_QUANTITY_body","source":"The quantity available to Substance Morph has been exceeded.","translation":"Przekroczono dostępną liczbę prób Transmutacji substancji.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BUTTON_DISABLED_NOT_ACQUIRED_body","source":"Unacquired recipe.","translation":"Nie odblokowano przepisu.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_BUTTON_DISABLED_NO_SELECTED_MATERIALS_body","source":"No materials selected.","translation":"Nie wybrano materiałów.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_ABNORMAL_body","source":"Substance Morph failed due to status effect.","translation":"Transmutacja substancji nie powiodła się z powodu efektu statusu.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_INVALIDDATA_body","source":"Substance Morph failed due to unexpected error.","translation":"Transmutacja substancji nie powiodła się z powodu nieoczekiwanego błędu.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_NOTACQUIREDRECIPE_body","source":"Unacquired recipe.","translation":"Nie odblokowano przepisu.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_NOTENOUGHDP_body","source":"Substance Morph failed due to insufficient Divine Power.","translation":"Transmutacja substancji nie powiodła się — za mało Boskiej Mocy.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_NOTENOUGHMATERIAL_body","source":"Substance Morph failed due to insufficient materials.","translation":"Transmutacja substancji nie powiodła się — za mało materiałów.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_NOTLIVINGCHARACTER_body","source":"Substance Morph failed because the character died.","translation":"Transmutacja substancji nie powiodła się, ponieważ postać zginęła.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_OVERMSG_CONVERSIONCOUNT_body","source":"Current recipe's crafting count has been consumed.","translation":"Wykorzystano limit wytwarzania tego przepisu.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_FAIL_UNQUALIFIEDCHARACTERRACE_body","source":"Substance Morph failed due to faction restriction.","translation":"Transmutacja substancji nie powiodła się z powodu ograniczenia frakcji.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_Fail_Limit_OverCount_body","source":"There is no available quantity to morph. Please check the event details.","translation":"Brak dostępnych prób transmutacji. Sprawdź szczegóły wydarzenia.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_Fail_OtherActions_body","source":"Cannot use Substance Morph during other actions.","translation":"Nie można użyć Transmutacji substancji podczas wykonywania innych czynności.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_MATERIAL_CONFIRM_body","source":"Please check Morph materials.","translation":"Sprawdź materiały do transmutacji.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_NOT_ENOUGH_INVENTORY_SLOT_body","source":"Cannot Substance Morph due to insufficient Cube space.","translation":"Nie można użyć Transmutacji substancji — za mało miejsca w ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_No_DP_Items_Owned_body","source":"Insufficient Divine Power Regen items.","translation":"Za mało przedmiotów odnawiających Boską Moc.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_BOOKMARK_OFF_body","source":"Removed Favorites filter in order to display selected recipe.","translation":"Usunięto filtr ulubionych, aby wyświetlić wybrany przepis.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_REGISTER_ALREADY_body","source":"This design has already been acquired.","translation":"Ten projekt został już zdobyty.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_REGISTER_COUNT_SUCCESS_body","source":"{1} successful Substance Morph attempt(s) registered for {0}.","translation":"Zarejestrowano {1} udanych prób Transmutacji substancji dla {0}.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_REGISTER_COUNT_body","source":"{1} available Substance Morph attempt(s) registered for {0}.","translation":"Zarejestrowano {1} dostępnych prób Transmutacji substancji dla {0}.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_REGISTER_GATHER_body","source":"Acquired knowledge of [{0}] from {1}.","translation":"Zdobyto wiedzę o [{0}] od {1}.","status":"draft"}
+{"id":"Message_MSG_CONVERSION_RECIPE_REGISTER_body","source":"Morph Method acquired: [{0}]","translation":"Zdobyto metodę transmutacji: [{0}]","status":"draft"}
+{"id":"Message_MSG_CONVERSION_REPLACEMENT_BUTTON_DISABLED_NO_SELECTED_body","source":"No substitute materials selected.","translation":"Nie wybrano materiałów zastępczych.","status":"draft"}
+{"id":"Message_MSG_COUPON_REGISTRATION_FAILED_TUTORIAL_CHARACTER_body","source":"Coupon can be registered after completing \"{0}\".","translation":"Kupon można zarejestrować po ukończeniu zadania „{0}”.","status":"draft"}
+{"id":"Message_MSG_CRAFT_BOOKMARK_MAX_body","source":"Up to {0} favorites can be registered.","translation":"Można dodać maksymalnie {0} ulubionych przepisów.","status":"draft"}
+{"id":"Message_MSG_CRAFT_CANCEL_NEXT_ONLY_body","source":"In-progress crafting cannot be canceled. Only scheduled crafting can be canceled.","translation":"Nie można anulować trwającego wytwarzania. Można anulować tylko zaplanowane.","status":"draft"}
+{"id":"Message_MSG_CRAFT_CRAFTRECIPE_ALREADY_body","source":"This design has already been acquired.","translation":"Ten projekt został już zdobyty.","status":"draft"}
+{"id":"Message_MSG_CRAFT_CRAFTRECIPE_REGISTER_COUNT_body","source":"[{0}] acquired. Can be crafted {1} time(s).","translation":"Odblokowano [{0}]. Liczba możliwych wytworzeń: {1}.","status":"draft"}
+{"id":"Message_MSG_CRAFT_CRAFTRECIPE_REGISTER_body","source":"Design acquired: [{0}]","translation":"Zdobyto projekt: [{0}]","status":"draft"}
+{"id":"Message_MSG_CRAFT_CRAFT_BUTTON_DISABLED_NO_RECIPE_body","source":"Unacquired recipe.","translation":"Nie odblokowano przepisu.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_ABNORMAL_body","source":"Failed to craft due to status effect.","translation":"Wytwarzanie nie powiodło się z powodu efektu statusu.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_INVALID_CHARACTER_STATE_body","source":"Cannot craft in current state.","translation":"W obecnym stanie nie można wytwarzać.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_NOTENOUGHMATERIAL_body","source":"Failed to craft due to insufficient materials.","translation":"Wytwarzanie nie powiodło się — za mało materiałów.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_NOTLIVINGCHARACTER_body","source":"Failed to craft due to character death.","translation":"Wytwarzanie nie powiodło się, ponieważ postać zginęła.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_OVERMSG_CRAFTCOUNT_body","source":"Current recipe's crafting count has been consumed.","translation":"Wykorzystano limit wytwarzania tego przepisu.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_REWARD_body","source":"Received {0} crafting failure compensation rewards.","translation":"Otrzymano {0} nagród rekompensaty za nieudane wytwarzanie.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_SOULBIND_OTHERCHARACTER_body","source":"Gear that has been Soul Bound to another character cannot be as a material.","translation":"Wyposażenia związanego duszą z inną postacią nie można użyć jako materiału.","status":"draft"}
+{"id":"Message_MSG_CRAFT_FAIL_body","source":"Failed to craft {0}.","translation":"Nie udało się wytworzyć {0}.","status":"draft"}
+{"id":"Message_MSG_CRAFT_MASTERY_Acquire_body","source":"Crafting Skill acquired: [{0}]","translation":"Odblokowano umiejętność wytwarzania: [{0}]","status":"draft"}
+{"id":"Message_MSG_CRAFT_MASTERY_GradeUp_body","source":"{0} Crafting achieved {1} ({2}p).","translation":"Wytwarzanie {0}: osiągnięto {1} ({2} pkt).","status":"draft"}
+{"id":"Message_MSG_CRAFT_MASTERY_MASTER_ERROR_AnotherQuest_body","source":"Another Upgrade quest is already in progress.","translation":"Trwa już inne zadanie ulepszenia.","status":"draft"}
+{"id":"Message_MSG_CRAFT_MASTERY_UP_body","source":"{0} Crafting Proficiency Level has reached {1}.","translation":"Poziom biegłości w wytwarzaniu {0} osiągnął {1}.","status":"draft"}
+{"id":"Message_MSG_CRAFT_MATERIAL_CONFIRM_EXCLUDED_CANNOT_CRAFT_body","source":"Cannot craft because required materials have been excluded.","translation":"Nie można wytworzyć przedmiotu, ponieważ pominięto wymagane materiały.","status":"draft"}
+{"id":"Message_MSG_CRAFT_NOT_ENOUGH_INVENTORY_SLOT_body","source":"Insufficient Cube space.","translation":"Za mało miejsca w ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CRAFT_NOT_ENOUGH_MATERIALS_body","source":"Insufficient crafting materials.","translation":"Za mało materiałów do wytwarzania.","status":"draft"}
+{"id":"Message_MSG_CRAFT_NOT_ENOUGH_REMOTE_CRAFT_FEE_body","source":"Insufficient crafting materials.","translation":"Za mało materiałów do wytwarzania.","status":"draft"}
+{"id":"Message_MSG_CRAFT_NOT_LEARNED_body","source":"Unacquired recipe.","translation":"Nie odblokowano przepisu.","status":"draft"}
+{"id":"Message_MSG_CRAFT_NOT_LIMIT_ERROR_body","source":"Cannot craft because recipe is restricted.","translation":"Nie można użyć tego przepisu z powodu ograniczeń.","status":"draft"}
+{"id":"Message_MSG_CRAFT_RECIPE_BOOKMARK_OFF_body","source":"Removed Favorites filter in order to display selected recipe.","translation":"Usunięto filtr ulubionych, aby wyświetlić wybrany przepis.","status":"draft"}
+{"id":"Message_MSG_CRAFT_REPLACEMENT_BUTTON_DISABLED_NO_SELECTED_body","source":"No materials selected.","translation":"Nie wybrano materiałów.","status":"draft"}
+{"id":"Message_MSG_CRAFT_Recipe_NoMore_SubComponents_body","source":"Only up to 3 levels of secondary materials can be displayed.","translation":"Można wyświetlić maksymalnie 3 poziomy materiałów podrzędnych.","status":"draft"}
+{"id":"Message_MSG_CRAFT_SUCCESSION_QUANTITY_GUIDE_body","source":"Can only perform transfer crafting once per item.","translation":"Przeniesienie wytworzenia można wykonać tylko raz dla danego przedmiotu.","status":"draft"}
+{"id":"Message_MSG_CRAFT_SUCCESS_body","source":"Successfully crafted {0}.","translation":"Pomyślnie wytworzono {0}.","status":"draft"}
+{"id":"Message_MSG_CRAFT_TABLE_TOO_FAR_body","source":"Crafting table is out of reach.","translation":"Stół rzemieślniczy jest poza zasięgiem.","status":"draft"}
+{"id":"Message_MSG_CURRENCY_INFO_CAN_NOT_USE_ROUTE_ABYSS_body","source":"Can be used after unlocking the Abyss menu.","translation":"Dostępne po odblokowaniu menu Otchłani.","status":"draft"}
+{"id":"Message_MSG_CURRENCY_INFO_CAN_NOT_USE_ROUTE_BATTLEPASS_body","source":"Can be used after unlocking the Battle Pass menu.","translation":"Dostępne po odblokowaniu menu Przepustki Daevy.","status":"draft"}
+{"id":"Message_MSG_CURRENCY_INFO_CAN_NOT_USE_ROUTE_BMSHOP_body","source":"Can be used after unlocking the Shop menu.","translation":"Dostępne po odblokowaniu menu Sklepu.","status":"draft"}
+{"id":"Message_MSG_CURRENCY_INFO_CAN_NOT_USE_ROUTE_NIGHTMARE_body","source":"Can be used after unlocking the Nightmare Dungeon menu.","translation":"Dostępne po odblokowaniu menu Lochu Koszmaru.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_APPLICATION_DB_ERROR_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_APPLICATION_ERROR_body","source":"Cannot apply now. Please try again.","translation":"Nie można teraz zastosować. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_APPLICATION_IMPOSSIBLE_ERROR_body","source":"Cannot apply Customization.","translation":"Nie można zastosować personalizacji.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_DATA_DOWNLOADING_body","source":"Refreshing customization information. Please wait a moment.","translation":"Odświeżanie informacji o personalizacji. Chwileczkę.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_DISABLE_BUTTON_RANDOM_body","source":"Feature cannot be used.","translation":"Nie można użyć tej funkcji.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_DOWNLOAD_SLOT_RELOAD_body","source":"Updating the download slot.","translation":"Aktualizowanie slotu pobierania.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_FREESET_NO_RESET_body","source":"Cannot reset from the Preset menu.","translation":"Nie można resetować z menu zestawów.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_CHANGE_TO_APPLY_body","source":"Cannot be applied due to being identical to the currently applied Appearance.","translation":"Nie można zastosować — wygląd jest identyczny z obecnym.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_COST_TO_APPLY_body","source":"Insufficient funds to change Appearance.","translation":"Za mało waluty, aby zmienić wygląd.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_REDO_HISTORY_body","source":"No more history to redo.","translation":"Brak kolejnych zmian do ponowienia.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_RESET_CUSTOM_body","source":"No content to reset.","translation":"Brak zawartości do zresetowania.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_SELECT_TO_APPLY_body","source":"Select an Appearance to apply.","translation":"Wybierz wygląd do zastosowania.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_SELECT_TO_DELETE_body","source":"Select an Appearance to delete.","translation":"Wybierz wygląd do usunięcia.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_NO_UNDO_HISTORY_body","source":"No more history to undo. (Max 50 times)","translation":"Brak kolejnych zmian do cofnięcia. (Maks. 50)","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_PREVIEW_VOICE_BASIC_body","source":"Set to default voice.","translation":"Ustawiono głos domyślny.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_PREVIEW_VOICE_CUTE_body","source":"Set to cute voice.","translation":"Ustawiono głos słodki.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_PREVIEW_VOICE_NASTY_body","source":"Set to mean voice.","translation":"Ustawiono głos złośliwy.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_PREVIEW_VOICE_STRONG_body","source":"Set to strong voice.","translation":"Ustawiono głos mocny.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_RANDOM_ALL_body","source":"Randomly set from all items.","translation":"Losowo wybrano spośród wszystkich przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_RANDOM_EACH_body","source":"Randomly set from current items.","translation":"Losowo wybrano spośród bieżących przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CUSTOMIZE_WEB_POST_SANCTION_DELETE_body","source":"This customization has been restricted and cannot be applied. The saved slot information has also been deleted.","translation":"Ta personalizacja została zablokowana i nie można jej zastosować. Usunięto również zapisane informacje o slocie.","status":"draft"}
+{"id":"Message_MSG_ContentsControl_Inactivated_Contents_body","source":"Content is locked and unavailable.","translation":"Zawartość jest zablokowana i niedostępna.","status":"draft"}
+{"id":"Message_MSG_Craft_Bookmark_Not_Advancement_body","source":"Cannot add Upgrade Recipes to Favorites.","translation":"Nie można dodać przepisów ulepszenia do ulubionych.","status":"draft"}
+{"id":"Message_MSG_DAEVACITADEL_BROKENBOARD_SPAWN_01_body","source":"The first crossing has appeared.","translation":"Pojawiła się pierwsza kładka.","status":"draft"}
+{"id":"Message_MSG_DAEVACITADEL_BROKENBOARD_SPAWN_02_body","source":"The second crossing has appeared.","translation":"Pojawiła się druga kładka.","status":"draft"}
+{"id":"Message_MSG_DAEVANIONNODE_ALLGET_body","source":"All Daevanion Nodes already acquired.","translation":"Odblokowano już wszystkie węzły Daevanionu.","status":"draft"}
+{"id":"Message_MSG_DAEVANIONNODE_CANNOT_LEARN_ALL_body","source":"Insufficient Daevanion Points to acquire all Nodes.","translation":"Za mało Punktów Daevanionu, aby odblokować wszystkie węzły.","status":"draft"}
+{"id":"Message_MSG_DAEVANIONNODE_CANNOT_RESET_CONDITION_body","source":"Cannot refund. Node is prerequisite for another node.\nRefund related Node first.","translation":"Nie można zwrócić punktów — ten węzeł jest wymagany do odblokowania innego.\nNajpierw zwróć punkty z powiązanego węzła.","status":"draft"}
+{"id":"Message_MSG_DAEVANIONNODE_CANNOT_RESET_GOLD_body","source":"Insufficient Kina to refund Node.","translation":"Za mało Kiny, aby zwrócić punkty węzła.","status":"draft"}
+{"id":"Message_MSG_DAEVANIONNODE_CANNOT_RESET_PRENODE_body","source":"Must refund acquired adjacent Node first.","translation":"Najpierw zwróć punkty sąsiedniego odblokowanego węzła.","status":"draft"}
+{"id":"Message_MSG_DAEVASENSE_DISCOVERY_ANNOUNCE_body","source":"Daeva Sense has detected mysterious energy.","translation":"Zmysł Daevy wykrył tajemniczą energię.","status":"draft"}
+{"id":"Message_MSG_DAEVA_EXPRESS_GET_REWARD_NOTHING_body","source":"No available rewards. Item cannot be used.","translation":"Brak dostępnych nagród. Nie można użyć przedmiotu.","status":"draft"}
+{"id":"Message_MSG_DAEVA_EXPRESS_NOT_ENOUGH_QUEST_CONDITION_body","source":"Complete the {0} quest to use it.","translation":"Ukończ zadanie {0}, aby tego użyć.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_AUTOANALYZE_NO_START_body","source":"Cannot activate manual analysis under auto-analysis mode.","translation":"Nie można uruchomić analizy ręcznej w trybie automatycznym.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_CANNOT_ACCESS_RECORD_body","source":"Cannot check record during analysis.","translation":"Nie można sprawdzić zapisu podczas analizy.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_CANNOT_BUTTON_START_ACTIVATE_body","source":"Designate a valid main target or aim target to enable the Start button.","translation":"Aby odblokować przycisk Start, wskaż prawidłowy cel główny lub celownikowy.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_MAX_RECORD_DELETED_body","source":"Maximum number of records reached. The oldest record has been deleted.","translation":"Osiągnięto limit zapisów. Usunięto najstarszy zapis.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_RECORD_LOAD_FAIL_body","source":"Failed to retrieve record.","translation":"Nie udało się pobrać zapisu.","status":"draft"}
+{"id":"Message_MSG_DAMAGEANALYZER_RECORD_SAVE_FAIL_body","source":"Failed to save record.","translation":"Nie udało się zapisać zapisu.","status":"draft"}
+{"id":"Message_MSG_DECOMPOSE_FAILED_body","source":"Failed to extract item.","translation":"Nie udało się rozłożyć przedmiotu.","status":"draft"}
+{"id":"Message_MSG_DECOMPOSE_NOTHING_body","source":"No registered items.","translation":"Nie zarejestrowano przedmiotów.","status":"draft"}
+{"id":"Message_MSG_DECOMPOSE_STOP_SUCCESS_COUNT_body","source":"Extracted only {1} of {0} due to insufficient Cube space.","translation":"Z powodu braku miejsca w ekwipunku rozłożono tylko {1} z {0}.","status":"draft"}
+{"id":"Message_MSG_DECO_CANNOT_GET_EXISTS_body","source":"Decoration already owned.","translation":"Ta ozdoba jest już w posiadaniu.","status":"draft"}
+{"id":"Message_MSG_DEGRADED_GUILDMEMBERGRADE_body","source":"{0}'s rank has been demoted.","translation":"Obniżono rangę gracza {0}.","status":"draft"}
+{"id":"Message_MSG_DELETE_NOTHING_body","source":"No registered items.","translation":"Nie zarejestrowano przedmiotów.","status":"draft"}
+{"id":"Message_MSG_DESTROY_TIME_KISK_body","source":"Kisk will expire in 1 minute.","translation":"Kisk wygaśnie za 1 minutę.","status":"draft"}
+{"id":"Message_MSG_DH_Drakan_Spawn_01_body","source":"Detected Daeva Decimator {0} movement.","translation":"Wykryto ruch Niszczyciela Daevów {0}.","status":"draft"}
+{"id":"Message_MSG_DIE_KILLZ_REBIRTH_TIME_body","source":"Resurrect at a safe location in {0}","translation":"Wskrzeszenie w bezpiecznym miejscu za {0}","status":"draft"}
+{"id":"Message_MSG_DIMENSION_INVASION_ACTIVE_body","source":"A dimensional invasion has occurred at {0}.","translation":"W {0} doszło do inwazji wymiarowej.","status":"draft"}
+{"id":"Message_MSG_DISPLAY_LANDSCAPE_ONLY_body","source":"Can only be used in landscape mode.","translation":"Można używać tylko w orientacji poziomej.","status":"draft"}
+{"id":"Message_MSG_DISTRICT_QUEST_GROUP_OPEN_body","source":"{0} Area Mission unlocked.","translation":"Odblokowano misję obszaru: {0}.","status":"draft"}
+{"id":"Message_MSG_DO_NOT_DECOMPOSABLE_body","source":"Cannot extract this gear.","translation":"Nie można rozłożyć tego wyposażenia.","status":"draft"}
+{"id":"Message_MSG_DO_NOT_DECOMPOSE_STATE_body","source":"Cannot extract in current state.","translation":"W obecnym stanie nie można rozkładać.","status":"draft"}
+{"id":"Message_MSG_DROPS_REWARD_ITEM_GET_SUCCESS_body","source":"Successfully obtained Drops Reward Item.","translation":"Pomyślnie zdobyto przedmiot z nagrody za łupy.","status":"draft"}
+{"id":"Message_MSG_DUEL_CANCEL_LOOKER_body","source":"Duel between {0} and {1} canceled.","translation":"Pojedynek między {0} i {1} anulowano.","status":"draft"}
+{"id":"Message_MSG_DUEL_CANCEL_body","source":"Duel canceled.","translation":"Pojedynek anulowano.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHALLENGE_SEND_body","source":"Challenged {0} to a duel.","translation":"Wyzwano {0} na pojedynek.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_CHALLENGE_RECEIVE_ACCEPT_body","source":"Accepted the duel request from {0}.","translation":"Przyjęto wyzwanie na pojedynek od {0}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_CHALLENGE_RECEIVE_DENY_body","source":"Declined the duel request from {0}.","translation":"Odrzucono wyzwanie na pojedynek od {0}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_CHALLENGE_SEND_ACCEPT_body","source":"{0} accepted duel request.","translation":"Wyzwanie na pojedynek od {0} zaakceptowano.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_CHALLENGE_SEND_DENY_body","source":"{0} declined duel request.","translation":"Wyzwanie na pojedynek od {0} odrzucono.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_COUNTDOWN_BROADCAST_LOOKER_body","source":"Duel between {0} and {1} will commence soon.","translation":"Pojedynek między {0} i {1} wkrótce się rozpocznie.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_COUNTDOWN_PLAYER_body","source":"Duel starts in {0}s.","translation":"Pojedynek rozpocznie się za {0} s.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_DRAW_BROADCAST_LOOKER_body","source":"Duel between {0} and {1} ended in a draw.","translation":"Pojedynek między {0} i {1} zakończył się remisem.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_DRAW_body","source":"Duel with {0} ended in a draw.","translation":"Pojedynek z {0} zakończył się remisem.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_EXIT_BROADCAST_LOOKER_body","source":"{0} fled from duel against {1}.","translation":"Ucieczka {0} z pojedynku z {1}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_EXIT_LOSER_body","source":"Fled from duel against {0}.","translation":"Ucieczka z pojedynku z {0}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_EXIT_WINNER_body","source":"{0} fled from duel.","translation":"Ucieczka {0} z pojedynku.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_FINISH_BROADCAST_LOOKER_body","source":"{0} won duel against {1}.","translation":"Zwycięstwo w pojedynku: {0} nad {1}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_LOSER_body","source":"Lost duel against {0}.","translation":"Przegrano pojedynek z {0}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_START_BROADCAST_LOOKER_body","source":"Duel between {0} and {1} has commenced.","translation":"Rozpoczął się pojedynek między {0} i {1}.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_START_PLAYER_body","source":"Duel has commenced.","translation":"Rozpoczął się pojedynek.","status":"draft"}
+{"id":"Message_MSG_DUEL_CHAT_WINNER_body","source":"Won duel against {0}!","translation":"Wygrano pojedynek z {0}!","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_ALREADY_START_SELF_body","source":"Unable to request Duel. Player is already in duel or has an active challenge.","translation":"Nie można wyzwać na pojedynek. Gracz już walczy lub ma aktywne wyzwanie.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_ALREADY_START_body","source":"Unable to request Duel. Target is already in duel or has an active challenge.","translation":"Nie można wysłać wyzwania. Cel już walczy lub ma aktywne wyzwanie.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_AUTOREJECT_body","source":"Target is set to auto-decline duel requests.","translation":"Cel automatycznie odrzuca wyzwania na pojedynek.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_CANCEL_body","source":"{0} canceled duel request.","translation":"{0} anulował(-a) wyzwanie na pojedynek.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_DISTANCE_body","source":"Target is out of reach.","translation":"Cel jest poza zasięgiem.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_OVERLAP_body","source":"Cannot challenge players with a pending challenge.","translation":"Nie można wyzwać graczy, którzy mają już oczekujące wyzwanie.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_RACE_body","source":"Can only challenge players of the same faction.","translation":"Można wyzwać tylko graczy z tej samej frakcji.","status":"draft"}
+{"id":"Message_MSG_DUEL_IMPOSSIBLE_STATE_body","source":"Cannot duel in current state.","translation":"W obecnym stanie nie można pojedynkować się.","status":"draft"}

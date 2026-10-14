@@ -1,0 +1,250 @@
+{"id": "String_StatName_AGI_body", "source": "Precision", "translation": "Precyzja", "status": "draft"}
+{"id": "String_StatName_APHealRate_body", "source": "Rage Heal Recovery increase", "translation": "Zwiększenie odzyskiwania Szału przy leczeniu", "status": "draft"}
+{"id": "String_StatName_APHealRegen_body", "source": "Rage Heal Recovery", "translation": "Odzyskiwanie Szału przy leczeniu", "status": "draft"}
+{"id": "String_StatName_APMax_body", "source": "Rage", "translation": "Szał", "status": "draft"}
+{"id": "String_StatName_APPotionRate_body", "source": "Rage Potion Recovery increase", "translation": "Zwiększenie odzyskiwania Szału z mikstur", "status": "draft"}
+{"id": "String_StatName_APPotionRegen_body", "source": "Rage Potion Recovery", "translation": "Odzyskiwanie Szału z mikstur", "status": "draft"}
+{"id": "String_StatName_APRegen_body", "source": "Natural Rage Regen", "translation": "Naturalna regeneracja Szału", "status": "draft"}
+{"id": "String_StatName_APUseDecrease_body", "source": "Rage Cost reduction", "translation": "Zmniejszenie kosztu Szału", "status": "draft"}
+{"id": "String_StatName_AbnormalAccuracy_body", "source": "Status Effect Chance", "translation": "Szansa na nałożenie efektu statusu", "status": "draft"}
+{"id": "String_StatName_AbnormalFocus_body", "source": "Suppress Chance", "translation": "Szansa na stłumienie", "status": "draft"}
+{"id": "String_StatName_AbnormalLower_body", "source": "Suppress Resist", "translation": "Odporność na stłumienie", "status": "draft"}
+{"id": "String_StatName_AbnormalResistance_body", "source": "Status Effect Resist", "translation": "Odporność na efekty statusu", "status": "draft"}
+{"id": "String_StatName_AbyssAmplifyDamage_body", "source": "Abyss PvE Damage Boost", "translation": "Premia do obrażeń PvE w Otchłani", "status": "draft"}
+{"id": "String_StatName_AbyssDecreaseDamage_body", "source": "Abyss PvE Damage Tolerance", "translation": "Redukcja obrażeń PvE w Otchłani", "status": "draft"}
+{"id": "String_StatName_AbyssPointBonus_body", "source": "Abyss Point Gain increase", "translation": "Zwiększenie zdobywanych Punktów Otchłani", "status": "draft"}
+{"id": "String_StatName_AccuracyRatio_body", "source": "Accuracy increase", "translation": "Zwiększenie celności", "status": "draft"}
+{"id": "String_StatName_Accuracy_body", "source": "Accuracy Bonus", "translation": "Premia do celności", "status": "draft"}
+{"id": "String_StatName_AddAttackRange_body", "source": "Range Bonus", "translation": "Premia do zasięgu", "status": "draft"}
+{"id": "String_StatName_AddDamageEarth_body", "source": "Earth Attack", "translation": "Atak ziemią", "status": "draft"}
+{"id": "String_StatName_AddDamageFire_body", "source": "Fire Attack", "translation": "Atak ogniem", "status": "draft"}
+{"id": "String_StatName_AddDamageWater_body", "source": "Water Attack", "translation": "Atak wodą", "status": "draft"}
+{"id": "String_StatName_AddDamageWind_body", "source": "Wind Attack", "translation": "Atak wiatrem", "status": "draft"}
+{"id": "String_StatName_AddWeaponRange_body", "source": "Weapon Range", "translation": "Zasięg broni", "status": "draft"}
+{"id": "String_StatName_AdditionalHitRate_body", "source": "Multi-hit Chance", "translation": "Szansa na wielokrotne trafienie", "status": "draft"}
+{"id": "String_StatName_AdditionalHitResistRate_body", "source": "Multi-hit Resist", "translation": "Odporność na wielokrotne trafienia", "status": "draft"}
+{"id": "String_StatName_AdenaBonus_body", "source": "Kina Gain Increase", "translation": "Zwiększenie zdobywanej Kiny", "status": "draft"}
+{"id": "String_StatName_AerialAccuracy_body", "source": "Airborne Chance", "translation": "Szansa na podrzucenie", "status": "draft"}
+{"id": "String_StatName_AerialResist_body", "source": "Airborne Resist", "translation": "Odporność na podrzucenie", "status": "draft"}
+{"id": "String_StatName_AerialTimeDecrease_body", "source": "Airborne duration reduction", "translation": "Skrócenie czasu podrzucenia", "status": "draft"}
+{"id": "String_StatName_AerialTimeIncrease_body", "source": "Airborne duration increase", "translation": "Wydłużenie czasu podrzucenia", "status": "draft"}
+{"id": "String_StatName_AllAttributeDamage_body", "source": "All Elemental Attack", "translation": "Atak wszystkimi żywiołami", "status": "draft"}
+{"id": "String_StatName_AllAttributeDefense_body", "source": "All Elemental Defense", "translation": "Obrona przed wszystkimi żywiołami", "status": "draft"}
+{"id": "String_StatName_AllAttributeResist_body", "source": "All Element Tolerance", "translation": "Odporność na wszystkie żywioły", "status": "draft"}
+{"id": "String_StatName_AmplifyAggro_body", "source": "Enmity increase", "translation": "Zwiększenie poziomu wrogości", "status": "draft"}
+{"id": "String_StatName_AmplifyAllAttribute_body", "source": "All Element Boost", "translation": "Premia do wszystkich żywiołów", "status": "draft"}
+{"id": "String_StatName_AmplifyAllDamageRatio_body", "source": "Damage Boost increase", "translation": "Zwiększenie premii do obrażeń", "status": "draft"}
+{"id": "String_StatName_AmplifyAllDamage_body", "source": "Damage Boost", "translation": "Premia do obrażeń", "status": "draft"}
+{"id": "String_StatName_AmplifyBackAttack_body", "source": "Back Attack Damage Boost", "translation": "Premia do obrażeń przy ataku od tyłu", "status": "draft"}
+{"id": "String_StatName_AmplifyBasicAtkDamage_body", "source": "Basic Attack Damage Boost", "translation": "Premia do obrażeń ataku podstawowego", "status": "draft"}
+{"id": "String_StatName_AmplifyCriticalDamage_body", "source": "Critical Damage Boost", "translation": "Premia do obrażeń krytycznych", "status": "draft"}
+{"id": "String_StatName_AmplifyDpGet_body", "source": "Divine Power Gain increase", "translation": "Zwiększenie zdobywanej Boskiej Mocy", "status": "draft"}
+{"id": "String_StatName_AmplifyEarth_body", "source": "Earth Boost", "translation": "Premia do ataku ziemią", "status": "draft"}
+{"id": "String_StatName_AmplifyFire_body", "source": "Fire Boost", "translation": "Premia do ataku ogniem", "status": "draft"}
+{"id": "String_StatName_AmplifyFrontAttack_body", "source": "Front Attack Damage Boost", "translation": "Premia do obrażeń przy ataku od przodu", "status": "draft"}
+{"id": "String_StatName_AmplifyHPBarrier_body", "source": "Protective Shield Gain increase", "translation": "Zwiększenie otrzymywanej mocy osłony", "status": "draft"}
+{"id": "String_StatName_AmplifyHpHealGet_body", "source": "Incoming Heal", "translation": "Otrzymywane leczenie", "status": "draft"}
+{"id": "String_StatName_AmplifyMagicCriticalDamage_body", "source": "Magic Critical Damage Boost", "translation": "Premia do obrażeń krytycznych magii", "status": "draft"}
+{"id": "String_StatName_AmplifyMagicDamage_body", "source": "Magic Damage Boost", "translation": "Premia do obrażeń magicznych", "status": "draft"}
+{"id": "String_StatName_AmplifyMagicSkillDamage_body", "source": "Magic Skill Damage Boost", "translation": "Premia do obrażeń umiejętności magicznych", "status": "draft"}
+{"id": "String_StatName_AmplifyPhysicCriticalDamage_body", "source": "Physical Critical Damage Boost", "translation": "Premia do obrażeń krytycznych ataków fizycznych", "status": "draft"}
+{"id": "String_StatName_AmplifyPhysicDamage_body", "source": "Physical Damage Boost", "translation": "Premia do obrażeń fizycznych", "status": "draft"}
+{"id": "String_StatName_AmplifyPhysicSkillDamage_body", "source": "Physical Skill Damage Boost", "translation": "Premia do obrażeń umiejętności fizycznych", "status": "draft"}
+{"id": "String_StatName_AmplifySkillDamage_body", "source": "Skill Damage Boost", "translation": "Premia do obrażeń umiejętności", "status": "draft"}
+{"id": "String_StatName_AmplifyWater_body", "source": "Water Boost", "translation": "Premia do ataku wodą", "status": "draft"}
+{"id": "String_StatName_AmplifyWeaponDamage_body", "source": "Weapon Damage Boost", "translation": "Premia do obrażeń broni", "status": "draft"}
+{"id": "String_StatName_AmplifyWind_body", "source": "Wind Boost", "translation": "Premia do ataku wiatrem", "status": "draft"}
+{"id": "String_StatName_ArmorDefenseRatio_body", "source": "Armor Defense increase", "translation": "Zwiększenie obrony pancerza", "status": "draft"}
+{"id": "String_StatName_ArmorDefense_body", "source": "Defense", "translation": "Obrona", "status": "draft"}
+{"id": "String_StatName_ArmorEvasionRatio_body", "source": "Armor Evasion increase", "translation": "Zwiększenie uników pancerza", "status": "draft"}
+{"id": "String_StatName_ArmorEvasion_body", "source": "Evasion", "translation": "Uniki", "status": "draft"}
+{"id": "String_StatName_AttackSpeed_body", "source": "Attack Speed", "translation": "Szybkość ataku", "status": "draft"}
+{"id": "String_StatName_BackAttackCriticalResist_body", "source": "Back Attack Critical Hit Resist", "translation": "Odporność na trafienia krytyczne od tyłu", "status": "draft"}
+{"id": "String_StatName_BackAttackCritical_body", "source": "Back Attack Critical Hit", "translation": "Trafienie krytyczne od tyłu", "status": "draft"}
+{"id": "String_StatName_BackAttackDamage_body", "source": "Back Attack", "translation": "Atak od tyłu", "status": "draft"}
+{"id": "String_StatName_BackAttackDefense_body", "source": "Back Defense", "translation": "Obrona od tyłu", "status": "draft"}
+{"id": "String_StatName_BasicAtkDamageDefense_body", "source": "Basic Attack Defense", "translation": "Obrona przed atakiem podstawowym", "status": "draft"}
+{"id": "String_StatName_BasicAtkDamage_body", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "String_StatName_BattleAPRegen_body", "source": "Combat Natural Rage Regen", "translation": "Naturalna regeneracja Szału w walce", "status": "draft"}
+{"id": "String_StatName_BattleFPRegen_body", "source": "Combat Natural Flight Power Regen", "translation": "Naturalna regeneracja Energii Lotu w walce", "status": "draft"}
+{"id": "String_StatName_BattleHPRegen_body", "source": "Combat Natural HP Regen", "translation": "Naturalna regeneracja PŻ w walce", "status": "draft"}
+{"id": "String_StatName_BattleMPRegen_body", "source": "Combat Natural MP Regen", "translation": "Naturalna regeneracja PM w walce", "status": "draft"}
+{"id": "String_StatName_BattleSPRegen_body", "source": "Combat Natural Stamina Regen", "translation": "Naturalna regeneracja Wytrzymałości w walce", "status": "draft"}
+{"id": "String_StatName_BeltDefenseRatio_body", "source": "Belt Defense increase", "translation": "Zwiększenie obrony pasa", "status": "draft"}
+{"id": "String_StatName_BindAccuracy_body", "source": "Grab Chance", "translation": "Szansa na pochwycenie", "status": "draft"}
+{"id": "String_StatName_BindResist_body", "source": "Grab Resist", "translation": "Odporność na pochwycenie", "status": "draft"}
+{"id": "String_StatName_BindTimeDecrease_body", "source": "Grab duration reduction", "translation": "Skrócenie czasu pochwycenia", "status": "draft"}
+{"id": "String_StatName_BindTimeIncrease_body", "source": "Grab duration increase", "translation": "Wydłużenie czasu pochwycenia", "status": "draft"}
+{"id": "String_StatName_BleedAccuracy_body", "source": "Bleed Chance", "translation": "Szansa na krwawienie", "status": "draft"}
+{"id": "String_StatName_BleedResist_body", "source": "Bleed Resist", "translation": "Odporność na krwawienie", "status": "draft"}
+{"id": "String_StatName_BleedTimeDecrease_body", "source": "Bleed duration reduction", "translation": "Skrócenie czasu krwawienia", "status": "draft"}
+{"id": "String_StatName_BleedTimeIncrease_body", "source": "Bleed duration increase", "translation": "Wydłużenie czasu krwawienia", "status": "draft"}
+{"id": "String_StatName_BlindAccuracy_body", "source": "Blind Chance", "translation": "Szansa na oślepienie", "status": "draft"}
+{"id": "String_StatName_BlindResist_body", "source": "Blind Resist", "translation": "Odporność na oślepienie", "status": "draft"}
+{"id": "String_StatName_BlindTimeDecrease_body", "source": "Blind duration reduction", "translation": "Skrócenie czasu oślepienia", "status": "draft"}
+{"id": "String_StatName_BlindTimeIncrease_body", "source": "Blind duration increase", "translation": "Wydłużenie czasu oślepienia", "status": "draft"}
+{"id": "String_StatName_BlockActiveAccuracy_body", "source": "Seal Chance", "translation": "Szansa na zapieczętowanie", "status": "draft"}
+{"id": "String_StatName_BlockActiveResist_body", "source": "Seal Resist", "translation": "Odporność na zapieczętowanie", "status": "draft"}
+{"id": "String_StatName_BlockActiveTimeDecrease_body", "source": "Seal duration reduction", "translation": "Skrócenie czasu zapieczętowania", "status": "draft"}
+{"id": "String_StatName_BlockActiveTimeIncrease_body", "source": "Seal duration increase", "translation": "Wydłużenie czasu zapieczętowania", "status": "draft"}
+{"id": "String_StatName_BlockPierceRatio_body", "source": "Block Penetration increase", "translation": "Zwiększenie przebicia bloku", "status": "draft"}
+{"id": "String_StatName_BlockPierce_body", "source": "Block Penetration", "translation": "Przebicie bloku", "status": "draft"}
+{"id": "String_StatName_BlockRatio_body", "source": "Block increase", "translation": "Zwiększenie bloku", "status": "draft"}
+{"id": "String_StatName_Block_body", "source": "Block", "translation": "Blok", "status": "draft"}
+{"id": "String_StatName_BlockadeAccuracy_body", "source": "Restrain Chance", "translation": "Szansa na unieruchomienie", "status": "draft"}
+{"id": "String_StatName_BlockadeResist_body", "source": "Restrain Resist", "translation": "Odporność na unieruchomienie", "status": "draft"}
+{"id": "String_StatName_BlockadeTimeDecrease_body", "source": "Restrain duration reduction", "translation": "Skrócenie czasu unieruchomienia", "status": "draft"}
+{"id": "String_StatName_BlockadeTimeIncrease_body", "source": "Restrain duration increase", "translation": "Wydłużenie czasu unieruchomienia", "status": "draft"}
+{"id": "String_StatName_BodyPropertyAccuracy_body", "source": "Ailment-type Chance", "translation": "Szansa na efekt typu dolegliwość", "status": "draft"}
+{"id": "String_StatName_BodyPropertyResist_body", "source": "Ailment-type Resist", "translation": "Odporność na efekty typu dolegliwość", "status": "draft"}
+{"id": "String_StatName_BodyPropertyTimeDecrease_body", "source": "Ailment-type duration reduction", "translation": "Skrócenie czasu efektu typu dolegliwość", "status": "draft"}
+{"id": "String_StatName_BodyPropertyTimeIncrease_body", "source": "Ailment-type duration increase", "translation": "Wydłużenie czasu efektu typu dolegliwość", "status": "draft"}
+{"id": "String_StatName_BootsDefenseRatio_body", "source": "Shoes Defense increase", "translation": "Zwiększenie obrony butów", "status": "draft"}
+{"id": "String_StatName_BossNpcAddDamage_body", "source": "Boss Attack", "translation": "Atak przeciwko bossom", "status": "draft"}
+{"id": "String_StatName_BossNpcAmplifyDamage_body", "source": "Boss Damage Boost", "translation": "Premia do obrażeń zadawanych bossom", "status": "draft"}
+{"id": "String_StatName_BossNpcDecreaseDamage_body", "source": "Boss Damage Tolerance", "translation": "Redukcja obrażeń od bossów", "status": "draft"}
+{"id": "String_StatName_BossNpcDefense_body", "source": "Boss Defense", "translation": "Obrona przed bossami", "status": "draft"}
+{"id": "String_StatName_BowDamageRatio_body", "source": "Bow Attack increase", "translation": "Zwiększenie ataku łukiem", "status": "draft"}
+{"id": "String_StatName_BraceletDamageRatio_body", "source": "Bracelet Attack increase", "translation": "Zwiększenie ataku bransoletą", "status": "draft"}
+{"id": "String_StatName_BraceletDefenseRatio_body", "source": "Bracelet Defense increase", "translation": "Zwiększenie obrony bransolety", "status": "draft"}
+{"id": "String_StatName_CON_body", "source": "Constitution", "translation": "Kondycja", "status": "draft"}
+{"id": "String_StatName_CapeDefenseRatio_body", "source": "Cloak Defense increase", "translation": "Zwiększenie obrony płaszcza", "status": "draft"}
+{"id": "String_StatName_CastingSpeed_body", "source": "Cast Speed", "translation": "Szybkość rzucania", "status": "draft"}
+{"id": "String_StatName_CastingTime_body", "source": "Cast duration", "translation": "Czas rzucania", "status": "draft"}
+{"id": "String_StatName_ChargeSpeed_body", "source": "Charge Speed", "translation": "Szybkość ładowania", "status": "draft"}
+{"id": "String_StatName_CombatSpeedRatio_body", "source": "Combat Speed increase", "translation": "Zwiększenie szybkości walki", "status": "draft"}
+{"id": "String_StatName_CombatSpeed_body", "source": "Combat Speed", "translation": "Szybkość walki", "status": "draft"}
+{"id": "String_StatName_CoolTimeDecreaseRatio_body", "source": "Increases Cooldown Reduction", "translation": "Zwiększenie redukcji czasu odnowienia", "status": "draft"}
+{"id": "String_StatName_CoolTimeDecrease_body", "source": "Cooldown Reduction", "translation": "Redukcja czasu odnowienia", "status": "draft"}
+{"id": "String_StatName_CoolTimeIncrease_body", "source": "Cooldown", "translation": "Czas odnowienia", "status": "draft"}
+{"id": "String_StatName_CriticalAddDamage_body", "source": "Critical Attack", "translation": "Atak krytyczny", "status": "draft"}
+{"id": "String_StatName_CriticalDamageDefense_body", "source": "Critical Damage Defense", "translation": "Obrona przed obrażeniami krytycznymi", "status": "draft"}
+{"id": "String_StatName_CriticalMagicAddDamage_body", "source": "Critical Magic Attack", "translation": "Krytyczny atak magiczny", "status": "draft"}
+{"id": "String_StatName_CriticalMagicDamageDefense_body", "source": "Magic Critical Damage Defense", "translation": "Obrona przed krytycznymi obrażeniami magicznymi", "status": "draft"}
+{"id": "String_StatName_CriticalPhysicAddDamage_body", "source": "Critical Physical Attack", "translation": "Krytyczny atak fizyczny", "status": "draft"}
+{"id": "String_StatName_CriticalPhysicDamageDefense_body", "source": "Physical Critical Damage Defense", "translation": "Obrona przed krytycznymi obrażeniami fizycznymi", "status": "draft"}
+{"id": "String_StatName_CriticalRatio_body", "source": "Critical Hit increase", "translation": "Zwiększenie szansy na trafienie krytyczne", "status": "draft"}
+{"id": "String_StatName_CriticalResistRatio_body", "source": "Critical Hit Resist increase", "translation": "Zwiększenie odporności na trafienia krytyczne", "status": "draft"}
+{"id": "String_StatName_CriticalResist_body", "source": "Critical Hit Resist", "translation": "Odporność na trafienia krytyczne", "status": "draft"}
+{"id": "String_StatName_Critical_body", "source": "Critical Hit", "translation": "Trafienie krytyczne", "status": "draft"}
+{"id": "String_StatName_DEX_body", "source": "Dexterity", "translation": "Zręczność", "status": "draft"}
+{"id": "String_StatName_DPHealRate_body", "source": "Divine Power Heal Recovery increase", "translation": "Zwiększenie odzyskiwania Boskiej Mocy przy leczeniu", "status": "draft"}
+{"id": "String_StatName_DPHealRegen_body", "source": "Divine Power Heal Recovery", "translation": "Odzyskiwanie Boskiej Mocy przy leczeniu", "status": "draft"}
+{"id": "String_StatName_DPMax_body", "source": "Divine Power", "translation": "Boska Moc", "status": "draft"}
+{"id": "String_StatName_DPPotionRate_body", "source": "Divine Power Potion Recovery increase", "translation": "Zwiększenie odzyskiwania Boskiej Mocy z mikstur", "status": "draft"}
+{"id": "String_StatName_DPPotionRegen_body", "source": "Divine Power Potion Recovery", "translation": "Odzyskiwanie Boskiej Mocy z mikstur", "status": "draft"}
+{"id": "String_StatName_DPRegen_body", "source": "Natural Divine Power Regen", "translation": "Naturalna regeneracja Boskiej Mocy", "status": "draft"}
+{"id": "String_StatName_DaggerDamageRatio_body", "source": "Dagger Attack increase", "translation": "Zwiększenie ataku sztyletem", "status": "draft"}
+{"id": "String_StatName_DamageRatio_body", "source": "Attack increase", "translation": "Zwiększenie ataku", "status": "draft"}
+{"id": "String_StatName_Dark_body", "source": "Darkness [Azphel]", "translation": "Ciemność [Azphel]", "status": "draft"}
+{"id": "String_StatName_Death_body", "source": "Death [Triniel]", "translation": "Śmierć [Triniel]", "status": "draft"}
+{"id": "String_StatName_DecreaseAggro_body", "source": "Enmity reduction", "translation": "Zmniejszenie poziomu wrogości", "status": "draft"}
+{"id": "String_StatName_DecreaseBackAttack_body", "source": "Back Attack Damage Tolerance", "translation": "Redukcja obrażeń od ataków od tyłu", "status": "draft"}
+{"id": "String_StatName_DecreaseBasicAtkDamage_body", "source": "Basic Attack Damage Tolerance", "translation": "Redukcja obrażeń od ataków podstawowych", "status": "draft"}
+{"id": "String_StatName_DecreaseCriticalDamage_body", "source": "Critical Damage Tolerance", "translation": "Redukcja obrażeń krytycznych", "status": "draft"}
+{"id": "String_StatName_DecreaseDamageRatio_body", "source": "Damage reduction increase", "translation": "Zwiększenie redukcji obrażeń", "status": "draft"}
+{"id": "String_StatName_DecreaseDamage_body", "source": "Damage Tolerance", "translation": "Redukcja otrzymywanych obrażeń", "status": "draft"}
+{"id": "String_StatName_DecreaseFrontAttack_body", "source": "Front Attack Damage Tolerance", "translation": "Redukcja obrażeń od ataków z przodu", "status": "draft"}
+{"id": "String_StatName_DecreaseMagicCriticalDamage_body", "source": "Magic Critical Damage Tolerance", "translation": "Redukcja krytycznych obrażeń magicznych", "status": "draft"}
+{"id": "String_StatName_DecreaseMagicDamage_body", "source": "Magic Damage Tolerance", "translation": "Redukcja obrażeń magicznych", "status": "draft"}
+{"id": "String_StatName_DecreaseMagicSkillDamage_body", "source": "Magic Skill Damage Tolerance", "translation": "Redukcja obrażeń umiejętności magicznych", "status": "draft"}
+{"id": "String_StatName_DecreasePhysicCriticalDamage_body", "source": "Physical Critical Damage Tolerance", "translation": "Redukcja krytycznych obrażeń fizycznych", "status": "draft"}
+{"id": "String_StatName_DecreasePhysicDamage_body", "source": "Physical Damage Tolerance", "translation": "Redukcja obrażeń fizycznych", "status": "draft"}
+{"id": "String_StatName_DecreasePhysicSkillDamage_body", "source": "Physical Skill Damage Tolerance", "translation": "Redukcja obrażeń umiejętności fizycznych", "status": "draft"}
+{"id": "String_StatName_DecreaseShieldBlock_body", "source": "Shield Block Damage Reduction Rate", "translation": "Współczynnik redukcji obrażeń przy bloku tarczą", "status": "draft"}
+{"id": "String_StatName_DecreaseSkillDamage_body", "source": "Skill Damage Tolerance", "translation": "Redukcja obrażeń umiejętności", "status": "draft"}
+{"id": "String_StatName_DecreaseWeaponBlock_body", "source": "Parry Damage Reduction Rate", "translation": "Współczynnik redukcji obrażeń przy parowaniu", "status": "draft"}
+{"id": "String_StatName_DecreaseWeaponDamage_body", "source": "Weapon Damage Tolerance", "translation": "Redukcja obrażeń od broni", "status": "draft"}
+{"id": "String_StatName_DefensePierce_body", "source": "Penetration", "translation": "Przebicie obrony", "status": "draft"}
+{"id": "String_StatName_DefenseRatio_body", "source": "Defense increase", "translation": "Zwiększenie obrony", "status": "draft"}
+{"id": "String_StatName_Defense_body", "source": "Defense Bonus", "translation": "Premia do obrony", "status": "draft"}
+{"id": "String_StatName_Destiny_body", "source": "Destiny [Marchutan]", "translation": "Przeznaczenie [Marchutan]", "status": "draft"}
+{"id": "String_StatName_Destruction_body", "source": "Destruction [Zikel]", "translation": "Zniszczenie [Zikel]", "status": "draft"}
+{"id": "String_StatName_DiveCost_body", "source": "Diving Gauge Cost Reduction Rate", "translation": "Współczynnik zmniejszenia kosztu wskaźnika nurkowania", "status": "draft"}
+{"id": "String_StatName_EarringDamageRatio_body", "source": "Earrings Attack increase", "translation": "Zwiększenie ataku kolczykami", "status": "draft"}
+{"id": "String_StatName_EarringDefenseRatio_body", "source": "Earrings Defense increase", "translation": "Zwiększenie obrony kolczyków", "status": "draft"}
+{"id": "String_StatName_EarthDamageDefense_body", "source": "Earth Defense", "translation": "Obrona przed ziemią", "status": "draft"}
+{"id": "String_StatName_ElementalSummonLifetime_body", "source": "Spirit duration increase", "translation": "Wydłużenie czasu trwania ducha", "status": "draft"}
+{"id": "String_StatName_ElementalistDespawnHPRegen_body", "source": "Spirit Recovery", "translation": "Regeneracja ducha", "status": "draft"}
+{"id": "String_StatName_EvasionRatio_body", "source": "Evasion increase", "translation": "Zwiększenie uników", "status": "draft"}
+{"id": "String_StatName_Evasion_body", "source": "Evasion Bonus", "translation": "Premia do uników", "status": "draft"}
+{"id": "String_StatName_ExperienceBonus_body", "source": "EXP Gain Increase", "translation": "Zwiększenie zdobywanego PD", "status": "draft"}
+{"id": "String_StatName_FPHealRate_body", "source": "Flight Power Heal Recovery increase", "translation": "Zwiększenie odzyskiwania Energii Lotu przy leczeniu", "status": "draft"}
+{"id": "String_StatName_FPHealRegen_body", "source": "Flight Power Heal Recovery", "translation": "Odzyskiwanie Energii Lotu przy leczeniu", "status": "draft"}
+{"id": "String_StatName_FPMax_body", "source": "Flight Power", "translation": "Energia Lotu", "status": "draft"}
+{"id": "String_StatName_FPPotionRate_body", "source": "Flight Power Potion Recovery increase", "translation": "Zwiększenie odzyskiwania Energii Lotu z mikstur", "status": "draft"}
+{"id": "String_StatName_FPPotionRegen_body", "source": "Flight Power Potion Recovery", "translation": "Odzyskiwanie Energii Lotu z mikstur", "status": "draft"}
+{"id": "String_StatName_FPRegenRatio_body", "source": "Natural Flight Power Regen increase", "translation": "Zwiększenie naturalnej regeneracji Energii Lotu", "status": "draft"}
+{"id": "String_StatName_FPRegen_body", "source": "Natural Flight Power Regen", "translation": "Naturalna regeneracja Energii Lotu", "status": "draft"}
+{"id": "String_StatName_FallingSpeed_body", "source": "Descent Speed", "translation": "Prędkość opadania", "status": "draft"}
+{"id": "String_StatName_FearAccuracy_body", "source": "Fear Chance", "translation": "Szansa na strach", "status": "draft"}
+{"id": "String_StatName_FearResist_body", "source": "Fear Resist", "translation": "Odporność na strach", "status": "draft"}
+{"id": "String_StatName_FearTimeDecrease_body", "source": "Fear duration reduction", "translation": "Skrócenie czasu strachu", "status": "draft"}
+{"id": "String_StatName_FearTimeIncrease_body", "source": "Fear duration increase", "translation": "Wydłużenie czasu strachu", "status": "draft"}
+{"id": "String_StatName_FeralAccuracy_body", "source": "Fera Accuracy", "translation": "Celność Fery", "status": "draft"}
+{"id": "String_StatName_FeralAmplifyDamage_body", "source": "Fera Damage Boost", "translation": "Premia do obrażeń Fery", "status": "draft"}
+{"id": "String_StatName_FeralBlockPierce_body", "source": "Fera Block Penetration", "translation": "Przebicie bloku Fery", "status": "draft"}
+{"id": "String_StatName_FeralBlock_body", "source": "Fera Block", "translation": "Blok Fery", "status": "draft"}
+{"id": "String_StatName_FeralCriticalResist_body", "source": "Fera Critical Hit Resist", "translation": "Odporność Fery na trafienia krytyczne", "status": "draft"}
+{"id": "String_StatName_FeralCritical_body", "source": "Fera Critical Hit", "translation": "Trafienie krytyczne Fery", "status": "draft"}
+{"id": "String_StatName_FeralDamage_body", "source": "Fera Attack", "translation": "Atak Fery", "status": "draft"}
+{"id": "String_StatName_FeralDecreaseDamage_body", "source": "Fera Damage Tolerance", "translation": "Redukcja obrażeń Fery", "status": "draft"}
+{"id": "String_StatName_FeralDefense_body", "source": "Fera Defense", "translation": "Obrona Fery", "status": "draft"}
+{"id": "String_StatName_FeralEvasion_body", "source": "Fera Evasion", "translation": "Uniki Fery", "status": "draft"}
+{"id": "String_StatName_FireDamageDefense_body", "source": "Fire Defense", "translation": "Obrona przed ogniem", "status": "draft"}
+{"id": "String_StatName_FixingDamage_body", "source": "Attack Bonus", "translation": "Premia do ataku", "status": "draft"}
+{"id": "String_StatName_FlyCost_body", "source": "Flight Stamina Cost Reduction Rate", "translation": "Współczynnik zmniejszenia kosztu Wytrzymałości podczas lotu", "status": "draft"}
+{"id": "String_StatName_FlyDamage_body", "source": "Flight Attack", "translation": "Atak w locie", "status": "draft"}
+{"id": "String_StatName_FlyDefense_body", "source": "Flight Defense", "translation": "Obrona w locie", "status": "draft"}
+{"id": "String_StatName_FlyFallSpeed_body", "source": "Gliding Landing Stamina Cost Reduction Rate", "translation": "Współczynnik zmniejszenia kosztu Wytrzymałości przy lądowaniu szybowym", "status": "draft"}
+{"id": "String_StatName_FlyLimitHeight_body", "source": "Flight Altitude", "translation": "Wysokość lotu", "status": "draft"}
+{"id": "String_StatName_FlyMagicDamage_body", "source": "Flight Magic Attack", "translation": "Atak magiczny w locie", "status": "draft"}
+{"id": "String_StatName_FlyMagicDefense_body", "source": "Flight Magic Defense", "translation": "Obrona magiczna w locie", "status": "draft"}
+{"id": "String_StatName_FlyPhysicDamage_body", "source": "Flight Physical Attack", "translation": "Atak fizyczny w locie", "status": "draft"}
+{"id": "String_StatName_FlyPhysicDefense_body", "source": "Flight Physical Defense", "translation": "Obrona fizyczna w locie", "status": "draft"}
+{"id": "String_StatName_FlySpeed_body", "source": "Flight Speed", "translation": "Szybkość lotu", "status": "draft"}
+{"id": "String_StatName_Freedom_body", "source": "Freedom [Vaizel]", "translation": "Wolność [Vaizel]", "status": "draft"}
+{"id": "String_StatName_FrontAttackCriticalResist_body", "source": "Front Attack Critical Hit Resist", "translation": "Odporność na trafienia krytyczne od przodu", "status": "draft"}
+{"id": "String_StatName_FrontAttackCritical_body", "source": "Front Attack Critical Hit", "translation": "Trafienie krytyczne od przodu", "status": "draft"}
+{"id": "String_StatName_FrontAttackDamage_body", "source": "Front Attack", "translation": "Atak od przodu", "status": "draft"}
+{"id": "String_StatName_FrontAttackDefense_body", "source": "Front Defense", "translation": "Obrona od przodu", "status": "draft"}
+{"id": "String_StatName_FrozenAccuracy_body", "source": "Frost Chance", "translation": "Szansa na zamrożenie", "status": "draft"}
+{"id": "String_StatName_FrozenResist_body", "source": "Frost Resist", "translation": "Odporność na zamrożenie", "status": "draft"}
+{"id": "String_StatName_FrozenTimeDecrease_body", "source": "Frost duration reduction", "translation": "Skrócenie czasu zamrożenia", "status": "draft"}
+{"id": "String_StatName_FrozenTimeIncrease_body", "source": "Frost duration increase", "translation": "Wydłużenie czasu zamrożenia", "status": "draft"}
+{"id": "String_StatName_GauntletDamageRatio_body", "source": "Fist Attack increase", "translation": "Zwiększenie ataku pięścią", "status": "draft"}
+{"id": "String_StatName_GlovesDefenseRatio_body", "source": "Gloves Defense increase", "translation": "Zwiększenie obrony rękawic", "status": "draft"}
+{"id": "String_StatName_GreatswordDamageRatio_body", "source": "Greatsword Attack increase", "translation": "Zwiększenie ataku wielkim mieczem", "status": "draft"}
+{"id": "String_StatName_GroundVehicleSpeed_body", "source": "Mount Ground Move Speed", "translation": "Szybkość poruszania się wierzchowca po ziemi", "status": "draft"}
+{"id": "String_StatName_GuarderDamageRatio_body", "source": "Guard Attack increase", "translation": "Zwiększenie ataku Strażnika", "status": "draft"}
+{"id": "String_StatName_HPDrain_body", "source": "HP Absorption", "translation": "Wchłanianie PŻ", "status": "draft"}
+{"id": "String_StatName_HPMax_body", "source": "HP", "translation": "PŻ", "status": "draft"}
+{"id": "String_StatName_HPRegen_body", "source": "Natural HP Regen", "translation": "Naturalna regeneracja PŻ", "status": "draft"}
+{"id": "String_StatName_HardHitResist_body", "source": "Double Resist", "translation": "Odporność na podwójne trafienie", "status": "draft"}
+{"id": "String_StatName_HardHit_body", "source": "Double Chance", "translation": "Szansa na podwójne trafienie", "status": "draft"}
+{"id": "String_StatName_HealCostAPRate_body", "source": "Rage Gain increase", "translation": "Zwiększenie zdobywanego Szału", "status": "draft"}
+{"id": "String_StatName_HealCostMpRate_body", "source": "MP Gain increase", "translation": "Zwiększenie zdobywanego PM", "status": "draft"}
+{"id": "String_StatName_HelmetDefenseRatio_body", "source": "Helm Defense increase", "translation": "Zwiększenie obrony hełmu", "status": "draft"}
+{"id": "String_StatName_HoldAccuracy_body", "source": "Root Chance", "translation": "Szansa na unieruchomienie", "status": "draft"}
+{"id": "String_StatName_HoldResist_body", "source": "Root Resist", "translation": "Odporność na unieruchomienie", "status": "draft"}
+{"id": "String_StatName_HoldTimeDecrease_body", "source": "Root duration reduction", "translation": "Skrócenie czasu unieruchomienia", "status": "draft"}
+{"id": "String_StatName_HoldTimeIncrease_body", "source": "Root duration increase", "translation": "Wydłużenie czasu unieruchomienia", "status": "draft"}
+{"id": "String_StatName_HpHealGetReduce_body", "source": "Incoming Heal reduction", "translation": "Zmniejszenie otrzymywanego leczenia", "status": "draft"}
+{"id": "String_StatName_HpHealRate_body", "source": "Heal Boost", "translation": "Premia do leczenia", "status": "draft"}
+{"id": "String_StatName_HpHealRegen_body", "source": "Heal Recovery", "translation": "Odzyskiwanie zdrowia", "status": "draft"}
+{"id": "String_StatName_HpPotionRate_body", "source": "HP Potion Recovery increase", "translation": "Zwiększenie odzyskiwania PŻ z mikstur", "status": "draft"}
+{"id": "String_StatName_HpPotionRegen_body", "source": "HP Potion Recovery", "translation": "Odzyskiwanie PŻ z mikstur", "status": "draft"}
+{"id": "String_StatName_INT_body", "source": "Intelligence", "translation": "Inteligencja", "status": "draft"}
+{"id": "String_StatName_IgnoreDecreaseShieldBlock_body", "source": "Shield Block Damage Reduction Penetration", "translation": "Przebicie redukcji obrażeń przy bloku tarczą", "status": "draft"}
+{"id": "String_StatName_IgnoreDecreaseWeaponBlock_body", "source": "Parry Reduction Penetration", "translation": "Przebicie redukcji obrażeń przy parowaniu", "status": "draft"}
+{"id": "String_StatName_IgnoreDefense_body", "source": "Penetration Rate", "translation": "Współczynnik przebicia obrony", "status": "draft"}
+{"id": "String_StatName_IgnoreImmune_body", "source": "Immunity Penetration", "translation": "Przebicie odporności", "status": "draft"}
+{"id": "String_StatName_IgnoreIronWall_body", "source": "Endurance Penetration", "translation": "Przebicie wytrzymałości", "status": "draft"}
+{"id": "String_StatName_IgnoreRestoration_body", "source": "Regeneration Penetration", "translation": "Przebicie regeneracji", "status": "draft"}
+{"id": "String_StatName_IgnoreShieldBlockDefense_body", "source": "Shield Block Defense Penetration", "translation": "Przebicie obrony przy bloku tarczą", "status": "draft"}
+{"id": "String_StatName_IgnoreWeaponBlockDefense_body", "source": "Parry Defense Penetration", "translation": "Przebicie obrony przy parowaniu", "status": "draft"}
+{"id": "String_StatName_Illusion_body", "source": "Illusion [Kaisinel]", "translation": "Iluzja [Kaisinel]", "status": "draft"}
+{"id": "String_StatName_Immune_body", "source": "Immune", "translation": "Odporność", "status": "draft"}
+{"id": "String_StatName_IntellectAccuracy_body", "source": "Cogni Accuracy", "translation": "Celność Cogni", "status": "draft"}
+{"id": "String_StatName_IntellectAmplifyDamage_body", "source": "Cogni Damage Boost", "translation": "Premia do obrażeń Cogni", "status": "draft"}
+{"id": "String_StatName_IntellectBlockPierce_body", "source": "Cogni Block Penetration", "translation": "Przebicie bloku Cogni", "status": "draft"}

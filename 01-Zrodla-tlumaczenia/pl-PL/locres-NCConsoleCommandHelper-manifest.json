@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCConsoleCommandHelper",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "f8bc388c2c4c1f17a3b55164f6f4750c426e22b5c3bda3af30a6bddc5045ecd8",
+  "records": 45,
+  "decodedJsonSha256": "b46b7b047f7fab25309e82bc625f625c338bbbb005c8df44773598a7fd80a28f",
+  "batches": [
+    {
+      "file": "locres-NCConsoleCommandHelper/NCConsoleCommandHelper/0001.jsonl",
+      "count": 45,
+      "category": "NCConsoleCommandHelper"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCGraphNode",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "72bd817c2e50bb5a5284f9e6ca43416c209e5608a561ae352289403b3b9eefd8",
+  "records": 5,
+  "decodedJsonSha256": "323fb2930f82b96d8fc91bdcb0892bbe1509701632a6692d2fa8e67734ab8b47",
+  "batches": [
+    {
+      "file": "locres-NCGraphNode/NCGraphNode/0001.jsonl",
+      "count": 5,
+      "category": "NCGraphNode"
+    }
+  ]
+}

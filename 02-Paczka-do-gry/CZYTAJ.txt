@@ -1,0 +1,15 @@
+AION2 PL - wersja robocza
+
+Zakres pakietu: 148287 polskich wpisow tabeli glownej (pelna tabela: 152774 wpisy).
+Sposob instalacji potwierdzono w grze 2026-10-11. Najnowsze teksty sa szkicami wymagajacymi redakcji; ten konkretny build nie zostal jeszcze sprawdzony w kliencie.
+
+Pierwsza instalacja: zamknij gre, uruchom INSTALUJ.cmd i wybierz katalog glowny gry.
+Aktualizacja dzialajacej wersji: zamknij gre, uruchom AKTUALIZUJ.cmd i wybierz katalog glowny gry. Poprzedni polski DAT zostanie zachowany.
+W grze wybierz English i uruchom ja ponownie.
+Przywracanie: AION2-PL-LOOSE/PRZYWROC-ANGIELSKI.cmd w folderze gry.
+
+Instalator zachowuje cztery oryginalne pliki en-US i sprawdza SHA-256. Wycofuje aktywny zestaw jezykowy, pozostawia pusty PAK, a teksty instaluje jako Aion2/Content/L10N/Text/en-US/L10NString.dat. Aktualizacja odmawia nadpisania obcej zmiany.
+
+Pakiet dostarcza tabele glowna. SDK, oddzielne LOCRES i startup nie sa jeszcze osobno dostarczane. Audio, EXE, DLL i konfiguracja anti-cheat pozostaja niezmienione. Nie jest to osobny jezyk pl-PL w menu.
+
+Referencja: https://github.com/duoluoyuji/Aion2-Steam-CN

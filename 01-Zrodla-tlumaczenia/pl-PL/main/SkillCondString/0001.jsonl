@@ -1,0 +1,54 @@
+{"id": "SkillCondString_SkillCondString_Assassin_Skill006_cond_desc", "source": "On landing Ambush", "translation": "Po trafieniu Zasadzką", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Block_cond_desc", "source": "When Blocking", "translation": "Podczas blokowania", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Chanter_006_Condition_01_cond_desc", "source": "When casting ranged skill\n- Impactful Crush\n- Spinning Strike\n- Marchutan's Wrath\n- Ensnaring Mark", "translation": "Podczas używania umiejętności dystansowej\n- Uderzenie Impaktowe\n- Wirujące uderzenie\n- Gniew Marchutana\n- Znak oplątania", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Chanter_Skill009_cond_desc", "source": "On landing Rushing Smash", "translation": "Po trafieniu Pędzącym Uderzeniem", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Chanter_Skill033_cond_desc", "source": "Target hit by Marchutan's Wrath", "translation": "Cel trafiony Gniewem Marchutana", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Cleric_Skill007_cond_desc", "source": "Chain of Torment Target", "translation": "Cel objęty Łańcuchem Udręki", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Critical_cond_desc", "source": "On landing Critical Hit", "translation": "Po trafieniu krytycznym", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Dodge_cond_desc", "source": "On Dodge", "translation": "Po uskoku", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Elemental_Summon_cond_desc", "source": "On summoning a Spirit", "translation": "Po przywołaniu ducha", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Evade_cond_desc", "source": "On Evasion", "translation": "Po uniku", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Fighter_Skill017_cond_desc", "source": "On landing Whirlwind", "translation": "Po trafieniu Wichrem", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Fly_cond_desc", "source": "In Flight", "translation": "Podczas lotu", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Gladiator_Skill019_cond_desc", "source": "On landing Leaping Slam", "translation": "Po trafieniu Skaczącym uderzeniem", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Gladiator_Skill039_cond_desc", "source": "Target hit by Rage Burst", "translation": "Cel trafiony Wybuchem furii", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Groggy_cond_desc", "source": "Stagger Target", "translation": "Cel w stanie zachwiania", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_ImmuneAbnormal_cond_desc", "source": "On attacking Incapacitated Immunity Target", "translation": "Podczas atakowania celu odpornego na obezwładnienie", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Ranger_Skill009_cond_desc", "source": "Precision Status", "translation": "Stan Precyzji", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_4Elemental_cond_desc", "source": "Four Elements Status", "translation": "Stan Czterech Żywiołów", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Aerial_cond_desc", "source": "Airborne Status", "translation": "Stan podrzucenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Anger_cond_desc", "source": "Rage Status", "translation": "Stan furii", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Bind_cond_desc", "source": "Grab Status", "translation": "Stan pochwycenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Blind_cond_desc", "source": "Blind Status", "translation": "Stan oślepienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_BlockActive_cond_desc", "source": "Seal Status", "translation": "Stan zapieczętowania", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Fear_cond_desc", "source": "Fear Status", "translation": "Stan strachu", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Frozen_cond_desc", "source": "Frost Status", "translation": "Stan zamrożenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Hold_cond_desc", "source": "Root Status", "translation": "Stan unieruchomienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_KnockDownInstant_cond_desc", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Polymorph_cond_desc", "source": "Polymorph Status", "translation": "Stan przemiany", "status": "draft"}
+{"id":"SkillCondString_SkillCondString_Self_Shock_cond_desc","source":"Impact-type Status\n\n-Stun, Knockdown, Airborne, Grab","translation":"Efekt uderzeniowy\n\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie","status":"draft"}
+{"id": "SkillCondString_SkillCondString_Self_Sleep_cond_desc", "source": "Sleep Status", "translation": "Stan uśpienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Slow_cond_desc", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Snare_cond_desc", "source": "Slow Status", "translation": "Stan spowolnienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Stun_cond_desc", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Self_Taunt_cond_desc", "source": "Taunt Status", "translation": "Stan prowokacji", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_ShieldAttack_cond_desc", "source": "When casting a shield skill\n- Shield Smite \n- Warding Strike \n- Shield Rush \n- Doom Shield", "translation": "Podczas używania umiejętności tarczy\n- Cios tarczą \n- Ochronne uderzenie \n- Szarża z tarczą \n- Tarcza zagłady", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_ShieldBlock_cond_desc", "source": "On Shield Block", "translation": "Po zablokowaniu tarczą", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Sorcerer_Passive001_cond_desc", "source": "Fire Mark Target", "translation": "Cel ze Znakiem Ognia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Aerial_cond_desc", "source": "Airborne Target", "translation": "Cel w stanie podrzucenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Bind_cond_desc", "source": "Grab Target", "translation": "Cel w stanie pochwycenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Blind_cond_desc", "source": "Blind Target", "translation": "Cel w stanie oślepienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_BlockActive_cond_desc", "source": "Seal Target", "translation": "Cel w stanie zapieczętowania", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Fear_cond_desc", "source": "Fear target", "translation": "Cel w stanie strachu", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Frozen_cond_desc", "source": "Frost Target", "translation": "Cel w stanie zamrożenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Hold_cond_desc", "source": "Root Target", "translation": "Cel w stanie unieruchomienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_KnockDownInstant_cond_desc", "source": "Knockdown Target", "translation": "Cel w stanie powalenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Polymorph_cond_desc", "source": "Polymorph Target", "translation": "Cel w stanie przemiany", "status": "draft"}
+{"id":"SkillCondString_SkillCondString_Target_Shock_cond_desc","source":"Impact-type Target\n-Stun, Knockdown, Airborne, Grab","translation":"Cel objęty efektem uderzeniowym\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie","status":"draft"}
+{"id": "SkillCondString_SkillCondString_Target_Sleep_cond_desc", "source": "Sleep Target", "translation": "Cel w stanie uśpienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Slow_cond_desc", "source": "Lethargy Target", "translation": "Cel w stanie ospałości", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Snare_cond_desc", "source": "Slow Target", "translation": "Cel w stanie spowolnienia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Stun_cond_desc", "source": "Stun Target", "translation": "Cel w stanie ogłuszenia", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Target_Taunt_cond_desc", "source": "Taunt Target", "translation": "Cel w stanie prowokacji", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_Templar_Skill010_cond_desc", "source": "On landing Shield Smite", "translation": "Po trafieniu Ciosem tarczą", "status": "draft"}
+{"id": "SkillCondString_SkillCondString_WeaponBlock_cond_desc", "source": "On Parry", "translation": "Po parowaniu", "status": "draft"}

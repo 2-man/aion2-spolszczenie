@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCUMGEditor",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "819da986ae2ecddf42836d1ed7ad49ef38452e745271c5b4bfdd6555e1d56aba",
+  "records": 33,
+  "decodedJsonSha256": "dd17adcc099fa222b2af2e4fcb14798951703ba53de8f14ede51419ee63c2595",
+  "batches": [
+    {
+      "file": "locres-NCUMGEditor/NCUMGEditor/0001.jsonl",
+      "count": 33,
+      "category": "NCUMGEditor"
+    }
+  ]
+}

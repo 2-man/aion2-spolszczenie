@@ -1,0 +1,250 @@
+{"id": "SkillString_SkillString_ETC_9121_skill_name", "source": "Projectile Speed 6,000", "translation": "Prędkość pocisku 6 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9122_skill_desc_effect", "source": "Projectile Speed 7,000", "translation": "Prędkość pocisku 7 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9122_skill_name", "source": "Projectile Speed 7,000", "translation": "Prędkość pocisku 7 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9123_skill_desc_effect", "source": "Specific skill cooldown increase (%)", "translation": "Zwiększenie czasu odnowienia wybranej umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9123_skill_name", "source": "Specific skill cooldown increase (%)", "translation": "Zwiększenie czasu odnowienia wybranej umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9124_skill_desc_effect", "source": "Specific skill cooldown reduction (%)", "translation": "Skrócenie czasu odnowienia wybranej umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9124_skill_name", "source": "Specific skill cooldown reduction (%)", "translation": "Skrócenie czasu odnowienia wybranej umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9125_skill_desc_effect", "source": "All skill cooldown increase (%)", "translation": "Zwiększenie czasu odnowienia wszystkich umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9125_skill_name", "source": "All skill cooldown increase (%)", "translation": "Zwiększenie czasu odnowienia wszystkich umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9126_skill_desc_effect", "source": "All skill cooldown reduction (%)", "translation": "Skrócenie czasu odnowienia wszystkich umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9126_skill_name", "source": "All skill cooldown reduction (%)", "translation": "Skrócenie czasu odnowienia wszystkich umiejętności (%)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9127_skill_desc_effect", "source": "Specific skill cooldown increase (s)", "translation": "Zwiększenie czasu odnowienia wybranej umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9127_skill_name", "source": "Specific skill cooldown increase (s)", "translation": "Zwiększenie czasu odnowienia wybranej umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9128_skill_desc_effect", "source": "Specific skill cooldown reduction (s)", "translation": "Skrócenie czasu odnowienia wybranej umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9128_skill_name", "source": "Specific skill cooldown reduction (s)", "translation": "Skrócenie czasu odnowienia wybranej umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9129_skill_desc_effect", "source": "All skill cooldown increase (s)", "translation": "Zwiększenie czasu odnowienia wszystkich umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9129_skill_name", "source": "All skill cooldown increase (s)", "translation": "Zwiększenie czasu odnowienia wszystkich umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9130_skill_desc_effect", "source": "All skill cooldown reduction (s)", "translation": "Skrócenie czasu odnowienia wszystkich umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9130_skill_name", "source": "All skill cooldown reduction (s)", "translation": "Skrócenie czasu odnowienia wszystkich umiejętności (s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9132_skill_desc_effect", "source": "0.2s Move - Pull", "translation": "Ruch 0,2 s — przyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9132_skill_name", "source": "0.2s Move - Pull", "translation": "Ruch 0,2 s — przyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9133_skill_desc_effect", "source": "0.2s Move - Push", "translation": "Ruch 0,2 s — odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9133_skill_name", "source": "0.2s Move - Push", "translation": "Ruch 0,2 s — odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9134_skill_desc_effect", "source": "0.2s Move - Knockback", "translation": "Ruch 0,2 s — odrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9134_skill_name", "source": "0.2s Move - Knockback", "translation": "Ruch 0,2 s — odrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9135_skill_desc_effect", "source": "1s Move - Pull", "translation": "Ruch 1 s — przyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9135_skill_name", "source": "1s Move - Pull", "translation": "Ruch 1 s — przyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9136_skill_desc_effect", "source": "1s Move - Push", "translation": "Ruch 1 s — odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9136_skill_name", "source": "1s Move - Push", "translation": "Ruch 1 s — odepchnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9137_skill_desc_effect", "source": "1s Move - Knockback", "translation": "Ruch 1 s — odrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9137_skill_name", "source": "1s Move - Knockback", "translation": "Ruch 1 s — odrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9138_skill_desc_effect", "source": "2s Knockdown (0.5 seconds Push Back duration)", "translation": "Powalenie na 2 s (odrzucenie trwa 0,5 s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9138_skill_name", "source": "2s Knockdown (0.5 seconds Push Back duration)", "translation": "Powalenie na 2 s (odrzucenie trwa 0,5 s)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9141_skill_desc_effect", "source": "50% damage based on Max Health (Capped at 2,000)", "translation": "Obrażenia równe 50% maksymalnych PŻ (maks. 2 000)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9141_skill_name", "source": "50% damage based on Max Health (Capped at 2,000)", "translation": "Obrażenia równe 50% maksymalnych PŻ (maks. 2 000)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9142_skill_desc_effect", "source": "50% damage based on Current HP (Capped at 2,000)", "translation": "Obrażenia równe 50% aktualnych PŻ (maks. 2 000)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9142_skill_name", "source": "50% damage based on Current HP (Capped at 2,000)", "translation": "Obrażenia równe 50% aktualnych PŻ (maks. 2 000)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9143_skill_desc_effect", "source": "EndDamage_AbnormalOwnerStat / 10% of Max HP damage, Capped at 1,000", "translation": "EndDamage_AbnormalOwnerStat / obrażenia równe 10% maksymalnych PŻ, maks. 1 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9143_skill_name", "source": "EndDamage_AbnormalOwnerStat / 10% of Max HP damage, Capped at 1,000", "translation": "EndDamage_AbnormalOwnerStat / obrażenia równe 10% maksymalnych PŻ, maks. 1 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9144_skill_desc_effect", "source": "EndDamage_AbnormalOwnerStat / 10% of Current HP damage, Capped at 1,000", "translation": "EndDamage_AbnormalOwnerStat / obrażenia równe 10% aktualnych PŻ, maks. 1 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9144_skill_name", "source": "EndDamage_AbnormalOwnerStat / 10% of Current HP damage, Capped at 1,000", "translation": "EndDamage_AbnormalOwnerStat / obrażenia równe 10% aktualnych PŻ, maks. 1 000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9145_skill_desc_effect", "source": "Charging A1 Original", "translation": "Szarża A1 — oryginalna", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9145_skill_name", "source": "Charging A1 Original", "translation": "Szarża A1 — oryginalna", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9146_skill_desc_effect", "source": "Charging A1 1 Level", "translation": "Szarża A1 — poziom 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9146_skill_name", "source": "Charging A1 1 Level", "translation": "Szarża A1 — poziom 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9147_skill_desc_effect", "source": "Charging A1 2 Level", "translation": "Szarża A1 — poziom 2", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9147_skill_name", "source": "Charging A1 2 Level", "translation": "Szarża A1 — poziom 2", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9148_skill_desc_effect", "source": "Charging A1 3 Level", "translation": "Szarża A1 — poziom 3", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9148_skill_name", "source": "Charging A1 3 Level", "translation": "Szarża A1 — poziom 3", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9149_skill_desc_effect", "source": "Charging A2 Original (A1's Stigma)", "translation": "Szarża A2 — oryginalna (stygmat A1)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9149_skill_name", "source": "Charging A2 Original (A1's Stigma)", "translation": "Szarża A2 — oryginalna (stygmat A1)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9150_skill_desc_effect", "source": "Charging A2 1 Level", "translation": "Szarża A2 — poziom 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9150_skill_name", "source": "Charging A2 1 Level", "translation": "Szarża A2 — poziom 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9151_skill_desc_effect", "source": "B1 (Non-Charging)", "translation": "B1 (bez ładowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9151_skill_name", "source": "B1 (Non-Charging)", "translation": "B1 (bez ładowania)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9152_skill_desc_effect", "source": "B2 (Non-Charging, B1's Stigma)", "translation": "B2 (bez ładowania, stygmat B1)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9152_skill_name", "source": "B2 (Non-Charging, B1's Stigma)", "translation": "B2 (bez ładowania, stygmat B1)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9153_skill_desc_effect", "source": "Abnormal_TRUE", "translation": "Efekt stanu — TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9153_skill_name", "source": "Abnormal_TRUE", "translation": "Efekt stanu — TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9154_skill_desc_effect", "source": "HPHeal", "translation": "Leczenie PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9154_skill_name", "source": "HPHeal", "translation": "Leczenie PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9155_skill_desc_effect", "source": "HPHealRatio", "translation": "Współczynnik leczenia PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9155_skill_name", "source": "HPHealRatio", "translation": "Współczynnik leczenia PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9156_skill_desc_effect", "source": "HPHeal_Item", "translation": "Leczenie PŻ — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9156_skill_name", "source": "HPHeal_Item", "translation": "Leczenie PŻ — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9157_skill_desc_effect", "source": "HPHealRatio_Item", "translation": "Współczynnik leczenia PŻ — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9157_skill_name", "source": "HPHealRatio_Item", "translation": "Współczynnik leczenia PŻ — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9158_skill_desc_effect", "source": "MPHeal", "translation": "Leczenie PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9158_skill_name", "source": "MPHeal", "translation": "Leczenie PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9159_skill_desc_effect", "source": "MPHealRatio", "translation": "Współczynnik leczenia PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9159_skill_name", "source": "MPHealRatio", "translation": "Współczynnik leczenia PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9160_skill_desc_effect", "source": "MPHeal_Item", "translation": "Leczenie PM — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9160_skill_name", "source": "MPHeal_Item", "translation": "Leczenie PM — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9161_skill_desc_effect", "source": "MPHealRatio_Item", "translation": "Współczynnik leczenia PM — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9161_skill_name", "source": "MPHealRatio_Item", "translation": "Współczynnik leczenia PM — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9162_skill_desc_effect", "source": "SPHeal", "translation": "Leczenie SP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9162_skill_name", "source": "SPHeal", "translation": "Leczenie SP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9163_skill_desc_effect", "source": "SPHealRatio", "translation": "Współczynnik leczenia SP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9163_skill_name", "source": "SPHealRatio", "translation": "Współczynnik leczenia SP", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9164_skill_desc_effect", "source": "SPHeal_Item", "translation": "Leczenie SP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9164_skill_name", "source": "SPHeal_Item", "translation": "Leczenie SP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9165_skill_desc_effect", "source": "SPHealRatio_Item", "translation": "Współczynnik leczenia SP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9165_skill_name", "source": "SPHealRatio_Item", "translation": "Współczynnik leczenia SP — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9166_skill_desc_effect", "source": "Gathering Ring", "translation": "Pierścień zbierania", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9166_skill_name", "source": "Gathering Ring", "translation": "Pierścień zbierania", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9167_skill_desc_effect", "source": "Expanding Ring", "translation": "Rozszerzający się pierścień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9167_skill_name", "source": "Expanding Ring", "translation": "Rozszerzający się pierścień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9168_skill_desc_effect", "source": "Physical Defense reduction (Level Scaling Test)", "translation": "Zmniejszenie obrony fizycznej (test skalowania poziomu)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9168_skill_name", "source": "Physical Defense reduction (Level Scaling Test)", "translation": "Zmniejszenie obrony fizycznej (test skalowania poziomu)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9171_skill_desc_effect", "source": "Per Tick Dot_Dmg", "translation": "Obrażenia okresowe — obrażenia na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9171_skill_name", "source": "Per Tick Dot_Dmg", "translation": "Obrażenia okresowe — obrażenia na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9172_skill_desc_effect", "source": "Per Tick Dot_TargetHP", "translation": "Obrażenia okresowe — PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9172_skill_name", "source": "Per Tick Dot_TargetHP", "translation": "Obrażenia okresowe — PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9173_skill_desc_effect", "source": "Per Tick Dot_TargetMaxHP", "translation": "Obrażenia okresowe — maksymalne PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9173_skill_name", "source": "Per Tick Dot_TargetMaxHP", "translation": "Obrażenia okresowe — maksymalne PŻ celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9174_skill_desc_effect", "source": "Per Tick Hot", "translation": "Leczenie okresowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9174_skill_name", "source": "Per Tick Hot", "translation": "Leczenie okresowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9175_skill_desc_effect", "source": "Per Tick Hot_Ratio", "translation": "Leczenie okresowe — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9175_skill_name", "source": "Per Tick Hot_Ratio", "translation": "Leczenie okresowe — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9176_skill_desc_effect", "source": "Per Tick Hot_Item", "translation": "Leczenie okresowe — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9176_skill_name", "source": "Per Tick Hot_Item", "translation": "Leczenie okresowe — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9177_skill_desc_effect", "source": "Per Tick HotRatio_Item", "translation": "Leczenie okresowe — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9177_skill_name", "source": "Per Tick HotRatio_Item", "translation": "Leczenie okresowe — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9178_skill_desc_effect", "source": "Per Tick Mot", "translation": "Odzyskiwanie PM w czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9178_skill_name", "source": "Per Tick Mot", "translation": "Odzyskiwanie PM w czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9179_skill_desc_effect", "source": "Per Tick Mot_Ratio", "translation": "Odzyskiwanie PM w czasie — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9179_skill_name", "source": "Per Tick Mot_Ratio", "translation": "Odzyskiwanie PM w czasie — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9180_skill_desc_effect", "source": "Per Tick Mot_Item", "translation": "Odzyskiwanie PM w czasie — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9180_skill_name", "source": "Per Tick Mot_Item", "translation": "Odzyskiwanie PM w czasie — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9181_skill_desc_effect", "source": "Per Tick MotRatio_Item", "translation": "Odzyskiwanie PM w czasie — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9181_skill_name", "source": "Per Tick MotRatio_Item", "translation": "Odzyskiwanie PM w czasie — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9182_skill_desc_effect", "source": "Per Tick Sot", "translation": "Odzyskiwanie SP w czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9182_skill_name", "source": "Per Tick Sot", "translation": "Odzyskiwanie SP w czasie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9183_skill_desc_effect", "source": "Per Tick Sot_Ratio", "translation": "Odzyskiwanie SP w czasie — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9183_skill_name", "source": "Per Tick Sot_Ratio", "translation": "Odzyskiwanie SP w czasie — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9184_skill_desc_effect", "source": "Per Tick Sot_Item", "translation": "Odzyskiwanie SP w czasie — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9184_skill_name", "source": "Per Tick Sot_Item", "translation": "Odzyskiwanie SP w czasie — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9185_skill_desc_effect", "source": "Per Tick SotRatio_Item", "translation": "Odzyskiwanie SP w czasie — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9185_skill_name", "source": "Per Tick SotRatio_Item", "translation": "Odzyskiwanie SP w czasie — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9186_skill_desc_effect", "source": "Skill with all skill effects for level scaling", "translation": "Umiejętność ze wszystkimi efektami do skalowania poziomu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9186_skill_name", "source": "Skill with all skill effects for level scaling", "translation": "Umiejętność ze wszystkimi efektami do skalowania poziomu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9201_skill_desc_effect", "source": "Value01 = 0, Value02 = 1,000", "translation": "Value01 = 0, Value02 = 1,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9201_skill_name", "source": "Value01 = 0, Value02 = 1,000", "translation": "Value01 = 0, Value02 = 1,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9202_skill_desc_effect", "source": "Value03 = 0, Value04 = 100,000", "translation": "Value03 = 0, Value04 = 100,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9202_skill_name", "source": "Value03 = 0, Value04 = 100,000", "translation": "Value03 = 0, Value04 = 100,000", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9208_skill_desc_effect", "source": "EnvObj_Spawn", "translation": "Przywołanie obiektu środowiskowego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9208_skill_name", "source": "EnvObj_Spawn", "translation": "Przywołanie obiektu środowiskowego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9209_skill_desc_effect", "source": "Collects multiple targets around the caster and spawns", "translation": "Przyciąga wiele celów wokół rzucającego i przywołuje", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9209_skill_name", "source": "Collects multiple targets around the caster and spawns", "translation": "Przyciąga wiele celów wokół rzucającego i przywołuje", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9210_skill_desc_effect", "source": "Collects multiple targets around the caster and spawns", "translation": "Przyciąga wiele celów wokół rzucającego i przywołuje", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9210_skill_name", "source": "Collects multiple targets around the caster and spawns", "translation": "Przyciąga wiele celów wokół rzucającego i przywołuje", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9211_skill_desc_effect", "source": "Decal_Basic Attack", "translation": "Znacznik — atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9211_skill_name", "source": "Decal_Basic Attack", "translation": "Znacznik — atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9212_skill_desc_effect", "source": "Decal_Arc 1 Hit", "translation": "Znacznik — łuk, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9212_skill_name", "source": "Decal_Arc 1 Hit", "translation": "Znacznik — łuk, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9213_skill_desc_effect", "source": "Decal_Circle 1 Hit", "translation": "Znacznik — okrąg, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9213_skill_name", "source": "Decal_Circle 1 Hit", "translation": "Znacznik — okrąg, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9214_skill_desc_effect", "source": "Decal_Triangle 1 Hit", "translation": "Znacznik — trójkąt, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9214_skill_name", "source": "Decal_Triangle 1 Hit", "translation": "Znacznik — trójkąt, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9215_skill_desc_effect", "source": "Decal_Straight 1 Hit", "translation": "Znacznik — linia prosta, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9215_skill_name", "source": "Decal_Straight 1 Hit", "translation": "Znacznik — linia prosta, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9216_skill_desc_effect", "source": "Decal_Rectangle 1 Hit", "translation": "Znacznik — prostokąt, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9216_skill_name", "source": "Decal_Rectangle 1 Hit", "translation": "Znacznik — prostokąt, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9217_skill_desc_effect", "source": "Decal_Sphere 1 Hit", "translation": "Znacznik — sfera, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9217_skill_name", "source": "Decal_Sphere 1 Hit", "translation": "Znacznik — sfera, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9218_skill_desc_effect", "source": "Decal_Ring 1 Hit", "translation": "Znacznik — pierścień, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9218_skill_name", "source": "Decal_Ring 1 Hit", "translation": "Znacznik — pierścień, 1 trafienie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9219_skill_desc_effect", "source": "Decal_Positive Skill", "translation": "Znacznik — umiejętność dodatnia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9219_skill_name", "source": "Decal_Positive Skill", "translation": "Znacznik — umiejętność dodatnia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9220_skill_desc_effect", "source": "Decal_collide x1", "translation": "Znacznik — kolizja x1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9220_skill_name", "source": "Decal_collide x1", "translation": "Znacznik — kolizja x1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9221_skill_desc_effect", "source": "Decal_Multi-layer collide Horizontal", "translation": "Znacznik — wielowarstwowa kolizja pozioma", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9221_skill_name", "source": "Decal_Multi-layer collide Horizontal", "translation": "Znacznik — wielowarstwowa kolizja pozioma", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9222_skill_desc_effect", "source": "Decal_Multi-layer collide Vertical", "translation": "Znacznik — wielowarstwowa kolizja pionowa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9222_skill_name", "source": "Decal_Multi-layer collide Vertical", "translation": "Znacznik — wielowarstwowa kolizja pionowa", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9223_skill_desc_effect", "source": "Decal_splash_FixTime", "translation": "Znacznik obszarowy — stały czas", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9223_skill_name", "source": "Decal_splash_FixTime", "translation": "Znacznik obszarowy — stały czas", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9224_skill_desc_effect", "source": "Decal_splash_FixTime_Target", "translation": "Znacznik obszarowy — stały czas, cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9224_skill_name", "source": "Decal_splash_FixTime_Target", "translation": "Znacznik obszarowy — stały czas, cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9225_skill_desc_effect", "source": "Decal_splash_VariableTime_Casting", "translation": "Znacznik obszarowy — zmienny czas, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9225_skill_name", "source": "Decal_splash_VariableTime_Casting", "translation": "Znacznik obszarowy — zmienny czas, rzucanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9226_skill_desc_effect", "source": "Decal_splash_VariableTime_SkillStart", "translation": "Znacznik obszarowy — zmienny czas, początek umiejętności", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9226_skill_name", "source": "Decal_splash_VariableTime_SkillStart", "translation": "Znacznik obszarowy — zmienny czas, początek umiejętności", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9227_skill_desc_effect", "source": "Decal_splash_VariableTime_Projectile_Fire", "translation": "Znacznik obszarowy — zmienny czas, wystrzelenie pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9227_skill_name", "source": "Decal_splash_VariableTime_Projectile_Fire", "translation": "Znacznik obszarowy — zmienny czas, wystrzelenie pocisku", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9228_skill_desc_effect", "source": "Decal_splash_VariableTime_Target", "translation": "Znacznik obszarowy — zmienny czas, cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9228_skill_name", "source": "Decal_splash_VariableTime_Target", "translation": "Znacznik obszarowy — zmienny czas, cel", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9230_skill_desc_effect", "source": "SelfDamage", "translation": "Obrażenia własne", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9230_skill_name", "source": "SelfDamage", "translation": "Obrażenia własne", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9233_skill_desc_effect", "source": "Teleport (CasterLocation_CasterToTargetDirection)", "translation": "Teleportacja (pozycja rzucającego, kierunek celu)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9233_skill_name", "source": "Teleport (CasterLocation_CasterToTargetDirection)", "translation": "Teleportacja (pozycja rzucającego, kierunek celu)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9236_skill_name", "source": "Rotate 2 Hits", "translation": "Obrót — 2 trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9237_skill_name", "source": "Rotate 2 Hits", "translation": "Obrót — 2 trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9238_skill_desc_effect", "source": "Decal_collide x1", "translation": "Znacznik — kolizja x1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9238_skill_name", "source": "Decal_collide x1", "translation": "Znacznik — kolizja x1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9239_skill_desc_effect", "source": "AoE Random fixtime Attack (need_target=false)", "translation": "Losowy atak obszarowy o stałym czasie (need_target=false)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9239_skill_name", "source": "AoE Random fixtime Attack (need_target=false)", "translation": "Losowy atak obszarowy o stałym czasie (need_target=false)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9240_skill_desc_effect", "source": "AoE Random splash Attack (need_target=true)", "translation": "Losowy atak obszarowy (need_target=true)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9240_skill_name", "source": "AoE Random splash Attack (need_target=true)", "translation": "Losowy atak obszarowy (need_target=true)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9241_skill_desc_effect", "source": "Per Tick DPot", "translation": "Okresowe odzyskiwanie mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9241_skill_name", "source": "Per Tick DPot", "translation": "Okresowe odzyskiwanie mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9242_skill_desc_effect", "source": "Per Tick DPot_Ratio", "translation": "Okresowe odzyskiwanie mocy boskiej — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9242_skill_name", "source": "Per Tick DPot_Ratio", "translation": "Okresowe odzyskiwanie mocy boskiej — współczynnik", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9243_skill_desc_effect", "source": "Per Tick DPot_Item", "translation": "Okresowe odzyskiwanie mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9243_skill_name", "source": "Per Tick DPot_Item", "translation": "Okresowe odzyskiwanie mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9244_skill_desc_effect", "source": "Per Tick DPotRatio_Item", "translation": "Okresowe odzyskiwanie mocy boskiej — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9244_skill_name", "source": "Per Tick DPotRatio_Item", "translation": "Okresowe odzyskiwanie mocy boskiej — współczynnik przedmiotu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9245_skill_desc_effect", "source": "DPHeal", "translation": "Przywracanie mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9245_skill_name", "source": "DPHeal", "translation": "Przywracanie mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9246_skill_desc_effect", "source": "DPHealRatio", "translation": "Współczynnik przywracania mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9246_skill_name", "source": "DPHealRatio", "translation": "Współczynnik przywracania mocy boskiej", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9247_skill_desc_effect", "source": "DPHeal_Item", "translation": "Przywracanie mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9247_skill_name", "source": "DPHeal_Item", "translation": "Przywracanie mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9248_skill_desc_effect", "source": "DPHealRatio_Item", "translation": "Współczynnik przywracania mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9248_skill_name", "source": "DPHealRatio_Item", "translation": "Współczynnik przywracania mocy boskiej — przedmiot", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9249_skill_desc_effect", "source": "Element = Fire, Damage Type = Magic", "translation": "Żywioł = Ogień, typ obrażeń = magia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9249_skill_name", "source": "Element = Fire, Damage Type = Magic", "translation": "Żywioł = Ogień, typ obrażeń = magia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9250_skill_desc_effect", "source": "Element = None, Damage Type = None", "translation": "Żywioł = brak, typ obrażeń = brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9250_skill_name", "source": "Element = None, Damage Type = None", "translation": "Żywioł = brak, typ obrażeń = brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9251_skill_desc_effect", "source": "Spawns 3 Ground NPCs around me", "translation": "Przywołuje 3 naziemne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9251_skill_name", "source": "Spawns 3 Ground NPCs around me", "translation": "Przywołuje 3 naziemne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9252_skill_desc_effect", "source": "Spawns 3 Air NPCs around me", "translation": "Przywołuje 3 powietrzne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9252_skill_name", "source": "Spawns 3 Air NPCs around me", "translation": "Przywołuje 3 powietrzne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9253_skill_desc_effect", "source": "Spawns 3 Water NPCs around me", "translation": "Przywołuje 3 wodne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9253_skill_name", "source": "Spawns 3 Water NPCs around me", "translation": "Przywołuje 3 wodne postacie NPC wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9254_skill_desc_effect", "source": "Spawns 3 All NPCs around me", "translation": "Przywołuje 3 postacie NPC wszystkich typów wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9254_skill_name", "source": "Spawns 3 All NPCs around me", "translation": "Przywołuje 3 postacie NPC wszystkich typów wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9255_skill_desc_effect", "source": "Spawns 3 Ground EnvObjs around me", "translation": "Przywołuje 3 naziemne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9255_skill_name", "source": "Spawns 3 Ground EnvObjs around me", "translation": "Przywołuje 3 naziemne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9256_skill_desc_effect", "source": "Spawns 3 Air EnvObjs around me", "translation": "Przywołuje 3 powietrzne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9256_skill_name", "source": "Spawns 3 Air EnvObjs around me", "translation": "Przywołuje 3 powietrzne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9257_skill_desc_effect", "source": "Spawns 3 Water EnvObjs around me", "translation": "Przywołuje 3 wodne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9257_skill_name", "source": "Spawns 3 Water EnvObjs around me", "translation": "Przywołuje 3 wodne obiekty środowiskowe wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9258_skill_desc_effect", "source": "Spawns 3 Ground NPCs around the target", "translation": "Przywołuje 3 naziemne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9258_skill_name", "source": "Spawns 3 Ground NPCs around the target", "translation": "Przywołuje 3 naziemne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9259_skill_desc_effect", "source": "Spawns 3 Air NPCs around the target", "translation": "Przywołuje 3 powietrzne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9259_skill_name", "source": "Spawns 3 Air NPCs around the target", "translation": "Przywołuje 3 powietrzne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9260_skill_desc_effect", "source": "Spawns 3 Water NPCs around the target", "translation": "Przywołuje 3 wodne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9260_skill_name", "source": "Spawns 3 Water NPCs around the target", "translation": "Przywołuje 3 wodne postacie NPC wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9261_skill_desc_effect", "source": "Spawns 3 All NPCs around the target", "translation": "Przywołuje 3 postacie NPC wszystkich typów wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9261_skill_name", "source": "Spawns 3 All NPCs around the target", "translation": "Przywołuje 3 postacie NPC wszystkich typów wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9262_skill_desc_effect", "source": "Spawns 3 Ground EnvObjs around the target", "translation": "Przywołuje 3 naziemne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9262_skill_name", "source": "Spawns 3 Ground EnvObjs around the target", "translation": "Przywołuje 3 naziemne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9263_skill_desc_effect", "source": "Spawns 3 Air EnvObjs around the target", "translation": "Przywołuje 3 powietrzne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9263_skill_name", "source": "Spawns 3 Air EnvObjs around the target", "translation": "Przywołuje 3 powietrzne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9264_skill_desc_effect", "source": "Spawns 3 Water EnvObjs around the target", "translation": "Przywołuje 3 wodne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9264_skill_name", "source": "Spawns 3 Water EnvObjs around the target", "translation": "Przywołuje 3 wodne obiekty środowiskowe wokół celu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9265_skill_desc_effect", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalId)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalId)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9265_skill_name", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalId)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalId)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9266_skill_desc_effect", "source": "Deals damage to up to 3 stunned enemies around the target (AbnormalGroupId).", "translation": "Zadaje obrażenia maksymalnie 3 ogłuszonym wrogom wokół celu (AbnormalGroupId).", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9266_skill_name", "source": "Deals damage to up to 3 stunned enemies around the target (AbnormalGroupId).", "translation": "Zadaje obrażenia maksymalnie 3 ogłuszonym wrogom wokół celu (AbnormalGroupId).", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9267_skill_desc_effect", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalEffectType)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalEffectType)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9267_skill_name", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalEffectType)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalEffectType)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9268_skill_desc_effect", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalId)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalId)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9268_skill_name", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalId)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalId)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9269_skill_desc_effect", "source": "Deals damage to up to 3 stunned enemies around the target (AbnormalGroupId).", "translation": "Zadaje obrażenia maksymalnie 3 ogłuszonym wrogom wokół celu (AbnormalGroupId).", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9269_skill_name", "source": "Deals damage to up to 3 stunned enemies around the target (AbnormalGroupId).", "translation": "Zadaje obrażenia maksymalnie 3 ogłuszonym wrogom wokół celu (AbnormalGroupId).", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9270_skill_desc_effect", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalEffectType)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalEffectType)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9270_skill_name", "source": "Deals damage to up to 3 nearby stunned targets (AbnormalEffectType)", "translation": "Zadaje obrażenia maksymalnie 3 pobliskim ogłuszonym celom (AbnormalEffectType)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9271_skill_desc_effect", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9271_skill_name", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9272_skill_desc_effect", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9272_skill_name", "source": "Teleport around me", "translation": "Teleportuje wokół postaci", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9273_skill_desc_effect", "source": "MP 100 Recovery_Single-target_Damage_GrowthO", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — wzrost O", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9273_skill_name", "source": "MP 100 Recovery_Single-target_Damage_GrowthO", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — wzrost O", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9274_skill_desc_effect", "source": "MP 100 Recovery_AoE_Damage_GrowthX_multi=false", "translation": "Odzyskuje 100 PM — obrażenia obszarowe — wzrost X — multi=false", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9274_skill_name", "source": "MP 100 Recovery_AoE_Damage_GrowthX_multi=false", "translation": "Odzyskuje 100 PM — obrażenia obszarowe — wzrost X — multi=false", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9275_skill_desc_effect", "source": "MP 100 Recovery_AoE_Damage_GrowthX_multi=true", "translation": "Odzyskuje 100 PM — obrażenia obszarowe — wzrost X — multi=true", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9275_skill_name", "source": "MP 100 Recovery_AoE_Damage_GrowthX_multi=true", "translation": "Odzyskuje 100 PM — obrażenia obszarowe — wzrost X — multi=true", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9276_skill_desc_effect", "source": "MP 100 Recovery_Single-target_Damage_GrowthX_on Crit", "translation": "Odzyskuje 100 PM — obrażenia pojedynczego celu — wzrost X przy trafieniu krytycznym", "status": "draft"}

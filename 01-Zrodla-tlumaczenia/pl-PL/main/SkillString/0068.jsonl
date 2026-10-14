@@ -1,0 +1,250 @@
+{"id": "SkillString_SkillString_ETC_9510_skill_desc_effect", "source": "Grants buff to summoned child", "translation": "Nakłada wzmocnienie na przywołane stworzenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9510_skill_name", "source": "Grants buff to summoned child", "translation": "Nakłada wzmocnienie na przywołane stworzenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9511_skill_desc_effect", "source": "Test_unable_when_can_not_move_control", "translation": "Test: uniemożliwienie działania, gdy kontrola ruchu jest zablokowana", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9511_skill_name", "source": "Test_unable_when_can_not_move_control", "translation": "Test: uniemożliwienie działania, gdy kontrola ruchu jest zablokowana", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9512_skill_desc_effect", "source": "Summon NPC", "translation": "Przywołaj postać NPC", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9512_skill_name", "source": "Summon NPC", "translation": "Przywołaj postać NPC", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9513_skill_desc_effect", "source": "Summon EnvObj", "translation": "Przywołaj obiekt środowiskowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9513_skill_name", "source": "Summon EnvObj", "translation": "Przywołaj obiekt środowiskowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9514_skill_desc_effect", "source": "Summon NPC", "translation": "Przywołaj postać NPC", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9514_skill_name", "source": "Summon NPC", "translation": "Przywołaj postać NPC", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9515_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9515_skill_name", "source": "For Testing_ForceMissDamageToCaster", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9516_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster_Physic", "translation": "Test: wymuszenie nietrafienia obrażeń fizycznych w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9516_skill_name", "source": "For Testing_ForceMissDamageToCaster_Physic", "translation": "Test: wymuszenie nietrafienia obrażeń fizycznych w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9517_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster_Fire", "translation": "Test: wymuszenie nietrafienia obrażeń Ognia w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9517_skill_name", "source": "For Testing_ForceMissDamageToCaster_Fire", "translation": "Test: wymuszenie nietrafienia obrażeń Ognia w rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9518_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster_AbnormalGroupID (2001)", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — AbnormalGroupID (2001)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9518_skill_name", "source": "For Testing_ForceMissDamageToCaster_AbnormalGroupID (2001)", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — AbnormalGroupID (2001)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9519_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster_AbnormalEffectType (SafeHP)", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — AbnormalEffectType (SafeHP)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9519_skill_name", "source": "For Testing_ForceMissDamageToCaster_AbnormalEffectType (SafeHP)", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — AbnormalEffectType (SafeHP)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9520_skill_desc_effect", "source": "For Testing_ForceMissDamageToCaster_Back Attack TRUE", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — atak od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9520_skill_name", "source": "For Testing_ForceMissDamageToCaster_Back Attack TRUE", "translation": "Test: wymuszenie nietrafienia obrażeń w rzucającego — atak od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9521_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster", "translation": "Test: wymuszenie obrażeń krytycznych zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9521_skill_name", "source": "For Testing_ForceCriticalDamageByCaster", "translation": "Test: wymuszenie obrażeń krytycznych zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9522_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster_Physic", "translation": "Test: wymuszenie krytycznych obrażeń fizycznych zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9522_skill_name", "source": "For Testing_ForceCriticalDamageByCaster_Physic", "translation": "Test: wymuszenie krytycznych obrażeń fizycznych zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9523_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster_Fire", "translation": "Test: wymuszenie krytycznych obrażeń Ognia zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9523_skill_name", "source": "For Testing_ForceCriticalDamageByCaster_Fire", "translation": "Test: wymuszenie krytycznych obrażeń Ognia zadawanych przez rzucającego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9524_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster_AbnormalGroupID (2001)", "translation": "Test: wymuszenie obrażeń krytycznych — AbnormalGroupID (2001)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9524_skill_name", "source": "For Testing_ForceCriticalDamageByCaster_AbnormalGroupID (2001)", "translation": "Test: wymuszenie obrażeń krytycznych — AbnormalGroupID (2001)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9525_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster_AbnormalEffectType (SafeHP)", "translation": "Test: wymuszenie obrażeń krytycznych — AbnormalEffectType (SafeHP)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9525_skill_name", "source": "For Testing_ForceCriticalDamageByCaster_AbnormalEffectType (SafeHP)", "translation": "Test: wymuszenie obrażeń krytycznych — AbnormalEffectType (SafeHP)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9526_skill_desc_effect", "source": "For Testing_ForceCriticalDamageByCaster_Back Attack TRUE", "translation": "Test: wymuszenie obrażeń krytycznych — atak od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9526_skill_name", "source": "For Testing_ForceCriticalDamageByCaster_Back Attack TRUE", "translation": "Test: wymuszenie obrażeń krytycznych — atak od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9527_skill_desc_effect", "source": "Test_Cross 1 Hit", "translation": "Test — 1 trafienie krzyżowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9527_skill_name", "source": "Test_Cross 1 Hit", "translation": "Test — 1 trafienie krzyżowe", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9528_skill_desc_effect", "source": "Test_use_last_calc_hit case No.1", "translation": "Test_use_last_calc_hit — przypadek nr 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9528_skill_name", "source": "Test_use_last_calc_hit case No.1", "translation": "Test_use_last_calc_hit — przypadek nr 1", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9529_skill_desc_effect", "source": "Test_use_last_calc_hit case No.2", "translation": "Test_use_last_calc_hit — przypadek nr 2", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9529_skill_name", "source": "Test_use_last_calc_hit case No.2", "translation": "Test_use_last_calc_hit — przypadek nr 2", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9533_skill_desc_effect", "source": "Test_Maintarget, Circle, 1 target, AoE around me, Inflicts abnormal", "translation": "Test — cel główny, okrąg, 1 cel, obszar wokół postaci, nakłada efekt stanu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9533_skill_name", "source": "Test_MainTarget", "translation": "Test — cel główny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9536_skill_desc_effect", "source": "Test_Maintarget, Circle, 2 targets, AoE around me, Inflicts abnormal", "translation": "Test — cel główny, okrąg, 2 cele, obszar wokół postaci, nakłada efekt stanu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9536_skill_name", "source": "Test_MainTarget", "translation": "Test — cel główny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9540_skill_desc_effect", "source": "9540 Skill\nInflicts target with abnormal\nIf inflicted successfully, activates system skill that grants 1127 to me", "translation": "Umiejętność 9540\nNakłada efekt stanu na cel\nPo skutecznym nałożeniu aktywuje umiejętność systemową, która zapewnia postaci 1127", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9540_skill_name", "source": "For Testing_9540_Abnormal effect_value09", "translation": "Test_9540_Abnormal effect_value09", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9542_skill_desc_effect", "source": "9542 Skill", "translation": "Umiejętność 9542", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9542_skill_name", "source": "For Testing_9542_SkillOverride", "translation": "Test_9542_SkillOverride", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9543_skill_desc_effect", "source": "9543 Skill", "translation": "Umiejętność 9543", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9543_skill_name", "source": "For Testing_9543_SkillOverride", "translation": "Test_9543_SkillOverride", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9544_skill_desc_effect", "source": "9544 Skill", "translation": "Umiejętność 9544", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9544_skill_name", "source": "For Testing_9544_SkillOverride", "translation": "Test_9544_SkillOverride", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9547_skill_desc_effect", "source": "For Testing_AggroChangeWithElemental", "translation": "Test zmiany nienawiści z uwzględnieniem żywiołu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9547_skill_name", "source": "For Testing_AggroChangeWithElemental", "translation": "Test zmiany nienawiści z uwzględnieniem żywiołu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9556_skill_desc_effect", "source": "Test_Interrupt task_before SwingStart", "translation": "Test przerwania zadania — przed początkiem zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9556_skill_name", "source": "Test_Interrupt task_before SwingStart", "translation": "Test przerwania zadania — przed początkiem zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9557_skill_desc_effect", "source": "Test_Interrupt task_between SwingStart and SwingEnd", "translation": "Test przerwania zadania — między początkiem a końcem zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9557_skill_name", "source": "Test_Interrupt task_between SwingStart and SwingEnd", "translation": "Test przerwania zadania — między początkiem a końcem zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9558_skill_desc_effect", "source": "Test_Interrupt task_after SwingEnd", "translation": "Test przerwania zadania — po końcu zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9558_skill_name", "source": "Test_Interrupt task_after SwingEnd", "translation": "Test przerwania zadania — po końcu zamachu", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9559_skill_desc_effect", "source": "Test_None_None", "translation": "Test — brak/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9559_skill_name", "source": "Test_None_None", "translation": "Test — brak/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9560_skill_desc_effect", "source": "Test_Physic_None", "translation": "Test — fizyczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9560_skill_name", "source": "Test_Physic_None", "translation": "Test — fizyczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9561_skill_desc_effect", "source": "Test_Magic_None", "translation": "Test — magiczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9561_skill_name", "source": "Test_Magic_None", "translation": "Test — magiczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9562_skill_desc_effect", "source": "Test_None_Fire", "translation": "Test — brak/Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9562_skill_name", "source": "Test_None_Fire", "translation": "Test — brak/Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9563_skill_desc_effect", "source": "Test_None_Wind", "translation": "Test — brak/Wiatr", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9563_skill_name", "source": "Test_None_Wind", "translation": "Test — brak/Wiatr", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9564_skill_desc_effect", "source": "Test_None_None_Strikes 3 times", "translation": "Test — brak/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9564_skill_name", "source": "Test_None_None_Strikes 3 times", "translation": "Test — brak/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9565_skill_desc_effect", "source": "Test_Physic_None_Strikes 3 times", "translation": "Test — fizyczne/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9565_skill_name", "source": "Test_Physic_None_Strikes 3 times", "translation": "Test — fizyczne/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9566_skill_desc_effect", "source": "Test_Magic_None_Strikes 3 times", "translation": "Test — magiczne/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9566_skill_name", "source": "Test_Magic_None_Strikes 3 times", "translation": "Test — magiczne/brak, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9567_skill_desc_effect", "source": "Test_None_Fire_Strikes 3 times", "translation": "Test — brak/Ogień, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9567_skill_name", "source": "Test_None_Fire_Strikes 3 times", "translation": "Test — brak/Ogień, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9568_skill_desc_effect", "source": "Test_None_Wind_Strikes 3 times", "translation": "Test — brak/Wiatr, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9568_skill_name", "source": "Test_None_Wind_Strikes 3 times", "translation": "Test — brak/Wiatr, trafia 3 razy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9569_skill_desc_effect", "source": "Test_Dot_NormalCalc_None_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, brak/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9569_skill_name", "source": "Test_Dot_NormalCalc_None_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, brak/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9570_skill_desc_effect", "source": "Test_Dot_NormalCalc_None_Fire", "translation": "Test obrażeń okresowych — obliczenia standardowe, brak/Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9570_skill_name", "source": "Test_Dot_NormalCalc_None_Fire", "translation": "Test obrażeń okresowych — obliczenia standardowe, brak/Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9571_skill_desc_effect", "source": "Test_Dot_NormalCalc_Physic_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, fizyczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9571_skill_name", "source": "Test_Dot_NormalCalc_Physic_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, fizyczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9572_skill_desc_effect", "source": "Test_Dot_NormalCalc_Magic_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, magiczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9572_skill_name", "source": "Test_Dot_NormalCalc_Magic_None", "translation": "Test obrażeń okresowych — obliczenia standardowe, magiczne/brak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9580_skill_desc_effect", "source": "Test_Multiply_Dot_mp100", "translation": "Test mnożenia obrażeń okresowych — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9580_skill_name", "source": "Test_Multiply_Dot_mp100", "translation": "Test mnożenia obrażeń okresowych — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9581_skill_desc_effect", "source": "Test_Explode_Dot_mp100", "translation": "Test eksplozji obrażeń okresowych — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9581_skill_name", "source": "Test_Explode_Dot_mp100", "translation": "Test eksplozji obrażeń okresowych — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9582_skill_desc_effect", "source": "Test_MPBurn_mp100", "translation": "Test spalania PM — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9582_skill_name", "source": "Test_MPBurn_mp100", "translation": "Test spalania PM — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9583_skill_desc_effect", "source": "Test_MPBurnRatio_mp100", "translation": "Test współczynnika spalania PM — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9583_skill_name", "source": "Test_MPBurnRatio_mp100", "translation": "Test współczynnika spalania PM — 100 PM", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9584_skill_desc_effect", "source": "Test_FPHeal_100, 50% multiplier", "translation": "Test leczenia FP — 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9584_skill_name", "source": "Test_FPHeal_100, 50% multiplier", "translation": "Test leczenia FP — 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9585_skill_desc_effect", "source": "Test_FPHealRatio_10%_capped at 100, 50% multiplier", "translation": "Test współczynnika leczenia FP — 10%, limit 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9585_skill_name", "source": "Test_FPHealRatio_10%_capped at 100, 50% multiplier", "translation": "Test współczynnika leczenia FP — 10%, limit 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9586_skill_desc_effect", "source": "Test_FPHeal_Item_100, 50% multiplier", "translation": "Test leczenia FP przedmiotem — 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9586_skill_name", "source": "Test_FPHeal_Item_100, 50% multiplier", "translation": "Test leczenia FP przedmiotem — 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9587_skill_desc_effect", "source": "Test_FPHealRatio_Item_10%_capped at 100_50% multiplier", "translation": "Test współczynnika leczenia FP przedmiotem — 10%, limit 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9587_skill_name", "source": "Test_FPHealRatio_Item_10%_capped at 100_50% multiplier", "translation": "Test współczynnika leczenia FP przedmiotem — 10%, limit 100, mnożnik 50%", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9588_skill_desc_effect", "source": "Test_Dot_Dmg_need / condition = Movement", "translation": "Test obrażeń okresowych / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9588_skill_name", "source": "Test_Dot_Dmg_need / condition = Movement", "translation": "Test obrażeń okresowych / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9589_skill_desc_effect", "source": "Test_Dot_TargetHP / need_condition = Movement", "translation": "Test obrażeń okresowych PŻ celu / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9589_skill_name", "source": "Test_Dot_TargetHP / need_condition = Movement", "translation": "Test obrażeń okresowych PŻ celu / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9590_skill_desc_effect", "source": "Test_Dot_TargetMaxHp / need_condition = Movement", "translation": "Test obrażeń okresowych maks. PŻ celu / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9590_skill_name", "source": "Test_Dot_TargetMaxHp / need_condition = Movement", "translation": "Test obrażeń okresowych maks. PŻ celu / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9591_skill_desc_effect", "source": "Test_Dot_NormalCalc / need_condition = Movement", "translation": "Test obrażeń okresowych, obliczenia standardowe / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9591_skill_name", "source": "Test_Dot_NormalCalc / need_condition = Movement", "translation": "Test obrażeń okresowych, obliczenia standardowe / wymagany warunek = ruch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9592_skill_desc_effect", "source": "Test_Multiply_Dot", "translation": "Test mnożenia obrażeń okresowych", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9592_skill_name", "source": "Test_Multiply_Dot", "translation": "Test mnożenia obrażeń okresowych", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9593_skill_desc_effect", "source": "Test_Fot_Recovers 100 per second, 100% stat ratio, per tick", "translation": "Test FoT — odzyskuje 100 na sekundę, 100% współczynnika statystyki, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9593_skill_name", "source": "Test_Fot_Recovers 100 per second, 100% stat ratio, per tick", "translation": "Test FoT — odzyskuje 100 na sekundę, 100% współczynnika statystyki, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9594_skill_desc_effect", "source": "Test_Fot_Recovers 100 per second, 100% stat ratio, total amount", "translation": "Test FoT — odzyskuje 100 na sekundę, 100% współczynnika statystyki, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9594_skill_name", "source": "Test_Fot_Recovers 100 per second, 100% stat ratio, total amount", "translation": "Test FoT — odzyskuje 100 na sekundę, 100% współczynnika statystyki, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9595_skill_desc_effect", "source": "Test_Fot_Ratio_Recovers 10% per second, Capped at 300, 100%, per tick", "translation": "Test współczynnika FoT — odzyskuje 10% na sekundę, limit 300, 100%, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9595_skill_name", "source": "Test_Fot_Ratio_Recovers 10% per second, Capped at 300, 100%, per tick", "translation": "Test współczynnika FoT — odzyskuje 10% na sekundę, limit 300, 100%, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9596_skill_desc_effect", "source": "Test_Fot_Ratio_Recovers 10% per second, Capped at 300, 100%, total amount", "translation": "Test współczynnika FoT — odzyskuje 10% na sekundę, limit 300, 100%, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9596_skill_name", "source": "Test_Fot_Ratio_Recovers 10% per second, Capped at 300, 100%, total amount", "translation": "Test współczynnika FoT — odzyskuje 10% na sekundę, limit 300, 100%, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9597_skill_desc_effect", "source": "Test_Fot_Item_Recovers 100 per second, 100% stat ratio, per tick", "translation": "Test FoT przedmiotu — odzyskuje 100 na sekundę, 100% współczynnika statystyki, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9597_skill_name", "source": "Test_Fot_Item_Recovers 100 per second, 100% stat ratio, per tick", "translation": "Test FoT przedmiotu — odzyskuje 100 na sekundę, 100% współczynnika statystyki, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9598_skill_desc_effect", "source": "Test_Fot_Item_Recovers 100 per second, 100% stat ratio, total amount", "translation": "Test FoT przedmiotu — odzyskuje 100 na sekundę, 100% współczynnika statystyki, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9598_skill_name", "source": "Test_Fot_Item_Recovers 100 per second, 100% stat ratio, total amount", "translation": "Test FoT przedmiotu — odzyskuje 100 na sekundę, 100% współczynnika statystyki, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9599_skill_desc_effect", "source": "Test_FotRatio_Item_Recovers 10% per second, Capped at 300, 100%, per tick", "translation": "Test współczynnika FoT przedmiotu — odzyskuje 10% na sekundę, limit 300, 100%, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9599_skill_name", "source": "Test_FotRatio_Item_Recovers 10% per second, Capped at 300, 100%, per tick", "translation": "Test współczynnika FoT przedmiotu — odzyskuje 10% na sekundę, limit 300, 100%, na takt", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9600_skill_desc_effect", "source": "Test_FotRatio_Item_Recovers 10% per second, Capped at 300, 100%, total amount", "translation": "Test współczynnika FoT przedmiotu — odzyskuje 10% na sekundę, limit 300, 100%, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9600_skill_name", "source": "Test_FotRatio_Item_Recovers 10% per second, Capped at 300, 100%, total amount", "translation": "Test współczynnika FoT przedmiotu — odzyskuje 10% na sekundę, limit 300, 100%, łączna wartość", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9610_skill_desc_effect", "source": "PvP Test - Super Skill", "translation": "Test PvP — superumiejętność", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9610_skill_name", "source": "PvP Test - Super Skill", "translation": "Test PvP — superumiejętność", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9618_skill_name", "source": "Cannon Blast", "translation": "Wybuch armatni", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9619_skill_name", "source": "Cannon Blast", "translation": "Wybuch armatni", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9628_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9628_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9629_skill_desc_effect", "source": "Summon Magic Sphere", "translation": "Przywołaj magiczną sferę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9629_skill_name", "source": "Summon Magic Sphere", "translation": "Przywołaj magiczną sferę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9630_skill_desc_effect", "source": "Winged Breeze", "translation": "Skrzydlaty podmuch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9630_skill_name", "source": "Winged Breeze", "translation": "Skrzydlaty podmuch", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9631_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9631_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9632_skill_desc_effect", "source": "Self Heal", "translation": "Samoleczenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9632_skill_name", "source": "Self Heal", "translation": "Samoleczenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9633_skill_desc_effect", "source": "Lightning Attack", "translation": "Błyskawiczny atak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9633_skill_name", "source": "Lightning Attack", "translation": "Błyskawiczny atak", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9634_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9634_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9635_skill_desc_effect", "source": "Rake", "translation": "Rozszarpanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9635_skill_name", "source": "Rake", "translation": "Rozszarpanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9636_skill_desc_effect", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9636_skill_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9637_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9637_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9638_skill_desc_effect", "source": "Smite Ground", "translation": "Uderzenie w ziemię", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9638_skill_name", "source": "Smite Ground", "translation": "Uderzenie w ziemię", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9639_skill_desc_effect", "source": "Summon Spirit", "translation": "Przywołaj ducha", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9639_skill_name", "source": "Summon Spirit", "translation": "Przywołaj ducha", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9640_skill_desc_effect", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9640_skill_name", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9641_skill_desc_effect", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9641_skill_name", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9642_skill_desc_effect", "source": "Rapid Rake", "translation": "Szybkie rozszarpanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9642_skill_name", "source": "Rapid Rake", "translation": "Szybkie rozszarpanie", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9650_skill_desc_effect", "source": "PvP Test - Ally Battle Brag Tag", "translation": "Test PvP — odznaka chluby za walkę sojuszniczą", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9650_skill_name", "source": "PvP Test - Ally Battle Brag Tag", "translation": "Test PvP — odznaka chluby za walkę sojuszniczą", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9656_skill_desc_effect", "source": "PvP Test - Protective Shield 20 Stacks to All Participants", "translation": "Test PvP — tarcza ochronna, 20 ładunków dla wszystkich uczestników", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9656_skill_name", "source": "PvP Test - Protective Shield 20 Stacks to All Participants", "translation": "Test PvP — tarcza ochronna, 20 ładunków dla wszystkich uczestników", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9663_skill_desc_effect", "source": "Poison Zone Blast", "translation": "Wybuch strefy trucizny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9663_skill_name", "source": "Poison Zone Blast", "translation": "Wybuch strefy trucizny", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9681_skill_desc_effect", "source": "Activates monster skill corresponding to the orb", "translation": "Aktywuje umiejętność potwora odpowiadającą kuli", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9681_skill_name", "source": "Monster Skill", "translation": "Umiejętność potwora", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9720_skill_desc_effect", "source": "Self Buff", "translation": "Wzmocnienie własne", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9720_skill_name", "source": "Self Buff", "translation": "Wzmocnienie własne", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9721_skill_desc_effect", "source": "Summon Minion", "translation": "Przywołaj sługę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9721_skill_name", "source": "Summon Minion", "translation": "Przywołaj sługę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9722_skill_desc_effect", "source": "Summon Turret", "translation": "Przywołaj wieżyczkę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9722_skill_name", "source": "Summon Turret", "translation": "Przywołaj wieżyczkę", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9723_skill_desc_effect", "source": "Currently Occupied by Elyos", "translation": "Obecnie zajęte przez Elyos", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9723_skill_name", "source": "Currently Occupied by Elyos", "translation": "Obecnie zajęte przez Elyos", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9724_skill_desc_effect", "source": "Currently Occupied by Asmodians", "translation": "Obecnie zajęte przez Asmodian", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9724_skill_name", "source": "Currently Occupied by Asmodians", "translation": "Obecnie zajęte przez Asmodian", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9760_skill_desc_effect", "source": "Skill A (Changes to B when holding 1705 abnormal)", "translation": "Umiejętność A (zmienia się w B, gdy postać ma efekt stanu 1705)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9760_skill_name", "source": "Skill A", "translation": "Umiejętność A", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9761_skill_desc_effect", "source": "Skill B", "translation": "Umiejętność B", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9761_skill_name", "source": "Skill B", "translation": "Umiejętność B", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9762_skill_desc_effect", "source": "Skill C (Changes to D when holding 1705 abnormal)", "translation": "Umiejętność C (zmienia się w D, gdy postać ma efekt stanu 1705)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9762_skill_name", "source": "Skill C", "translation": "Umiejętność C", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9763_skill_desc_effect", "source": "Skill D", "translation": "Umiejętność D", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9763_skill_name", "source": "Skill D", "translation": "Umiejętność D", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9764_skill_desc_effect", "source": "Test_not_calc_shield_block TRUE, level 10", "translation": "Test_not_calc_shield_block TRUE, poziom 10", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9764_skill_name", "source": "Test_not_calc_shield_block TRUE, level 10", "translation": "Test_not_calc_shield_block TRUE, poziom 10", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9765_skill_desc_effect", "source": "Test_not_calc_shield_block FALSE, level 10", "translation": "Test_not_calc_shield_block FALSE, poziom 10", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9765_skill_name", "source": "Test_not_calc_shield_block FALSE, level 10", "translation": "Test_not_calc_shield_block FALSE, poziom 10", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9766_skill_desc_effect", "source": "Test_not_calc_miss TRUE, level 10, level 30, use_last_calc_hit", "translation": "Test_not_calc_miss TRUE, poziom 10, poziom 30, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9766_skill_name", "source": "Test_not_calc_miss TRUE, level 10, level 30, use_last_calc_hit", "translation": "Test_not_calc_miss TRUE, poziom 10, poziom 30, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9767_skill_desc_effect", "source": "Test_not_calc_miss FALSE, level 10, level 30, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom 10, poziom 30, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9767_skill_name", "source": "Test_not_calc_miss FALSE, level 10, level 30, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom 10, poziom 30, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9768_skill_desc_effect", "source": "Test_not_calc_miss FALSE, level x, TRUE, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom x, TRUE, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9768_skill_name", "source": "Test_not_calc_miss FALSE, level x, TRUE, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom x, TRUE, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9769_skill_desc_effect", "source": "Test_not_calc_miss TRUE, level 30, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss TRUE, poziom 30, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9769_skill_name", "source": "Test_not_calc_miss TRUE, level 30, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss TRUE, poziom 30, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9770_skill_desc_effect", "source": "Test_not_calc_miss FALSE, level 30, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom 30, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9770_skill_name", "source": "Test_not_calc_miss FALSE, level 30, level 10, use_last_calc_hit", "translation": "Test_not_calc_miss FALSE, poziom 30, poziom 10, use_last_calc_hit", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9771_skill_desc_effect", "source": "Teleport_Leave Test", "translation": "Test wyjścia teleportacją", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9771_skill_name", "source": "Teleport_Leave Test", "translation": "Test wyjścia teleportacją", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9773_skill_desc_effect", "source": "Test_ForceCalcAdditionalHit", "translation": "Test wymuszenia obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9773_skill_name", "source": "Test_ForceCalcAdditionalHit", "translation": "Test wymuszenia obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9774_skill_desc_effect", "source": "Test_NotCalcAdditionalHit", "translation": "Test pominięcia obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9774_skill_name", "source": "Test_NotCalcAdditionalHit", "translation": "Test pominięcia obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9775_skill_desc_effect", "source": "Test_CalcAdditionalHit", "translation": "Test obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9775_skill_name", "source": "Test_CalcAdditionalHit", "translation": "Test obliczania dodatkowego trafienia", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9776_skill_desc_effect", "source": "Test_ForceCalcCritical", "translation": "Test wymuszenia obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9776_skill_name", "source": "Test_ForceCalcCritical", "translation": "Test wymuszenia obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9777_skill_desc_effect", "source": "Test_NotCalcCritical", "translation": "Test pominięcia obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9777_skill_name", "source": "Test_NotCalcCritical", "translation": "Test pominięcia obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9778_skill_desc_effect", "source": "Test_CalcCritical", "translation": "Test obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9778_skill_name", "source": "Test_CalcCritical", "translation": "Test obliczania trafienia krytycznego", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9779_skill_desc_effect", "source": "Test_use_last_calc_hit when critical_calc_type", "translation": "Test_use_last_calc_hit przy critical_calc_type", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9779_skill_name", "source": "Test_use_last_calc_hit when critical_calc_type", "translation": "Test_use_last_calc_hit przy critical_calc_type", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9790_skill_desc_effect", "source": "Test_Homing Missile (NPC)", "translation": "Test pocisku samonaprowadzającego (NPC)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9790_skill_name", "source": "Test_Homing Missile (NPC)", "translation": "Test pocisku samonaprowadzającego (NPC)", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9792_skill_desc_effect", "source": "Test_Collide Terrain Check", "translation": "Test sprawdzania kolizji z terenem", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9792_skill_name", "source": "Test_Collide Terrain Check", "translation": "Test sprawdzania kolizji z terenem", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9793_skill_desc_effect", "source": "Test_Collide Horizontal Angle Offset", "translation": "Test przesunięcia kąta poziomego kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9793_skill_name", "source": "Test_Collide Horizontal Angle Offset", "translation": "Test przesunięcia kąta poziomego kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9794_skill_desc_effect", "source": "Test_Collide Horizontal Angle Offset_Multishot", "translation": "Test przesunięcia kąta poziomego kolizji — wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9794_skill_name", "source": "Test_Collide Horizontal Angle Offset_Multishot", "translation": "Test przesunięcia kąta poziomego kolizji — wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9795_skill_desc_effect", "source": "Test_Collide Start Distance Offset", "translation": "Test przesunięcia początkowej odległości kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9795_skill_name", "source": "Test_Collide Start Distance Offset", "translation": "Test przesunięcia początkowej odległości kolizji", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9796_skill_desc_effect", "source": "Test_Collide Start Distance Offset_Vertical Multishot", "translation": "Test przesunięcia początkowej odległości kolizji — pionowy wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9796_skill_name", "source": "Test_Collide Start Distance Offset_Vertical Multishot", "translation": "Test przesunięcia początkowej odległości kolizji — pionowy wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9797_skill_desc_effect", "source": "Test_CalcBackAttack_TRUE", "translation": "Test obliczania ataku od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9797_skill_name", "source": "Test_CalcBackAttack_TRUE", "translation": "Test obliczania ataku od tyłu TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9798_skill_desc_effect", "source": "Test_CalcBackAttack_FALSE", "translation": "Test obliczania ataku od tyłu FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9798_skill_name", "source": "Test_CalcBackAttack_FALSE", "translation": "Test obliczania ataku od tyłu FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9800_skill_desc_effect", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9800_skill_name", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9801_skill_desc_effect", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9801_skill_name", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9802_skill_desc_effect", "source": "Skill Schedule Test_SkillCancel 1.0", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,0", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9802_skill_name", "source": "Skill Schedule Test_SkillCancel 1.0", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,0", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9803_skill_desc_effect", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9803_skill_name", "source": "Skill Schedule Test_SkillCancel 1.5", "translation": "Test harmonogramu umiejętności — anulowanie umiejętności 1,5", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9806_skill_desc_effect", "source": "ImmuneAbnormal Test for STUN", "translation": "Test ImmuneAbnormal dla OGŁUSZENIA", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9806_skill_name", "source": "ImmuneAbnormal Test for STUN", "translation": "Test ImmuneAbnormal dla OGŁUSZENIA", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9807_skill_desc_effect", "source": "ConvertDamageToHpHeal Test for Physic_Fire", "translation": "Test ConvertDamageToHpHeal dla fizyczne_Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9807_skill_name", "source": "ConvertDamageToHpHeal Test for Physic_Fire", "translation": "Test ConvertDamageToHpHeal dla fizyczne_Ogień", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9808_skill_desc_effect", "source": "ConvertDamageToHpHeal Test for Magic_Water", "translation": "Test ConvertDamageToHpHeal dla magiczne_Woda", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9808_skill_name", "source": "ConvertDamageToHpHeal Test for Magic_Water", "translation": "Test ConvertDamageToHpHeal dla magiczne_Woda", "status": "draft"}

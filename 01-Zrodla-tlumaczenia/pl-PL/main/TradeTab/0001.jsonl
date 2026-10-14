@@ -1,0 +1,53 @@
+{"id": "TradeTab_Accessory_Amulet_desc", "source": "Amulet", "translation": "Amulet", "status": "draft"}
+{"id": "TradeTab_Accessory_Belt_desc", "source": "Belt", "translation": "Pas", "status": "draft"}
+{"id": "TradeTab_Accessory_Bracelet_desc", "source": "Bracelet", "translation": "Bransoleta", "status": "draft"}
+{"id": "TradeTab_Accessory_Brooch_desc", "source": "Brooch", "translation": "Brosza", "status": "draft"}
+{"id": "TradeTab_Accessory_Earring_desc", "source": "Earrings", "translation": "Kolczyki", "status": "draft"}
+{"id": "TradeTab_Accessory_Necklace_desc", "source": "Necklace", "translation": "Naszyjnik", "status": "draft"}
+{"id": "TradeTab_Accessory_Pendant_desc", "source": "Pendant", "translation": "Wisiorek", "status": "draft"}
+{"id": "TradeTab_Accessory_Ring_desc", "source": "Ring", "translation": "Pierścień", "status": "draft"}
+{"id": "TradeTab_Accessory_Rune_desc", "source": "Rune", "translation": "Runa", "status": "draft"}
+{"id": "TradeTab_Accessory_Shirt_desc", "source": "T-Shirt", "translation": "Koszulka", "status": "draft"}
+{"id": "TradeTab_Armor_Boots_desc", "source": "Shoes", "translation": "Buty", "status": "draft"}
+{"id": "TradeTab_Armor_Cape_desc", "source": "Cloak", "translation": "Płaszcz", "status": "draft"}
+{"id": "TradeTab_Armor_Gloves_desc", "source": "Gloves", "translation": "Rękawice", "status": "draft"}
+{"id": "TradeTab_Armor_Helmet_desc", "source": "Helm", "translation": "Hełm", "status": "draft"}
+{"id": "TradeTab_Armor_Pants_desc", "source": "Legs", "translation": "Spodnie", "status": "draft"}
+{"id": "TradeTab_Armor_Shoulder_desc", "source": "Pauldrons", "translation": "Naramienniki", "status": "draft"}
+{"id": "TradeTab_Armor_Torso_desc", "source": "Top", "translation": "Górna część stroju", "status": "draft"}
+{"id": "TradeTab_Equip_Accessory_desc", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "TradeTab_Equip_Armor_desc", "source": "Armor", "translation": "Zbroja", "status": "draft"}
+{"id": "TradeTab_Equip_Weapon_desc", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "TradeTab_Misc_001_desc", "source": "Miscellaneous", "translation": "Pozostałe", "status": "draft"}
+{"id": "TradeTab_Misc_ConversionResource_desc", "source": "Substance Morph Material", "translation": "Materiał do transmutacji substancji", "status": "draft"}
+{"id": "TradeTab_Misc_CraftResource_desc", "source": "Crafting Material", "translation": "Materiał rzemieślniczy", "status": "draft"}
+{"id": "TradeTab_Misc_GatherResource_desc", "source": "Gathering Material", "translation": "Materiał ze zbieractwa", "status": "draft"}
+{"id": "TradeTab_Misc_Material_desc", "source": "Special Materials", "translation": "Materiały specjalne", "status": "draft"}
+{"id": "TradeTab_Misc_Other_desc", "source": "Miscellaneous", "translation": "Pozostałe", "status": "draft"}
+{"id": "TradeTab_Usable_001_desc", "source": "Consumables", "translation": "Przedmioty zużywalne", "status": "draft"}
+{"id": "TradeTab_Usable_AgitDeco_desc", "source": "Pantheon", "translation": "Panteon", "status": "draft"}
+{"id": "TradeTab_Usable_Box_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
+{"id": "TradeTab_Usable_Candy_desc", "source": "Candy", "translation": "Cukierek", "status": "draft"}
+{"id": "TradeTab_Usable_Etc_desc", "source": "Miscellaneous", "translation": "Pozostałe", "status": "draft"}
+{"id": "TradeTab_Usable_Food_desc", "source": "Food", "translation": "Jedzenie", "status": "draft"}
+{"id": "TradeTab_Usable_GodStone_desc", "source": "Theostone", "translation": "Teoskal", "status": "draft"}
+{"id": "TradeTab_Usable_MagigStone_desc", "source": "Manastone/Soulstone", "translation": "Kamień many/Kamień duszy", "status": "draft"}
+{"id": "TradeTab_Usable_Potion_desc", "source": "Potions", "translation": "Mikstury", "status": "draft"}
+{"id": "TradeTab_Usable_Scroll_desc", "source": "Scroll", "translation": "Zwój", "status": "draft"}
+{"id": "TradeTab_Usable_Skin_Armor_desc", "source": "Armor", "translation": "Zbroja", "status": "draft"}
+{"id": "TradeTab_Usable_Skin_Ornament_desc", "source": "Decoration", "translation": "Ozdoba", "status": "draft"}
+{"id": "TradeTab_Usable_Skin_Weapon_desc", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "TradeTab_Usable_Skin_desc", "source": "Skins", "translation": "Skórki", "status": "draft"}
+{"id": "TradeTab_Usable_Ticket_desc", "source": "Duration Ticket", "translation": "Bilet czasowy", "status": "draft"}
+{"id": "TradeTab_Usable_Wing_desc", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "TradeTab_Weapon_Bow_desc", "source": "Bow", "translation": "Łuk", "status": "draft"}
+{"id": "TradeTab_Weapon_Dagger_desc", "source": "Dagger", "translation": "Sztylet", "status": "draft"}
+{"id": "TradeTab_Weapon_Gauntlet_desc", "source": "Gauntlet", "translation": "Rękawica bojowa", "status": "draft"}
+{"id": "TradeTab_Weapon_Greatsword_desc", "source": "Greatsword", "translation": "Wielki miecz", "status": "draft"}
+{"id": "TradeTab_Weapon_Guarder_desc", "source": "Guard", "translation": "Ochraniacz", "status": "draft"}
+{"id": "TradeTab_Weapon_Mace_desc", "source": "Mace", "translation": "Buława", "status": "draft"}
+{"id": "TradeTab_Weapon_Magicbook_desc", "source": "Spellbook", "translation": "Księga zaklęć", "status": "draft"}
+{"id": "TradeTab_Weapon_Orb_desc", "source": "Orb", "translation": "Kula", "status": "draft"}
+{"id": "TradeTab_Weapon_Shield_desc", "source": "Shield", "translation": "Tarcza", "status": "draft"}
+{"id": "TradeTab_Weapon_Staff_desc", "source": "Staff", "translation": "Kostur", "status": "draft"}
+{"id": "TradeTab_Weapon_Sword_desc", "source": "Longsword", "translation": "Miecz długi", "status": "draft"}

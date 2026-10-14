@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCCineMediaAssets",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "b35296d85ba89c4d05336984befe72c38bd46f242c49d390768ffce11f01439f",
+  "records": 102,
+  "decodedJsonSha256": "c7481ae731901eb4fa780b6538956965cb5c209963d1ea506f02c44eb9bf90e0",
+  "batches": [
+    {
+      "file": "locres-NCCineMediaAssets/NCCineMediaAssets/0001.jsonl",
+      "count": 102,
+      "category": "NCCineMediaAssets"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{"id":"QuestString_STR_UQ2309189_quest_summary_journal_complete","source":"This mission has been successfully completed.","translation":"Misja została pomyślnie ukończona.","status":"draft"}
+{"id":"QuestString_STR_UQ2309189_quest_summary_journal_progress","source":"Calling all Daeva who traverse Chaotic Middle Reshanta.\n\nDefeat <QK>soldiers of any rank</> from the opposing camp to lower their morale and swiftly seize the initiative.\nYour valor will not be forgotten.","translation":"Wzywamy wszystkich Daevów przemierzających Chaotyczną Środkową Reshantę.\n\nPokonaj <QK>żołnierzy dowolnej rangi</> z przeciwnego obozu, aby obniżyć morale wroga i szybko przejąć inicjatywę.\nTwoje męstwo nie zostanie zapomniane.","status":"draft"}
+{"id":"QuestString_STR_UQ2309189_quest_summary_popup_complete","source":"Defeated opposing camp players","translation":"Pokonano graczy przeciwnego obozu","status":"draft"}
+{"id":"QuestString_STR_UQ2309189_quest_title","source":"Defeat Opposing Camp Players","translation":"Pokonaj graczy przeciwnego obozu","status":"draft"}
+{"id":"QuestString_STR_UQ2309189_step1","source":"Defeat opposing camp players of any rank","translation":"Pokonaj graczy przeciwnego obozu dowolnej rangi","status":"draft"}
+{"id":"QuestString_STR_UQ2309189_step1_obj_1","source":"Defeat opposing camp players","translation":"Pokonaj graczy przeciwnego obozu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_complete_desc","source":"(Change column)Tell Eunbi about the results of the conversation.","translation":"(Zmień kolumnę)Opowiedz Eunbi o przebiegu rozmowy.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_quest_short_summary","source":"(Change column)AskNpc goal test","translation":"(Zmień kolumnę)Test celu AskNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_quest_summary_journal_complete","source":"(Change column)AskNpc Confirm if the goal and conversations are displayed correctly","translation":"(Zmień kolumnę)AskNpc Sprawdź, czy cel i rozmowy wyświetlają się prawidłowo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_quest_summary_popup_complete","source":"(Change column)(Popup text)AskNpc Confirm if the goal and conversations are displayed correctly","translation":"(Zmień kolumnę)(Tekst okna)AskNpc Sprawdź, czy cel i rozmowy wyświetlają się prawidłowo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_quest_title","source":"AskNpc Test","translation":"Test AskNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_step1","source":"(Change column)Confirm quest function","translation":"(Zmień kolumnę)Sprawdź działanie zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_step1_obj_1","source":"(Change column)Talk to Dada","translation":"(Zmień kolumnę)Porozmawiaj z Dadą","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_step2","source":"Complete conversation on Selvis","translation":"Dokończ rozmowę z Selvis","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_001_step2_obj_1","source":"Complete conversation on Selvis","translation":"Dokończ rozmowę z Selvis","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_complete_desc","source":"Tell Eunbi about the hunting results.","translation":"Opowiedz Eunbi o wynikach polowania.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_quest_short_summary","source":"KillNpc Goal Test","translation":"Test celu KillNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_quest_summary_journal_complete","source":"KillNpc Defeat balance test monsters for goal test","translation":"KillNpc Pokonaj potwory testowe do sprawdzenia celu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_quest_summary_popup_complete","source":"(Popup text) KillNpc Defeat balance test monsters for goal test","translation":"(Tekst okna) KillNpc Pokonaj potwory testowe do sprawdzenia celu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_quest_title","source":"KillNpc Test","translation":"Test KillNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_step1","source":"Confirm hunt functions","translation":"Sprawdź działanie polowania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_step1_obj_1","source":"(Change column)Defeat balance test 1","translation":"(Zmień kolumnę)Pokonaj 1 potwora testowego","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_step1_obj_2","source":"Defeat balance test 5","translation":"Pokonaj 5 potworów testowych","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_step1_obj_3","source":"(Change column)Defeat balance test 10","translation":"(Zmień kolumnę)Pokonaj 10 potworów testowych","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_002_step1_obj_4","source":"Defeat balance test 15","translation":"Pokonaj 15 potworów testowych","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_complete_desc","source":"Tell Maru you reached the level.","translation":"Powiedz Maru, że osiągnięto wymagany poziom.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_quest_short_summary","source":"Daeva Point acquisition condition test","translation":"Test warunku zdobycia punktu Daevy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_quest_summary_journal_complete","source":"Daeva Point acquisition condition test","translation":"Test warunku zdobycia punktu Daevy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_quest_summary_popup_complete","source":"Daeva Point acquisition condition test","translation":"Test warunku zdobycia punktu Daevy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_quest_title","source":"Daeva Point acquisition condition test","translation":"Test warunku zdobycia punktu Daevy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_step1","source":"Enters upon reaching point score","translation":"Wejdź po osiągnięciu wymaganej liczby punktów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_003_step1_obj_1","source":"Test","translation":"Test","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_complete_desc","source":"Tell Pupu about the results of the investigation.","translation":"Opowiedz Pupu o wynikach dochodzenia.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_quest_short_summary","source":"Zone entry and sub-zone limited hunt test","translation":"Test polowania ograniczonego do strefy i podstrefy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_quest_summary_journal_complete","source":"Examine the spot where the mysterious flowers bloom and solve the problem","translation":"Zbadaj miejsce, w którym kwitną tajemnicze kwiaty, i rozwiąż problem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_quest_summary_popup_complete","source":"(Popup text)Examine the spot where the mysterious flowers bloom and solve the problem","translation":"(Tekst okna)Zbadaj miejsce, w którym kwitną tajemnicze kwiaty, i rozwiąż problem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_quest_title","source":"Zone entry and sub-zone limited hunt test","translation":"Test polowania ograniczonego do strefy i podstrefy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_step1_obj_1","source":"Enter mysterious area","translation":"Wejdź na tajemniczy obszar","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_step2","source":"Second step text","translation":"Tekst drugiego etapu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_004_step2_obj_1","source":"Defeat monsters in the mysterious area","translation":"Pokonaj potwory na tajemniczym obszarze","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_complete_desc","source":"Return to Maru and tell the results.","translation":"Wróć do Maru i opowiedz o wynikach.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_quest_short_summary","source":"UseEnvObj, GatherSuccess Test","translation":"Test UseEnvObj, GatherSuccess","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_quest_summary_journal_complete","source":"Quest object collection and gathering success test","translation":"Test zbierania przedmiotu zadania i pomyślnego pozyskiwania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_quest_summary_popup_complete","source":"(Popup text) Quest object collection and gathering success test","translation":"(Tekst okna)Test zbierania przedmiotu zadania i pomyślnego pozyskiwania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_quest_title","source":"UseEnvObj, GatherSuccess Test","translation":"Test UseEnvObj, GatherSuccess","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_step1_obj_1","source":"(Change column)Find the Shugo's belongings","translation":"(Zmień kolumnę)Znajdź dobytek Shugo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_step1_obj_2","source":"(Change column)Defeat the heckler monster","translation":"(Zmień kolumnę)Pokonaj potwora-prześmiewcę","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_step2","source":"(Change column)Confirm quest function","translation":"(Zmień kolumnę)Sprawdź działanie zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_005_step2_obj_1","source":"(Change column)Iron Ore gathering success","translation":"(Zmień kolumnę)Pomyślnie zbierz rudę żelaza","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_complete_desc","source":"Tell Geumdong the results of gathering Iron Ores.","translation":"Opowiedz Geumdongowi o zebraniu rudy żelaza.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_quest_short_summary","source":"CollectItem Test","translation":"Test CollectItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_quest_summary_journal_complete","source":"Gather Iron Ores and show Geumdong","translation":"Zbierz rudę żelaza i pokaż ją Geumdongowi","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_quest_summary_popup_complete","source":"(Popup text)Gather Iron Ores and show Geumdong","translation":"(Tekst okna)Zbierz rudę żelaza i pokaż ją Geumdongowi","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_quest_title","source":"CollectItem Test","translation":"Test CollectItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_006_step1_obj_1","source":"Gather Iron Ores","translation":"Zbierz rudę żelaza","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_complete_desc","source":"Tell Geumdong about the results of confirming the Villain's Mark.","translation":"Opowiedz Geumdongowi o sprawdzeniu Znaku Złoczyńcy.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_quest_short_summary","source":"CollectFakeItem Test","translation":"Test CollectFakeItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_quest_summary_journal_complete","source":"Confirm the function of monster defeat count increasing at a chance","translation":"Sprawdź działanie losowego zwiększania licznika pokonanych potworów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_quest_summary_popup_complete","source":"(Popup text)Confirm the function of monster defeat count increasing at a chance","translation":"(Tekst okna)Sprawdź działanie losowego zwiększania licznika pokonanych potworów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_quest_title","source":"CollectFakeItem Test","translation":"Test CollectFakeItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_007_step1_obj_1","source":"Villain's Mark","translation":"Znak Złoczyńcy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_complete_desc","source":"Politely report to Eunbi","translation":"Uprzejmie zdaj raport Eunbi","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_quest_short_summary","source":"Test: AcceptQuest","translation":"Test: zaakceptuj zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_quest_summary_journal_complete","source":"Test Give: AcceptQuest","translation":"Test: przyznaj — zaakceptuj zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_quest_summary_popup_complete","source":"(Popup text) Test Give: AcceptQuest","translation":"(Tekst okna) Test Give: AcceptQuest","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_quest_title","source":"[Test] Give: AcceptQuest","translation":"[Test] Przyznaj — zaakceptuj zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_008_step1_obj_1","source":"Talk to Dada","translation":"Porozmawiaj z Dadą","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_complete_desc","source":"Politely report to Eunbi","translation":"Uprzejmie zdaj raport Eunbi","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_quest_short_summary","source":"Test: ClearQuest","translation":"Test: ukończ zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_quest_summary_journal_complete","source":"Test Give: ClearQuest","translation":"Test: przyznaj — ukończ zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_quest_summary_popup_complete","source":"(Popup text) Test Give: ClearQuest","translation":"(Tekst okna) Test Give: ClearQuest","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_quest_title","source":"[Test] Give: ClearQuest","translation":"[Test] Przyznaj — ukończ zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_009_step1_obj_1","source":"Talk to Dada","translation":"Porozmawiaj z Dadą","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_complete_desc","source":"Politely report to Eunbi","translation":"Uprzejmie zdaj raport Eunbi","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_quest_short_summary","source":"Test: GetItem","translation":"Test: zdobądź przedmiot","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_quest_summary_journal_complete","source":"Test Give: GetItem","translation":"Test: przyznaj — zdobądź przedmiot","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_quest_summary_popup_complete","source":"(Popup text) Test Give: GetItem","translation":"(Tekst okna) Test Give: GetItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_quest_title","source":"[Test] Give: GetItem","translation":"[Test] Przyznaj — zdobądź przedmiot","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_010_step1_obj_1","source":"Talk to Dada","translation":"Porozmawiaj z Dadą","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_complete_desc","source":"Find Maru","translation":"Znajdź Maru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_quest_short_summary","source":"AskNpc (No Talk) Goal Test","translation":"Test celu AskNpc (bez rozmowy)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_quest_summary_journal_complete","source":"Confirm AskNpc function where conversation entry is not set","translation":"Sprawdź działanie AskNpc, gdy nie ustawiono wpisu rozmowy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_quest_summary_popup_complete","source":"(Popup text) Confirm AskNpc function where conversation entry is not set","translation":"(Tekst okna) Sprawdź działanie AskNpc, gdy nie ustawiono wpisu rozmowy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_quest_title","source":"AskNpc (No Talk) Test","translation":"Test AskNpc (bez rozmowy)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_011_step1_obj_1","source":"View Siru's face","translation":"Obejrzyj twarz Siru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_complete_desc","source":"Find Maru and complete.","translation":"Znajdź Maru i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_quest_short_summary","source":"ClearQuest, ClearQuestStep Test","translation":"Test ClearQuest, ClearQuestStep","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_quest_summary_journal_complete","source":"Confirm how completion by stage of other quests become the goal of this quest","translation":"Sprawdź, jak ukończenie etapów innych zadań staje się celem tego zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_quest_summary_popup_complete","source":"(Popup text) Confirm how completion by stage of other quests become the goal of this quest","translation":"(Tekst okna) Sprawdź, jak ukończenie etapów innych zadań staje się celem tego zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_quest_title","source":"ClearQuest, ClearQuestStep Test","translation":"Test ClearQuest, ClearQuestStep","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_step1_obj_1","source":"\"UseEnvObj, GatherSuccess\" Quest stage 1","translation":"Etap 1 zadania „UseEnvObj, GatherSuccess”","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_step1_obj_2","source":"\"UseEnvObj, GatherSuccess\" Quest stage 2","translation":"Etap 2 zadania „UseEnvObj, GatherSuccess”","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_012_step1_obj_3","source":"\"UseEnvObj, GatherSuccess\" Quest complete","translation":"Ukończenie zadania „UseEnvObj, GatherSuccess”","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_complete_desc","source":"Show Geumdong the Steel Ingot.","translation":"Pokaż Geumdongowi stalową sztabkę.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_quest_short_summary","source":"CraftSuccess Goal Test","translation":"Test celu CraftSuccess","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_quest_summary_journal_complete","source":"Successfully craft Steel Ingot","translation":"Pomyślnie wytwórz stalową sztabkę","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_quest_summary_popup_complete","source":"(Popup text) Successfully craft Steel Ingot","translation":"(Tekst okna)Pomyślnie wytwórz stalową sztabkę","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_quest_title","source":"CraftSuccess Test","translation":"Test CraftSuccess","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_013_step1_obj_1","source":"Craft Steel Ingot","translation":"Wytwórz stalową sztabkę","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_complete_desc","source":"Return to Maru and tell about Siru's expression","translation":"Wróć do Maru i opowiedz o minie Siru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_quest_short_summary","source":"CloseNpc Test","translation":"Test CloseNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_quest_summary_journal_complete","source":"Approach Siru and return to Maru","translation":"Podejdź do Siru, a następnie wróć do Maru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_quest_summary_popup_complete","source":"(Popup text) Approach Siru and return to Maru","translation":"(Tekst okna) Podejdź do Siru, a następnie wróć do Maru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_quest_title","source":"CloseNpc Test","translation":"Test CloseNpc","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_014_step1_obj_1","source":"Approach Siru","translation":"Podejdź do Siru","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_complete_desc","source":"Tell Puru you defeated the Elite and Boss.","translation":"Powiedz Puru, że pokonano elitę i bossa.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_quest_short_summary","source":"KillNpcSubType Test","translation":"Test KillNpcSubType","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_quest_summary_journal_complete","source":"Defeat only the Elite or Boss Monsters","translation":"Pokonaj wyłącznie potwory elitarne lub bossy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_quest_summary_popup_complete","source":"(Popup text) Defeat only the Elite or Boss Monsters","translation":"(Tekst okna) Pokonaj wyłącznie potwory elitarne lub bossy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_quest_title","source":"KillNpcSubType Test","translation":"Test KillNpcSubType","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_step1_obj_1","source":"Defeat Elite Monster","translation":"Pokonaj potwora elitarnego","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_015_step1_obj_2","source":"Defeat Boss Monster","translation":"Pokonaj bossa","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_complete_desc","source":"Tell Pupu you defeated the Undead.","translation":"Powiedz Pupu, że pokonano nieumarłych.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_quest_short_summary","source":"KillNpcRace Test","translation":"Test KillNpcRace","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_quest_summary_journal_complete","source":"Defeat only the Undead Monsters","translation":"Pokonaj wyłącznie nieumarłe potwory","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_quest_summary_popup_complete","source":"(Popup text) Defeat only the Undead Monsters","translation":"(Tekst okna) Pokonaj wyłącznie nieumarłe potwory","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_quest_title","source":"KillNpcRace Test","translation":"Test KillNpcRace","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_016_step1_obj_1","source":"Defeat Undead monster","translation":"Pokonaj nieumarłego potwora","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_complete_desc","source":"Tell Pupu you defeated the Asmodian.","translation":"Powiedz Pupu, że pokonano Asmodianina.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_quest_short_summary","source":"KillNpcTribe Test","translation":"Test KillNpcTribe","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_quest_summary_journal_complete","source":"Defeat only the Asmodian Monsters","translation":"Pokonaj wyłącznie potwory Asmodian","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_quest_summary_popup_complete","source":"(Popup text) Defeat only the Asmodian Monsters","translation":"(Tekst okna) Pokonaj wyłącznie potwory Asmodian","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_quest_title","source":"KillNpcTribe Test","translation":"Test KillNpcTribe","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_017_step1_obj_1","source":"Defeat Asmodian Monster","translation":"Pokonaj potwora Asmodian","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_complete_desc","source":"Tell Pupu you finished various things.","translation":"Powiedz Pupu, że wykonano różne zadania.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_quest_short_summary","source":"Objective integration test","translation":"Test integracji celów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_quest_summary_journal_complete","source":"Defeat the Monster ahead of Pupu or examine object","translation":"Pokonaj potwora przed Pupu albo zbadaj obiekt","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_quest_summary_popup_complete","source":"(Popup text) Defeat the Monster ahead of Pupu or examine object","translation":"(Tekst okna) Pokonaj potwora przed Pupu albo zbadaj obiekt","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_quest_title","source":"Objective integration test","translation":"Test integracji celów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_018_step1","source":"Deal with the Monster or feather near Pupu","translation":"Zajmij się potworem lub piórem w pobliżu Pupu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_complete_desc","source":"Tell Dada how the potion tastes.","translation":"Powiedz Dadzie, jak smakuje mikstura.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_quest_short_summary","source":"UseItem Test","translation":"Test UseItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_quest_summary_journal_complete","source":"Confirm usage function of a single set item","translation":"Sprawdź funkcję użycia pojedynczego ustawionego przedmiotu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_quest_summary_popup_complete","source":"(Popup text) Confirm usage function of a single set item","translation":"(Tekst okna) Sprawdź funkcję użycia pojedynczego ustawionego przedmiotu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_quest_title","source":"UseItem Test","translation":"Test UseItem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_step1","source":"Use an item for survival","translation":"Użyj przedmiotu, aby przetrwać","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_019_step1_obj_1","source":"Use Minor Life Potion","translation":"Użyj małej mikstury życia","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_complete_desc","source":"Tell Dada about the effects of three sips of potion.","translation":"Opowiedz Dadzie o działaniu trzech łyków mikstury.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_quest_short_summary","source":"UseUsableItemType Test","translation":"Test UseUsableItemType","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_quest_summary_journal_complete","source":"Confirm usage count of a designated item type","translation":"Sprawdź liczbę użyć wskazanego rodzaju przedmiotu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_quest_summary_popup_complete","source":"(Popup text) Confirm usage count of a designated item type","translation":"(Tekst okna) Sprawdź liczbę użyć wskazanego rodzaju przedmiotu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_quest_title","source":"UseUsableItemType Test","translation":"Test UseUsableItemType","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_step1","source":"Take potion 3 times","translation":"Wypij miksturę 3 razy","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_020_step1_obj_1","source":"Use Potion","translation":"Użyj mikstury","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_quest_short_summary","source":"Scroll paid, UI complete","translation":"Zadanie za zwoje — interfejs ukończony","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_quest_summary_journal_complete","source":"Scroll paid, UI complete","translation":"Zadanie za zwoje — interfejs ukończony","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_quest_summary_popup_complete","source":"(Popup text) Scroll paid, UI complete","translation":"(Tekst okna) Zadanie za zwoje — interfejs ukończony","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_quest_title","source":"Scroll supply quest","translation":"Zadanie z dostawą zwojów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_step1","source":"Reach level 10","translation":"Osiągnij 10. poziom","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_021_step1_obj_1","source":"Reach Level 10","translation":"Osiągnij 10. poziom","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_complete_desc","source":"Tell Kaka you completed the map event.","translation":"Powiedz Kaka, że ukończono wydarzenie na mapie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_quest_short_summary","source":"Map event link test","translation":"Test odnośnika do wydarzenia na mapie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_quest_summary_journal_complete","source":"Confirm map event link function","translation":"Sprawdź działanie odnośnika do wydarzenia na mapie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_quest_summary_popup_complete","source":"(Popup text) Confirm map event link function","translation":"(Tekst okna) Sprawdź działanie odnośnika do wydarzenia na mapie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_quest_title","source":"Map event link test","translation":"Test odnośnika do wydarzenia na mapie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_step1","source":"Find Kaka","translation":"Znajdź Kaka","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_022_step1_obj_1","source":"Talk to Kaka","translation":"Porozmawiaj z Kaka","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_complete_desc","source":"Talk to Kaka and complete.","translation":"Porozmawiaj z Kaka i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_quest_short_summary","source":"Quest Progress item test","translation":"Test przedmiotu postępu zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_quest_summary_journal_complete","source":"Quest Progress item test","translation":"Test przedmiotu postępu zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_quest_summary_popup_complete","source":"(Popup text) Quest Progress item test","translation":"(Tekst okna) Test przedmiotu postępu zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_quest_title","source":"Quest Progress item test","translation":"Test przedmiotu postępu zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_step1","source":"s SpawnNpcs 2000007 10 Defeat after 200","translation":"s SpawnNpcs 2000007 10 Pokonaj po 200","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_023_step1_obj_1","source":"Obtain Quest Item for test","translation":"Zdobądź testowy przedmiot zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_complete_desc","source":"Talk to the test NPC and complete","translation":"Porozmawiaj z testowym NPC i ukończ zadanie","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_quest_short_summary","source":"EnterVolumePC Test","translation":"Test wejścia postaci w obszar (EnterVolumePC)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_quest_summary_journal_complete","source":"Go to EnterVolumePC's location","translation":"Udaj się do miejsca EnterVolumePC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_quest_summary_popup_complete","source":"(Popup text) EnterVolumePC Test","translation":"(Tekst okna) Test wejścia postaci w obszar (EnterVolumePC)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_quest_title","source":"EnterVolumePC Test","translation":"Test wejścia postaci w obszar (EnterVolumePC)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_024_step1_obj_1","source":"Go to a corner of the stairs on the test map","translation":"Udaj się do rogu schodów na mapie testowej","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_complete_desc","source":"Talk to Nania and complete.","translation":"Porozmawiaj z Nanią i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_quest_short_summary","source":"Single NPC conversation camera test","translation":"Test kamery rozmowy z pojedynczym NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_quest_summary_journal_complete","source":"Single NPC conversation camera test","translation":"Test kamery rozmowy z pojedynczym NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_quest_summary_popup_complete","source":"Single NPC conversation camera test","translation":"Test kamery rozmowy z pojedynczym NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_quest_title","source":"Single NPC conversation camera test","translation":"Test kamery rozmowy z pojedynczym NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_026_step1_obj_1","source":"Talk to the test Luteros","translation":"Porozmawiaj z testową postacią Luteros","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_complete_desc","source":"Talk to Nania and complete.","translation":"Porozmawiaj z Nanią i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_quest_short_summary","source":"Multiple NPCs' conversation camera test","translation":"Test kamery rozmowy z wieloma NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_quest_summary_journal_complete","source":"Multiple NPCs' conversation camera test","translation":"Test kamery rozmowy z wieloma NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_quest_summary_popup_complete","source":"Multiple NPCs' conversation camera test","translation":"Test kamery rozmowy z wieloma NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_quest_title","source":"Multiple NPCs' conversation camera test","translation":"Test kamery rozmowy z wieloma NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_027_step1_obj_1","source":"Talk to the test Luteros","translation":"Porozmawiaj z testową postacią Luteros","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_complete_desc","source":"Talk to the Shugo and complete.","translation":"Porozmawiaj z Shugo i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_quest_short_summary","source":"env interaction item drop test","translation":"Test upuszczania przedmiotu podczas interakcji ze środowiskiem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_quest_summary_journal_complete","source":"env interaction item drop test","translation":"Test upuszczania przedmiotu podczas interakcji ze środowiskiem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_quest_summary_popup_complete","source":"env interaction item drop test","translation":"Test upuszczania przedmiotu podczas interakcji ze środowiskiem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_quest_title","source":"env interaction item drop test","translation":"Test upuszczania przedmiotu podczas interakcji ze środowiskiem","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_028_step1_obj_1","source":"Interact with env and confirm drop","translation":"Wejdź w interakcję z otoczeniem i sprawdź upuszczenie przedmiotu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_complete_desc","source":"Talk to Nania and complete.","translation":"Porozmawiaj z Nanią i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_quest_short_summary","source":"Third person camera 3rd_Right/3rd_Right","translation":"Kamera trzecioosobowa 3rd_Right/3rd_Right","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_quest_summary_journal_complete","source":"Third person camera 3rd_Right/3rd_Right","translation":"Kamera trzecioosobowa 3rd_Right/3rd_Right","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_quest_summary_popup_complete","source":"Third person camera 3rd_Right/3rd_Right","translation":"Kamera trzecioosobowa 3rd_Right/3rd_Right","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_quest_title","source":"Third person camera 3rd_Right/3rd_Right","translation":"Kamera trzecioosobowa 3rd_Right/3rd_Right","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_029_step1_obj_1","source":"Talk to the test Luteros","translation":"Porozmawiaj z testową postacią Luteros","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_complete_desc","source":"Talk to Nania and complete.","translation":"Porozmawiaj z Nanią i ukończ zadanie.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_quest_short_summary","source":"Third person camera PCFocus","translation":"Kamera trzecioosobowa PCFocus","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_quest_summary_journal_complete","source":"Third person camera PCFocus","translation":"Kamera trzecioosobowa PCFocus","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_quest_summary_popup_complete","source":"Third person camera PCFocus","translation":"Kamera trzecioosobowa PCFocus","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_quest_title","source":"Third person camera PCFocus","translation":"Kamera trzecioosobowa PCFocus","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_030_step1_obj_1","source":"Talk to the test Luteros","translation":"Porozmawiaj z testową postacią Luteros","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_quest_short_summary","source":"Transformation - Rollback Quest Test","translation":"Test zadania przemiany i cofania etapów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_quest_summary_journal_complete","source":"Transformation - Rollback Quest Test","translation":"Test zadania przemiany i cofania etapów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_quest_summary_popup_complete","source":"Transformation - Rollback Quest Test","translation":"Test zadania przemiany i cofania etapów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_quest_title","source":"Transformation - Rollback Quest Test","translation":"Test zadania przemiany i cofania etapów","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_step1","source":"Talk to NPC and transform","translation":"Porozmawiaj z NPC i dokonaj przemiany","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_step2","source":"Rollback to step 1 on canceling transformation","translation":"Po anulowaniu przemiany wróć do etapu 1","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_031_step3","source":"Leaving sub zone rolls back to step 1 / dispels Transformation upon failure","translation":"Opuszczenie podstrefy cofa zadanie do etapu 1 / niepowodzenie usuwa przemianę","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_complete_desc","source":"Quest Complete","translation":"Zadanie ukończone","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_quest_short_summary","source":"Voice Test Man","translation":"Test głosu mężczyzny","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_quest_summary_journal_complete","source":"Voice Test Man","translation":"Test głosu mężczyzny","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_quest_summary_popup_complete","source":"Voice Test Man","translation":"Test głosu mężczyzny","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_quest_title","source":"Voice Test Man","translation":"Test głosu mężczyzny","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_032_step1","source":"Talk to NPC","translation":"Porozmawiaj z NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_complete_desc","source":"Quest Complete","translation":"Zadanie ukończone","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_quest_short_summary","source":"Voice Test Shugo","translation":"Test głosu Shugo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_quest_summary_journal_complete","source":"Voice Test Shugo","translation":"Test głosu Shugo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_quest_summary_popup_complete","source":"Voice Test Shugo","translation":"Test głosu Shugo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_quest_title","source":"Voice Test Shugo","translation":"Test głosu Shugo","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_033_step1","source":"Talk to NPC","translation":"Porozmawiaj z NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_complete_desc","source":"Quest Complete","translation":"Zadanie ukończone","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_quest_short_summary","source":"Bind with the Kibelisk.","translation":"Zwiąż się z Kibeiliskiem.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_quest_summary_journal_complete","source":"EngraveTeleportArtifact Test","translation":"Test grawerowania artefaktu teleportacji (EngraveTeleportArtifact)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_quest_summary_popup_complete","source":"EngraveTeleportArtifact Test","translation":"Test grawerowania artefaktu teleportacji (EngraveTeleportArtifact)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_quest_title","source":"EngraveTeleportArtifact Test","translation":"Test grawerowania artefaktu teleportacji (EngraveTeleportArtifact)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_step1","source":"Confirm quest functions","translation":"Sprawdź działanie funkcji zadania","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_step1_obj_1","source":"Bind with Dawn Legion Kibelisk","translation":"Zwiąż się z Kibeiliskiem Legionu Świtu","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_034_step1_obj_2","source":"Talk to NPC","translation":"Porozmawiaj z NPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_quest_short_summary","source":"Test UseFakeItem.","translation":"Test użycia fałszywego przedmiotu.","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_quest_summary_journal_complete","source":"UseFakeItem Test","translation":"Test użycia fałszywego przedmiotu (UseFakeItem)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_quest_summary_popup_complete","source":"UseFakeItem Test","translation":"Test użycia fałszywego przedmiotu (UseFakeItem)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_quest_title","source":"UseFakeItem Test","translation":"Test użycia fałszywego przedmiotu (UseFakeItem)","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step1","source":"Click on HUD_Talk","translation":"Kliknij HUD_Talk","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step1_obj_1","source":"Click","translation":"Kliknij","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step2","source":"Achieve all","translation":"Wykonaj wszystkie cele","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step2_obj_1","source":"Click on HUD_Talk","translation":"Kliknij HUD_Talk","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step2_obj_2","source":"AskNPC","translation":"AskNPC","status":"draft"}
+{"id":"QuestString_TestQuest_All_District_None_037_step2_obj_3","source":"KillNPC","translation":"KillNPC","status":"draft"}

@@ -1,0 +1,250 @@
+{"id": "SkillAbnormalString_SkillAbnormalString_100000011_desc_effect", "source": "-<desc_point>{abe:1000000112:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000112:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000112:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000112:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000011_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000011_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000001_desc_effect", "source": "Immune to Incapacitated effect", "translation": "Odporność na obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000001_desc_name", "source": "Incapacitated Immunity", "translation": "Odporność na obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000001_desc_summary", "source": "Immune to Incapacitated effect", "translation": "Odporność na obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000021_desc_effect", "source": "-<desc_point>{abe:1000000212:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000212:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000212:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000212:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000021_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000021_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000002_desc_effect", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000002_desc_name", "source": "Stagger", "translation": "Zachwianie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000002_desc_summary", "source": "Incapacitated", "translation": "Obezwładnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000031_desc_effect", "source": "-<desc_point>{abe:1000000312:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000312:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000312:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000312:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000031_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000031_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000003_desc_effect", "source": "Fragment of Ea: Protection", "translation": "Fragment ochrony Ea", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000003_desc_name", "source": "Fragment of Ea: Protection", "translation": "Fragment ochrony Ea", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000003_desc_summary", "source": "Fragment of Ea: Protection", "translation": "Fragment ochrony Ea", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000041_desc_effect", "source": "-<desc_point>{abe:1000000412:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000412:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000412:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000412:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000041_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000041_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000004_desc_effect", "source": "Detect Stealth", "translation": "Wykrywanie ukrycia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000004_desc_name", "source": "Focused Eye", "translation": "Skupione oko", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000004_desc_summary", "source": "Detect Stealth", "translation": "Wykrywanie ukrycia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000051_desc_effect", "source": "-<desc_point>{abe:1000000512:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000512:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000512:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000512:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000051_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000051_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000005_desc_effect", "source": "Immortal", "translation": "Nieśmiertelność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000005_desc_name", "source": "Immortal", "translation": "Nieśmiertelność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000005_desc_summary", "source": "Immortal", "translation": "Nieśmiertelność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000061_desc_effect", "source": "-<desc_point>{abe:1000000612:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000612:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000612:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000612:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000061_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000061_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000006_desc_effect", "source": "Does not display damage-taking motion", "translation": "Nie wyświetla animacji otrzymywania obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000006_desc_name", "source": "Ignores damage-taking motion", "translation": "Ignoruje animację otrzymywania obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000006_desc_summary", "source": "Does not display damage-taking motion", "translation": "Nie wyświetla animacji otrzymywania obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000071_desc_effect", "source": "-<desc_point>{abe:1000000712:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000712:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000712:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000712:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000071_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000071_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000007_desc_effect", "source": "Temporarily pauses Stagger progression.", "translation": "Tymczasowo zatrzymuje narastanie zachwiania.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000007_desc_name", "source": "Stagger Paused", "translation": "Narastanie zachwiania zatrzymane", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000007_desc_summary", "source": "Stagger Paused", "translation": "Narastanie zachwiania zatrzymane", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000081_desc_effect", "source": "-<desc_point>{abe:1000000812:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000812:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000812:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000812:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000081_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000081_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000008_desc_effect", "source": "<desc_point>{abe:100000081:value02:divide100}%</> Move Speed\n<desc_point>{abe:100000082:value02:divide100}%</> Spell Action Speed\n<desc_point>{abe:100000083:value02:divide100}%</> Combat Speed\n<desc_point>{abe:100000084:value02:divide100}%</> Damage Boost", "translation": "<desc_point>{abe:100000081:value02:divide100}%</> Szybkość ruchu\n<desc_point>{abe:100000082:value02:divide100}%</> Szybkość rzucania zaklęć\n<desc_point>{abe:100000083:value02:divide100}%</> Szybkość walki\n<desc_point>{abe:100000084:value02:divide100}%</> Premia do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000008_desc_name", "source": "Frenzy", "translation": "Szał", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000008_desc_summary", "source": "Frenzied Boss", "translation": "Rozwścieczony boss", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000091_desc_effect", "source": "-<desc_point>{abe:1000000912:value02:divide100abs}%</> Move Speed\n-<desc_point>{abe:1000000912:value02:divide100abs}%</> Flight Speed", "translation": "-<desc_point>{abe:1000000912:value02:divide100abs}%</> Szybkość ruchu\n-<desc_point>{abe:1000000912:value02:divide100abs}%</> Szybkość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000091_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000091_desc_summary", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000010_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000010_desc_name", "source": "HP Regen when HP is 1% or less", "translation": "Regeneruje PŻ, gdy jego poziom wynosi 1% lub mniej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000010_desc_summary", "source": "Restores HP when HP is 1% or less", "translation": "Przywraca PŻ, gdy jego poziom wynosi 1% lub mniej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000111_desc_effect", "source": "-<desc_point>{abe:1000001112:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001112:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000111_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000111_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000121_desc_effect", "source": "-<desc_point>{abe:1000001212:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001212:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000121_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000121_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000131_desc_effect", "source": "-<desc_point>{abe:1000001312:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001312:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000131_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000131_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000141_desc_effect", "source": "-<desc_point>{abe:1000001412:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001412:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000141_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000141_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000151_desc_effect", "source": "-<desc_point>{abe:1000001512:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001512:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000151_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000151_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000015_desc_effect", "source": "Goes into Frenzy when the effect ends\nFrenzy after 10 minutes", "translation": "Po zakończeniu efektu wpada w szał\nSzał po 10 minutach", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000015_desc_name", "source": "Frenzy", "translation": "Szał", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000015_desc_summary", "source": "Frenzy after 10 minutes", "translation": "Szał po 10 minutach", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000161_desc_effect", "source": "-<desc_point>{abe:1000001612:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001612:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000161_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000161_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000016_desc_effect", "source": "Combat Speed increase\nDamage increase\nAccuracy increase", "translation": "Zwiększenie szybkości walki\nZwiększenie obrażeń\nZwiększenie celności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000016_desc_name", "source": "Frenzy", "translation": "Szał", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000016_desc_summary", "source": "Accelerates boss and damage increase", "translation": "Przyspiesza bossa i zwiększa jego obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000171_desc_effect", "source": "-<desc_point>{abe:1000001712:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001712:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000171_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000171_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000181_desc_effect", "source": "-<desc_point>{abe:1000001812:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001812:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000181_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000181_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000191_desc_effect", "source": "-<desc_point>{abe:1000001912:value02:divide100abs}%</> Attack Speed", "translation": "-<desc_point>{abe:1000001912:value02:divide100abs}%</> Szybkość ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000191_desc_name", "source": "Lethargy", "translation": "Ospałość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000191_desc_summary", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000201_desc_effect", "source": "Immobilized", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000201_desc_name", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000201_desc_summary", "source": "Immobilized", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000301_desc_effect", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000301_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000301_desc_summary", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000311_desc_effect", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000311_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000311_desc_summary", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000321_desc_effect", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000321_desc_name", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000321_desc_summary", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000331_desc_effect", "source": "-<desc_point>{abe:1000003312:value02:divide100abs}%</> Damage Tolerance\nAirborne Status", "translation": "-<desc_point>{abe:1000003312:value02:divide100abs}%</> Odporność na obrażenia\nStatus w powietrzu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000331_desc_name", "source": "Airborne", "translation": "Podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000331_desc_summary", "source": "Damage Tolerance reduction and Airborne Status", "translation": "Zmniejszenie odporności na obrażenia i podrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000411_desc_effect", "source": "Knock Back Status", "translation": "Stan odrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000411_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000411_desc_summary", "source": "Knock Back Status", "translation": "Stan odrzucenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000054_desc_effect", "source": "<desc_point>{abe:100000541:value02:divide100}%</> resistance to HP absorption from Active Skills", "translation": "<desc_point>{abe:100000541:value02:divide100}%</> odporności na pochłanianie PŻ przez umiejętności aktywne", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000054_desc_name", "source": "Lifesteal Resist", "translation": "Odporność na kradzież życia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000054_desc_summary", "source": "Active Skill HP Absorption Resistance", "translation": "Odporność na pochłanianie PŻ przez umiejętności aktywne", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000701_desc_effect", "source": "Blind Status", "translation": "Stan oślepienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000701_desc_name", "source": "Blind", "translation": "Oślepienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000701_desc_summary", "source": "Blind Status", "translation": "Stan oślepienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000801_desc_effect", "source": "Seal Status", "translation": "Stan uciszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000801_desc_name", "source": "Seal", "translation": "Uciszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000801_desc_summary", "source": "Seal Status", "translation": "Stan uciszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000901_desc_effect", "source": "Taunt Status", "translation": "Stan prowokacji", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000901_desc_name", "source": "Taunt", "translation": "Prowokacja", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000901_desc_summary", "source": "Taunt Status", "translation": "Stan prowokacji", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000_desc_effect", "source": "+<desc_point>{abe:1000001:value02}</> Physical Attack", "translation": "+<desc_point>{abe:1000001:value02}</> Atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000_desc_name", "source": "Physical Attack Increase", "translation": "Zwiększenie ataku fizycznego", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100000_desc_summary", "source": "Increases Physical Attack", "translation": "Zwiększa atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001001_desc_effect", "source": "-<desc_point>{abe:1000010011:value02:divide100abs}%</> Damage Boost", "translation": "-<desc_point>{abe:1000010011:value02:divide100abs}%</> Premia do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001001_desc_name", "source": "Wounded", "translation": "Ranny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001001_desc_summary", "source": "Reduces Damage Boost", "translation": "Zmniejsza premię do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000101_desc_effect", "source": "Ariel's Curse: Attack reduction\nAriel's Curse: Spacetime Rift Disabled", "translation": "Klątwa Ariel: zmniejszenie ataku\nKlątwa Ariel: wyłączona Szczelina Czasoprzestrzenna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000101_desc_name", "source": "Ariel's Curse", "translation": "Klątwa Ariel", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000101_desc_summary", "source": "Reduces Stats, disables Spacetime Rift Use", "translation": "Zmniejsza statystyki i uniemożliwia korzystanie ze Szczeliny Czasoprzestrzennej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000102_desc_effect", "source": "Ariel's Divine Punishment: Attack reduction\nAriel's Divine Punishment: Spacetime Rift Disabled\nAriel's Divine Punishment: Kisk Disabled", "translation": "Boska kara Ariel: zmniejszenie ataku\nBoska kara Ariel: wyłączona Szczelina Czasoprzestrzenna\nBoska kara Ariel: wyłączony Kisk", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000102_desc_name", "source": "Ariel's Divine Punishment", "translation": "Boska kara Ariel", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000102_desc_summary", "source": "Reduces Stats, disables Spacetime Rift / Kisk Use", "translation": "Zmniejsza statystyki i uniemożliwia korzystanie ze Szczeliny Czasoprzestrzennej oraz Kiska", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000103_desc_effect", "source": "Azphel's Curse: Attack reduction\nAzphel's Curse: Spacetime Rift Disabled", "translation": "Klątwa Azphela: zmniejszenie ataku\nKlątwa Azphela: wyłączona Szczelina Czasoprzestrzenna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000103_desc_name", "source": "Azphel's Curse", "translation": "Klątwa Azphela", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000103_desc_summary", "source": "Reduces Stats, disables Spacetime Rift Use", "translation": "Zmniejsza statystyki i uniemożliwia korzystanie ze Szczeliny Czasoprzestrzennej", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000104_desc_effect", "source": "Azphel's Divine Punishment: Attack reduction\nAzphel's Divine Punishment: Spacetime Rift Disabled\nAzphel's Divine Punishment: Kisk Disabled", "translation": "Boska kara Azphela: zmniejszenie ataku\nBoska kara Azphela: wyłączona Szczelina Czasoprzestrzenna\nBoska kara Azphela", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000104_desc_name", "source": "Azphel's Divine Punishment", "translation": "Boska kara Azphela", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000104_desc_summary", "source": "Reduces Stats, disables Spacetime Rift / Kisk Use", "translation": "Zmniejsza statystyki i uniemożliwia korzystanie ze Szczeliny Czasoprzestrzennej oraz Kiska", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001301_desc_effect", "source": "Weakened Block and Evasion", "translation": "Osłabiona blokada i unik", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001301_desc_name", "source": "Exposed", "translation": "Odsłonięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100001301_desc_summary", "source": "Exposed status", "translation": "Stan odsłonięcia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000201_desc_effect", "source": "Entered the Elyos camp. Damage dealt to Elyos is reduced by a small amount.", "translation": "Wkroczono do obozu Elyosów. Zadawane im obrażenia są nieznacznie zmniejszone.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000201_desc_name", "source": "Ariel's Gaze", "translation": "Spojrzenie Ariel", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000201_desc_summary", "source": "Entered the Elyos camp. Damage dealt to Elyos is reduced by a small amount.", "translation": "Wkroczono do obozu Elyosów. Zadawane im obrażenia są nieznacznie zmniejszone.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000202_desc_effect", "source": "Entered the Asmodian camp. Damage dealt to Asmodians is reduced by a small amount.", "translation": "Wkroczono do obozu Asmodian. Zadawane im obrażenia są nieznacznie zmniejszone.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000202_desc_name", "source": "Azphel's Gaze", "translation": "Spojrzenie Azphela", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000202_desc_summary", "source": "Entered the Asmodian camp. Damage dealt to Asmodians is reduced by a small amount.", "translation": "Wkroczono do obozu Asmodian. Zadawane im obrażenia są nieznacznie zmniejszone.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100002_desc_effect", "source": "Increases Physical Attack", "translation": "Zwiększa atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100002_desc_name", "source": "Physical Attack Increase", "translation": "Zwiększenie ataku fizycznego", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100002_desc_summary", "source": "Increases Physical Attack", "translation": "Zwiększa atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100003_desc_effect", "source": "Reduces Physical Attack", "translation": "Zmniejsza atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100003_desc_name", "source": "Enhanced Threat", "translation": "Zwiększone zagrożenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100003_desc_summary", "source": "Reduces Physical Attack", "translation": "Zmniejsza atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000_desc_effect", "source": "+<desc_point>{abe:100001:value02}</> Defense", "translation": "+<desc_point>{abe:100001:value02}</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000_desc_name", "source": "Account Security", "translation": "Ochrona konta", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10000_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001020_desc_effect", "source": "Transformed into a Kobold", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001020_desc_name", "source": "Kobold Transformation", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001020_desc_summary", "source": "Kobold Transformation", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001030_desc_effect", "source": "Transformed into a Kobold", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001030_desc_name", "source": "Kobold Transformation", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001030_desc_summary", "source": "Kobold Transformation", "translation": "Przemiana w Kobolda", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001040_desc_effect", "source": "Transformed into an Aullaeu", "translation": "Przemiana w Aullaeu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001040_desc_name", "source": "Aullaeu Transformation", "translation": "Przemiana w Aullaeu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001040_desc_summary", "source": "Aullaeu Transformation", "translation": "Przemiana w Aullaeu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001050_desc_effect", "source": "Transformed into a Mumu", "translation": "Przemiana w Mumu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001050_desc_name", "source": "Mumu Transformation", "translation": "Przemiana w Mumu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001050_desc_summary", "source": "Mumu Transformation", "translation": "Przemiana w Mumu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001060_desc_effect", "source": "Transformed into a Mau", "translation": "Przemiana w Mau", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001060_desc_name", "source": "Mau Transformation", "translation": "Przemiana w Mau", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001060_desc_summary", "source": "Mau Transformation", "translation": "Przemiana w Mau", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001070_desc_effect", "source": "Transformed into a Balaur", "translation": "Przemiana w Balaura", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001070_desc_name", "source": "Balaur Transformation", "translation": "Przemiana w Balaura", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001070_desc_summary", "source": "Balaur Transformation", "translation": "Przemiana w Balaura", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100010_desc_effect", "source": "+<desc_point>{abe:1000101:value02}</> Physical Attack", "translation": "+<desc_point>{abe:1000101:value02}</> Atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100010_desc_name", "source": "Physical Attack Increase", "translation": "Zwiększenie ataku fizycznego", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100010_desc_summary", "source": "Increases Physical Attack", "translation": "Zwiększa atak fizyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100011_desc_effect", "source": "+<desc_point>{abe:1000111:value02}</> Physical Defense", "translation": "+<desc_point>{abe:1000111:value02}</> Obrona fizyczna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100011_desc_name", "source": "Defense Increase", "translation": "Zwiększenie obrony", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100011_desc_summary", "source": "Increases Physical Defense", "translation": "Zwiększa obronę fizyczną", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001_desc_effect", "source": "Regen 5% HP and MP every 2 seconds", "translation": "Regeneruje 5% PŻ i PM co 2 sekundy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001_desc_name", "source": "Rest", "translation": "Odpoczynek", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10001_desc_summary", "source": "Quickly restores HP and MP.", "translation": "Szybko przywraca PŻ i PM.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100020_desc_effect", "source": "Stun, Airborne, Taunt, Knockdown Resist <desc_point>{abe:1000201:value02:divide100}%</>", "translation": "Odporność na ogłuszenie, podrzucenie, prowokację i powalenie <desc_point>{abe:1000201:value02:divide100}%</>", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100020_desc_name", "source": "Blade Toss [Fragile]", "translation": "Rzut ostrzem [kruchość]", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100020_desc_summary", "source": "Reduces Stun, Airborne, Taunt, Knockdown Resist", "translation": "Zmniejsza odporność na ogłuszenie, podrzucenie, prowokację i powalenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100030_desc_effect", "source": "<desc_point>{abe:1000301:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:1000301:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100030_desc_name", "source": "Blade Toss", "translation": "Rzut ostrzem", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100030_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10003701_desc_effect", "source": "Immobilized", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10003701_desc_name", "source": "Ensnaring Trap", "translation": "Pułapka unieruchamiająca", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10003701_desc_summary", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004001_desc_effect", "source": "Stun Resist Increase 50.0%.\nImmobilize Resist Increase 50.0%.\nAirborne Resist Increase 50.0%.\nTaunt Resist Increase +50.0%.\nSilence Resist Increase 50.0%.\nKnockdown Resist Increase +50.0%.", "translation": "Zwiększenie odporności na ogłuszenie 50.0%.\nZwiększenie odporności na unieruchomienie 50.0%.\nZwiększenie odporności na podrzucenie 50.0%.\nZwiększenie odporności na prowokację +50.0%.\nZwiększenie odporności na uciszenie 50.0%.\nZwiększenie odporności na powalenie +50.0%.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004001_desc_name", "source": "Armor of Balance", "translation": "Pancerz równowagi", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004001_desc_summary", "source": "Increases CC Resist", "translation": "Zwiększa odporność na efekty kontroli tłumu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100040_desc_effect", "source": "<desc_point>{abe:1000401:value02:divide100}%</> Physical Damage Tolerance", "translation": "<desc_point>{abe:1000401:value02:divide100}%</> Fizyczna odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100040_desc_name", "source": "Blade Toss", "translation": "Rzut ostrzem", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100040_desc_summary", "source": "Reduces Physical Damage Tolerance", "translation": "Zmniejsza odporność na obrażenia fizyczne", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004_desc_effect", "source": "+5 Attack\n+20 Defense\n+5% Kina Gain", "translation": "+5 do ataku\n+20 do obrony\n+5% do zdobywanej Kiny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004_desc_name", "source": "PC Cafe Premium Benefits", "translation": "Korzyści premium kafejki PC", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10004_desc_summary", "source": "+5 Attack, +20 Defense, +5% Kina Gain", "translation": "+5 do ataku, +20 do obrony, +5% do zdobywanej Kiny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10005001_desc_effect", "source": "Common NPC Skill - Slowing Trap Unique Stealth - Stealth Function (Rank 1)", "translation": "Typowa umiejętność NPC — spowalniająca pułapka; unikalne ukrycie — funkcja ukrycia (ranga 1)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100050_desc_effect", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100050_desc_name", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100050_desc_summary", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100060_desc_effect", "source": "Next skill lands as a Critical Hit", "translation": "Następna umiejętność zadaje cios krytyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100060_desc_name", "source": "Vulnerable", "translation": "Podatność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100060_desc_summary", "source": "Next skill lands as a Critical Hit", "translation": "Następna umiejętność zadaje cios krytyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100070_desc_effect", "source": "+<desc_point>{abe:1000701:value02}</> Weapon Block", "translation": "+<desc_point>{abe:1000701:value02}</> Blokowanie broni", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100070_desc_name", "source": "Weapon Block Increase", "translation": "Zwiększenie blokowania broni", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100070_desc_summary", "source": "Increases Weapon Block", "translation": "Zwiększa blokowanie broni", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100080_desc_effect", "source": "+<desc_point>{abe:1000801:value02:divide100}%</> Move Speed", "translation": "+<desc_point>{abe:1000801:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100080_desc_name", "source": "Move Speed Increase", "translation": "Zwiększenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100080_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100090_desc_effect", "source": "-<desc_point>{abe:1000901:value02:divide100}%</> Move Speed", "translation": "-<desc_point>{abe:1000901:value02:divide100}%</> Szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100090_desc_name", "source": "Move Speed Reduction", "translation": "Zmniejszenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100090_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_1000_desc_effect", "source": "Parry Successful", "translation": "Udana parada", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_1000_desc_name", "source": "Parry Status", "translation": "Stan parowania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_1000_desc_summary", "source": "Parry", "translation": "Parowanie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100001_desc_effect", "source": "+<desc_point>{abe:1001000011:value02:divide100}%</> Defense", "translation": "+<desc_point>{abe:1001000011:value02:divide100}%</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100001_desc_name", "source": "Assault", "translation": "Szturm", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100001_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100002_desc_effect", "source": "+<desc_point>{abe:1001000021:value02:divide100}%</> Defense", "translation": "+<desc_point>{abe:1001000021:value02:divide100}%</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100002_desc_name", "source": "Assault", "translation": "Szturm", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100002_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100003_desc_effect", "source": "+<desc_point>{abe:1001000031:value02:divide100}%</> Defense", "translation": "+<desc_point>{abe:1001000031:value02:divide100}%</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100003_desc_name", "source": "Assault", "translation": "Szturm", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100003_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100004_desc_effect", "source": "+<desc_point>{abe:1001000041:value02:divide100}%</> Defense", "translation": "+<desc_point>{abe:1001000041:value02:divide100}%</> Obrona", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100004_desc_name", "source": "Assault", "translation": "Szturm", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100004_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100101_desc_effect", "source": "+<desc_point>{abe:1001001011:value02:divide100}%</> Attack", "translation": "+<desc_point>{abe:1001001011:value02:divide100}%</> Atak", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100101_desc_name", "source": "Assault", "translation": "Szturm", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100100101_desc_summary", "source": "Increases Attack", "translation": "Zwiększa atak", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10010701_desc_effect", "source": "Combat Speed increase", "translation": "Zwiększenie szybkości walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10010701_desc_name", "source": "Power of the Storm", "translation": "Potęga burzy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10010701_desc_summary", "source": "Combat Speed increase", "translation": "Zwiększenie szybkości walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10011_desc_effect", "source": "+<desc_point>{abe:100111:value02:divide100}%</> PvE Damage Tolerance", "translation": "+<desc_point>{abe:100111:value02:divide100}%</> Odporność na obrażenia PvE", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10011_desc_name", "source": "Tempered Soul", "translation": "Hartowana dusza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10011_desc_summary", "source": "Increases PvE Damage Tolerance for a fixed duration after resurrection", "translation": "Po wskrzeszeniu na określony czas zwiększa odporność na obrażenia PvE", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100120_desc_effect", "source": "-<desc_point>{abe:1001201:value02:divide100}</> Damage Taken", "translation": "-<desc_point>{abe:1001201:value02:divide100}</> Otrzymywane obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100120_desc_name", "source": "Damage Taken reduction", "translation": "Zmniejszenie otrzymywanych obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_100120_desc_summary", "source": "Reduces Damage Taken", "translation": "Zmniejsza otrzymywane obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012401_desc_effect", "source": "<desc_point>{abe:4038011:value02}</>\nPhysical Critical Hit<desc_point>{abe:4038012:value02:divide100}%</>\n Move Speed<desc_point>{abe:4038013:value02:divide100}%</> Combat Speed", "translation": "<desc_point>{abe:4038011:value02}</>\nFizyczny cios krytyczny<desc_point>{abe:4038012:value02:divide100}%</>\n Szybkość ruchu<desc_point>{abe:4038013:value02:divide100}%</> Szybkość walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012401_desc_name", "source": "Zikel's Blessing", "translation": "Błogosławieństwo Zikela", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012401_desc_summary", "source": "Increases Physical Critical Hit, Move Speed and Combat Speed", "translation": "Zwiększa szansę na fizyczny cios krytyczny, szybkość ruchu i szybkość walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012501_desc_effect", "source": "Stun Status", "translation": "Stan ogłuszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012501_desc_name", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012501_desc_summary", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012801_desc_name", "source": "Combustion", "translation": "Spalanie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10012801_desc_summary", "source": "Deals Damage over Time", "translation": "Zadaje obrażenia w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_10013001_desc_effect", "source": "Heal over Time", "translation": "Leczenie w czasie", "status": "draft"}

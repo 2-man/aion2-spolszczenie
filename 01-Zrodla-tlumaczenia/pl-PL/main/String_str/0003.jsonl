@@ -1,0 +1,250 @@
+{"id": "String_STR_ARCANA_MIRROR_A_SET_003_B_body", "source": "Mirror of Frenzy", "translation": "Lustro szału", "status": "draft"}
+{"id": "String_STR_ARCANA_MIRROR_A_SET_004_B_body", "source": "Mirror of Purity", "translation": "Lustro czystości", "status": "draft"}
+{"id": "String_STR_ARCANA_MIRROR_A_SET_005_B_body", "source": "Mirror of Punishment", "translation": "Lustro kary", "status": "draft"}
+{"id": "String_STR_ARCANA_MIRROR_A_SET_006_B_body", "source": "Mirror of Protection", "translation": "Lustro ochrony", "status": "draft"}
+{"id": "String_STR_ARCANA_MIRROR_A_SET_007_B_body", "source": "Mirror of Indomitability", "translation": "Lustro niezłomności", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_001_B_body", "source": "Parchment of Vigor", "translation": "Pergamin wigoru", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_002_B_body", "source": "Parchment of Magic", "translation": "Pergamin magii", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_003_B_body", "source": "Parchment of Frenzy", "translation": "Pergamin szału", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_004_B_body", "source": "Parchment of Purity", "translation": "Pergamin czystości", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_005_B_body", "source": "Parchment of Punishment", "translation": "Pergamin kary", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_006_B_body", "source": "Parchment of Protection", "translation": "Pergamin ochrony", "status": "draft"}
+{"id": "String_STR_ARCANA_PARCHMENT_A_SET_007_B_body", "source": "Parchment of Indomitability", "translation": "Pergamin niezłomności", "status": "draft"}
+{"id": "String_STR_ARCANA_POPUP_ENCHANT_GUIDE_SUBSTAT_UPGRADE_RANDOM_DETAIL_body", "source": "Effects that are not fixed are not displayed.", "translation": "Niezablokowane efekty nie są wyświetlane.", "status": "draft"}
+{"id": "String_STR_ARCANA_POPUP_ENCHANT_GUIDE_SUBSTAT_UPGRADE_RANDOM_TITLE_body", "source": "Enhanceable Stats per Level", "translation": "Statystyki możliwe do ulepszenia na poziom", "status": "draft"}
+{"id": "String_STR_ARCANA_RANDOM_STATS_INFO_body", "source": "Rounded to the second decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Zaokrąglono do drugiego miejsca po przecinku.\nZ powodu zaokrągleń suma prawdopodobieństw może nie wynosić 100%.", "status": "draft"}
+{"id": "String_STR_ARCANA_RANDOM_STATS_LIST_body", "source": "Obtainable Effects", "translation": "Dostępne efekty", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_SINGLE_DESC_body", "source": "A 1 vs 1 battle where victory is achieved by defeating your enemy first within the time limit.", "translation": "Walka 1 na 1, w której wygrywa osoba, która jako pierwsza pokona przeciwnika przed upływem limitu czasu.", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_SINGLE_TITLE_body", "source": "Arena of Solitude", "translation": "Arena Samotności", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_STRATEGY_DESC_body", "source": "A 10 vs 10 battle conducted under equal conditions, where victory is determined by following the rules of each game mode.", "translation": "Walka 10 na 10 na równych warunkach. O zwycięstwie decyduje przestrzeganie zasad danego trybu.", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_STRATEGY_TITLE_body", "source": "Arena of Tactics", "translation": "Arena Taktyki", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_TEAM_DESC_body", "source": "A 5 vs 5 battle where victory is achieved by defeating all members of the enemy team first.", "translation": "Walka 5 na 5, w której wygrywa drużyna, która jako pierwsza pokona wszystkich przeciwników.", "status": "draft"}
+{"id": "String_STR_ARENA_TYPE_TEAM_TITLE_body", "source": "Arena of Cooperation", "translation": "Arena Współpracy", "status": "draft"}
+{"id": "String_STR_ASCENSIONDUNGEON_OUT_BODY_body", "source": "You are about to leave the Ascension Dungeon.\nDungeon progress will be reset.\nProceed?", "translation": "Za chwilę opuścisz Loch Wniebowstąpienia.\nPostęp w lochu zostanie zresetowany.\nKontynuować?", "status": "draft"}
+{"id": "String_STR_ASCENSION_UPGRADE_body", "source": "Ascension Complete {0}", "translation": "Wniebowstąpienie ukończone: {0}", "status": "draft"}
+{"id":"String_STR_AUTOUSE_Auto_body","source":"AUTO","translation":"Automatycznie","status":"draft"}
+{"id": "String_STR_AUTOUSE_PvE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_STR_AUTOUSE_PvP_body", "source": "PvP", "translation": "PvP", "status": "draft"}
+{"id": "String_STR_AWAKENDUNGEON_OUT_BODY_body", "source": "You are about to leave the Ascension Trial.\nDungeon progress will be reset.\nProceed?", "translation": "Za chwilę opuścisz Próbę Wniebowstąpienia.\nPostęp w lochu zostanie zresetowany.\nKontynuować?", "status": "draft"}
+{"id": "String_STR_AbyssEvent_body", "source": "Air Raid will soon begin.", "translation": "Wkrótce rozpocznie się nalot.", "status": "draft"}
+{"id": "String_STR_AlsigHill_Subzone_body", "source": "Iralcig Highland", "translation": "Wyżyna Iralcig", "status": "draft"}
+{"id": "String_STR_AlsigOutpost_Subzone_body", "source": "Iralcig Outpost", "translation": "Posterunek Iralcig", "status": "draft"}
+{"id": "String_STR_AncientEle_01_body", "source": "Ancient Spirit", "translation": "Pradawny duch", "status": "draft"}
+{"id": "String_STR_Area_Not_Usable_Item_Info_body", "source": "Entered a region where potion auto-use is restricted.", "translation": "Wkroczono do obszaru, w którym automatyczne używanie mikstur jest ograniczone.", "status": "draft"}
+{"id": "String_STR_ArkanisSkyTempleCircus_Subzone_body", "source": "Floating Temple of Arkanis Plaza", "translation": "Plac Pływającej Świątyni Arkanis", "status": "draft"}
+{"id": "String_STR_ArkanisSkyTempleEntrance_Subzone_body", "source": "Floating Temple of Arkanis Entrance", "translation": "Wejście do Pływającej Świątyni Arkanis", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_1_body", "source": "Path of the Incomplete Daeva", "translation": "Ścieżka niekompletnej daevy", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_2_body", "source": "Daeva, Forgotten Strength Regained", "translation": "Daeva, odzyskana zapomniana siła", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_3_body", "source": "Opening the Way to a New Ascension", "translation": "Otwarcie drogi do nowego wniebowstąpienia", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_4_body", "source": "Pursuing the Arch Daeva Dream", "translation": "W pogoni za marzeniem o arcydaevie", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_5_body", "source": "Receiving the Empyrean Lords' Might", "translation": "Przyjęcie mocy Władców Empyrejskich", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_6_body", "source": "Worth Proven Beyond the Abyss", "translation": "Wartość dowiedziona poza Otchłanią", "status": "draft"}
+{"id": "String_STR_Ascension_Grade_7_body", "source": "Arch Daeva", "translation": "Arcydaeva", "status": "draft"}
+{"id": "String_STR_AshenOutpost_Subzone_body", "source": "Ashen Outpost", "translation": "Popielny posterunek", "status": "draft"}
+{"id": "String_STR_Assassin_Skill025_Fog_body", "source": "Smokescreen", "translation": "Zasłona dymna", "status": "draft"}
+{"id": "String_STR_AutoTargetType_AggresiveMonster_body", "source": "Aggressive Hostile NPC, Monster", "translation": "Agresywny wrogi NPC lub potwór", "status": "draft"}
+{"id": "String_STR_AutoTargetType_AttackingMonster_body", "source": "NPC and Monsters Attacking Me", "translation": "Atakujący mnie NPC i potwory", "status": "draft"}
+{"id": "String_STR_AutoTargetType_AttackingPC_body", "source": "Players Attacking Me", "translation": "Atakujący mnie gracze", "status": "draft"}
+{"id": "String_STR_AutoTargetType_ENEMY_AttackingPC_Summon_body", "source": "Player Spirits Attacking Me", "translation": "Atakujące mnie duchy graczy", "status": "draft"}
+{"id": "String_STR_AutoTargetType_ENEMY_PLAYER_Summon_body", "source": "Hostile Player Spirits", "translation": "Wrogie duchy graczy", "status": "draft"}
+{"id": "String_STR_AutoTargetType_ENEMY_PLAYER_body", "source": "Hostile Players", "translation": "Wrodzy gracze", "status": "draft"}
+{"id": "String_STR_AutoTargetType_EliteMonster_body", "source": "Hostile Elite NPC, Monster", "translation": "Wrogi elitarny NPC lub potwór", "status": "draft"}
+{"id": "String_STR_AutoTargetType_FRIENDLY_PLAYER_body", "source": "Friendly Faction Player", "translation": "Przyjazny gracz", "status": "draft"}
+{"id": "String_STR_AutoTargetType_Gather_body", "source": "Gatherable Material", "translation": "Surowiec do zebrania", "status": "draft"}
+{"id": "String_STR_AutoTargetType_HostaleGuildPC_body", "source": "Hostile Legion Players", "translation": "Wrodzy gracze z Legionu", "status": "draft"}
+{"id": "String_STR_AutoTargetType_Monster_body", "source": "Hostile Common NPC, Monster", "translation": "Wrogi zwykły NPC lub potwór", "status": "draft"}
+{"id": "String_STR_AutoTargetType_MyGuildPC_body", "source": "My Legion Players", "translation": "Gracze z mojego Legionu", "status": "draft"}
+{"id": "String_STR_AutoTargetType_MyPartyPC_body", "source": "My Party Players", "translation": "Gracze z mojej Drużyny", "status": "draft"}
+{"id": "String_STR_AutoTargetType_NamedMonster_body", "source": "Hostile Unique NPC, Monster", "translation": "Wrogi unikalny NPC lub potwór", "status": "draft"}
+{"id": "String_STR_AutoTargetType_QuestMonster_body", "source": "Hostile Quest NPC, Monster, Object", "translation": "Wrogi NPC, potwór lub obiekt zadania", "status": "draft"}
+{"id": "String_STR_AutoTargetType_QuestObject_Mark_body", "source": "Selected Quest Target", "translation": "Wybrany cel zadania", "status": "draft"}
+{"id": "String_STR_AutoTargetType_QuestObject_body", "source": "Quest Target", "translation": "Cel zadania", "status": "draft"}
+{"id": "String_STR_AutoTargetType_Scan_body", "source": "Scan Number", "translation": "Numer skanowania", "status": "draft"}
+{"id": "String_STR_AutoTargetType_SkillTarget_body", "source": "Targets Already Hit or Aimed Hostile Targets", "translation": "Trafione cele lub namierzone cele wrogie", "status": "draft"}
+{"id": "String_STR_BACKBUTTON_GAME_CLOSE_body", "source": "Do you want to exit the game?", "translation": "Czy chcesz wyjść z gry?", "status": "draft"}
+{"id": "String_STR_BASIC_Lycan_01_body", "source": "Black Claw Mau Fighter (Specimen)", "translation": "Wojownik Black Claw Mau (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_Lycan_02_body", "source": "Black Claw Mau Healer (Specimen)", "translation": "Uzdrowiciel Black Claw Mau (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_Lycan_03_body", "source": "Black Claw Mau Sentry (Specimen)", "translation": "Wartownik Black Claw Mau (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_Lycan_04_body", "source": "Black Claw Mau Shaman (Specimen)", "translation": "Szaman Black Claw Mau (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_Lycan_05_body", "source": "Black Claw Mau Combat Leader (Specimen)", "translation": "Dowódca bojowy Black Claw Mau (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_M_Berc_01_Arm_body", "source": "Berk Arm (Specimen)", "translation": "Ramię Berka (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_M_DaevaArc_01_CV01_body", "source": "Encroached Daeva Patrol (Specimen)", "translation": "Patrol Daeva pod wpływem skażenia (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_M_DranaVar_03_CV01_body", "source": "Faded Drana Predator (Specimen)", "translation": "Wyblakły drapieżnik Drana (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_M_DranaVar_03_body", "source": "Drana Predator (Specimen)", "translation": "Drapieżnik Drana (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_M_EvDummy_01_body", "source": "Daeva Wraith Corpse Pile (Specimen)", "translation": "Sterta zwłok widma Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Crack_01_body", "source": "Rift Fissure (Specimen)", "translation": "Szczelina rozdarcia (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Dymones_01_body", "source": "Dymones (Specimen)", "translation": "Dymones (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Echo_01_body", "source": "Ecco (Specimen)", "translation": "Ecco (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Elim_01_body", "source": "Elim 1 (Specimen)", "translation": "Elim 1 (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Elim_03_body", "source": "Elim 2 (Specimen)", "translation": "Elim 2 (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Chloris_01_body", "source": "Chloris (Specimen)", "translation": "Chloris (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Creion_04_body", "source": "Creion Female Default 2_Asmodian (Specimen)", "translation": "Creion (kobieta, wariant domyślny 2, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Daeva_01_body", "source": "Infiltrator Female_Sorcerer (Specimen)", "translation": "Infiltratorka (czarodziejka) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Daeva_03_body", "source": "Test Subject Daeva Female_01 (Specimen)", "translation": "Obiekt testowy Daeva (kobieta 01) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Grave_01_body", "source": "Graverobber Female (Specimen)", "translation": "Rabusica grobów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Grave_02_body", "source": "Asmodian Gravekeeper Female (Specimen)", "translation": "Strażniczka grobów Asmodian (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Herbalist_01_body", "source": "Herbalist Female Default 1_Elyos (Specimen)", "translation": "Zielarka (wariant domyślny 1, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_LegionD_02_body", "source": "Notos Legion Female Gladiator (Specimen)", "translation": "Gladiatorka Legionu Notos (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_LegionG_01_body", "source": "Straggling Daeva Female Assassin (Specimen)", "translation": "Zabójczyni zbłąkanych Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_LegionG_02_body", "source": "Straggling Daeva Female Sorcerer (Specimen)", "translation": "Czarodziejka zbłąkanych Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Marauder_01_body", "source": "Looter Female (Specimen)", "translation": "Łupieżczyni (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Master_01_body", "source": "Master Blacksmith Elyos (Specimen)", "translation": "Mistrz kowalstwa Elyosów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Mercenary_01_body", "source": "Mercenary Female Default Elyos (Specimen)", "translation": "Najemniczka (wariant domyślny, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Mercenary_02_CV01_body", "source": "Mercenary Female Default 2_Asmodian (Specimen)", "translation": "Najemniczka (wariant domyślny 2, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Mercenary_02_body", "source": "Mercenary Female Default 2_Elyos (Specimen)", "translation": "Najemniczka (wariant domyślny 2, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Mercenary_03_body", "source": "Mercenary Female Default 1_Asmodian (Specimen)", "translation": "Najemniczka (wariant domyślny 1, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_01_body", "source": "Refugee Female Default 1_Elyos (Specimen)", "translation": "Uchodźczyni (wariant domyślny 1, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_02_body", "source": "Refugee Female Default 2_Elyos (Specimen)", "translation": "Uchodźczyni (wariant domyślny 2, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_03_body", "source": "Refugee Female Default 1_Asmodian (Specimen)", "translation": "Uchodźczyni (wariant domyślny 1, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_04_body", "source": "Refugee Female Default 2_Asmodian (Specimen)", "translation": "Uchodźczyni (wariant domyślny 2, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_Kid_01_body", "source": "Refugee Female Child 1_Elyos (Specimen)", "translation": "Dziecko uchodźców (dziewczynka 1, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Refugee_Kid_02_body", "source": "Refugee Female Child 1_Asmodian (Specimen)", "translation": "Dziecko uchodźców (dziewczynka 1, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_Slave_01_body", "source": "Laborer Female (Specimen)", "translation": "Robotnica (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_VillagerA_02_body", "source": "Resident Female Default 1_Asmodian (Specimen)", "translation": "Mieszkanka (wariant domyślny 1, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_VillagerA_04_body", "source": "Resident Female Default 2_Asmodian (Specimen)", "translation": "Mieszkanka (wariant domyślny 2, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_F_VillagerA_Old_01_body", "source": "Resident Old Lady 1_Elyos (Specimen)", "translation": "Starsza mieszkanka 1 (Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Grisilla_01_body", "source": "Grisilla (Specimen)", "translation": "Grisilla (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Halina_01_body", "source": "Hallina (Specimen)", "translation": "Hallina (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Creion_04_body", "source": "Creion Male Default 2_Asmodian (Specimen)", "translation": "Creion (mężczyzna, wariant domyślny 2, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Daeva_01_body", "source": "Daeva Male Gladiator (Specimen)", "translation": "Gladiator Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Daeva_02_body", "source": "Daeva Male Sorcerer (Specimen)", "translation": "Czarownik Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Daeva_03_body", "source": "Test Subject Daeva Male_01 (Specimen)", "translation": "Obiekt testowy Daeva (mężczyzna 01) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Daeva_05_body", "source": "Test Subject Daeva Male_02 (Specimen)", "translation": "Obiekt testowy Daeva (mężczyzna 02) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_F_LegionH_01_body", "source": "Fate Daeva Female Templar (Specimen)", "translation": "Templariuszka Daeva Przeznaczenia (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_F_Mercenary_06_body", "source": "Mercenary Female Basic 4_Asmodian (Specimen)", "translation": "Najemniczka (wariant podstawowy 4, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_F_Nornir_04_body", "source": "Gornir High-Ranking Female 1 (Specimen)", "translation": "Gornir wysokiej rangi (kobieta 1) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_F_Nornir_05_body", "source": "Gornir High-Ranking Female 2 (Specimen)", "translation": "Gornir wysokiej rangi (kobieta 2) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_F_VillagerA_05_body", "source": "Resident Female Basic 3_Asmodian (Specimen)", "translation": "Mieszkanka (wariant podstawowy 3, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Grave_01_body", "source": "Graverobber Male (Specimen)", "translation": "Rabuś grobów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Grave_02_body", "source": "Asmodian Gravekeeper Male (Specimen)", "translation": "Strażnik grobów Asmodian (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Guard_01_body", "source": "Elyos Guard", "translation": "Straż Elyosów", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Guard_02_body", "source": "Elyos Guard Ranger", "translation": "Łucznik straży Elyosów", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Guard_03_body", "source": "Asmodian Guard", "translation": "Straż Asmodian", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Guard_04_body", "source": "Asmodian Guard Ranger", "translation": "Łucznik straży Asmodian", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Hugo_01_body", "source": "Hugo (Specimen)", "translation": "Hugo (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_LegionA_01_body", "source": "Dawn Legion Male Ranger (Specimen)", "translation": "Łucznik Legionu Świtu (mężczyzna) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_LegionA_03_body", "source": "Dawn Legion Petty Officer (Specimen)", "translation": "Podoficer Legionu Świtu (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_LegionG_01_body", "source": "Straggling Daeva Male Ranger (Specimen)", "translation": "Łucznik zbłąkanych Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_LegionG_02_body", "source": "Straggling Daeva Male Chanter (Specimen)", "translation": "Kantor zbłąkanych Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_M_LegionH_01_body", "source": "Fate Daeva Male Cleric (Specimen)", "translation": "Kapłan Daeva Przeznaczenia (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_M_LegionH_02_body", "source": "Fate Daeva Male Chanter (Specimen)", "translation": "Kantor Daeva Przeznaczenia (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_M_Mercenary_06_body", "source": "Mercenary Male Basic 4_Asmodian (Specimen)", "translation": "Najemnik (wariant podstawowy 4, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_M_VillagerA_05_body", "source": "Resident Male Basic 3_Asmodian (Specimen)", "translation": "Mieszkaniec (wariant podstawowy 3, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Marauder_01_body", "source": "Looter Male (Specimen)", "translation": "Łupieżca (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Master_01_body", "source": "Master Essence Extractor Elyos (Specimen)", "translation": "Mistrz pozyskiwania esencji Elyosów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Master_03_body", "source": "Master Handicrafter Elyos (Specimen)", "translation": "Mistrz rzemiosła Elyosów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Master_04_body", "source": "Master Alchemist_Elyos (Specimen)", "translation": "Mistrz alchemii_Elyos (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Master_05_body", "source": "Master Chef Elyos (Specimen)", "translation": "Mistrz kucharski Elyosów (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Refugee_02_body", "source": "Refugee Male Default 2_Elyos (Specimen)", "translation": "Uchodźca (wariant domyślny 2, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Refugee_Kid_01_body", "source": "Refugee Male Child 1_Elyos (Specimen)", "translation": "Dziecko uchodźców (chłopiec 1, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Refugee_Kid_02_body", "source": "Refugee Male Child 1_Asmodian (Specimen)", "translation": "Dziecko uchodźców (chłopiec 1, Asmodian) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_ShugoShop_02_body", "source": "Secret Shop Shugo (Specimen)", "translation": "Shugo z tajnego sklepu (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_ShulackA_03_body", "source": "Steel Hammer Merchants Shulak Laborer Male (Specimen)", "translation": "Robotnik Shulak Kupców Stalowego Młota (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_ShulackB_01_body", "source": "Vagabond Merchant Shulak Male (Specimen)", "translation": "Wędrowny kupiec Shulak (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_Slave_01_body", "source": "Laborer Male (Specimen)", "translation": "Robotnik (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_M_VillagerA_Kid_01_body", "source": "Resident Male Child 1_Elyos (Specimen)", "translation": "Dziecko mieszkańców (chłopiec 1, Elyos) (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Odar_01_V01_body", "source": "Daminu (Specimen)", "translation": "Daminu (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Odar_01_body", "source": "Odar (Specimen)", "translation": "Odar (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Pelleir_01_body", "source": "Pelleir (Specimen)", "translation": "Pelleir (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Snotra_01_body", "source": "Snotra (Specimen)", "translation": "Snotra (okaz)", "status": "draft"}
+{"id": "String_STR_BASIC_N_Teina_01_body", "source": "Teina (Specimen)", "translation": "Teina (okaz)", "status": "draft"}
+{"id": "String_STR_BRACKET_ANGLE_COUNT_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
+{"id": "String_STR_BRACKET_ANGLE_body", "source": "<{0}>", "translation": "<{0}>", "status": "draft"}
+{"id": "String_STR_BRACKET_SQUARE_body", "source": "[{0}]", "translation": "[{0}]", "status": "draft"}
+{"id": "String_STR_Baisc_M_AltKnife_01_V01_body", "source": "Blades Guard (Specimen)", "translation": "Strażnik Ostrzy (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_AltKnife_01_V02_body", "source": "Blades Supporter (Specimen)", "translation": "Pomocnik Ostrzy (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_AltKnife_02_V01_body", "source": "Blades Warmage (Specimen)", "translation": "Mag bojowy Ostrzy (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_Basilisk_01_CV01_001_body", "source": "Ashen Basilisk (Specimen)", "translation": "Popielny bazyliszek (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_CarasVar_04_CV01_body", "source": "Soulless Daeva Wraith (Specimen)", "translation": "Bezduszne widmo Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_DranaVar_02_V02_001_body", "source": "Drana Test Subject (Specimen)", "translation": "Obiekt testowy Drana (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_DranaVar_04_CV01_body", "source": "Faded Floater (Specimen)", "translation": "Wyblakły unosiciel (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_DranaVar_04_body", "source": "Drana Floater (Specimen)", "translation": "Unosiciel Drana (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_Electrosphere_01_body", "source": "Electromagnetic Field (Specimen)", "translation": "Pole elektromagnetyczne (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_FighterM_01_V02_body", "source": "Big Marauder (Specimen)", "translation": "Wielki maruder (okaz)", "status": "draft"}
+{"id":"String_STR_Baisc_M_KraoElite_03_V02_body","source":"Krao Bio-chimeraTiere","translation":"Chimera biologiczna Krao (okaz)","status":"draft"}
+{"id": "String_STR_Baisc_M_KraoTrap_01_001_body", "source": "Krao Cave Ground Effect (Specimen)", "translation": "Efekt podłoża Jaskini Krao (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_KraoTrap_01_V01_001_body", "source": "Krao Cave Ground Effect Vary (Specimen)", "translation": "Wariant efektu podłoża Jaskini Krao (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_Laser_01_CV01_body", "source": "Dungeons Laser 2 (Specimen)", "translation": "Laser w lochu 2 (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_NornirVar_02_V01_001_body", "source": "Nornir Wraith (Specimen)", "translation": "Widmo Nornir (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_Poison_01_001_body", "source": "Poison Pouch (Specimen)", "translation": "Worek trucizny (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_SkurvWar_04_body", "source": "Mumu Overseer (Specimen)", "translation": "Nadzorca Mumu (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_SuraWar_04_V01_body", "source": "Mutated Karas Elite Warrior (Specimen)", "translation": "Zmutowany elitarny wojownik Karas (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_SuraWar_04_V02_body", "source": "Mutated Karas Ancient Warrior (Specimen)", "translation": "Zmutowany starożytny wojownik Karas (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_SuraWar_04_V03_body", "source": "Mutated Karas Elite Warrior (Sealed Dungeon) (Specimen)", "translation": "Zmutowany elitarny wojownik Karas (zapieczętowany loch) (okaz)", "status": "draft"}
+{"id": "String_STR_Baisc_M_Vortex_01_body", "source": "Time Vortex (Specimen)", "translation": "Wir czasu (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_AltBug_01_CV01_body", "source": "Contaminated Cadaver Worm (Specimen)", "translation": "Skażony robak padlinowy (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_AltBug_01_CV02_body", "source": "Cadaver Worm (Specimen)", "translation": "Robak padlinowy (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_AltKnife_04_V02_body", "source": "Blood Warrior Lannar (Specimen)", "translation": "Krwawy wojownik Lannar (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_BeritraD_04_V01_body", "source": "Sentinel K'nash (Specimen)", "translation": "Sentinel K'nash (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_BeritraD_07_body", "source": "Beritra Flying Scout (Specimen)", "translation": "Latający zwiadowca Beritry (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_CaveBat_01_V01_001_body", "source": "Mutated Cave Bat Vary (Specimen)", "translation": "Zmutowany nietoperz jaskiniowy Vary (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Citizen_body", "source": "NPC (Specimen)", "translation": "NPC (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_DaevaAss_01_V01_body", "source": "Daeva Renegade Commander (Specimen)", "translation": "Dowódca renegatów Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_DracoElite_01_V01_body", "source": "Balaur Dispatch Elite Administrator (Specimen)", "translation": "Elitarny zarządca zwiadu Balaurów (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_DrakanElite_03_V01_001_body", "source": "Harvest Manager Moshav (Specimen)", "translation": "Zarządca zbiorów Moshav (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_DrakanElite_03_V02_001_body", "source": "Advisor Resana (Specimen)", "translation": "Doradca Resana (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_DranaVar_02_V01_body", "source": "Melted Danar (Specimen)", "translation": "Stopiony Danar (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Durbati_01_001_body", "source": "Decaying Durvati (Specimen)", "translation": "Rozkładający się Durvati (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_EleGuard_01_body", "source": "Spirit King's Bodyguard Warrior (Specimen)", "translation": "Wojownik przyboczny Króla Duchów (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_FighterM_02_V02_001_body", "source": "Human Bandit Commander (Specimen)", "translation": "Dowódca ludzkich bandytów (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Gerod_01_body", "source": "Mutated Gerod (Specimen)", "translation": "Zmutowany Gerod (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Guardit_01_body", "source": "Common Guardite (Specimen)", "translation": "Zwykły Guardite (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Guardit_02_body", "source": "Watcher Guardite (Specimen)", "translation": "Obserwator Guardite (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Guardit_03_body", "source": "Elite Guardite (Specimen)", "translation": "Elitarny Guardite (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Kalgolem_01_V01_001_body", "source": "Kalgolem Vary (Specimen)", "translation": "Kalgolem Vary (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_KalnifElite_01_V01_body", "source": "Bloodfang Pnyn (Specimen)", "translation": "Bloodfang Pnyn (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Keneir_V02_001_body", "source": "Kernon of the West (Specimen)", "translation": "Kernon Zachodu (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Keneir_V03_001_body", "source": "Neikel of the East (Specimen)", "translation": "Neikel Wschodu (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_KrallElite_01_V01_body", "source": "Berserker Kusan (Specimen)", "translation": "Berserker Kusan (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_KrallElite_02_V01_body", "source": "Ritualist Garshim (Specimen)", "translation": "Rytualista Garshim (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_Lagta_01_001_body", "source": "High Commander Lagta (Specimen)", "translation": "Wysoki Dowódca Lagta (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_LakeGuard_01_body", "source": "Lake Guardian (Specimen)", "translation": "Strażnik jeziora (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_AbBoss_01_body", "source": "Guardian Lord Nahma (Specimen)", "translation": "Władca Strażników Nahma (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_AddShulack_04_body", "source": "Addicted Shulak Sentinel (Specimen)", "translation": "Uzależniony wartownik Shulak (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_AddShulack_05_body", "source": "Addicted Shulak Overseer (Specimen)", "translation": "Uzależniony nadzorca Shulak (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Affix_Balance_01_body", "source": "Balanced", "translation": "Zrównoważony", "status": "draft"}
+{"id": "String_STR_Basic_M_Affix_Flame_01_body", "source": "Flame", "translation": "Płomień", "status": "draft"}
+{"id": "String_STR_Basic_M_Affix_Ghost_01_body", "source": "Poison Pouch", "translation": "Worek trucizny", "status": "draft"}
+{"id": "String_STR_Basic_M_Affix_Judgement_01_body", "source": "Judgment", "translation": "Osąd", "status": "draft"}
+{"id": "String_STR_Basic_M_Affix_PosionBlood_01_body", "source": "Poison Blood", "translation": "Trująca krew", "status": "draft"}
+{"id": "String_STR_Basic_M_Agrint_01_CV01_001_body", "source": "Ashen Agrint (Specimen)", "translation": "Popielny Agrint (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Agrint_02_CV01_001_body", "source": "Ashen Withered Agrint (Specimen)", "translation": "Uschnięty popielny Agrint (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Altknife_06_001_body", "source": "Melee Elite Blades (Specimen)", "translation": "Elitarni wojownicy wręcz Ostrzy (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BeritraA_02_V01_001_body", "source": "Dratona Tamer (Specimen)", "translation": "Treser Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BeritraC_05_V01_001_body", "source": "Dratona Handler (Specimen)", "translation": "Opiekun Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BeritraC_06_V01_001_body", "source": "Hatched Dratona Larva (Specimen)", "translation": "Wykluta larwa Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BeritraC_07_V01_body", "source": "Dratona Egg (Specimen)", "translation": "Jajo Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BeritraD_03_V01_body", "source": "Researcher Setram (Specimen)", "translation": "Badacz Setram (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BigMan_01_V03_body", "source": "Rotten Kutar (Specimen)", "translation": "Zgniły Kutar (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_BigMan_01_V04_body", "source": "Moss Monster Guruta (Specimen)", "translation": "Omszały potwór Guruta (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Coradon_01_V03_body", "source": "Blooming Korin (Specimen)", "translation": "Kwitnący Korin (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_DaevaAss_01_CV01_body", "source": "Daeva Renegade Commander (Specimen)", "translation": "Dowódca renegatów Daeva (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_DracoElite_02_body", "source": "Draconute Bodyguard Captain (Specimen)", "translation": "Kapitan przybocznej straży Draconutów (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_DracoWar_01_V03_body", "source": "Faithful Rajit (Specimen)", "translation": "Wierny Rajit (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Dracuni_01_body", "source": "Dracuni Herbalist (Specimen)", "translation": "Zielarz Dracuni (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Drakan_02_001_body", "source": "Drakan Watcher (Specimen)", "translation": "Obserwator Drakan (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Dratona_01_body", "source": "Dratona (Specimen)", "translation": "Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Dratona_02_body", "source": "Dratona Big One (Specimen)", "translation": "Wielka Dratona (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_DstrArchon_01_body", "source": "Soulless Destruction Archons Gladiator (Specimen)", "translation": "Bezduszny gladiator Archontów Zniszczenia (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_EleKing_01_body", "source": "Vakron (Specimen)", "translation": "Vakron (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_EvSpirit_02_body", "source": "Resentful Daeva Wraith Boss (Specimen)", "translation": "Mściwy przywódca widm Daevy (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_EvSpirit_03_body", "source": "Resentful Daeva Wraith Boss Sword (Specimen)", "translation": "Miecz mściwego przywódcy widm Daevy (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_FafBlood_02_body", "source": "Poison Blood (Specimen)", "translation": "Trująca krew (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Gelcos_01_V01_body", "source": "Culminant Paton (Specimen)", "translation": "Kulminacyjny Paton (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Gelcos_01_body", "source": "Guard Troopers Captain Gelcos (Specimen)", "translation": "Kapitan strażników Gelcos (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_GraveUn_02_V01_body", "source": "Grave Undead B_Vary (Specimen)", "translation": "Nieumarły grobowca B_Vary (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Hibran_01_001_body", "source": "Lieutenant Hebran (Specimen)", "translation": "Porucznik Hebran (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Idris_01_body", "source": "Apostle of Lu Idris (Specimen)", "translation": "Apostoł Lu Idris (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Kashapa_01_body", "source": "Soul Ruler Kashapa (Specimen)", "translation": "Władca dusz Kashapa (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Laser_02_body", "source": "Dungeons Laser 2 (Specimen)", "translation": "Laser w lochu 2 (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Laser_03_body", "source": "Shugo Fesetival Laser (Specimen)", "translation": "Laser Festiwalu Shugo (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Lufilini_02_CV02_001_body", "source": "Red Lupyllini (Specimen)", "translation": "Czerwony Lupyllini (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_NornirVar_02_V02_body", "source": "Deceiver Trid (Specimen)", "translation": "Oszust Trid (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Posa_01_die_body", "source": "Tamed Fossa Corpse (Specimen)", "translation": "Oswojone zwłoki Fossa (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Protect_01_body", "source": "Incarnated Warding Feather (Specimen)", "translation": "Wcielone ochronne pióro (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Radvima_01_body", "source": "Division Commander Radbima (Specimen)", "translation": "Dowódca dywizji Radbima (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_SkurvWar_02_body", "source": "Melee Mumu Worker (Specimen)", "translation": "Robotnik Mumu walczący wręcz (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_SkurvWar_03_body", "source": "Mumu Sentry Ranged (Specimen)", "translation": "Dystansowy wartownik Mumu (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_SkurvWar_04_V01_body", "source": "Mumu Lesser Overseer (Specimen)", "translation": "Niższy nadzorca Mumu (okaz)", "status": "draft"}
+{"id": "String_STR_Basic_M_Slime_02_CV01_body", "source": "Contaminated Slime (Specimen) Red", "translation": "Skażony szlam (okaz) czerwony", "status": "draft"}
+{"id": "String_STR_Basic_M_Statue_01_body", "source": "Zikel's Sword Large Statue (Specimen)", "translation": "Duży posąg miecza Zikela (okaz)", "status": "draft"}

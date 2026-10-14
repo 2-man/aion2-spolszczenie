@@ -1,0 +1,250 @@
+{"id": "Message_MSG_ITEM_RECOVERY_SELECT_ITEM_EXCEED_body", "source": "Cannot select any more.", "translation": "Nie można wybrać więcej.", "status": "draft"}
+{"id": "Message_MSG_ITEM_RECOVERY_SELECT_ITEM_body", "source": "Select an item to recover.", "translation": "Wybierz przedmiot do odzyskania.", "status": "draft"}
+{"id": "Message_MSG_ITEM_REPLACE_BY_TIME_LIMIT_body", "source": "{0} expired and changed to {1}.", "translation": "Wygasł przedmiot {0} i zmienił się w {1}.", "status": "draft"}
+{"id": "Message_MSG_ITEM_TELPOAGIT_CANNOTATCURRENTZONE_body", "source": "Cannot go to Hall in this area.", "translation": "Z tego obszaru nie można przejść do Sali.", "status": "draft"}
+{"id": "Message_MSG_ITEM_TELPO_NO_ITEM_body", "source": "Insufficient Return Scrolls. Unable to move.", "translation": "Za mało Zwojów Powrotu. Nie można się przemieścić.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_ABNORMAL_GROUP_body", "source": "A buff of the same type is currently active. Remove the active buff to use this item.", "translation": "Premia tego samego typu jest już aktywna. Usuń ją, aby użyć tego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_ABNORMAL_ID_body", "source": "The same buff is already applied. Remove the existing buff before using the new item.", "translation": "Ta sama premia jest już aktywna. Usuń ją przed użyciem nowego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_CONTENTSTICKET_LOCKED_COUNT_body", "source": "Locked content usage time cannot be recharged.", "translation": "Nie można doładować zablokowanego czasu dostępu do zawartości.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_CONTENTSTICKET_LOCKED_TIME_body", "source": "Locked content usage time cannot be recharged.", "translation": "Nie można doładować zablokowanego czasu dostępu do zawartości.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_FAILED_FOUNDERS_PACK_SAME_USE_GROUP_body", "source": "This item cannot be used with other items.", "translation": "Tego przedmiotu nie można użyć razem z innymi.", "status": "draft"}
+{"id": "Message_MSG_ITEM_USE_FAIL_ONLY_ONE_USE_COUNT_body", "source": "Failed to use item. Only 1 item can be used at a time.", "translation": "Nie udało się użyć przedmiotu. Jednocześnie można użyć tylko 1 sztuki.", "status": "draft"}
+{"id": "Message_MSG_Inventory_CannotEquip_TempCube_body", "source": "Cannot equip items in Temporary Cube.", "translation": "Nie można zakładać przedmiotów z tymczasowego ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_Inventory_CannotUse_TempCube_body", "source": "Cannot use items in Temporary Cube.", "translation": "Nie można używać przedmiotów z tymczasowego ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_ItemDropGet_body", "source": "${0} acquired {1} from {2}.", "translation": "Postać ${0} zdobyła {1} z {2}.", "status": "draft"}
+{"id": "Message_MSG_ItemGet_UI_body", "source": "{0} acquired {1}.", "translation": "Postać {0} zdobyła {1}.", "status": "draft"}
+{"id": "Message_MSG_ItemGet_VEHICLE_body", "source": "{0} obtained the Pet {1}.", "translation": "Postać {0} zdobyła Wierzchowca {1}.", "status": "draft"}
+{"id": "Message_MSG_ItemGet_WING_body", "source": "{0} has unlocked {1}.", "translation": "Postać {0} odblokowała {1}.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoAgit_TeleportBlock_body", "source": "Cannot Return to Hall in current state.", "translation": "W obecnym stanie nie można wrócić do Sali.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoHome_InvalidHomeData_body", "source": "Return location not found.", "translation": "Nie znaleziono miejsca powrotu.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoHome_InvalidZone_body", "source": "Cannot Return in this area.", "translation": "Z tego obszaru nie można wrócić.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoHome_TeleportBlock_body", "source": "Cannot Return in current state.", "translation": "W obecnym stanie nie można wrócić.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoHome_TelpoFail_body", "source": "Failed to Return.", "translation": "Nie udało się wrócić.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoRandom_CanNotAtCurrentZone_body", "source": "Teleportation location not found.", "translation": "Nie znaleziono miejsca teleportacji.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoRandom_InvalidZone_body", "source": "Cannot Teleport in this area.", "translation": "Z tego obszaru nie można się teleportować.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoRandom_TeleportBlock_body", "source": "Cannot Teleport in current state.", "translation": "W obecnym stanie nie można się teleportować.", "status": "draft"}
+{"id": "Message_MSG_Item_TelpoRandom_TelpoFail_body", "source": "Failed to Teleport.", "translation": "Nie udało się teleportować.", "status": "draft"}
+{"id": "Message_MSG_Item_Telpo_TeleportBlock_body", "source": "Cannot teleport in current state.", "translation": "W obecnym stanie nie można się teleportować.", "status": "draft"}
+{"id": "Message_MSG_JOURNAL_INACTIVE_REGION_body", "source": "Region not available yet.", "translation": "Region nie jest jeszcze dostępny.", "status": "draft"}
+{"id": "Message_MSG_JOURNAL_QUEST_NOT_OPENED_body", "source": "This has not been unlocked yet.", "translation": "Nie odblokowano jeszcze tej funkcji.", "status": "draft"}
+{"id": "Message_MSG_KACHIEVEMENT_INACTIVATEDSEASONACHIEVEMENT_body", "source": "Failed to receive rewards. The Mission period has ended.", "translation": "Nie udało się odebrać nagród. Okres misji dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_KACHIEVEMENT_WEEKLYSEASONACHIEVEMENTNOTREWARDED_body", "source": "Failed to receive rewards. Can be received after collecting Season Mission Weekly Rewards.", "translation": "Nie udało się odebrać nagród. Można je odebrać po odebraniu tygodniowych nagród za misje sezonowe.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_INVALIDRACE_body", "source": "This faction cannot enter.", "translation": "Ta frakcja nie może wejść.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTBORNSERVER_body", "source": "This server cannot be entered.", "translation": "Nie można wejść na ten serwer.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTCLEARACHIEVEMENT_body", "source": "Can enter after defeating {0}.", "translation": "Można wejść po pokonaniu {0}.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTCLEARBOSSCHALLENGE_body", "source": "Can enter after clearing Boss Challenge Level {0}.", "translation": "Można wejść po ukończeniu wyzwania bossa na poziomie {0}.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTCLEARPRELEVEL_body", "source": "Challenge stage unavailable for entry.", "translation": "Nie można wejść na etap wyzwania.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTCLEARQUEST_body", "source": "Can enter after completing {0}.", "translation": "Można wejść po ukończeniu {0}.", "status": "draft"}
+{"id": "Message_MSG_KBOSSCHALLENGE_FAIL_NOTENOUGHTICKETCOUNT_body", "source": "Cannot enter due to insufficient challenge attempts.", "translation": "Nie można wejść — brakuje prób wyzwania.", "status": "draft"}
+{"id": "Message_MSG_KCOMMON_FAIL_LOSTCOMMUNITYSESSION_body", "source": "Cannot connect to server.", "translation": "Nie można połączyć się z serwerem.", "status": "draft"}
+{"id": "Message_MSG_KDUNGEONBUFF_FAIL_NOTINDUNGEONBUFFMAP_body", "source": "Dungeon effects are not applied on this map.", "translation": "Efekty lochu nie działają na tej mapie.", "status": "draft"}
+{"id": "Message_MSG_KDUNGEONBUFF_FAIL_NOTPREPARINGSTATE_body", "source": "Dungeon effects can only be selected during preparation stage.", "translation": "Efekty lochu można wybrać tylko w fazie przygotowań.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_AGAINST_body", "source": "Voted \"No\" for the kick vote.", "translation": "Zagłosowano przeciw wyrzuceniu.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_AGREE_body", "source": "Voted \"Yes\" for the kick vote.", "translation": "Zagłosowano za wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_CANCEL_BY_LEAVE_MEMBER_body", "source": "Vote ended as the initiator or target left.", "translation": "Głosowanie zakończono, ponieważ inicjator lub cel opuścił miejsce.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_FAIL_BY_ALREADY_VOTE_body", "source": "Kick vote already completed.", "translation": "Głosowanie nad wyrzuceniem już zakończono.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_FAIL_BY_FINISHED_body", "source": "Kick vote has ended.", "translation": "Głosowanie nad wyrzuceniem dobiegło końca.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_FAIL_BY_LEADER_body", "source": "Kick vote initiator cannot vote.", "translation": "Inicjator głosowania nad wyrzuceniem nie może głosować.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_FAIL_BY_NOT_IN_DUNGEON_ROOM_MEMBER_body", "source": "Cannot vote to kick after leaving the waiting room.", "translation": "Po opuszczeniu poczekalni nie można głosować nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_FAIL_BY_NO_AUTH_body", "source": "No permission to vote to kick.", "translation": "Brak uprawnień do głosowania nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_REASON_SELECT_FAIL_BY_MAX_COUNT_body", "source": "Cannot select additional reasons.", "translation": "Nie można wybrać kolejnych powodów.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGAINST_FORCE_SUBJECT_body", "source": "Not kicked from the Force by the kick vote.", "translation": "Głosowanie nie doprowadziło do wyrzucenia z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGAINST_FORCE_body", "source": "{0} was not kicked from the Force by the kick vote.", "translation": "Głosowanie nie doprowadziło do wyrzucenia {0} z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGAINST_PARTY_SUBJECT_body", "source": "Not kicked from the party by the kick vote.", "translation": "Głosowanie nie doprowadziło do wyrzucenia z drużyny.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGAINST_PARTY_body", "source": "{0} was not kicked from the party by the kick vote.", "translation": "Głosowanie nie doprowadziło do wyrzucenia {0} z drużyny.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGREE_FORCE_SUBJECT_body", "source": "Kicked from the Force by the kick vote.", "translation": "Głosowanie doprowadziło do wyrzucenia z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGREE_FORCE_body", "source": "{0} was kicked from the Force by the kick vote.", "translation": "Głosowanie doprowadziło do wyrzucenia {0} z grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGREE_PARTY_SUBJECT_body", "source": "Kicked from the party by the kick vote.", "translation": "Głosowanie doprowadziło do wyrzucenia z drużyny.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_RESULT_AGREE_PARTY_body", "source": "{0} was kicked from the party by the kick vote.", "translation": "Głosowanie doprowadziło do wyrzucenia {0} z drużyny.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_DISTRIBUTION_KICKOUT_body", "source": "Cannot start kick votes during boss combat.", "translation": "Podczas walki z bossem nie można rozpocząć głosowania nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_FORCE_NO_AUTH_body", "source": "No permission to start kick votes. Only the Force Leader or Vice Leader can start kick votes.", "translation": "Brak uprawnień do rozpoczęcia głosowania nad wyrzuceniem. Może je rozpocząć tylko lider grupy rajdowej lub jego zastępca.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_INVALID_CHARACTER_body", "source": "No character information available.", "translation": "Brak informacji o postaci.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_INVALID_TARGET_body", "source": "Cannot kick this player.", "translation": "Nie można wyrzucić tego gracza.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_MIN_MEMBER_body", "source": "Not enough participants to start the kick vote.", "translation": "Za mało uczestników, aby rozpocząć głosowanie nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_NOT_DUNGEON_PLAYING_body", "source": "Cannot start kick votes in the current state.", "translation": "W obecnym stanie nie można rozpocząć głosowania nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_NOT_SELECT_REASON_body", "source": "Select a reason to proceed with the kick vote.", "translation": "Wybierz powód, aby rozpocząć głosowanie nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_PARTY_NOT_LEADER_body", "source": "No permission to start kick votes. Only the Party Leader can start kick votes.", "translation": "Brak uprawnień do rozpoczęcia głosowania nad wyrzuceniem. Może je rozpocząć tylko lider drużyny.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_BY_PROGRESS_body", "source": "A kick vote is already in progress. Please start another vote after the previous one ends.", "translation": "Trwa już głosowanie nad wyrzuceniem. Poczekaj, aż się zakończy, zanim rozpoczniesz kolejne.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_FAIL_COMMON_body", "source": "Cannot start kick votes.", "translation": "Nie można rozpocząć głosowania nad wyrzuceniem.", "status": "draft"}
+{"id": "Message_MSG_KICKOUT_VOTE_START_body", "source": "Kick vote for {0} has begun.", "translation": "Rozpoczęto głosowanie nad wyrzuceniem {0}.", "status": "draft"}
+{"id": "Message_MSG_KICK_TOO_HIGH_COMBAT_VALUE_body", "source": "Combat Power limit reached. Removed from the area. Penalty: {0} of Abyss Access Hours deducted.", "translation": "Osiągnięto limit Mocy Bojowej. Usunięto cię z obszaru. Kara: odjęto {0} godzin dostępu do Otchłani.", "status": "draft"}
+{"id": "Message_MSG_KICK_TOO_HIGH_CURRENT_COMBAT_VALUE_body", "source": "Combat Power limit reached. Removed from the area. Penalty: {0} of Abyss Access Hours deducted.", "translation": "Osiągnięto limit Mocy Bojowej. Usunięto cię z obszaru. Kara: odjęto {0} godzin dostępu do Otchłani.", "status": "draft"}
+{"id": "Message_MSG_KICK_TOO_HIGH_CURRENT_ITEM_LEVEL_body", "source": "Item Level limit reached. Removed from the area. Penalty: {0} of Abyss Access Hours deducted.", "translation": "Osiągnięto limit poziomu przedmiotów. Usunięto cię z obszaru. Kara: odjęto {0} godzin dostępu do Otchłani.", "status": "draft"}
+{"id": "Message_MSG_KICK_TOO_HIGH_ITEM_LEVEL_body", "source": "Item Level limit reached. Removed from the area. Penalty: {0} of Abyss Access Hours deducted.", "translation": "Osiągnięto limit poziomu przedmiotów. Usunięto cię z obszaru. Kara: odjęto {0} godzin dostępu do Otchłani.", "status": "draft"}
+{"id": "Message_MSG_KISK_ATTACK_DESTROYED_body", "source": "Registered Kisk destroyed by enemy attack.", "translation": "Zarejestrowany Kisk został zniszczony przez atak wroga.", "status": "draft"}
+{"id": "Message_MSG_KISK_INVALIDFORCE_body", "source": "Not part of a Force.", "translation": "Nie należysz do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_KISK_INVALIDGUILD_body", "source": "Not part of a Legion.", "translation": "Nie należysz do Legionu.", "status": "draft"}
+{"id": "Message_MSG_KISK_INVALIDPARTY_body", "source": "Not in party.", "translation": "Nie należysz do drużyny.", "status": "draft"}
+{"id": "Message_MSG_KISK_UNDER_ATTACK_body", "source": "Registered Kisk under attack by unknown enemy.", "translation": "Zarejestrowany Kisk jest atakowany przez nieznanego wroga.", "status": "draft"}
+{"id": "Message_MSG_KITEM_USE_CONTENTSTICKET_MAXCOUNTOVER_body", "source": "Cannot charge further due to charge limit being reached.", "translation": "Nie można doładować bardziej — osiągnięto limit doładowań.", "status": "draft"}
+{"id": "Message_MSG_KITEM_USE_CONTENTSTICKET_MAXTIMEOVER_body", "source": "Cannot charge further due to charge time limit being reached.", "translation": "Nie można doładować bardziej — osiągnięto limit czasu.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_INVALIDCELLDATAMGR_body", "source": "Cannot enter due to error.", "translation": "Nie można wejść z powodu błędu.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_INVALIDFIELDEVENTSTATE_body", "source": "Cannot enter because event admission period has ended.", "translation": "Nie można wejść — okres przyjmowania uczestników wydarzenia dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_INVALIDFIELDEVENT_body", "source": "Cannot enter because event information was not successfully retrieved.", "translation": "Nie można wejść — nie udało się pobrać informacji o wydarzeniu.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_NOTCLEARQUEST_body", "source": "You do not meet the minimum requirements to enter.", "translation": "Nie spełniasz minimalnych wymagań wejścia.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_NOTENOUGHTICKETCOUNT_body", "source": "Insufficient entry attempts.", "translation": "Za mało prób wejścia.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_OUTOFRANGECURPOS_body", "source": "Cannot enter due to being outside entry area.", "translation": "Nie można wejść spoza obszaru wejściowego.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_TOO_HIGH_COMBAT_VALUE_body", "source": "Entry unavailable. Highest Combat Power exceeds the limit.", "translation": "Nie można wejść — maksymalna Moc Bojowa przekracza limit.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_TOO_HIGH_CURRENT_COMBAT_VALUE_body", "source": "Entry unavailable. Current Combat Power exceeds the limit.", "translation": "Nie można wejść — bieżąca Moc Bojowa przekracza limit.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_TOO_HIGH_CURRENT_ITEM_LEVEL_body", "source": "Entry unavailable. Current Item Level exceeds the limit.", "translation": "Nie można wejść — bieżący poziom przedmiotów przekracza limit.", "status": "draft"}
+{"id": "Message_MSG_KTELPO_TOO_HIGH_ITEM_LEVEL_body", "source": "Entry unavailable. Highest Item Level exceeds the limit.", "translation": "Nie można wejść — maksymalny poziom przedmiotów przekracza limit.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CHARACTER_POSITION_EDIT_APPLY_NOTICE_body", "source": "Character's location applied.", "translation": "Zastosowano położenie postaci.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CHARACTER_POSITION_EDIT_SELECTION_LOCKED_body", "source": "Cannot select locked slot.", "translation": "Nie można wybrać zablokowanego slotu.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CHARACTER_POSITION_EDIT_TARGET_LOCKED_body", "source": "Cannot switch to a locked slot.", "translation": "Nie można przełączyć na zablokowany slot.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_ENTER_NAME_body", "source": "Enter name.", "translation": "Wpisz imię.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_LOCKED_SLOT_body", "source": "Character Slot cannot be used.", "translation": "Nie można użyć slotu postaci.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_BLOCKED_body", "source": "Name cannot be used.", "translation": "Nie można użyć tej nazwy.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_COUNT_body", "source": "Character names can only be 1 to 10 characters.", "translation": "Imię postaci musi mieć od 1 do 10 znaków.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_EXISTS_body", "source": "This name is already in use.", "translation": "Ta nazwa jest już zajęta.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_FORBIDDENWORD_body", "source": "Name contains a prohibited word.", "translation": "Nazwa zawiera zabronione słowo.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_INVALID_LAN_body", "source": "Name contains a prohibited character.", "translation": "Nazwa zawiera zabroniony znak.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_NUMERIC_ONLY_body", "source": "Names comprised exclusively of numbers are not allowed.", "translation": "Nazwa nie może składać się wyłącznie z cyfr.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_NAME_SPECIALCHARACTER_body", "source": "Names cannot include spaces or special characters.", "translation": "Nazwa nie może zawierać spacji ani znaków specjalnych.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_CREATE_FAIL_body", "source": "Failed to create character.", "translation": "Nie udało się utworzyć postaci.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_FAIL_GUILD_JOIN_body", "source": "Cannot delete characters that are currently a member of a Legion.", "translation": "Nie można usunąć postaci należących do Legionu.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_FAIL_GUILD_REQUEST_body", "source": "Cannot delete characters that have active Legion join requests.", "translation": "Nie można usunąć postaci z aktywnymi zgłoszeniami do Legionu.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_FAIL_PC_LEVEL_body", "source": "Character can be deleted from Level {0}.", "translation": "Postać można usunąć od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_FAIL_UNCLAIMED_STORAGE_body", "source": "There are unclaimed items in the storage. Claim the items and try again.", "translation": "W magazynie znajdują się nieodebrane przedmioty. Odbierz je i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_FAIL_body", "source": "Failed to delete character.", "translation": "Nie udało się usunąć postaci.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_NOT_IN_DELETION_PENDING_body", "source": "Not pending deletion.", "translation": "Postać nie oczekuje na usunięcie.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_DEL_NO_CHARACTER_TO_DELETE_body", "source": "No characters to delete.", "translation": "Brak postaci do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_ERROR_DELETING_CHARACTER_body", "source": "Character is pending deletion.", "translation": "Postać oczekuje na usunięcie.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_ERROR_NO_CREATED_CHARACTER_body", "source": "Must create a character.", "translation": "Najpierw utwórz postać.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_ERROR_NO_SELECTED_CHARACTER_body", "source": "Must select a character.", "translation": "Wybierz postać.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_MAX_SLOTS_GUIDE_body", "source": "Cannot add more slots. Please contact customer support.", "translation": "Nie można dodać kolejnych slotów. Skontaktuj się z obsługą klienta.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_SELECTRACE_UNSELECTED_body", "source": "Select a faction.", "translation": "Wybierz frakcję.", "status": "draft"}
+{"id": "Message_MSG_LOBBY_SLOT_UNLOCKED_body", "source": "Character slot unlocked.", "translation": "Odblokowano slot postaci.", "status": "draft"}
+{"id": "Message_MSG_LOSE_ABYSSPOINT_body", "source": "Lost {0} Abyss Point(s).", "translation": "Utracono {0} pkt Otchłani.", "status": "draft"}
+{"id": "Message_MSG_LOSE_ABYSS_RANKINGPOINT_body", "source": "Lost {0} Rank Point(s).", "translation": "Utracono {0} pkt rangi.", "status": "draft"}
+{"id": "Message_MSG_MACRO_REPORT_FAIL_CRAFT_body", "source": "Cannot macro report while character is crafting.", "translation": "Nie można zgłosić makra, gdy postać wytwarza przedmiot.", "status": "draft"}
+{"id": "Message_MSG_MACRO_REPORT_FAIL_INVALIDZONE_body", "source": "Macro report is not available in this area.", "translation": "W tym obszarze nie można zgłaszać makr.", "status": "draft"}
+{"id": "Message_MSG_MAININPUTDEVICE_SWITCH_GAMEPAD_body", "source": "Switched to gamepad controls.", "translation": "Przełączono sterowanie na kontroler.", "status": "draft"}
+{"id": "Message_MSG_MAININPUTDEVICE_SWITCH_KEYBOARDMOUSE_body", "source": "Switched to keyboard+mouse controls.", "translation": "Przełączono sterowanie na klawiaturę i mysz.", "status": "draft"}
+{"id": "Message_MSG_MAININPUTDEVICE_SWITCH_TOUCH_body", "source": "Switched to touch controls.", "translation": "Przełączono sterowanie na ekran dotykowy.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_CREATE_FAIL_COUNT_body", "source": "Max number of Map Pins have been placed. Unable to place any more.", "translation": "Osiągnięto limit pinezek mapy. Nie można dodać kolejnych.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_CREATE_FAIL_DESCDUPLICATION_body", "source": "Cannot create duplicate map pin names.", "translation": "Nazwa pinezki mapy musi być unikalna.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_CREATE_FAIL_DESCLENGTH_body", "source": "The Map Pin can be {0} to {1} characters.", "translation": "Nazwa pinezki mapy musi mieć od {0} do {1} znaków.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_CREATE_FAIL_INVALID_MAP_body", "source": "Cannot place a map pin on the current map.", "translation": "Nie można umieścić pinezki na bieżącej mapie.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_CREATE_FAIL_INVALID_NAME_body", "source": "Invalid Map Pin name.", "translation": "Nieprawidłowa nazwa pinezki mapy.", "status": "draft"}
+{"id": "Message_MSG_MAPPIN_FAIL_DRAFT_body", "source": "Cannot access this area.", "translation": "Nie można wejść do tego obszaru.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_HIGH_LEVEL_body", "source": "Must be level {0} or lower to enter.", "translation": "Aby wejść, poziom musi wynosić najwyżej {0}.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_LEVEL_body", "source": "Cannot enter as entry level requirements have not been met.", "translation": "Nie można wejść — nie spełniono wymagań poziomu.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_LOW_LEVEL_body", "source": "Must be level {0} or higher to enter.", "translation": "Aby wejść, wymagany jest poziom co najmniej {0}.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_NEED_EQUIP_ITEM_LEVEL_body", "source": "Cannot enter due to low item level.", "translation": "Nie można wejść — poziom przedmiotów jest za niski.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_NOT_COMPLETE_QUEST_body", "source": "Entry available after completing {0}.", "translation": "Można wejść po ukończeniu {0}.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_NOT_ENOUGH_USETIME_body", "source": "Cannot enter due to exhausting usage time.", "translation": "Nie można wejść — wykorzystano cały dostępny czas.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_NOT_IN_PROGRESS_QUEST_STEP_body", "source": "The quest required for entry has not been completed.", "translation": "Nie ukończono zadania wymaganego do wejścia.", "status": "draft"}
+{"id": "Message_MSG_MAP_ENTRANCE_ERROR_NO_EQUIP_PET_body", "source": "Pet must be equipped to participate in event.", "translation": "Aby wziąć udział w wydarzeniu, musisz założyć Wierzchowca.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_ALREADY_MATCHING_body", "source": "Another matchmaking in progress.", "translation": "Trwa już inne dobieranie przeciwników.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_CONTENTSLOCK_body", "source": "Content has not been unlocked.", "translation": "Nie odblokowano tej zawartości.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_ITEM_LEVEL_body", "source": "Cannot begin matchmaking as item level requirements have not been met.", "translation": "Nie można rozpocząć dobierania — nie spełniono wymagań poziomu przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_LEVEL_body", "source": "Cannot begin matchmaking as entry level requirements have not been met.", "translation": "Nie można rozpocząć dobierania — nie spełniono wymagań poziomu wejścia.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_PARTY_MEMBER_body", "source": "Party member is not ready to start matchmaking.", "translation": "Członek drużyny nie jest gotowy do rozpoczęcia dobierania.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_PENALTY_body", "source": "Cannot begin matchmaking for {0}min due to penalty.", "translation": "Z powodu kary nie można rozpocząć dobierania przez {0} min.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_PROCESS_DUNGEON_body", "source": "Cannot proceed with matchmaking in the current location.", "translation": "W bieżącym miejscu nie można rozpocząć dobierania przeciwników.", "status": "draft"}
+{"id": "Message_MSG_MATCHING_CONDITION_TICKET_body", "source": "Cannot proceed with matchmaking due to insufficient challenge attempts.", "translation": "Nie można rozpocząć dobierania — brakuje prób wyzwania.", "status": "draft"}
+{"id": "Message_MSG_MAX_SELECT_WISH_ITEM_body", "source": "Insufficient space to add selected quantity.", "translation": "Za mało miejsca, aby dodać wybraną liczbę przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_MEMBERSHIPPASS_ACTIVATED_body", "source": "Membership Pass activated.", "translation": "Aktywowano Przepustkę członkowską.", "status": "draft"}
+{"id": "Message_MSG_MEMBERSHIPPASS_STACKED_body", "source": "New Membership Pass added.", "translation": "Dodano nową Przepustkę członkowską.", "status": "draft"}
+{"id": "Message_MSG_MENTEE_ACTIVE_body", "source": "Sprout Badge activated.", "translation": "Aktywowano Odznakę Pączka.", "status": "draft"}
+{"id": "Message_MSG_MENTEE_DISMISS_BY_EXPIRE_DAY_body", "source": "Sprout Badge removed due to expiration.", "translation": "Odznaka Pączka wygasła i została usunięta.", "status": "draft"}
+{"id": "Message_MSG_MENTEE_DISMISS_BY_ITEM_LEVEL_body", "source": "Sprout Badge removed after exceeding the eligible Item Level or Combat Power requirements.", "translation": "Usunięto Odznakę Pączka po przekroczeniu wymaganego poziomu przedmiotów lub Mocy Bojowej.", "status": "draft"}
+{"id": "Message_MSG_MENTEE_DISMISS_BY_MEMBERSHIP_END_body", "source": "Sprout Badge deactivated due to membership expiration. Resubscribe to reactivate the Sprout Badge.", "translation": "Odznaka Pączka została wyłączona po wygaśnięciu członkostwa. Odnów subskrypcję, aby ją ponownie aktywować.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_ALL_DISABLED_body", "source": "All Gathered Materials have been hidden. Please check Gathered Material options.", "translation": "Ukryto wszystkie zebrane materiały. Sprawdź ustawienia wyświetlania materiałów.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_Food_body", "source": "Cooking Ingredient Search skill required.", "translation": "Wymagana umiejętność wyszukiwania składników do gotowania.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_Jewelry_body", "source": "Gem Search skill required.", "translation": "Wymagana umiejętność wyszukiwania klejnotów.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_Metal_body", "source": "Ore Search skill required.", "translation": "Wymagana umiejętność wyszukiwania rudy.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_Tree_body", "source": "Log Search skill required.", "translation": "Wymagana umiejętność wyszukiwania drewna.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_body", "source": "Gathered Material Search skill required.", "translation": "Wymagana umiejętność wyszukiwania zebranych materiałów.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_herb_body", "source": "Herb Search skill required.", "translation": "Wymagana umiejętność wyszukiwania ziół.", "status": "draft"}
+{"id": "Message_MSG_MINIMAP_OPTION_GATHER_NEEDS_GATHERING_SKILL_od_body", "source": "Odyle Search skill required.", "translation": "Wymagana umiejętność wyszukiwania Odyle.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_LOCKED_INTERACT_FAIL_body", "source": "Cannot resonate with Monolith.", "translation": "Nie można rezonować z Monolitem.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_RESONATE_INVENTORY_FULL_body", "source": "Insufficient Cube space.", "translation": "Za mało miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_RESONATE_ITEM_LOCK_body", "source": "Item required for resonance is locked.", "translation": "Wymagany przedmiot do rezonansu jest zablokowany.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_RESONATE_ITEM_NONE_body", "source": "Insufficient Empyrean Traces to resonate with the Monolith.", "translation": "Za mało Śladów Empyreum, aby rezonować z Monolitem.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_RESONATE_LEVEL_MAX_body", "source": "Max resonance level reached.", "translation": "Osiągnięto maksymalny poziom rezonansu.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_SYNC_FAIL_body", "source": "Failed to sync Empyrean Trace Collection. Please try again later.", "translation": "Nie udało się zsynchronizować kolekcji Śladów Empyreum. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_SYNC_MAX_ALREADY_body", "source": "You have already reached the maximum limit for Empyrean Traces.", "translation": "Osiągnięto już maksymalny limit Śladów Empyreum.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_SYNC_QUESTNOTCLEAR_body", "source": "Please try again after completing the currently active quest.", "translation": "Ukończ aktualnie aktywne zadanie i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_SYNC_SAME_body", "source": "Empyrean Traces are already up to date. There is no need to sync.", "translation": "Ślady Empyreum są aktualne. Nie trzeba ich synchronizować.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_MAIN_BUTTON_SYNC_SUCCESS_body", "source": "Successfully synced Empyrean Traces and moved them to your inventory.", "translation": "Zsynchronizowano Ślady Empyreum i przeniesiono je do ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_QUEST_GIVEUP_body", "source": "Monolith quest list has been reset.", "translation": "Zresetowano listę zadań Monolitu.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_QUEST_TOOLTIP_BUTTON_REWARDED_body", "source": "Quest already completed.", "translation": "Zadanie zostało już ukończone.", "status": "draft"}
+{"id": "Message_MSG_MONOLITH_UNLOCK_body", "source": "Now able to resonate with {0}.", "translation": "Można już rezonować z {0}.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_1SLOT_MAX_PLAYER_body", "source": "Exceeded maximum member limit for this Cube.", "translation": "Przekroczono maksymalną liczbę uczestników tej Kostki.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_1SLOT_MAX_TICKET_PLAYER1_body", "source": "This Cube has a limit of up to {0} per person.", "translation": "Limit tej Kostki wynosi {0} na osobę.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_1SLOT_MAX_TICKET_body", "source": "Exceeded selection limit for this Cube.", "translation": "Przekroczono limit wyborów w tej Kostce.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_ERROR_NO_AUTHORITY_body", "source": "No permission to select rewards.", "translation": "Brak uprawnień do wyboru nagród.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_SELECT_FAIL_CONSUME_body", "source": "{0} Monster Cube Key(s) remaining.\nAll keys must be consumed before completing selection.", "translation": "Pozostało kluczy Kostki Potwora: {0}.\nAby zakończyć wybór, musisz wykorzystać wszystkie klucze.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_SELECT_FAIL_body", "source": "Selected all options available.", "translation": "Wybrano wszystkie dostępne opcje.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_SELECT_OK_body", "source": "Selection already completed.", "translation": "Wybór został już zakończony.", "status": "draft"}
+{"id": "Message_MSG_MONSTERCUBE_REWARD_TOTAL_LIMIT_TICKET_COUNT_body", "source": "Can select up to {0} Cubes.", "translation": "Można wybrać maksymalnie {0} Kostek.", "status": "draft"}
+{"id": "Message_MSG_MOVEMAPCONDITION_UNSATISFIED_body", "source": "You do not meet the minimum requirements to enter.", "translation": "Nie spełniasz minimalnych wymagań wejścia.", "status": "draft"}
+{"id": "Message_MSG_MusphelHolyGrail_Notice_1_body", "source": "The guardian statues blocking the path have fallen.\nA sealed updraft is revealed.", "translation": "Posągi strażników blokujące drogę runęły.\nOdsłonił się zapieczętowany prąd wstępujący.", "status": "draft"}
+{"id": "Message_MSG_MusphelHolyGrail_Notice_2_body", "source": "The heat billowing from Iscariel has dissipated,\nopening the way to the depths.", "translation": "Żar buchający z Iscariela rozwiał się,\notwierając drogę w głąb.", "status": "draft"}
+{"id": "Message_MSG_MusphelHolyGrail_Notice_3_body", "source": "The dormant guardian opens its eyes as you approach.", "translation": "Uśpiony strażnik otwiera oczy, gdy się zbliżasz.", "status": "draft"}
+{"id": "Message_MSG_NEED_SELECT_REWARD_body", "source": "Select rewards.", "translation": "Wybierz nagrody.", "status": "draft"}
+{"id": "Message_MSG_NEED_STOREHOUSE_SLOT_body", "source": "Insufficient Storage space. Please try again after organizing items or expanding the Storage.", "translation": "Za mało miejsca w magazynie. Uporządkuj przedmioty lub powiększ magazyn i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_NOTPOSSIBLE_CLASSICMODE_MOUSEKEY_body", "source": "Cannot use mouse buttons as shortcuts in AION 1 Mode.", "translation": "W trybie AION 1 nie można przypisywać skrótów do przycisków myszy.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_COUNT_MONEY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_CURRENCY_body", "source": "Insufficient {0}.", "translation": "Za mało: {0}.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_DISTANCE_FORCE_body", "source": "Cannot obtain because you are too far away from the Force Leader.", "translation": "Nie można zdobyć przedmiotu — jesteś zbyt daleko od lidera grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_DISTANCE_PARTY_body", "source": "Cannot obtain because you are too far away from the Party Leader.", "translation": "Nie można zdobyć przedmiotu — jesteś zbyt daleko od lidera drużyny.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_GOODS_FOR_BUY_body", "source": "Insufficient funds to purchase.", "translation": "Za mało środków na zakup.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_INVENTORY_PET_LOOTING_body", "source": "Insufficient Cube space.", "translation": "Za mało miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_INVENTORY_body", "source": "Insufficient Cube space.", "translation": "Za mało miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_KINA_body", "source": "Insufficient Kina.", "translation": "Za mało Kiny.", "status": "draft"}
+{"id": "Message_MSG_NOT_ENOUGH_SP_body", "source": "Insufficient Stamina.", "translation": "Za mało Wytrzymałości.", "status": "draft"}
+{"id": "Message_MSG_NOT_EXIST_ITEM_body", "source": "Item does not exist.", "translation": "Przedmiot nie istnieje.", "status": "draft"}
+{"id": "Message_MSG_NOT_USE_SOUL_BIND_OTHERCHARACTER_body", "source": "Another character has used Soul Binding on this gear already.", "translation": "Inna postać związała już duszę z tym wyposażeniem.", "status": "draft"}
+{"id": "Message_MSG_NO_ACQUISITION_AUTHORITY_LOOT_body", "source": "No items available to acquire.", "translation": "Brak przedmiotów do zdobycia.", "status": "draft"}
+{"id": "Message_MSG_NO_ACQUISITION_AUTHORITY_body", "source": "No permission to acquire item.", "translation": "Brak uprawnień do zdobycia przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_BUY_CANNOTBUY_LIMIT_body", "source": "Cannot add more items.", "translation": "Nie można dodać kolejnych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_CANNOTSELL_CHANGED_body", "source": "An item that cannot be sold is included.\nPlease try again after checking the registered items.", "translation": "Wśród zarejestrowanych przedmiotów znajduje się taki, którego nie można sprzedać.\nSprawdź przedmioty i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_CANNOTSELL_PRESET_body", "source": "Cannot sell Gear registered in Presets.", "translation": "Nie można sprzedać wyposażenia przypisanego do zestawu.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_CANNOT_BUY_TIMEOVER_body", "source": "Shop has been reset after purchase limit period expired. Please try again.", "translation": "Po zakończeniu okresu limitu zakupów sklep został zresetowany. Spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_NOTHING_body", "source": "No registered items.", "translation": "Nie zarejestrowano przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_SELL_CANNOTBUY_SUITABLECONDITION_body", "source": "Cannot purchase because the purchase requirements are not met.", "translation": "Nie można kupić — nie spełniono wymagań zakupu.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_SELL_SUCCESS_body", "source": "Sale completed.", "translation": "Sprzedaż zakończona.", "status": "draft"}
+{"id": "Message_MSG_NPCSHOP_SHOPPINGCART_CANNOT_REGISTER_TIMEOVER_body", "source": "Item list need to be refreshed. Please try again later.", "translation": "Należy odświeżyć listę przedmiotów. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_NPCTELEPORT_UNENABLE_BY_COST_body", "source": "Insufficient funds to teleport.", "translation": "Za mało środków, aby się teleportować.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_BlueScore_1_body", "source": "1 Point to Blue Team! Flag respawns in 10 seconds.", "translation": "Punkt dla Niebieskich! Flaga pojawi się ponownie za 10 sekund.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_FlagSpawn_1_body", "source": "Flag has respawned.", "translation": "Flaga pojawiła się ponownie.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_RedScore_1_body", "source": "1 Point to Red Team! Flag respawns in 10 seconds.", "translation": "Punkt dla Czerwonych! Flaga pojawi się ponownie za 10 sekund.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Sand_Trap_1_body", "source": "Sandstorm looms over the Central Plaza Base.", "translation": "Burza piaskowa nadciąga nad bazę Central Plaza.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site1_Notice_01_body", "source": "Team RED is attempting to occupy the Eastern Zikel Base.", "translation": "Czerwoni próbują przejąć bazę Eastern Zikel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site1_Notice_02_body", "source": "Team RED has occupied the Eastern Zikel Base.", "translation": "Czerwoni przejęli bazę Eastern Zikel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site1_Notice_03_body", "source": "Team BLUE is attempting to occupy the Eastern Zikel Base.", "translation": "Niebiescy próbują przejąć bazę Eastern Zikel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site1_Notice_04_body", "source": "Team BLUE has occupied the Eastern Zikel Base.", "translation": "Niebiescy przejęli bazę Eastern Zikel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site2_Notice_01_body", "source": "Team RED is attempting to occupy the Central Plaza Base.", "translation": "Czerwoni próbują przejąć bazę Central Plaza.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site2_Notice_02_body", "source": "Team RED has occupied the Central Plaza Base.", "translation": "Czerwoni przejęli bazę Central Plaza.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site2_Notice_03_body", "source": "Team BLUE is attempting to occupy the Central Plaza Base.", "translation": "Niebiescy próbują przejąć bazę Central Plaza.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site2_Notice_04_body", "source": "Team BLUE has occupied the Central Plaza Base.", "translation": "Niebiescy przejęli bazę Central Plaza.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site3_Notice_01_body", "source": "Team RED is attempting to occupy the Western Kaisinel Base.", "translation": "Czerwoni próbują przejąć bazę Western Kaisinel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site3_Notice_02_body", "source": "Team RED has occupied the Western Kaisinel Base.", "translation": "Czerwoni przejęli bazę Western Kaisinel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site3_Notice_03_body", "source": "Team BLUE is attempting to occupy the Western Kaisinel Base.", "translation": "Niebiescy próbują przejąć bazę Western Kaisinel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Site3_Notice_04_body", "source": "Team BLUE has occupied the Western Kaisinel Base.", "translation": "Niebiescy przejęli bazę Western Kaisinel.", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Snow_1_body", "source": "You will be frozen for a short time after the storm rages.", "translation": "Po nadejściu burzy przez krótki czas będziesz zamrożony(-a).", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_01_body", "source": "A relic will appear in 10 seconds!", "translation": "Relikt pojawi się za 10 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_02_body", "source": "A relic will appear in 9 seconds!", "translation": "Relikt pojawi się za 9 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_03_body", "source": "A relic will appear in 8 seconds!", "translation": "Relikt pojawi się za 8 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_04_body", "source": "A relic will appear in 7 seconds!", "translation": "Relikt pojawi się za 7 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_05_body", "source": "A relic will appear in 6 seconds!", "translation": "Relikt pojawi się za 6 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_06_body", "source": "A relic will appear in 5 seconds!", "translation": "Relikt pojawi się za 5 sekund!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_07_body", "source": "A relic will appear in 4 seconds!", "translation": "Relikt pojawi się za 4 sekundy!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_08_body", "source": "A relic will appear in 3 seconds!", "translation": "Relikt pojawi się za 3 sekundy!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_09_body", "source": "A relic will appear in 2 seconds!", "translation": "Relikt pojawi się za 2 sekundy!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_10_body", "source": "A relic will appear in 1 seconds!", "translation": "Relikt pojawi się za 1 sekundę!", "status": "draft"}
+{"id": "Message_MSG_NPC_Arena_Spawn_Notice_11_body", "source": "A relic has appeared.", "translation": "Pojawił się relikt.", "status": "draft"}
+{"id": "Message_MSG_NPC_BOSS_BERSERK_body", "source": "{0} is raging.", "translation": "{0} wpada w szał.", "status": "draft"}
+{"id": "Message_MSG_NPC_SPAWN_01_body", "source": "{0} has appeared.", "translation": "Pojawia się {0}.", "status": "draft"}
+{"id": "Message_MSG_NPC_SPAWN_02_body", "source": "{0} has appeared. Prepare for battle.", "translation": "Pojawia się {0}. Przygotuj się do walki.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_BLUE_WIN_body", "source": "Elyos Victory!", "translation": "Zwycięstwo Elyos!", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_BOSS_BLUE_body", "source": "Mythical Bird Lupyllini is preparing to attack the Asmodian tower!", "translation": "Mityczny ptak Lupyllini szykuje się do ataku na wieżę Asmodian!", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_BOSS_RED_body", "source": "Mythical Bird Lupyllini is preparing to attack the Elyos tower!", "translation": "Mityczny ptak Lupyllini szykuje się do ataku na wieżę Elyos!", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_BOSS_body", "source": "{0} has appeared! Defeat it to turn Lupyllini into an ally that attacks enemy towers.", "translation": "Pojawił się {0}! Pokonaj go, aby Lupyllini stał się sojusznikiem atakującym wieże wroga.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_FLAG_body", "source": "Flag spawned in center.", "translation": "Flaga pojawiła się na środku.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_HASTE_body", "source": "{0} has appeared! Defeat it to acquire Swift skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Szybkość.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_HEAL_body", "source": "{0} has appeared! Defeat it to acquire Recovery skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Regeneracja.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_INVINCIBLE_body", "source": "{0} has appeared! Defeat it to acquire Invincibility skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Nieśmiertelność.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_PULL_body", "source": "{0} has appeared! Defeat it to acquire Grapple skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Chwyt.", "status": "draft"}

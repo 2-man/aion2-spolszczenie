@@ -1,0 +1,110 @@
+{"id":"String_UI_desc_ResistEarth_body","source":"<epic>Weakens</> Damage taken when attacked by Earth.","translation":"<epic>Zmniejsza</> obrażenia otrzymywane od ziemi.","status":"draft"}
+{"id":"String_UI_desc_ResistFire_body","source":"<epic>Weakens</> Damage taken when attacked by Fire.","translation":"<epic>Zmniejsza</> obrażenia otrzymywane od ognia.","status":"draft"}
+{"id":"String_UI_desc_ResistWater_body","source":"<epic>Weakens</> Damage taken when attacked by Water.","translation":"<epic>Zmniejsza</> obrażenia otrzymywane od wody.","status":"draft"}
+{"id":"String_UI_desc_ResistWind_body","source":"<epic>Weakens</> Damage taken when attacked by Wind.","translation":"<epic>Zmniejsza</> obrażenia otrzymywane od wiatru.","status":"draft"}
+{"id":"String_UI_desc_RestAPRegen_body","source":"Restores Rage at set intervals when out of combat.","translation":"Odnawia szał w określonych odstępach czasu poza walką.","status":"draft"}
+{"id":"String_UI_desc_RestFPRegen_body","source":"Restores Flight Power at set intervals when out of combat.","translation":"Odnawia moc lotu w określonych odstępach czasu poza walką.","status":"draft"}
+{"id":"String_UI_desc_RestHPRegen_body","source":"Restores HP at set intervals when out of combat.","translation":"Odnawia PŻ w określonych odstępach czasu poza walką.","status":"draft"}
+{"id":"String_UI_desc_RestMPRegen_body","source":"Restores MP at set intervals when out of combat.","translation":"Odnawia PM w określonych odstępach czasu poza walką.","status":"draft"}
+{"id":"String_UI_desc_RestSPRegen_body","source":"Restores Stamina at set intervals when out of combat.","translation":"Odnawia wytrzymałość w określonych odstępach czasu poza walką.","status":"draft"}
+{"id":"String_UI_desc_Restoration_body","source":"Increases Regeneration activation chance.\nAffected by target's Regeneration Penetration.\n<Legend>※ Regeneration: Recovers a portion of Damage as HP.</>","translation":"Zwiększa szansę aktywacji regeneracji.\nZależy od przebicia regeneracji celu.\n<Legend>※ Regeneracja: przywraca część otrzymanych obrażeń jako PŻ.</>","status":"draft"}
+{"id":"String_UI_desc_RingDamageRatio_body","source":"Ring Attack increase.","translation":"Zwiększa atak pierścienia.","status":"draft"}
+{"id":"String_UI_desc_RingDefenseRatio_body","source":"Ring Defense increase.","translation":"Zwiększa obronę pierścienia.","status":"draft"}
+{"id":"String_UI_desc_SPHealRate_body","source":"Increases Stamina Heal.","translation":"Zwiększa leczenie wytrzymałości.","status":"draft"}
+{"id":"String_UI_desc_SPHealRegen_body","source":"Increases Stamina Heal.","translation":"Zwiększa leczenie wytrzymałości.","status":"draft"}
+{"id":"String_UI_desc_SPMax_body","source":"Consumed when sprinting or evading.\nApplies when sprinting normally or while riding a pet.","translation":"Zużywana podczas sprintu lub uniku.\nDziała podczas zwykłego sprintu oraz jazdy na wierzchowcu.","status":"draft"}
+{"id":"String_UI_desc_SPPotionRate_body","source":"Increases Stamina Potion Recovery.","translation":"Zwiększa odzysk wytrzymałości z mikstur.","status":"draft"}
+{"id":"String_UI_desc_SPPotionRegen_body","source":"Increases Stamina Potion Recovery.","translation":"Zwiększa odzysk wytrzymałości z mikstur.","status":"draft"}
+{"id":"String_UI_desc_SPRegenRatio_body","source":"Increases Stamina Regen.","translation":"Zwiększa regenerację wytrzymałości.","status":"draft"}
+{"id":"String_UI_desc_SPRegen_body","source":"Restores Stamina at set intervals.","translation":"Odnawia wytrzymałość w określonych odstępach czasu.","status":"draft"}
+{"id":"String_UI_desc_STR_body","source":"Increases Attack.","translation":"Zwiększa atak.","status":"draft"}
+{"id":"String_UI_desc_SealStoneAddDamage_body","source":"Increases Damage when <unique>using</> <unique>Power Shard</>.","translation":"Zwiększa obrażenia podczas <unique>używania</> <unique>Odłamka Mocy</>.","status":"draft"}
+{"id":"String_UI_desc_SealStoneAmplifyDamage_body","source":"<Rare>Boosts</> Damage when <unique>using</> <unique>Power Shard</>.","translation":"<Rare>Zwiększa</> obrażenia podczas <unique>używania</> <unique>Odłamka Mocy</>.","status":"draft"}
+{"id":"String_UI_desc_SealStonePvPIgnoreDefense_body","source":"<Rare>Boosts</> Damage when <unique>using</> <unique>Power Shard</>.","translation":"<Rare>Zwiększa</> obrażenia podczas <unique>używania</> <unique>Odłamka Mocy</>.","status":"draft"}
+{"id":"String_UI_desc_ShieldBlockDefense_body","source":"Reduces more Damage when Shield Block activates.","translation":"Zmniejsza dodatkowe obrażenia, gdy aktywuje się blok tarczą.","status":"draft"}
+{"id":"String_UI_desc_ShieldBlockPierce_body","source":"Reduces target's Shield Block Chance.","translation":"Zmniejsza szansę celu na blok tarczą.","status":"draft"}
+{"id":"String_UI_desc_ShieldBlock_body","source":"Increases Parry Chance and Shield Block Chance.\nCan Parry after blocking with shield.\nAffected by target's Accuracy and Block Penetration.\n<Legend>※ Block Damage Reduction Rate varies based on Gear Grade.</>","translation":"Zwiększa szansę na parowanie i blok tarczą.\nMożna parować po zablokowaniu ataku tarczą.\nZależy od celności i przebicia bloku celu.\n<Legend>※ Redukcja obrażeń przy bloku zależy od klasy wyposażenia.</>","status":"draft"}
+{"id":"String_UI_desc_ShockPropertyAccuracy_body","source":"Increases the chance of landing Impact-type status effect skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności wywołujących efekty statusu typu uderzenie.","status":"draft"}
+{"id":"String_UI_desc_ShockPropertyResist_body","source":"Reduces the target's chance of landing Impact-type status effect skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności wywołujących efekty statusu typu uderzenie.","status":"draft"}
+{"id":"String_UI_desc_ShockPropertyTimeDecrease_body","source":"Reduces Impact-type status duration.","translation":"Skraca czas efektów statusu typu uderzenie.","status":"draft"}
+{"id":"String_UI_desc_ShockPropertyTimeIncrease_body","source":"Increases Impact-type status duration.","translation":"Wydłuża czas efektów statusu typu uderzenie.","status":"draft"}
+{"id":"String_UI_desc_ShoulderDefenseRatio_body","source":"Pauldrons Defense increase.","translation":"Zwiększa obronę naramienników.","status":"draft"}
+{"id":"String_UI_desc_SilenceAccuracy_body","source":"Increases the chance of landing Silence skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności wyciszających.","status":"draft"}
+{"id":"String_UI_desc_SilenceResist_body","source":"Reduces the target's chance of landing Silence skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności wyciszających.","status":"draft"}
+{"id":"String_UI_desc_SilenceTimeDecrease_body","source":"Reduces Silence duration.","translation":"Skraca czas wyciszenia.","status":"draft"}
+{"id":"String_UI_desc_SilenceTimeIncrease_body","source":"Increases Silence duration.","translation":"Wydłuża czas wyciszenia.","status":"draft"}
+{"id":"String_UI_desc_SkillAccuracy_body","source":"Prevents skill attack from missing.\nAffected by target's Evasion.","translation":"Zapobiega chybieniu ataku umiejętnością.\nZależy od uniku celu.","status":"draft"}
+{"id":"String_UI_desc_SkillCriticalResist_body","source":"Reduces target's Skill Critical Hit Rate when attacked.","translation":"Zmniejsza szansę celu na krytyczne trafienie umiejętnością podczas ataku.","status":"draft"}
+{"id":"String_UI_desc_SkillCritical_body","source":"Attacking with a skill has a chance to deal a critical hit.\nAffected by target's Skill Critical Hit Resist.","translation":"Atak umiejętnością może zadać trafienie krytyczne.\nZależy od odporności celu na krytyczne trafienia umiejętnościami.","status":"draft"}
+{"id":"String_UI_desc_SkillDamage_body","source":"Skill Attack","translation":"Atak umiejętnością","status":"draft"}
+{"id":"String_UI_desc_SkillDefense_body","source":"Defense against Skill Attack.\nReduces Skill Damage taken.","translation":"Obrona przed atakiem umiejętnością.\nZmniejsza otrzymywane obrażenia od umiejętności.","status":"draft"}
+{"id":"String_UI_desc_SkillEvasion_body","source":"Evading skills prevents damage. Max Evasion rate is <Mythic>30%</>.","translation":"Unikanie umiejętności zapobiega otrzymywaniu obrażeń. Maks. szansa na unik wynosi <Mythic>30%</>.","status":"draft"}
+{"id":"String_UI_desc_SkillSpeed_body","source":"Increases Spell Action Speed.","translation":"Zwiększa szybkość wykonywania zaklęć.","status":"draft"}
+{"id":"String_UI_desc_SleepAccuracy_body","source":"Increases the chance of landing Sleep skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności usypiających.","status":"draft"}
+{"id":"String_UI_desc_SleepResist_body","source":"Reduces the target's chance of landing Sleep skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności usypiających.","status":"draft"}
+{"id":"String_UI_desc_SleepTimeDecrease_body","source":"Reduces Sleep duration.","translation":"Skraca czas snu.","status":"draft"}
+{"id":"String_UI_desc_SleepTimeIncrease_body","source":"Increases Sleep duration.","translation":"Wydłuża czas snu.","status":"draft"}
+{"id":"String_UI_desc_SlowAccuracy_body","source":"Increases the chance of landing Lethargy skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności otępiających.","status":"draft"}
+{"id":"String_UI_desc_SlowResist_body","source":"Reduces the target's chance of landing Lethargy skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności otępiających.","status":"draft"}
+{"id":"String_UI_desc_SlowTimeDecrease_body","source":"Reduces Lethargy duration.","translation":"Skraca czas otępienia.","status":"draft"}
+{"id":"String_UI_desc_SlowTimeIncrease_body","source":"Increases Lethargy duration.","translation":"Wydłuża czas otępienia.","status":"draft"}
+{"id":"String_UI_desc_SnareAccuracy_body","source":"Increases the chance of landing Slow skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności spowalniających.","status":"draft"}
+{"id":"String_UI_desc_SnareResist_body","source":"Reduces the target's chance of landing Slow skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności spowalniających.","status":"draft"}
+{"id":"String_UI_desc_SnareTimeDecrease_body","source":"Reduces Slow duration.","translation":"Skraca czas spowolnienia.","status":"draft"}
+{"id":"String_UI_desc_SnareTimeIncrease_body","source":"Increases Slow duration.","translation":"Wydłuża czas spowolnienia.","status":"draft"}
+{"id":"String_UI_desc_Space_body","source":"<unique>Space [Israphel]</>\nIncreases Move Speed and Block Chance.","translation":"<unique>Przestrzeń [Israphel]</>\nZwiększa szybkość poruszania się i szansę bloku.","status":"draft"}
+{"id":"String_UI_desc_SpellSpeed_body","source":"Increases Spell Speed.","translation":"Zwiększa szybkość rzucania zaklęć.","status":"draft"}
+{"id":"String_UI_desc_SprintCost_body","source":"Reduces Stamina Cost when sprinting.","translation":"Zmniejsza zużycie wytrzymałości podczas sprintu.","status":"draft"}
+{"id":"String_UI_desc_SprintSpeed_body","source":"Increases Sprint Speed.","translation":"Zwiększa szybkość sprintu.","status":"draft"}
+{"id":"String_UI_desc_StaffDamageRatio_body","source":"Staff Attack increase.","translation":"Zwiększa atak kostura.","status":"draft"}
+{"id":"String_UI_desc_StoneAccuracy_body","source":"Increases the chance of landing Petrify skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności petryfikujących.","status":"draft"}
+{"id":"String_UI_desc_StoneResist_body","source":"Reduces the target's chance of landing Petrify skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności petryfikujących.","status":"draft"}
+{"id":"String_UI_desc_StoneTimeDecrease_body","source":"Reduces Petrify duration.","translation":"Skraca czas petryfikacji.","status":"draft"}
+{"id":"String_UI_desc_StoneTimeIncrease_body","source":"Increases Petrify duration.","translation":"Wydłuża czas petryfikacji.","status":"draft"}
+{"id":"String_UI_desc_StunAccuracy_body","source":"Increases the chance of landing Stun skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności ogłuszających.","status":"draft"}
+{"id":"String_UI_desc_StunResist_body","source":"Reduces the target's chance of landing Stun skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności ogłuszających.","status":"draft"}
+{"id":"String_UI_desc_StunTimeDecrease_body","source":"Reduces Stun duration.","translation":"Skraca czas ogłuszenia.","status":"draft"}
+{"id":"String_UI_desc_StunTimeIncrease_body","source":"Increases Stun duration.","translation":"Wydłuża czas ogłuszenia.","status":"draft"}
+{"id":"String_UI_desc_SwimmingDamage_body","source":"Increases Damage when attacking underwater.","translation":"Zwiększa obrażenia podczas ataku pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwimmingDefense_body","source":"Reduces Damage taken underwater.","translation":"Zmniejsza otrzymywane obrażenia pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwimmingMagicDamage_body","source":"Increases Magic Damage when attacking underwater.","translation":"Zwiększa obrażenia magiczne podczas ataku pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwimmingPhysicDamage_body","source":"Increases Physical Damage when attacking underwater.","translation":"Zwiększa obrażenia fizyczne podczas ataku pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwimmingSpeed_body","source":"Increases Move Speed underwater.","translation":"Zwiększa szybkość poruszania się pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwimmingSprintCost_body","source":"Reduces Stamina Cost when swimming fast.","translation":"Zmniejsza zużycie wytrzymałości podczas szybkiego pływania.","status":"draft"}
+{"id":"String_UI_desc_SwimmingSprintSpeed_body","source":"Increases Sprint Speed underwater.","translation":"Zwiększa szybkość sprintu pod wodą.","status":"draft"}
+{"id":"String_UI_desc_SwordDamageRatio_body","source":"Longsword Attack increase.","translation":"Zwiększa atak miecza.","status":"draft"}
+{"id":"String_UI_desc_TauntAccuracy_body","source":"Increases the chance of landing Taunt skills by a certain rate.","translation":"Zwiększa szansę powodzenia umiejętności prowokujących.","status":"draft"}
+{"id":"String_UI_desc_TauntResist_body","source":"Reduces the target's chance of landing Taunt skills by a certain rate.","translation":"Zmniejsza szansę celu na powodzenie umiejętności prowokujących.","status":"draft"}
+{"id":"String_UI_desc_TauntTimeDecrease_body","source":"Reduces Taunt duration.","translation":"Skraca czas prowokacji.","status":"draft"}
+{"id":"String_UI_desc_TauntTimeIncrease_body","source":"Increases Taunt duration.","translation":"Wydłuża czas prowokacji.","status":"draft"}
+{"id":"String_UI_desc_Time_body","source":"<unique>Time [Siel]</>\nIncreases Combat Speed and Double Resist.","translation":"<unique>Czas [Siel]</>\nZwiększa szybkość walki i odporność na podwójne trafienie.","status":"draft"}
+{"id":"String_UI_desc_TorsoDefenseRatio_body","source":"Top Defense increase.","translation":"Zwiększa obronę nakrycia głowy.","status":"draft"}
+{"id":"String_UI_desc_TransAccuracy_body","source":"Accuracy added when attacking Varian.\nOffset by the Varian's Evasion and Block.","translation":"Zwiększa celność podczas ataku na Varian.\nWartość pomniejszają unik i blok Varian.","status":"draft"}
+{"id":"String_UI_desc_TransAmplifyDamage_body","source":"<Rare>Boosts</> Damage when attacking Varian.\nAffected by target's Varian Damage Tolerance.","translation":"<Rare>Zwiększa</> obrażenia przy ataku na Varian.\nZależy od odporności celu na obrażenia od Varian.","status":"draft"}
+{"id":"String_UI_desc_TransBlockPierce_body","source":"Ignores Varian Block Chance when attacking Varian.","translation":"Ignoruje szansę bloku Varian podczas ataku na Varian.","status":"draft"}
+{"id":"String_UI_desc_TransBlock_body","source":"Increases Block Chance when attacked by Varian.","translation":"Zwiększa szansę bloku przy ataku Varian.","status":"draft"}
+{"id":"String_UI_desc_TransCriticalResist_body","source":"Reduces Critical Hit Rate when attacked by Varian.","translation":"Zmniejsza szansę na trafienie krytyczne przy ataku Varian.","status":"draft"}
+{"id":"String_UI_desc_TransCritical_body","source":"Increases Critical Hit Rate when attacking Varian.","translation":"Zwiększa szansę na trafienie krytyczne przy ataku na Varian.","status":"draft"}
+{"id":"String_UI_desc_TransDamage_body","source":"Increases Damage when attacking Varian.","translation":"Zwiększa obrażenia przy ataku na Varian.","status":"draft"}
+{"id":"String_UI_desc_TransDecreaseDamage_body","source":"<epic>Weakens</> Damage taken when attacked by Varian.","translation":"<epic>Zmniejsza</> obrażenia otrzymywane podczas ataku Varian.","status":"draft"}
+{"id":"String_UI_desc_TransDefense_body","source":"Reduces Damage taken from Varian.","translation":"Zmniejsza otrzymywane obrażenia od Varian.","status":"draft"}
+{"id":"String_UI_desc_TransEvasion_body","source":"Increases chance to evade incoming attacks when attacked by Varian.","translation":"Zwiększa szansę uniknięcia ataków Varian.","status":"draft"}
+{"id":"String_UI_desc_VehicleSpeed_body","source":"Basic Move Speed while riding a pet.","translation":"Podstawowa szybkość poruszania się podczas jazdy na wierzchowcu.","status":"draft"}
+{"id":"String_UI_desc_VehicleSprintCost_body","source":"Reduces Stamina consumed when sprinting while riding a pet.","translation":"Zmniejsza zużycie wytrzymałości podczas sprintu na wierzchowcu.","status":"draft"}
+{"id":"String_UI_desc_VehicleSprintSpeed_body","source":"Increases Move Speed when sprinting while riding a pet.","translation":"Zwiększa szybkość poruszania się podczas sprintu na wierzchowcu.","status":"draft"}
+{"id":"String_UI_desc_WIS_body","source":"Increases Status Effect Resist.","translation":"Zwiększa odporność na efekty statusu.","status":"draft"}
+{"id":"String_UI_desc_WalkSpeed_body","source":"Increases Walk Speed.","translation":"Zwiększa szybkość chodzenia.","status":"draft"}
+{"id":"String_UI_desc_WaterDamageDefense_body","source":"Reduces Damage taken from Water.","translation":"Zmniejsza otrzymywane obrażenia od wody.","status":"draft"}
+{"id":"String_UI_desc_WeaponAccuracy_body","source":"Prevents attack from missing.\nOffset by target's Evasion and Block.","translation":"Zapobiega chybieniu ataku.\nWartość pomniejszają unik i blok celu.","status":"draft"}
+{"id":"String_UI_desc_WeaponBlockDefense_body","source":"Reduces more Damage when Parry activates.","translation":"Zmniejsza dodatkowe obrażenia, gdy aktywuje się parowanie.","status":"draft"}
+{"id":"String_UI_desc_WeaponBlockPierce_body","source":"Reduces target's Parry Chance.","translation":"Zmniejsza szansę celu na parowanie.","status":"draft"}
+{"id":"String_UI_desc_WeaponBlock_body","source":"Increases Parry Chance.\nAffected by target's Accuracy and Block Penetration.\n<Legend>※ Block Damage Reduction Rate varies based on Gear Grade.</>","translation":"Zwiększa szansę na parowanie.\nZależy od celności i przebicia bloku celu.\n<Legend>※ Redukcja obrażeń przy bloku zależy od klasy wyposażenia.</>","status":"draft"}
+{"id":"String_UI_desc_WeaponDamage_body","source":"Max Attack of the weapon.\n<Legend>Perfect</> scales with Max Attack.","translation":"Maksymalny atak broni.\n<Legend>Perfekcyjne trafienie</> skaluje się z maksymalnym atakiem.","status":"draft"}
+{"id":"String_UI_desc_WeaponFixingDamage_body","source":"Basic Attack.\nHigher Attack deals more damage.","translation":"Atak podstawowy.\nWyższy atak zadaje większe obrażenia.","status":"draft"}
+{"id":"String_UI_desc_WeaponMinDamage_body","source":"Min Attack of the weapon.","translation":"Minimalny atak broni.","status":"draft"}
+{"id":"String_UI_desc_WindDamageDefense_body","source":"Reduces Damage taken from Wind.","translation":"Zmniejsza otrzymywane obrażenia od wiatru.","status":"draft"}
+{"id":"String_UI_desc_Wisdom_body","source":"<unique>Wisdom [Lumiel]</>\nReduces MP Consumption and increases Double Chance.","translation":"<unique>Mądrość [Lumiel]</>\nZmniejsza zużycie PM i zwiększa szansę podwójnego trafienia.","status":"draft"}
+{"id":"String_UI_dutymission_quest_complete_limit_owner_character_body","source":"Per Character","translation":"Na postać","status":"draft"}
+{"id":"String_UI_dutymission_quest_complete_limit_owner_server_body","source":"Per Server","translation":"Na serwer","status":"draft"}
+{"id":"String_UI_dutymission_quest_rewarded_max_body","source":"{0} Daily Completion Available","translation":"Dostępne ukończenia dzienne: {0}","status":"draft"}
+{"id":"String_UI_dutymission_quest_rewarded_max_count_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}

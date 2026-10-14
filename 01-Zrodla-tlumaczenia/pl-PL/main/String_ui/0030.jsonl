@@ -1,0 +1,250 @@
+{"id": "String_UI_SHOP_WAREHOUSE_WITHDRAW_EXPIRED_body", "source": "Expired", "translation": "Wygasło", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_WITHDRAW_PERIOD_body", "source": "Refund Period: {0}", "translation": "Okres zwrotu: {0}", "status": "draft"}
+{"id": "String_UI_SHUGOFESTA_INFO_POPUP_ENTRY_MEMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SHUGOFESTA_INFO_POPUP_NO_MEMBER_body", "source": "No other participants.", "translation": "Brak innych uczestników.", "status": "draft"}
+{"id": "String_UI_SHUGOFESTA_INFO_POPUP_START_MINIMUM_MEMBER_body", "source": "Min. {0} player(s)", "translation": "Min. {0} graczy", "status": "draft"}
+{"id": "String_UI_SHUGOFESTA_INFO_POPUP_TITLE_body", "source": "Participant Information", "translation": "Informacje o uczestnikach", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_EVENT_TIME_body", "source": "{0}:00", "translation": "{0}:00", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_LIST_INFO_END_body", "source": "Ended", "translation": "Zakończono", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_LIST_INFO_NO_SCHEDULE_body", "source": "Not Scheduled", "translation": "Nie zaplanowano", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_LIST_INFO_PREPARE_TIME_body", "source": "Open", "translation": "Otwarte", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_LIST_INFO_WAIT_TIME_SHARP_body", "source": "Opens at {0}", "translation": "Otwarcie o {0}", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_LIST_INFO_WAIT_TIME_body", "source": "Opens at {0}", "translation": "Otwarcie o {0}", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_NOW_TIME_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_NO_SCHEDULE_body", "source": "No Shugo Festival scheduled.", "translation": "Brak zaplanowanych Festiwali Shugo.", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_SHOP_ALL_BUTTON_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_SHOP_body", "source": "Festival Shop", "translation": "Sklep festiwalowy", "status": "draft"}
+{"id": "String_UI_SHUGOPESTA_TITLE_body", "source": "Shugo Festival", "translation": "Festiwal Shugo", "status": "draft"}
+{"id": "String_UI_SHUTDOWN_DESC_TITLE_body", "source": "You have been returned to the title screen due to inactivity.", "translation": "Z powodu braku aktywności nastąpił powrót do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_SHUTDOWN_DESC_body", "source": "You have been returned to the server selection screen due to inactivity.", "translation": "Z powodu braku aktywności nastąpił powrót do ekranu wyboru serwera.", "status": "draft"}
+{"id": "String_UI_SKILLCHAIN_SECTION_CHAIN_SKILL_body", "source": "Chain Skill", "translation": "Umiejętność łańcuchowa", "status": "draft"}
+{"id": "String_UI_SKILLCHAIN_SECTION_CONDITION_SKILL_body", "source": "Conditional Skill", "translation": "Umiejętność warunkowa", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_ABNORMAL_body", "source": "Level Reward: Lv. +{0}", "translation": "Nagroda za poziom: poz. +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_ARCANA_body", "source": "Arcana: Lv. +{0}", "translation": "Arcana: poz. +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_DAEVANION_body", "source": "Daevanion: Lv. +{0}", "translation": "Daevanion: poz. +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_EQUIP_body", "source": "Equipped Gear: Lv. +{0}", "translation": "Poziom wyposażenia: +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_SPECIALIZED_SKILL_body", "source": "Specialty: Lv. +{0}", "translation": "Specjalizacja: poz. +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_STIGMA_body", "source": "Stigma: Lv. +{0}", "translation": "Stygmat: poz. +{0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_ADD_LEVEL_body", "source": "<desc_point> (+{0}) </>", "translation": "<desc_point> (+{0}) </>", "status": "draft"}
+{"id": "String_UI_SKILLINFO_AUTOUSE_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_SKILLINFO_AUTOUSE_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_SKILLINFO_BUTTON_ACQUIRE_body", "source": "Acquire", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_SKILLINFO_BUTTON_LEVEL_AUTO_ORIGINAL_body", "source": "Automatically Applied at Default Skill Level", "translation": "Automatycznie zastosowano na domyślnym poziomie umiejętności", "status": "draft"}
+{"id": "String_UI_SKILLINFO_BUTTON_LEVEL_AUTO_body", "source": "Automatically Applied at Prerequisite Skill Level", "translation": "Automatycznie zastosowano na wymaganym poziomie umiejętności", "status": "draft"}
+{"id": "String_UI_SKILLINFO_BUTTON_LEVEL_MAX_body", "source": "Max Level", "translation": "Maks. poziom", "status": "draft"}
+{"id": "String_UI_SKILLINFO_BUTTON_LEVEL_UP_body", "source": "Level Up", "translation": "Podnieś poziom", "status": "draft"}
+{"id": "String_UI_SKILLINFO_CASTINGTIME_STEP_body", "source": "[Lv. {0}]", "translation": "[Poz. {0}]", "status": "draft"}
+{"id": "String_UI_SKILLINFO_CHAINSKILL_PROBABILITY_body", "source": "(Activation Chance: {0}%)", "translation": "(Szansa aktywacji: {0}%)", "status": "draft"}
+{"id": "String_UI_SKILLINFO_CHAINSKILL_STEP_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_CHAINSKILL_body", "source": "Chain Skill", "translation": "Umiejętność łańcuchowa", "status": "draft"}
+{"id": "String_UI_SKILLINFO_COOLTIME_STEP_body", "source": "[Load {0} time(s)]", "translation": "[Ładunki: {0}]", "status": "draft"}
+{"id": "String_UI_SKILLINFO_DESC_NOLIMIT_body", "source": "No Restrictions", "translation": "Bez ograniczeń", "status": "draft"}
+{"id": "String_UI_SKILLINFO_EFFECT_RANGE_body", "source": "Area", "translation": "Obszar", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SKILL_EFFECT_body", "source": "Skill Effect", "translation": "Efekt umiejętności", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SKILL_RANGE_body", "source": "{0}m", "translation": "{0} m", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SPECIALIZED_SKILL_EFFECT_body", "source": "Equipped Effect", "translation": "Efekt wyposażenia", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SPECIALIZED_SKILL_LEVEL_EFFECT_body", "source": "<desc_point>{0} Lv. {1}</>", "translation": "<desc_point>{0} poz. {1}</>", "status": "draft"}
+{"id": "String_UI_SKILLINFO_STIGMA_EFFECT_body", "source": "Equipped Effect", "translation": "Efekt wyposażenia", "status": "draft"}
+{"id": "String_UI_SKILLINFO_STIGMA_LEVEL_EFFECT_body", "source": "<desc_point>{0} Lv. {1}</>", "translation": "<desc_point>{0} poz. {1}</>", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_ACQUIRE_CONDITION_body", "source": "Acquisition Requirements", "translation": "Wymagania odblokowania", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_BATTERY_body", "source": "Power Shards Consumed", "translation": "Zużycie Kamieni Mocy", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_CASTINGTIME_body", "source": "Casting duration", "translation": "Czas rzucania", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_COOLTIME_body", "source": "Cooldown", "translation": "Czas odnowienia", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_EFFECT_body", "source": "Detailed Effects", "translation": "Szczegółowe efekty", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_LEVELUP_CONDITION_body", "source": "{0} Requirements", "translation": "Wymagania: {0}", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_USE_RANGE_body", "source": "Range", "translation": "Zasięg", "status": "draft"}
+{"id": "String_UI_SKILLINFO_SUBTITLE_WEAPON_CONDITION_body", "source": "Weapon Condition", "translation": "Wymagania dotyczące broni", "status": "draft"}
+{"id": "String_UI_SKILLTIMESETTING_TEXT_PERIOD_body", "source": "Set usage interval", "translation": "Ustaw odstęp czasu użycia", "status": "draft"}
+{"id": "String_UI_SKILLTIMESETTING_TEXT_PVP_body", "source": "Do not use settings in PvP", "translation": "Nie stosuj ustawień w PvP", "status": "draft"}
+{"id": "String_UI_SKILLTIMESETTING_TEXT_TIMESETTING_INFO_body", "source": "Set max usage interval", "translation": "Ustaw maksymalny odstęp czasu użycia", "status": "draft"}
+{"id": "String_UI_SKILL_ABNORMAL_TITLE_body", "source": "Debuff Effects", "translation": "Efekty osłabiające", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_BUTTON_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_BUTTON_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_AP_RATIO_DESC_body", "source": "Available when character Rage is {0}% {1}", "translation": "Dostępne, gdy szał postaci wynosi {0}% {1}", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_AP_RATIO_TITLE_body", "source": "Rage Condition Settings", "translation": "Ustawienia warunku szału", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_COOL_TIME_OVER_DESC_body", "source": "Available {0}s after cooldown ends", "translation": "Dostępne {0} s po zakończeniu odnowienia", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_COOL_TIME_OVER_TITLE_body", "source": "Delay", "translation": "Opóźnienie", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_ELEMENTAL_SUMMON_HP_RATIO_DESC_body", "source": "Available when spirit's HP is {0}% {1}", "translation": "Dostępne, gdy PŻ ducha wynosi {0}% {1}", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_ELEMENTAL_SUMMON_HP_RATIO_TITLE_body", "source": "Spirit HP Conditions", "translation": "Warunki PŻ ducha", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_HP_RATIO_DESC_body", "source": "Available when character HP is {0}% {1}", "translation": "Dostępne, gdy PŻ postaci wynosi {0}% {1}", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_HP_RATIO_TITLE_body", "source": "HP Condition Settings", "translation": "Ustawienia warunku PŻ", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_MP_RATIO_DESC_body", "source": "Available when character MP is {0}% {1}", "translation": "Dostępne, gdy PM postaci wynosi {0}% {1}", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_MP_RATIO_TITLE_body", "source": "MP Condition Settings", "translation": "Ustawienia warunku PM", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_OTHER_CONDITION_DESC_ABNORMAL_ID_OUT_body", "source": "Available when the character is not in {0} status", "translation": "Dostępne, gdy postać nie znajduje się w stanie {0}", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_OTHER_CONDITION_DESC_IN_SKILL_RANGE_body", "source": "Available only when the target is within the skill range", "translation": "Dostępne tylko wtedy, gdy cel znajduje się w zasięgu umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_OTHER_CONDITION_TITLE_body", "source": "Other Conditions", "translation": "Pozostałe warunki", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_BUTTON_HIGH_body", "source": "High", "translation": "Wysoki", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_BUTTON_LOW_body", "source": "Low", "translation": "Niski", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_BUTTON_MIDDLE_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_BUTTON_VERY_HIGH_body", "source": "Highest", "translation": "Najwyższy", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_BUTTON_VERY_LOW_body", "source": "Lowest", "translation": "Najniższy", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_DESC_body", "source": "Among currently available skills, use the skill with the higher priority first", "translation": "Spośród dostępnych umiejętności najpierw używaj tej o wyższym priorytecie", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_PRIORITY_TITLE_body", "source": "Priority Settings", "translation": "Ustawienia priorytetu", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_RATIO_BUTTON_LESS_body", "source": "or less", "translation": "lub mniej", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_RATIO_BUTTON_MORE_body", "source": "or more", "translation": "lub więcej", "status": "draft"}
+{"id": "String_UI_SKILL_AUTO_SETTING_body", "source": "Combat Support", "translation": "Wsparcie w walce", "status": "draft"}
+{"id":"String_UI_SKILL_AUTO_body","source":"Auto","translation":"Automatycznie","status":"draft"}
+{"id": "String_UI_SKILL_CHAINSKILL_TITLE_body", "source": "Chain Skill/Conditional Skill", "translation": "Umiejętność łańcuchowa / warunkowa", "status": "draft"}
+{"id": "String_UI_SKILL_CONTEXT_INFO_GUIDE_body", "source": "Skills are shown in quickslots based on ascending priority if they have been acquired, are not on cooldown, and whose conditions have been met (for Conditional Skills).\n\nPriority is ascending from row 3 to 0.", "translation": "Zdobyte umiejętności, które nie są odnawiane, są wyświetlane na szybkich slotach według rosnącego priorytetu. W przypadku umiejętności warunkowych muszą być także spełnione ich warunki.\n\nPriorytet rośnie od wiersza 3 do 0.", "status": "draft"}
+{"id": "String_UI_SKILL_DIALOGUE_FULL_CONTEXT_SLOT_RESET_TITLE_body", "source": "Would you like to revert the skills to default positions?\n(The current preset positions will be reset. Stigma skills must be set again.)", "translation": "Czy przywrócić domyślne położenie umiejętności?\n(Zostaną zresetowane pozycje bieżącego zestawu. Umiejętności stygmatów trzeba będzie ustawić ponownie.)", "status": "draft"}
+{"id": "String_UI_SKILL_DIALOGUE_FULL_RESET_BUTTON_RESET_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_SKILL_DIALOGUE_FULL_RESET_TITLE_body", "source": "Would you like to reset all skills?\n(All Skill Specialty effects will be deactivated upon reset.)\n(Current preset's skills will be reset.)", "translation": "Czy zresetować wszystkie umiejętności?\n(Po resecie wszystkie efekty specjalizacji umiejętności zostaną wyłączone.)\n(Umiejętności bieżącego zestawu zostaną zresetowane.)", "status": "draft"}
+{"id": "String_UI_SKILL_DIALOGUE_SINGLE_RESET_TITLE_body", "source": "Would you like to reset the skill?\n(All Skill Specialty effects will be deactivated upon reset.)\n(Current preset's skill will be reset.)", "translation": "Czy zresetować tę umiejętność?\n(Po resecie wszystkie efekty specjalizacji umiejętności zostaną wyłączone.)\n(Umiejętność bieżącego zestawu zostanie zresetowana.)", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_ACQUIRED_body", "source": "Acquired", "translation": "Zdobyte", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_ACTIVE_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_CHAINSKILL_body", "source": "Chain Skill", "translation": "Umiejętność łańcuchowa", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_CONDITIONSKILL_body", "source": "Conditional Skill", "translation": "Umiejętność warunkowa", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_EQUIPED_body", "source": "Equipped", "translation": "Wyposażone", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_FIRST_CHAINSKILL_body", "source": "Opening Skill", "translation": "Umiejętność otwierająca", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_NOT_ACQUIRED_body", "source": "Not Acquired", "translation": "Nie zdobyto", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_NOT_EQUIPED_body", "source": "Unequipped", "translation": "Niewyposażone", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_PASSIVE_body", "source": "Passive", "translation": "Pasywne", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_RESULT_EMPTY_body", "source": "No results to display.", "translation": "Brak wyników do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_SORT_RESET_body", "source": "Reset Settings", "translation": "Resetuj ustawienia", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_SORT_TITLE_body", "source": "Filter and Sort", "translation": "Filtruj i sortuj", "status": "draft"}
+{"id": "String_UI_SKILL_FILTER_TITLE_body", "source": "Filter", "translation": "Filtr", "status": "draft"}
+{"id": "String_UI_SKILL_LEVELUP_CONDITION_COST_ITEM_body", "source": "{0} ({1}/{2})", "translation": "{0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_SKILL_LEVELUP_CONDITION_LEVEL_body", "source": "Reach Character Lv. {0}", "translation": "Osiągnij poz. postaci {0}", "status": "draft"}
+{"id": "String_UI_SKILL_LEVELUP_CONDITION_SKILLBOOK_body", "source": "Acquirable after using \"{0}\"", "translation": "Można zdobyć po użyciu „{0}”", "status": "draft"}
+{"id": "String_UI_SKILL_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_ACQUIRED_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_ACTIVE_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_CHAIN_body", "source": "Chain Skill", "translation": "Umiejętność łańcuchowa", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_COMMON_body", "source": "Common", "translation": "Wspólne", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_DEFENCE_body", "source": "Defense", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_DP_body", "source": "Stigma", "translation": "Stygmat", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_EVADE_body", "source": "Evasion", "translation": "Unik", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_MISC_body", "source": "Misc.", "translation": "Pozostałe", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_PASSIVE_body", "source": "Passive", "translation": "Pasywne", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_SPECIAL_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_SKILL_LIST_CATEGORY_STIGMA_body", "source": "Stigma", "translation": "Stygmat", "status": "draft"}
+{"id": "String_UI_SKILL_POPUP_SPECIALIZED_SKILL_ACTIVATION_CONFIRM_body", "source": "You own <desc_point>{0}</>.\nWould you like to register it?", "translation": "Posiadasz <desc_point>{0}</>.\nCzy chcesz go zarejestrować?", "status": "draft"}
+{"id": "String_UI_SKILL_POPUP_STIGMA_ACTIVATION_CONFIRM_body", "source": "You own <desc_point>{0}</>.\nWould you like to register it?", "translation": "Posiadasz <desc_point>{0}</>.\nCzy chcesz go zarejestrować?", "status": "draft"}
+{"id": "String_UI_SKILL_QUICKSLOT_MACRO_POPUP_TITLE_body", "source": "Macro Icon Settings", "translation": "Ustawienia ikony makra", "status": "draft"}
+{"id": "String_UI_SKILL_QUICKSLOT_MACRO_TITLE_body", "source": "QUICK SLOT MACRO", "translation": "MAKRO SZYBKIEGO SLOTU", "status": "draft"}
+{"id":"String_UI_SKILL_SETTING_AUTO_body","source":"AUTO","translation":"AUTOMATYCZNIE","status":"draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_ADD_body", "source": "Add Macro", "translation": "Dodaj makro", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_DELAY_body", "source": "Delay", "translation": "Opóźnienie", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_DESC_body", "source": "1. Setup\n- Use the Add Macro button to add steps.\n- A delay can be set for each step.\n\n2. How to Use\n- PC: Hotkeys can be configured in Settings > Key Settings > General > Macro. The macro executes while the assigned hotkey is held down.\n- All: If manual input occurs during macro execution, manual input always takes precedence.\n\n3. Warning\n- If you set a mouse operation-related button as a hotkey, that hotkey will not function in AION 1 Control Mode.\n- Macros will continuously attempt to advance to the next step. As such, step order is not guaranteed.", "translation": "1. Konfiguracja\n- Użyj przycisku Dodaj makro, aby dodać kroki.\n- Dla każdego kroku można ustawić opóźnienie.\n\n2. Sposób użycia\n- PC: Skróty klawiszowe można skonfigurować w Ustawienia > Ustawienia klawiszy > Ogólne > Makro. Makro działa, gdy przypisany klawisz jest wciśnięty.\n- Wszystkie: Jeśli podczas działania makra użyjesz sterowania ręcznego, ma ono zawsze pierwszeństwo.\n\n3. Ostrzeżenie\n- Jeśli jako skrót ustawisz przycisk powiązany z obsługą myszy, nie będzie on działać w trybie sterowania AION 1.\n- Makra nieustannie próbują przejść do następnego kroku, dlatego kolejność kroków nie jest gwarantowana.", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_EMPTY_body", "source": "No macros available.\nYou can register a new macro with the Add Macro button.", "translation": "Brak dostępnych makr.\nMożesz zarejestrować nowe makro przyciskiem Dodaj makro.", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_MS_body", "source": "ms", "translation": "ms", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_SETTING_MS_body", "source": "Specify Delay", "translation": "Ustaw opóźnienie", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_MACRO_body", "source": "Macro", "translation": "Makro", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_PVE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_PVP_body", "source": "PvP", "translation": "PvP", "status": "draft"}
+{"id": "String_UI_SKILL_SETTING_TITLE_body", "source": "Skill Settings", "translation": "Ustawienia umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_CHARACTER_LEVEL_POINT_body", "source": "Character Level {0}/{1}", "translation": "Poziom postaci {0}/{1}", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_LEVEL_POINT_body", "source": "Combat Level {0}", "translation": "Poziom walki {0}", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_POTION_POINT_body", "source": "Wisdom Stone {0}/{1}", "translation": "Kamień Mądrości {0}/{1}", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_SUB_TITLE_GET_body", "source": "[Points Earned]", "translation": "[Zdobyte punkty]", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_SUB_TITLE_USE_body", "source": "[Points Used]", "translation": "[Wykorzystane punkty]", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_USED_COMMON_body", "source": "Daeva {0}/{1}", "translation": "Daevanion {0}/{1}", "status": "draft"}
+{"id": "String_UI_SKILL_SKILLPOINT_TOOLTIP_USED_MASTERY_body", "source": "Mastery {0}/{1}", "translation": "Mistrzostwo {0}/{1}", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_ACQUIRED_LEVEL_body", "source": "By Acquired Level", "translation": "Według poziomu zdobycia", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_ASCENDING_body", "source": "Ascending", "translation": "Rosnąco", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_DEFAULT_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_DESCENDING_body", "source": "Descending", "translation": "Malejąco", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_SKILL_LEVEL_body", "source": "By Skill Level", "translation": "Według poziomu umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SORT_TITLE_body", "source": "Sort", "translation": "Sortuj", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_ACTIVATION_GUIDE_TIER1_body", "source": "Activates upon reaching {0} Lv. {1}.", "translation": "Aktywuje się po osiągnięciu poz. {0} umiejętności {1}.", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_ACTIVATION_GUIDE_TIER2_DESC_body", "source": "{0} Lv. {1} Reached", "translation": "Osiągnięto poz. {0} umiejętności {1}", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_ACTIVATION_GUIDE_TIER2_body", "source": "Automatically activates when all of the below conditions are met.", "translation": "Aktywuje się automatycznie po spełnieniu wszystkich poniższych warunków.", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_BUTTON_EQUIP_OFF_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_BUTTON_EQUIP_ON_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_BUTTON_LEVELUP_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_BUTTON_LEVEL_MAX_body", "source": "Max Enhance", "translation": "Maks. ulepszenie", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_BUTTON_REGISTRATION_body", "source": "Register", "translation": "Zarejestruj", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_EQUIPED_GUIDE_body", "source": "Auto apply <desc_point>{0} Equip Effects</> of Prerequisite Skills", "translation": "Automatycznie zastosuj <desc_point>{0} efekty wyposażenia</> wymaganych umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_EQUIPED_LEVEL_GUIDE_body", "source": "Auto apply <desc_point>{0} Lv. {1} Equip Effects</> of Prerequisite Skills", "translation": "Automatycznie zastosuj <desc_point>efekty wyposażenia {0} poz. {1}</> wymaganych umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_EQUIPED_LEVEL_body", "source": "{0} Lv. {1} Equipped", "translation": "Wyposażono {0} poz. {1}", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_EQUIPED_body", "source": "{0} Equipped", "translation": "Wyposażono {0}", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_NOT_ACTIVATION_body", "source": "Register Specialty Skill", "translation": "Zarejestruj specjalizację umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_NOT_EQUIPED_GUIDE_body", "source": "When applying a Specialty to <{0}>,\nthe same Stigma affects are applied", "translation": "Po zastosowaniu specjalizacji do <{0}>\nzostaną zastosowane te same efekty stygmatu", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_NOT_EQUIPED_body", "source": "Equip Specialty Skill", "translation": "Załóż specjalizację umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_NOT_EXIST_body", "source": "No equippable specialty skills.", "translation": "Brak specjalizacji umiejętności, które można założyć.", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_TOOLTIP_TITLE_LEVEL_body", "source": "{0} Lv. {1}", "translation": "{0} poz. {1}", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_EFFECT_CONDITION_body", "source": "(Effect applies when equipped)", "translation": "(Efekt działa po założeniu)", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_EFFECT_body", "source": "<system_game_party>{0} Lv. +{1}</>", "translation": "<system_game_party>{0} poz. +{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_ITEM_COUNT1_body", "source": "<insufficient>{0}/{1}</>", "translation": "<insufficient>{0}/{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_ITEM_COUNT2_body", "source": "<desc_point>{0}/{1}</>", "translation": "<desc_point>{0}/{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_ITEM_COUNT3_body", "source": "<insufficient>{0}</>", "translation": "<insufficient>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_ITEM_COUNT4_body", "source": "<desc_point>{0}</>", "translation": "<desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_LEVELUP_IMPOSSIBLE_body", "source": "Enhancement Unavailable", "translation": "Ulepszanie niedostępne", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_MAX_LEVEL_body", "source": "Max Level Reached", "translation": "Osiągnięto maksymalny poziom", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_REQUIRED_ITEM_body", "source": "Item Enhance Required", "translation": "Wymagane ulepszenie przedmiotu", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_TITLE2_body", "source": "<desc_point>{0}</> Effect", "translation": "Efekt <desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_INFO_TITLE_body", "source": "<desc_point>{0} Lv. {1}</> Enhance Effect", "translation": "Efekt ulepszenia <desc_point>{0} poz. {1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_SPECIALIZED_SKILL_UPGRADE_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_ACTIVATION_GUIDE_TIER1_body", "source": "Activated when using the <{0}> item.", "translation": "Aktywuje się po użyciu przedmiotu <{0}>.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_ACTIVATION_GUIDE_TIER2_DESC_body", "source": "{0} Lv. {1} Reached", "translation": "Osiągnięto poz. {0} umiejętności {1}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_ACTIVATION_GUIDE_TIER2_body", "source": "Automatically activates when all of the below conditions are met.", "translation": "Aktywuje się automatycznie po spełnieniu wszystkich poniższych warunków.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_BUTTON_EQUIP_OFF_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_BUTTON_EQUIP_ON_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_BUTTON_LEVELUP_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_BUTTON_LEVEL_MAX_body", "source": "Max Enhance", "translation": "Maks. ulepszenie", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_BUTTON_REGISTRATION_body", "source": "Register", "translation": "Zarejestruj", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_EQUIPED_GUIDE_body", "source": "Auto apply <desc_point>{0} Equip Effects</> of Prerequisite Skills", "translation": "Automatycznie zastosuj <desc_point>{0} efekty wyposażenia</> wymaganych umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_EQUIPED_LEVEL_GUIDE_body", "source": "Auto apply <desc_point>{0} Lv. {1} Equip Effects</> of Prerequisite Skills", "translation": "Automatycznie zastosuj <desc_point>efekty wyposażenia {0} poz. {1}</> wymaganych umiejętności", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_EQUIPED_LEVEL_body", "source": "{0} Lv. {1} Equipped", "translation": "Wyposażono {0} poz. {1}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_EQUIPED_body", "source": "{0} Equipped", "translation": "Wyposażono {0}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_NOT_ACTIVATION_body", "source": "Register Stigma.", "translation": "Zarejestruj stygmat.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_NOT_EQUIPED_GUIDE_body", "source": "When applying a Stigma to <{0}>,\nthe same Stigma affects are applied", "translation": "Po założeniu stygmatu na <{0}>\nzostaną zastosowane efekty tego samego stygmatu", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_NOT_EQUIPED_body", "source": "Equip Stigma.", "translation": "Załóż stygmat.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_NOT_EXIST_body", "source": "No equippable Stigma.", "translation": "Brak stygmatów, które można założyć.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_SUPERIOR_INFO_body", "source": "Upon reaching Level 20 in a Stigma Skill, you can obtain 1 Superior Stigma Shard.", "translation": "Po osiągnięciu poziomu 20 umiejętności stygmatu otrzymasz 1 odłamek stygmatu wyższej klasy.", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_TOOLTIP_TITLE_LEVEL_body", "source": "{0} Lv. {1}", "translation": "{0} poz. {1}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UNLOCK_CONDITON_ASCENSION_body", "source": "{0} Complete", "translation": "Ukończono {0}", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UNLOCK_CONDITON_body", "source": "Unlock Condition", "translation": "Warunek odblokowania", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_EFFECT_CONDITION_body", "source": "(Effect applies when equipped)", "translation": "(Efekt działa po założeniu)", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_EFFECT_body", "source": "<system_game_party>{0} Lv. +{1}</>", "translation": "<system_game_party>{0} poz. +{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_ITEM_COUNT1_body", "source": "<insufficient>{0}/{1}</>", "translation": "<insufficient>{0}/{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_ITEM_COUNT2_body", "source": "<desc_point>{0}/{1}</>", "translation": "<desc_point>{0}/{1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_ITEM_COUNT3_body", "source": "<insufficient>{0}</>", "translation": "<insufficient>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_ITEM_COUNT4_body", "source": "<desc_point>{0}</>", "translation": "<desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_LEVELUP_IMPOSSIBLE_body", "source": "Enhancement Unavailable", "translation": "Ulepszanie niedostępne", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_MAX_LEVEL_body", "source": "Max Level Reached", "translation": "Osiągnięto maksymalny poziom", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_REQUIRED_ITEM_body", "source": "Item Enhance Required", "translation": "Wymagane ulepszenie przedmiotu", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_TITLE2_body", "source": "<desc_point>{0}</> Effect", "translation": "Efekt <desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_INFO_TITLE_body", "source": "<desc_point>{0} Lv. {1}</> Enhance Effect", "translation": "Efekt ulepszenia <desc_point>{0} poz. {1}</>", "status": "draft"}
+{"id": "String_UI_SKILL_STIGMA_UPGRADE_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILL_TAB_COMMON_body", "source": "Daeva", "translation": "Daevanion", "status": "draft"}
+{"id": "String_UI_SKILL_TAB_DP_body", "source": "DP", "translation": "DP", "status": "draft"}
+{"id": "String_UI_SKILL_TAB_SKILL_LIST_body", "source": "Mastery", "translation": "Mistrzostwo", "status": "draft"}
+{"id": "String_UI_SKILL_TAB_STIGMA_body", "source": "Stigma", "translation": "Stygmat", "status": "draft"}
+{"id": "String_UI_SKILL_TITLE_body", "source": "Skill", "translation": "Umiejętność", "status": "draft"}
+{"id": "String_UI_SKILL_TREEVIEW_COMMON_001_body", "source": "Common A", "translation": "Wspólne A", "status": "draft"}
+{"id": "String_UI_SKILL_TREEVIEW_PC_COMMON_body", "source": "Common", "translation": "Wspólne", "status": "draft"}
+{"id": "String_UI_SKILL_TREEVIEW_PC_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SKILL_TREEVIEW_TITLE_body", "source": "Skill Acquisition Level", "translation": "Poziom zdobycia umiejętności", "status": "draft"}
+{"id": "String_UI_SKINEXTRACTION_CONFIRM_body", "source": "Would you like to extract the skin of the selected item?", "translation": "Czy wyodrębnić skórkę z wybranego przedmiotu?", "status": "draft"}
+{"id": "String_UI_SKIN_BTN_SAVE_body", "source": "Save Equipped Skin", "translation": "Zapisz założoną skórkę", "status": "draft"}
+{"id": "String_UI_SKIN_BUFF_TAB_DEF_body", "source": "Defense", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_SKIN_BUFF_TAB_MAG_ATT_body", "source": "Magic Attack", "translation": "Atak magiczny", "status": "draft"}
+{"id": "String_UI_SKIN_BUFF_TAB_PHY_ATT_body", "source": "Physical Attack", "translation": "Atak fizyczny", "status": "draft"}
+{"id": "String_UI_SKIN_BUFF_TAB_UTILITY_body", "source": "Utility", "translation": "Użytkowe", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_EFFECT_body", "source": "Collection Effect", "translation": "Efekt kolekcji", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_COMMON_body", "source": "Common", "translation": "Zwykła", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_EPIC_body", "source": "Heroic", "translation": "Heroiczna", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_GUIDE_body", "source": "Gain Collection Points when obtaining the skin for the first time.", "translation": "Przy pierwszym zdobyciu skórki otrzymasz punkty kolekcji.", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_LEGEND_body", "source": "Epic", "translation": "Epicka", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_RARE_body", "source": "Rare", "translation": "Rzadka", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_TITLE_body", "source": "Points Gained by Skin Grade", "translation": "Punkty za rangę skórki", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_UNIQUE_body", "source": "Unique", "translation": "Unikatowa", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_POINT_GUIDE_BUTTON_body", "source": "Points Gained", "translation": "Zdobyte punkty", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_POINT_body", "source": "{0} pts.", "translation": "{0} pkt", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_0_body", "source": "0", "translation": "0", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_GUIDE_body", "source": "{1} per {0} pt(s)", "translation": "{1} na każde {0} pkt", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_body", "source": "Stats increase per Collection Point", "translation": "Statystyki rosną za każdy punkt kolekcji", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_WEAPON_GUIDE_body", "source": "The weapon skins of another class are not added to total collection points.", "translation": "Skórki broni innych klas nie są wliczane do łącznej liczby punktów kolekcji.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_AUTOREGISTERBUTTON_body", "source": "Auto Register", "translation": "Zarejestruj automatycznie", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_CHECK_RESULT_body", "source": "Please check the results.", "translation": "Sprawdź wyniki.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_COMBINEBUTTON_body", "source": "Combine", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_COMBINENTIMESBUTTON_body", "source": "Combine X {0}", "translation": "Połącz × {0}", "status": "draft"}

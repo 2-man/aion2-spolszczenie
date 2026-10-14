@@ -1,0 +1,20 @@
+{
+  "table": "sdk",
+  "namespace": "NcPlatformSdk_en-US",
+  "culture": "en-US",
+  "inputSha256": "089478992d90a2b1b5f39ce513d7428deb0a2e5ab9557c2729499cb3ec0ff3cf",
+  "records": 424,
+  "decodedJsonSha256": "829069a56093f493f7ca2ded1307f824663c28ca3425cbad74d3251fcee4af65",
+  "batches": [
+    {
+      "file": "sdk/NcPlatformSdk/0001.jsonl",
+      "count": 250,
+      "category": "NcPlatformSdk"
+    },
+    {
+      "file": "sdk/NcPlatformSdk/0002.jsonl",
+      "count": 174,
+      "category": "NcPlatformSdk"
+    }
+  ]
+}

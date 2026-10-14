@@ -1,0 +1,107 @@
+{"id": "String_AttrStatName_AggressiveRate_body", "source": "Threaten increase", "translation": "Zwiększenie zagrożenia", "status": "draft"}
+{"id": "String_AttrStatName_AttPenet_body", "source": "Penetration", "translation": "Przebicie", "status": "draft"}
+{"id": "String_AttrStatName_AttackBeast_body", "source": "Beast Attack Bonus", "translation": "Premia do ataku przeciw bestiom", "status": "draft"}
+{"id": "String_AttrStatName_AttackCollapse_body", "source": "Collapse Attack", "translation": "Atak przełamujący", "status": "draft"}
+{"id": "String_AttrStatName_AttackCrush_body", "source": "Bash Attack Bonus", "translation": "Premia do ataku obuchowego", "status": "draft"}
+{"id": "String_AttrStatName_AttackDark_body", "source": "Dark Attack Bonus", "translation": "Premia do ataku mroku", "status": "draft"}
+{"id": "String_AttrStatName_AttackDivine_body", "source": "Divine Attack Bonus", "translation": "Premia do ataku boskiego", "status": "draft"}
+{"id": "String_AttrStatName_AttackDragon_body", "source": "Balaur Attack Bonus", "translation": "Premia do ataku przeciw Balaurom", "status": "draft"}
+{"id": "String_AttrStatName_AttackElite_body", "source": "Elite Attack Bonus", "translation": "Premia do ataku przeciw elitom", "status": "draft"}
+{"id": "String_AttrStatName_AttackFlame_body", "source": "Flame Attack Bonus", "translation": "Premia do ataku ogniem", "status": "draft"}
+{"id": "String_AttrStatName_AttackFrozen_body", "source": "Cold Attack Bonus", "translation": "Premia do ataku zimnem", "status": "draft"}
+{"id": "String_AttrStatName_AttackLightning_body", "source": "Lightning Attack Bonus", "translation": "Premia do ataku błyskawicą", "status": "draft"}
+{"id": "String_AttrStatName_AttackMagic_body", "source": "Magical Attack Bonus", "translation": "Premia do ataku magicznego", "status": "draft"}
+{"id": "String_AttrStatName_AttackNative_body", "source": "Sapiens Attack Bonus", "translation": "Premia do ataku przeciw Sapiens", "status": "draft"}
+{"id": "String_AttrStatName_AttackPeople_body", "source": "Humanoid Attack Bonus", "translation": "Premia do ataku przeciw humanoidom", "status": "draft"}
+{"id": "String_AttrStatName_AttackPoison_body", "source": "Poison Attack Bonus", "translation": "Premia do ataku trucizną", "status": "draft"}
+{"id": "String_AttrStatName_AttackSlash_body", "source": "Slice Attack Bonus", "translation": "Premia do ataku tnącego", "status": "draft"}
+{"id": "String_AttrStatName_AttackSpeed_body", "source": "Attack Speed", "translation": "Szybkość ataku", "status": "draft"}
+{"id": "String_AttrStatName_AttackStab_body", "source": "Pierce Attack Bonus", "translation": "Premia do ataku kłującego", "status": "draft"}
+{"id": "String_AttrStatName_AttackUndead_body", "source": "Undead Attack Bonus", "translation": "Premia do ataku przeciw nieumarłym", "status": "draft"}
+{"id": "String_AttrStatName_AttackWeak_body", "source": "Vulnerability Attack", "translation": "Atak osłabiający", "status": "draft"}
+{"id": "String_AttrStatName_BlindResist_body", "source": "Blind Resist", "translation": "Odporność na oślepienie", "status": "draft"}
+{"id": "String_AttrStatName_Block_body", "source": "Block", "translation": "Blok", "status": "draft"}
+{"id": "String_AttrStatName_DebuffHit_body", "source": "Debuff Chance", "translation": "Szansa na nałożenie osłabienia", "status": "draft"}
+{"id": "String_AttrStatName_DebuffResist_body", "source": "Debuff Resist", "translation": "Odporność na osłabienia", "status": "draft"}
+{"id": "String_AttrStatName_DefendBeast_body", "source": "Beast Defense Bonus", "translation": "Premia do obrony przed bestiami", "status": "draft"}
+{"id": "String_AttrStatName_DefendCollapse_body", "source": "Collapse Defense", "translation": "Obrona przed przełamaniem", "status": "draft"}
+{"id": "String_AttrStatName_DefendCritical_body", "source": "Critical Hit Defense", "translation": "Obrona przed trafieniami krytycznymi", "status": "draft"}
+{"id": "String_AttrStatName_DefendDragon_body", "source": "Balaur Defense Bonus", "translation": "Premia do obrony przed Balaurami", "status": "draft"}
+{"id": "String_AttrStatName_DefendElite_body", "source": "Elite Defense Bonus", "translation": "Premia do obrony przed elitami", "status": "draft"}
+{"id": "String_AttrStatName_DefendMagic_body", "source": "Magical Defense Bonus", "translation": "Premia do obrony magicznej", "status": "draft"}
+{"id": "String_AttrStatName_DefendNative_body", "source": "Sapiens Defense Bonus", "translation": "Premia do obrony przed Sapiens", "status": "draft"}
+{"id": "String_AttrStatName_DefendPenet_body", "source": "Defense Penetration", "translation": "Przebicie obrony", "status": "draft"}
+{"id": "String_AttrStatName_DefendPeople_body", "source": "Humanoid Defense Bonus", "translation": "Premia do obrony przed humanoidami", "status": "draft"}
+{"id": "String_AttrStatName_DefendUndead_body", "source": "Undead Defense Bonus", "translation": "Premia do obrony przed nieumarłymi", "status": "draft"}
+{"id": "String_AttrStatName_DefendWeak_body", "source": "Vulnerability Defense", "translation": "Obrona przed osłabieniem", "status": "draft"}
+{"id": "String_AttrStatName_DeformResist_body", "source": "Polymorph Resist", "translation": "Odporność na przemianę", "status": "draft"}
+{"id": "String_AttrStatName_DerangeResist_body", "source": "Confuse Resist", "translation": "Odporność na dezorientację", "status": "draft"}
+{"id": "String_AttrStatName_DmgDrainHit_body", "source": "Final Damage Flat Recovery", "translation": "Stałe odzyskiwanie po obrażeniach końcowych", "status": "draft"}
+{"id": "String_AttrStatName_DmgDrainRate_body", "source": "Final Damage Proportional Recovery", "translation": "Proporcjonalne odzyskiwanie po obrażeniach końcowych", "status": "draft"}
+{"id": "String_AttrStatName_DmgReductionBlock_body", "source": "Block Damage Reduction", "translation": "Redukcja obrażeń przy bloku", "status": "draft"}
+{"id": "String_AttrStatName_DmgReduction_body", "source": "Damage Reduction", "translation": "Redukcja obrażeń", "status": "draft"}
+{"id": "String_AttrStatName_EPCostDecrease_body", "source": "Energy Cost reduction", "translation": "Redukcja kosztu energii", "status": "draft"}
+{"id": "String_AttrStatName_EXPMul_body", "source": "EXP Gain Increase", "translation": "Zwiększenie zdobywanego PD", "status": "draft"}
+{"id": "String_AttrStatName_ExtraAttHit_body", "source": "Hit Chance Bonus", "translation": "Premia do szansy trafienia", "status": "draft"}
+{"id": "String_AttrStatName_ExtraBlock_body", "source": "Block Bonus", "translation": "Premia do bloku", "status": "draft"}
+{"id": "String_AttrStatName_ExtraCritical_body", "source": "Critical Hit Bonus", "translation": "Premia do trafień krytycznych", "status": "draft"}
+{"id": "String_AttrStatName_ExtraDmgChaotic_body", "source": "Chaotic Damage Bonus", "translation": "Premia do obrażeń chaosu", "status": "draft"}
+{"id": "String_AttrStatName_ExtraDmgCritical_body", "source": "Critical Damage Bonus", "translation": "Premia do obrażeń krytycznych", "status": "draft"}
+{"id": "String_AttrStatName_ExtraDmg_body", "source": "Damage Bonus", "translation": "Premia do obrażeń", "status": "draft"}
+{"id": "String_AttrStatName_ExtraPhyDodge_body", "source": "Physical Evasion Bonus", "translation": "Premia do uniku fizycznego", "status": "draft"}
+{"id": "String_AttrStatName_FearResist_body", "source": "Fear Resist", "translation": "Odporność na strach", "status": "draft"}
+{"id": "String_AttrStatName_ForcedMoveResist_body", "source": "Forced Move Resist", "translation": "Odporność na wymuszone przemieszczenie", "status": "draft"}
+{"id": "String_AttrStatName_FreezeResist_body", "source": "Frost Resist", "translation": "Odporność na mróz", "status": "draft"}
+{"id": "String_AttrStatName_GainEPIncrease_body", "source": "Energy Gain increase", "translation": "Zwiększenie zdobywanej energii", "status": "draft"}
+{"id": "String_AttrStatName_GainRPIncrease_body", "source": "Rage Gain increase", "translation": "Zwiększenie zdobywanej furii", "status": "draft"}
+{"id": "String_AttrStatName_GlidingBoostSpeed_body", "source": "<DNT>", "translation": "<DNT>", "status": "technical"}
+{"id": "String_AttrStatName_GlidingSpeed_body", "source": "Gliding Speed", "translation": "Szybkość szybowania", "status": "draft"}
+{"id": "String_AttrStatName_HideDetectLevel_body", "source": "Detection Level", "translation": "Poziom wykrywania", "status": "draft"}
+{"id": "String_AttrStatName_HideLevel_body", "source": "Stealth Level", "translation": "Poziom ukrycia", "status": "draft"}
+{"id": "String_AttrStatName_IgnoreBlock_body", "source": "Ignore Block", "translation": "Ignorowanie bloku", "status": "draft"}
+{"id": "String_AttrStatName_IncreaseHealing_body", "source": "Healing Increase", "translation": "Zwiększenie leczenia", "status": "draft"}
+{"id": "String_AttrStatName_KinahMul_body", "source": "Kina Gain Increase", "translation": "Zwiększenie zdobywanej Kina", "status": "draft"}
+{"id": "String_AttrStatName_MPCostDecrease_body", "source": "MP Cost Reduction", "translation": "Redukcja kosztu MP", "status": "draft"}
+{"id": "String_AttrStatName_MagAttHit_body", "source": "Magic Chance", "translation": "Szansa trafienia magią", "status": "draft"}
+{"id": "String_AttrStatName_MagAttackMax_body", "source": "Max Magic Attack", "translation": "Maksymalny atak magiczny", "status": "draft"}
+{"id": "String_AttrStatName_MagAttackMin_body", "source": "Min Magic Attack", "translation": "Minimalny atak magiczny", "status": "draft"}
+{"id": "String_AttrStatName_MagCritical_body", "source": "Magic Critical Hit", "translation": "Magiczne trafienie krytyczne", "status": "draft"}
+{"id": "String_AttrStatName_MagDefend_body", "source": "Magic Defense", "translation": "Obrona magiczna", "status": "draft"}
+{"id": "String_AttrStatName_MagDodge_body", "source": "Magic Evasion", "translation": "Unik magiczny", "status": "draft"}
+{"id": "String_AttrStatName_MagicBoost_body", "source": "Magic Boost", "translation": "Wzmocnienie magii", "status": "draft"}
+{"id": "String_AttrStatName_MaterialCriticalMul_body", "source": "Gathering Great Success Chance", "translation": "Szansa na wielki sukces zbieractwa", "status": "draft"}
+{"id": "String_AttrStatName_MaxAP_body", "source": "Stamina", "translation": "Wytrzymałość", "status": "draft"}
+{"id": "String_AttrStatName_MaxCT_body", "source": "Collapse Tolerance", "translation": "Odporność na przełamanie", "status": "draft"}
+{"id": "String_AttrStatName_MaxEP_body", "source": "Energy", "translation": "Energia", "status": "draft"}
+{"id": "String_AttrStatName_MaxHP_body", "source": "Max HP", "translation": "Maksymalne PŻ", "status": "draft"}
+{"id": "String_AttrStatName_MaxMP_body", "source": "MP", "translation": "MP", "status": "technical"}
+{"id": "String_AttrStatName_MaxRP_body", "source": "Rage", "translation": "Furia", "status": "draft"}
+{"id": "String_AttrStatName_MaxWT_body", "source": "Vulnerability Tolerance", "translation": "Odporność na osłabienie", "status": "draft"}
+{"id": "String_AttrStatName_MenConditionResist_body", "source": "Mental-type Status Effect Resist", "translation": "Odporność na mentalne efekty statusu", "status": "draft"}
+{"id": "String_AttrStatName_MentalConditionHit_body", "source": "Mental-type Status Effect Chance", "translation": "Szansa na nałożenie mentalnego efektu statusu", "status": "draft"}
+{"id": "String_AttrStatName_MoveSpeed_body", "source": "Move Speed", "translation": "Szybkość ruchu", "status": "draft"}
+{"id": "String_AttrStatName_ParalysisResist_body", "source": "Paralyze Resist", "translation": "Odporność na paraliż", "status": "draft"}
+{"id": "String_AttrStatName_PhyAttHit_body", "source": "Physical Hit Chance", "translation": "Szansa trafienia fizycznego", "status": "draft"}
+{"id": "String_AttrStatName_PhyAttackMax_body", "source": "Max Physical Attack", "translation": "Maksymalny atak fizyczny", "status": "draft"}
+{"id": "String_AttrStatName_PhyAttackMin_body", "source": "Min Physical Attack", "translation": "Minimalny atak fizyczny", "status": "draft"}
+{"id": "String_AttrStatName_PhyConditionResist_body", "source": "Ailment-type Status Effect Resist", "translation": "Odporność na efekty statusu typu dolegliwość", "status": "draft"}
+{"id": "String_AttrStatName_PhyCritical_body", "source": "Physical Critical Hit", "translation": "Fizyczne trafienie krytyczne", "status": "draft"}
+{"id": "String_AttrStatName_PhyDefend_body", "source": "Physical Defense", "translation": "Obrona fizyczna", "status": "draft"}
+{"id": "String_AttrStatName_PhyDodge_body", "source": "Physical Evasion", "translation": "Unik fizyczny", "status": "draft"}
+{"id": "String_AttrStatName_ProductCriticalMul_body", "source": "Crafting Great Success Chance", "translation": "Szansa na wielki sukces rzemiosła", "status": "draft"}
+{"id": "String_AttrStatName_RPCostDecrease_body", "source": "Rage Cost reduction", "translation": "Redukcja kosztu furii", "status": "draft"}
+{"id": "String_AttrStatName_ReduceAionBlessMul_body", "source": "Blessing Cost reduction", "translation": "Redukcja kosztu błogosławieństwa", "status": "draft"}
+{"id": "String_AttrStatName_ReduceChargeJump_body", "source": "Leap Charging duration reduction", "translation": "Skrócenie czasu ładowania skoku", "status": "draft"}
+{"id": "String_AttrStatName_ReduceCooldown_body", "source": "Reduces Skill cooldown", "translation": "Skrócenie czasu odnowienia umiejętności", "status": "draft"}
+{"id": "String_AttrStatName_ReduceJumpCooldown_body", "source": "Reduces Jump cooldown", "translation": "Skrócenie czasu odnowienia skoku", "status": "draft"}
+{"id": "String_AttrStatName_ReduceRecoverEXPMul_body", "source": "EXP Restoration Cost Reduction", "translation": "Redukcja kosztu przywracania PD", "status": "draft"}
+{"id": "String_AttrStatName_RegenHP_body", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
+{"id": "String_AttrStatName_RegenMP_body", "source": "MP Regen", "translation": "Regeneracja MP", "status": "draft"}
+{"id": "String_AttrStatName_RestrictResist_body", "source": "Root Resist", "translation": "Odporność na unieruchomienie", "status": "draft"}
+{"id": "String_AttrStatName_Shield_body", "source": "Protective Shield Defense", "translation": "Obrona tarczy ochronnej", "status": "draft"}
+{"id": "String_AttrStatName_SilenceResist_body", "source": "Silence Resist", "translation": "Odporność na uciszenie", "status": "draft"}
+{"id": "String_AttrStatName_SleepResist_body", "source": "Sleep Resist", "translation": "Odporność na sen", "status": "draft"}
+{"id": "String_AttrStatName_StunResist_body", "source": "Stun Resist", "translation": "Odporność na ogłuszenie", "status": "draft"}
+{"id": "String_AttrStatName_TauntResist_body", "source": "Taunt Resist", "translation": "Odporność na prowokację", "status": "draft"}
+{"id": "String_AttrStatName_Tenacity_body", "source": "Tenacity", "translation": "Nieustępliwość", "status": "draft"}
+{"id": "String_AttrStatName_WalkSpeed_body", "source": "Walking Speed", "translation": "Szybkość chodzenia", "status": "draft"}

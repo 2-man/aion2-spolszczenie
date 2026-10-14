@@ -1,0 +1,250 @@
+{"id":"Message_MSG_CANNOT_ENTER_NEED_ITEM_LOCKED_body","source":"Cannot enter because item required for entry is locked.","translation":"Nie można wejść — wymagany przedmiot jest zablokowany.","status":"draft"}
+{"id":"Message_MSG_CANNOT_ENTER_NEED_KILLBOSSNPC_TICKET_body","source":"Cannot join due to a member with insufficient challenge attempts.","translation":"Nie można dołączyć — członkowi grupy brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_ENTER_NEED_START_MEMEBER_COUNT_body","source":"{0} or more members required to start.","translation":"Do rozpoczęcia potrzeba co najmniej {0} członków.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_BY_ABNORMAL_body","source":"Cannot unequip items in current state.","translation":"W obecnym stanie nie można zdjąć wyposażenia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_BY_EQUIPSLOT_NOT_OPEN_body","source":"Gear slot is locked.","translation":"Slot wyposażenia jest zablokowany.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_BY_LEVEL_body","source":"Cannot equip at current level.","translation":"Nie można założyć przedmiotu na obecnym poziomie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_BY_MASTERY_body","source":"Cannot be equipped by this class.","translation":"Ta klasa nie może założyć tego przedmiotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_BY_RACE_body","source":"Cannot be equipped by this faction.","translation":"Ta frakcja nie może założyć tego przedmiotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_ITEM_body","source":"Cannot equip this item.","translation":"Nie można założyć tego przedmiotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_NEED_SOULBIND_body","source":"Can only be equipped after Soul Binding.","translation":"Można założyć dopiero po związaniu duszy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EQUIP_SAME_RUNE_body","source":"Cannot equip the same rune.","translation":"Nie można założyć tej samej runy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_AIR_body","source":"Can only trade while on the ground.","translation":"Można handlować tylko na ziemi.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_ALREADY_body","source":"Trade already in progress.","translation":"Handel już trwa.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_AUTOREJECT_body","source":"Target is set to auto-decline personal trade offers.","translation":"Cel automatycznie odrzuca oferty wymiany osobistej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_COMBAT_body","source":"Cannot trade while in combat.","translation":"Nie można handlować w trakcie walki.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_DEAD_body","source":"Cannot trade while dead.","translation":"Nie można handlować, gdy postać nie żyje.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_DISTANCE_body","source":"Cannot trade due to distance from target.","translation":"Cel jest zbyt daleko, aby handlować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_EQUIPITEM_body","source":"Cannot trade equipped items.","translation":"Nie można handlować założonym wyposażeniem.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_ITEM_GRADE_body","source":"Can only trade items graded {0} and higher.","translation":"Można handlować tylko przedmiotami rangi {0} lub wyższej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_ITEM_body","source":"This item cannot be traded.","translation":"Tym przedmiotem nie można handlować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_LEVEL_body","source":"Personal trading can only be used when both characters are level {0} or higher.","translation":"Wymiana osobista jest dostępna, gdy obie postacie mają co najmniej poziom {0}.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_ONLY_body","source":"Already requested to trade with another character.","translation":"Wysłano już prośbę o wymianę do innej postaci.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_RACE_body","source":"Cannot trade with hostile faction.","translation":"Nie można handlować z wrogą frakcją.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_SERVER_body","source":"Cannot trade in this area.","translation":"Nie można handlować w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_TEMPCUBE_body","source":"Cannot trade items stored in Temporary Cube.","translation":"Nie można handlować przedmiotami z tymczasowego ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXCHANGE_WRONG_TARGET_body","source":"Target is not available for trading.","translation":"Cel nie może teraz handlować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_EXIT_DUNGEON_CREATING_body","source":"Cannot leave dungeon while entering. Please try again later.","translation":"Nie można opuścić lochu podczas wchodzenia. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENTGROUP_REWARD_INVALID_STEP_body","source":"Failed to collect rewards because Achievement Group level is invalid.","translation":"Nie udało się odebrać nagród — nieprawidłowy poziom grupy osiągnięć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENTGROUP_REWARD_NOT_ENOUGH_COUNT_body","source":"Failed to collect rewards because of insufficient Achievement Group progress.","translation":"Nie udało się odebrać nagród — zbyt małe postępy w grupie osiągnięć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENTGROUP_REWARD_NOT_EXIST_ID_body","source":"Failed to collect rewards because Achievement Group does not exist.","translation":"Nie udało się odebrać nagród — grupa osiągnięć nie istnieje.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENT_REWARD_FULL_INVENTORY_body","source":"Failed to collect rewards due to insufficient Cube space.","translation":"Nie udało się odebrać nagród — za mało miejsca w ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENT_REWARD_INVALID_STEP_body","source":"Failed to collect rewards due to invalid Achievement stage.","translation":"Nie udało się odebrać nagród — nieprawidłowy etap osiągnięcia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENT_REWARD_NOT_ENOUGH_COUNT_body","source":"Rewards cannot be received because the achievement conditions haven't been fulfilled.","translation":"Nie można odebrać nagród, ponieważ nie spełniono warunków osiągnięcia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENT_REWARD_NOT_EXIST_ID_body","source":"Failed to collect rewards because Achievement does not exist.","translation":"Nie udało się odebrać nagród — osiągnięcie nie istnieje.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ACHIEVEMENT_REWARD_NO_AVAILABLE_body","source":"No rewards available to collect.","translation":"Brak nagród do odebrania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_BATTLEPASS_BUY_LEVEL_MAX_body","source":"Reached maximum Daeva Pass level.","translation":"Osiągnięto maksymalny poziom Przepustki Daevy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_BATTLEPASS_BUY_LEVEL_NO_DATE_body","source":"Daeva Pass levels are not purchasable at the moment.","translation":"Obecnie nie można kupować poziomów Przepustki Daevy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_BATTLEPASS_REWARD_NO_AVAILABLE_body","source":"No obtainable rewards.","translation":"Brak nagród do odebrania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_MEMBERSHIPPASS_REWARD_ALL_STEP_CLEAR_body","source":"All rewards have already been claimed.","translation":"Odebrano już wszystkie nagrody.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_MEMBERSHIPPASS_REWARD_NOT_ENOUGH_COUNT_body","source":"Membership Pass Mission requirements not met. Reward cannot be claimed.","translation":"Nie spełniono wymagań misji Przepustki członkowskiej. Nie można odebrać nagrody.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_MEMBERSHIPPASS_REWARD_NO_AVAILABLE_body","source":"No rewards available to collect.","translation":"Brak nagród do odebrania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_MEMBERSHIPPASS_REWARD_NO_PASS_ACTIVATED_body","source":"No active Membership Pass.","translation":"Brak aktywnej Przepustki członkowskiej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ONBOARDING_REWARD_ALREADY_RECEIVED_body","source":"This reward has already been claimed.","translation":"Ta nagroda została już odebrana.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_ONBOARDING_REWARD_NO_AVAILABLE_body","source":"No obtainable rewards.","translation":"Brak nagród do odebrania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_PVPPOINT_CHARACTER_body","source":"Cannot gain Abyss Points from this character at the moment. (Resets every hour)","translation":"Obecnie nie można zdobyć Punktów Otchłani za pokonanie tej postaci. (Limit odnawia się co godzinę)","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_PVPPOINT_LEVEL_body","source":"Character level {0} or below cannot gain or lose Abyss Points.","translation":"Postacie na poziomie {0} lub niższym nie mogą zdobywać ani tracić Punktów Otchłani.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_PVPPOINT_TIME_body","source":"Cannot gain or lose Abyss Points due to a previous death record.","translation":"Nie można zdobywać ani tracić Punktów Otchłani z powodu wcześniejszego zapisu śmierci.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_PVPPOINT_ZEROPOINT_body","source":"Defeating a player with 0 points does not grant any Abyss Points.","translation":"Pokonanie gracza z 0 punktów nie daje Punktów Otchłani.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_TITLE_REWARD_FULL_INVENTORY_body","source":"Failed to collect rewards due to insufficient Cube space.","translation":"Nie udało się odebrać nagród — za mało miejsca w ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GET_TITLE_REWARD_TIMEOVER_body","source":"Failed to acquire title due to expiration.","translation":"Nie udało się zdobyć tytułu — jego ważność wygasła.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GLIDING_AREA_body","source":"Cannot glide due to turbulence.","translation":"Nie można szybować z powodu turbulencji.","status":"draft"}
+{"id":"Message_MSG_CANNOT_GLIDING_MAP_body","source":"Cannot glide in this area.","translation":"Na tym obszarze nie można szybować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_IMPRINT_MAGICSTONE_NOT_ENOUGH_GOLD_body","source":"Insufficient Kina to proceed with binding.","translation":"Za mało Kiny, aby związać przedmiot.","status":"draft"}
+{"id":"Message_MSG_CANNOT_IMPRINT_MAGICSTONE_NOT_ENOUGH_MAGICSTONE_body","source":"Insufficient Manastone to proceed with binding.","translation":"Za mało Kamieni Many, aby związać przedmiot.","status":"draft"}
+{"id":"Message_MSG_CANNOT_IMPRINT_MAGICSTONE_NOT_ENOUGH_body","source":"Insufficient Manastone to select the effect to change.","translation":"Za mało Kamieni Many, aby wybrać efekt do zmiany.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACTION_INVENTORY_SLOT_body","source":"Please try again after making space in Cube.","translation":"Zwolnij miejsce w ekwipunku i spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACT_AT_TIME_body","source":"Cannot use now.","translation":"Nie można teraz użyć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACT_FALLING_body","source":"Cannot interact while falling.","translation":"Nie można wchodzić w interakcję podczas upadku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACT_GLIDE_body","source":"Cannot interact while gliding.","translation":"Nie można wchodzić w interakcję podczas szybowania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACT_NPC_BUSY_body","source":"Cannot be used at this time.","translation":"Nie można teraz użyć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTERACT_NPC_NOTFOUND_body","source":"Cannot find target.","translation":"Nie można znaleźć celu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTRUSION_NEED_ENTERANCE_BOSSKILL_TICKET_body","source":"Cannot intrude due to insufficient Boss Kill Count.","translation":"Nie można dołączyć do trwającej rozgrywki — pokonano zbyt mało bossów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTRUSION_NEED_ENTERANCE_REWARD_COUNT_body","source":"Cannot intrude due to insufficient reward count.","translation":"Nie można dołączyć do trwającej rozgrywki — osiągnięto limit nagród.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTRUSION_NEED_ENTERANCE_TICKET_body","source":"Cannot intrude due to insufficient challenge attempts.","translation":"Nie można dołączyć do trwającej rozgrywki — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTRUSION_NEED_EQUIP_ITEM_LEVEL_body","source":"Item level requirements must be met to intrude.","translation":"Aby dołączyć do trwającej rozgrywki, musisz spełniać wymagania dotyczące poziomu przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INTRUSION_NEED_KILLBOSSNPC_TICKET_body","source":"Cannot intrude due to insufficient challenge attempts.","translation":"Nie można dołączyć do trwającej rozgrywki — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_INVITE_CONTENTS_UNLOCK_body","source":"Cannot invite a user who has not unlocked this game mode.","translation":"Nie można zaprosić gracza, który nie odblokował tego trybu gry.","status":"draft"}
+{"id":"Message_MSG_CANNOT_JOIN_ROOM_NEED_ENTERANCE_BOSSKILL_TICKET_body","source":"Cannot join room due to insufficient Boss Kill Count.","translation":"Nie można dołączyć do pokoju — pokonano zbyt mało bossów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_JOIN_ROOM_NEED_ENTERANCE_REWARD_COUNT_body","source":"Cannot join room due to insufficient reward count.","translation":"Nie można dołączyć do pokoju — osiągnięto limit nagród.","status":"draft"}
+{"id":"Message_MSG_CANNOT_JOIN_ROOM_NEED_ENTERANCE_TICKET_body","source":"Cannot join room due to insufficient challenge attempts.","translation":"Nie można dołączyć do pokoju — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_JOIN_ROOM_NEED_EQUIP_ITEM_LEVEL_body","source":"Item level requirements must be met to join room.","translation":"Aby dołączyć do pokoju, musisz spełniać wymagania dotyczące poziomu przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_JOIN_ROOM_NEED_KILLBOSSNPC_TICKET_body","source":"Cannot join room due to insufficient challenge attempts.","translation":"Nie można dołączyć do pokoju — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_KICKOUT_DUNGEON_LOADING_body","source":"Cannot kick target while they are entering the dungeon. Please try again later.","translation":"Nie można wyrzucić celu podczas jego wchodzenia do lochu. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_CANNOT_LOGOUT_COMBAT_body","source":"Cannot exit during combat.","translation":"Nie można wyjść w trakcie walki.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_COMBAT_body","source":"Cannot leave current map during combat.","translation":"Nie można opuścić bieżącej mapy w trakcie walki.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_DEAD_body","source":"Cannot leave current map while dead.","translation":"Nie można opuścić bieżącej mapy, gdy postać nie żyje.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_NOCURRENTMAP_body","source":"Cannot find current map.","translation":"Nie można znaleźć bieżącej mapy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_NOLASTPOSITION_body","source":"No exit location found.","translation":"Nie znaleziono miejsca wyjścia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_NOTFOUNDCURRENTSUBZONE_body","source":"Cannot find current subzone.","translation":"Nie można znaleźć bieżącego podobszaru.","status":"draft"}
+{"id":"Message_MSG_CANNOT_MAPEXIT_UNSUPPORTEDTYPE_body","source":"Exit Dungeon not supported on this map.","translation":"Na tej mapie nie można opuścić lochu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_ONBOARDING_BUY_NO_DATE_body","source":"Cannot activate at the moment.","translation":"Obecnie nie można aktywować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_PARTYDUNGEON_RECRUITMENT_ENTRANCE_CONDITION_body","source":"You do not meet the minimum requirements to join.","translation":"Nie spełniasz minimalnych wymagań, aby dołączyć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_PLAY_AUTOQUEST_IN_THIS_WORLD_body","source":"This quest cannot be carried out in this area.","translation":"Tego zadania nie można wykonać w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_PLAY_AUTOQUEST_body","source":"Cannot auto-move for current quest.","translation":"Nie można włączyć automatycznego ruchu dla bieżącego zadania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_ALREADY_USEREBIRTH_body","source":"Target is already preparing to resurrect.","translation":"Cel już przygotowuje się do wskrzeszenia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_BY_ABNORMAL_body","source":"Direct resurrection not available in this area.","translation":"W tym obszarze nie można wskrzeszać bezpośrednio.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_BY_PVP_body","source":"When defeated by another character, direct resurrection is not possible.","translation":"Po pokonaniu przez inną postać nie można wskrzesić się na miejscu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_COOLTIME_body","source":"Cannot be directly resurrected yet.","translation":"Nie można jeszcze wskrzesić się na miejscu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_ITEM_NOCOUNT_body","source":"Exceeded the number of manual and skill resurrections allowed.","translation":"Wykorzystano limit wskrzeszeń ręcznych i za pomocą umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_ITEM_NOT_ENOUGH_body","source":"Insufficient resurrection items.","translation":"Za mało przedmiotów do wskrzeszenia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_LIMIT_NOCOUNT_body","source":"Exceeded the number of manual and skill resurrections allowed.","translation":"Wykorzystano limit wskrzeszeń ręcznych i za pomocą umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REBIRTH_TIMEOVER_body","source":"Resurrection window has expired.","translation":"Czas na wskrzeszenie minął.","status":"draft"}
+{"id":"Message_MSG_CANNOT_RECRUITMENT_FAIL_01_body","source":"Failed to join due to error. Please try again.","translation":"Nie udało się dołączyć z powodu błędu. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_RECRUITMENT_NotForceMember_body","source":"Not in a force.","translation":"Nie należysz do grupy rajdowej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_RECRUITMENT_NotInParty_body","source":"Not in a party.","translation":"Nie należysz do drużyny.","status":"draft"}
+{"id":"Message_MSG_CANNOT_RECRUITMENT_SERVER_CONDITION_body","source":"Cannot join due to being in a different World Group.","translation":"Nie można dołączyć — znajdujesz się w innej grupie światów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REGISTER_STIGMA_SKILL_BY_OVER_COUNT_body","source":"Exceeded the number of registered skills allowed.","translation":"Osiągnięto limit zarejestrowanych umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_RELOAD_TABLE_AT_SHIPPING_body","source":"Cannot reload table in this environment (mobile or shipped build).","translation":"Nie można przeładować tabeli w tym środowisku (wersja mobilna lub wydana kompilacja).","status":"draft"}
+{"id":"Message_MSG_CANNOT_RELOAD_TABLE_DURING_GAME_PLAYING_body","source":"Cannot reload table during play. Please retry from login screen.","translation":"Nie można przeładować tabeli podczas gry. Spróbuj ponownie na ekranie logowania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REQUEST_NEED_ENTERANCE_BOSSKILL_TICKET_body","source":"Cannot request to join room due to insufficient Boss Kill Count.","translation":"Nie można poprosić o dołączenie do pokoju — pokonano zbyt mało bossów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REQUEST_NEED_ENTERANCE_REWARD_COUNT_body","source":"Cannot request to join room due to insufficient reward count.","translation":"Nie można poprosić o dołączenie do pokoju — osiągnięto limit nagród.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REQUEST_NEED_ENTERANCE_TICKET_body","source":"Cannot request to join room due to insufficient challenge attempts.","translation":"Nie można poprosić o dołączenie do pokoju — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REQUEST_NEED_EQUIP_ITEM_LEVEL_body","source":"Item level requirements must be met to request to join room.","translation":"Aby poprosić o dołączenie do pokoju, musisz spełniać wymagania poziomu przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REQUEST_NEED_KILLBOSSNPC_TICKET_body","source":"Cannot request to join room due to insufficient challenge attempts.","translation":"Nie można poprosić o dołączenie do pokoju — brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_REST_body","source":"Cannot enter Rest Mode at this time.","translation":"Obecnie nie można przejść w tryb odpoczynku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_CHARACTER_LEVEL_body","source":"Cannot invite to room due to low character level.","translation":"Nie można zaprosić do pokoju — poziom postaci jest za niski.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_ENTERANCE_CLEAR_COUNT_body","source":"Cannot invite to room due to insufficient Boss Defeated Count.","translation":"Nie można zaprosić do pokoju — pokonano zbyt mało bossów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_ENTERANCE_REWARD_COUNT_body","source":"Cannot invite to room due to insufficient reward count of the target.","translation":"Nie można zaprosić do pokoju — cel osiągnął limit nagród.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_ENTERANCE_TICKET_body","source":"Cannot invite to room due to insufficient challenge attempts of the target.","translation":"Nie można zaprosić do pokoju — celowi brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_ENTRANCE_CONDITION_body","source":"Cannot invite to room due to unmet entry requirements of the target.","translation":"Nie można zaprosić do pokoju — cel nie spełnia wymagań wejścia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_EQUIP_ITEM_LEVEL_body","source":"Cannot invite to room due to low item level.","translation":"Nie można zaprosić do pokoju — poziom przedmiotów jest za niski.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_KILLBOSSNPC_TICKET_body","source":"Cannot invite to room due to insufficient challenge attempts of the target.","translation":"Nie można zaprosić do pokoju — celowi brakuje prób wyzwania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NEED_UNCLAIMED_REWARD_COUNT_body","source":"Cannot invite to room due to insufficient reward count of the remaining unobtained Cube count.","translation":"Nie można zaprosić do pokoju — cel nie odebrał wymaganej liczby Kostek.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_INVITE_NOT_GET_REWARD_ITEM_body","source":"Cannot invite this player. Guaranteed rewards have not been claimed.","translation":"Nie można zaprosić tego gracza. Nie odebrał jeszcze gwarantowanych nagród.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_PARTY_INVITE_INVALID_RACE_body","source":"Other factions can only be invited in dungeons.","translation":"Graczy z innych frakcji można zapraszać tylko do lochów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SEND_PARTY_INVITE_INVALID_ROOM_RACE_SETTING_body","source":"Cannot invite a different faction due to room settings.","translation":"Ustawienia pokoju nie pozwalają zaprosić gracza z innej frakcji.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SKILL_AUTO_USE_OFF_body","source":"Unable to disable auto-use for this skill.","translation":"Nie można wyłączyć automatycznego używania tej umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SPECIALIZEDSKILL_FAIL_BY_PRESET_body","source":"Cannot edit Special Skills while changing Skill Presets.","translation":"Nie można edytować umiejętności specjalnych podczas zmiany zestawu umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_PRESET_BY_NOTLIVE_body","source":"Cannot change Presets while dead.","translation":"Nie można zmieniać zestawów, gdy postać nie żyje.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_PRESET_BY_SKILLPRESET_body","source":"Processing Preset change request.","translation":"Przetwarzanie prośby o zmianę zestawu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_SKILLPRESET_BY_CASTING_body","source":"Cannot change Preset while charging or casting.","translation":"Nie można zmienić zestawu podczas ładowania ani rzucania umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_SKILLPRESET_BY_CHANNELING_body","source":"Cannot change Preset while using a channeling skill.","translation":"Nie można zmienić zestawu podczas używania umiejętności podtrzymywanej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_SKILLPRESET_BY_GROUND_body","source":"Cannot change Preset while using a ground skill.","translation":"Nie można zmienić zestawu podczas używania umiejętności obszarowej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_SWAP_SKILLPRESET_BY_STIGMA_body","source":"Cannot change Presets while Stigma skill is on cooldown.","translation":"Nie można zmienić zestawu, gdy Umiejętność Stygmatu jest w trakcie odnowienia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_TELEPORT_BY_COMBAT_OR_NOT_ON_GROUND_body","source":"Cannot teleport during combat or while not on the ground.","translation":"Nie można teleportować się podczas walki ani poza ziemią.","status":"draft"}
+{"id":"Message_MSG_CANNOT_TELEPORT_BY_COMBAT_body","source":"Cannot teleport during combat.","translation":"Nie można teleportować się podczas walki.","status":"draft"}
+{"id":"Message_MSG_CANNOT_TELEPORT_NOT_IN_FORCEPARTY_body","source":"Cannot use because you are not in a party within the Force.","translation":"Nie możesz tego użyć, ponieważ nie należysz do drużyny w grupie rajdowej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_UNEQUIP_ITEM_BY_INVENTORY_FULL_SIOT_body","source":"Cannot unequip due to insufficient Cube slots.","translation":"Nie można zdjąć przedmiotu — za mało miejsca w ekwipunku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USEFAKEITEM_body","source":"Cannot be used in this area.","translation":"Nie można użyć w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILLPROXY_SPCOST_body","source":"Insufficient Stamina to activate Illusion Attack.","translation":"Za mało Wytrzymałości, aby użyć Ataku Iluzji.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_APCOST_body","source":"Insufficient Rage.","translation":"Za mało Szału.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_AUTOLOADCHARGE_body","source":"Recharging.","translation":"Trwa odnawianie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_AUTOLOADSTACK_body","source":"Insufficient recharge count.","translation":"Brak dostępnych ładunków.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_CHAIN_READY_body","source":"Activates after using prerequisite skills.","translation":"Aktywuje się po użyciu wymaganych umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_CONDITION_READY_body","source":"Skill use requirements must be met to activate.","translation":"Aby aktywować, musisz spełnić wymagania użycia umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_COOLTIME_body","source":"Skill on cooldown.","translation":"Umiejętność jest w trakcie odnowienia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_COVERED_BY_OTHERS_body","source":"Target is not in sight.","translation":"Cel jest poza zasięgiem wzroku.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_DPCOST_body","source":"Insufficient Divine Power.","translation":"Za mało Boskiej Mocy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_FPCOST_body","source":"Insufficient Flight Power.","translation":"Za mało Siły Lotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_HPCOST_body","source":"Insufficient HP.","translation":"Za mało PŻ.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_ItemCOST_body","source":"Insufficient materials.","translation":"Za mało materiałów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_MAP_body","source":"Cannot be used in this area.","translation":"Nie można użyć w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_MPCOST_body","source":"Insufficient MP.","translation":"Za mało PM.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USESKILL_SPCOST_body","source":"Insufficient Stamina.","translation":"Za mało Wytrzymałości.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ARCANA_ITEM_BY_MAX_SLOT_COUNT_body","source":"Exceeded Arcana limit. Cannot use item.","translation":"Osiągnięto limit kart Arkana. Nie można użyć przedmiotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_BY_GROUND_SKILL_body","source":"Cannot use while aiming.","translation":"Nie można użyć podczas celowania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_CONTENTS_UNLOCK_REASON_ASCENSION_GRADE_body","source":"Must complete \"{0}\" first.","translation":"Najpierw ukończ „{0}”.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_CONTENTS_UNLOCK_REASON_ITEM_LEVEL_body","source":"Available upon reaching item level {0}.","translation":"Dostępne po osiągnięciu poziomu przedmiotów {0}.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_CONTENTS_UNLOCK_REASON_LEVEL_body","source":"Available from level {0}.","translation":"Dostępne od poziomu {0}.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_CONTENTS_UNLOCK_REASON_QUEST_body","source":"Available after completion of \"{0}\" quest.","translation":"Dostępne po ukończeniu zadania „{0}”.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_CONTENTS_UNLOCK_body","source":"Cannot use locked features.","translation":"Nie można używać zablokowanych funkcji.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_DREAM_CROSSROAD_BUTTON_IN_SAME_MAP_body","source":"Currently in Dream Crossroad.","translation":"Znajdujesz się już na Rozdrożu Snów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_DREAM_CROSSROAD_BUTTON_body","source":"Cannot be used in current state.","translation":"W obecnym stanie nie można użyć.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_FLIGHT_ACTION_body","source":"Cannot perform flight actions in current state.","translation":"W obecnym stanie nie można wykonywać czynności związanych z lotem.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_FLIGHT_END_body","source":"Cannot end flight in current state.","translation":"W obecnym stanie nie można zakończyć lotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_FLIGHT_body","source":"Cannot fly in current state.","translation":"W obecnym stanie nie można latać.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_GLIDE_ACTION_BY_COST_body","source":"Insufficient Flight Power.","translation":"Za mało Siły Lotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_GLIDE_END_body","source":"Cannot end gliding in current state.","translation":"W obecnym stanie nie można zakończyć szybowania.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_GLIDE_body","source":"Cannot glide in current state.","translation":"W obecnym stanie nie można szybować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_INTERRUPT_SKILL_INVALID_LOCATION_body","source":"Cannot use this skill immediately in current location.","translation":"Nie można natychmiast użyć tej umiejętności w bieżącym miejscu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_ARENA_BAN_body","source":"This item cannot be used in this Arena.","translation":"Tego przedmiotu nie można użyć na tej arenie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_ACCEPTED_QUEST_body","source":"Related scroll quest has already been accepted.","translation":"Zadanie powiązane ze zwojem zostało już przyjęte.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_CLASS_body","source":"Unavailable for this class.","translation":"Niedostępne dla tej klasy.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_COMPLETED_QUEST_body","source":"Related scroll quest has already been completed.","translation":"Zadanie powiązane ze zwojem zostało już ukończone.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_COOLTIME_body","source":"Item on cooldown.","translation":"Przedmiot jest w trakcie odnowienia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_LEVEL_body","source":"Unavailable at this level.","translation":"Niedostępne na tym poziomie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_NO_EFFECT_body","source":"This item does not have an effect applied.","translation":"Ten przedmiot nie ma aktywnego efektu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_NO_TARGET_body","source":"No target.","translation":"Brak celu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_SAME_ABNORMAL_body","source":"Identical buff is already applied.","translation":"Ta sama premia jest już aktywna.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_STATE_body","source":"Cannot use items in current state.","translation":"W obecnym stanie nie można używać przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_BY_SUBZONE_body","source":"Only available to use in {0}.","translation":"Można użyć tylko w: {0}.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_ITEM_SUBZONE_BAN_body","source":"This item cannot be used in this area.","translation":"Tego przedmiotu nie można użyć w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_JUMP_body","source":"Cannot jump in current state.","translation":"W obecnym stanie nie można skakać.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_MAGICAL_SKILL_body","source":"Cannot use magic skill.","translation":"Nie można użyć umiejętności magicznej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_NOT_ACQUIRED_SKILL_body","source":"Cannot use unacquired skills.","translation":"Nie można używać nieodblokowanych umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_PASSIVE_SKILL_body","source":"Cannot use passive skills.","translation":"Nie można używać umiejętności pasywnych.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_PHYSICAL_SKILL_body","source":"Cannot use physical skill.","translation":"Nie można użyć umiejętności fizycznej.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_ARENA_BAN_body","source":"This skill cannot be used in this Arena.","translation":"Tej umiejętności nie można użyć na tej arenie.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_BLOCKACTIVE_body","source":"This skill cannot be used while in Seal status.","translation":"Tej umiejętności nie można użyć w stanie Pieczęci.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_BLOCKADE_body","source":"This skill cannot be used while in Restrain status.","translation":"Tej umiejętności nie można użyć w stanie Unieruchomienia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_HOLD_body","source":"This skill cannot be used while in Hold status.","translation":"Tej umiejętności nie można użyć w stanie Uwięzienia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_SILENCE_body","source":"This skill cannot be used while in Silence status.","translation":"Tej umiejętności nie można użyć w stanie Wyciszenia.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_SKILLPRESET_body","source":"Cannot use skills while changing Skill Presets.","translation":"Nie można używać umiejętności podczas zmiany zestawu umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_TAG_body","source":"Cannot use skill in current state.","translation":"W obecnym stanie nie można użyć umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_BY_UNATTACKABLE_TARGET_body","source":"Cannot attack target.","translation":"Nie można zaatakować celu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_ByWeaponType_body","source":"Suitable weapon must be equipped.","translation":"Musisz założyć odpowiednią broń.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_CAN_USE_WHEN_ELEMENTAL_SUMMON_SPAWNED_body","source":"Available only when suitable Spirit is summoned.","translation":"Dostępne tylko po przywołaniu odpowiedniego Ducha.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_CAN_USE_WHEN_PEACE_STATE_body","source":"Available only in non-combat state.","translation":"Dostępne tylko poza walką.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_IN_CASTING_body","source":"Cannot use skill.","translation":"Nie można użyć umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_ON_VESSEL_body","source":"Unable to use while aboard an Airship.","translation":"Nie można używać podczas lotu statkiem powietrznym.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_SUBZONE_BAN_body","source":"This skill cannot be used in this area.","translation":"Tej umiejętności nie można użyć w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_TARGET_body","source":"Invalid target.","translation":"Nieprawidłowy cel.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_TO_TARGET_ON_VESSEL_body","source":"Unable to use on a target aboard an Airship.","translation":"Nie można użyć na celu znajdującym się na statku powietrznym.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_body","source":"Cannot use skill.","translation":"Nie można użyć umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SKILL_not_follow_body","source":"Target is out of reach. Move into skill range.","translation":"Cel jest poza zasięgiem. Podejdź bliżej, aby użyć umiejętności.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SPRINT_body","source":"Cannot sprint in current state.","translation":"W obecnym stanie nie można sprintować.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_STIGMASKILL_UNEQUIPSLOT_body","source":"Stigma Skill can be used after registering in an available Quick Slot.","translation":"Umiejętności Stygmatu można używać po przypisaniu jej do wolnego szybkiego slotu.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_SWIMMING_ACTION_body","source":"Cannot perform underwater actions in current state.","translation":"W obecnym stanie nie można wykonywać czynności pod wodą.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_VEHICLE_BATTLE_body","source":"Cannot ride mount during combat.","translation":"Nie można dosiadać wierzchowca podczas walki.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_VEHICLE_ZONE_body","source":"Cannot ride mount in this area.","translation":"Na tym obszarze nie można dosiadać wierzchowca.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_VEHICLE_body","source":"Cannot ride mount in current state.","translation":"W obecnym stanie nie można dosiadać wierzchowca.","status":"draft"}
+{"id":"Message_MSG_CANNOT_USE_WHEN_ALIVE_body","source":"Cannot be used while alive.","translation":"Nie można użyć, gdy postać żyje.","status":"draft"}
+{"id":"Message_MSG_CAPTCHA_EVADE_body","source":"Daeva Verification failed for avoiding verification process.","translation":"Weryfikacja Daevy nie powiodła się — próbowano jej uniknąć.","status":"draft"}
+{"id":"Message_MSG_CAPTCHA_FAIL_body","source":"Failed to complete Daeva Verification.","translation":"Nie udało się ukończyć weryfikacji Daevy.","status":"draft"}
+{"id":"Message_MSG_CAPTCHA_NOTIFY_body","source":"Davea Verification triggered due to abnormal activity.","translation":"Uruchomiono weryfikację Daevy z powodu nietypowej aktywności.","status":"draft"}
+{"id":"Message_MSG_CAPTCHA_SUCCESS_body","source":"Successfully completed Daeva Verification.","translation":"Pomyślnie ukończono weryfikację Daevy.","status":"draft"}
+{"id":"Message_MSG_CAPTCHA_TELEPORTWORLD_ERROR_body","source":"Cannot teleport due to restrictions imposed upon failing Daeva Verification.","translation":"Nie można się teleportować z powodu ograniczeń nałożonych po nieudanej weryfikacji Daevy.","status":"draft"}
+{"id":"Message_MSG_CHAINSKILL_CANNOT_SELECT_BY_NOT_ACQUIRED_body","source":"Available after acquiring skill.","translation":"Dostępne po odblokowaniu umiejętności.","status":"draft"}
+{"id":"Message_MSG_CHANGED_GUILDMASTER_body","source":"{0} has been newly appointed as Commander.","translation":"Nowy Dowódca: {0}.","status":"draft"}
+{"id":"Message_MSG_CHANGED_PERMISSION_body","source":"Rank-based permissions changed.","translation":"Zmieniono uprawnienia przypisane do rangi.","status":"draft"}
+{"id":"Message_MSG_CHANGE_TARGET_body","source":"Tracking halted due to target being changed or lost.","translation":"Przerwano śledzenie — cel zmienił się lub został utracony.","status":"draft"}
+{"id":"Message_MSG_CHARACTERSTATUS_CHARACTER_INFO_LOADING_body","source":"Loading information. Please wait a moment.","translation":"Wczytywanie informacji. Chwileczkę.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_CHANGE_ERROR_VALIDATION_FAIL_body","source":"Failed to switch characters. Please try again later.","translation":"Nie udało się zmienić postaci. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_INFO_CANNOT_QUERY_OTHER_SERVER_body","source":"Cannot find character.","translation":"Nie można znaleźć postaci.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_INFO_NOT_INFOMATION_CHECK_body","source":"Cannot retrieve information at this time. Please try again in {0}s.","translation":"Nie można teraz pobrać informacji. Spróbuj ponownie za {0} s.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_INFO_NOT_OPEN_body","source":"This player has disabled information viewing.","translation":"Ten gracz zablokował możliwość przeglądania swoich informacji.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_COUNT_NOT_ENOUGH_body","source":"No Name Change Voucher owned.","translation":"Nie posiadasz Kuponu zmiany imienia.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_IMPOSSIBLE_STANDBY_DELETE_CHARACTER_body","source":"Cannot change the name of characters pending deletion.","translation":"Nie można zmienić imienia postaci oczekującej na usunięcie.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_IMPOSSIBLE_body","source":"Cannot change character name.","translation":"Nie można zmienić imienia postaci.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_LOCK_USED_NAME_body","source":"Duplicate name not allowed.","translation":"Ta nazwa jest już zajęta.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_NOT_AVAILABLE_TIME_body","source":"Character name can only be changed once every 7 days.","translation":"Imię postaci można zmieniać raz na 7 dni.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_NOT_EXIST_body","source":"Invalid character information.","translation":"Nieprawidłowe informacje o postaci.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_RENAME_SELECT_TARGET_body","source":"Select character to rename.","translation":"Wybierz postać, której imię chcesz zmienić.","status":"draft"}
+{"id":"Message_MSG_CHARACTER_STORAGE_EXTEND_FAIL_OVERMAXEXTENDCOUNT_body","source":"Character Storage is at maximum expansion.","translation":"Magazyn postaci został powiększony do maksymalnego rozmiaru.","status":"draft"}
+{"id":"Message_MSG_CHAR_CUSTOMIZING_INVALID_DATA_body","source":"Appearance change failed.","translation":"Nie udało się zmienić wyglądu.","status":"draft"}
+{"id":"Message_MSG_CHAR_CUSTOMIZING_INVALID_ERROR_body","source":"Appearance change failed.","translation":"Nie udało się zmienić wyglądu.","status":"draft"}
+{"id":"Message_MSG_CHAR_CUSTOMIZING_NOT_ENOUGH_ITEM_body","source":"Insufficient Appearance Change Voucher.","translation":"Za mało Kuponów zmiany wyglądu.","status":"draft"}
+{"id":"Message_MSG_CHAT_ALERT_NO_AUTHORITY_body","source":"You do not have permission.","translation":"Nie masz uprawnień.","status":"draft"}
+{"id":"Message_MSG_CHAT_BLOCKED_BY_SPAM_body","source":"Blocked due to spam messages.","translation":"Zablokowano z powodu spamu.","status":"draft"}
+{"id":"Message_MSG_CHAT_BLOCKED_body","source":"Chat muted.","translation":"Czat został wyciszony.","status":"draft"}
+{"id":"Message_MSG_CHAT_CANNOT_BLOCK_UNAVAILABLE_LIST_body","source":"Reached character block limit. Clear block list first.","translation":"Osiągnięto limit blokowanych postaci. Najpierw wyczyść listę blokowanych.","status":"draft"}
+{"id":"Message_MSG_CHAT_FAIL_NOT_CONNECT_INPUT_DEVICE_body","source":"Voice input device not found.","translation":"Nie znaleziono urządzenia wejściowego audio.","status":"draft"}
+{"id":"Message_MSG_CHAT_FAIL_RECORDING_RIGHT_body","source":"Cannot record voice due to microphone permissions not being granted.","translation":"Nie można nagrywać głosu — brak uprawnień do mikrofonu.","status":"draft"}
+{"id":"Message_MSG_CHAT_FAIL_SAVE_FILE_body","source":"Failed to save file.","translation":"Nie udało się zapisać pliku.","status":"draft"}
+{"id":"Message_MSG_CHAT_FAIL_VOICE_RECORDING_body","source":"Cannot record voice.","translation":"Nie można nagrać głosu.","status":"draft"}
+{"id":"Message_MSG_CHAT_FIELD_EVENT_NOT_JOIN_body","source":"Must participate in the event to use.","translation":"Aby z tego skorzystać, musisz uczestniczyć w wydarzeniu.","status":"draft"}
+{"id":"Message_MSG_CHAT_FORCE_NOT_JOIN_body","source":"Must join Force to use.","translation":"Aby z tego skorzystać, musisz należeć do grupy rajdowej.","status":"draft"}
+{"id":"Message_MSG_CHAT_ITEMLINK_CANNOT_INPUT_LIMIT_TEXT_body","source":"Exceeded max characters that can be entered. Unable to enter more item links.","translation":"Przekroczono limit znaków. Nie można dodać kolejnych odnośników do przedmiotów.","status":"draft"}
+{"id":"Message_MSG_CHAT_ITEMLINK_CANNOT_INPUT_MAX_COUNT_body","source":"Up to 5 Items, Map Pins, or Recruitments can be entered at one time.","translation":"Jednocześnie można dodać maksymalnie 5 przedmiotów, pinezek mapy lub ogłoszeń o rekrutacji.","status":"draft"}
+{"id":"Message_MSG_CHAT_ITEMLINK_CANNOT_INPUT_STT_body","source":"Unable to share items during voice recognition.","translation":"Nie można udostępniać przedmiotów podczas rozpoznawania mowy.","status":"draft"}
+{"id":"Message_MSG_CHAT_ITEMLINK_INPUT_body","source":"Item link entered in chat.","translation":"Dodano odnośnik do przedmiotu na czacie.","status":"draft"}
+{"id":"Message_MSG_CHAT_LEGION_NOT_JOIN_body","source":"Must join Legion to use.","translation":"Aby z tego skorzystać, musisz należeć do Legionu.","status":"draft"}
+{"id":"Message_MSG_CHAT_MAPPINLINK_CANNOT_INPUT_LIMIT_TEXT_body","source":"Cannot enter more Map Pin links due to character limit being exceeded.","translation":"Przekroczono limit znaków. Nie można dodać kolejnych odnośników do pinezek mapy.","status":"draft"}
+{"id":"Message_MSG_CHAT_MAPPINLINK_CANNOT_INPUT_MAX_COUNT_body","source":"Up to 5 Map Pin links can be entered.","translation":"Można dodać maksymalnie 5 odnośników do pinezek mapy.","status":"draft"}
+{"id":"Message_MSG_CHAT_MAPPINLINK_CANNOT_INPUT_STT_body","source":"Unable to share Map Pin links during voice recognition.","translation":"Nie można udostępniać odnośników do pinezek mapy podczas rozpoznawania mowy.","status":"draft"}
+{"id":"Message_MSG_CHAT_MAPPIN_INPUT_body","source":"Map Pin link entered in chat.","translation":"Dodano odnośnik do pinezki mapy na czacie.","status":"draft"}
+{"id":"Message_MSG_CHAT_MASTER_CHAT_NOT_ENOUGH_DIA_body","source":"Insufficient Diamonds to send chat message.","translation":"Za mało Diamentów, aby wysłać wiadomość na czacie.","status":"draft"}
+{"id":"Message_MSG_CHAT_MENU_BLOCK_CANCEL_body","source":"Unblocked.","translation":"Odblokowano.","status":"draft"}
+{"id":"Message_MSG_CHAT_MENU_BLOCK_RESULT_body","source":"Character is blocked. Cannot send friend requests or chat with this character.","translation":"Ta postać jest zablokowana. Nie można wysyłać jej zaproszeń do znajomych ani z nią czatować.","status":"draft"}
+{"id":"Message_MSG_CHAT_PARTYDUNGEON_NOT_JOIN_body","source":"Must join a dungeon to use.","translation":"Aby z tego skorzystać, musisz wejść do lochu.","status":"draft"}

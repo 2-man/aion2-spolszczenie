@@ -1,0 +1,250 @@
+{"id": "EnvObjData_E_D2_DQ8_3_Barrier_01_desc", "source": "Veil", "translation": "Zasłona", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_BloodBox_01_desc", "source": "Bloodstained Supply Chest", "translation": "Skrzynia z zaopatrzeniem splamiona krwią", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_BrokenWagon_01_desc", "source": "Pile of Chests", "translation": "Stos skrzyń", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_Letter_01_desc", "source": "Crumpled Letter", "translation": "Zmięty list", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_OwlDoor_01_desc", "source": "Hidden Door", "translation": "Ukryte drzwi", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_PaperPile_01_desc", "source": "Scattered Propaganda Leaflets", "translation": "Rozrzucone ulotki propagandowe", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_SearchEffect_01_desc", "source": "Bind", "translation": "Przypisywanie", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_3_barricade_01_desc", "source": "Wooden Barricade", "translation": "Drewniana barykada", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_4_MirrorPiece_01_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_4_MirrorPiece_02_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_4_MirrorPiece_03_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_5_Mirror_01_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_5_SearchEffect_01_desc", "source": "Fallen Note", "translation": "Porzucona notatka", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_6_DiaryOld_01_desc", "source": "Dropped Book", "translation": "Upuszczona księga", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_6_EnterPortal_01_desc", "source": "Lava Canyon Cave", "translation": "Jaskinia w Kanionie Lawy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_6_MirrorPiece_01_desc", "source": "Mirror of Echoes", "translation": "Fragment Lustra Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ8_6_OldLeatherBag_01_desc", "source": "Valter's Bag of Belongings", "translation": "Torba z rzeczami Valtera", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_AlsigBox_01_desc", "source": "Outpost Supply Chest", "translation": "Skrzynia z zaopatrzeniem placówki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_AlsigPaper_01_desc", "source": "Outpost Duty Roster", "translation": "Lista dyżurów placówki", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_BalaurBoxPile_01_desc", "source": "Balaur Supply Chest", "translation": "Skrzynia z zaopatrzeniem Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_Bonfire_01_desc", "source": "Firepit Cooking Station", "translation": "Palenisko do gotowania", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_BrokenWagon_01_desc", "source": "Supplies", "translation": "Zaopatrzenie", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_DaevaFeather_01_desc", "source": "Daeva Wingfeather", "translation": "Pióro ze skrzydła Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EntePortal_02_desc", "source": "Mysterious Location Marked on the Map", "translation": "Tajemnicze miejsce zaznaczone na mapie", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EntePortal_03_desc", "source": "Coastal Cave Hidden Location", "translation": "Ukryte miejsce w Jaskini Nadbrzeżnej", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EntePortal_04_desc", "source": "Milora's Hideout", "translation": "Kryjówka Milory", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EnterPortal_01_desc", "source": "False Fate Conclave", "translation": "Konklawe Fałszywego Losu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EnterPortal_02_desc", "source": "Abandoned Storage", "translation": "Opuszczony magazyn", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EnterPortal_03_desc", "source": "Hidden Snowfield Cave", "translation": "Ukryta jaskinia na Śnieżnym Polu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_EnterPortal_04_desc", "source": "Hidden Snowfield Cave", "translation": "Ukryta jaskinia na Śnieżnym Polu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_Fragment_01_desc", "source": "Broken Monument", "translation": "Uszkodzony pomnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_MirrorPiece_01_desc", "source": "Mirror of Echoes", "translation": "Fragment Lustra Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_OldLeatherBag_02_desc", "source": "Refugee's Leather Bag", "translation": "Skórzana torba uchodźcy", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_01_desc", "source": "Around the Bridge", "translation": "Okolica mostu", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_02_desc", "source": "Around the Railing", "translation": "Okolica balustrady", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_03_desc", "source": "Around the Well", "translation": "Okolica studni", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_04_desc", "source": "Search for the ring", "translation": "Poszukaj pierścienia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_05_desc", "source": "Search for the ring", "translation": "Poszukaj pierścienia", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_06_desc", "source": "Put the scroll down", "translation": "Odłóż zwój", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_07_desc", "source": "Decorate the snowman", "translation": "Udekoruj bałwana", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_08_desc", "source": "Twinkling Object", "translation": "Lśniący przedmiot", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SearchEffect_09_desc", "source": "Frozen Tree Fruit", "translation": "Owoc zamarzniętego drzewa", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_SupplyBox_01_desc", "source": "Latoha Supplies", "translation": "Zapasy Latoha", "status": "draft"}
+{"id": "EnvObjData_E_D2_DQ_Wall_01_desc", "source": "Suspicious Wall", "translation": "Podejrzany mur", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva01_Entrance_01_desc", "source": "Cursed Snowfield Hideout Door", "translation": "Drzwi kryjówki na Przeklętym Śnieżnym Polu", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva01_Exit_01_desc", "source": "Cursed Snowfield Hideout Door", "translation": "Drzwi kryjówki na Przeklętym Śnieżnym Polu", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva01_OldLeatherBag_01_desc", "source": "Worn Bag", "translation": "Zużyta torba", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva01_OldLeatherBag_02_desc", "source": "Worn Bag", "translation": "Zużyta torba", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva01_OldLeatherBag_03_desc", "source": "Steinun's Bag", "translation": "Torba Steinuna", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva02_Entrance_01_desc", "source": "Fallen Temple Ruins Door", "translation": "Drzwi ruin Upadłej Świątyni", "status": "draft"}
+{"id": "EnvObjData_E_D2_Daeva02_Exit_01_desc", "source": "Fallen Temple Ruins Door", "translation": "Drzwi ruin Upadłej Świątyni", "status": "draft"}
+{"id": "EnvObjData_E_D2_DeadDestDaeva_01_desc", "source": "Fate Daeva Corpse 1", "translation": "Zwłoki Daevy Przeznaczenia 1", "status": "draft"}
+{"id": "EnvObjData_E_D2_DeadDestDaeva_02_desc", "source": "Fate Daeva Corpse 2", "translation": "Zwłoki Daevy Przeznaczenia 2", "status": "draft"}
+{"id": "EnvObjData_E_D2_DeadDestDaeva_03_desc", "source": "Fate Daeva Corpse 3", "translation": "Zwłoki Daevy Przeznaczenia 3", "status": "draft"}
+{"id": "EnvObjData_E_D2_DeadDestDaeva_04_desc", "source": "Fate Daeva Corpse 4", "translation": "Zwłoki Daevy Przeznaczenia 4", "status": "draft"}
+{"id": "EnvObjData_E_D2_DestroyedFafniumSite_TeleportArtifact_desc", "source": "Destroyed Fafnium Site", "translation": "Zniszczone miejsce wydobycia Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_DocumentBox_001_desc", "source": "Document Box", "translation": "Skrzynia na dokumenty", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_DeadVillagerF_01_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_DeadVillagerM_D_01_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_DeadVillagerM_D_02_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_DeadVillagerM_D_07_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_DeadVillagerM_D_10_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_Entrance_01_desc", "source": "Dharvata Surveillance Base Door", "translation": "Drzwi bazy obserwacyjnej Dharvaty", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_Exit_01_desc", "source": "Dharvata Surveillance Base Door", "translation": "Drzwi bazy obserwacyjnej Dharvaty", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_01_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_02_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_03_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_04_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_05_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_06_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_07_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_08_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon01_MediumFafnium_03_09_desc", "source": "Fafnium", "translation": "Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon04_Entrance_01_desc", "source": "Dinakra Sky Outpost Door", "translation": "Drzwi placówki powietrznej Dinakra", "status": "draft"}
+{"id": "EnvObjData_E_D2_Dragon04_Exit_01_desc", "source": "Dinakra Sky Outpost Door", "translation": "Drzwi placówki powietrznej Dinakra", "status": "draft"}
+{"id": "EnvObjData_E_D2_DrakanTower_01_V01_01_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_ExecutionerTowerT_001_desc", "source": "[Temporary] Executioner's Tower", "translation": "[Temporary] Executioner's Tower", "status": "technical"}
+{"id": "EnvObjData_E_D2_FQ7_1_BoxPile_01_desc", "source": "Stacked Chests", "translation": "Stos skrzyń", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_Dratotem_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_GrainSack_01_desc", "source": "Sack", "translation": "Worek", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_Monolith_01_desc", "source": "Destroyed Barrierstone", "translation": "Zniszczony kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_SearchEffect_01_desc", "source": "Adelina's Hand", "translation": "Dłoń Adeliny", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenBarrel_01_desc", "source": "Barrel", "translation": "Beczka", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Zużyta skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenStool_01_desc", "source": "Chair", "translation": "Krzesło", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenStool_02_desc", "source": "Chair", "translation": "Krzesło", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenTable_01_desc", "source": "Table", "translation": "Stół", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenTable_02_desc", "source": "Table", "translation": "Stół", "status": "draft"}
+{"id": "EnvObjData_E_D2_FafnirStorageT_001_desc", "source": "[Temporary] Fafnir's Treasure Storage", "translation": "[Temporary] Fafnir's Treasure Storage", "status": "technical"}
+{"id": "EnvObjData_E_D2_Fafnium_001_desc", "source": "Destroy Fafnium", "translation": "Zniszcz Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Fafnium_002_desc", "source": "Fafni", "translation": "Fafni", "status": "draft"}
+{"id": "EnvObjData_E_D2_Fafnium_003_desc", "source": "Destroy Installed Fafnium", "translation": "Zniszcz zainstalowane Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_Fafnium_004_desc", "source": "Destroy Fafnium", "translation": "Zniszcz Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_FireTemple_001_desc", "source": "[Temporary] Fire Temple", "translation": "[Temporary] Fire Temple", "status": "technical"}
+{"id": "EnvObjData_E_D2_Garrison_BalaurBox_01_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_D2_GodFragment_Air_desc", "source": "Empyrean Trace: Morheim", "translation": "Szlak Empyreum: Morheim", "status": "draft"}
+{"id": "EnvObjData_E_D2_GodFragment_Ground_desc", "source": "Empyrean Trace: Morheim", "translation": "Szlak Empyreum: Morheim", "status": "draft"}
+{"id": "EnvObjData_E_D2_GodFragment_Water_desc", "source": "Empyrean Trace: Morheim", "translation": "Szlak Empyreum: Morheim", "status": "draft"}
+{"id": "EnvObjData_E_D2_GodMonolith_10_desc", "source": "Morheim Monolith", "translation": "Monolit Morheimu", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_BoxPile_01_1_desc", "source": "Loot", "translation": "Łup", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_BoxPile_01_3_desc", "source": "Loot", "translation": "Łup", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_01_desc", "source": "Snow-Buried Corpse", "translation": "Zwłoki zagrzebane w śniegu", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_02_desc", "source": "Decaying Corpse", "translation": "Podniebna wyspa placówki Sanctum", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_03_desc", "source": "Resident Corpse", "translation": "Zwłoki mieszkańca", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_07_01_desc", "source": "Mysterious Corpse", "translation": "Tajemnicze zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_07_02_desc", "source": "Foul-Smelling Corpse", "translation": "Cuchnące zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_07_03_desc", "source": "Resident Corpse", "translation": "Zwłoki mieszkańca", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_08_01_desc", "source": "Wrathbound Corpse", "translation": "Zwłoki opętanego gniewem", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_08_02_desc", "source": "Old Corpse", "translation": "Stare zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_08_03_desc", "source": "Resident Corpse", "translation": "Zwłoki mieszkańca", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_Gather_Jewelry_L_Lv1_01_1_desc", "source": "Crystal", "translation": "Kryształ", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_Gather_Jewelry_L_Lv1_01_2_desc", "source": "Crystal", "translation": "Kryształ", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_OldBox_02_desc", "source": "Dust-Covered Chest", "translation": "Skrzynia pokryta kurzem", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_SearchEffect_01_desc", "source": "Place the crystal", "translation": "Umieść kryształ", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_bloodstainedclothes_01_desc", "source": "Blood-Stained Clothes", "translation": "Odzienie splamione krwią", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_01_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_02_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_03_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_04_desc", "source": "Immolated Corpse", "translation": "Spalone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_05_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_06_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_07_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_DeadVillagerM_D_08_desc", "source": "Charred Corpse", "translation": "Zwęglone zwłoki", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_FireStatue_01_1_desc", "source": "Heretics' Altar", "translation": "Ołtarz heretyków", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_FireStatue_01_2_desc", "source": "Heretics' Altar", "translation": "Ołtarz heretyków", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_FireStatue_01_3_desc", "source": "Heretics' Altar", "translation": "Ołtarz heretyków", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_HealStone_01_1_desc", "source": "Rooting Device", "translation": "Urządzenie unieruchamiające", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_HealStone_01_2_desc", "source": "Rooting Device", "translation": "Urządzenie unieruchamiające", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_HealStone_01_3_desc", "source": "Rooting Device", "translation": "Urządzenie unieruchamiające", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_HealStone_01_4_desc", "source": "Rooting Device", "translation": "Urządzenie unieruchamiające", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_LootBox01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_OwlBox_02_CV01_desc", "source": "Large Supply Chest", "translation": "Duża skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_SA_Bonfire_01_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_SA_Bonfire_02_desc", "source": "Firepit Cooking Station", "translation": "Palenisko do gotowania", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_SearchEffect_01_1_desc", "source": "Extinguish altar flame", "translation": "Zgaś płomień na ołtarzu", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_SearchEffect_01_2_desc", "source": "Extinguish altar flame", "translation": "Zgaś płomień na ołtarzu", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_SearchEffect_01_3_desc", "source": "Extinguish ritual altar flame", "translation": "Zgaś płomień rytualnego ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_Wagonwheel_01_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
+{"id": "EnvObjData_E_D2_H2_Garrison_WoodenBarrel_01_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ001_Baricade_01_desc", "source": "Wooden Barricade", "translation": "Drewniana barykada", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ001_LootBoxPile_01_desc", "source": "Pile of Balaur Chests", "translation": "Stos skrzyń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ001_Old_01_desc", "source": "Deactivated Jewel", "translation": "Nieaktywowany klejnot", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ001_SearchEffect_01_desc", "source": "Mysterious Daeva", "translation": "Tajemnicza Daeva", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_BrokenWeapons_01_desc", "source": "Broken Weapon", "translation": "Złamana broń", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_BrokenWeapons_02_desc", "source": "Broken Weapon", "translation": "Złamana broń", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_DeadVillager_01_desc", "source": "Collapsed Vigilante", "translation": "Poległy strażnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_DeadVillager_02_desc", "source": "Collapsed Vigilante", "translation": "Poległy strażnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_Fafnium_02_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_Monolith_01_desc", "source": "Destroyed Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ003_Cart_01_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ003_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ003_SearchEffect_01_desc", "source": "Tied Rope", "translation": "Przywiązana lina", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ003_SearchEffect_02_desc", "source": "Fallen Member", "translation": "Poległy członek", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ004_Monolith_01_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ005_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ005_Box_01_desc", "source": "Dusty Chest", "translation": "Skrzynia pokryta kurzem", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ005_EnterDoor_01_desc", "source": "Patamor Village Storage Door", "translation": "Drzwi magazynu w wiosce Patamor", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ005_ExitDoor_01_desc", "source": "Patamor Village Storage Door", "translation": "Drzwi magazynu w wiosce Patamor", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_Board_01_desc", "source": "Bulletin Board", "translation": "Tablica ogłoszeń", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_Box_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_DeadNornir_01_desc", "source": "Skuld's Corpse", "translation": "Zwłoki Skuld", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_DeadNornir_02_desc", "source": "Verdandi's Corpse", "translation": "Zwłoki Verdandi", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_EnterDoor_01_desc", "source": "Verdandi's Altar Door", "translation": "Drzwi ołtarza Verdandi", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_ExitDoor_01_desc", "source": "Verdandi's Altar Door", "translation": "Drzwi ołtarza Verdandi", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ006_Note_01_desc", "source": "Verdandi's Record", "translation": "Zapis Verdandi", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ010_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ010_BrokenWagon_01_desc", "source": "Pile of Broken Luggage", "translation": "Stos rozbitego bagażu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ010_DeadVillagerM_01_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ010_DeadVillagerM_02_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ010_Fragment_01_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ011_Fragment_01_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ012_SearchEffect_02_desc", "source": "Check condition", "translation": "Sprawdź stan", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ013_EnterDoor_01_desc", "source": "Abandoned Rime Shelter Door", "translation": "Drzwi opuszczonego schronienia Rime", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ013_ExitDoor_01_desc", "source": "Abandoned Rime Shelter Door", "translation": "Drzwi opuszczonego schronienia Rime", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ014_Luggage_01_desc", "source": "Abandoned Pile of Luggage", "translation": "Stos porzuconego bagażu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ014_OldDiary_01_desc", "source": "Scattered Pile of Papers", "translation": "Stos rozrzuconych kartek", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_Baricade_01_desc", "source": "Wooden Barricade", "translation": "Drewniana barykada", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_Barrier_01_desc", "source": "Inner Coastal Cave Door", "translation": "Wewnętrzne drzwi Jaskini Nadbrzeżnej", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_Barrier_02_desc", "source": "Coastal Cave Entrance", "translation": "Wejście do Jaskini Nadbrzeżnej", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_Cart_01_desc", "source": "Cart", "translation": "Wóz", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_CaveSearch_01_desc", "source": "Cliff Front", "translation": "Przed klifem", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_CaveWall_01_desc", "source": "Blocked Cliff", "translation": "Zablokowany klif", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_CaveWall_02_desc", "source": "Blocked Cliff", "translation": "Zablokowany klif", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_DracoWeaponRack_01_desc", "source": "Balaur Weapon Rack", "translation": "Stojak na broń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_LootBoxPile_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_Portal_01_desc", "source": "Sigebert's Portal", "translation": "Portal Sigeberta", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ020_RuinPile_01_desc", "source": "Pile of Stones", "translation": "Stos kamieni", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ030_MirrorPiece_01_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ030_MirrorPiece_02_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ030_PurityLight_01_desc", "source": "Fire Aura", "translation": "Aura ognia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ030_PurityLight_02_desc", "source": "Fire Aura", "translation": "Aura ognia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ031_MirrorPiece_01_desc", "source": "Shattered Mirror of Echoes", "translation": "Rozbite Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ031_SearchEffect_01_desc", "source": "Examine the traces", "translation": "Zbadaj ślady", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_BoxBundle_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_BoxBundle_02_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_BrokenWagon_01_desc", "source": "Pile of Broken Luggage", "translation": "Stos rozbitego bagażu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Cart_01_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Cart_02_desc", "source": "Cart", "translation": "Wózek", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_CaveWall_01_desc", "source": "Blocked Cliff", "translation": "Zablokowany klif", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillagerM_01_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillagerM_02_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillagerM_03_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillagerM_04_desc", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillager_01_desc", "source": "Collapsed Vigilante", "translation": "Poległy strażnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeadVillager_02_desc", "source": "Collapsed Vigilante", "translation": "Poległy strażnik", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DeavaJournal_01_desc", "source": "Stored Journal", "translation": "Zachowany dziennik", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DevaCorpse_01_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DevaCorpse_02_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DevaCorpse_03_desc", "source": "Daeva Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DracoWeaponRack_01_desc", "source": "Balaur Weapon Rack", "translation": "Stojak na broń Balaurów", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_DrakanScroll_01_desc", "source": "Scattered Scroll", "translation": "Rozrzucony zwój", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Fafnium_02_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_FateDeadBody_03_desc", "source": "Fate Archon Corpse", "translation": "Zwłoki Archonta Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Fragment_01_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Fragment_02_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_KrallRecord_01_desc", "source": "Operational Records", "translation": "Zapisy operacyjne", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Lever_01_desc", "source": "Coastal Cave Lever", "translation": "Dźwignia w Jaskini Nadbrzeżnej", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_LootBoxPile_01_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Luggage_01_desc", "source": "Abandoned Pile of Luggage", "translation": "Stos porzuconego bagażu", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_MirrorPiece_01_desc", "source": "Shattered Mirror of Echoes", "translation": "Rozbite Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_MirrorPiece_02_desc", "source": "Mirror of Echoes", "translation": "Lustro Echa", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Monolith_01_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Monolith_02_desc", "source": "Destroyed Barrierstone", "translation": "Zniszczony kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_OldDiary_01_desc", "source": "Unorganized Pile of Papers", "translation": "Nieuporządkowany stos dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_PaperPile_01_desc", "source": "Scattered Pile of Documents", "translation": "Stos rozrzuconych dokumentów", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_Portal_01_desc", "source": "Sigebert's Portal", "translation": "Portal Sigeberta", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_RuinPile_01_desc", "source": "Pile of Stones", "translation": "Stos kamieni", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_SupplyBox_01_desc", "source": "Supplies", "translation": "Zaopatrzenie", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_TowerFragment_01_desc", "source": "Destroyed Barrierstone Fragment", "translation": "Fragment zniszczonego kamienia bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_WoodenBox_01_desc", "source": "Fate Archon Supply Chest", "translation": "Skrzynia z zaopatrzeniem Archonta Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HiddenCube_Ground_Key_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D2_HiddenCube_Ground_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D2_HiddenCube_Water_Key_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D2_HiddenCube_Water_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
+{"id": "EnvObjData_E_D2_Human01_Entrance_01_desc", "source": "Ice Canyon Campsite Gate", "translation": "Brama obozowiska w Lodowym Kanionie", "status": "draft"}
+{"id": "EnvObjData_E_D2_Human01_Exit_01_desc", "source": "Ice Canyon Campsite Gate", "translation": "Brama obozowiska w Lodowym Kanionie", "status": "draft"}
+{"id": "EnvObjData_E_D2_Human02_Entrance_01_desc", "source": "Ashen Campsite Door", "translation": "Drzwi obozowiska w Popielatym Lesie", "status": "draft"}
+{"id": "EnvObjData_E_D2_Human02_Exit_01_desc", "source": "Ashen Campsite Door", "translation": "Drzwi obozowiska w Popielatym Lesie", "status": "draft"}
+{"id":"EnvObjData_E_D2_HunterHideout_TeleportArtifact_desc","source":"Hunter's Hideout","translation":"Kryjówka łowcy","status":"draft"}
+{"id": "EnvObjData_E_D2_IOKStage_Fromise9_01_desc", "source": "fromis_9 Stage", "translation": "Scena fromis_9", "status": "draft"}
+{"id":"EnvObjData_E_D2_KromedeIsland_TeleportArtifact_desc","source":"Kromede's Island","translation":"Wyspa Kromedy","status":"draft"}
+{"id": "EnvObjData_E_D2_LootedBox_001_desc", "source": "Retrieve loot", "translation": "Odzyskaj łup", "status": "draft"}
+{"id": "EnvObjData_E_D2_LostDaeva_001_desc", "source": "Vanished Daeva", "translation": "Zaginiona Daeva", "status": "draft"}
+{"id": "EnvObjData_E_D2_MauRelic_001_desc", "source": "Silvermane Mau's Relic", "translation": "Relikt Mau Srebrnej Grzywy", "status": "draft"}
+{"id": "EnvObjData_E_D2_MorheimTest_001_desc", "source": "[Temporary] Enter Dream Crossroad", "translation": "[Temporary] Enter Dream Crossroad", "status": "technical"}
+{"id": "EnvObjData_E_D2_MorheimTest_002_desc", "source": "[Temporary] 5th Ascension", "translation": "[Temporary] 5th Ascension", "status": "technical"}

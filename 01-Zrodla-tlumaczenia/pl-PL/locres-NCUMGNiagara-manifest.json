@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCUMGNiagara",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "b4a61fe9e8e85a11f3918774eeb1b9a4c61e995af857b8c23ef386b39f630867",
+  "records": 3,
+  "decodedJsonSha256": "9c6a6e7412a3c28f68ffad6986f4379ce756b5301efb928a2981c4335c2456c5",
+  "batches": [
+    {
+      "file": "locres-NCUMGNiagara/NCUMGNiagara/0001.jsonl",
+      "count": 3,
+      "category": "NCUMGNiagara"
+    }
+  ]
+}

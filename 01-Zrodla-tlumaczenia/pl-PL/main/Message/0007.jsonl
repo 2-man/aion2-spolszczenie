@@ -1,0 +1,250 @@
+{"id": "Message_MSG_NPC_pvptest_RED_WIN_body", "source": "Asmodian Victory!", "translation": "Zwycięstwo Asmodian!", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_SLEEP_body", "source": "{0} has appeared! Defeat it to acquire Sleep skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Sen.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_SPEEDUP_body", "source": "{0} has appeared! Defeat it to acquire Speed Up skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Przyspieszenie.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_STUN_body", "source": "{0} has appeared! Defeat it to acquire Stun skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Ogłuszenie.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_WEAKEN_body", "source": "{0} has appeared! Defeat it to acquire Debuff skill.", "translation": "Pojawił się {0}! Pokonaj go, aby zdobyć umiejętność Osłabienie.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_monster_notice_body", "source": "Monster will appear in the designated location shortly.", "translation": "Potwór wkrótce pojawi się we wskazanym miejscu.", "status": "draft"}
+{"id": "Message_MSG_NPC_pvptest_switch_notice_body", "source": "A relic will appear in 10 seconds!", "translation": "Relikt pojawi się za 10 sekund!", "status": "draft"}
+{"id": "Message_MSG_NUMKEYPAD_INPUT_QUANTITY_REQUIRED_body", "source": "No value entered. Please enter again.", "translation": "Nie wpisano wartości. Wpisz ją ponownie.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Buy_PriceLimit_body", "source": "Cannot purchase item because purchase limit per transaction was exceeded.", "translation": "Nie można kupić przedmiotu — przekroczono limit na jedną transakcję.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Sell_Already_Register_body", "source": "Item already registered for sale.", "translation": "Przedmiot został już wystawiony na sprzedaż.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Sell_CanNotSell_TempCube_body", "source": "Cannot sell items in Temporary Cube.", "translation": "Nie można sprzedawać przedmiotów z tymczasowego ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Sell_CurrencyLimit_body", "source": "Currency limit exceeded. Cannot make sales or receive payments.", "translation": "Przekroczono limit waluty. Nie można sprzedawać ani otrzymywać płatności.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Sell_EquipItem_body", "source": "Cannot sell equipped items.", "translation": "Nie można sprzedawać założonych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_Sell_ItemNotForSale_body", "source": "This item is not for sale.", "translation": "Tego przedmiotu nie można sprzedać.", "status": "draft"}
+{"id": "Message_MSG_NpcShop_ServerError_body", "source": "Shop is currently unavailable. Please try again later.", "translation": "Sklep jest obecnie niedostępny. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_CEILLING_REWARD_INVALID_DUNGEON_ID_body", "source": "Invalid Dungeon.", "translation": "Nieprawidłowy loch.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_CEILLING_REWARD_INVALID_ODENERGYCUBE_DATA_body", "source": "Data not connected.", "translation": "Brak połączonych danych.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_CEILLING_REWARD_NOT_ENOUGH_COUNT_body", "source": "Received all guaranteed rewards.", "translation": "Odebrano wszystkie gwarantowane nagrody.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_CEILLING_REWARD_NOT_ENOUGH_POINT_body", "source": "Insufficient attempts for acquiring guaranteed reward items.", "translation": "Za mało prób, aby zdobyć gwarantowane nagrody.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_CEILLING_REWARD_NOT_SELECT_CEILLING_ITEM_body", "source": "Guaranteed reward not selected.", "translation": "Nie wybrano gwarantowanej nagrody.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_INVALID_CEILLING_ITEM_body", "source": "Item not listed among guaranteed rewards.", "translation": "Tego przedmiotu nie ma wśród gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_INVALID_DUNGEON_ID_body", "source": "Invalid Dungeon.", "translation": "Nieprawidłowy loch.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_INVALID_ITEM_ID_body", "source": "Invalid item.", "translation": "Nieprawidłowy przedmiot.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_INVALID_ODENERGYCUBE_DATA_body", "source": "This Dungeon has no Odyle Energy Cube data connected.", "translation": "Ten loch nie ma przypisanych danych Skrzyni Energii Odyle.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_DUNGEON_STATE_NOT_COMPLETE_body", "source": "Rewards not granted as Dungeon is not completed.", "translation": "Nie przyznano nagród, ponieważ loch nie został ukończony.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_INVALID_MAP_body", "source": "Not currently participating in Expedition.", "translation": "Obecnie nie uczestniczysz w Ekspedycji.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_INVALID_REWARD_COUNT_body", "source": "Invalid reward count.", "translation": "Nieprawidłowa liczba nagród.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_NOT_ENOUGH_ODENERGYCUBE_body", "source": "Cannot obtain reward due to insufficient Odyle Energy.", "translation": "Nie można odebrać nagrody — za mało Energii Odyle.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_NOT_ENOUGH_TICKET_body", "source": "Insufficient tickets required to claim rewards.", "translation": "Za mało biletów wymaganych do odebrania nagród.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_REWARD_NOT_SELECT_CEILLING_ITEM_body", "source": "Guaranteed reward item not selected.", "translation": "Nie wybrano przedmiotu z gwarantowanej nagrody.", "status": "draft"}
+{"id": "Message_MSG_ODENERGYCUBE_SELECT_CEILLING_ITEM_OVERFLOW_POINT_body", "source": "Can change when guaranteed rewards are claimed.", "translation": "Można zmienić po odebraniu gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_ALREADY_ACTIVATE_ACCOUNT_body", "source": "Exceeded the number of activation allowed per account.", "translation": "Przekroczono limit aktywacji na konto.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_ALREADY_ACTIVATE_SERVER_body", "source": "Exceeded the number of activation allowed per server.", "translation": "Przekroczono limit aktywacji na serwer.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_ALREADY_ACTIVATE_body", "source": "Already activated on another character within the account.", "translation": "Aktywowano już na innej postaci na tym koncie.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_CHARACTERLEVEL_body", "source": "You do not meet the character level requirement.", "translation": "Nie spełniasz wymagań poziomu postaci.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_COMBATPOWER_body", "source": "You do not meet the Combat Power requirement.", "translation": "Nie spełniasz wymagań Mocy Bojowej.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_ITEMLEVEL_body", "source": "You do not meet the item level requirements.", "translation": "Nie spełniasz wymagań poziomu przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_NOT_ACTIVATE_BASIC_body", "source": "Cannot activate premium for Growth Support that are not activated.", "translation": "Nie można aktywować wersji premium nieaktywnego Wsparcia Rozwoju.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_NOT_ENOUGH_COST_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_FAIL_QUEST_body", "source": "You do not meet the minimum requirements for the quest.", "translation": "Nie spełniasz minimalnych wymagań zadania.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_BUY_SUCCESS_body", "source": "{0} has been activated.", "translation": "Aktywowano {0}.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_NOT_ACTIVE_body", "source": "Cannot claim rewards while Growth Support is inactive.", "translation": "Nie można odebrać nagród, gdy Wsparcie Rozwoju jest nieaktywne.", "status": "draft"}
+{"id": "Message_MSG_ONBOARDING_PREMIUM_BUY_SUCCESS_body", "source": "{0} premium rewards have been activated.", "translation": "Aktywowano nagrody premium {0}.", "status": "draft"}
+{"id": "Message_MSG_OPEN_REWARD_BOX_FAIL_INVALIDITEM_body", "source": "Invalid item.", "translation": "Nieprawidłowy przedmiot.", "status": "draft"}
+{"id": "Message_MSG_OPEN_REWARD_BOX_FAIL_NOTENOUGHINVENTORY_body", "source": "Cannot use chest because of insufficient Cube space.", "translation": "Nie można otworzyć skrzyni — za mało miejsca w ekwipunku.", "status": "draft"}
+{"id": "Message_MSG_OPEN_REWARD_BOX_FAIL_OVERMAXCURRENCY_body", "source": "Cannot use chest because Kina limit was exceeded.", "translation": "Nie można otworzyć skrzyni — przekroczono limit Kiny.", "status": "draft"}
+{"id": "Message_MSG_OPEN_REWARD_BOX_FAIL_body", "source": "Failed to use chest.", "translation": "Nie udało się użyć skrzyni.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_DECO_EQUIPPED_body", "source": "The {0} decoration has been automatically equipped from Pantheon Preset {1}.", "translation": "Automatycznie założono ozdobę {0} z zestawu Panteonu {1}.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_DECO_REGISTERED_body", "source": "The {0} decoration has been added to the Pantheon.", "translation": "Dodano ozdobę {0} do Panteonu.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_FAIL_DECO_ALREADY_REGISTERED_body", "source": "Decoration already owned.", "translation": "Ta ozdoba jest już w posiadaniu.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_PRESET_CHANGE_FAIL_BY_COOLTIME_body", "source": "Preset swap is on standby. Please try again later.", "translation": "Zmiana zestawu oczekuje. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_PRESET_CHANGE_FAIL_BY_EQUIPPED_body", "source": "Preset {0} is already equipped.", "translation": "Zestaw {0} jest już aktywny.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_PRESET_CHANGE_SUCCESS_body", "source": "Pantheon changed according to Preset {0}.", "translation": "Zmieniono Panteon zgodnie z zestawem {0}.", "status": "draft"}
+{"id": "Message_MSG_PANTHEON_PRESET_DECO_SET_FAIL_BY_ALREADY_EQUIP_SLOT_body", "source": "Decoration already placed.", "translation": "Ozdoba została już umieszczona.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ALREADY_GET_REWARD_body", "source": "Rewards already collected.", "translation": "Nagrody zostały już odebrane.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_APPLY_REFUSAL_body", "source": "Declined {0}'s invitation.", "translation": "Odrzucono zaproszenie od {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_APPLY_RESPONSE_REFUSAL_body", "source": "Target declined invitation.", "translation": "Cel odrzucił zaproszenie.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_BOSS_SPAWN_body", "source": "{0} has appeared. Prepare for battle.", "translation": "Pojawia się {0}. Przygotuj się do walki.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_CREATE_ROOM_NEED_LEVEL_body", "source": "Room creation is possible from Level {0}.", "translation": "Pokój można utworzyć od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_FAST_JOIN_ROOM_NEED_LEVEL_body", "source": "Quick Join is possible from Level {0}.", "translation": "Szybkie dołączenie jest dostępne od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_FUNCTION_body", "source": "Cannot be used while fighting a boss.", "translation": "Nie można używać podczas walki z bossem.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_INTRUSION_NEED_LEVEL_body", "source": "Intrusion is possible from Level {0}.", "translation": "Do trwającej rozgrywki można dołączyć od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_JOIN_ROOM_NEED_LEVEL_body", "source": "Instant Join is possible from Level {0}.", "translation": "Natychmiastowe dołączenie jest dostępne od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CANNOT_REQUEST_NEED_LEVEL_body", "source": "Sending join requests is possible from Level {0}.", "translation": "Prośby o dołączenie można wysyłać od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CLEAR_EASY_TO_NORMAL_CLEAR_body", "source": "Can enter after completing {0} on Exploration difficulty.", "translation": "Można wejść po ukończeniu {0} na poziomie Eksploracja.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CLEAR_EASY_TO_NORMAL_INVITE_NOT_CLEAR_body", "source": "This player cannot be invited due to not completing Exploration difficulty.", "translation": "Nie można zaprosić tego gracza, ponieważ nie ukończył poziomu Eksploracja.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_CONTRIBUTION_NOTHING_body", "source": "Insufficient Contribution to receive rewards.", "translation": "Za mały wkład, aby otrzymać nagrody.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_DIFFICULTY_EASY_TO_NORMAL_body", "source": "Changed difficulty from Exploration to Conquer.", "translation": "Zmieniono poziom trudności z Eksploracji na Podbój.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_DIFFICULTY_NORMAL_TO_EASY_body", "source": "Changed difficulty from Conquer to Exploration.", "translation": "Zmieniono poziom trudności z Podboju na Eksplorację.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_DISTRIBUTION_KICKOUT_IMPOSSIBLE_POSITION_body", "source": "Cannot be used in current location.", "translation": "Nie można użyć w bieżącym miejscu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_DISTRIBUTION_KICKOUT_IMPOSSIBLE_body", "source": "This setting cannot be changed while in combat with a boss, while dead, or once the dungeon has been cleared.", "translation": "Nie można zmienić tego ustawienia podczas walki z bossem, po śmierci ani po ukończeniu lochu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_FAIL_INVALIDPARTYROLE_body", "source": "No rooms available for selected role.", "translation": "Brak pokoi dla wybranej roli.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_FAIL_KICKOUT_COMPLETE_STATE_body", "source": "Cannot Kick once a dungeon has already been completed.", "translation": "Nie można wyrzucać po ukończeniu lochu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_FAIL_PARTYROLESELECT_body", "source": "Must select a role to proceed with Quick Join.", "translation": "Wybierz rolę, aby skorzystać z szybkiego dołączenia.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_INSIDE_PARTYCHALLENGE_SEASON_OFF_NOT_SEND_INVITE_body", "source": "Cannot join party because season has ended.", "translation": "Nie można dołączyć do drużyny — sezon dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_INSTANTLY_ENTRANCE_INPOSSIBLE_body", "source": "No rooms available for Quick Join.", "translation": "Brak pokoi do szybkiego dołączenia.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_INTRUSION_NOT_GET_REWARD_ITEM_body", "source": "Cannot intrude while guaranteed rewards remain unclaimed.", "translation": "Nie można dołączyć do trwającej rozgrywki, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_INTRUSION_NOT_JOIN_FORCE_body", "source": "Cannot intrude while in a Force.", "translation": "Nie można dołączyć do trwającej rozgrywki, należąc do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_JOIN_NOT_GET_REWARD_ITEM_body", "source": "Cannot apply to join while guaranteed rewards remain unclaimed.", "translation": "Nie można zgłosić chęci dołączenia, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_NOT_ENOUGH_ITEM_LEVEL_CHANGE_DIFFICULTY_body", "source": "Cannot change difficulty due to low item level.", "translation": "Nie można zmienić poziomu trudności — poziom przedmiotów jest za niski.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_NOT_ENOUGH_LEVEL_CHANGE_DIFFICULTY_body", "source": "Cannot change difficulty due to low character level.", "translation": "Nie można zmienić poziomu trudności — poziom postaci jest za niski.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_OD_CUBE_CEILLING_GET_REWARD_body", "source": "Received {0} as guaranteed reward.", "translation": "Otrzymano gwarantowaną nagrodę: {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_GRADE_CHANGE_body", "source": "Set to Stage {0}.", "translation": "Ustawiono etap {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_GRADE_NOT_ENOUGH_LEVEL_body", "source": "Level too low to enter this stage.", "translation": "Poziom jest za niski, aby wejść na ten etap.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_GRADE_NOT_PASS_PRE_GRADE_body", "source": "Cannot select because previous stage has not been cleared with an S rank.", "translation": "Nie można wybrać — poprzedni etap nie został ukończony z rangą S.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_INVITE_GRADE_NOT_PASS_body", "source": "This player cannot be invited due to not completing previous stage.", "translation": "Nie można zaprosić tego gracza, ponieważ nie ukończył poprzedniego etapu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_SEASON_OFF_ALL_CANCEL_body", "source": "Cannot join because Transcendence Dungeon season has ended.", "translation": "Nie można dołączyć — sezon Lochu Transcendencji dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_SEASON_OFF_NOT_ENTER_body", "source": "Cannot create room and enter Dungeon due to Transcendence Dungeon Season ending.", "translation": "Nie można utworzyć pokoju ani wejść do lochu — sezon Lochu Transcendencji dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHALLENGE_SEASON_OFF_body", "source": "Transcendence Dungeon season has ended.", "translation": "Sezon Lochu Transcendencji dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYCHANGE_NORANKINGPOINT_body", "source": "Cannot receive Rank Points from current dungeon due to party member changes.", "translation": "Nie można otrzymać punktów rangi za ten loch z powodu zmian w drużynie.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_ENOUGH_LEVEL_body", "source": "Transcendence Dungeon unlocked.", "translation": "Odblokowano Loch Transcendencji.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_INVALID_LEVEL_body", "source": "Cannot enter at this Stage.", "translation": "Nie można wejść na tym etapie.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_NOT_ENOUGH_LEVEL_body", "source": "Transcendence Dungeon can be entered from Level {0}.", "translation": "Do Lochu Transcendencji można wejść od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_NOT_SEASON_body", "source": "Cannot create room and enter Dungeon due to no Season being in progress.", "translation": "Nie można utworzyć pokoju ani wejść do lochu — obecnie nie trwa żaden sezon.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_ALREADY_body", "source": "Challenge Again already in progress.", "translation": "Ponowna próba już trwa.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_CEILLING_ITEM_body", "source": "Cannot Challenge Again while guaranteed rewards remain unclaimed.", "translation": "Nie można podjąć ponownej próby, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_CHANGE_PARTYLEADER_body", "source": "Challenge Again was canceled due to changing Party Leader.", "translation": "Ponowną próbę anulowano z powodu zmiany lidera drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_ENTER_NEED_KILLBOSSNPC_TICKET_body", "source": "Cannot Challenge Again due to insufficient Challenge Count.", "translation": "Nie można podjąć ponownej próby — brakuje prób wyzwania.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_ITEM_LEVEL_body", "source": "Cannot Challenge Again due to insufficient item level.", "translation": "Nie można podjąć ponownej próby — poziom przedmiotów jest za niski.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_MEMBER_body", "source": "Cannot Challenge Again due to insufficient Party Members.", "translation": "Nie można podjąć ponownej próby — w drużynie jest za mało osób.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_REQUEST_body", "source": "Cannot currently accept Challenge Again.", "translation": "Obecnie nie można zaakceptować ponownej próby.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_TICKET_CLEAR_body", "source": "Cannot Challenge Again due to insufficient Boss Kill Count.", "translation": "Nie można podjąć ponownej próby — pokonano zbyt mało bossów.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_TICKET_ENTER_body", "source": "Cannot Challenge Again due to insufficient Challenge Count.", "translation": "Nie można podjąć ponownej próby — brakuje prób wyzwania.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_CAN_NOT_TICKET_ODENERGYCUBE_REWARD_body", "source": "Cannot Challenge Again due to insufficient Reward Count.", "translation": "Nie można podjąć ponownej próby — osiągnięto limit nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_DECLINE_ALL_body", "source": "Challenge Again canceled due to being rejected by all Party Members.", "translation": "Ponowną próbę anulowano, ponieważ wszyscy członkowie drużyny ją odrzucili.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_DECLINE_body", "source": "Declined {0}'s Challenge Again request.", "translation": "Odrzucono prośbę {0} o ponowną próbę.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_NOT_COMPLETE_body", "source": "Cannot retry dungeon in current state.", "translation": "W obecnym stanie nie można ponowić lochu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_ONLY_LEADER_body", "source": "Challenge Again can only be selected by the Party Leader.", "translation": "Ponowną próbę może wybrać tylko lider drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_RETRY_ON_COMBAT_body", "source": "Cannot retry during combat.", "translation": "Nie można ponowić próby podczas walki.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_CREATE_FAIL_DESCLENGTH_body", "source": "A room name must be 2 to 24 characters.", "translation": "Nazwa pokoju musi mieć od 2 do 24 znaków.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_CREATE_FAIL_TRIAL_POINT_body", "source": "Cannot create room. Final difficulty is too low.", "translation": "Nie można utworzyć pokoju — końcowy poziom trudności jest za niski.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_CREATE_NOT_FORCE_body", "source": "Cannot create room while in a Force.", "translation": "Nie można utworzyć pokoju, należąc do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_CREATE_NOT_GET_REWARD_ITEM_body", "source": "Cannot create room while guaranteed rewards remain unclaimed.", "translation": "Nie można utworzyć pokoju, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_CREATE_body", "source": "Created a room for {0} Dungeon.", "translation": "Utworzono pokój do lochu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_ENTRUST_ROOM_MANAGER_body", "source": "Room ownership delegated to {0}.", "translation": "Przekazano zarządzanie pokojem graczowi {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_ALREADYINROOM_body", "source": "Already in room.", "translation": "Już jesteś w pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_ALREADY_APPLICATION_body", "source": "Already sent request to join.", "translation": "Wysłano już prośbę o dołączenie.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_ALREADY_OCCUPIED_body", "source": "Slot already occupied.", "translation": "Slot jest już zajęty.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_ALREADY_START_body", "source": "Dungeon has already started.", "translation": "Loch już się rozpoczął.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_CANTJOIN_EXPELLEDROOM_body", "source": "Cannot rejoin a room you were kicked from.", "translation": "Nie można ponownie dołączyć do pokoju, z którego cię wyrzucono.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_COOLTIME_body", "source": "Cannot enter due to reaming entry wait time.", "translation": "Nie można wejść — obowiązuje jeszcze czas oczekiwania.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_DISCONNECTED_PLAY_SERVER_body", "source": "Cannot connect to server.", "translation": "Nie można połączyć się z serwerem.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_INVALID_JOIN_TYPE_body", "source": "Cannot participate due to invalid request.", "translation": "Nie można wziąć udziału z powodu nieprawidłowego żądania.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_INVALID_PARTYDUNGEON_ID_body", "source": "Invalid Dungeon.", "translation": "Nieprawidłowy loch.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_INVALID_SLOTNUMBER_body", "source": "Invalid slot.", "translation": "Nieprawidłowy slot.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_INVITE_ALREADYINROOM_body", "source": "Already in the room. Unable to accept invite.", "translation": "Już jesteś w pokoju. Nie można przyjąć zaproszenia.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_INVITE_TOOSOON_body", "source": "Cannot invite same target repeatedly. Please try again later.", "translation": "Nie można wielokrotnie zapraszać tego samego celu. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_LEADER_body", "source": "Unavailable to Room Owner.", "translation": "Niedostępne dla właściciela pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_COMPLETED_DUNGEON_body", "source": "Expedition not yet completed.", "translation": "Ekspedycja nie została jeszcze ukończona.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_CREATE_MAP_body", "source": "Failed to create Expedition Dungeon.", "translation": "Nie udało się utworzyć lochu Ekspedycji.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_DUNGEON_body", "source": "Expedition Dungeon map does not exist.", "translation": "Mapa lochu Ekspedycji nie istnieje.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_MEMBER_body", "source": "Not in a room.", "translation": "Nie należysz do pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_PLAYING_body", "source": "Not currently in Expedition Dungeon.", "translation": "Obecnie nie znajdujesz się w lochu Ekspedycji.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NOT_READY_ALL_body", "source": "Some members in the room are not ready.", "translation": "Niektórzy członkowie pokoju nie są gotowi.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_NO_MAP_body", "source": "Map does not exist.", "translation": "Mapa nie istnieje.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_PLAYING_body", "source": "Cannot proceed while in Dungeon.", "translation": "Nie można kontynuować w lochu.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_TARGET_ALREADYINROOM_body", "source": "Character is already blocked.", "translation": "Ta postać jest już zablokowana.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_TOO_HIGH_LEVEL_body", "source": "Level is too high to enter room.", "translation": "Poziom jest za wysoki, aby wejść do pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAIL_TOO_LOW_LEVEL_body", "source": "Level is too low to enter room.", "translation": "Poziom jest za niski, aby wejść do pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAST_JOIN_NOT_FORCE_body", "source": "Cannot Quick Join while in a Force.", "translation": "Nie można szybko dołączyć, należąc do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FAST_JOIN_NOT_GET_REWARD_ITEM_body", "source": "Cannot Quick Join while guaranteed rewards remain unclaimed.", "translation": "Nie można szybko dołączyć, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FULL_APPLICATION_body", "source": "Join requests are no longer being accepted.", "translation": "Prośby o dołączenie nie są już przyjmowane.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FULL_INVITE_body", "source": "No more invitations can be sent.", "translation": "Nie można wysłać więcej zaproszeń.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_FULL_ROOM_body", "source": "Room is full.", "translation": "Pokój jest pełny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_INVALIDCHARACTER_body", "source": "Failed to find character.", "translation": "Nie udało się znaleźć postaci.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_INVALID_RACE_body", "source": "Target belongs to a faction that cannot participate.", "translation": "Cel należy do frakcji, która nie może wziąć udziału.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_INVITE_OTHER_WORLDSERVER_GROUPNO_body", "source": "Cannot invite a character in a different server group.", "translation": "Nie można zaprosić postaci z innej grupy serwerów.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_INVITE_REICEVE_body", "source": "Received invitation from {0} to join {1}.", "translation": "Otrzymano od {0} zaproszenie do dołączenia do {1}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_INVITE_SEND_body", "source": "Invitation sent to {0}.", "translation": "Wysłano zaproszenie do {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_JOIN_FORCE_body", "source": "Cannot invite players already in a Force.", "translation": "Nie można zapraszać graczy należących do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_JOIN_OTHER_WORLDSERVER_GROUPNO_body", "source": "Cannot enter a room in a different server group.", "translation": "Nie można wejść do pokoju w innej grupie serwerów.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_JOIN_ROOM_MEMBER_body", "source": "{0} joined the room.", "translation": "Do pokoju dołącza {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_JOIN_body", "source": "Joined {0} Dungeon room.", "translation": "Dołączono do pokoju lochu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_KICKOUT_ROOM_MEMBER_body", "source": "{0} has been kicked from the room.", "translation": "Wyrzucono {0} z pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_KICKOUT_body", "source": "You were kicked from the room.", "translation": "Wyrzucono cię z pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_LEADER_NOT_LOGIN_body", "source": "Room Owner is not connected.", "translation": "Właściciel pokoju nie jest połączony.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_LEAVE_ROOM_MEMBER_body", "source": "{0} left the room.", "translation": "{0} opuszcza pokój.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_LEAVE_body", "source": "Left {0} Dungeon room.", "translation": "Opuszczono pokój lochu {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NAME_CHANGE_body", "source": "Room name changed.", "translation": "Zmieniono nazwę pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_CHANGE_SETTING_NEW_PLAYER_body", "source": "Unable to change room settings as there are participants in the room.", "translation": "Nie można zmienić ustawień pokoju, gdy znajdują się w nim uczestnicy.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_FOUND_ROOM_body", "source": "Cannot find room.", "translation": "Nie znaleziono pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_GET_REWARD_ITEM_body", "source": "Cannot Instant Join while guaranteed rewards remain unclaimed.", "translation": "Nie można dołączyć natychmiast, dopóki nie odbierzesz gwarantowanych nagród.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_INSTANTLY_ENTER_FORCE_body", "source": "Cannot Instant Join while in a Force.", "translation": "Nie można dołączyć natychmiast, należąc do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_JOIN_FORCE_body", "source": "Cannot request entry while in a Force.", "translation": "Nie można prosić o wejście, należąc do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_SEND_FORCE_PLAYER_body", "source": "Cannot invite players currently in Expedition or Transcendence Dungeon to Force.", "translation": "Nie można zapraszać do grupy rajdowej graczy przebywających w Ekspedycji lub Lochu Transcendencji.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_SEND_LOCATION_body", "source": "Target cannot be invited from current location.", "translation": "Nie można zaprosić celu z bieżącego miejsca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NOT_TRANS_FORCE_body", "source": "Cannot create or convert Force while in a dungeon.", "translation": "W lochu nie można tworzyć grupy rajdowej ani do niej przekształcać drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_NO_ROOM_TO_JOIN_body", "source": "No rooms available to join.", "translation": "Brak pokoi, do których można dołączyć.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_ONLY_LEADER_body", "source": "Room Owner only.", "translation": "Tylko właściciel pokoju.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_PARTYCHALLENGE_SEASON_OFF_body", "source": "Left waiting room because season has ended.", "translation": "Opuszczono poczekalnię, ponieważ sezon dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_REQUEST_RECEIVE_body", "source": "{0} requested to join.", "translation": "Postać {0} poprosiła o dołączenie.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_REQUEST_SEND_body", "source": "Join request sent to {0}.", "translation": "Wysłano prośbę o dołączenie do {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_SETTING_CHANGE_ALERT_body", "source": "Readiness canceled due to changes in Ordeal difficulty.", "translation": "Anulowano gotowość z powodu zmiany poziomu trudności Próby.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_SETTING_CHANGE_APPROVE_body", "source": "Room participation changed to \"By Approval\".", "translation": "Zmieniono zasady dołączania do pokoju na „Za zgodą”.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_SETTING_CHANGE_IMMEDIATELY_body", "source": "Room participation changed to Instant Join.", "translation": "Zmieniono zasady dołączania do pokoju na natychmiastowe.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_SETTING_CHANGE_PRIVATE_body", "source": "Room changed to Private.", "translation": "Ustawiono pokój jako prywatny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_SETTING_CHANGE_PUBLIC_body", "source": "Room changed to Public.", "translation": "Ustawiono pokój jako publiczny.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_ROOM_TARGET_FULL_INVITE_body", "source": "The character can not receive more invitations.", "translation": "Ta postać nie może otrzymywać kolejnych zaproszeń.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_UNLOCK_GUIDE_START_body", "source": "{0} opens {1}.", "translation": "{0} otwiera {1}.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_WAITING_LIST_BUTTON_DEALER_body", "source": "Selected Dealer role.", "translation": "Wybrano rolę Atakującego.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_WAITING_LIST_BUTTON_HEALER_body", "source": "Selected Healer role.", "translation": "Wybrano rolę Uzdrowiciela.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_WAITING_LIST_BUTTON_TANKER_body", "source": "Selected Tank role.", "translation": "Wybrano rolę Obrońcy.", "status": "draft"}
+{"id": "Message_MSG_PARTYDUNGEON_WAITLIST_REFRESH_BTN_COOLTIME_FAIL_body", "source": "On standby for refresh. Please try again later.", "translation": "Oczekiwanie na odświeżenie. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PARTY_ADDITEM_FAIL_PARTY_body", "source": "No party members to acquire item.", "translation": "Brak członków drużyny, którzy mogą zdobyć przedmiot.", "status": "draft"}
+{"id": "Message_MSG_PARTY_ALREADY_IN_PARTY_body", "source": "Already in a party.", "translation": "Już należysz do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_COMMAND_ERROR_01_body", "source": "Must be entered as /{0}]", "translation": "Należy wpisać jako /{0}]", "status": "draft"}
+{"id": "Message_MSG_PARTY_COMMAND_ERROR_02_body", "source": "Cannot use currently. Please try again later.", "translation": "Obecnie nie można użyć. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PARTY_CREATED_body", "source": "Party created.", "translation": "Utworzono drużynę.", "status": "draft"}
+{"id": "Message_MSG_PARTY_CURRENT_JOIN_body", "source": "{0} is already in another party.", "translation": "{0} należy już do innej drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISBAND_body", "source": "Party disbanded.", "translation": "Rozwiązano drużynę.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISTRIBUTION_BUTTON_DELAY_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISTRIBUTION_MANUAL_body", "source": "Loot method changed to free-for-all.", "translation": "Zmieniono podział łupów na wolny przydział.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISTRIBUTION_PARTY_LEADER_body", "source": "Loot method changed to party leader.", "translation": "Zmieniono podział łupów na przydział przez lidera drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISTRIBUTION_RANDOM_body", "source": "Loot method changed to random.", "translation": "Zmieniono podział łupów na losowy.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DISTRIBUTION_SEQUENTIAL_body", "source": "Loot method changed to sequential.", "translation": "Zmieniono podział łupów na kolejny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_DO_NOT_DISTURB_CHARACTER_body", "source": "{0} is set to auto-decline party invitations.", "translation": "{0} automatycznie odrzuca zaproszenia do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_FAIL_LOST_COMMUNITY_SESSION_body", "source": "Cannot connect to server.", "translation": "Nie można połączyć się z serwerem.", "status": "draft"}
+{"id": "Message_MSG_PARTY_FULL_body", "source": "Party is full.", "translation": "Drużyna jest pełna.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_DISTANCE_EXCLUSION_body", "source": "{0} is too far away from loot, excluded from loot distribution.", "translation": "{0} jest zbyt daleko od łupu i nie bierze udziału w jego podziale.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_DISTRIBUTION_CONDITION_EXCLUSION_body", "source": "{0} does not meet distribution conditions and has been excluded.", "translation": "Wykluczono {0}, ponieważ nie spełnia warunków podziału przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_NOT_PARTYLEADER_PET_LOOTING_body", "source": "No party members that can acquire item.", "translation": "Żaden członek drużyny nie może zdobyć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_NOT_PARTYLEADER_body", "source": "No party members that can acquire item.", "translation": "Żaden członek drużyny nie może zdobyć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_NO_MORE_body", "source": "Could not distribute party items because you cannot obtain more items.", "translation": "Nie można rozdzielić łupów drużyny — nie możesz już zdobywać przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_NO_PARTYMEMBER_NEARBY_PET_LOOTING_body", "source": "Acquired looted item(s) directly as party leader cannot acquire more items.", "translation": "Zdobyto łup bezpośrednio, ponieważ lider drużyny nie może już otrzymywać przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_NO_PARTYMEMBER_NEARBY_body", "source": "Acquired looted item(s) directly as party leader cannot acquire more items.", "translation": "Zdobyto łup bezpośrednio, ponieważ lider drużyny nie może już otrzymywać przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_RANDOM_body", "source": "No loot designations, distributed at random.", "translation": "Nie wskazano odbiorcy łupu, więc rozdzielono go losowo.", "status": "draft"}
+{"id": "Message_MSG_PARTY_GET_ITEM_body", "source": "{0} acquired {1} through party distribution.", "translation": "Postać {0} otrzymała {1} w ramach podziału łupów drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_HIGH_END_ITEM_BID_body", "source": "Advanced item distribution changed to bidding.", "translation": "Zmieniono zaawansowany podział przedmiotów na licytację.", "status": "draft"}
+{"id": "Message_MSG_PARTY_HIGH_END_ITEM_NORMAL_body", "source": "Advanced item distribution changed to loot method.", "translation": "Zmieniono zaawansowany podział przedmiotów na wybraną metodę łupów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_HIGH_END_ITEM_ROLLING_DICE_body", "source": "Advanced item distribution changed to dice roll.", "translation": "Zmieniono zaawansowany podział przedmiotów na rzut kością.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITED_body", "source": "Invited to party.", "translation": "Zaproszono do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITER_NOT_IN_PARTY_body", "source": "Character not found in party.", "translation": "Nie znaleziono postaci w drużynie.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_CANCELED_body", "source": "{0} canceled party invitation.", "translation": "Postać {0} anulowała zaproszenie do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_CANCEL_body", "source": "Canceled party invitation sent to {0}.", "translation": "Anulowano zaproszenie do drużyny wysłane do {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_FAIL_MY_PARTY_body", "source": "This player is already in your party.", "translation": "Ten gracz należy już do twojej drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_FAIL_OFFLINE_body", "source": "Character is offline.", "translation": "Postać jest offline.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_FAIL_OTHER_WORLDSERVER_GROUPNO_body", "source": "Cannot invite a character in a different server group.", "translation": "Nie można zaprosić postaci z innej grupy serwerów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_FAIL_body", "source": "Cannot invite {0} because party is full.", "translation": "Nie można zaprosić {0} — drużyna jest pełna.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_INVALID_CHARACTER_body", "source": "{0} is either offline or does not exist.", "translation": "{0} jest offline lub nie istnieje.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_INVALID_CONTENTSRACE_body", "source": "Cannot form a party with characters from enemy camps in the Abyss.", "translation": "W Otchłani nie można utworzyć drużyny z postaci z wrogich obozów.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_INVALID_RACE_body", "source": "Cannot form party with hostile faction.", "translation": "Nie można utworzyć drużyny z wrogą frakcją.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_NOT_ENTRUST_body", "source": "Cannot assign position while party invite is being sent.", "translation": "Nie można przydzielić pozycji podczas wysyłania zaproszenia do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_NO_ANSWER_body", "source": "No response to party invitation.", "translation": "Brak odpowiedzi na zaproszenie do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_NO_AUTHORITY_body", "source": "Not granted party invite privileges.", "translation": "Nie przyznano uprawnień do zapraszania do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_RECOMMEND_BTN_COOLTIME_FAIL_body", "source": "On standby for refresh. Please try again after {0} second(s).", "translation": "Oczekiwanie na odświeżenie. Spróbuj ponownie za {0} s.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_REJECTION_body", "source": "Declined party invitation.", "translation": "Odrzucono zaproszenie do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_UNABLE_SOON_SAME_CHARACTER_body", "source": "Cannot rapidly apply to parties on the same character. Please try again later.", "translation": "Nie można zbyt często zgłaszać tej samej postaci do drużyn. Spróbuj później.", "status": "draft"}
+{"id": "Message_MSG_PARTY_INVITE_UNABLE_body", "source": "Cannot send party invitation at this time. Please try again later.", "translation": "Obecnie nie można wysłać zaproszenia do drużyny. Spróbuj później.", "status": "draft"}
+{"id": "Message_MSG_PARTY_JOIN_FAIL_body", "source": "Cannot currently join this party.", "translation": "Obecnie nie można dołączyć do tej drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_JOIN_TARGET_body", "source": "{0} joined the party.", "translation": "Do drużyny dołącza {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTY_JOIN_body", "source": "Joined party.", "translation": "Dołączono do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_KICKOUT_TARGET_ERROR_body", "source": "Cannot kick this player.", "translation": "Nie można wyrzucić tego gracza.", "status": "draft"}
+{"id": "Message_MSG_PARTY_KICKOUT_TARGET_body", "source": "{0} was kicked from the party.", "translation": "Wyrzucono {0} z drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_KICKOUT_body", "source": "Kicked from party.", "translation": "Wyrzucono z drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEADER_ENTRUST_ERROR_body", "source": "Cannot reassign this player.", "translation": "Nie można wyznaczyć tego gracza ponownie.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEADER_ENTRUST_FAIL_BY_KICKOUT_VOTE_body", "source": "Cannot delegate kick votes.", "translation": "Nie można przekazać głosów dotyczących wyrzucenia.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEADER_ENTRUST_body", "source": "Party leadership has been reassigned to {0}.", "translation": "Przekazano przywództwo w drużynie graczowi {0}.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEAVE_BY_ABYSSRIFT_REBALANCING_body", "source": "Changed channel and left party for population balance.", "translation": "Zmieniono kanał i opuszczono drużynę, aby wyrównać liczbę graczy.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEAVE_FAILED_body", "source": "Cannot leave Party in current state.", "translation": "W obecnym stanie nie można opuścić drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEAVE_TARGET_BY_ABYSSRIFT_REBALANCING_body", "source": "{0} changed channel and left party for population balance.", "translation": "Po zmianie kanału postać {0} opuściła drużynę, aby wyrównać liczbę graczy.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEAVE_TARGET_body", "source": "{0} left the party.", "translation": "{0} opuszcza drużynę.", "status": "draft"}
+{"id": "Message_MSG_PARTY_LEAVE_body", "source": "Left party.", "translation": "Opuszczono drużynę.", "status": "draft"}
+{"id": "Message_MSG_PARTY_NOT_FOUND_body", "source": "Cannot find party.", "translation": "Nie znaleziono drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_NOT_IN_PARTY_body", "source": "Not in a party.", "translation": "Nie należysz do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_NOT_LEADER_body", "source": "Only available to Party Leader.", "translation": "Dostępne tylko dla lidera drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_NO_MORE_INVITE_CHARACTER_body", "source": "{0} cannot receive party invitations.", "translation": "{0} nie może otrzymywać zaproszeń do drużyny.", "status": "draft"}
+{"id": "Message_MSG_PARTY_RECRUITMENT_LINK_CREATED_FAIL_body", "source": "Failed to created Recruitment link.", "translation": "Nie udało się utworzyć odnośnika rekrutacyjnego.", "status": "draft"}
+{"id": "Message_MSG_PARTY_RECRUITMENT_NO_AUTHORITY_body", "source": "You do not have permission to share links.", "translation": "Nie masz uprawnień do udostępniania odnośników.", "status": "draft"}
+{"id": "Message_MSG_PARTY_RECRUITMENT_OFF_01_body", "source": "Shared Party Recruitment link has expired.", "translation": "Udostępniony odnośnik rekrutacyjny drużyny wygasł.", "status": "draft"}
+{"id": "Message_MSG_PARTY_RECRUITMENT_OFF_02_body", "source": "Cannot join due to recruitment expiring.", "translation": "Nie można dołączyć — rekrutacja wygasła.", "status": "draft"}

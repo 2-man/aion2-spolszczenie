@@ -1,0 +1,173 @@
+{"id": "PcSocialAction_10_action_name", "source": "Wave", "translation": "Pomachaj", "status": "draft"}
+{"id": "PcSocialAction_10_msg_targeted", "source": "{0} waves at you.", "translation": "{0} macha do Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_10_msg_targetless", "source": "{0} waves.", "translation": "{0} macha.", "status": "draft"}
+{"id": "PcSocialAction_10_msg_withtarget", "source": "{0} waves at {1}.", "translation": "{0} macha do {1}.", "status": "draft"}
+{"id": "PcSocialAction_11_action_name", "source": "Boo", "translation": "Wygwiżdż", "status": "draft"}
+{"id": "PcSocialAction_11_msg_targeted", "source": "{0} boos at you.", "translation": "{0} Cię wygwizduje.", "status": "draft"}
+{"id": "PcSocialAction_11_msg_targetless", "source": "{0} boos.", "translation": "{0} wygwizduje.", "status": "draft"}
+{"id": "PcSocialAction_11_msg_withtarget", "source": "{0} boos at {1}.", "translation": "{0} wygwizduje {1}.", "status": "draft"}
+{"id": "PcSocialAction_12_action_name", "source": "Laugh", "translation": "Śmiej się", "status": "draft"}
+{"id": "PcSocialAction_12_msg_targeted", "source": "{0} laughs merrily with you.", "translation": "{0} radośnie się z Tobą śmieje.", "status": "draft"}
+{"id": "PcSocialAction_12_msg_targetless", "source": "{0} laughs merrily.", "translation": "{0} radośnie się śmieje.", "status": "draft"}
+{"id": "PcSocialAction_12_msg_withtarget", "source": "{0} laughs merrily with {1}.", "translation": "{0} radośnie się śmieje z {1}.", "status": "draft"}
+{"id": "PcSocialAction_13_action_name", "source": "Mock", "translation": "Wyśmiej", "status": "draft"}
+{"id": "PcSocialAction_13_msg_targeted", "source": "{0} points and laughs at you.", "translation": "{0} wskazuje na Ciebie i się śmieje.", "status": "draft"}
+{"id": "PcSocialAction_13_msg_targetless", "source": "{0} points and laughs.", "translation": "{0} wskazuje palcem i się śmieje.", "status": "draft"}
+{"id": "PcSocialAction_13_msg_withtarget", "source": "{0} points and laughs at {1}.", "translation": "{0} wskazuje na {1} i się śmieje.", "status": "draft"}
+{"id": "PcSocialAction_14_action_name", "source": "Kneel", "translation": "Uklęknij", "status": "draft"}
+{"id": "PcSocialAction_14_msg_targeted", "source": "{0} kneels to you.", "translation": "{0} klęka przed Tobą.", "status": "draft"}
+{"id": "PcSocialAction_14_msg_targetless", "source": "{0} kneels.", "translation": "{0} klęka.", "status": "draft"}
+{"id": "PcSocialAction_14_msg_withtarget", "source": "{0} kneels to {1}.", "translation": "{0} klęka przed {1}.", "status": "draft"}
+{"id": "PcSocialAction_15_action_name", "source": "Talk", "translation": "Porozmawiaj", "status": "draft"}
+{"id": "PcSocialAction_15_msg_targeted", "source": "{0} talks to you.", "translation": "{0} rozmawia z Tobą.", "status": "draft"}
+{"id": "PcSocialAction_15_msg_targetless", "source": "{0} talks about something.", "translation": "{0} o czymś opowiada.", "status": "draft"}
+{"id": "PcSocialAction_15_msg_withtarget", "source": "{0} talks to {1}.", "translation": "{0} rozmawia z {1}.", "status": "draft"}
+{"id": "PcSocialAction_16_action_name", "source": "Dance", "translation": "Zatańcz", "status": "draft"}
+{"id": "PcSocialAction_16_msg_targeted", "source": "{0} dances with you.", "translation": "{0} tańczy z Tobą.", "status": "draft"}
+{"id": "PcSocialAction_16_msg_targetless", "source": "{0} dances.", "translation": "{0} tańczy.", "status": "draft"}
+{"id": "PcSocialAction_16_msg_withtarget", "source": "{0} dances with {1}.", "translation": "{0} tańczy z {1}.", "status": "draft"}
+{"id": "PcSocialAction_17_action_name", "source": "Pray", "translation": "Pomódl się", "status": "draft"}
+{"id": "PcSocialAction_17_msg_targeted", "source": "{0} prays fervently to you.", "translation": "{0} żarliwie się do Ciebie modli.", "status": "draft"}
+{"id": "PcSocialAction_17_msg_targetless", "source": "{0} prays fervently.", "translation": "{0} żarliwie się modli.", "status": "draft"}
+{"id": "PcSocialAction_17_msg_withtarget", "source": "{0} prays fervently to {1}.", "translation": "{0} żarliwie się modli do {1}.", "status": "draft"}
+{"id": "PcSocialAction_18_action_name", "source": "Point", "translation": "Wskaż", "status": "draft"}
+{"id": "PcSocialAction_18_msg_targeted", "source": "{0} points at you.", "translation": "{0} wskazuje na Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_18_msg_targetless", "source": "{0} points ahead.", "translation": "{0} wskazuje przed siebie.", "status": "draft"}
+{"id": "PcSocialAction_18_msg_withtarget", "source": "{0} points at {1}.", "translation": "{0} wskazuje na {1}.", "status": "draft"}
+{"id": "PcSocialAction_19_action_name", "source": "Fear", "translation": "Okaż strach", "status": "draft"}
+{"id": "PcSocialAction_19_msg_targeted", "source": "{0} trembles in fear at the sight of you.", "translation": "{0} drży ze strachu na Twój widok.", "status": "draft"}
+{"id": "PcSocialAction_19_msg_targetless", "source": "{0} trembles in fear.", "translation": "{0} drży ze strachu.", "status": "draft"}
+{"id": "PcSocialAction_19_msg_withtarget", "source": "{0} trembles in fear at the sight of {1}.", "translation": "{0} drży ze strachu na widok {1}.", "status": "draft"}
+{"id": "PcSocialAction_20_action_name", "source": "Disgust", "translation": "Okaż odrazę", "status": "draft"}
+{"id": "PcSocialAction_20_msg_targeted", "source": "{0} is disgusted by you.", "translation": "{0} okazuje Ci odrazę.", "status": "draft"}
+{"id": "PcSocialAction_20_msg_targetless", "source": "{0} is disgusted.", "translation": "{0} okazuje odrazę.", "status": "draft"}
+{"id": "PcSocialAction_20_msg_withtarget", "source": "{0} is disgusted by {1}.", "translation": "{0} okazuje odrazę wobec {1}.", "status": "draft"}
+{"id": "PcSocialAction_21_action_name", "source": "Look", "translation": "Rozejrzyj się", "status": "draft"}
+{"id": "PcSocialAction_21_msg_targeted", "source": "{0} looks at you.", "translation": "{0} patrzy na Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_21_msg_targetless", "source": "{0} looks around.", "translation": "{0} rozgląda się.", "status": "draft"}
+{"id": "PcSocialAction_21_msg_withtarget", "source": "{0} looks at {1}.", "translation": "{0} patrzy na {1}.", "status": "draft"}
+{"id": "PcSocialAction_22_action_name", "source": "Sad", "translation": "Okaż smutek", "status": "draft"}
+{"id": "PcSocialAction_22_msg_targeted", "source": "{0} feels sad because of you.", "translation": "{0} smuci się z Twojego powodu.", "status": "draft"}
+{"id": "PcSocialAction_22_msg_targetless", "source": "{0} feels sad.", "translation": "{0} smuci się.", "status": "draft"}
+{"id": "PcSocialAction_22_msg_withtarget", "source": "{0} feels sad because of {1}.", "translation": "{0} smuci się z powodu {1}.", "status": "draft"}
+{"id": "PcSocialAction_23_action_name", "source": "Blush", "translation": "Zarumień się", "status": "draft"}
+{"id": "PcSocialAction_23_msg_targeted", "source": "{0} blushes after looking at you.", "translation": "{0} rumieni się na Twój widok.", "status": "draft"}
+{"id": "PcSocialAction_23_msg_targetless", "source": "{0} blushes.", "translation": "{0} rumieni się.", "status": "draft"}
+{"id": "PcSocialAction_23_msg_withtarget", "source": "{0} blushes after looking at {1}.", "translation": "{0} rumieni się na widok {1}.", "status": "draft"}
+{"id": "PcSocialAction_24_action_name", "source": "Pain", "translation": "Okaż ból", "status": "draft"}
+{"id": "PcSocialAction_24_msg_targeted", "source": "{0} feels pain because of you.", "translation": "{0} odczuwa ból z Twojego powodu.", "status": "draft"}
+{"id": "PcSocialAction_24_msg_targetless", "source": "{0} feels pain.", "translation": "{0} odczuwa ból.", "status": "draft"}
+{"id": "PcSocialAction_24_msg_withtarget", "source": "{0} feels pain because of {1}.", "translation": "{0} odczuwa ból z powodu {1}.", "status": "draft"}
+{"id": "PcSocialAction_25_action_name", "source": "Think", "translation": "Zamyśl się", "status": "draft"}
+{"id": "PcSocialAction_25_msg_targeted", "source": "{0} looks at you and is lost in thought.", "translation": "{0} patrzy na Ciebie w zamyśleniu.", "status": "draft"}
+{"id": "PcSocialAction_25_msg_targetless", "source": "{0} is lost in thought.", "translation": "{0} pogrąża się w myślach.", "status": "draft"}
+{"id": "PcSocialAction_25_msg_withtarget", "source": "{0} looks at {1} and is lost in thought.", "translation": "{0} patrzy na {1} w zamyśleniu.", "status": "draft"}
+{"id": "PcSocialAction_26_action_name", "source": "Worry", "translation": "Zamartwiaj się", "status": "draft"}
+{"id": "PcSocialAction_26_msg_targeted", "source": "{0} worries about you.", "translation": "{0} martwi się o Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_26_msg_targetless", "source": "{0} worries.", "translation": "{0} martwi się.", "status": "draft"}
+{"id": "PcSocialAction_26_msg_withtarget", "source": "{0} worries about {1}.", "translation": "{0} martwi się o {1}.", "status": "draft"}
+{"id": "PcSocialAction_27_action_name", "source": "Show Wings", "translation": "Pokaż skrzydła", "status": "draft"}
+{"id": "PcSocialAction_27_msg_targeted", "source": "{0} spreads their wings wide and shows them off to you.", "translation": "{0} szeroko rozpościera skrzydła i pokazuje je Tobie.", "status": "draft"}
+{"id": "PcSocialAction_27_msg_targetless", "source": "{0} spreads their wings wide and shows them off.", "translation": "{0} szeroko rozpościera skrzydła i je prezentuje.", "status": "draft"}
+{"id": "PcSocialAction_27_msg_withtarget", "source": "{0} spreads their wings wide and shows them off to {1}.", "translation": "{0} szeroko rozpościera skrzydła i pokazuje je {1}.", "status": "draft"}
+{"id": "PcSocialAction_28_action_name", "source": "Show Weapon", "translation": "Pokaż broń", "status": "draft"}
+{"id": "PcSocialAction_28_msg_targeted", "source": "{0} draws their weapon and shows it off to you.", "translation": "{0} dobywa broni i pokazuje ją Tobie.", "status": "draft"}
+{"id": "PcSocialAction_28_msg_targetless", "source": "{0} draws their weapon and shows it off.", "translation": "{0} dobywa broni i ją prezentuje.", "status": "draft"}
+{"id": "PcSocialAction_28_msg_withtarget", "source": "{0} draws their weapon and shows it off to {1}.", "translation": "{0} dobywa broni i pokazuje ją {1}.", "status": "draft"}
+{"id": "PcSocialAction_29_action_name", "source": "Cool", "translation": "Zaimponuj", "status": "draft"}
+{"id": "PcSocialAction_29_msg_targeted", "source": "{0} glances at you while looking devastatingly cool.", "translation": "{0} zerka na Ciebie, wyglądając niesamowicie efektownie.", "status": "draft"}
+{"id": "PcSocialAction_29_msg_targetless", "source": "{0} looks devastatingly cool.", "translation": "{0} wygląda niesamowicie efektownie.", "status": "draft"}
+{"id": "PcSocialAction_29_msg_withtarget", "source": "{0} glances at {1} while looking devastatingly cool.", "translation": "{0} zerka na {1}, wyglądając niesamowicie efektownie.", "status": "draft"}
+{"id": "PcSocialAction_2_action_name", "source": "Lie Down", "translation": "Połóż się", "status": "draft"}
+{"id": "PcSocialAction_2_msg_targeted", "source": "{0} lies down, looking at you.", "translation": "{0} kładzie się, patrząc na Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_2_msg_targetless", "source": "{0} lies down.", "translation": "{0} kładzie się.", "status": "draft"}
+{"id": "PcSocialAction_2_msg_withtarget", "source": "{0} lies down, looking at {1}.", "translation": "{0} kładzie się, patrząc na {1}.", "status": "draft"}
+{"id": "PcSocialAction_30_action_name", "source": "Peace", "translation": "Znak pokoju", "status": "draft"}
+{"id": "PcSocialAction_30_msg_targeted", "source": "{0} confidently throws up a peace sign in your direction.", "translation": "{0} pewnym gestem pokazuje Ci znak pokoju.", "status": "draft"}
+{"id": "PcSocialAction_30_msg_targetless", "source": "{0} confidently throws up a peace sign and poses.", "translation": "{0} pewnym gestem pokazuje znak pokoju i pozuje.", "status": "draft"}
+{"id": "PcSocialAction_30_msg_withtarget", "source": "{0} confidently throws up a peace sign in {1}'s direction.", "translation": "{0} pewnym gestem pokazuje znak pokoju w kierunku {1}.", "status": "draft"}
+{"id": "PcSocialAction_31_action_name", "source": "Pose", "translation": "Pozuj", "status": "draft"}
+{"id": "PcSocialAction_31_msg_targeted", "source": "{0} strikes a bold pose while facing you.", "translation": "{0} przybiera śmiałą pozę, zwracając się ku Tobie.", "status": "draft"}
+{"id": "PcSocialAction_31_msg_targetless", "source": "{0} strikes a bold pose.", "translation": "{0} przybiera śmiałą pozę.", "status": "draft"}
+{"id": "PcSocialAction_31_msg_withtarget", "source": "{0} strikes a bold pose while facing {1}.", "translation": "{0} przybiera śmiałą pozę, zwracając się ku {1}.", "status": "draft"}
+{"id": "PcSocialAction_32_action_name", "source": "Gaze", "translation": "Przyciągnij spojrzenia", "status": "draft"}
+{"id": "PcSocialAction_32_msg_targeted", "source": "{0} has captured your gaze.", "translation": "{0} przyciąga Twój wzrok.", "status": "draft"}
+{"id": "PcSocialAction_32_msg_targetless", "source": "{0} has captured everyone's gaze.", "translation": "{0} przyciąga wzrok wszystkich.", "status": "draft"}
+{"id": "PcSocialAction_32_msg_withtarget", "source": "{0} has captured {1}'s gaze.", "translation": "{0} przyciąga wzrok {1}.", "status": "draft"}
+{"id": "PcSocialAction_33_action_name", "source": "Intrigued", "translation": "Okaż zaciekawienie", "status": "draft"}
+{"id": "PcSocialAction_33_msg_targeted", "source": "{0} looks intrigued by you.", "translation": "{0} okazuje zaciekawienie Tobą.", "status": "draft"}
+{"id": "PcSocialAction_33_msg_targetless", "source": "{0} looks intrigued.", "translation": "{0} okazuje zaciekawienie.", "status": "draft"}
+{"id": "PcSocialAction_33_msg_withtarget", "source": "{0} looks intrigued by {1}.", "translation": "{0} okazuje zaciekawienie wobec {1}.", "status": "draft"}
+{"id": "PcSocialAction_34_action_name", "source": "Sentimental", "translation": "Rozrzewnienie", "status": "draft"}
+{"id": "PcSocialAction_34_msg_targeted", "source": "{0} feels sentimental looking at you.", "translation": "{0} patrzy na Ciebie z rozrzewnieniem.", "status": "draft"}
+{"id": "PcSocialAction_34_msg_targetless", "source": "{0} feels sentimental.", "translation": "{0} odczuwa rozrzewnienie.", "status": "draft"}
+{"id": "PcSocialAction_34_msg_withtarget", "source": "{0} feels sentimental looking at {1}.", "translation": "{0} patrzy na {1} z rozrzewnieniem.", "status": "draft"}
+{"id": "PcSocialAction_35_action_name", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "PcSocialAction_35_msg_targeted", "source": "{0} lets you know that they are ready.", "translation": "{0} daje Ci znać o swojej gotowości.", "status": "draft"}
+{"id": "PcSocialAction_35_msg_targetless", "source": "{0} is ready.", "translation": "{0} zgłasza gotowość.", "status": "draft"}
+{"id": "PcSocialAction_35_msg_withtarget", "source": "{0} lets {1} know that they are ready.", "translation": "{0} daje {1} znać o swojej gotowości.", "status": "draft"}
+{"id": "PcSocialAction_36_action_name", "source": "Doubt", "translation": "Okaż wątpliwości", "status": "draft"}
+{"id": "PcSocialAction_36_msg_targeted", "source": "{0} seems doubtful about you.", "translation": "{0} wydaje się mieć wątpliwości co do Ciebie.", "status": "draft"}
+{"id": "PcSocialAction_36_msg_targetless", "source": "{0} seems doubtful.", "translation": "{0} okazuje wątpliwości.", "status": "draft"}
+{"id": "PcSocialAction_36_msg_withtarget", "source": "{0} seems doubtful about {1}.", "translation": "{0} wydaje się mieć wątpliwości co do {1}.", "status": "draft"}
+{"id": "PcSocialAction_37_action_name", "source": "Kurukuru", "translation": "Kurukuru", "status": "draft"}
+{"id": "PcSocialAction_37_msg_targeted", "source": "{0} does a crazy Kuru dance while maintaining eye contact with you.", "translation": "{0} wykonuje szalony taniec Kuru, utrzymując z Tobą kontakt wzrokowy.", "status": "draft"}
+{"id": "PcSocialAction_37_msg_targetless", "source": "{0} does a crazy Kuru dance.", "translation": "{0} wykonuje szalony taniec Kuru.", "status": "draft"}
+{"id": "PcSocialAction_37_msg_withtarget", "source": "{0} does a crazy Kuru dance while maintaining eye contact with {1}.", "translation": "{0} wykonuje szalony taniec Kuru, utrzymując kontakt wzrokowy z {1}.", "status": "draft"}
+{"id": "PcSocialAction_38_action_name", "source": "Disdain", "translation": "Okaż pogardę", "status": "draft"}
+{"id": "PcSocialAction_38_msg_targeted", "source": "{0} looks disdainfully at you.", "translation": "{0} patrzy na Ciebie z pogardą.", "status": "draft"}
+{"id": "PcSocialAction_38_msg_targetless", "source": "{0} gives off a look of disdain.", "translation": "{0} okazuje pogardę spojrzeniem.", "status": "draft"}
+{"id": "PcSocialAction_38_msg_withtarget", "source": "{0} looks disdainfully at {1}.", "translation": "{0} patrzy na {1} z pogardą.", "status": "draft"}
+{"id": "PcSocialAction_39_action_name", "source": "Elegant", "translation": "Elegancja", "status": "draft"}
+{"id": "PcSocialAction_39_msg_targeted", "source": "{0} strikes an elegant pose while facing you.", "translation": "{0} przybiera elegancką pozę, zwracając się ku Tobie.", "status": "draft"}
+{"id": "PcSocialAction_39_msg_targetless", "source": "{0} strikes an elegant pose.", "translation": "{0} przybiera elegancką pozę.", "status": "draft"}
+{"id": "PcSocialAction_39_msg_withtarget", "source": "{0} strikes an elegant pose while facing {1}.", "translation": "{0} przybiera elegancką pozę, zwracając się ku {1}.", "status": "draft"}
+{"id": "PcSocialAction_3_action_name", "source": "Greet", "translation": "Przywitaj się", "status": "draft"}
+{"id": "PcSocialAction_3_msg_targeted", "source": "{0} greets you. \"Hello!\"", "translation": "{0} wita Cię. „Cześć!”", "status": "draft"}
+{"id": "PcSocialAction_3_msg_targetless", "source": "{0} greets everyone. \"Hello!\"", "translation": "{0} wita wszystkich. „Cześć!”", "status": "draft"}
+{"id": "PcSocialAction_3_msg_withtarget", "source": "{0} greets {1}. \"Hello!\"", "translation": "{0} wita {1}. „Cześć!”", "status": "draft"}
+{"id": "PcSocialAction_40_action_name", "source": "Calm", "translation": "Spokój", "status": "draft"}
+{"id": "PcSocialAction_40_msg_targeted", "source": "{0} feels calm looking at you.", "translation": "{0} patrzy na Ciebie ze spokojem.", "status": "draft"}
+{"id": "PcSocialAction_40_msg_targetless", "source": "{0} feels calm.", "translation": "{0} odczuwa spokój.", "status": "draft"}
+{"id": "PcSocialAction_40_msg_withtarget", "source": "{0} feels calm looking at {1}.", "translation": "{0} patrzy na {1} ze spokojem.", "status": "draft"}
+{"id": "PcSocialAction_41_action_name", "source": "Deep Bow", "translation": "Głęboki ukłon", "status": "draft"}
+{"id": "PcSocialAction_41_msg_targeted", "source": "{0} bows deeply to you.", "translation": "{0} kłania Ci się głęboko.", "status": "draft"}
+{"id": "PcSocialAction_41_msg_targetless", "source": "{0} bows deeply.", "translation": "{0} kłania się głęboko.", "status": "draft"}
+{"id": "PcSocialAction_41_msg_withtarget", "source": "{0} bows deeply to {1}.", "translation": "{0} kłania się głęboko przed {1}.", "status": "draft"}
+{"id": "PcSocialAction_42_action_name", "source": "fromis_9 : LIKE YOU BETTER Intro", "translation": "fromis_9 : LIKE YOU BETTER — intro", "status": "draft"}
+{"id": "PcSocialAction_43_action_name", "source": "fromis_9 : LIKE YOU BETTER Preview 1", "translation": "fromis_9 : LIKE YOU BETTER — fragment 1", "status": "draft"}
+{"id": "PcSocialAction_44_action_name", "source": "fromis_9 : LIKE YOU BETTER Preview 2", "translation": "fromis_9 : LIKE YOU BETTER — fragment 2", "status": "draft"}
+{"id": "PcSocialAction_45_action_name", "source": "fromis_9 : LIKE YOU BETTER Highlight 1", "translation": "fromis_9 : LIKE YOU BETTER — główny fragment 1", "status": "draft"}
+{"id": "PcSocialAction_46_action_name", "source": "fromis_9 : LIKE YOU BETTER Highlight 2", "translation": "fromis_9 : LIKE YOU BETTER — główny fragment 2", "status": "draft"}
+{"id": "PcSocialAction_47_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_48_action_name", "source": "Flover1", "translation": "Flover1", "status": "draft"}
+{"id": "PcSocialAction_49_action_name", "source": "Flover2", "translation": "Flover2", "status": "draft"}
+{"id": "PcSocialAction_4_action_name", "source": "Yes", "translation": "Tak", "status": "draft"}
+{"id": "PcSocialAction_4_msg_targeted", "source": "{0} agrees with you.", "translation": "{0} zgadza się z Tobą.", "status": "draft"}
+{"id": "PcSocialAction_4_msg_targetless", "source": "{0} agrees.", "translation": "{0} zgadza się.", "status": "draft"}
+{"id": "PcSocialAction_4_msg_withtarget", "source": "{0} agrees with {1}.", "translation": "{0} zgadza się z {1}.", "status": "draft"}
+{"id": "PcSocialAction_50_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_51_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_52_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_53_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_54_action_name", "source": "Join Performance", "translation": "Dołącz do występu", "status": "draft"}
+{"id": "PcSocialAction_5_action_name", "source": "No", "translation": "Nie", "status": "draft"}
+{"id": "PcSocialAction_5_msg_targeted", "source": "{0} disagrees with you.", "translation": "{0} nie zgadza się z Tobą.", "status": "draft"}
+{"id": "PcSocialAction_5_msg_targetless", "source": "{0} disagrees.", "translation": "{0} nie zgadza się.", "status": "draft"}
+{"id": "PcSocialAction_5_msg_withtarget", "source": "{0} disagrees with {1}.", "translation": "{0} nie zgadza się z {1}.", "status": "draft"}
+{"id": "PcSocialAction_6_action_name", "source": "Thumbs Up", "translation": "Kciuk w górę", "status": "draft"}
+{"id": "PcSocialAction_6_msg_targeted", "source": "{0} gives a thumbs up to you.", "translation": "{0} pokazuje Ci kciuk w górę.", "status": "draft"}
+{"id": "PcSocialAction_6_msg_targetless", "source": "{0} gives a thumbs up.", "translation": "{0} pokazuje kciuk w górę.", "status": "draft"}
+{"id": "PcSocialAction_6_msg_withtarget", "source": "{0} gives a thumbs up to {1}.", "translation": "{0} pokazuje kciuk w górę dla {1}.", "status": "draft"}
+{"id": "PcSocialAction_7_action_name", "source": "Taunt", "translation": "Sprowokuj", "status": "draft"}
+{"id": "PcSocialAction_7_msg_targeted", "source": "{0} taunts you.", "translation": "{0} Cię prowokuje.", "status": "draft"}
+{"id": "PcSocialAction_7_msg_targetless", "source": "{0} taunts anyone nearby.", "translation": "{0} prowokuje wszystkich w pobliżu.", "status": "draft"}
+{"id": "PcSocialAction_7_msg_withtarget", "source": "{0} taunts {1}.", "translation": "{0} prowokuje {1}.", "status": "draft"}
+{"id": "PcSocialAction_8_action_name", "source": "Rage", "translation": "Okaż wściekłość", "status": "draft"}
+{"id": "PcSocialAction_8_msg_targeted", "source": "{0} is enraged by you.", "translation": "{0} wpada we wściekłość z Twojego powodu.", "status": "draft"}
+{"id": "PcSocialAction_8_msg_targetless", "source": "{0} is enraged.", "translation": "{0} wpada we wściekłość.", "status": "draft"}
+{"id": "PcSocialAction_8_msg_withtarget", "source": "{0} is enraged by {1}.", "translation": "{0} wpada we wściekłość z powodu {1}.", "status": "draft"}
+{"id": "PcSocialAction_9_action_name", "source": "Applaud", "translation": "Bij brawo", "status": "draft"}
+{"id": "PcSocialAction_9_msg_targeted", "source": "{0} applauds you.", "translation": "{0} bije Ci brawo.", "status": "draft"}
+{"id": "PcSocialAction_9_msg_targetless", "source": "{0} applauds.", "translation": "{0} bije brawo.", "status": "draft"}
+{"id": "PcSocialAction_9_msg_withtarget", "source": "{0} applauds {1}.", "translation": "{0} bije brawo dla {1}.", "status": "draft"}

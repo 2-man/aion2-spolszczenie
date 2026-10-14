@@ -1,0 +1,250 @@
+{"id": "SkillAbnormalString_SkillAbnormalString_187900011_desc_name", "source": "Survival Willpower", "translation": "Wola przetrwania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_187900011_desc_summary", "source": "Increases Damage Tolerance", "translation": "Zwiększa odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_187900021_desc_effect", "source": "+<desc_point>{abe:1879000211:value02:divide100}%</> Status Effect Resist", "translation": "+<desc_point>{abe:1879000211:value02:divide100}%</> Odporności na efekty statusu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_187900021_desc_name", "source": "Survival Willpower", "translation": "Wola przetrwania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_187900021_desc_summary", "source": "Increases Status Effect Resist", "translation": "Zwiększa odporność na efekty statusu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_188000001_desc_effect", "source": "+<desc_point>{abe:1880000012:value02:divide100}%</> Critical Damage Boost\n50% chance to deal extra damage on landing Critical Hit", "translation": "+<desc_point>{abe:1880000012:value02:divide100}%</> Premii do obrażeń krytycznych\nTrafienie krytyczne ma 50% szansy zadać dodatkowe obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_188000001_desc_name", "source": "Wind's Promise", "translation": "Obietnica Wiatru", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_188000001_desc_summary", "source": "Increases Critical Damage Boost, has a chance to deal extra damage on landing Critical Hit", "translation": "Zwiększa premię do obrażeń krytycznych; trafienie krytyczne może zadać dodatkowe obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000002_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000002_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000002_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000003_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000003_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000003_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000004_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000004_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000004_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000006_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000006_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000006_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000007_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000007_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000007_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000008_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000008_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000008_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000009_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000009_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000009_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000010_desc_effect", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000010_desc_name", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_190000010_desc_summary", "source": "???", "translation": "???", "status": "pending"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000009_desc_effect", "source": "Poison Damage over Time", "translation": "Obrażenia od trucizny w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000009_desc_name", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000009_desc_summary", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000010_desc_effect", "source": "Flight Circle Effect", "translation": "Efekt kręgu lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000010_desc_name", "source": "Flight Circle", "translation": "Krąg lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000010_desc_summary", "source": "Flight Power Regen and Accelerate", "translation": "Regeneracja i przyspieszenie lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000011_desc_effect", "source": "Heal 10% FP per second", "translation": "Przywraca 10% mocy lotu na sekundę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000011_desc_name", "source": "Odyle Flight Frenzy", "translation": "Powietrzny szał Energii Odyle", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000011_desc_summary", "source": "FP Heal over Time", "translation": "Okresowe przywracanie mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_name", "source": "Restore HP", "translation": "Przywrócenie PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_effect", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_name", "source": "Odyle Drop", "translation": "Odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_summary", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_effect", "source": "Restores MP", "translation": "Przywraca PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_name", "source": "Restore MP", "translation": "Przywrócenie PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_summary", "source": "Restores MP", "translation": "Przywraca PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000016_desc_effect", "source": "Restore Stamina", "translation": "Przywrócenie wytrzymałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000016_desc_name", "source": "Restore Stamina", "translation": "Przywrócenie wytrzymałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000016_desc_summary", "source": "Restore Stamina", "translation": "Przywrócenie wytrzymałości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000017_desc_effect", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000017_desc_name", "source": "Move Speed Increase", "translation": "Zwiększenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000017_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000018_desc_effect", "source": "Gliding disabled", "translation": "Szybowanie wyłączone", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000018_desc_name", "source": "No Gliding Zone", "translation": "Strefa zakazu szybowania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000018_desc_summary", "source": "No Gliding Zone", "translation": "Strefa zakazu szybowania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000019_desc_effect", "source": "Refreshing Green Odyle", "translation": "Odświeżający zielony odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000019_desc_name", "source": "50 Points", "translation": "50 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000019_desc_summary", "source": "Grants 50 Points and restores Flight Power", "translation": "Zapewnia 50 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000020_desc_effect", "source": "Electrifying Yellow Odyle", "translation": "Elektryzujący żółty odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000020_desc_name", "source": "80 Points", "translation": "80 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000020_desc_summary", "source": "Grants 80 Points and restores Flight Power", "translation": "Zapewnia 80 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000021_desc_effect", "source": "Dizzying Rainbow Odyle", "translation": "Oszałamiający tęczowy odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000021_desc_name", "source": "200 Points", "translation": "200 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000021_desc_summary", "source": "Grants 200 Points and restores Flight Power", "translation": "Zapewnia 200 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000022_desc_effect", "source": "Refreshing Green Odyle", "translation": "Odświeżający zielony odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000022_desc_name", "source": "50 Points", "translation": "50 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000022_desc_summary", "source": "Grants 50 Points and restores Flight Power", "translation": "Zapewnia 50 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000023_desc_effect", "source": "Electrifying Yellow Odyle", "translation": "Elektryzujący żółty odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000023_desc_name", "source": "80 Points", "translation": "80 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000023_desc_summary", "source": "Grants 80 Points and restores Flight Power", "translation": "Zapewnia 80 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000024_desc_effect", "source": "Dizzying Rainbow Odyle", "translation": "Oszałamiający tęczowy odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000024_desc_name", "source": "200 Points", "translation": "200 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000024_desc_summary", "source": "Grants 200 Points and restores Flight Power", "translation": "Zapewnia 200 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000025_desc_effect", "source": "Refreshing Green Odyle", "translation": "Odświeżający zielony odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000025_desc_name", "source": "50 Points", "translation": "50 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000025_desc_summary", "source": "Grants 50 Points and restores Flight Power", "translation": "Zapewnia 50 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000026_desc_effect", "source": "Electrifying Yellow Odyle", "translation": "Elektryzujący żółty odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000026_desc_name", "source": "80 Points", "translation": "80 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000026_desc_summary", "source": "Grants 80 Points and restores Flight Power", "translation": "Zapewnia 80 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000027_desc_effect", "source": "Dizzying Rainbow Odyle", "translation": "Oszałamiający tęczowy odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000027_desc_name", "source": "200 Points", "translation": "200 punktów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000027_desc_summary", "source": "Grants 200 Points and restores Flight Power", "translation": "Zapewnia 200 punktów i przywraca moc lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000028_desc_effect", "source": "Flight Power MAX Regen", "translation": "Maksymalna regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000028_desc_name", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000028_desc_summary", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000029_desc_effect", "source": "Diving Gauge Recovery", "translation": "Wskaźnik nurkowania odzyskiwanie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000029_desc_name", "source": "Diving Gauge Recovery", "translation": "Wskaźnik nurkowania odzyskiwanie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000029_desc_summary", "source": "Diving Gauge Recovery", "translation": "Wskaźnik nurkowania odzyskiwanie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000030_desc_effect", "source": "<desc_point>{abe:190000301:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190000301:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000030_desc_name", "source": "Move Speed Increase", "translation": "Zwiększenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000030_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000031_desc_effect", "source": "<desc_point>{abe:190000311:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190000311:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000031_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000031_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000032_desc_effect", "source": "SP Recovery", "translation": "Odzyskiwanie SP", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000032_desc_name", "source": "SP Recovery", "translation": "Odzyskiwanie SP", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000032_desc_summary", "source": "SP Recovery", "translation": "Odzyskiwanie SP", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000033_desc_effect", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000033_desc_name", "source": "Move Speed Increase", "translation": "Zwiększenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000033_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000034_desc_effect", "source": "Invincible Sprint", "translation": "Niezniszczalny sprint", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000034_desc_name", "source": "Invincible Sprint", "translation": "Niezniszczalny sprint", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000034_desc_summary", "source": "Invincible Sprint", "translation": "Niezniszczalny sprint", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000035_desc_effect", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000035_desc_name", "source": "Move Speed Increase", "translation": "Zwiększenie szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000035_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000036_desc_effect", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000036_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000036_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000037_desc_effect", "source": "Charges Shugo Trap.", "translation": "Ładuje pułapkę Shugo.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000037_desc_name", "source": "Recharge Shugo Trap", "translation": "Naładuj pułapkę Shugo", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000037_desc_summary", "source": "Recharges Shugo Trap Skill", "translation": "Odnawia umiejętność pułapki Shugo", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000038_desc_effect", "source": "You lost consciousness due to corrupted Odyle.", "translation": "Utrata przytomności z powodu skażonego odylu.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000038_desc_name", "source": "Defective Odyle", "translation": "Wadliwy odyl", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000038_desc_summary", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000039_desc_effect", "source": "<desc_point>{abe:190000391:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190000391:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000039_desc_name", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000039_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000055_desc_effect", "source": "Damage Immunity", "translation": "Odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000055_desc_name", "source": "Invincible", "translation": "Niezniszczalność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000055_desc_summary", "source": "Damage Immunity", "translation": "Odporność na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000060_desc_effect", "source": "Flight Power has filled.", "translation": "Moc lotu jest pełna.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000060_desc_name", "source": "Flight Stamina Full", "translation": "Pełna wytrzymałość lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000060_desc_summary", "source": "Rapid Flight Power Regen", "translation": "Szybka regeneracja mocy lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000061_desc_effect", "source": "Cannot spread wings due to heavy pressure.", "translation": "Silne ciśnienie uniemożliwia rozłożenie skrzydeł.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000061_desc_name", "source": "Arena's tense atmosphere", "translation": "Napięta atmosfera areny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000061_desc_summary", "source": "Flight Disabled", "translation": "Lot zablokowany", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000067_desc_effect", "source": "Direct resurrection in place not available in this area.", "translation": "Wskrzeszenie w miejscu śmierci jest niedostępne w tym obszarze.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000067_desc_name", "source": "Disappeared Resurrection Aura", "translation": "Zanikła aura wskrzeszenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000067_desc_summary", "source": "Manual Resurrection Unavailable Status", "translation": "Ręczne wskrzeszenie niedostępne", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000072_desc_effect", "source": "+<desc_point>{abe:190000722:value02:divide100abs}%</>Damage Boost and Heal over Time status", "translation": "+<desc_point>{abe:190000722:value02:divide100abs}%</> Premii do obrażeń oraz efekt leczenia okresowego", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000072_desc_name", "source": "Encircling Tide", "translation": "Otaczający przypływ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000072_desc_summary", "source": "Increases Damage Boost and restores HP", "translation": "Zwiększa premię do obrażeń i przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000080_desc_effect", "source": "<desc_point>{abe:190000801:value02:divide100}%</> HP absorbed from active skills", "translation": "<desc_point>{abe:190000801:value02:divide100}%</> PŻ pochłanianych z aktywnych umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000080_desc_name", "source": "Vitality Depletion", "translation": "Wyczerpanie witalności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000080_desc_summary", "source": "<desc_point>{abe:190000801:value02:divide100}%</> HP absorbed from active skills", "translation": "<desc_point>{abe:190000801:value02:divide100}%</> PŻ pochłanianych z aktywnych umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000083_desc_effect", "source": "Sets a cap on the maximum value of stats related to amount of damage.", "translation": "Ustawia limit maksymalnej wartości statystyk związanych z zadawanymi obrażeniami.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000083_desc_name", "source": "Causational Balance", "translation": "Równowaga przyczynowa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000083_desc_summary", "source": "Damage Amount Stat Cap", "translation": "Limit statystyk obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000095_desc_effect", "source": "Reduces Damage Tolerance and Double Resist 10 minutes after combat start.", "translation": "Zmniejsza odporność na obrażenia i odporność na podwójne trafienia 10 minut po rozpoczęciu walki.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000095_desc_name", "source": "Dissipation of Power", "translation": "Rozproszenie mocy", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000095_desc_summary", "source": "Reduces Damage Tolerance and Double Resist", "translation": "Zmniejsza odporność na obrażenia i odporność na podwójne trafienia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19001_desc_effect", "source": "-50% Move Speed.\n-50% Flight Speed.", "translation": "-50% szybkości ruchu.\n-50% szybkości lotu.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19001_desc_name", "source": "Mortality Debuff", "translation": "Osłabienie śmiertelności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19001_desc_summary", "source": "Reduces Move Speed and Flight Speed by 50%.", "translation": "Zmniejsza szybkość ruchu i lotu o 50%.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19002_desc_effect", "source": "You have reached the maximum Kina value that can be acquired today.\nItem drops and gains from the following content will be limited\n\n- When playing solo, regular monsters will not drop any more items.\n- When playing in a party or force in the field, regular monsters will not drop any more items or Kina for you and party/force members.\n- When playing in a party or force in a dungeon, regular monsters will drop items, but your ability to receive them will be limited. Items and Kina will drop normally for party and force members, and they can receive them normally.", "translation": "Osiągnięto maksymalną ilość Kiny, którą można zdobyć dzisiaj.\nŁupy i nagrody z poniższej zawartości będą ograniczone\n\n- Podczas gry solo zwykłe potwory nie będą już upuszczać przedmiotów.\n- Podczas gry w drużynie lub grupie w terenie zwykłe potwory nie będą już upuszczać dla ciebie ani członków drużyny/grupy przedmiotów ani Kiny.\n- Podczas gry w drużynie lub grupie w lochu zwykłe potwory będą upuszczać przedmioty, ale możliwość ich otrzymania będzie ograniczona. Przedmioty i Kina będą normalnie wypadać dla pozostałych członków drużyny/grupy, którzy będą mogli je normalnie odebrać.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19002_desc_name", "source": "Item Drop and Obtain Restriction", "translation": "Ograniczenie łupów i zdobywania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19002_desc_summary", "source": "Item drops are restricted due to reaching maximum Kina value.", "translation": "Łupy są ograniczone z powodu osiągnięcia maksymalnej ilości Kiny.", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003001_desc_effect", "source": "<desc_point>{abe:190030011:value02:divide100}%</> Attack", "translation": "<desc_point>{abe:190030011:value02:divide100}%</> Ataku", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003001_desc_name", "source": "Slayer", "translation": "Pogromca", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003001_desc_summary", "source": "Increases Attack", "translation": "Zwiększa atak", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003011_desc_effect", "source": "<desc_point>{abe:190030111:value02:divide100}%</> Defense", "translation": "<desc_point>{abe:190030111:value02:divide100}%</> Obrony", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003011_desc_name", "source": "Guardian", "translation": "Strażnik", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003011_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003021_desc_effect", "source": "<desc_point>{abe:190030211:value02}</> Critical Hit", "translation": "<desc_point>{abe:190030211:value02}</> Trafienia krytycznego", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003021_desc_name", "source": "Targeting Weakness", "translation": "Celowanie w słabości", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003021_desc_summary", "source": "Increases Critical Hit", "translation": "Zwiększa szansę na cios krytyczny", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003031_desc_effect", "source": "<desc_point>{abe:190030311:value02:divide100}%</> Combat Speed", "translation": "<desc_point>{abe:190030311:value02:divide100}%</> Szybkości walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003031_desc_name", "source": "Adrenaline", "translation": "Adrenalina", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003031_desc_summary", "source": "Increases Combat Speed", "translation": "Zwiększa szybkość walki", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003041_desc_effect", "source": "<desc_point>{abe:190030411:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190030411:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003041_desc_name", "source": "Footwork", "translation": "Praca nóg", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003041_desc_summary", "source": "Increases Move Speed", "translation": "Zwiększa szybkość ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003051_desc_effect", "source": "Restores <desc_point>{se:190030511:effect_value02:divide100}%</> MP on defeating a Monster", "translation": "Przywraca <desc_point>{se:190030511:effect_value02:divide100}%</> PM po pokonaniu potwora", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003051_desc_name", "source": "Poisoned by Mana", "translation": "Zatruty maną", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003051_desc_summary", "source": "Restores MP on defeating a monster", "translation": "Przywraca PM po pokonaniu potwora", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003061_desc_effect", "source": "<desc_point>{se:190030611:effect_value02:divide100}%</> HP Regen on defeating a monster", "translation": "<desc_point>{se:190030611:effect_value02:divide100}%</> Regeneracji PŻ po pokonaniu potwora", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003061_desc_name", "source": "Predator", "translation": "Drapieżnik", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003061_desc_summary", "source": "Recovers HP on defeating a monster", "translation": "Przywraca PŻ po pokonaniu potwora", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003101_desc_effect", "source": "Damage <desc_point>{abe:190031051:value02:divide100}%</>", "translation": "Obrażenia <desc_point>{abe:190031051:value02:divide100}%</>", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003101_desc_name", "source": "Ignoring the Weak", "translation": "Ignorowanie słabych", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003101_desc_summary", "source": "Reduces Common Monster Damage", "translation": "Zmniejsza obrażenia zadawane przez zwykłe potwory", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003111_desc_effect", "source": "<desc_point>{abe:190031151:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:190031151:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003111_desc_name", "source": "Worm Carnage", "translation": "Rzeź robaków", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003111_desc_summary", "source": "Reduces Normal Monster Damage Tolerance", "translation": "Zmniejsza odporność zwykłych potworów na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003121_desc_effect", "source": "<desc_point>{abe:190031251:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190031251:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003121_desc_name", "source": "Fire Moth", "translation": "Ognista ćma", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003121_desc_summary", "source": "Increases Normal Monsters' Move Speed", "translation": "Zwiększa szybkość ruchu zwykłych potworów", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003131_desc_effect", "source": "Damage <desc_point>{abe:190031351:value02:divide100}%</>", "translation": "Obrażenia <desc_point>{abe:190031351:value02:divide100}%</>", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003131_desc_name", "source": "Ignoring the Elite", "translation": "Ignorowanie elity", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003131_desc_summary", "source": "Reduces Elite Monster Damage", "translation": "Zmniejsza obrażenia zadawane przez elitarne potwory", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003141_desc_effect", "source": "<desc_point>{abe:190031451:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:190031451:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003141_desc_name", "source": "Elite Hunter", "translation": "Elitarny łowca", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19003141_desc_summary", "source": "Reduces Elite Monster Damage Tolerance", "translation": "Zmniejsza odporność elitarnych potworów na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004201_desc_effect", "source": "Deals Damage over Time", "translation": "Zadaje obrażenia w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004201_desc_name", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004201_desc_summary", "source": "Deals Damage over Time", "translation": "Zadaje obrażenia w czasie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004211_desc_effect", "source": "<desc_point>{abe:190042111:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190042111:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004211_desc_name", "source": "Blowback", "translation": "Odrzut", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004211_desc_summary", "source": "<desc_point>{abe:190042111:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:190042111:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004221_desc_effect", "source": "+<desc_point>{abe:190042211:value02:divide100}%</> skill cooldown", "translation": "+<desc_point>{abe:190042211:value02:divide100}%</> Czasu odnowienia umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004221_desc_name", "source": "Duration", "translation": "Czas działania", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004221_desc_summary", "source": "+<desc_point>{abe:190042211:value02:divide100}%</> skill cooldown", "translation": "+<desc_point>{abe:190042211:value02:divide100}%</> Czasu odnowienia umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004261_desc_effect", "source": "<desc_point>{abe:190042611:value02:divide100}%</> Max HP, Max MP", "translation": "<desc_point>{abe:190042611:value02:divide100}%</> Maks. PŻ i PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004261_desc_name", "source": "Curse", "translation": "Klątwa", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004261_desc_summary", "source": "<desc_point>{abe:190042611:value02:divide100}%</> Max HP, Max MP", "translation": "<desc_point>{abe:190042611:value02:divide100}%</> Maks. PŻ i PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004271_desc_effect", "source": "<desc_point>{abe:190042711:value02:divide100}%</> Damage Boost", "translation": "<desc_point>{abe:190042711:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004271_desc_name", "source": "Debilitate", "translation": "Osłabienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004271_desc_summary", "source": "<desc_point>{abe:190042711:value02:divide100}%</> Damage Boost", "translation": "<desc_point>{abe:190042711:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004281_desc_effect", "source": "<desc_point>{abe:190042811:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:190042811:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004281_desc_name", "source": "Weakness", "translation": "Słabość", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004281_desc_summary", "source": "<desc_point>{abe:190042811:value02:divide100}%</> Damage Tolerance", "translation": "<desc_point>{abe:190042811:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004291_desc_effect", "source": "-<desc_point>{abe:190042911:value02:divide100}%</> Incoming Heal", "translation": "-<desc_point>{abe:190042911:value02:divide100}%</> Otrzymywanego leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004291_desc_name", "source": "Distrust", "translation": "Nieufność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004291_desc_summary", "source": "-<desc_point>{abe:190042911:value02:divide100}%</> Incoming Heal", "translation": "-<desc_point>{abe:190042911:value02:divide100}%</> Otrzymywanego leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004401_desc_effect", "source": "HP and MP Regen <desc_point>{abe:190044011:value02:divide100}%</>", "translation": "Regeneracja PŻ i PM <desc_point>{abe:190044011:value02:divide100}%</>", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004401_desc_name", "source": "Tolerance", "translation": "Odporność", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004401_desc_summary", "source": "Restores <desc_point>{abe:190044011:value02:divide100}%</> HP and MP", "translation": "Przywraca <desc_point>{abe:190044011:value02:divide100}%</> PŻ i PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004411_desc_effect", "source": "+<desc_point>{abe:190044111:value02:divide100}%</> Move Speed", "translation": "+<desc_point>{abe:190044111:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004411_desc_name", "source": "Tailwind", "translation": "Tylny wiatr", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004411_desc_summary", "source": "+<desc_point>{abe:190044111:value02:divide100}%</> Move Speed", "translation": "+<desc_point>{abe:190044111:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004421_desc_effect", "source": "-<desc_point>{abe:190044211:value02:divide100}%</> skill cooldown", "translation": "-<desc_point>{abe:190044211:value02:divide100}%</> Czasu odnowienia umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004421_desc_name", "source": "Flux", "translation": "Przepływ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004421_desc_summary", "source": "-<desc_point>{abe:190044211:value02:divide100}%</> skill cooldown", "translation": "-<desc_point>{abe:190044211:value02:divide100}%</> Czasu odnowienia umiejętności", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004431_desc_effect", "source": "+<desc_point>{abe:190044311:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:190044311:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004431_desc_name", "source": "Enhance", "translation": "Wzmocnienie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004431_desc_summary", "source": "+<desc_point>{abe:190044311:value02:divide100}%</> Damage Boost", "translation": "+<desc_point>{abe:190044311:value02:divide100}%</> Premii do obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004441_desc_effect", "source": "+<desc_point>{abe:190044411:value02:divide100}%</> Damage Tolerance", "translation": "+<desc_point>{abe:190044411:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004441_desc_name", "source": "Discipline", "translation": "Dyscyplina", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004441_desc_summary", "source": "+<desc_point>{abe:190044411:value02:divide100}%</> Damage Tolerance", "translation": "+<desc_point>{abe:190044411:value02:divide100}%</> Odporności na obrażenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004451_desc_effect", "source": "+<desc_point>{abe:190044511:value02:divide100}%</> Heal Boost", "translation": "+<desc_point>{abe:190044511:value02:divide100}%</> Premii do leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004451_desc_name", "source": "Heal", "translation": "Lecz", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004451_desc_summary", "source": "+<desc_point>{abe:190044511:value02:divide100}%</> Heal Boost", "translation": "+<desc_point>{abe:190044511:value02:divide100}%</> Premii do leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004461_desc_effect", "source": "+<desc_point>{abe:190044611:value02:divide100}%</> Incoming Heal", "translation": "+<desc_point>{abe:190044611:value02:divide100}%</> Otrzymywanego leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004461_desc_name", "source": "Blind Faith", "translation": "Ślepa wiara", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004461_desc_summary", "source": "+<desc_point>{abe:190044611:value02:divide100}%</> Incoming Heal", "translation": "+<desc_point>{abe:190044611:value02:divide100}%</> Otrzymywanego leczenia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004471_desc_effect", "source": "+<desc_point>{abe:190044711:value02:divide100}%</> Move Speed, +<desc_point>{abe:190044712:value02:divide100}%</> Flight Speed", "translation": "+<desc_point>{abe:190044711:value02:divide100}%</> Szybkości ruchu, +<desc_point>{abe:190044712:value02:divide100}%</> Szybkości lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004471_desc_name", "source": "Gust", "translation": "Podmuch", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004471_desc_summary", "source": "+<desc_point>{abe:190044711:value02:divide100}%</> Move Speed, +<desc_point>{abe:190044712:value02:divide100}%</> Flight Speed", "translation": "+<desc_point>{abe:190044711:value02:divide100}%</> Szybkości ruchu, +<desc_point>{abe:190044712:value02:divide100}%</> Szybkości lotu", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004481_desc_effect", "source": "Stacks every 30s, +<desc_point>{abe:190044811:value02:divide100}%</> Damage Boost per stack, up to 10 stacks", "translation": "Gromadzi ładunki co 30 s, +<desc_point>{abe:190044811:value02:divide100}%</> premii do obrażeń za ładunek (maks. 10 ładunków)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004481_desc_name", "source": "Advent", "translation": "Nadejście", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004481_desc_summary", "source": "Stacks every 30s, +<desc_point>{abe:190044811:value02:divide100}%</> Damage Boost per stack, up to 10 stacks", "translation": "Gromadzi ładunki co 30 s, +<desc_point>{abe:190044811:value02:divide100}%</> premii do obrażeń za ładunek (maks. 10 ładunków)", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004482_desc_effect", "source": "Stack", "translation": "Ładunek", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004482_desc_name", "source": "Advent", "translation": "Nadejście", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004482_desc_summary", "source": "Stack", "translation": "Ładunek", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004491_desc_effect", "source": "Restores HP on attack", "translation": "Atak przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004491_desc_name", "source": "Lifesteal", "translation": "Kradzież życia", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004491_desc_summary", "source": "Restores HP on attack", "translation": "Atak przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004501_desc_effect", "source": "+<desc_point>{abe:190045011:value02:divide100}%</> Max HP, MP", "translation": "+<desc_point>{abe:190045011:value02:divide100}%</> Maks. PŻ i PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004501_desc_name", "source": "Health", "translation": "Zdrowie", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004501_desc_summary", "source": "+<desc_point>{abe:190045011:value02:divide100}%</> Max HP, MP", "translation": "+<desc_point>{abe:190045011:value02:divide100}%</> Maks. PŻ i PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004511_desc_effect", "source": "Forms a Protective Shield every 30s", "translation": "Tworzy tarczę ochronną co 30 s", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004511_desc_name", "source": "Shield", "translation": "Tarcza", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004511_desc_summary", "source": "Forms a Protective Shield every 30s", "translation": "Tworzy tarczę ochronną co 30 s", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004512_desc_effect", "source": "Protective Shield", "translation": "Tarcza ochronna", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19004512_desc_name", "source": "Shield", "translation": "Tarcza", "status": "draft"}

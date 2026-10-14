@@ -1,0 +1,47 @@
+{"id": "CurrencyInfo_AbyssPoint_desc", "source": "Abyss Points", "translation": "Punkty Otchłani", "status": "draft"}
+{"id": "CurrencyInfo_AbyssPoint_desc_long", "source": "A mark of honor won on the fields of a war without end.", "translation": "Oznaka honoru zdobyta na polach niekończącej się wojny.", "status": "draft"}
+{"id": "CurrencyInfo_CoinArena_desc", "source": "Arena Token", "translation": "Żeton Areny", "status": "draft"}
+{"id": "CurrencyInfo_CoinArena_desc_long", "source": "A mark of honor won in the Arena.\nCan be exchanged for various items in the Arena Exchange Shop.", "translation": "Oznaka honoru zdobyta na Arenie.\nMożna ją wymienić na różne przedmioty w sklepie wymiany Areny.", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass2_desc", "source": "Daeva Pass Shop Coin: Season 2", "translation": "Moneta sklepu Przepustki Daevy: sezon 2", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass2_desc_long", "source": "Currency used in the Daeva Pass Shop.", "translation": "Waluta używana w sklepie Przepustki Daevy.", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass3_desc", "source": "Daeva Pass Shop Coin: Season 3", "translation": "Moneta sklepu Przepustki Daevy: sezon 3", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass3_desc_long", "source": "Currency used in the Daeva Pass Shop.", "translation": "Waluta używana w sklepie Przepustki Daevy.", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass4_desc", "source": "Daeva Pass Shop Coin: Chapter 1", "translation": "Moneta sklepu Przepustki Daevy: rozdział 1", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass4_desc_long", "source": "Currency used in the Daeva Pass Shop.", "translation": "Waluta używana w sklepie Przepustki Daevy.", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePassEncore1_desc", "source": "Daeva Pass Shop Coin: Returning", "translation": "Moneta sklepu Przepustki Daevy: powrót", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePassEncore1_desc_long", "source": "Currency used in the Daeva Pass Shop.", "translation": "Waluta używana w sklepie Przepustki Daevy.", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass_desc", "source": "Daeva Pass Shop Coin", "translation": "Moneta sklepu Przepustki Daevy", "status": "draft"}
+{"id": "CurrencyInfo_CoinBattlePass_desc_long", "source": "Currency used in the Daeva Pass Shop.", "translation": "Waluta używana w sklepie Przepustki Daevy.", "status": "draft"}
+{"id": "CurrencyInfo_CoinEnchant_desc", "source": "Enhance Stone", "translation": "Kamień wzmocnienia", "status": "draft"}
+{"id": "CurrencyInfo_CoinEnchant_desc_long", "source": "An item used for Item Enhancement.", "translation": "Przedmiot służący do wzmacniania przedmiotów.", "status": "draft"}
+{"id": "CurrencyInfo_CoinGuild_desc", "source": "Legion Coin", "translation": "Moneta Legionu", "status": "draft"}
+{"id": "CurrencyInfo_CoinGuild_desc_long", "source": "Currency provided to those who bring honor to their legion.", "translation": "Waluta przyznawana tym, którzy przynoszą chwałę swojemu Legionowi.", "status": "draft"}
+{"id": "CurrencyInfo_CoinQuest6_desc", "source": "Centuryroot Token", "translation": "Żeton Centuryroot", "status": "draft"}
+{"id": "CurrencyInfo_CoinQuest6_desc_long", "source": "Made by drying high-quality Centuryroot, this token is popular among Shugo as a collectable item.\nCan be used to purchase various items in the Shugo Festival Shop.", "translation": "Żeton wytwarzany przez suszenie wysokiej jakości Centuryroot, ceniony przez Shugo jako przedmiot kolekcjonerski.\nMożna za niego kupić różne przedmioty w sklepie Festiwalu Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_CoinQuest7_desc", "source": "Phantasmal Fragment", "translation": "Widmowy odłamek", "status": "draft"}
+{"id": "CurrencyInfo_CoinQuest7_desc_long", "source": "A fragment of a dream corrupted by nightmarish horrors. Can be used to purchase various items in the Nightmare Shop.", "translation": "Fragment snu skażonego koszmarną grozą. Można za niego kupić różne przedmioty w sklepie Koszmaru.", "status": "draft"}
+{"id": "CurrencyInfo_DaevanionPointBattle_desc", "source": "Daevanion Crystal: Azphel", "translation": "Kryształ Daevanion: Azphel", "status": "draft"}
+{"id": "CurrencyInfo_DaevanionPointConquest_desc", "source": "Daevanion Crystal: Ariel", "translation": "Kryształ Daevanion: Ariel", "status": "draft"}
+{"id": "CurrencyInfo_DaevanionPoint_desc", "source": "Daevanion Crystal", "translation": "Kryształ Daevanion", "status": "draft"}
+{"id": "CurrencyInfo_GameCashActivating_desc", "source": "Quna", "translation": "Quna", "status": "draft"}
+{"id": "CurrencyInfo_GameCashActivating_desc_long", "source": "Special gemstone valued by the Shugo Merchants.\nCan be used to purchase special goods from the Shugo Merchants.", "translation": "Wyjątkowy kamień szlachetny ceniony przez kupców Shugo.\nMożna za niego kupić specjalne towary u kupców Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_GameCashBinding_desc", "source": "Complimentary Quna", "translation": "Bezpłatna Quna", "status": "draft"}
+{"id": "CurrencyInfo_GameCashBinding_desc_long", "source": "Special gemstone valued by the Shugo Merchants.\nCan be used to purchase special goods from the Shugo Merchants.", "translation": "Wyjątkowy kamień szlachetny ceniony przez kupców Shugo.\nMożna za niego kupić specjalne towary u kupców Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_GameCashNonbinding_desc", "source": "Paid Quna", "translation": "Płatna Quna", "status": "draft"}
+{"id": "CurrencyInfo_GameCashNonbinding_desc_long", "source": "Special gemstone valued by the Shugo Merchants.\nCan be used to purchase special goods from the Shugo Merchants.", "translation": "Wyjątkowy kamień szlachetny ceniony przez kupców Shugo.\nMożna za niego kupić specjalne towary u kupców Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_GameCashPending_desc", "source": "Pending Quna", "translation": "Oczekująca Quna", "status": "draft"}
+{"id": "CurrencyInfo_GameCashPending_desc_long", "source": "Changes to Paid Quna after designated wait time (72 hours).\nSpecial gemstone valued by the Shugo Merchants.\nCan be used to purchase special goods from the Shugo Merchants.", "translation": "Zmienia się w Płatną Quna po upływie wyznaczonego czasu oczekiwania (72 godziny).\nWyjątkowy kamień szlachetny ceniony przez kupców Shugo.\nMożna za niego kupić specjalne towary u kupców Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_GameCash_desc", "source": "Quna", "translation": "Quna", "status": "draft"}
+{"id": "CurrencyInfo_GameCash_desc_long", "source": "Special gemstone valued by the Shugo Merchants.\nCan be used to purchase special goods from the Shugo Merchants.", "translation": "Wyjątkowy kamień szlachetny ceniony przez kupców Shugo.\nMożna za niego kupić specjalne towary u kupców Shugo.", "status": "draft"}
+{"id": "CurrencyInfo_GoldCombined_desc", "source": "Kina (All)", "translation": "Kina (łącznie)", "status": "draft"}
+{"id": "CurrencyInfo_GoldCombined_desc_long", "source": "Currency used throughout Atreia, consisting of both bound and unbound Kina.\nThe bound Kina is spent first, followed by the unbound Kina.", "translation": "Waluta używana w całej Atrei, obejmująca zarówno przypisaną, jak i nieprzypisaną Kina.\nNajpierw wydawana jest przypisana Kina, a następnie nieprzypisana.", "status": "draft"}
+{"id": "CurrencyInfo_GoldNonbinding_desc", "source": "Kina", "translation": "Kina", "status": "draft"}
+{"id": "CurrencyInfo_GoldNonbinding_desc_long", "source": "Currency used in the Market and Kina Chest (Substance Morph).", "translation": "Waluta używana na Rynku i do skrzyni Kina (Transmutacja substancji).", "status": "draft"}
+{"id": "CurrencyInfo_Gold_desc", "source": "Kina (Bound)", "translation": "Kina (przypisana)", "status": "draft"}
+{"id": "CurrencyInfo_Gold_desc_long", "source": "Currency used throughout Atreia, but unavailable in certain content.", "translation": "Waluta używana w całej Atrei, z wyjątkiem niektórych aktywności.", "status": "draft"}
+{"id": "CurrencyInfo_Mileage_desc", "source": "A2 Mileage", "translation": "Punkty A2 Mileage", "status": "draft"}
+{"id": "CurrencyInfo_Mileage_desc_long", "source": "Points used to purchase from the A2 Mileage Shop.", "translation": "Punkty służące do zakupów w sklepie A2 Mileage.", "status": "draft"}
+{"id": "CurrencyInfo_Season02Crystal01_desc", "source": "Daevanion Crystal: Marchutan", "translation": "Kryształ Daevanion: Marchutan", "status": "draft"}
+{"id": "CurrencyInfo_Season03Crystal01_desc", "source": "Daevanion Crystal: Yustiel", "translation": "Kryształ Daevanion: Yustiel", "status": "draft"}
+{"id": "CurrencyInfo_SoulCrystalAll_desc", "source": "Soul Crystal Points", "translation": "Punkty kryształów dusz", "status": "draft"}
+{"id": "CurrencyInfo_SoulCrystalAll_desc_long", "source": "Points obtained through Pet Genus Insight Analysis.", "translation": "Punkty zdobywane przez analizę wnikliwości rodzaju wierzchowców.", "status": "draft"}

@@ -1,0 +1,250 @@
+{"id": "String_UI_SOCIALACTION_CHAT_body", "source": "Chat", "translation": "Czat", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_CHECKBUTTON_BOOKMARK_body", "source": "Show favorites only", "translation": "Pokaż tylko ulubione", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_CHECKBUTTON_REGISTERED_body", "source": "Show acquired emotes only", "translation": "Pokaż tylko zdobyte emotki", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_COMMAND_FORMAT_body", "source": "[/{0}]", "translation": "[/{0}]", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_REST_body", "source": "Rest", "translation": "Odpocznij", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_1_TOOLTIP_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_1_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_2_TOOLTIP_body", "source": "Interact", "translation": "Interakcja", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_2_body", "source": "Action", "translation": "Akcja", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_3_TOOLTIP_body", "source": "Communication", "translation": "Komunikacja", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_3_body", "source": "Communication", "translation": "Komunikacja", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_ALL_TOOLTIP_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TAB_EMPTY_body", "source": "No emotes to display.", "translation": "Brak emotek do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_SOCIALACTION_TITLE_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_ATTUNE_ROUND_body", "source": "The binding probability for each value is rounded to the sixth decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Szansa na przywiązanie każdej wartości jest zaokrąglana do sześciu miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_BIND_ROUND_body", "source": "The binding probability for each value is rounded to the sixth decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Szansa na przywiązanie każdej wartości jest zaokrąglana do sześciu miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_ENHANCE_ROUND_body", "source": "The binding probability for each value is rounded to the sixth decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Szansa na przywiązanie każdej wartości jest zaokrąglana do sześciu miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_NAME_body", "source": "Soul Binding", "translation": "Przywiązanie duszy", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_ONBOARDING_MAX_VALUE_body", "source": "Maximum value reached.", "translation": "Osiągnięto maksymalną wartość.", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_PROB_body", "source": "Binding Probability", "translation": "Szansa na przywiązanie", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_ROUND_body", "source": "The binding probability for each value is rounded to the sixth decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Szansa na przywiązanie każdej wartości jest zaokrąglana do sześciu miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_INFO_POPUP_VALUE_body", "source": "Value", "translation": "Wartość", "status": "draft"}
+{"id": "String_UI_SOULBIND_PROBABILITY_REROLL_INFO_POPUP_ROUND_body", "source": "The probability of each property appearing is rounded to the third decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Szansa na wystąpienie każdej właściwości jest zaokrąglana do trzech miejsc po przecinku.\nZe względu na zaokrąglenia łączna szansa może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_BONUS_body", "source": "HP, MP {0}% restored", "translation": "Przywrócono {0}% PŻ i PM", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_BUTTON_NO_EFFECT_body", "source": "When the Daeva Pass is applied, it can be restored without visiting the village.", "translation": "Po aktywowaniu Przepustki Daeva można przywracać duszę bez wizyty w wiosce.", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_EFFECT_DESC_body", "source": "Cures mortality debuff", "translation": "Usuwa osłabienie związane ze śmiercią", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_EXP_DESC_body", "source": "{0}% EXP recovered", "translation": "Odzyskano {0}% PD", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_GAMECASH_BUTTON_body", "source": "Divine Soul Healing", "translation": "Boskie leczenie duszy", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_GOLD_BUTTON_body", "source": "Soul Healing", "translation": "Leczenie duszy", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_ITEM_DESC_body", "source": "Remove Soul Sealing", "translation": "Usuwa zapieczętowanie duszy", "status": "draft"}
+{"id": "String_UI_SOULHEALING_RECOVER_NOTHING_body", "source": "Nothing to cure.", "translation": "Brak efektów do usunięcia.", "status": "draft"}
+{"id": "String_UI_SOULHEALING_WARNING_DELETE_ITEM_body", "source": "Adding an item may remove said item.", "translation": "Dodanie przedmiotu może go usunąć.", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_BUTTON_body", "source": "Soul Binding", "translation": "Przywiąż duszę", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_GUIDETEXT_WARNING_body", "source": "Existing stats will be changed.", "translation": "Dotychczasowe statystyki ulegną zmianie.", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_MULTI_POPUP_TEXT_CONFIRM_body", "source": "Soul Binding is required to unlock effects.\n\nThis item will no longer be tradable once Soul Binding is complete.\nWould you like to attempt Soul Binding?", "translation": "Aby odblokować efekty, trzeba przywiązać duszę.\n\nPo przywiązaniu duszy przedmiot nie będzie już zbywalny.\nCzy chcesz przywiązać duszę?", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_STATS_RANGE_TITLE_body", "source": "Random Stat Range", "translation": "Zakres losowych statystyk", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_SYNCHRONIZATION_RATE_VALUE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_SOUL_BIND_SYNCHRONIZATION_RATE_body", "source": "Binding Rate", "translation": "Współczynnik przywiązania", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_BUTTON_EQUIP_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_BUTTON_REMOVE_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_EQUIP_TITLE_body", "source": "Skill Specialization", "translation": "Specjalizacja umiejętności", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_EQUIP_TRY_ALERT_REPLACE_SAME_KIND_body", "source": "Unequip specialty of currently equipped <desc_point>{0}</> Skill", "translation": "Zdejmij aktualnie wyposażoną specjalizację umiejętności <desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_EQUIP_TRY_ALERT_REPLACE_SAME_SLOT_body", "source": "Unequip <desc_point>{0}</> Specialty Skill of Same Skill", "translation": "Zdejmij specjalizację <desc_point>{0}</> z tej samej umiejętności", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_EQUIP_TRY_CONFIRM_body", "source": "Specialize to\n<desc_point>{0}</> Skill?", "translation": "Specjalizować umiejętność\n<desc_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_DIALOGUE_REMOVE_TRY_CONFIRM_body", "source": "Do you want to remove the specialty effect of <desc_point>{0}</> skill?", "translation": "Czy chcesz usunąć efekt specjalizacji umiejętności <desc_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_SPECIALIZED_SKILL_TITLE_body", "source": "Specialty", "translation": "Specjalizacja", "status": "draft"}
+{"id": "String_UI_STATEQUIP_INVENTORY_RADIOBUTTON_SET1_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_STATEQUIP_INVENTORY_RADIOBUTTON_SET2_body", "source": "2", "translation": "2", "status": "draft"}
+{"id": "String_UI_STATEQUIP_INVENTORY_RADIOBUTTON_SET_body", "source": "SET", "translation": "ZESTAW", "status": "draft"}
+{"id": "String_UI_STATINFO_CONQUEROR_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_CONQUEROR_TOOLTIP_SUBSTAT_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_CONQUEROR_TOOLTIP_SUBSTAT_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_DETAIL_STAT_DESC_TOOLTIP_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_DETAIL_STAT_VIEW_ONLY_VALID_body", "source": "Show available stats only", "translation": "Pokaż tylko dostępne statystyki", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_01_body", "source": "Nezekan", "translation": "Nezekan", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_02_body", "source": "Zikel", "translation": "Zikel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_03_body", "source": "Vaizel", "translation": "Vaizel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_04_body", "source": "Triniel", "translation": "Triniel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_05_body", "source": "Ariel", "translation": "Ariel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_06_body", "source": "Azphel", "translation": "Azphel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_07_body", "source": "Marchutan", "translation": "Marchutan", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_DAEVANION_BOARD_08_body", "source": "Yustiel", "translation": "Yustiel", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_NAME_body", "source": "Progression", "translation": "Postęp", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_PET_FERA_body", "source": "Fera", "translation": "Fera", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_PET_INTELLECT_body", "source": "Cogni", "translation": "Cogni", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_PET_NATURE_body", "source": "Natura", "translation": "Natura", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_PET_SPECIAL_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_STATINFO_GROWTH_SUMMARY_PET_TRANS_body", "source": "Varian", "translation": "Varian", "status": "draft"}
+{"id": "String_UI_STATINFO_KEY_STAT_TAB_NAME_body", "source": "Main Stats", "translation": "Statystyki główne", "status": "draft"}
+{"id": "String_UI_STATINFO_MAINSTAT_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_MAINSTAT_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_STATINFO_SUB_STAT_TAB_NAME_body", "source": "Sub Stats", "translation": "Statystyki dodatkowe", "status": "draft"}
+{"id": "String_UI_STATINFO_TITLE_body", "source": "Stat Info", "translation": "Informacje o statystykach", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_BUTTON_EQUIP_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_BUTTON_REMOVE_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_EQUIP_TITLE_body", "source": "Equip Stigma", "translation": "Załóż Stygmat", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_EQUIP_TRY_ALERT_REPLACE_SAME_KIND_body", "source": "Unequip currently equipped <desc_point>{0}</> Stigma", "translation": "Zdejmij aktualnie założony Stygmat <desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_EQUIP_TRY_ALERT_REPLACE_SAME_SLOT_body", "source": "Unequip <desc_point>{0}</> Stigma of Same Skill", "translation": "Zdejmij Stygmat <desc_point>{0}</> tej samej umiejętności", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_EQUIP_TRY_CONFIRM_body", "source": "Equip \n<desc_point>{0}</> Stigma?", "translation": "Założyć\nStygmat <desc_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_STIGMA_DIALOGUE_REMOVE_TRY_CONFIRM_body", "source": "Unequip\n<desc_point>{0}</> Stigma?", "translation": "Zdjąć\nStygmat <desc_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_STIGMA_LEVELUP_CONDITION_LEVEL_body", "source": "Reach Character Lv. {0}", "translation": "Osiągnij poziom postaci {0}", "status": "draft"}
+{"id": "String_UI_STIGMA_SKILL_DIALOGUE_FULL_RESET_TITLE_body", "source": "Would you like to reset all skills?\n(Current preset's skills will be reset.)", "translation": "Czy chcesz zresetować wszystkie umiejętności?\n(Umiejętności w bieżącym zestawie zostaną zresetowane.)", "status": "draft"}
+{"id": "String_UI_STIGMA_SKILL_DIALOGUE_SINGLE_RESET_TITLE_body", "source": "Would you like to reset the selected skill ?\n(Current preset skills will be reset.)", "translation": "Czy chcesz zresetować wybraną umiejętność?\n(Umiejętności w bieżącym zestawie zostaną zresetowane.)", "status": "draft"}
+{"id": "String_UI_STIGMA_TAB_UNLOCK_CONDITION_ASCENSION_GRADE_body", "source": "<ref style=\"insufficient\" attr=\"color\">Complete the '{0}' Quest </>", "translation": "<ref style=\"insufficient\" attr=\"color\">Ukończ zadanie „{0}” </>", "status": "draft"}
+{"id": "String_UI_STORAGE_AUTOREGISTER_TITLE_SERVER_body", "source": "Server Storage", "translation": "Magazyn serwera", "status": "draft"}
+{"id": "String_UI_STORAGE_AUTOREGISTER_TITLE_body", "source": "Quick Store Settings", "translation": "Szybkie ustawienia przechowywania", "status": "draft"}
+{"id": "String_UI_STORAGE_BUTTON_AUTOREGISTER_body", "source": "Quick Store", "translation": "Szybko przechowaj", "status": "draft"}
+{"id": "String_UI_STORAGE_BUTTON_GET_body", "source": "Retrieve", "translation": "Odbierz", "status": "draft"}
+{"id": "String_UI_STORAGE_BUTTON_KEEP_body", "source": "Store", "translation": "Przechowaj", "status": "draft"}
+{"id": "String_UI_STORAGE_CUBE_DEFAULT_TITLE_body", "source": "Server Storage Cube", "translation": "Magazyn serwerowy", "status": "draft"}
+{"id": "String_UI_STORAGE_EXTENSION_CONFIRM_MSGBOX_body", "source": "Would you like to expand Storage?", "translation": "Czy chcesz rozszerzyć magazyn?", "status": "draft"}
+{"id": "String_UI_STORAGE_INCLUDE_STORED_STACKABLE_body", "source": "Item(s) already in storage included in Quick Store", "translation": "Uwzględnij w szybkim przechowywaniu przedmioty już znajdujące się w magazynie", "status": "draft"}
+{"id": "String_UI_STORAGE_MOVE_FROM_OTHER_STORAGE_CONFIRM_LIMIT_body", "source": "The same item is stored in both Storages.\nWould you like to move the stackable item from <Storage_Move>{0}</> to <Storage_Move>{1}</>?\n<warning>Too many items can currently be retrieved. Only a portion will be retrieved.</>", "translation": "W obu magazynach znajduje się ten sam przedmiot.\nCzy przenieść łączony przedmiot z <Storage_Move>{0}</> do <Storage_Move>{1}</>?\n<warning>Można teraz odebrać zbyt wiele przedmiotów. Odbierzesz tylko część.</>", "status": "draft"}
+{"id": "String_UI_STORAGE_MOVE_FROM_OTHER_STORAGE_CONFIRM_body", "source": "The same item is stored in both Storages.\nWould you like to move the combinable item from <Storage_Move>{0}</> to <Storage_Move>{1}</>?", "translation": "W obu magazynach znajduje się ten sam przedmiot.\nCzy przenieść przedmiot łączony w stosy z <Storage_Move>{0}</> do <Storage_Move>{1}</>?", "status": "draft"}
+{"id": "String_UI_STORAGE_MOVE_FROM_OTHER_STORAGE_body", "source": "Import items duplicated between Storages", "translation": "Importuj przedmioty powtarzające się w magazynach", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_ARMOR_TYPE_TITLE_body", "source": "Item Material", "translation": "Materiał przedmiotu", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_CATEGORY_TITLE_body", "source": "Item Type", "translation": "Typ przedmiotu", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_GRADE_TITLE_body", "source": "Item Grade", "translation": "Ranga przedmiotu", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_ITEMLEVEL_COMPARE_TITLE_body", "source": "Select gear that cannot be equipped and has a low base item level", "translation": "Wybierz wyposażenie, którego nie można założyć i które ma niski bazowy poziom przedmiotów", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_LEVEL_TITLE2_body", "source": "Minimum Equip / Use Level Settings 2", "translation": "Ustawienia minimalnego poziomu zakładania/używania 2", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_LEVEL_TITLE_body", "source": "Minimum Equip / Use Level Settings", "translation": "Ustawienia minimalnego poziomu zakładania/używania", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_TEXT_MAX_LEVEL_body", "source": "Level or Lower", "translation": "Poziom lub niższy", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_TEXT_MIN_LEVEL_body", "source": "Level or Higher", "translation": "Poziom lub wyższy", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_TITLE_body", "source": "Detailed Settings", "translation": "Ustawienia szczegółowe", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_NOTICE_ALL_ITEM_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_NOTICE_NONE_ITEM_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_TITLE_body", "source": "Store/Retrieve List", "translation": "Lista przechowywania/odbioru", "status": "draft"}
+{"id": "String_UI_STORAGE_TITLE_body", "source": "Server Storage", "translation": "Magazyn serwera", "status": "draft"}
+{"id": "String_UI_STRING_CUTSCENE_SKIP_WAIT_body", "source": "Waiting for other players", "translation": "Oczekiwanie na pozostałych graczy", "status": "draft"}
+{"id": "String_UI_STR_PROBINFO_DATETIME_body", "source": "{0}y {1}mth {2}d {3}h {4}m {5}s", "translation": "{0} l {1} mies. {2} d {3} godz. {4} min {5} s", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ABYSS_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Abyss Usage Time doubles.", "translation": "Podwójny czas korzystania z Otchłani.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ABYSS_INFO_TOOLTIP_SUBSCRIBED_body", "source": "Basic Usage Time is doubled with a\nSpecial Quai Membership.", "translation": "Podstawowy czas korzystania jest podwojony dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_APPLICATION_SERVER_body", "source": "Applied per server", "translation": "Obowiązuje na serwerze", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_BANNER_EXP_body", "source": "<BattlePass_ProgressPoint>{0}</>", "translation": "<BattlePass_ProgressPoint>{0}</>", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_BANNER_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_PREMIUM_body", "source": "Premium", "translation": "Premium", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_SHORTCUT_body", "source": "Go to Pass", "translation": "Przejdź do przepustki", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_TAG_BASIC_body", "source": "Basic", "translation": "Podstawowa", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BATTLEPASS_TAG_PREMIUM_body", "source": "Premium", "translation": "Premium", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_2_body", "source": "Membership Benefits for 28 days", "translation": "Korzyści członkostwa przez 28 dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_ABYUSSUSE_body", "source": "Doubles Access Hours to the Abyss", "translation": "Podwójny czas dostępu do Otchłani", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_CHATRACE_body", "source": "Faction Chat Available", "translation": "Dostęp do czatu frakcji", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_DAILYDUNGEONUSE_body", "source": "Fields of Progress Access Hours Doubled", "translation": "Podwójny czas dostępu do Pól postępu", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_EXCHANGE_body", "source": "Personal Trade Available", "translation": "Dostęp do handlu osobistego", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_FIELDEVENTRANKCOUNT_body", "source": "Max Shugo Festival Reward Keys changed to 21.", "translation": "Maksymalna liczba kluczy nagrody Festiwalu Shugo wynosi 21.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_GATHER_body", "source": "Gather Available", "translation": "Dostęp do zbierania", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_ODENERGYCHARGE_body", "source": "Max Odyle Energy storage changed to 840.", "translation": "Maksymalny zapas energii Odyle wynosi 840.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_PARTYDUNGEON_REWARD_body", "source": "Increases the Odyle Energy Cube Selection Count in Expedition, Transcendence, and Sanctuary", "translation": "Zwiększa liczbę wyborów Kostki energii Odyle w Ekspedycji, Transcendencji i Sanktuarium", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_REMOTESTORAGE_body", "source": "Grants Access to Remote Storage", "translation": "Dostęp do zdalnego magazynu", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_TRADEEXCHANGEOPEN_body", "source": "Grants Access to the Quna Exchange", "translation": "Dostęp do giełdy Quna", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_TRADEEXPANDED_body", "source": "Grants Access to the Market", "translation": "Dostęp do rynku", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_USESTORE_body", "source": "Grants Access to Wind Breeze Merchants", "translation": "Dostęp do handlarzy Wind Breeze", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BENEFIT_body", "source": "Membership Benefits for 30 days", "translation": "Korzyści członkostwa przez 30 dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BUTTON_ACTIVATE_EXTEND_body", "source": "Extend {0} days", "translation": "Przedłuż o {0} dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BUTTON_ACTIVATE_RENEW_body", "source": "Extend", "translation": "Przedłuż", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BUTTON_ACTIVATE_body", "source": "Activate", "translation": "Aktywuj", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BUTTON_SUBSCRIBE_EXTEND_body", "source": "Extend", "translation": "Przedłuż", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_BUTTON_SUBSCRIBE_body", "source": "Subscribe", "translation": "Subskrybuj", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_CHATRACE_INFO_ONBOARDING_body", "source": "Special Quai Membership or Wind Breeze Membership required.", "translation": "Wymagane członkostwo Special Quai lub Wind Breeze.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_CHATRACE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can use Faction Chat with a Special Quai Membership or Wind Breeze Membership.", "translation": "Czat frakcji jest dostępny z członkostwem Special Quai lub Wind Breeze.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_DAILYDUNGEONUSE_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "The Daily Dungeon Fields of Progress Usage Time doubles.\nImmediately adds 7 hours upon subscribing.", "translation": "Czas korzystania z Pól postępu w Codziennym lochu jest podwojony.\nPo wykupieniu subskrypcji natychmiast dodaje 7 godzin.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_DAILYDUNGEONUSE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "Basic Usage Time is doubled with a\nSpecial Quai Membership.\nImmediately adds 7 hours upon subscribing.", "translation": "Podstawowy czas korzystania jest podwojony dzięki\nczłonkostwu Special Quai.\nPo wykupieniu subskrypcji natychmiast dodaje 7 godzin.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_DAILY_REWARD_body", "source": "Receive via mail", "translation": "Odbierz pocztą", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_DURATION_DAY_body", "source": "Valid for {0} days", "translation": "Ważne przez {0} dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_EXCHANGE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can trade with others with a\nSpecial Quai Membership.", "translation": "Możesz handlować z innymi dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_EXCHANGE_INFO_TOOLTIP_body", "source": "Can be used after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_FIELDEVENTRANKCOUNT_CONSUMETICKET_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You get {0} additional Festival Reward Cube selection(s) with a Special Quai Membership or Tsenka Membership.", "translation": "Członkostwo Special Quai lub Tsenka zapewnia {0} dodatkowych wyborów Kostki nagród Festiwalu.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_FIELDEVENTRANKCOUNT_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Max Shugo Festival Reward Keys increased to 21.", "translation": "Maksymalna liczba kluczy nagrody Festiwalu Shugo wzrosła do 21.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_FIELDEVENTRANKCOUNT_INFO_TOOLTIP_SUBSCRIBED_body", "source": "Subscribe for the Special Quai Membership to hold up to 21 reward keys.", "translation": "Członkostwo Special Quai pozwala przechowywać maksymalnie 21 kluczy nagrody.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_01_TITLESUB_body", "source": "A Discount Package combining Wind Breeze Membership and Tsenka Membership\nWind Breeze Membership and Tsenka Membership benefits are extended for 28 days upon subscribing.", "translation": "Pakiet promocyjny łączący członkostwo Wind Breeze i Tsenka\nPo wykupieniu subskrypcji korzyści członkostwa Wind Breeze i Tsenka są przedłużane o 28 dni.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_01_TITLE_body", "source": "Wind Breeze Membership", "translation": "Członkostwo Wind Breeze", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_02_TITLESUB_body", "source": "Available for 28 days", "translation": "Ważne przez 28 dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_02_TITLE_body", "source": "Tsenka Membership", "translation": "Członkostwo Tsenka", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_03_TITLESUB_body", "source": "Available for 28 days", "translation": "Ważne przez 28 dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_03_TITLE_body", "source": "Special Shugo Membership", "translation": "Członkostwo Special Shugo", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_04_TITLESUB_body", "source": "Available for 28 days", "translation": "Ważne przez 28 dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_MEMBERSHIP_S1_04_TITLE_body", "source": "Special Quai Membership", "translation": "Członkostwo Special Quai", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_NOT_SUBSCRIBE_body", "source": "Subscription Required.", "translation": "Wymagana subskrypcja.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ODENERGYCHARGE_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Max Odyle Energy storage changed to 840.", "translation": "Maksymalny zapas energii Odyle wynosi 840.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ODENERGYCHARGE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "Subscribe for the Special Quai Membership to change the maximum Odyle Energy storage to 840.", "translation": "Wykup członkostwo Special Quai, aby zwiększyć maksymalny zapas energii Odyle do 840.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ODERENGYCUBE_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Increases the number of Odyle Energy Cube selections.", "translation": "Zwiększa liczbę wyborów Kostki energii Odyle.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ODERENGYCUBE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You get an additional Odyle Energy Cube selection with a\nSpecial Quai Membership.", "translation": "Dodatkowy wybór Kostki energii Odyle otrzymasz dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_ONBOARDING_PREMIUM_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can obtain {0} premium rewards with a Quai Membership.", "translation": "Członkostwo Quai zapewnia {0} nagród premium.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_PERIOD_body", "source": "{0}d", "translation": "{0} d", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_PET_LOOTING_TITLE_body", "source": "Pet Auto-Loot", "translation": "Automatyczne zbieranie przez Wierzchowca", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_REMAIN_PERIOD_body", "source": "{0} remaining", "translation": "Pozostało {0}", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can access Remote Storage with a\nSpecial Quai Membership.", "translation": "Dostęp do zdalnego magazynu jest możliwy dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_body", "source": "Can be used after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_REWARD_body", "source": "Receive immediately with Premium Subscription", "translation": "Odbierz natychmiast z subskrypcją Premium", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_BUY_body", "source": "You can purchase a Pet Auto-Loot item from the Wind Breeze Merchants.", "translation": "Możesz kupić przedmiot automatycznego zbierania przez Wierzchowca u handlarzy Wind Breeze.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Grants access to Wind Breeze Merchants.", "translation": "Zapewnia dostęp do handlarzy Wind Breeze.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can purchase items from the Wind Breeze Merchants with a\nSpecial Quai Membership.", "translation": "Możesz kupować przedmioty u handlarzy Wind Breeze dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_SUBSCRIBE_body", "source": "Subscribed", "translation": "Subskrypcja aktywna", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TAB_BATTLEPASS_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TAB_BOARD_body", "source": "Status", "translation": "Status", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TAB_PASS_STORE_body", "source": "Pass Shop", "translation": "Sklep przepustki", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TITLE_body", "source": "Subscribe", "translation": "Subskrypcja", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TRADEEXCHANGE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can purchase or register items for sale in the Exchange with a\nSpecial Quai Membership.", "translation": "Możesz kupować i wystawiać przedmioty na giełdzie dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TRADE_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Market: Increases the amount of sales that can be registered.\nExchange: Sale listing and purchase available", "translation": "Rynek: zwiększa liczbę możliwych ofert sprzedaży.\nGiełda: umożliwia wystawianie przedmiotów i zakupy.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TRADE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can register items for sale in the Market with a\nSpecial Quai Membership.", "translation": "Możesz wystawiać przedmioty na rynku dzięki\nczłonkostwu Special Quai.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TYPE_BENEFIT_body", "source": "Membership Benefits", "translation": "Korzyści członkostwa", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TYPE_BUTTON_BUY_body", "source": "Go to Buy", "translation": "Przejdź do zakupu", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_TYPE_BUTTON_SUBSCRIBE_body", "source": "Go to Subscribe", "translation": "Przejdź do subskrypcji", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_ACCEPT_ADD_POPUP_CONFIRM_body", "source": "Would you like to extend the subscription period for {0}?", "translation": "Czy chcesz przedłużyć subskrypcję {0}?", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_ACCEPT_POPUP_CONFIRM_body", "source": "Would you like to subscribe to {0}?", "translation": "Czy chcesz wykupić subskrypcję {0}?", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_ACTIVATE_EXTEND_POPUP_CONFIRM_body", "source": "Would you like to extend the duration of {0}?", "translation": "Czy chcesz przedłużyć czas trwania {0}?", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_ACTIVATE_POPUP_CONFIRM_body", "source": "Activate {0}?", "translation": "Aktywować {0}?", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_BATTLEPASS_ONBOARDING_NONE_body", "source": "No Daeva Pass in progress.", "translation": "Brak aktywnej Przepustki Daeva.", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_BUTTON_body", "source": "Subscribe", "translation": "Subskrybuj", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_DURATION_EXTEND_body", "source": "Extend for {0} days", "translation": "Przedłuż o {0} dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_DURATION_body", "source": "Valid for {0} days", "translation": "Ważne przez {0} dni", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_FUNCTION_CATEGORY_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_ONBOARDING_NONE_body", "source": "Subscription is not on sale.", "translation": "Subskrypcja nie jest w sprzedaży.", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_REMAIN_body", "source": "{0} remaining", "translation": "Pozostało {0}", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_REWARD_DAILY_body", "source": "Receive via mail", "translation": "Odbierz pocztą", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_REWARD_body", "source": "Get Now", "translation": "Odbierz teraz", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TAB_BATTLEPASS_body", "source": "Daeva Pass", "translation": "Przepustka Daevy", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TAB_MEMBERSHIPPASS_body", "source": "Membership Pass", "translation": "Przepustka członkowska", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TAB_PASSSHOP_body", "source": "Pass Shop", "translation": "Sklep przepustki", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TAB_STATUS_body", "source": "Status", "translation": "Status", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TITLE_EXCHANGE_body", "source": "Personal Trade", "translation": "Handel osobisty", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TITLE_REMOTESTORAGE_body", "source": "Remote Storage", "translation": "Zdalny magazyn", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TITLE_TRADEEXPANDED_body", "source": "Market", "translation": "Rynek", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TITLE_body", "source": "Subscribe", "translation": "Subskrybuj", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TYPE_EXCHANGE_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SUBSCRIPTION_TYPE_EXCHANGE_body", "source": "Trades Available Today", "translation": "Dostępne transakcje dzisiaj", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_ABNORMAL_CONDITION_body", "source": "Effects obtainable when satisfying certain conditions during a battle.", "translation": "Efekty zdobywane po spełnieniu określonych warunków podczas walki.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_ABNORMAL_LIST_body", "source": "Ownable Effects List", "translation": "Lista dostępnych efektów", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_ABNORMAL_RANDOM_body", "source": "Effects randomly obtained when entering a battle and defeating the boss.", "translation": "Efekty losowane po wejściu do walki i pokonaniu bossa.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_BUTTON_MATCHING_body", "source": "Matchmaking", "translation": "Dobieranie graczy", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DESPAIR_body", "source": "Insane", "translation": "Obłęd", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DIFFICULTY_BONUS_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DIFFICULTY_body", "source": "Difficulty", "translation": "Poziom trudności", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_ABNORMAL_LIST_body", "source": "Buff List", "translation": "Lista wzmocnień", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_DEATH_LIMIT_body", "source": "Remaining Deaths: {0}", "translation": "Pozostałe śmierci: {0}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_KILL_NPC_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_TIME_LIMIT_body", "source": "Time", "translation": "Czas", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_EASY_body", "source": "Easy", "translation": "Łatwy", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_EXTREME_body", "source": "Extreme", "translation": "Ekstremalny", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_HARD_body", "source": "Hard", "translation": "Trudny", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_HELL_body", "source": "Hell", "translation": "Piekielny", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_HUD_MATCHING_START_REQUIRE_body", "source": "Starting matchmaking.", "translation": "Rozpoczynanie dobierania graczy.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_HUD_MATCHING_START_REQUIR_INFO_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_IINFO_RANKING_DESC_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_IINFO_REWARD_SEASON_NONE_body", "source": "No Rewards Obtainable", "translation": "Brak dostępnych nagród", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_IINFO_REWARD_SEASON_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_IINFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_CONTENTS_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba podejść", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_SOCRE_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_TOOLTIP_NEED_MEMBER_body", "source": "Required Participants", "translation": "Wymagana liczba uczestników", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body", "source": "Entering the dungeon shortly.", "translation": "Wkrótce nastąpi wejście do lochu.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_WARNING_body", "source": "If you cancel matchmaking multiple times after it has already completed, subjugation entry will be restricted for a certain period of time.", "translation": "Wielokrotne anulowanie ukończonego dobierania graczy zablokuje na pewien czas wejście do Podboju.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NOTICE_MATCHING_SEASON_OUTDATE_body", "source": "Cannot begin matchmaking as the season has ended.", "translation": "Nie można rozpocząć dobierania graczy, ponieważ sezon dobiegł końca.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NOTICE_SEASON_OUTDATE_body", "source": "Season has ended.", "translation": "Sezon dobiegł końca.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RANKING_REWARD_DESC_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_REQUIRED_CONDITION_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_BUTTON_QUIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_CLEAR_body", "source": "Subjugation Success", "translation": "Podbój zakończony powodzeniem", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_DEATH_body", "source": "Remaining Deaths Count", "translation": "Pozostała liczba śmierci", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_REWARD_body", "source": "No rewards obtained.", "translation": "Nie zdobyto nagród.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TITLE_body", "source": "{0} Failed", "translation": "{0} — niepowodzenie", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_body", "source": "Subjugation Fail", "translation": "Podbój nieudany", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_BASIC_SCORE_body", "source": "Clear Points", "translation": "Punkty za ukończenie", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DEATH_body", "source": "Total Deaths", "translation": "Łączna liczba śmierci", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DIFFICULTY_BONUS_body", "source": "Difficulty Bonus", "translation": "Premia za poziom trudności", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_NOCONTRIBUTE_body", "source": "Cannot receive reward and Rank Points due to </>insufficient Contribution<insufficient>.", "translation": "Nie otrzymasz nagrody ani punktów rankingowych z powodu </>niewystarczającego wkładu<insufficient>.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_REWARD_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}

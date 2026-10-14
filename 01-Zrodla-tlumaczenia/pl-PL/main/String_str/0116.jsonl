@@ -1,0 +1,250 @@
+{"id": "String_STR_M_PD_UC_OwlMagic_01_body", "source": "Urugugu Shaman", "translation": "Szaman Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_01_body", "source": "Urugugu Soldier", "translation": "Żołnierz Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_02_body", "source": "Urugugu Mage", "translation": "Mag Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_03_body", "source": "Urugugu Patrol", "translation": "Patrol Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_04_body", "source": "Urugugu Skirmisher", "translation": "Harcownik Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_05_body", "source": "Urugugu Slayer", "translation": "Pogromca Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_06_body", "source": "Urugugu Brawler", "translation": "Zabijaka Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_07_body", "source": "Urugugu Gladiator", "translation": "Gladiator Urugugu", "status": "draft"}
+{"id": "String_STR_M_PD_UC_OwlSoldier_12_body", "source": "Auldor Sanctum Gatekeeper", "translation": "Strażnik bramy Sanctum Auldor", "status": "draft"}
+{"id": "String_STR_M_PD_UC_Owldor_01_body", "source": "Divine Auldor", "translation": "Boski Auldor", "status": "draft"}
+{"id": "String_STR_M_PD_UC_Pino_01_body", "source": "Deceived Pino", "translation": "Oszukany Pino", "status": "draft"}
+{"id": "String_STR_M_PD_UC_Pino_02_body", "source": "Furious Pino", "translation": "Rozwścieczony Pino", "status": "draft"}
+{"id": "String_STR_M_PD_UC_SubBoss01_body", "source": "Guardian Captain Raur", "translation": "Kapitan strażników Raur", "status": "draft"}
+{"id": "String_STR_M_PD_UC_SubBoss02_body", "source": "Judge Urahum", "translation": "Sędzia Urahum", "status": "draft"}
+{"id": "String_STR_M_PD__MusphelHolyGrail_Guard_body", "source": "Sanctum Guard Troopers", "translation": "Żołnierze straży Sanctum", "status": "draft"}
+{"id": "String_STR_M_PUREELEMENTAL_01_body", "source": "Pure Spirit", "translation": "Czysty duch", "status": "draft"}
+{"id": "String_STR_M_PanDryad_01_body", "source": "Pan Dryad", "translation": "Driada Pan", "status": "draft"}
+{"id": "String_STR_M_Papis_01_body", "source": "Papis (Specimen)", "translation": "Papis (okaz)", "status": "draft"}
+{"id": "String_STR_M_Papis_02_body", "source": "Papis", "translation": "Papis", "status": "draft"}
+{"id": "String_STR_M_Pelleir_Enemy_body", "source": "Mind-Controlled Pelleir", "translation": "Pelleir pod kontrolą umysłu", "status": "draft"}
+{"id": "String_STR_M_Perion_01_body", "source": "Perion", "translation": "Perion", "status": "draft"}
+{"id": "String_STR_M_Phaini_01_body", "source": "Crasaur (Specimen)", "translation": "Crasaur (okaz)", "status": "draft"}
+{"id": "String_STR_M_Pillar_01_body", "source": "Pillar", "translation": "Filar", "status": "draft"}
+{"id": "String_STR_M_PinoBoss_01_body", "source": "Pino Gatekeeper", "translation": "Strażnik bramy Pino", "status": "draft"}
+{"id": "String_STR_M_Pino_01_body", "source": "Pino", "translation": "Pino", "status": "draft"}
+{"id": "String_STR_M_PointMonster01_body", "source": "Giant Krao Bioweapon", "translation": "Wielka broń biologiczna Krao", "status": "draft"}
+{"id": "String_STR_M_PointMonster02_body", "source": "Giant Drana Bioweapon", "translation": "Wielka broń biologiczna Drany", "status": "draft"}
+{"id": "String_STR_M_PointMonster03_body", "source": "Mutated Sura Bioweapon", "translation": "Zmutowana broń biologiczna Sura", "status": "draft"}
+{"id": "String_STR_M_PointMonster04_body", "source": "Modified Krao Guardian", "translation": "Zmodyfikowany strażnik Krao", "status": "draft"}
+{"id": "String_STR_M_PointMonster05_body", "source": "Sura Magic Bioweapon", "translation": "Magiczna broń biologiczna Sura", "status": "draft"}
+{"id": "String_STR_M_PoisonDmgZone_body", "source": "Contamination Zone", "translation": "Strefa skażenia", "status": "draft"}
+{"id": "String_STR_M_PoisonFafBlood_body", "source": "Contamination Clot", "translation": "Skrzep skażenia", "status": "draft"}
+{"id": "String_STR_M_PoisonSlime_body", "source": "Contaminated Slime", "translation": "Skażony szlam", "status": "draft"}
+{"id": "String_STR_M_PollutedGrass_01_body", "source": "Poison Grass (Specimen)", "translation": "Jadowita trawa (okaz)", "status": "draft"}
+{"id": "String_STR_M_PollutedGrass_02_body", "source": "Poison Grass", "translation": "Jadowita trawa", "status": "draft"}
+{"id": "String_STR_M_PretorBoss_01_body", "source": "Pretor Captain", "translation": "Kapitan Pretor", "status": "draft"}
+{"id": "String_STR_M_PrisonVillager_body", "source": "Kidnapped Resident", "translation": "Uprowadzony mieszkaniec", "status": "draft"}
+{"id": "String_STR_M_Protect_Skill04A_body", "source": "Aura of Protection", "translation": "Aura ochrony", "status": "draft"}
+{"id": "String_STR_M_Protect_Skill04B_body", "source": "Zumion's Energy", "translation": "Energia Zumiona", "status": "draft"}
+{"id": "String_STR_M_Q_DranaVar_01_body", "source": "Drana Predator Test Subject", "translation": "Obiekt testowy: drapieżnik Drany", "status": "draft"}
+{"id": "String_STR_M_Q_EleKing_01_V01_body", "source": "Lepharist Artificial Test Subject", "translation": "Sztuczny obiekt testowy Lepharystów", "status": "draft"}
+{"id": "String_STR_M_Q_Gannetry_01_body", "source": "Ganetri of Lava", "translation": "Ganetri Lawy", "status": "draft"}
+{"id": "String_STR_M_Q_GraveRat_01_body", "source": "Basement Zirka", "translation": "Piwniczny Zirka", "status": "draft"}
+{"id": "String_STR_M_Q_Guardit_01_body", "source": "Lepharist Guard Guardite", "translation": "Strażnik Guardite Lepharystów", "status": "draft"}
+{"id": "String_STR_M_Q_Hoka_01_body", "source": "Ferocious Test Subject Hoka", "translation": "Zajadły obiekt testowy Hoka", "status": "draft"}
+{"id": "String_STR_M_Q_Imp_01_body", "source": "Crushed Test Subject Imp", "translation": "Zmiażdżony imp będący obiektem testowym", "status": "draft"}
+{"id": "String_STR_M_Q_Kalnif_01_body", "source": "Lepharist Guard Karnif", "translation": "Strażniczy Karnif Lepharystów", "status": "draft"}
+{"id": "String_STR_M_Q_KromedeVoice_01_body", "source": "Kromede's Voice", "translation": "Głos Kromede", "status": "draft"}
+{"id": "String_STR_M_Q_Laser_01_body", "source": "Laser", "translation": "Laser", "status": "draft"}
+{"id": "String_STR_M_Q_TestSubject_01_body", "source": "Defective Test Subject", "translation": "Wadliwy obiekt testowy", "status": "draft"}
+{"id": "String_STR_M_Q_Victim_01_body", "source": "Disposed Test Subject", "translation": "Usunięty obiekt testowy", "status": "draft"}
+{"id": "String_STR_M_ROCKHUMANS_01_body", "source": "Abyss Soul Stone", "translation": "Kamień duszy Otchłani", "status": "draft"}
+{"id": "String_STR_M_ROOTSCOUTTREEMAN_01_body", "source": "Root Watchwood", "translation": "Korzeniowy strażnik lasu", "status": "draft"}
+{"id": "String_STR_M_Rafflesia_01_body", "source": "Rafflesia (Specimen)", "translation": "Rafflesia (okaz)", "status": "draft"}
+{"id": "String_STR_M_RageSilme_01_body", "source": "Poison Blood", "translation": "Trująca krew", "status": "draft"}
+{"id": "String_STR_M_RageSpiritEarth_01_body", "source": "Contaminated Earth Spirit", "translation": "Skażony duch ziemi", "status": "draft"}
+{"id": "String_STR_M_RageSpiritFire_01_body", "source": "Contaminated Fire Spirit", "translation": "Skażony duch ognia", "status": "draft"}
+{"id": "String_STR_M_RageSpiritWater_01_body", "source": "Contaminated Water Spirit", "translation": "Skażony duch wody", "status": "draft"}
+{"id": "String_STR_M_RageSpiritWind_01_body", "source": "Contaminated Wind Spirit", "translation": "Skażony duch wiatru", "status": "draft"}
+{"id": "String_STR_M_Rakut_body", "source": "Rakut", "translation": "Rakut", "status": "draft"}
+{"id": "String_STR_M_Rathman_01_body", "source": "Soulreaper Rathman", "translation": "Żniwiarz dusz Rathman", "status": "draft"}
+{"id": "String_STR_M_Revin_Mob_01_body", "source": "Mutated Levin", "translation": "Zmutowany Levin", "status": "draft"}
+{"id": "String_STR_M_Robjeff_body", "source": "Robzev", "translation": "Robzev", "status": "draft"}
+{"id": "String_STR_M_Rock_01_body", "source": "Rock", "translation": "Skała", "status": "draft"}
+{"id": "String_STR_M_RootCellar_ConutiChaser_01_body", "source": "Cellar Konutin Tracker", "translation": "Tropiciel Konutinów z piwnicy", "status": "draft"}
+{"id": "String_STR_M_RootCellar_ConutiWorker_01_body", "source": "Cellar Konutin Worker", "translation": "Robotnik Konutinów z piwnicy", "status": "draft"}
+{"id": "String_STR_M_RootCellar_Owltros_01_body", "source": "Aultross", "translation": "Aultross", "status": "draft"}
+{"id": "String_STR_M_RootCellar_Owltros_02_body", "source": "Root Mythical Bird Aultross", "translation": "Mityczny ptak Aultross z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_PinoFighter_01_body", "source": "Root Cellar Pino Fighter", "translation": "Wojownik Pino z piwnicy korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_PinoKeeper_01_body", "source": "Gatekeeper Pinopi", "translation": "Strażnik bramy Pinopi", "status": "draft"}
+{"id": "String_STR_M_RootCellar_PinoWorker_01_body", "source": "Cellar Pino Worker", "translation": "Robotnik Pino z piwnicy", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikChaser_01_body", "source": "Cellar Aullaeu Chaser", "translation": "Tropiciel Aullaeu z piwnicy", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikExplosionTotem_01_body", "source": "Root Aullaeu Explosion Totem", "translation": "Totem wybuchowy Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikGuard_01_body", "source": "Root Aullaeu Guard", "translation": "Strażnik Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikGuard_02_body", "source": "Aullaeu Guard", "translation": "Strażnik Aullaeu", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikIncenseBurner_01_body", "source": "Root Aullaeu Censer", "translation": "Kadzielnica Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikMagicianGuard_01_body", "source": "Root Aullaeu Priest", "translation": "Kapłan Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikPatrolMagician_01_body", "source": "Root Aullaeu Shaman", "translation": "Szaman Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikPatrol_01_body", "source": "Root Aullaeu Sentry", "translation": "Wartownik Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikSummonMagician_01_body", "source": "Root Aullaeu Summoner", "translation": "Przyzywacz Aullaeu z korzeni", "status": "draft"}
+{"id": "String_STR_M_RootCellar_StrigikTotemMagician_01_body", "source": "Root Totem Shaman", "translation": "Szaman totemów korzeni", "status": "draft"}
+{"id": "String_STR_M_Rotan_01_body", "source": "Silver Blade Rotan (Specimen)", "translation": "Rotan Srebrnego Ostrza (okaz)", "status": "draft"}
+{"id": "String_STR_M_SULFURGREEDTREEMAN_01_body", "source": "Sulfur Greedwillow", "translation": "Siarkowa chciwierzba", "status": "draft"}
+{"id": "String_STR_M_SULFURMANEATERTREEMAN_01_body", "source": "Sulfur Cannibal Plant", "translation": "Siarkowa roślina-ludożerca", "status": "draft"}
+{"id": "String_STR_M_SULFURSCOUTTREEMAN_01_body", "source": "Sulfur Watchwood", "translation": "Siarkowy strażnik lasu", "status": "draft"}
+{"id": "String_STR_M_SULFURSLIME_01_body", "source": "Sulfur Slime", "translation": "Siarkowy szlam", "status": "draft"}
+{"id": "String_STR_M_SULFURTREEMAN_01_body", "source": "Sulfur Tree Human", "translation": "Siarkowy człowiek-drzewo", "status": "draft"}
+{"id": "String_STR_M_Santras_01_body", "source": "Santras (Specimen)", "translation": "Santras (okaz)", "status": "draft"}
+{"id": "String_STR_M_Santras_Summon_Trap_01_body", "source": "Explosion Trap", "translation": "Pułapka wybuchowa", "status": "draft"}
+{"id": "String_STR_M_Scorpion_01_body", "source": "Scorpion (Specimen)", "translation": "Skorpion (okaz)", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_Boss_01_body", "source": "Idris", "translation": "Idris", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_CaveBat_01_body", "source": "Ruins Bat", "translation": "Nietoperz ruin", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_DaevaWar_01_body", "source": "Mad Apostle of Ru", "translation": "Obłąkany apostoł Ru", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_EliteA_01_body", "source": "Power-Possessed Kianah", "translation": "Kianah opętana przez moc", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_EliteD_01_body", "source": "Obsessive Lithla", "translation": "Opętana Lithla", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_Gargoyle_01_body", "source": "Sorcery Guardian", "translation": "Strażnik czarnoksięstwa", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_Ghost_01_body", "source": "Cursed Apostle of Ru", "translation": "Przeklęty apostoł Ru", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_Ghost_V01_01_body", "source": "Cursed Knight's Soul", "translation": "Dusza przeklętego rycerza", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_GraveGh_01_body", "source": "Mad Knight's Soul", "translation": "Dusza obłąkanego rycerza", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_SpiritArc_01_body", "source": "Wandering Ranger's Soul", "translation": "Dusza błąkającego się zwiadowcy", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_SpiritKnt_01_body", "source": "Wandering Warrior's Soul", "translation": "Dusza wędrującego wojownika", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_WraithKnight_01_body", "source": "Ancient Revenant Apostle of Ru", "translation": "Starożytny upiór, apostoł Ru", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_WraithKnight_02_body", "source": "Decaying Ancient Knight", "translation": "Rozkładający się starożytny rycerz", "status": "draft"}
+{"id": "String_STR_M_SealAdvanced_0001_WraithPriest_01_body", "source": "Decaying Ancient Priest", "translation": "Rozkładający się starożytny kapłan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_001_NornirElite_01_body", "source": "Priestess Soirel", "translation": "Kapłanka Soirel", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_001_Nornir_02_body", "source": "Soulless Novice Priest", "translation": "Bezduszny nowicjusz-kapłan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_001_Nornir_03_body", "source": "Soulless Follower", "translation": "Bezduszny zwolennik", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_001_Nornir_04_body", "source": "Soulless Devotee", "translation": "Bezduszny wyznawca", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_002_FightElite_01_body", "source": "Trickster Boss Korhe", "translation": "Boss oszustów Korhe", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_002_FightF_02_body", "source": "Trickster Archer", "translation": "Łucznik oszustów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_002_FightF_04_body", "source": "Trickster Ruffian", "translation": "Łotr oszustów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_002_FightM_01_body", "source": "Trickster Brawler", "translation": "Zabijaka oszustów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_002_FightM_03_body", "source": "Trickster Warrior", "translation": "Wojownik oszustów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_003_Boss_01_body", "source": "Scion Behit", "translation": "Potomek Behit", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_003_Butler_01_body", "source": "Karas Butler", "translation": "Lokaj Karas", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_003_Ghost_01_body", "source": "Abandoned Karas Wraith", "translation": "Opuszczony upiór Karas", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_003_Servant_01_body", "source": "Karas Servant", "translation": "Sługa Karas", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_004_DratonaElite_01_body", "source": "Mature Baratuna", "translation": "Dorosły Baratuna", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_004_EggMob_01_body", "source": "Cave Dratona Larva", "translation": "Larwa Dratony z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_004_Egg_01_body", "source": "Cave Dratona Egg", "translation": "Jajo Dratony z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_005_Poacher_01_body", "source": "Varg Poacher", "translation": "Kłusownik Varg", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_005_Poacher_02_body", "source": "Varg Tracker", "translation": "Tropiciel Varg", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_005_Tayga_01_body", "source": "Varg Tayga", "translation": "Tayga Varg", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_006_Boss_body", "source": "Legion Outlaws Leader", "translation": "Przywódca banitów legionu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_006_FighterF_01_body", "source": "Legion Outlaws Warrior", "translation": "Wojownik banitów legionu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_006_FighterF_02_body", "source": "Legion Outlaws Ranger", "translation": "Łowca banitów legionu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_006_FighterM_01_body", "source": "Legion Outlaws Warrior", "translation": "Wojownik banitów legionu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_007_02_body", "source": "Ru Priest", "translation": "Kapłan Ru", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_008_Agrint_01_body", "source": "Poison Contaminated Agrint", "translation": "Skażony jadem Agrint", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_008_FighterM_01_body", "source": "Graverobber Captain", "translation": "Kapitan rabusiów grobów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_008_Fighter_01_body", "source": "Basement Graverobber", "translation": "Rabus grobów z piwnicy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_008_PollutedFlower_01_body", "source": "Poisonous Plant", "translation": "Trująca roślina", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_008_Slime_01_body", "source": "Poison Contaminated Slime", "translation": "Skażony jadem szlam", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_009_Boss_01_body", "source": "Mutated Insectoid Valka", "translation": "Zmutowany owad Valka", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_009_Muta_01_body", "source": "Drana Mutant Sylphen", "translation": "Zmutowany sylfen Drany", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_010_GraveGh_body", "source": "Grave Ghost", "translation": "Cmentarny duch", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_011_SpiritArc_01_body", "source": "Wandering Treasure Hunter Ranger", "translation": "Wędrujący łowca skarbów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_011_SpiritKnt_01_body", "source": "Spirit Treasure Hunter Knight", "translation": "Rycerz łowców skarbów duchów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_011_SpiritKnt_02_body", "source": "Vindictive Treasure Hunter Knight", "translation": "Mściwy rycerz łowców skarbów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_012_ArcherF_01_body", "source": "Moslan Thieves Tamer", "translation": "Treser złodziei Moslan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_012_ArcherF_02_body", "source": "Moslan Thieves Ranger", "translation": "Łowca złodziei Moslan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_012_WarriorM_01_body", "source": "Moslan Thieves Warrior", "translation": "Wojownik złodziei Moslan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_012_Zaif_01_CV02_body", "source": "Moslan Thieves Zaif", "translation": "Zaif złodziei Moslan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_013_BeritraC_01_01_body", "source": "Storage Room Drakan Scout", "translation": "Zwiadowca Drakan z magazynu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_013_BeritraC_02_01_body", "source": "Storage Room Drakan Skirmisher", "translation": "Harcownik Drakan z magazynu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_013_BeritraC_05_01_body", "source": "Storage Room Drakan Sentry Warmage", "translation": "Wartownik-mag bojowy Drakan z magazynu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_013_Fafnium_01_body", "source": "Storage Room Fafnium", "translation": "Fafnium z magazynu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_013_Laser_01_01_body", "source": "Balaur Security Device", "translation": "Urządzenie bezpieczeństwa Balaurów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_014_AbyssSwarm_body", "source": "Tunnel Swarm", "translation": "Rój z tunelu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_014_SpakleOd_01_body", "source": "Hatched Sparkle", "translation": "Wykluty Sparkle", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_015_DaevaWar_01_body", "source": "Balhash", "translation": "Balhash", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_015_DaevaWar_02_body", "source": "Balhash's Follower", "translation": "Wyznawca Balhasha", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_016_GraveRat_01_body", "source": "Rotten Grave Rat", "translation": "Zgniły cmentarny szczur", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_016_GraveUn_02_body", "source": "Reanimated Knight", "translation": "Ożywiony rycerz", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_016_GraveUn_03_body", "source": "Reanimated Soldier", "translation": "Ożywiony żołnierz", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_01_body", "source": "Draconute Elite Watch Warrior", "translation": "Elitarny wojownik straży drakonuta", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_02_body", "source": "Draconute Watch Warrior", "translation": "Wojownik straży drakonuta", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_03_body", "source": "Watchful Superior Warrior", "translation": "Czujny starszy wojownik", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_04_body", "source": "Watchful Balaur Tinkerer", "translation": "Czujny majsterkowicz Balaurów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_05_body", "source": "Watchful Balaur Superior Ranger", "translation": "Czujny starszy łowca Balaurów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_017_Draconute_06_body", "source": "Watchful Balaur Ranger", "translation": "Czujny łowca Balaurów", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_018_Beast_01_body", "source": "Fafnium Guardian Beast", "translation": "Bestia strażnicza fafnium", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_018_Detection_01_body", "source": "Fafnium Protector", "translation": "Obrońca fafnium", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_018_DrakanElite_01_body", "source": "Sentinel Nuraka", "translation": "Czujka Nuraka", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_018_Drakan_01_body", "source": "Fafnium Guardian", "translation": "Strażnik fafnium", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_019_EarthEleOd_01_body", "source": "Ore Vein Odyle Spirit", "translation": "Duch Odyle z żyły rudy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_019_Kalgolem_01_body", "source": "Ore Vein Kalgolem", "translation": "Kalgolem z żyły rudy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_019_SparkyOd_01_body", "source": "Ore Vein Odyle Sparkie", "translation": "Sparkie Odyle z żyły rudy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_019_SparkyOd_02_body", "source": "Ore Vein Giant Sparkie", "translation": "Wielki Sparkie z żyły rudy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_020_Ghost_01_body", "source": "Tainted Wraith", "translation": "Splugawiony upiór", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_020_Nornir_01_body", "source": "Nornir Wraith", "translation": "Upiór Nornira", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_021_DaevaWar_01_body", "source": "Bounty Hunter", "translation": "Łowca nagród", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_021_Tayga_01_body", "source": "Howling Den Tayga", "translation": "Tayga z Wyjącej Nory", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_021_Varg_01_body", "source": "Howling Den Varg Warrior", "translation": "Wojownik Varg z Wyjącej Nory", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_022_GraveUn_body", "source": "Grave Undead", "translation": "Cmentarny nieumarły", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_022_Poison_body", "source": "Grave Poison Sac", "translation": "Cmentarny worek jadowy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_022_Spider_01_body", "source": "Cemetery Spider", "translation": "Cmentarny pająk", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_023_Boss_01_body", "source": "Cruel Sumakhi", "translation": "Okrutny Sumakhi", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_023_Shulack_01_body", "source": "Shulak Smuggler", "translation": "Przemytnik Shulaków", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_023_Shulack_02_body", "source": "Shulak Tinkerer", "translation": "Majsterkowicz Shulaków", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_024_BeritraC_01_body", "source": "Prison Compound Warden", "translation": "Nadzorca kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_024_DrakanElite_01_body", "source": "Prison Compound Warden Homish", "translation": "Nadzorca kompleksu więziennego Homish", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_025_Boss_01_body", "source": "Shaman Kumbahum", "translation": "Szaman Kumbahum", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_025_Lycan_01_body", "source": "Kumbahum's Brawler", "translation": "Zabijaka Kumbahuma", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_025_Lycan_02_body", "source": "Kumbahum's Sentry", "translation": "Wartownik Kumbahuma", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_025_Totem_01_body", "source": "Kumbahum Balaur Worship Totem", "translation": "Totem kultu Balaurów Kumbahuma", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_026_EliteWraKnt_01_body", "source": "Desperate Robere's Apparition", "translation": "Zjawa zrozpaczonego Robere’a", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_026_GraveUn_01_body", "source": "Sacrificed Daeva", "translation": "Ofiarny daeva", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_027_BeritraC_01_01_body", "source": "Depository Scout", "translation": "Zwiadowca składu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_027_DrakanElite_03_V01_01_body", "source": "Depository Manager Arya", "translation": "Zarządca składu Arya", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_029_Archer_01_body", "source": "Hideout Karas Ranger", "translation": "Łowca Karas z kryjówki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_029_Magician_01_body", "source": "Karas Priest", "translation": "Kapłan Karas", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_029_Warrior_01_body", "source": "Hideout Karas Warrior", "translation": "Wojownik Karas z kryjówki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_030_Boss_01_body", "source": "Rare Fungpus", "translation": "Rzadki Fungpus", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_030_Fungus_01_body", "source": "Herb-Covered Fungen", "translation": "Fungen porośnięty ziołami", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_031_Fungus_01_body", "source": "Cave Fungen", "translation": "Jaskiniowy Fungen", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_031_Fungy_02_01_body", "source": "Cave Fungie", "translation": "Jaskiniowy Fungie", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_032_Cherubim_01_01_body", "source": "Library Kerubar Sentry", "translation": "Wartownik Kerubarów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_032_Cherubim_01_02_body", "source": "Library Kerubar Scout", "translation": "Zwiadowca Kerubarów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_032_Cherubim_02_01_body", "source": "Library Kerubian Scout", "translation": "Zwiadowca Kerubianów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_032_Cherubim_03_01_body", "source": "Library of Wisdom Kerubiel", "translation": "Kerubiel z Biblioteki Mądrości", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_033_Drakan_01_body", "source": "Drakan Detector", "translation": "Wykrywacz Drakan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_033_Drakan_02_body", "source": "Drakan Warrior", "translation": "Wojownik Drakan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_033_Drakan_03_body", "source": "Scriptorium Drakan Soldier", "translation": "Żołnierz Drakan ze skryptorium", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_033_Drakan_04_body", "source": "Drakan Investigator", "translation": "Śledczy Drakan", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_034_Agrint_01_body", "source": "Root Cave Contaminated Agrint", "translation": "Skażony Agrint z jaskini korzeni", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_035_EliteWaterEle_01_body", "source": "Daine of Tears", "translation": "Daine Łez", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_035_WaterEle_01_body", "source": "Small Water Spirit", "translation": "Mały duch wody", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_035_WaterEle_02_body", "source": "Wandering Water Spirit", "translation": "Błąkający się duch wody", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_036_BeritraD_03_01_body", "source": "Scouts Captain Lamnah", "translation": "Kapitan zwiadowców Lamnah", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_036_DracoArc_03_01_body", "source": "Lamnah Superior Ranger", "translation": "Starszy łowca Lamnah", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_036_DracoWar_03_01_body", "source": "Lamnah Superior Combatant", "translation": "Starszy wojownik Lamnah", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_037_SpiritArc_01_body", "source": "Twisted Ranger Soul", "translation": "Skręcona dusza łowcy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_037_SpiritKnt_01_body", "source": "Twisted Warrior Soul", "translation": "Skręcona dusza wojownika", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_038_Ghost_V01_01_body", "source": "Rift Knight's Soul", "translation": "Dusza rycerza szczeliny", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_039_NagaElite_04_body", "source": "Warrior Wasti", "translation": "Wojownik Wasti", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_039_Spider_01_V01_body", "source": "Altar Spider", "translation": "Pająk ołtarza", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_040_Cherubim_01_01_body", "source": "Library Kerubar Searcher", "translation": "Poszukiwacz Kerubarów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_040_Cherubim_01_02_body", "source": "Library Kerubar Observer", "translation": "Obserwator Kerubarów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_040_Cherubim_02_01_body", "source": "Library Kerubian Watcher", "translation": "Obserwator Kerubianów z biblioteki", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_041_SkurvWar_01_01_body", "source": "Labor Camp Mumu Warrior", "translation": "Wojownik Mumu z obozu pracy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_041_SkurvWar_02_01_body", "source": "Labor Camp Mumu Worker", "translation": "Robotnik Mumu z obozu pracy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_041_SkurvWar_03_01_body", "source": "Labor Camp Mumu Patrol", "translation": "Patrol Mumu z obozu pracy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_041_SkurvWar_04_V02_01_body", "source": "Labor Camp Mumu Overseer", "translation": "Nadzorca Mumu z obozu pracy", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_041_SkurvWar_04_body", "source": "Mumu Senior Overseer", "translation": "Starszy nadzorca Mumu", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Draco_01_body", "source": "Dratona Trainer", "translation": "Treser Dratony", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Draco_02_body", "source": "Dratona Egg Warden", "translation": "Strażnik jaj Dratony", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Dratona_01_body", "source": "Assembly Area Dratona", "translation": "Dratona z obszaru zgromadzeń", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Dratona_02_body", "source": "Assembly Area Enhanced Dratona", "translation": "Wzmocniona Dratona z obszaru zgromadzeń", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Dratona_03_body", "source": "Assembly Area Dratona Tinkerer", "translation": "Majsterkowicz Dratony z obszaru zgromadzeń", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Dratona_04_body", "source": "Assembly Area Dratona Egg", "translation": "Jajo Dratony z obszaru zgromadzeń", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_042_Dratona_05_body", "source": "Assembly Area Dratona Larva", "translation": "Larwa Dratony z obszaru zgromadzeń", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_043_GraveRat_01_body", "source": "Hungry Grave Rat", "translation": "Głodny cmentarny szczur", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_043_GraveUn_01_body", "source": "Enraged Graveyard Dead", "translation": "Rozwścieczony nieboszczyk z cmentarza", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_043_GraveUn_02_body", "source": "Wandering Graveyard Dead", "translation": "Wędrujący nieboszczyk z cmentarza", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_045_DaevaTraitorAssassin_01_body", "source": "Fanatic Enforcer", "translation": "Fanatyczny egzekutor", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_045_FighterF_02_body", "source": "Zikel Follower", "translation": "Wyznawca Zikela", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_045_FighterM_02_body", "source": "Zikel Worshipper", "translation": "Czciciel Zikela", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_046_CitizenF_01_body", "source": "Fanatics' Den Zealot", "translation": "Gorliwiec Siedliska Fanatyków", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_046_CitizenM_01_body", "source": "Fanatics' Den Zealot", "translation": "Gorliwiec Siedliska Fanatyków", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_046_DaevaWar_01_body", "source": "Fanatics' Den Guard", "translation": "Strażnik Siedliska Fanatyków", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_047_OdSpider_02_01_body", "source": "Odyle Spider", "translation": "Pająk Odyle", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_047_OdSpider_02_V01_01_body", "source": "Odyle Spider", "translation": "Pająk Odyle", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_048_DranaMole_01_body", "source": "Cave Drana Mole", "translation": "Kret Drany z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_048_DranaVar_01_body", "source": "Cave Drana Mutant", "translation": "Mutant Drany z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_048_KraoMag_01_body", "source": "Cave Magic Test Subject", "translation": "Obiekt testowy magii z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_048_KraoWar_01_body", "source": "Cave Krao Test Subject", "translation": "Obiekt testowy Krao z jaskini", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_049_GraveGh_01_body", "source": "Wandering Phantom", "translation": "Wędrujący fantom", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_049_GraveGh_Boss_01_body", "source": "Informant Zibro", "translation": "Informator Zibro", "status": "draft"}
+{"id": "String_STR_M_Seal_Altgard_050_Kalgolem_01_body", "source": "Rock Cave Kalgolem", "translation": "Jaskiniowy Kalgolem ze skał", "status": "draft"}

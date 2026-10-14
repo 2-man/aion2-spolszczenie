@@ -1,0 +1,250 @@
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_TITLE_body", "source": "Manage Legion Member", "translation": "Zarządzaj członkiem Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_SETTING_body", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
+{"id": "String_UI_LEGION_STORAGE_HISTORY_body", "source": "Storage Record", "translation": "Historia magazynu", "status": "draft"}
+{"id": "String_UI_LEGION_TABINFO_TAB_MYLEGION_ONBOARDING_INTRO_NONE_body", "source": "No Announcements.", "translation": "Brak ogłoszeń.", "status": "draft"}
+{"id": "String_UI_LEGION_TABINFO_TAB_MYLEGION_TEXT_ESTABLISH_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_LEGION_TABINFO_TAB_MYLEGION_TEXT_LEGION_BUFF_body", "source": "Legion Buff", "translation": "Wzmocnienie Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_TABINFO_TAB_MYLEGION_TEXT_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGION_TABINFO_TAB_MYLEGION_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_AUTHORITY_body", "source": "Authority", "translation": "Uprawnienia", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_EMBLEM_body", "source": "Emblem", "translation": "Herb", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_INTRODUCE_DESC_body", "source": "Displayed in the Legion list and on the Legion main screen (up to 48 characters).", "translation": "Widoczne na liście Legionów i na ekranie głównym Legionu (maks. 48 znaków).", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_INTRODUCE_HINT_body", "source": "You can enter up to 48 characters.", "translation": "Możesz wpisać maksymalnie 48 znaków.", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_INTRODUCE_body", "source": "Introduction", "translation": "Opis", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_NOTICE_DESC_body", "source": "Displayed on the Legion main screen. (Up to 160 characters)", "translation": "Widoczne na ekranie głównym Legionu. (Maks. 160 znaków)", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_NOTICE_HINT_body", "source": "You can enter up to 160 characters.", "translation": "Możesz wpisać maksymalnie 160 znaków.", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_NOTICE_body", "source": "Announcements", "translation": "Ogłoszenia", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_CHECKBUTTON_ACCEPTANCE_body", "source": "Approval", "translation": "Za zgodą", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_CHECKBUTTON_IMMEDIATELY_body", "source": "Immediate", "translation": "Natychmiastowo", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_CHECKBUTTON_PASSWORD_DESC_body", "source": "If the password is not visible, close and reopen the menu again a few moments later.", "translation": "Jeśli hasło nie jest widoczne, zamknij menu i otwórz je ponownie za chwilę.", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_CHECKBUTTON_PASSWORD_body", "source": "Password", "translation": "Hasło", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_DESC_body", "source": "Change legion recruitment settings.", "translation": "Zmień ustawienia naboru do Legionu.", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_OPTION_body", "source": "Application Settings", "translation": "Ustawienia zgłoszeń", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_WITHDRAW_BUTTON_DISBAND_body", "source": "Disband", "translation": "Rozwiąż Legion", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_WITHDRAW_BUTTON_WITHDRAW_body", "source": "Leave", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_WITHDRAW_DESC_body", "source": "The High Commander may only leave the Legion by disbanding it or after reassigning leadership to another member.\nLegion members other than the High Commander may leave without restriction.", "translation": "Głównodowodzący może opuścić Legion tylko po jego rozwiązaniu lub przekazaniu przywództwa innemu członkowi.\nPozostali członkowie mogą opuścić Legion w dowolnym momencie.", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_SUBTITLE_WITHDRAW_body", "source": "Leave / Disband", "translation": "Opuść / rozwiąż", "status": "draft"}
+{"id": "String_UI_LEGION_TABSETTING_TAB_GENERAL_body", "source": "Common", "translation": "Ogólne", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_BENEFIT_CATEGORY_BUFF_body", "source": "Buff Info", "translation": "Informacje o wzmocnieniach", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_BENEFIT_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_BENEFIT_CATEGORY_SELLLIST_body", "source": "Sales List", "translation": "Lista sprzedaży", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_BENEFIT_body", "source": "Benefits", "translation": "Korzyści", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_INFO_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMBER_body", "source": "Members", "translation": "Członkowie", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_GRADE_body", "source": "By Rank", "translation": "Według rangi", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_NAME_body", "source": "Name", "translation": "Nazwa", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_ONLINESTATUS_body", "source": "Online", "translation": "W sieci", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_TOTALPOINT_body", "source": "Total Reputation", "translation": "Łączna reputacja", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_MEMEBER_CATEGORY_WEEKLYPOINT_body", "source": "Weekly Reputation", "translation": "Tygodniowa reputacja", "status": "draft"}
+{"id": "String_UI_LEGION_TAB_SETTING_body", "source": "Manage", "translation": "Zarządzaj", "status": "draft"}
+{"id": "String_UI_LEGION_TITLE_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_LEVELUP_COLLECTION_OPEN_body", "source": "Compendium x{0} unlocked.", "translation": "Odblokowano kompendium x{0}.", "status": "draft"}
+{"id": "String_UI_LEVELUP_CONVERSION_SKILL_OPEN_body", "source": "Acquired Substance Morph skill x{0}.", "translation": "Zdobyto umiejętność Transmutacji substancji x{0}.", "status": "draft"}
+{"id": "String_UI_LEVELUP_EQUIPSLOT_GUIDE_AUTO_CLOSE_body", "source": "Automatically closes in {0} seconds.", "translation": "Automatyczne zamknięcie za {0} s.", "status": "draft"}
+{"id": "String_UI_LEVELUP_EQUIPSLOT_OPEN_body", "source": "Gear slot x{0} unlocked.", "translation": "Odblokowano miejsce na ekwipunek x{0}.", "status": "draft"}
+{"id": "String_UI_LEVELUP_INFO_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_LEVELUP_PCSTAT_TITLE_body", "source": "Level Up Info", "translation": "Informacje o awansie", "status": "draft"}
+{"id": "String_UI_LEVELUP_SKILL_ACQUIRE_SKILL_POINT_body", "source": "Receive {0} Skill Point(s)", "translation": "Otrzymujesz {0} pkt. umiejętności", "status": "draft"}
+{"id": "String_UI_LEVELUP_SKILL_SPECIALIZED_SKILL_SLOT_OPEN_body", "source": "{0} Specialty Skill slot(s) removed.", "translation": "Usunięto {0} slotów umiejętności specjalistycznej.", "status": "draft"}
+{"id": "String_UI_LEVELUP_SKILL_STIGMA_SLOT_MAX_body", "source": "Can register up to {0} Stigma Skills", "translation": "Możesz zarejestrować maksymalnie {0} umiejętności stygmatów", "status": "draft"}
+{"id": "String_UI_LEVELUP_SKILL_STIGMA_SLOT_OPEN_body", "source": "Stigma slot x{0} unlocked.", "translation": "Odblokowano slot stygmatu x{0}.", "status": "draft"}
+{"id": "String_UI_LEVELUP_SUBTITLE_ADD_INFO_body", "source": "Additional Info", "translation": "Dodatkowe informacje", "status": "draft"}
+{"id": "String_UI_LEVELUP_SUBTITLE_ADD_PC_STAT_body", "source": "Stat increase", "translation": "Wzrost statystyk", "status": "draft"}
+{"id": "String_UI_LEVELUP_SUBTITLE_SKILL_AUTO_LEARN_body", "source": "Auto Acquire Skills", "translation": "Automatycznie zdobywane umiejętności", "status": "draft"}
+{"id": "String_UI_LEVELUP_SUBTITLE_SKILL_SLOT_OPEN_body", "source": "New Skill Available", "translation": "Nowa dostępna umiejętność", "status": "draft"}
+{"id": "String_UI_LEVELUP_TITLE_body", "source": "Level Up", "translation": "Awans", "status": "draft"}
+{"id": "String_UI_LOADING_GUIDE_TEXT_body", "source": "Please wait a moment.", "translation": "Chwileczkę.", "status": "draft"}
+{"id": "String_UI_LOBBY_BUTTON_WAIT_CANCEL_body", "source": "Cancel Waiting", "translation": "Anuluj oczekiwanie", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_CANCEL_DELETE_TOOLTIP_body", "source": "Cancel Character Deletion", "translation": "Anuluj usuwanie postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_CHANGENAME_TOOLTIP_body", "source": "Change Character Name", "translation": "Zmień imię postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_DELETE_TOOLTIP_body", "source": "Delete Character", "translation": "Usuń postać", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_POSITION_EDIT_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_POSITION_EDIT_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_POSITION_EDIT_GUIDE_body", "source": "Drag the slot to replace it with another.", "translation": "Przeciągnij slot, aby zamienić go z innym.", "status": "draft"}
+{"id": "String_UI_LOBBY_CHARACTER_POSITION_TOOLTIP_body", "source": "Change Character Location", "translation": "Zmień pozycję postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_CREATECHARACTER_GUIDTEXT_body", "source": "Class outfit is for preview only, it will not be applied in-game.", "translation": "Strój klasy służy tylko do podglądu i nie zostanie zastosowany w grze.", "status": "draft"}
+{"id": "String_UI_LOBBY_CREATECHARACTER_RACE_BUTTON_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
+{"id": "String_UI_LOBBY_CREATECHARACTER_RACE_BUTTON_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
+{"id": "String_UI_LOBBY_CREATECHARACTER_TITLE_body", "source": "Select Class", "translation": "Wybierz klasę", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_BUTTON_ENTRANCE_body", "source": "Enter Server", "translation": "Wejdź na serwer", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_CHECKBUTTON_AVAILABLE_body", "source": "Available", "translation": "Dostępny", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_GUIDETEXT_ACTIVE_body", "source": "Displays the game server activation status at the time of login.\nStatus does not update automatically.", "translation": "Przy logowaniu wyświetla stan aktywności serwera gry.\nStan nie aktualizuje się automatycznie.", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_INTERNAL_MATCHING_body", "source": "Exclusive Matchmaking", "translation": "Dobieranie graczy — tryb specjalny", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_PREGENERATEDCHARACTER_body", "source": "<Pre-register>", "translation": "<Pre-register>", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_SEARCHBAR_HINTTEXT_body", "source": "Enter a search keyword.", "translation": "Wpisz słowo kluczowe do wyszukania.", "status": "draft"}
+{"id": "String_UI_LOBBY_GAMESERVER_LIST_TITLE_body", "source": "Server List", "translation": "Lista serwerów", "status": "draft"}
+{"id": "String_UI_LOBBY_GLOBAL_SERVICE_SERVER_REGION_TITLE_body", "source": "Select Global Server", "translation": "Wybierz serwer globalny", "status": "draft"}
+{"id": "String_UI_LOBBY_LOGIN_POPUP_ACCOUNT_HINTTEXT_body", "source": "Enter the account.", "translation": "Wpisz nazwę konta.", "status": "draft"}
+{"id": "String_UI_LOBBY_LOGIN_SERVER_LIST_TITLE_body", "source": "Server List", "translation": "Lista serwerów", "status": "draft"}
+{"id": "String_UI_LOBBY_LOGIN_SERVER_MAINTENANCE_body", "source": "The server is under maintenance. Please try again later.", "translation": "Serwer jest w trakcie konserwacji. Spróbuj ponownie później.", "status": "draft"}
+{"id": "String_UI_LOBBY_LOGIN_SERVER_NOTINWHITELIST_body", "source": "Server not available for connection.\nConnection to the login server has been denied.", "translation": "Serwer niedostępny.\nPołączenie z serwerem logowania zostało odrzucone.", "status": "draft"}
+{"id": "String_UI_LOBBY_LOGIN_SERVER_UNAUTHORIZED_body", "source": "You do not have permission to access the server.", "translation": "Nie masz uprawnień do dostępu do serwera.", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_CREATE_CONFIRM_body", "source": "Do you want to create a new character?", "translation": "Czy chcesz utworzyć nową postać?", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_CREATE_NO_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_CREATE_OPTION_TUTORIAL_body", "source": "Start the tutorial from the beginning", "translation": "Rozpocznij samouczek od początku", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_CREATE_YES_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_DELETE_POPUP_CANCEL_body", "source": "Are you sure you want to cancel character <Lobby_CharDelete_Point>deletion</>?", "translation": "Czy na pewno chcesz anulować <Lobby_CharDelete_Point>usuwanie</> postaci?", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_DELETE_POPUP_WARNING_body", "source": "<Lobby_CharDelete_Warning>Once the 24-hour grace period expires, it will be impossible to recover your character.</>", "translation": "<Lobby_CharDelete_Warning>Po upływie 24-godzinnego okresu karencji nie będzie można odzyskać postaci.</>", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_DELETE_POPUP_body", "source": "Are you sure you want to <Lobby_CharDelete_Point>delete</> the selected character?\nAny owned items will be deleted alongside the character.", "translation": "Czy na pewno chcesz <Lobby_CharDelete_Point>usunąć</> wybraną postać?\nWszystkie należące do niej przedmioty również zostaną usunięte.", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_DELETE_TAG_body", "source": "<Waiting to be deleted>", "translation": "<Oczekuje na usunięcie>", "status": "draft"}
+{"id": "String_UI_LOBBY_PC_DELETE_WAITTIME_body", "source": "Deleted in {0}", "translation": "Usunięcie za {0}", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_CS_BUTTON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_CS_NOTICE_body", "source": "You may change character name as long as it complies with the Operations Policy.", "translation": "Możesz zmienić imię postaci, jeśli jest zgodne z regulaminem.", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_HINTTEXT_INPUT_GLOBAL_body", "source": "1-12 Letters/Numbers", "translation": "1–12 liter / cyfr", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_HINTTEXT_INPUT_TW_body", "source": "1-12 Letters/Numbers/Traditional Chinese Characters", "translation": "1–12 liter / cyfr / znaków chińskich tradycyjnych", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_HINTTEXT_INPUT_body", "source": "1-12 Letters/Numbers", "translation": "1–12 liter / cyfr", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREGENERATEDCHARACTER_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREGENERATEDCHARACTER_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREGENERATEDCHARACTER_body", "source": "An {0} {2} character will be created on the {1} server. After pressing the confirm button, you will no longer be able to delete the character or change any information, including appearance.\nDo you want to confirm the pre-registration of the character name?", "translation": "Na serwerze {1} zostanie utworzona postać {0} {2}. Po naciśnięciu przycisku potwierdzenia nie będzie można jej usunąć ani zmienić żadnych danych, w tym wyglądu.\nPotwierdzić wstępną rejestrację imienia postaci?", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREREGISTRATION_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREREGISTRATION_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_PREREGISTRATION_body", "source": "Pressing the Confirm button will create the character. Once created, the character cannot be deleted or have any information—including appearance—changed.\nDo you want to finish creating the pre-registration character?", "translation": "Naciśnięcie przycisku potwierdzenia spowoduje utworzenie postaci. Po utworzeniu nie będzie można jej usunąć ani zmienić żadnych danych, w tym wyglądu.\nZakończyć tworzenie postaci z wstępnej rejestracji?", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATENAME_TITLE_body", "source": "Enter Character Name", "translation": "Wpisz imię postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATE_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATE_BUTTON_CONFIRM_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATE_CHARACTER_NAME_body", "source": "Character Name: <Lobby_CharName>{0}</>", "translation": "Imię postaci: <Lobby_CharName>{0}</>", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_CREATE_CONFIRM_body", "source": "Do you want to create a character?", "translation": "Czy chcesz utworzyć postać?", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_LOCK_CREATECHARACTER_SLOT_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_LOCK_CREATECHARACTER_SLOT_body", "source": "Locked slots will be available upon official launch.", "translation": "Zablokowane sloty będą dostępne po oficjalnej premierze.", "status": "draft"}
+{"id": "String_UI_LOBBY_POPUP_TRANSFER_NAME_CONFIRM_body", "source": "Do you wish to use the entered character name?", "translation": "Czy chcesz użyć wpisanego imienia postaci?", "status": "draft"}
+{"id": "String_UI_LOBBY_SECURITY_AUTHENTICATION_FAILED_TRY_AGAIN_body", "source": "Security authentication failed. Please try again.", "translation": "Uwierzytelnianie zabezpieczeń nie powiodło się. Spróbuj ponownie.", "status": "draft"}
+{"id": "String_UI_LOBBY_SECURITY_PURPLE_AUTHENTICATION_FAILED_TRY_AGAIN_body", "source": "Your temporary PURPLE authentication has expired.\nClick on Confirm to return to the title screen.", "translation": "Tymczasowe uwierzytelnienie PURPLE wygasło.\nKliknij Potwierdź, aby wrócić do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_LOBBY_SECURITY_REGISTER_DEVICE_body", "source": "Please register the device.", "translation": "Zarejestruj urządzenie.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_BUTTON_CHANGE_NAME_body", "source": "Change Character Name", "translation": "Zmień imię postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_BUTTON_DELETE_CHARACTER_body", "source": "Delete Character", "translation": "Usuń postać", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_BUTTON_GAME_START_POPUP_BUTTON_COUNFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_BUTTON_GAME_START_POPUP_body", "source": "AION 2 will take flight on 11/19. We'll be with you soon. Thank you for participating in the pre-registration.", "translation": "AION 2 zadebiutuje 19 listopada. Wkrótce do ciebie dołączymy. Dziękujemy za udział we wstępnej rejestracji.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_BUTTON_GAME_START_body", "source": "Start Game", "translation": "Rozpocznij grę", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_Item_Value_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_LEGION_NAME_body", "source": "<{0}>", "translation": "<{0}>", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_LEVEL_VALUE_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_LIST_CREATECHARACTER_body", "source": "Create Character", "translation": "Utwórz postać", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_LIST_LOCKSLOT_POPUP_DESCRIPTION_body", "source": "{0} is required to unlock slots.\n{0} can be purchased from the shop.", "translation": "Do odblokowania slotów potrzebujesz {0}.\n{0} możesz kupić w sklepie.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_LIST_LOCKSLOT_body", "source": "Locked Slot", "translation": "Zablokowany slot", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_TEXT_CREATECHARACTER_body", "source": "Character Creation Date", "translation": "Data utworzenia postaci", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_TEXT_LATEST_ACCESS_DATE_body", "source": "Last Login Date", "translation": "Data ostatniego logowania", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_TEXT_LOCATION_NONE_body", "source": "No Online Record", "translation": "Brak danych o obecności online", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCHARACTER_TITLE_body", "source": "Select Character", "translation": "Wybierz postać", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCLASS_BUTTON_CREATENAME_body", "source": "Enter Name", "translation": "Wpisz imię", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTCLASS_CLASS_body", "source": "Class", "translation": "Klasa", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_BUTTON_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_BUTTON_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_BUTTON_SELECT_RACE_body", "source": "Select Faction", "translation": "Wybierz frakcję", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_GUIDETEXT_ANOTHER_SERVER_body", "source": "The Elyos/Asmodian servers are separated. They cannot meet under normal circumstances.", "translation": "Serwery Elyosów i Asmodian są rozdzielone. W normalnych warunkach nie można się na nich spotkać.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_GUIDETEXT_DARK_body", "source": "Daeva of Asmodae living in the North of Atreia\nA rough, wild, and ambitious faction", "translation": "Daeva z Asmodae, zamieszkujący północną część Atrei.\nSzorstka, dzika i ambitna frakcja.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_GUIDETEXT_LIGHT_body", "source": "Daeva of Elysea living in the South of Atreia\nAn elegant and sacred faction", "translation": "Daeva z Elysei, zamieszkujący południową część Atrei.\nElegancka i święta frakcja.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_PREGENERATEDCHARACTER_POPUP_BUTTON_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_PREGENERATEDCHARACTER_POPUP_body", "source": "Continue to pre-create your character using the faction, server, and character name selected during pre-registration. You can customize the character appearance, but once creation is complete, you cannot change the appearance or delete the character.", "translation": "Kontynuuj wstępne tworzenie postaci z wybraną podczas rejestracji frakcją, serwerem i imieniem. Możesz dostosować wygląd postaci, ale po jej utworzeniu nie będzie można go zmienić ani usunąć postaci.", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_PREGENERATEDCHARACTER_body", "source": "* Pre-registered Character", "translation": "* Postać z wstępnej rejestracji", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTRACE_TITLE_body", "source": "Select Faction", "translation": "Wybierz frakcję", "status": "draft"}
+{"id": "String_UI_LOBBY_SELECTSERVER_TITLE_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
+{"id": "String_UI_LOBBY_WAITCHECK_CHECK_POPUP_TITLE_body", "source": "Checking queue.\nPlease wait just a few moments.", "translation": "Sprawdzanie kolejki.\nProszę chwilę poczekać.", "status": "draft"}
+{"id": "String_UI_LOBBY_WAITCHECK_CONNECT_POPUP_TITLE_body", "source": "Connecting to server.\nPlease wait just a few moments.", "translation": "Łączenie z serwerem.\nProszę chwilę poczekać.", "status": "draft"}
+{"id": "String_UI_LOBBY_WAITCHECK_POPUP_TEXT_body", "source": "To provide a stable play experience, there is a limit to the number of players who can be connected to the game at the same time.\nPlease wait just a few moments.\nYour rank in the queue may be reset if you cancel your wait or the network disconnects for longer than a minute.", "translation": "Aby zapewnić stabilną rozgrywkę, liczba graczy mogących jednocześnie połączyć się z grą jest ograniczona.\nProszę chwilę poczekać.\nTwoje miejsce w kolejce może się zmienić, jeśli anulujesz oczekiwanie lub utracisz połączenie na ponad minutę.", "status": "draft"}
+{"id": "String_UI_LOBBY_WAITCHECK_POPUP_TITLE_body", "source": "Currently {0} player(s) on queue.", "translation": "Aktualna liczba graczy w kolejce: {0}.", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_INTEL_CPU_BTN_CONTINUE_body", "source": "Continue", "translation": "Kontynuuj", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_INTEL_CPU_BTN_INFO_body", "source": "Troubleshoot", "translation": "Rozwiąż problem", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_INTEL_CPU_IGNORE_body", "source": "Do not show again", "translation": "Nie pokazuj ponownie", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_INTEL_CPU_body", "source": "Your system is using an Intel 13th / 14th Gen CPU.\nYou may experience issues such as shader compilation instability, video memory errors, or crashes.\nClick [Troubleshoot] for more information on how to resolve the issue.", "translation": "W systemie jest używany procesor Intel 13. lub 14. generacji.\nMogą wystąpić problemy, takie jak niestabilne kompilowanie shaderów, błędy pamięci wideo lub awarie.\nKliknij [Rozwiąż problem], aby dowiedzieć się, jak usunąć usterkę.", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_KICK_BY_SHUTDOWN_DEVELOPBUILD_body", "source": "The client was not launched properly.", "translation": "Nie udało się prawidłowo uruchomić klienta.", "status": "draft"}
+{"id": "String_UI_LOBBY_WARNING_KICK_BY_SHUTDOWN_body", "source": "The client was not launched properly. Terminating the client.", "translation": "Nie udało się prawidłowo uruchomić klienta. Zamykanie klienta.", "status": "draft"}
+{"id": "String_UI_LOGINTITLE_COPYRIGHT_body", "source": "ⓒ NC Corporation. All Rights Reserved.", "translation": "© NC Corporation. Wszelkie prawa zastrzeżone.", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_BUTTON_NAME_body", "source": "Security Settings", "translation": "Ustawienia zabezpieczeń", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_BUTTON_STATUS_REGISTERED_body", "source": "Registered", "translation": "Zarejestrowano", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_BUTTON_STATUS_STANDBY_body", "source": "Joined", "translation": "Dołączono", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_BUTTON_STATUS_UNREGISTERED_body", "source": "Unregistered", "translation": "Niezarejestrowano", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_GUEST_WARNING_body", "source": "Cannot use the guest account to join the Secure Service.\nPlease switch to PlayNC, Google, or Apple account and try again.\n※ Go to Settings > Miscellaneous > Account to switch accounts.", "translation": "Nie można użyć konta gościa, aby dołączyć do bezpiecznej usługi.\nPrzełącz się na konto PlayNC, Google lub Apple i spróbuj ponownie.\n※ Przejdź do Ustawienia > Różne > Konto, aby zmienić konto.", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_MSGBOX_REGISTRATION_GUIDE_BODY_body", "source": "Device registration information is invalid.\nVerify your identity and register the device to continue playing the game.\n(SMS authentication requires the previously registered phone number)", "translation": "Informacje o rejestracji urządzenia są nieprawidłowe.\nPotwierdź swoją tożsamość i zarejestruj urządzenie, aby kontynuować grę.\n(Uwierzytelnianie SMS wymaga wcześniej zarejestrowanego numeru telefonu)", "status": "draft"}
+{"id": "String_UI_LOGIN_AUTHENTICATION_MSGBOX_SECURITY_GUIDE_BODY_body", "source": "Not registered with security service.\nRegister with the security service and verify your identity to continue playing the game.\n(Requires a phone number for SMS authentication)", "translation": "Brak rejestracji w usłudze zabezpieczeń.\nZarejestruj się w usłudze i potwierdź tożsamość, aby kontynuować grę.\n(Uwierzytelnianie SMS wymaga numeru telefonu)", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_ACCOUNT_body", "source": "Manage Account", "translation": "Zarządzaj kontem", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_CHANGE_RACE_body", "source": "Elyos/Asmodians", "translation": "Elyosi / Asmodianie", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_CHANGE_SERVER_body", "source": "Connected Server", "translation": "Połączony serwer", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_CLOSE_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_CREATE_PLAYNC_body", "source": "Create a PlayNC Account", "translation": "Utwórz konto PlayNC", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_CREDIT_body", "source": "Credits", "translation": "Twórcy", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_FIND_MYCHAR_body", "source": "Find My Character", "translation": "Znajdź moją postać", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_LOGIN_DEVACCOUNT_body", "source": "Account Name Login (Development Only)", "translation": "Logowanie nazwą konta (tylko wersja deweloperska)", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_LOGIN_GUEST_body", "source": "Log in as a Guest account", "translation": "Zaloguj się jako gość", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_LOGIN_LATEST_body", "source": "Log in with the most recent account", "translation": "Zaloguj się na ostatnio używane konto", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_LOGIN_PLAYNC_body", "source": "PlayNC Login", "translation": "Zaloguj się przez PlayNC", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_LOGOUT_body", "source": "Logout", "translation": "Wyloguj", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_MOVE_body", "source": "Move", "translation": "Przenieś", "status": "draft"}
+{"id": "String_UI_LOGIN_BUTTON_RELOGIN_body", "source": "Log in again", "translation": "Zaloguj się ponownie", "status": "draft"}
+{"id": "String_UI_LOGIN_FAIL_LOCKED_ACCOUNT_BY_ADMIN_body", "source": "This account has been restricted based on the Operations Policy. Please check the Customer Center for detailed information.", "translation": "To konto zostało ograniczone zgodnie z regulaminem. Szczegóły znajdziesz w Centrum Obsługi Klienta.", "status": "draft"}
+{"id": "String_UI_LOGIN_FAIL_LOCKED_ACCOUNT_BY_SYSTEM_body", "source": "This account has been temporarily restricted for security. Please check the Customer Center for detailed information.", "translation": "To konto zostało tymczasowo zablokowane ze względów bezpieczeństwa. Szczegóły znajdziesz w Centrum Obsługi Klienta.", "status": "draft"}
+{"id": "String_UI_LOGIN_FAIL_LOCKED_ACCOUNT_BY_TRANSFER_body", "source": "This account is undergoing a server transfer. Please relogin after the transfer completes.", "translation": "Trwa przenoszenie serwera. Zaloguj się ponownie po jego zakończeniu.", "status": "draft"}
+{"id": "String_UI_LOGIN_FAIL_LOCKED_ACCOUNT_body", "source": "This account has been restricted. Please check the Customer Center for detailed information.", "translation": "To konto zostało ograniczone. Szczegóły znajdziesz w Centrum Obsługi Klienta.", "status": "draft"}
+{"id": "String_UI_LOGIN_GUIDETEXT_SCREEN_CLICK_body", "source": "Click the screen", "translation": "Kliknij ekran", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_DUPLICATED_LOGIN_MOBILE_SUBTEXT_body", "source": "Please log in again.", "translation": "Zaloguj się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_DUPLICATED_LOGIN_MOBILE_body", "source": "Account conflict occurred, moving back to title screen.\nPlease log in again.", "translation": "Wykryto konflikt konta. Powrót do ekranu tytułowego.\nZaloguj się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_DUPLICATED_LOGIN_SUBTEXT_body", "source": "Please log in again.", "translation": "Zaloguj się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_DUPLICATED_LOGIN_body", "source": "Account conflict occurred.\nPlease log in again.", "translation": "Wykryto konflikt konta.\nZaloguj się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_DUPLICATED_body", "source": "Duplicate login has occurred.", "translation": "Wykryto równoczesne logowanie na konto.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_LEAVE_ING_body", "source": "This account is being processed for membership cancellation.\nPlease go to the website to cancel your membership cancellation request, or log in with another account.", "translation": "Trwa anulowanie członkostwa na tym koncie.\nAby anulować rezygnację z członkostwa, odwiedź stronę internetową lub zaloguj się na inne konto.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_LEAVE_body", "source": "Membership cancellation has been completed.", "translation": "Anulowanie członkostwa zostało zakończone.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_MAINTENANCE_SUBTEXT_body", "source": "The server is currently under maintenance.\nWe apologize for the inconvenience.", "translation": "Serwer jest obecnie w trakcie konserwacji.\nPrzepraszamy za niedogodności.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_MAINTENANCE_body", "source": "Server maintenance has started.", "translation": "Rozpoczęła się konserwacja serwera.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_CLIENT_CLOSE_SUBTEXT_body", "source": "The client will now close.", "translation": "Klient zostanie teraz zamknięty.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_CLIENT_CLOSE_body", "source": "Disconnected from server.\nThe client will now close.", "translation": "Rozłączono z serwerem.\nKlient zostanie teraz zamknięty.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_GOTO_LOGIN_SUBTEXT_body", "source": "Moving to login screen.", "translation": "Przechodzenie do ekranu logowania.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_GOTO_LOGIN_body", "source": "Disconnected from server.\nMoving to login screen.", "translation": "Rozłączono z serwerem.\nPrzechodzenie do ekranu logowania.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_GOTO_TITLE_SUBTEXT_body", "source": "Moving to title screen.", "translation": "Przechodzenie do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_GOTO_TITLE_body", "source": "Disconnected from server.\nMoving to title screen.", "translation": "Rozłączono z serwerem.\nPowrót do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_ERROR_body", "source": "Disconnected.", "translation": "Rozłączono.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_TRANSFER_SUBTEXT_body", "source": "Please reconnect after server transfer ends.", "translation": "Po zakończeniu przenoszenia serwera połącz się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_KICK_BY_SERVER_TRANSFER_body", "source": "Server Transfer Application has been registered.\nPlease reconnect after server transfer ends.", "translation": "Zarejestrowano wniosek o przeniesienie serwera.\nPo zakończeniu przenoszenia serwera połącz się ponownie.", "status": "draft"}
+{"id": "String_UI_LOGIN_SELECT_GAME_SERVER_DOWN_body", "source": "Cannot connect to the current server.\nPlease try again later.", "translation": "Nie można połączyć się z bieżącym serwerem.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "String_UI_LOGIN_SELECT_GAME_SERVER_MAINTENANCE_body", "source": "This server is under maintenance.", "translation": "Serwer jest w trakcie konserwacji.", "status": "draft"}
+{"id": "String_UI_MAGICSTONE_IMPRINT_PROB_POPUP_GUIDE_body", "source": "Rounded down to the second decimal place.\nDue to rounding differences, the total probability may not equal 100%.", "translation": "Zaokrąglono w dół do dwóch miejsc po przecinku.\nZ powodu zaokrągleń suma prawdopodobieństw może nie wynosić 100%.", "status": "draft"}
+{"id": "String_UI_MAINMENU_CATEGORY_ACTIVITY_body", "source": "Activity", "translation": "Aktywność", "status": "draft"}
+{"id": "String_UI_MAINMENU_CATEGORY_CONTENTS_body", "source": "Content", "translation": "Zawartość", "status": "draft"}
+{"id": "String_UI_MAINMENU_CATEGORY_SEASON_body", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "String_UI_MAINMENU_FIELD_EVENT_body", "source": "Shugo Festival", "translation": "Festiwal Shugo", "status": "draft"}
+{"id": "String_UI_MAINMENU_GROWTH_body", "source": "Growth", "translation": "Rozwój", "status": "draft"}
+{"id": "String_UI_MAINMENU_STAT_body", "source": "Stats", "translation": "Statystyki", "status": "draft"}
+{"id": "String_UI_MAINMENU_TRANSCENDENCE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_MAINMENU_USERINFO_LEGION_NONE_body", "source": "No Legion Joined", "translation": "Nie należy do Legionu", "status": "draft"}
+{"id": "String_UI_MAINMENU_USERINFO_LEGION_TEXT_body", "source": "<{0}>", "translation": "<{0}>", "status": "draft"}
+{"id": "String_UI_MAINMENU_USERINFO_PORTRAIT_INFO_TEXT_body", "source": "[My Character]\nThe character portrait is updated with skins when applying character customization changes.\nWhen changing gear or skins, the portrait is automatically updated and applied during the next login.\nWhen gear or skins are changed through customization (dyeing/patterns), the customization will also be reflected in your character portrait.", "translation": "[Moja postać]\nPortret postaci aktualizuje się o skórki po zastosowaniu zmian personalizacji.\nPo zmianie ekwipunku lub skórek portret zaktualizuje się automatycznie przy następnym logowaniu.\nZmiany wyglądu ekwipunku lub skórek w personalizacji (farbowanie / wzory) również zostaną uwzględnione na portrecie postaci.", "status": "draft"}
+{"id": "String_UI_MAINMENU_USERINFO_TITLE_NONE_body", "source": "<ref style=\"Title_None\" attr=\"color\">No Title Info</>", "translation": "<ref style=\"Title_None\" attr=\"color\">Brak informacji o tytule</>", "status": "draft"}
+{"id": "String_UI_MAINMENU_USERINFO_TITLE_TEXT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_MAINTARGET_CREATURETYPE_FERAL_body", "source": "Fera", "translation": "Fera", "status": "draft"}
+{"id": "String_UI_MAINTARGET_CREATURETYPE_INTELLECT_body", "source": "Cogni", "translation": "Cogni", "status": "draft"}
+{"id": "String_UI_MAINTARGET_CREATURETYPE_NATURE_body", "source": "Natura", "translation": "Natura", "status": "draft"}
+{"id": "String_UI_MAINTARGET_CREATURETYPE_SPECIAL_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_MAINTARGET_CREATURETYPE_TRANS_body", "source": "Varian", "translation": "Varian", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_ADVANCED_body", "source": "Advanced", "translation": "Zaawansowany", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_APPRENTICE_body", "source": "You must acquire a crafting skill.", "translation": "Musisz zdobyć umiejętność rzemieślniczą.", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_BEGINNER_body", "source": "Novice", "translation": "Nowicjusz", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_COMMON_body", "source": "{0} Lv. {1}", "translation": "{0} poz. {1}", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_EXPERT_body", "source": "Expert", "translation": "Ekspert", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_EXP_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_INTERMEDIATE_body", "source": "Professional", "translation": "Profesjonalista", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_MASTER_body", "source": "Artisan", "translation": "Mistrz rzemiosła", "status": "draft"}
+{"id": "String_UI_MASTERYGRADE_NONE_body", "source": "{0} Not Acquired", "translation": "{0} — nie zdobyto", "status": "draft"}
+{"id": "String_UI_MATERIAL_ALTERT_ENCHANTED_ITEM_body", "source": "Includes enhanced or effect-imbued items.", "translation": "Obejmuje wzmocnione lub nasycone efektami przedmioty.", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_ACHIEVEMENT_GROUP_STEP_INFO_DESC_body", "source": "{1} {0} mission(s) completed", "translation": "Ukończono misje: {1} {0}", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_BUTTON_REWARD_RECEIVED_body", "source": "Rewards Received", "translation": "Odebrane nagrody", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_EVENT_PERIOD_body", "source": "Event Period: 07/01/2026 05:00 - Until further notice", "translation": "Okres wydarzenia: 01.07.2026, 05:00 – do odwołania", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_ONGOING_PROGRESS_body", "source": "Membership Pass Progress", "translation": "Postęp Przepustki członkowskiej", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_REMAIN_PERIOD_body", "source": "{0} until Pass period expires", "translation": "Do końca okresu przepustki: {0}", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_STANDBY_COUNT_body", "source": "<{1}> x{0}</>", "translation": "<{1}> x{0}</>", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_STANDBY_TOOLTIP_body", "source": "You will receive a Membership Pass when subscribing or extending the duration of a membership.\nIf you already have an active Membership Pass when you receive a new one, the new pass will be put into Pending status and queued for activation.\nOnce the active pass is completed or expires, the next pass will be activated.", "translation": "Przepustkę członkowską otrzymasz po wykupieniu lub przedłużeniu członkostwa.\nJeśli w chwili otrzymania nowej przepustki masz już aktywną, nowa trafi do kolejki jako oczekująca.\nPo ukończeniu lub wygaśnięciu aktywnej przepustki zostanie uruchomiona kolejna.", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_STANDBY_body", "source": "Pending Membership Pass", "translation": "Oczekująca przepustka członkowska", "status": "draft"}
+{"id": "String_UI_MEMBERSHIPPASS_TITLE_body", "source": "Special Quai Membership Event Pass", "translation": "Specjalna przepustka wydarzenia członkowskiego Quai", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_LIMIT_PER_CLEAR_body", "source": "Max Clear Rewards Count", "translation": "Maksymalna liczba nagród za ukończenie", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_DESC_MENTEE_body", "source": "When a Daeva with a Sprout Badge claims an Odyle Energy Cube reward, the same cube reward count is also distributed to other Daeva in their party or Force.\nThe Sprout Badge is removed upon reaching the following item level or combat power.\n<system_point>※ Event Period: 07/01/2026 - Until further notice</>", "translation": "Daeva z Odznaką Kiełka, odbierając nagrodę z Kostki energii Odyle, przyznaje taką samą liczbę nagród z Kostki innym Daeva w swojej drużynie lub Sojuszu.\nOdznaka Kiełka zostaje usunięta po osiągnięciu wymaganego poziomu przedmiotów lub mocy bojowej.\n<system_point>※ Okres wydarzenia: 01.07.2026 – do odwołania</>", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_DESC_body", "source": "When a Daeva with a Sprout Badge claims an Odyle Energy Cube reward, the same cube reward count is also distributed to other Daeva in their party or Force.\nReward count is reset weekly.\n<system_point>※ Event Period: 07/01/2026 - Until further notice</>", "translation": "Daeva z Odznaką Kiełka, odbierając nagrodę z Kostki energii Odyle, przyznaje taką samą liczbę nagród z Kostki innym Daeva w swojej drużynie lub Sojuszu.\nLiczba nagród resetuje się co tydzień.\n<system_point>※ Okres wydarzenia: 01.07.2026 – do odwołania</>", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_ACTIVE_CONDITION_MEMBERSHIP_body", "source": "Membership Subscription", "translation": "Subskrypcja członkostwa", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_ACTIVE_CONDITION_ONBOARDING_body", "source": "Growth Support [Taking Flight] Active", "translation": "Aktywne wsparcie rozwoju [Wzbij się w przestworza]", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_EXPIRE_CONDITION_body", "source": "End Conditions", "translation": "Warunki zakończenia", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_EXPIRE_DAY_READY_body", "source": "Not Yet Activated", "translation": "Jeszcze nieaktywne", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_EXPIRE_DAY_body", "source": "Until End", "translation": "Do zakończenia", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_REWARD_TITLE_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_MENTEE_body", "source": "Sprout Badge", "translation": "Odznaka Kiełka", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_body", "source": "Sprout Badge Rewards", "translation": "Nagrody: Odznaka Kiełka", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_SERVER_GROUP_TAG_body", "source": "Per Server", "translation": "Na serwer", "status": "draft"}
+{"id": "String_UI_MENTOR_DUNGEON_REWARD_TICKET_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}

@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCWPHLODSetupCommandlets",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "54bcd42a4f3f24c3ffc340af451e4adcab0b18dc9fed7ab386bfd5a4eb295443",
+  "records": 114,
+  "decodedJsonSha256": "501f4e4e8638c24c978bba0be5ce9fb1cffad346d3bb42bb9a8df35417d8529c",
+  "batches": [
+    {
+      "file": "locres-NCWPHLODSetupCommandlets/NCWPHLODSetupCommandlets/0001.jsonl",
+      "count": 114,
+      "category": "NCWPHLODSetupCommandlets"
+    }
+  ]
+}

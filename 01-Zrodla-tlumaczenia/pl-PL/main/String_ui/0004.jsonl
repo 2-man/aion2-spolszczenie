@@ -1,0 +1,250 @@
+{"id": "String_UI_BUFFGROUP_DAEVANION5_DESC_body", "source": "Daevanion Ariel Activation Effects", "translation": "Efekty aktywacji Daevanionu Ariel", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION5_TITLE_body", "source": "Daevanion Ariel Effects", "translation": "Efekty Daevanionu Ariel", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION6_DESC_body", "source": "Daevanion Azphel Activation Effects", "translation": "Efekty aktywacji Daevanionu Azphela", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION6_TITLE_body", "source": "Daevanion Azphel Effects", "translation": "Efekty Daevanionu Azphela", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION7_DESC_body", "source": "Daevanion Marchutan Activation Effects", "translation": "Efekty aktywacji Daevanionu Marchutana", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION7_TITLE_body", "source": "Daevanion Marchutan Effects", "translation": "Efekty Daevanionu Marchutana", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION8_DESC_body", "source": "Daevanion Yustiel Activation Effects", "translation": "Efekty aktywacji Daevanionu Yustiel", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION8_TITLE_body", "source": "Daevanion Yustiel Effects", "translation": "Efekty Daevanionu Yustiel", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION_DESC_body", "source": "Effect granted by acquiring Daevanion nodes", "translation": "Efekt przyznawany za odblokowanie węzłów Daevanionu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_DAEVANION_TITLE_body", "source": "Daevanion Effect", "translation": "Efekt Daevanionu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_GUILD_AGIT_DECO_DESC_body", "source": "Effect granted by decorations within the Pantheon", "translation": "Efekt przyznawany przez dekoracje w Panteonie", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_GUILD_AGIT_DECO_TITLE_body", "source": "Pantheon Decoration Effect", "translation": "Efekt dekoracji Panteonu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_GUILD_BUFF_DESC_body", "source": "Effect granted by achieving certain Legion Levels", "translation": "Efekt przyznawany za osiągnięcie określonych poziomów legionu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_GUILD_BUFF_TITLE_body", "source": "Legion Level Effects", "translation": "Efekty poziomu legionu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_MONOLITH_DESC_body", "source": "Effect granted by Monolith Resonance", "translation": "Efekt przyznawany przez rezonans monolitu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_MONOLITH_TITLE_body", "source": "Monolith Effect", "translation": "Efekt monolitu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PETCOLLECTION_DESC_body", "source": "Effect granted by owning pets", "translation": "Efekt przyznawany za posiadanie wierzchowców", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PETCOLLECTION_TITLE_body", "source": "Pet Owned Effect", "translation": "Efekt posiadania wierzchowca", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_DESC_body", "source": "Effect granted by Pet Genus Insight Analysis", "translation": "Efekt przyznawany za analizę wnikliwości rodzaju wierzchowca", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_FERAL_DESC_body", "source": "Effect granted by Fera Analysis", "translation": "Efekt przyznawany przez analizę Fera", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_FERAL_TITLE_body", "source": "Fera Analysis Effect", "translation": "Efekt analizy Fera", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_INTELLECT_DESC_body", "source": "Effect granted by Cogni Analysis", "translation": "Efekt przyznawany przez analizę Cogni", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_INTELLECT_TITLE_body", "source": "Cogni Analysis Effect", "translation": "Efekt analizy Cogni", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_NATURE_DESC_body", "source": "Effect granted by Natura Analysis", "translation": "Efekt przyznawany przez analizę Natura", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_NATURE_TITLE_body", "source": "Natura Analysis Effect", "translation": "Efekt analizy Natura", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_SPECIAL_DESC_body", "source": "Effect granted by Special Analysis", "translation": "Efekt przyznawany przez analizę specjalną", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_SPECIAL_TITLE_body", "source": "Special Analysis Effect", "translation": "Efekt analizy specjalnej", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_TITLE_body", "source": "Pet Genus Insight Effect", "translation": "Efekt wnikliwości rodzaju wierzchowca", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_TRANS_DESC_body", "source": "Effect granted by Varian Analysis", "translation": "Efekt przyznawany przez analizę Varian", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_PET_TRANS_TITLE_body", "source": "Varian Analysis Effect", "translation": "Efekt analizy Varian", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_ACCESSORY_body", "source": "Accessory Collection Effects", "translation": "Efekty kolekcji akcesoriów", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_ARMOR_body", "source": "Armor Collection Effects", "translation": "Efekty kolekcji zbroi", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_DESC_body", "source": "Effect granted by owning a skin", "translation": "Efekt przyznawany za posiadanie skórki", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_STAT_body", "source": "{0} + {1}", "translation": "{0} + {1}", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_TITLE_body", "source": "Skin Owned Effect", "translation": "Efekt za posiadanie skórki", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_SKINCOLLECTION_WEAPON_body", "source": "Weapon Collection Effect", "translation": "Efekt kolekcji broni", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_TITLE_DESC_body", "source": "Effect granted by equipping and owning titles", "translation": "Efekt przyznawany za założenie i posiadanie tytułów", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_TITLE_EFFECT_body", "source": "Owned Effect", "translation": "Efekt za posiadanie", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_TITLE_EQUIP_EFFECT_body", "source": "Equipped Effect", "translation": "Efekt założenia", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_TITLE_TITLE_body", "source": "Title Effect", "translation": "Efekt tytułu", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_WING_DESC_body", "source": "Effect granted by equipping and collecting wings", "translation": "Efekt przyznawany za założenie i zebranie skrzydeł", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_WING_EFFECT_body", "source": "Owned Effect", "translation": "Efekt za posiadanie", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_WING_EQUIP_EFFECT_body", "source": "Equipped Effect", "translation": "Efekt założenia", "status": "draft"}
+{"id": "String_UI_BUFFGROUP_WING_TITLE_body", "source": "Wings Effect", "translation": "Efekty skrzydeł", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_10000_body", "source": "+10000", "translation": "+10000", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_1000_body", "source": "+1,000", "translation": "+1,000", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_100_body", "source": "+100", "translation": "+100", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_10_body", "source": "+10", "translation": "+10", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_5000_body", "source": "+5000", "translation": "+5000", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_5_body", "source": "+5", "translation": "+5", "status": "draft"}
+{"id": "String_UI_BUY_UNIT_BUTTON_MAX_body", "source": "MAX", "translation": "MAKS.", "status": "draft"}
+{"id": "String_UI_CAMERASETTING_SUBTITLE_EFFECT_body", "source": "Adjustment and Effects", "translation": "Dostosowanie i efekty", "status": "draft"}
+{"id": "String_UI_CAMERASETTING_SUBTITLE_SPEED_body", "source": "Move Speed", "translation": "Szybkość ruchu", "status": "draft"}
+{"id": "String_UI_CAMERASETTING_TITLE_body", "source": "Camera Settings", "translation": "Ustawienia kamery", "status": "draft"}
+{"id": "String_UI_CAPTCHA_POPUP_HINT_DESC_body", "source": "Enter text within the time limit.", "translation": "Wpisz tekst przed upływem czasu.", "status": "draft"}
+{"id": "String_UI_CAPTCHA_POPUP_INFO_DESC_body", "source": "Failing to complete verification will afflict debuffs.\nRepeated abnormal inputs may result in sanctions in accordance with the Operations Policy.", "translation": "Nieukończenie weryfikacji spowoduje nałożenie osłabień.\nPowtarzanie nieprawidłowych wpisów może skutkować karą zgodnie z regulaminem.", "status": "draft"}
+{"id": "String_UI_CAPTCHA_POPUP_INPUT_COUNT_body", "source": "{0} chance(s) remaining", "translation": "Pozostałe próby: {0}", "status": "draft"}
+{"id": "String_UI_CAPTCHA_POPUP_INPUT_DESC_body", "source": "Enter the text you see in the image.", "translation": "Wpisz tekst widoczny na obrazie.", "status": "draft"}
+{"id": "String_UI_CAPTCHA_POPUP_TITLE_body", "source": "Daeva Verification", "translation": "Weryfikacja Daevy", "status": "draft"}
+{"id": "String_UI_CELVICE_TALK_START_body", "source": "Accept Call", "translation": "Odbierz połączenie", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_BUTTON_STAT_body", "source": "Sub Stats", "translation": "Dodatkowe statystyki", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_CHARACTER_INFO_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_CHARACTER_INFO_TEXT_NONE_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_COLLECTION_OPEN_body", "source": "Unlock Compendium x{0}", "translation": "Odblokuj kompendium x{0}", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_CONVERSION_SKILL_OPEN_body", "source": "Substance Morph Skill x{0} Available", "translation": "Dostępna umiejętność Transmutacji substancji x{0}", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_EQUIPSLOT_OPEN_body", "source": "Unlock Gear Slot x{0}", "translation": "Odblokuj miejsce na sprzęt x{0}", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_SKILL_ACQUIRE_SKILL_POINT_body", "source": "Obtain {0} Skill Point(s)", "translation": "Zdobądź {0} pkt umiejętności", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_SKILL_SPECIALIZED_SKILL_SLOT_OPEN_body", "source": "Remove {0} Specialty Skill slot(s)", "translation": "Usuń {0} specjalne miejsce na umiejętność", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_SKILL_STIGMA_SLOT_MAX_body", "source": "Can register up to {0} Stigma Skills", "translation": "Można przypisać maksymalnie {0} umiejętności Stygmatu", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_LEVELUP_SKILL_STIGMA_SLOT_OPEN_body", "source": "Unlock Stigma Slot x{0}", "translation": "Odblokuj miejsce na Stygmat x{0}", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_ROLE_VOTE_DESC_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_ROLE_VOTE_TITLE_body", "source": "Commend Player", "translation": "Pochwal gracza", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_ROLE_VOTE_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_STAT_INFO_ADD_body", "source": "Increased Stats", "translation": "Zwiększone statystyki", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_STAT_INFO_DEFAULT_body", "source": "Default", "translation": "Domyślne", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_STAT_LEFT_RIGHT_ONBOARDING_STAT_NONE_body", "source": "No Stats Applied", "translation": "Nie zastosowano statystyk", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Abnormal_body", "source": "Status Effects", "translation": "Efekty statusu", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Amplify_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Attack_body", "source": "Combat", "translation": "Walka", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Bookmark_body", "source": "Main Ability", "translation": "Główna zdolność", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Defense_body", "source": "Defense", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Left_body", "source": "LEFT", "translation": "LEWA", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Property_body", "source": "Elements", "translation": "Żywioły", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_PvP_body", "source": "PvP", "translation": "PvP", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Race_body", "source": "Genus", "translation": "Gatunek", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Recovery_body", "source": "Resources", "translation": "Zasoby", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Resist_body", "source": "Hit Detection", "translation": "Wykrywanie trafień", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Right_body", "source": "RIGHT", "translation": "PRAWA", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Special_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUBTITLE_Speed_body", "source": "Speed", "translation": "Szybkość", "status": "draft"}
+{"id": "String_UI_CHARACTERSTATUS_SUB_STAT_TITLE_body", "source": "Sub Stats", "translation": "Dodatkowe statystyki", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_CONNECT_BTN_body", "source": "Connect", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_ERROR_POPUP_DESC_LOBBY_body", "source": "Failed to connect with the selected character.\nPlease select a character again.", "translation": "Nie udało się połączyć z wybraną postacią.\nWybierz postać ponownie.", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_ERROR_POPUP_DESC_body", "source": "Failed to connect with the selected character.\nMoving to title screen.", "translation": "Nie udało się połączyć z wybraną postacią.\nPowrót do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_MOUSEOVER_TOOLTIP_body", "source": "Change Character", "translation": "Zmień postać", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_ONLINE_body", "source": "Online", "translation": "W sieci", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_PENDING_DELETION_body", "source": "Deletion Pending", "translation": "Oczekuje na usunięcie", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_QUIT_TIME_POPUP_DESC_body", "source": "Changing characters in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.", "translation": "Zmiana postaci za <Quit_TimeCount>{0}s</>.\nOdliczanie zatrzymuje się podczas walki.", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_QUIT_TIME_POPUP_TITLE_body", "source": "Change Character", "translation": "Zmień postać", "status": "draft"}
+{"id": "String_UI_CHARACTER_CHANGE_TITLE_body", "source": "Change Character", "translation": "Zmień postać", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_BASIC_TAB_body", "source": "Default", "translation": "Domyślne", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_EQUIP_body", "source": "Preview Gear", "translation": "Podgląd wyposażenia", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_GROWTH_SUMMARY_TAB_body", "source": "Progression", "translation": "Postępy", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_LEGION_NONE_body", "source": "No Legion Joined", "translation": "Nie należysz do legionu", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_ROLE_VOTE_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_SKIN_PREVIEW_body", "source": "Preview", "translation": "Podgląd", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_SKIN_body", "source": "Preview Skin", "translation": "Podgląd skórki", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_TITLE_NONE_body", "source": "<ref style=\"Title_None\" attr=\"color\">No Title Info</>", "translation": "<ref style=\"Title_None\" attr=\"color\">Brak informacji o tytule</>", "status": "draft"}
+{"id": "String_UI_CHARACTER_INFO_TITLE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_CHARACTER_PRE_REGISTRATION_CREATECHARACTER_body", "source": "Create New Character", "translation": "Utwórz nową postać", "status": "draft"}
+{"id": "String_UI_CHARACTER_PRE_REGISTRATION_TITLE_body", "source": "Select Pre-registered Character", "translation": "Wybierz wcześniej zarejestrowaną postać", "status": "draft"}
+{"id": "String_UI_CHARACTER_PRE_REGISTRATION_body", "source": "Pre-register", "translation": "Zarejestruj", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_APPLY_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_CONFIRM_body", "source": "Are you sure you wish to change character name?", "translation": "Czy na pewno chcesz zmienić nazwę postaci?", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_POPUP_CAUTION_body", "source": "After being changed, character name cannot be changed again for {0}.\nThe previous character name will be unavailable to you and others for {1} after the change.\nMail that has already been sent will not display the updated character name as the sender.\n(Replies to these mail may not be sent to the correct recipient.)", "translation": "Po zmianie nazwy nie będzie można jej ponownie zmienić przez {0}.\nPoprzednia nazwa postaci będzie niedostępna dla Ciebie i innych przez {1}.\nWysłane wcześniej wiadomości nie będą wyświetlać nowej nazwy postaci jako nadawcy.\n(Odpowiedzi na te wiadomości mogą nie trafić do właściwego odbiorcy.)", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_POPUP_CONFIRM_02_body", "source": "Character name has been changed to <desc_point>[{0}]</>.\nWould you like to continue?", "translation": "Nazwa postaci została zmieniona na <desc_point>[{0}]</>.\nCzy chcesz kontynuować?", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_POPUP_CONFIRM_body", "source": "Character name has been changed to <desc_point>[{0}]</>.", "translation": "Nazwa postaci została zmieniona na <desc_point>[{0}]</>.", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_POPUP_GUIDE_body", "source": "Enter new character name. (1-12 Characters)", "translation": "Wpisz nową nazwę postaci. (1–12 znaków)", "status": "draft"}
+{"id": "String_UI_CHARACTER_RENAME_POPUP_TITLE_body", "source": "Change Character Name", "translation": "Zmień nazwę postaci", "status": "draft"}
+{"id": "String_UI_CHARACTER_STATNAME_REPUTATION_body", "source": "Reputation", "translation": "Reputacja", "status": "draft"}
+{"id": "String_UI_CHARACTER_STORAGE_CUBE_DEFAULT_TITLE_CHARACTER_body", "source": "Character Storage", "translation": "Magazyn postaci", "status": "draft"}
+{"id": "String_UI_CHARACTER_STORAGE_CUBE_DEFAULT_TITLE_body", "source": "Character Storage Cube", "translation": "Kostka magazynu postaci", "status": "draft"}
+{"id": "String_UI_CHARACTER_STORAGE_TITLE_body", "source": "Character Storage", "translation": "Magazyn postaci", "status": "draft"}
+{"id": "String_UI_CHAT_BLOCK_LIST_BUTTON_BLOCK_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_CHAT_BLOCK_LIST_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_CHAT_BLOCK_LIST_ONBOARDING_NONE_body", "source": "No blocked characters.", "translation": "Brak zablokowanych postaci.", "status": "draft"}
+{"id": "String_UI_CHAT_BUTTON_STT_GUIDE_MIC_CLICK_body", "source": "Input voice, and then click the Mic button.", "translation": "Wypowiedz tekst, a następnie kliknij przycisk mikrofonu.", "status": "draft"}
+{"id": "String_UI_CHAT_BUTTON_STT_GUIDE_VOICE_CONVERSION_body", "source": "Converting voice", "translation": "Konwertowanie głosu", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_ADD_FRIEND_body", "source": "Add Friend", "translation": "Dodaj do znajomych", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_BLOCK_body", "source": "Block", "translation": "Zablokuj", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_FORCE_INVITE_body", "source": "Invite to Force", "translation": "Zaproś do sojuszu", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_FRIEND_REQUEST_body", "source": "Friend Request", "translation": "Zaproszenie do znajomych", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_INFO_body", "source": "View Info", "translation": "Wyświetl informacje", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_PARTY_INVITE_body", "source": "Invite to Party", "translation": "Zaproś do drużyny", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_REMOVE_FRIEND_body", "source": "Remove Friend", "translation": "Usuń ze znajomych", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_REPORT_body", "source": "Report", "translation": "Zgłoś", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_INTERACTION_MENU_WHISPER_body", "source": "Whisper", "translation": "Szept", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_BUILD_COMMANDER_body", "source": "Command", "translation": "Rozkaz", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_FIELD_EVENT_body", "source": "Event", "translation": "Wydarzenie", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_FORCE_ALERT_body", "source": "Force Notification", "translation": "Powiadomienie sojuszu", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_FORCE_body", "source": "Force", "translation": "Sojusz", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_LEGION_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_MASTER_body", "source": "Master", "translation": "Mistrz", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_NORMAL_body", "source": "Common", "translation": "Ogólny", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_PARTYDUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_PARTY_body", "source": "Party", "translation": "Drużyna", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_SERVER_body", "source": "Faction", "translation": "Frakcja", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_SHOUT_body", "source": "Shout", "translation": "Okrzyk", "status": "draft"}
+{"id": "String_UI_CHAT_CONTEXT_TYPE_WHISPER_body", "source": "Whisper", "translation": "Szept", "status": "draft"}
+{"id": "String_UI_CHAT_FLOATING_TEXT_NEW_MESSAGE_body", "source": "New Message", "translation": "Nowa wiadomość", "status": "draft"}
+{"id": "String_UI_CHAT_HINTTEXT_INPUT_body", "source": "Enter your message.", "translation": "Wpisz wiadomość.", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_MASTER_CHARGED_body", "source": "Use {0} Diamond(s) to chat", "translation": "Użyj {0} diamentów, aby pisać na czacie", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_MASTER_FREE_body", "source": "Free Count: {0}/{1}", "translation": "Darmowe wiadomości: {0}/{1}", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_MASTER_MIN_LEVEL_body", "source": "Available to Level {0} or Higher", "translation": "Dostępne od poziomu {0}", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_PLATFORM_DISCONNECT_body", "source": "Chat unavailable due to platform disconnection.", "translation": "Czat niedostępny z powodu rozłączenia z platformą.", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_SERVER_MIN_LEVEL_body", "source": "Available to Level {0} or Higher", "translation": "Dostępne od poziomu {0}", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_SYSTEM_BATTLE_TAB_DISABLE_body", "source": "Cannot chat in this tab.", "translation": "Nie możesz pisać na tej karcie.", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_WHISPER_AFTER_TARGET_body", "source": "To {0}", "translation": "Do {0}", "status": "draft"}
+{"id": "String_UI_CHAT_INPUT_BOX_HINTTEXT_WHISPER_BEFORE_TARGET_body", "source": "Enter the whisper target.", "translation": "Wpisz odbiorcę szeptu.", "status": "draft"}
+{"id": "String_UI_CHAT_MULTICHAT_BUTTON_body", "source": "Pop-Up Mode", "translation": "Tryb wyskakującego okna", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_DETAIL_INITIAL_body", "source": "Please enter detailed information. (Max {0} characters)", "translation": "Wpisz szczegóły. (Maks. {0} znaków)", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_DETAIL_body", "source": "Additional Explanation", "translation": "Dodatkowe wyjaśnienie", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_MESSAGE_body", "source": "Report Details", "translation": "Szczegóły zgłoszenia", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_PLAYERNAME_body", "source": "Reported Player", "translation": "Zgłaszany gracz", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_REASON_AD_body", "source": "Advertising", "translation": "Reklama", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_REASON_SEXUAL_body", "source": "Obscene Content", "translation": "Treści obsceniczne", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_REASON_SPAM_body", "source": "Spam", "translation": "Spam", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_REASON_SWEARING_body", "source": "Abusive Language", "translation": "Obraźliwy język", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_REASON_body", "source": "Report Reason", "translation": "Powód zgłoszenia", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_TITLE_body", "source": "Report Message", "translation": "Zgłoś wiadomość", "status": "draft"}
+{"id": "String_UI_CHAT_REPORT_WARNING_body", "source": "You may be penalized for reporting messages irrelevant to the Report Reason given.\nThe person you report will be automatically banned from chatting.", "translation": "Zgłaszanie wiadomości niezwiązanych z podanym powodem może skutkować karą.\nZgłoszony gracz zostanie automatycznie zablokowany na czacie.", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_DIALOGUE_BUTTON_RESET_ALL_body", "source": "All Settings", "translation": "Wszystkie ustawienia", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_DIALOGUE_BUTTON_RESET_APPLY_body", "source": "Current Settings", "translation": "Bieżące ustawienia", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_DIALOGUE_SUBTITLE_body", "source": "Selecting All Settings will reset to default.\nSelecting Current Settings will reset the selected tab settings.", "translation": "Wybranie „Wszystkie ustawienia” przywróci wartości domyślne.\nWybranie „Bieżące ustawienia” zresetuje ustawienia wybranej karty.", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_DIALOGUE_TITLE_body", "source": "Reset chat settings?", "translation": "Zresetować ustawienia czatu?", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_AUTO_TRANSLATION_body", "source": "Auto Translate", "translation": "Automatyczne tłumaczenie", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_OUTPUT_TIME_body", "source": "Chat duration", "translation": "Czas wyświetlania czatu", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_HHMMSS_body", "source": "15:30:01", "translation": "15:30:01", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_HHMM_body", "source": "15:30", "translation": "15:30", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_NONE_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_STAMP_DISPLAY_OPTION_body", "source": "Time Display", "translation": "Wyświetlanie czasu", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_STAMP_LOCAL_body", "source": "Local [LT]", "translation": "Lokalny [LT]", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_STAMP_SERVER_body", "source": "Server [ST]", "translation": "Serwerowy [ST]", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_CHAT_TIME_STAMP_body", "source": "Display Time", "translation": "Wyświetlaj godzinę", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_FILTER_body", "source": "Filter", "translation": "Filtr", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_RENAME_body", "source": "Change Name", "translation": "Zmień nazwę", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_SELECT_TAB_body", "source": "Select Tab", "translation": "Wybierz kartę", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_SUBTITLE_TAB_ICON_body", "source": "Tab Icon", "translation": "Ikona karty", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_TAB_BLOCK_LIST_body", "source": "Blocked List", "translation": "Lista zablokowanych", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_TAB_SETTING_SUBTITLE_SETTING_body", "source": "Tab Settings", "translation": "Ustawienia karty", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_TAB_SETTING_body", "source": "Default Settings", "translation": "Ustawienia domyślne", "status": "draft"}
+{"id": "String_UI_CHAT_SETTING_TITLE_body", "source": "Chat Settings", "translation": "Ustawienia czatu", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_ALL_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_BUILDCOMMANDER_body", "source": "Command", "translation": "Rozkaz", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_COMBAT_body", "source": "Combat", "translation": "Walka", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_COMMON_body", "source": "Common", "translation": "Ogólny", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_COMMUNICATION_body", "source": "Communication", "translation": "Komunikacja", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_EXCHANGE_body", "source": "Trading", "translation": "Handel", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_FORCE_body", "source": "Force", "translation": "Sojusz", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_LEGION_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_MEETING_body", "source": "Meeting", "translation": "Spotkanie", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_PARTY_DUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_PARTY_body", "source": "Party", "translation": "Drużyna", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_SERVER_body", "source": "Faction", "translation": "Frakcja", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_SYSTEM_body", "source": "System", "translation": "System", "status": "draft"}
+{"id": "String_UI_CHAT_TITLE_WHISPER_body", "source": "Whisper", "translation": "Szept", "status": "draft"}
+{"id": "String_UI_CHAT_WHISPER_RECEIVE_PLAYER_body", "source": "Whisper from {0}", "translation": "Szept od {0}", "status": "draft"}
+{"id": "String_UI_CHAT_WHISPER_SEND_PLAYER_body", "source": "Whisper to {0}", "translation": "Szept do {0}", "status": "draft"}
+{"id": "String_UI_CLASS_SELECT_ARMOR_TOOLTIP_body", "source": "Default outfit will be applied at game start.", "translation": "Na początku gry zostanie zastosowany domyślny strój.", "status": "draft"}
+{"id": "String_UI_COINSHOP_ITEM_PRICE_FREE_body", "source": "Complimentary", "translation": "Bezpłatnie", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_ABYSS_RANK01_body", "source": "Requires {0} or higher", "translation": "Wymaga rangi {0} lub wyższej", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_ABYSS_RANK02_body", "source": "Achieved {0}", "translation": "Osiągnięto: {0}", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_ABYSS_RANK_ALL_body", "source": "Rank - All", "translation": "Ranga – wszystkie", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_ABYSS_RANK_CLASS_body", "source": "Class Rank", "translation": "Ranga klasy", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_BATTLEPASS_body", "source": "{0} Purchase Required", "translation": "Wymagany zakup: {0}", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_BOSSCHALLENGE_LEVEL_body", "source": "Complete Nightmare: [{0}] Level {1}", "translation": "Ukończ Koszmar: [{0}], poziom {1}", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_CHARACTER_LEVEL_body", "source": "Character Lv. {0} or above", "translation": "Poziom postaci {0} lub wyższy", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_GUILD_LEVEL_body", "source": "Legion Lv. {0} or above", "translation": "Poziom legionu {0} lub wyższy", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_INFO1_body", "source": "Purchase Available", "translation": "Dostępny zakup", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_INFO2_body", "source": "Available at Character Lv. {0} or above", "translation": "Dostępne od poziomu postaci {0}", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_INFO3_body", "source": "Available at Character Lv. {0} or above", "translation": "Dostępne od poziomu postaci {0}", "status": "draft"}
+{"id": "String_UI_COINSHOP_LIMITED_SUBSCRIBE_body", "source": "Special Quai Membership required", "translation": "Wymagane specjalne członkostwo Quai", "status": "draft"}
+{"id": "String_UI_COINSHOP_SALE_DATE_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_COINSHOP_STEPUP_ITEM_SOLD_OUT_body", "source": "Sold Out", "translation": "Wyprzedano", "status": "draft"}
+{"id": "String_UI_COINSHOP_STEPUP_LIST_TITLE_body", "source": "Linked Products List", "translation": "Lista powiązanych produktów", "status": "draft"}
+{"id": "String_UI_COINSHOP_STEPUP_STEP_INFO_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_COINSHOP_TAG_SEASON2_body", "source": "Season 2", "translation": "Sezon 2", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_ABYSS_body", "source": "Trade Shop", "translation": "Sklep wymiany", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_ARENA_body", "source": "Trade Shop", "translation": "Sklep wymiany", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_BATTLEFIELD_body", "source": "Trade Shop", "translation": "Sklep wymiany", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_BATTLEPASS_body", "source": "Pass Shop", "translation": "Sklep przepustki", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_ACCESSORY_body", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_ARMOR_body", "source": "Armor", "translation": "Zbroja", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_BATTLEPASS_ENCORE_1_body", "source": "Returning", "translation": "Powracające", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_BATTLEPASS_SEASON_1_body", "source": "Season 1", "translation": "Sezon 1", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_BATTLEPASS_SEASON_2_body", "source": "Season 2", "translation": "Sezon 2", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_BATTLEPASS_SEASON_3_body", "source": "Season 3", "translation": "Sezon 3", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_BATTLEPASS_SEASON_4_body", "source": "Chapter 1", "translation": "Rozdział 1", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_CRAFTMISC_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_EQUIPENCHANT_body", "source": "Enhancement", "translation": "Ulepszenia", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_EQUIP_body", "source": "Gear", "translation": "Wyposażenie", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_ETC_body", "source": "Special", "translation": "Specjalne", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_LEGION_body", "source": "Artwork", "translation": "Grafiki", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_MEDAL_body", "source": "Medal", "translation": "Medal", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_MISC_body", "source": "Consumables", "translation": "Przedmioty użytkowe", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_RUNE_body", "source": "Rune", "translation": "Runy", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_ACCESSORY_body", "source": "Skin: Accessory", "translation": "Skórka: akcesorium", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_ARMOR_body", "source": "Skin: Armor", "translation": "Skórka: zbroja", "status": "draft"}
+{"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_WEAPON_body", "source": "Skin: Weapon", "translation": "Skórka: broń", "status": "draft"}

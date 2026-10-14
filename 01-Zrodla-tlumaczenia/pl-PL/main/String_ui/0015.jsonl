@@ -1,0 +1,250 @@
+{"id": "String_UI_HUD_KEYGUIDE_DESC_MOVE_RIDE_body", "source": "Mount", "translation": "Wsiądź", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_OPEN_body", "source": "Open chest", "translation": "Otwórz skrzynię", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_OPERATION_body", "source": "Action", "translation": "Akcja", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_REST_body", "source": "Rest", "translation": "Odpocznij", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_RIGHTMOVE_body", "source": "Right", "translation": "W prawo", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_SOCIALACTION_body", "source": "Emote: {0}", "translation": "Emotka: {0}", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_DASH_body", "source": "Quick Swim", "translation": "Szybko pływaj", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_DOWN_body", "source": "Descend (Hold)", "translation": "Zejdź (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_UP_body", "source": "Ascend (Hold)", "translation": "Wznieś się (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_TALK_body", "source": "Talk", "translation": "Rozmawiaj", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_USE_body", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_HOLD_TEXT_body", "source": "HOLD", "translation": "PRZYTRZYMAJ", "status": "draft"}
+{"id": "String_UI_HUD_LEVEL_EXP_NUMBER_TITLE_body", "source": "Level EXP", "translation": "PD poziomu", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ARCANA_body", "source": "Arcana", "translation": "Arkana", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ARENA_body", "source": "Arena", "translation": "Arena", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ATTENDANCE_body", "source": "Attendance", "translation": "Obecność", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_BATTLEFIELD_body", "source": "Battlefield", "translation": "Pole bitwy", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_BATTLEPASS_body", "source": "Subscribe", "translation": "Subskrybuj", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_COMMUNITY_body", "source": "Community", "translation": "Społeczność", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_CUSTOMIZE_body", "source": "Customization Market", "translation": "Rynek personalizacji", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_GUIDEBOOK_body", "source": "Guidebook", "translation": "Poradnik", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_OFFICIALWEBSITE_body", "source": "Official Website", "translation": "Oficjalna strona", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_SCREENSHOT_body", "source": "Screenshot", "translation": "Zrzut ekranu", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_TOOLTIP_VIDEO_body", "source": "Video Capture", "translation": "Nagrywanie wideo", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_COMMUNITY_body", "source": "Manage Friends", "translation": "Zarządzaj znajomymi", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_CONVERSION_body", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_CRAFTSKILL_body", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_CUBE_body", "source": "Cube", "translation": "Ekwipunek", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_CUSTOMIZE_body", "source": "Customization", "translation": "Personalizacja", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_DAEVANION_body", "source": "Daevanion", "translation": "Daevanion", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_DAMAGEANALYZER_body", "source": "Combat Analysis", "translation": "Analiza walki", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_EMBLEM_body", "source": "Seals", "translation": "Pieczęcie", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ENCHANT_body", "source": "Enhancement", "translation": "Ulepszenia", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_GAME_RATING_body", "source": "Rating", "translation": "Ocena", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_GATHERSKILL_body", "source": "Essence Extraction", "translation": "Pozyskiwanie esencji", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_HUD_EDIT_TOOLTIP_body", "source": "Edit HUD", "translation": "Edytuj HUD", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ITEMCOLLECTION_body", "source": "Holy Artifact", "translation": "Święty artefakt", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ITEM_RECOVERY_body", "source": "Recover Item", "translation": "Odzyskaj przedmiot", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_JOURNAL_body", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_LEGION_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_LOGOUT_body", "source": "Logout", "translation": "Wyloguj", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_ONBOARDING_body", "source": "Growth Support", "translation": "Wsparcie rozwoju", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_PANTHEON_body", "source": "Pantheon", "translation": "Panteon", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_PARTYDUNGEON_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_PERIOD_COLLECTION_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_POST_body", "source": "Mail", "translation": "Poczta", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_POWER_SAVING_MODE_body", "source": "Sleep Mode", "translation": "Tryb uśpienia", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_QUIT_GAME_body", "source": "Exit Game", "translation": "Wyjdź z gry", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_RAID_body", "source": "Sanctuary", "translation": "Sanktuarium", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_RANKING_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_REPORT_body", "source": "Report", "translation": "Zgłoś", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_SELECT_CHARACTER_body", "source": "Select Character", "translation": "Wybierz postać", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_SETTING_body", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_SHOP_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_SKILL_body", "source": "Skills", "translation": "Umiejętności", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_STATINFO_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_TITLE_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_TRADE_body", "source": "Market", "translation": "Rynek", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_WING_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_HUD_MAINMENU_BUTTON_WORLD_TRADE_body", "source": "World Market", "translation": "Rynek światowy", "status": "draft"}
+{"id": "String_UI_HUD_MARKER_QUICK_BIND_body", "source": "Quick Assign", "translation": "Szybkie przypisanie", "status": "draft"}
+{"id": "String_UI_HUD_MENU_HELPER_body", "source": "Demonstration Assistant", "translation": "Asystent demonstracji", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_KISK_TOOLTIP_TITLE_body", "source": "Kisk", "translation": "Kisk", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_LIST_FILTER_TOOLTIP_TITLE_body", "source": "Minimap Filter Settings", "translation": "Ustawienia filtrów minimapy", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_MONSTERCUBE_TOOLTIP_TITLE_body", "source": "Monster Cube", "translation": "Kostka potworów", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_NPCLIST_TOOLTIP_TITLE_body", "source": "Village Guide", "translation": "Przewodnik po wiosce", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_PARTYDUNGEON_CHALLENGE_TOOLTIP_TITLE_01_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_PARTYDUNGEON_CHALLENGE_TOOLTIP_TITLE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_PARTYDUNGEON_TOOLTIP_TITLE_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_RAIDDUNGEON_TOOLTIP_TITLE_body", "source": "Sanctuary", "translation": "Sanktuarium", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_GAMETIME_TIME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_GAMETIME_body", "source": "Game", "translation": "Gra", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_LOCALTIME_body", "source": "Local [LT]", "translation": "Lokalny [LT]", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_SERVERTIME_LOCALTIME_body", "source": "[ST] {0}  [LT] {1}", "translation": "[ST] {0}  [LT] {1}", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_SERVERTIME_TIME_body", "source": "[ST] {0}", "translation": "[ST] {0}", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_SERVERTIME_body", "source": "Server [ST]", "translation": "Serwerowy [ST]", "status": "draft"}
+{"id": "String_UI_HUD_MINIMAP_TIME_TOOLTIP_TEXT_body", "source": "*Schedule for all content is displayed in server time.", "translation": "* Harmonogram wszystkich aktywności jest wyświetlany według czasu serwera.", "status": "draft"}
+{"id": "String_UI_HUD_MOBILE_ACTIONBUTTON_ACTIVATESKILL_TEXT_body", "source": "Throw", "translation": "Rzuć", "status": "draft"}
+{"id": "String_UI_HUD_MOBILE_ACTIONBUTTON_LOOTING_TEXT_body", "source": "Pick up", "translation": "Podnieś", "status": "draft"}
+{"id": "String_UI_HUD_OBJECTTOOLTIP_GATHER_MASTERY_GRADE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_OBJECTTOOLTIP_MONSTER_AGGRESIVEMONSTER_body", "source": "Aggressive", "translation": "Agresywny", "status": "draft"}
+{"id": "String_UI_HUD_OBJECTTOOLTIP_MONSTER_GRADE_body", "source": "{0} Grade", "translation": "Ranga {0}", "status": "draft"}
+{"id": "String_UI_HUD_PARTYINVITE_BUTTON_ACCEPT_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_HUD_PARTYINVITE_BUTTON_DENY_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_HUD_PARTYINVITE_TEXT_AUTO_DENY_body", "source": "Automatically declining in {0}s", "translation": "Automatyczne odrzucenie za {0}s", "status": "draft"}
+{"id": "String_UI_HUD_POTION_AUTOUSE_DESC_body", "source": "All designated potions have been exhausted.", "translation": "Wszystkie wskazane mikstury zostały zużyte.", "status": "draft"}
+{"id": "String_UI_HUD_PRODUCTION_GET_ADD_TEXT_body", "source": "Additional Gain: {0}({1})", "translation": "Dodatkowo zdobyto: {0}({1})", "status": "draft"}
+{"id": "String_UI_HUD_PRODUCTION_GET_BASIC_TEXT_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
+{"id": "String_UI_HUD_PRODUCTION_GET_FAIL_REWARD_TEXT_body", "source": "Failure Compensation: {0}({1})", "translation": "Rekompensata za niepowodzenie: {0}({1})", "status": "draft"}
+{"id": "String_UI_HUD_PRODUCTION_GET_RETURN_TEXT_body", "source": "Material Return: {0}({1})", "translation": "Zwrot materiałów: {0}({1})", "status": "draft"}
+{"id": "String_UI_HUD_QUEST_ONBOARDING_QUEST_NONE_body", "source": "No registered quests", "translation": "Brak zarejestrowanych zadań", "status": "draft"}
+{"id": "String_UI_HUD_QUICKSLOT_TOOLTIP_TEXT_NO_COLOR_body", "source": "{0} {1}", "translation": "{0} {1}", "status": "draft"}
+{"id": "String_UI_HUD_QUICKSLOT_TOOLTIP_TEXT_body", "source": "{0} <{1}>{2}</>", "translation": "{0} <{1}>{2}</>", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_BUTTON_ENTER_body", "source": "Request to Join", "translation": "Prośba o dołączenie", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_CONDITION_ACHIVEMENTGROUP_body", "source": "All {0} Achievements Clear", "translation": "Ukończono wszystkie osiągnięcia: {0}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_CONDITION_COMBAT_VALUE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_CONDITION_ITEMLEVEL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_CONDITION_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_CONDITION_TITLE_body", "source": "Participation Conditions", "translation": "Warunki uczestnictwa", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_DEADLINE_body", "source": "Registration ends in {0}", "translation": "Koniec rejestracji za {0}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_MEMBER_DESC_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_MEMBER_TITLE_body", "source": "Participants", "translation": "Uczestnicy", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_TIME_LIMIT_TITLE_body", "source": "Time Limit", "translation": "Limit czasu", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_TIME_REMAIN_TITLE_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_ENTRY_UNABLE_ANNOUNCE_body", "source": "Domination will take place in {0}.", "translation": "Dominacja rozpocznie się za {0}.", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_EVENT_SCORE_FAIL_body", "source": "Failure", "translation": "Niepowodzenie", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_EVENT_SCORE_SUCCESS_body", "source": "Success", "translation": "Sukces", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_INFO_CONTENTS_TICKET_TITLE_body", "source": "Participant Count", "translation": "Liczba uczestników", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_START_CONDITION_DESC_body", "source": "At least {0} participant(s) on each team", "translation": "Co najmniej {0} uczestników w każdej drużynie", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_START_CONDITION_TITLE_body", "source": "Event Start Conditions", "translation": "Warunki rozpoczęcia wydarzenia", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_STEPINFO_OBJ_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_STEPINFO_TITLE_ATTACK_body", "source": "Attacking Team Mission", "translation": "Cel drużyny atakującej", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_STEPINFO_TITLE_DEFENSE_body", "source": "Defending Team Mission", "translation": "Cel drużyny broniącej", "status": "draft"}
+{"id": "String_UI_HUD_RIFTEVENT_TIME_STATE_READY_body", "source": "Until Domination Starts", "translation": "Do rozpoczęcia dominacji", "status": "draft"}
+{"id": "String_UI_HUD_RIFTPOPUP_RIFTEVENT_ANNOUNCE_body", "source": "{1} will soon open at {0}.", "translation": "{1} wkrótce otworzy się o {0}.", "status": "draft"}
+{"id": "String_UI_HUD_SCAN_LIST_MINE_body", "source": "My Scan", "translation": "Moje skanowanie", "status": "draft"}
+{"id": "String_UI_HUD_SCAN_LIST_PARTYLEADER_body", "source": "Party Leader's Scan", "translation": "Skanowanie lidera drużyny", "status": "draft"}
+{"id": "String_UI_HUD_SCAN_ONBOARDING_TARGET_NONE_body", "source": "No targets to recommend.", "translation": "Brak sugerowanych celów.", "status": "draft"}
+{"id": "String_UI_HUD_SCAN_QUICKMENU_MENU_DISTANCE_body", "source": "By Distance", "translation": "Według odległości", "status": "draft"}
+{"id": "String_UI_HUD_SCAN_QUICKMENU_MENU_PRIORITY_body", "source": "By Priority", "translation": "Według priorytetu", "status": "draft"}
+{"id": "String_UI_HUD_SCREENMSG_DISCOVER_NEW_REGION_body", "source": "A new region has been discovered.", "translation": "Odkryto nowy region.", "status": "draft"}
+{"id": "String_UI_HUD_SCREENMSG_SKILLACQUIRE_TEXT_SKILLACQUIRE_body", "source": "Skill Acquired", "translation": "Zdobyto umiejętność", "status": "draft"}
+{"id": "String_UI_HUD_SEASON_ABYSS_POINT_LIMIT_TOOLTIP_TEXT_body", "source": "The limit for Abyss Points that can be gained through PvE and PvP during a season.\nOnce the season limit has been reached, you cannot earn more points through PvE or PvP even if the weekly limit has not been reached.\nAbyss Points earned through Supply Request, quests, or other sources do not count towards the limit.\nYou can continue earning Abyss Rank points regardless of this point limit.", "translation": "Limit punktów Otchłani zdobywanych w PvE i PvP w danym sezonie.\nPo osiągnięciu limitu sezonowego nie można zdobywać kolejnych punktów w PvE ani PvP, nawet jeśli limit tygodniowy nie został wyczerpany.\nPunkty Otchłani zdobyte za zlecenia zaopatrzeniowe, zadania i inne aktywności nie wliczają się do limitu.\nPunkty rangi Otchłani można zdobywać niezależnie od tego limitu.", "status": "draft"}
+{"id": "String_UI_HUD_SEASON_ABYSS_POINT_LIMIT_TOOLTIP_TITLE_body", "source": "Season Total Gain Limit", "translation": "Łączny limit zdobycia w sezonie", "status": "draft"}
+{"id": "String_UI_HUD_SEASON_ABYSS_POINT_PENALTY_TOOLTIP_body", "source": "* Season limit has been reached.\n* Abyss Points obtainable through PvP and PVE will be reduced by {0}%.\n* Excess Season Abyss Points Acquired: {1}", "translation": "* Osiągnięto limit sezonowy.\n* Liczba punktów Otchłani zdobywanych w PvP i PvE zostanie zmniejszona o {0}%.\n* Nadwyżka zdobytych punktów Otchłani w sezonie: {1}", "status": "draft"}
+{"id": "String_UI_HUD_SEASON_AVAILABLE_AMOUNT_ABYSS_POINT_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_SEASON_AVAILABLE_AMOUNT_ABYSS_POINT_body", "source": "Season Total Gain Limit", "translation": "Łączny limit zdobycia w sezonie", "status": "draft"}
+{"id": "String_UI_HUD_SHORTCUT_FOUNDERS_PACK_body", "source": "Claim Product", "translation": "Odbierz produkt", "status": "draft"}
+{"id": "String_UI_HUD_TAB_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_HUD_TAB_DUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_HUD_TAB_EVENT_body", "source": "Event", "translation": "Wydarzenie", "status": "draft"}
+{"id": "String_UI_HUD_TAB_QUEST_body", "source": "Quest", "translation": "Zadanie", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_AUTOCHASE_CANCEL_body", "source": "Stop Following", "translation": "Przestań podążać", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_AUTOCHASE_body", "source": "Follow", "translation": "Podążaj", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_CHANNEL_body", "source": "Follow Channel", "translation": "Dołącz do kanału", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_DUEL_body", "source": "Request Duel", "translation": "Poproś o pojedynek", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_FORCEINVITE_body", "source": "Invite to Force", "translation": "Zaproś do sojuszu", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_PARTYINVITE_body", "source": "Invite to Party", "translation": "Zaproś do drużyny", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_REPORT_body", "source": "Report", "translation": "Zgłoś", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_TARGETMARKER_BIND_body", "source": "Marker", "translation": "Znacznik", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_TARGETMARKER_RECENT_body", "source": "Recent Markers", "translation": "Ostatnie znaczniki", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_CONTEXT_INTERACTION_MENU_TARGETMARKER_UNBIND_body", "source": "Remove Marker", "translation": "Usuń znacznik", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TARGETMARKER_TITLE_body", "source": "Marker", "translation": "Znacznik", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_ADD_FRIEND_body", "source": "Add Friend", "translation": "Dodaj do znajomych", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_AUTOCHASE_CANCEL_body", "source": "Cancel Follow", "translation": "Anuluj podążanie", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_AUTOCHASE_body", "source": "Follow", "translation": "Podążaj", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_DUEL_body", "source": "Request Duel", "translation": "Poproś o pojedynek", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_EXCHANGE_REQUEST_body", "source": "Trade Request", "translation": "Poproś o handel", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_FORCE_INVITE_body", "source": "Invite to Force", "translation": "Zaproś do sojuszu", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_INFO_body", "source": "View Info", "translation": "Wyświetl informacje", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_PARTY_INVITE_body", "source": "Invite to Party", "translation": "Zaproś do drużyny", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_REMOVE_FRIEND_body", "source": "Remove Friend", "translation": "Usuń ze znajomych", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_MENU_TEXT_TARGETMARKER_body", "source": "Marker", "translation": "Znacznik", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_PCINTERACTION_ADD_FRIEND_body", "source": "Add Friend", "translation": "Dodaj do znajomych", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_PCINTERACTION_INFO_body", "source": "View Info", "translation": "Wyświetl informacje", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_PCINTERACTION_REMOVE_FRIEND_body", "source": "Remove Friend", "translation": "Usuń ze znajomych", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_TAG_MANNER_body", "source": "MANNER", "translation": "MANIERA", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_TEXT_ALTITUDE_body", "source": "Altitude", "translation": "Wysokość", "status": "draft"}
+{"id": "String_UI_HUD_TARGETINFO_TEXT_DISTANCE_body", "source": "Distance", "translation": "Odległość", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_BUTTON_RETURN_body", "source": "Return", "translation": "Powrót", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_LOCATION_TITLE_body", "source": "Position", "translation": "Pozycja", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_LOCATION_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_REGISTERED_USER_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_REMAINING_HP_TITLE_body", "source": "HP", "translation": "PŻ", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_REMAINING_HP_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_REMAINING_TIME_TITLE_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_SUMMONER_TITLE_body", "source": "Summoner", "translation": "Przywołujący", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_SUMMONER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_TOOLTIP_KISK_TITLE_body", "source": "Registered Kisk", "translation": "Zarejestrowany Kisk", "status": "draft"}
+{"id": "String_UI_HUD_USERINFO_LEVEL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_WAVEDUNGEON_INFO_WAVE_LEVEL_ONLYONE_body", "source": "Progress", "translation": "Postęp", "status": "draft"}
+{"id": "String_UI_HUD_WAVEDUNGEON_INFO_WAVE_LEVEL_body", "source": "Stage {0}/{1}", "translation": "Etap {0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVE_PENALTY_TOOLTIP_body", "source": "* Weekly limit has been reached.\n* Abyss Points obtainable through PvE: {0}%\n* Excess Weekly PvE Abyss Points Acquired: {1}", "translation": "* Osiągnięto limit tygodniowy.\n* Dostępne punkty Otchłani z PvE: {0}%\n* Nadwyżka tygodniowych punktów Otchłani z PvE: {1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVE_TOOLTIP_TEXT_body", "source": "The weekly limit for Abyss Points that can be gained through PvE.\nHowever, points earned through PvE in the Corridor are not counted.", "translation": "Tygodniowy limit punktów Otchłani zdobywanych w PvE.\nPunkty zdobyte w PvE w Korytarzu nie są jednak wliczane.", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVE_TOOLTIP_TITLE_body", "source": "Weekly PvE Gain Limit", "translation": "Tygodniowy limit punktów z PvE", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVP_PENALTY_TOOLTIP_body", "source": "* Weekly limit has been reached.\n* Abyss Points obtainable through PvP: {0}%\n* Excess Weekly PvP Abyss Points Acquired: {1}", "translation": "* Osiągnięto limit tygodniowy.\n* Dostępne punkty Otchłani z PvP: {0}%\n* Nadwyżka tygodniowych punktów Otchłani z PvP: {1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVP_TOOLTIP_TEXT_body", "source": "The weekly limit for Abyss Points that can be gained through PvP.", "translation": "Tygodniowy limit punktów Otchłani zdobywanych w PvP.", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_LIMIT_PVP_TOOLTIP_TITLE_body", "source": "Weekly PvP Gain Limit", "translation": "Tygodniowy limit punktów z PvP", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_ABYSS_POINT_RESET_DAY_body", "source": "Resets {1} every {0}", "translation": "Reset: {1} co {0}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_AVAILABLE_AMOUNT_ABYSS_POINT_body", "source": "Weekly Gain Limit", "translation": "Tygodniowy limit zdobycia", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_AVAILABLE_AMOUNT_body", "source": "Daily Obtainable Kina", "translation": "Dzienna liczba możliwych do zdobycia Kina", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_REMAINING_PERCENT_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_RESET_DAY_body", "source": "Resets every {0}.", "translation": "Reset co {0}.", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVEPVP_TOTAL_PENALTY_TOOLTIP_body", "source": "* Weekly limit has been reached.\n* Abyss Points obtainable through PvP and PVE will be reduced by {0}%.\n* Excess Weekly Abyss Points Acquired: {1}", "translation": "* Osiągnięto limit tygodniowy.\n* Liczba punktów Otchłani zdobywanych w PvP i PvE zostanie zmniejszona o {0}%.\n* Nadwyżka tygodniowych punktów Otchłani: {1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVEPVP_TOTAL_POINT_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVEPVP_TOTAL_TITLE_body", "source": "Weekly PvE, PVP Gain Limit", "translation": "Tygodniowy limit punktów z PvE i PvP", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVE_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVE_body", "source": "PvE Gain Limit", "translation": "Limit punktów z PvE", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVP_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_PVP_body", "source": "PvP Gain Limit", "translation": "Limit punktów z PvP", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_ABYSS_POINT_TITLE_body", "source": "Abyss Points", "translation": "Punkty Otchłani", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_KINA_LIMIT_NUMBER_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_KINA_TITLE_body", "source": "Kina", "translation": "Kina", "status": "draft"}
+{"id": "String_UI_HUD_WEEKLY_TOTAL_KINA_body", "source": "Daily Gain Limit", "translation": "Dzienny limit zdobycia", "status": "draft"}
+{"id": "String_UI_HYPERLINK_BTN_VIEW_PROB_body", "source": "View Probability", "translation": "Wyświetl szanse", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_ACC_GUIDETEXT_ACC_REGISTER_body", "source": "Select Soulstone.", "translation": "Wybierz kamień duszy.", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_ACC_SLOT_EMPTY_body", "source": "Soulstone engraving available.", "translation": "Można grawerować kamień duszy.", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_AUTO_SET_SLOT_NUM_body", "source": "Slot {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_BUTTON_IMPRINT_AUTO_STOP_body", "source": "Stop Auto Engraving", "translation": "Zatrzymaj automatyczne grawerowanie", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_BUTTON_IMPRINT_AUTO_body", "source": "Auto Engrave", "translation": "Graweruj automatycznie", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_BUTTON_IMPRINT_body", "source": "Engrave", "translation": "Graweruj", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_GUIDETEXT_REGISTER_body", "source": "Select engraving materials.", "translation": "Wybierz materiały do grawerowania.", "status": "draft"}
+{"id": "String_UI_IMPRINT_MAGICSTONE_SLOT_EMPTY_body", "source": "Manastone engraving available.", "translation": "Można grawerować kamień many.", "status": "draft"}
+{"id": "String_UI_INDICATOR_QUEST_TAB_body", "source": "{0} Quest", "translation": "Zadanie: {0}", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_LABEL_PERIOD_body", "source": "Penalty Duration: {0}", "translation": "Czas trwania kary: {0}", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_LABEL_REASON_body", "source": "Reason for Penalty: {0}", "translation": "Powód kary: {0}", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_LABEL_UNTIL_body", "source": "Ends: {0} (GMT)", "translation": "Koniec: {0} (GMT)", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_PERIOD_DAY_body", "source": "{0}d", "translation": "{0} dni", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_PERIOD_PERMANENT_body", "source": "Permanent", "translation": "Bezterminowo", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_PERIOD_UNTIL_LIFTED_body", "source": "Until Penalty Ends", "translation": "Do końca kary", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11001_body", "source": "Inappropriate Language", "translation": "Niewłaściwy język", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11002_body", "source": "Inappropriate Name", "translation": "Niewłaściwa nazwa", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11003_body", "source": "Fraud", "translation": "Oszustwo", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11004_body", "source": "Attempted Fraud", "translation": "Próba oszustwa", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11005_body", "source": "Gambling-Related Activity", "translation": "Działalność związana z hazardem", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11006_body", "source": "Exploitation of Bugs or Game Limitations", "translation": "Wykorzystywanie błędów lub ograniczeń gry", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11007_body", "source": "Abuse of Game Systems", "translation": "Nadużywanie systemów gry", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11008_body", "source": "Minor Bug Exploition System Abuse", "translation": "Wykorzystywanie drobnych błędów i nadużywanie systemu", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11009_body", "source": "Real Money Trading (RMT)", "translation": "Handel za prawdziwe pieniądze (RMT)", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11010_body", "source": "Attempted Real Money Trade (RMT) Transaction", "translation": "Próba transakcji za prawdziwe pieniądze (RMT)", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11011_body", "source": "Account Trading", "translation": "Handel kontami", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11012_body", "source": "Raid Content Exploit", "translation": "Wykorzystywanie błędów w zawartości rajdowej", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11013_body", "source": "Account Theft", "translation": "Kradzież konta", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11014_body", "source": "Distributing Personal Information", "translation": "Udostępnianie danych osobowych", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11015_body", "source": "False or Misuse of Personal Information", "translation": "Podawanie fałszywych danych lub niewłaściwe użycie danych osobowych", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11016_body", "source": "Identity Theft", "translation": "Kradzież tożsamości", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11017_body", "source": "Payment Fraud", "translation": "Oszustwo płatnicze", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11018_body", "source": "Disruption of Game Operations", "translation": "Zakłócanie działania gry", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11019_body", "source": "Creation of Inappropriate Appearance", "translation": "Tworzenie niewłaściwego wyglądu", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11020_body", "source": "False Reports", "translation": "Fałszywe zgłoszenia", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11021_body", "source": "Advertisement Unrelated to the Game Service", "translation": "Reklama niezwiązana z usługą gry", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11022_body", "source": "Gameplay Disruption", "translation": "Zakłócanie rozgrywki", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11023_body", "source": "Open Market Abuse", "translation": "Nadużywanie otwartego rynku", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11024_body", "source": "Distribution of Inappropriate Character Appearance", "translation": "Udostępnianie niewłaściwego wyglądu postaci", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11025_body", "source": "Use of Unauthorized Programs", "translation": "Używanie nieautoryzowanych programów", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11026_body", "source": "Use of Unauthorized Programs (Minor)", "translation": "Używanie nieautoryzowanych programów (drobne naruszenie)", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11027_body", "source": "Creation or Distribution of Unauthorized Programs", "translation": "Tworzenie lub rozpowszechnianie nieautoryzowanych programów", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11028_body", "source": "Gold Farming/Bot Operations", "translation": "Farmienie złota / używanie botów", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11029_body", "source": "Unsportsmanlike Conduct", "translation": "Niesportowe zachowanie", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11030_body", "source": "User Request", "translation": "Prośba użytkownika", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11031_body", "source": "Temporary Administrative Protection", "translation": "Tymczasowa ochrona administracyjna", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11032_body", "source": "Please contact Customer Support.", "translation": "Skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11033_body", "source": "Please contact Customer Support.", "translation": "Skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11034_body", "source": "Please contact Customer Support.", "translation": "Skontaktuj się z działem obsługi klienta.", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_11036_body", "source": "Boosting Play", "translation": "Podbijanie wyników", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_BAN_REASON_DEFAULT_body", "source": "Other Policy Violation", "translation": "Inne naruszenie zasad", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_LABEL11031_body", "source": "Go to Support", "translation": "Przejdź do pomocy technicznej", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_LABEL11033_body", "source": "Go to authentication", "translation": "Przejdź do uwierzytelniania", "status": "draft"}
+{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11030_1_body", "source": "This account is currently suspended at the user’s request. If you need further assistance, please contact Customer Support.", "translation": "To konto jest obecnie zawieszone na prośbę użytkownika. Jeśli potrzebujesz dalszej pomocy, skontaktuj się z działem obsługi klienta.", "status": "draft"}

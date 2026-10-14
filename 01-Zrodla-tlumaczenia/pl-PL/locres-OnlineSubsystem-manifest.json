@@ -1,0 +1,15 @@
+{
+  "table": "locres-OnlineSubsystem",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "2d5f22f4b85453ee2a4c5d99590031c19d0b5860190976c041e1e3cde5b4bace",
+  "records": 24,
+  "decodedJsonSha256": "90d579e876fc8d23fcb6a52b48b0b7a4eb8ea08dad38e2d2e3097003be30b745",
+  "batches": [
+    {
+      "file": "locres-OnlineSubsystem/OnlineSubsystem/0001.jsonl",
+      "count": 24,
+      "category": "OnlineSubsystem"
+    }
+  ]
+}

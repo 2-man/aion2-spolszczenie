@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCLevelSequence",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "954bd49ee9ab11db5c8f22a750d1e16d9bb0b42a1bc9ab18c4c6fb96251bc5a3",
+  "records": 30,
+  "decodedJsonSha256": "fe4885b113e57d8ca1946aaeae84ca9c71bc278a2f7eab2f232b6a24e3550521",
+  "batches": [
+    {
+      "file": "locres-NCLevelSequence/NCLevelSequence/0001.jsonl",
+      "count": 30,
+      "category": "NCLevelSequence"
+    }
+  ]
+}

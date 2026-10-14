@@ -1,0 +1,250 @@
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_INCOMPLETE_body", "source": "Discovered", "translation": "Odkryto", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_UNKNOWN_INFO_body", "source": "Exploration Info", "translation": "Informacje o eksploracji", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_UNKNOWN_L_body", "source": "???", "translation": "???", "status": "pending"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_UNKNOWN_R_body", "source": "Undiscovered", "translation": "Nieodkryte", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_UNKNOWN_body", "source": "Undiscovered Area", "translation": "Nieodkryty obszar", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_BOSS_NAMED_STATE_RESPAWN_REMAIN_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_BOSS_NAMED_STATE_SPAWN_body", "source": "Spawned", "translation": "Pojawił się", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_BOSS_NAMED_STATE_body", "source": "Spawn Info", "translation": "Informacje o pojawieniu się", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_BUTTON_AUTOMOVE_body", "source": "Travel", "translation": "Podróż", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_BUTTON_JOURNAL_body", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_CLOSED_body", "source": "This dungeon is currently inaccessible.", "translation": "Ten loch jest obecnie niedostępny.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_CONDITION_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_ENTRY_body", "source": "Capacity: Up to {0}", "translation": "Limit: maks. {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_MINMAX_LV_body", "source": "Requirement: Lv. {0}-{1}", "translation": "Wymagany poziom: {0}–{1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_RACE_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_RACE_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_RACE_NONE_body", "source": "Neutral", "translation": "Neutralni", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_RACE_body", "source": "Faction Requirement: {0}", "translation": "Wymagana frakcja: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_PARTY_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_QUEST_body", "source": "Quest Dungeon", "translation": "Loch zadaniowy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_SEAL_body", "source": "Sealed Dungeon", "translation": "Zapieczętowany loch", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_body", "source": "Dungeon Type: {0}", "translation": "Typ lochu: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_INFO_TITLE_body", "source": "Dungeon Info", "translation": "Informacje o lochu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_GATHERLIST_TITLE_body", "source": "Gathered Material List", "translation": "Lista zebranych materiałów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_HUNTERLIST_TITLE_body", "source": "Daeva Hunter List", "translation": "Lista łowców daev", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_NAME_body", "source": "Resonance Level Progress", "translation": "Postęp poziomu rezonansu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_body", "source": "Resonance Level", "translation": "Poziom rezonansu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_PROGRESS_body", "source": "<Monolith_Accent>{0}</>/{1}", "translation": "<Monolith_Accent>{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_UNKNOWN_body", "source": "Faded Monolith", "translation": "Wyblakły monolit", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MONSTER_REWARD_TITLE_body", "source": "Loot Highlights Info", "translation": "Informacje o wyróżnionych łupach", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_DESC_COLOR_body", "source": "<ref style=\"insufficient\" attr=\"color\">{0} or more</>", "translation": "<ref style=\"insufficient\" attr=\"color\">{0} lub więcej</>", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_DESC_body", "source": "{0} or more", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_COMBAT_VALUE_NAME_body", "source": "Combat Power Requirement", "translation": "Wymagana moc bojowa", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_DESC_COLOR_body", "source": "<ref style=\"insufficient\" attr=\"color\">{0} or more</>", "translation": "<ref style=\"insufficient\" attr=\"color\">{0} lub więcej</>", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_DESC_body", "source": "{0} or more", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_ITEMLEVEL_NAME_body", "source": "Item Level Requirement", "translation": "Wymagany poziom przedmiotu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_DESC_COLOR_body", "source": "<ref style=\"insufficient\" attr=\"color\">Lv. {0} or higher</>", "translation": "<ref style=\"insufficient\" attr=\"color\">poz. {0} lub wyżej</>", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_DESC_body", "source": "Lv. {0} or higher", "translation": "poz. {0} lub wyżej", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_MOVEMAPCONDITON_LEVEL_NAME_body", "source": "Level Requirement", "translation": "Wymagany poziom", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_QUEST_OBJ_TITLE_body", "source": "Quest Objective", "translation": "Cel zadania", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_QUEST_RECOMMENDED_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFTEVENT_PREPARE_body", "source": "Starting in {0}", "translation": "Rozpocznie się za {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFTEVENT_PROGRESS_body", "source": "{0} In Progress", "translation": "{0} — w toku", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFTEVENT_STATE_body", "source": "Progress Status", "translation": "Stan postępu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFT_CONDITION_INTERACT_COUNT_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFT_LABEL_INTERACT_COUNT_body", "source": "Remaining Uses", "translation": "Pozostałe użycia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFT_LABEL_INTERACT_TIME_body", "source": "Usage time left", "translation": "Pozostały czas użytkowania", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_RIFT_LABEL_LEVEL_LIMIT_body", "source": "Level Requirement", "translation": "Wymagany poziom", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_SEALLIST_TITLE_body", "source": "Sealed Dungeon List", "translation": "Lista zapieczętowanych lochów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_SPRINGBOARD_TITLE_body", "source": "Updraft", "translation": "Prąd wstępujący", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_TELEPORTARTIFACTLIST_TITLE_body", "source": "Kibelisk List", "translation": "Lista kibelisków", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_TERRITORYLIST_TITLE_body", "source": "Stronghold List", "translation": "Lista twierdz", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_TERRITORY_REWARD_TITLE_body", "source": "Reward Highlights", "translation": "Wyróżnione nagrody", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_VILLAGE_NPCLIST_TITLE_body", "source": "Main Facility List", "translation": "Lista głównych obiektów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_ARTIFACTWAR_TITLE_body", "source": "Artifact Siege", "translation": "Oblężenie artefaktu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_EVENT_SCHEDULE_TITLE_body", "source": "Shugo Festival", "translation": "Festiwal Shugo", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_EXPLORATION_TITLE_body", "source": "Exploration", "translation": "Eksploracja", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_FILTER_TITLE_body", "source": "Filter Settings", "translation": "Ustawienia filtrów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_PIN_TITLE_body", "source": "Map Pin", "translation": "Znacznik mapy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOP_MENU_TELEPORTARTIFACT_TITLE_body", "source": "Kibelisk", "translation": "Kibelisk", "status": "draft"}
+{"id": "String_UI_WORLDMARKER_ALLCLEAR_body", "source": "Reset All", "translation": "Resetuj wszystko", "status": "draft"}
+{"id": "String_UI_WORLDMARKER_TITLE_body", "source": "World Marker", "translation": "Znacznik świata", "status": "draft"}
+{"id": "String_UI_WORLD_TRADEEXCHANGE_TITLE_body", "source": "World Exchange", "translation": "Wymiana światowa", "status": "draft"}
+{"id": "String_UI_WORLD_TRADE_ITEM_PRICE_LOW_body", "source": "Lowest Sale Price - World", "translation": "Najniższa cena sprzedaży — świat", "status": "draft"}
+{"id": "String_UI_WORLD_TRADE_ITEM_SEARCH_FOR_EXCHANGE_body", "source": "Search Exchange", "translation": "Szukaj w wymianie", "status": "draft"}
+{"id": "String_UI_WORLD_TRADE_ITEM_SEARCH_FOR_SERVER_body", "source": "Search Market", "translation": "Szukaj na rynku", "status": "draft"}
+{"id": "String_UI_WORLD_TRADE_TITLE_body", "source": "World Market", "translation": "Rynek światowy", "status": "draft"}
+{"id": "String_UI_desc_AGI_body", "source": "Increases Accuracy and Critical Hit.", "translation": "Zwiększa celność i szansę na trafienie krytyczne.", "status": "draft"}
+{"id": "String_UI_desc_APHealRate_body", "source": "Increases Rage Heal.", "translation": "Zwiększa leczenie szału.", "status": "draft"}
+{"id": "String_UI_desc_APHealRegen_body", "source": "Increases Rage Heal.", "translation": "Zwiększa leczenie szału.", "status": "draft"}
+{"id": "String_UI_desc_APMax_body", "source": "Certain skills require Rage for casting them.", "translation": "Niektóre umiejętności wymagają szału do użycia.", "status": "draft"}
+{"id": "String_UI_desc_APPotionRate_body", "source": "Increases Rage Potion Recovery.", "translation": "Zwiększa odzysk szału z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_APPotionRegen_body", "source": "Increases Rage Potion Recovery.", "translation": "Zwiększa odzysk szału z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_APRegen_body", "source": "Recovers Rage at set intervals.", "translation": "Odnawia szał w określonych odstępach czasu.", "status": "draft"}
+{"id": "String_UI_desc_APUseDecrease_body", "source": "Reduces the amount of Rage consumed.", "translation": "Zmniejsza zużycie szału.", "status": "draft"}
+{"id": "String_UI_desc_AbnormalAccuracy_body", "source": "Increases the chance of landing Status Effect skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących efekty statusu.", "status": "draft"}
+{"id": "String_UI_desc_AbnormalFocus_body", "source": "Increases the chance of landing Suppress skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności tłumiących.", "status": "draft"}
+{"id": "String_UI_desc_AbnormalLower_body", "source": "Reduces the target's chance of landing Suppress skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności tłumiących.", "status": "draft"}
+{"id": "String_UI_desc_AbnormalResistance_body", "source": "Reduces the target's chance of landing Status Effect skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności wywołujących efekty statusu.", "status": "draft"}
+{"id": "String_UI_desc_AbyssAmplifyDamage_body", "source": "<Rare>Boosts</> Damage against Abyss monsters.", "translation": "<Rare>Zwiększa</> obrażenia zadawane potworom z Otchłani.", "status": "draft"}
+{"id": "String_UI_desc_AbyssDecreaseDamage_body", "source": "<epic>Weakens</> Damage taken from Abyss monsters.", "translation": "<epic>Zmniejsza</> obrażenia otrzymywane od potworów z Otchłani.", "status": "draft"}
+{"id": "String_UI_desc_AbyssPointBonus_body", "source": "Increases Abyss Point Gain.", "translation": "Zwiększa liczbę zdobywanych punktów Otchłani.", "status": "draft"}
+{"id": "String_UI_desc_AccuracyRatio_body", "source": "Increases Accuracy by a multiplier.", "translation": "Zwiększa celność o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_Accuracy_body", "source": "Prevents attack from missing.\nAffected by target's Evasion.", "translation": "Zapobiega chybieniu ataku.\nZależy od uniku celu.", "status": "draft"}
+{"id": "String_UI_desc_AddAttackRange_body", "source": "Increases attack range.", "translation": "Zwiększa zasięg ataku.", "status": "draft"}
+{"id": "String_UI_desc_AddDamageEarth_body", "source": "Increases Damage when attacking with Earth.", "translation": "Zwiększa obrażenia przy ataku żywiołem ziemi.", "status": "draft"}
+{"id": "String_UI_desc_AddDamageFire_body", "source": "Increases Damage when attacking with Fire.", "translation": "Zwiększa obrażenia przy ataku żywiołem ognia.", "status": "draft"}
+{"id": "String_UI_desc_AddDamageWater_body", "source": "Increases Damage when attacking with Water.", "translation": "Zwiększa obrażenia przy ataku żywiołem wody.", "status": "draft"}
+{"id": "String_UI_desc_AddDamageWind_body", "source": "Increases Damage when attacking with Wind.", "translation": "Zwiększa obrażenia przy ataku żywiołem wiatru.", "status": "draft"}
+{"id": "String_UI_desc_AddWeaponRange_body", "source": "Weapon attack range.", "translation": "Zasięg ataku broni.", "status": "draft"}
+{"id": "String_UI_desc_AdditionalHitRate_body", "source": "Increases Multi-hit Chance.\nAdds up to <unique>4</> hits, inflicting damage proportional to Attack.", "translation": "Zwiększa szansę na wielokrotne trafienie.\nDodaje maksymalnie <unique>4</> trafienia, zadające obrażenia proporcjonalne do ataku.", "status": "draft"}
+{"id": "String_UI_desc_AdditionalHitResistRate_body", "source": "Reduces target's Multi-hit Chance.", "translation": "Zmniejsza szansę celu na wielokrotne trafienie.", "status": "draft"}
+{"id": "String_UI_desc_AdenaBonus_body", "source": "Increases Kina Gain.", "translation": "Zwiększa ilość zdobywanej Kiny.", "status": "draft"}
+{"id": "String_UI_desc_AerialAccuracy_body", "source": "Increases the chance of landing Airborne skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności podrzucających.", "status": "draft"}
+{"id": "String_UI_desc_AerialResist_body", "source": "Reduces the target's chance of landing Airborne skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności podrzucających.", "status": "draft"}
+{"id": "String_UI_desc_AerialTimeDecrease_body", "source": "Reduces Airborne duration.", "translation": "Skraca czas podrzucenia.", "status": "draft"}
+{"id": "String_UI_desc_AerialTimeIncrease_body", "source": "Increases Airborne duration.", "translation": "Wydłuża czas podrzucenia.", "status": "draft"}
+{"id": "String_UI_desc_AllAttributeDamage_body", "source": "Increases Damage when attacking with an element.", "translation": "Zwiększa obrażenia przy ataku żywiołem.", "status": "draft"}
+{"id": "String_UI_desc_AllAttributeDefense_body", "source": "Reduces Damage taken from Element.", "translation": "Zmniejsza obrażenia otrzymywane od żywiołów.", "status": "draft"}
+{"id": "String_UI_desc_AllAttributeResist_body", "source": "<epic>Weakens</> Damage taken when attacked by Element.", "translation": "<epic>Zmniejsza</> obrażenia otrzymywane podczas ataku żywiołem.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyAggro_body", "source": "Attracts the target's attention and makes them attack you.\n<Unique>Negative value</> <Unique>reduces</> amount of Enmity gained.", "translation": "Przyciąga uwagę celu i zmusza go do atakowania ciebie.\n<Unique>Wartość ujemna</> <Unique>zmniejsza</> generowane zagrożenie.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyAllAttribute_body", "source": "<Rare>Boosts</> Damage when attacking with Element.\nAffected by target's Element Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia przy ataku żywiołem.\nZależy od odporności celu na dany żywioł.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyAllDamageRatio_body", "source": "Increases Damage Boost by a multiplier.", "translation": "Zwiększa premię do obrażeń o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyAllDamage_body", "source": "<Rare>Boosts</> Damage.\nAffected by target's Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia.\nZależy od odporności celu na obrażenia.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyBackAttack_body", "source": "<Rare>Boost</> Damage when successfully attacking from behind.\n<unique>Ignores</> target's <unique>Block</> when attacking from behind.", "translation": "<Rare>Zwiększa</> obrażenia przy udanym ataku od tyłu.\n<unique>Ignoruje</> <unique>blok</> celu przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyBasicAtkDamage_body", "source": "<Rare>Boosts</> Basic Attack Damage.", "translation": "<Rare>Zwiększa</> obrażenia ataku podstawowego.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyCriticalDamage_body", "source": "<Rare>Boosts</> Critical Hit Damage.\nAffected by target's Critical Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia trafienia krytycznego.\nZależy od odporności celu na obrażenia krytyczne.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyDpGet_body", "source": "Increases Divine Power Gain.", "translation": "Zwiększa ilość zdobywanej boskiej mocy.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyEarth_body", "source": "<Rare>Boosts</> Damage when attacking with Earth.\nAffected by target's Earth Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia przy ataku żywiołem ziemi.\nZależy od odporności celu na ziemię.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyFire_body", "source": "<Rare>Boosts</> Damage when attacking with Fire.\nAffected by target's Fire Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia przy ataku żywiołem ognia.\nZależy od odporności celu na ogień.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyFrontAttack_body", "source": "<Rare>Boosts</> Damage when successfully attacking from the front.", "translation": "<Rare>Zwiększa</> obrażenia przy udanym ataku od przodu.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyHPBarrier_body", "source": "Increases Durability of the Shield gained.", "translation": "Zwiększa wytrzymałość otrzymywanej osłony.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyHpHealGet_body", "source": "Increases the amount of HP healed with a skill.\n<Unique>Negative value</> <Unique>reduces</> amount of healing.", "translation": "Zwiększa ilość PŻ przywracanych przez umiejętność.\n<Unique>Wartość ujemna</> <Unique>zmniejsza</> ilość leczenia.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyMagicCriticalDamage_body", "source": "<Rare>Boosts</> Magic Critical Hit Damage.\nAffected by target's Critical Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia magicznego trafienia krytycznego.\nZależy od odporności celu na obrażenia krytyczne.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyMagicDamage_body", "source": "<Rare>Boosts</> Magic Damage.", "translation": "<Rare>Zwiększa</> obrażenia magiczne.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyMagicSkillDamage_body", "source": "<Rare>Boosts</> Magic Skill Damage.", "translation": "<Rare>Zwiększa</> obrażenia umiejętności magicznych.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyPhysicCriticalDamage_body", "source": "<Rare>Boosts</> Physical Critical Hit Damage.\nAffected by target's Critical Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia fizycznego trafienia krytycznego.\nZależy od odporności celu na obrażenia krytyczne.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyPhysicDamage_body", "source": "<Rare>Boosts</> Physical Damage.", "translation": "<Rare>Zwiększa</> obrażenia fizyczne.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyPhysicSkillDamage_body", "source": "<Rare>Boosts</> Physical Skill Damage.", "translation": "<Rare>Zwiększa</> obrażenia umiejętności fizycznych.", "status": "draft"}
+{"id": "String_UI_desc_AmplifySkillDamage_body", "source": "<Rare>Boosts</> Skill Damage.", "translation": "<Rare>Zwiększa</> obrażenia umiejętności.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyWater_body", "source": "<Rare>Boosts</> Damage when attacking with Water.\nAffected by target's Water Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia przy ataku żywiołem wody.\nZależy od odporności celu na wodę.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyWeaponDamage_body", "source": "<Rare>Boosts</> Weapon Damage.\nAffected by target's Weapon Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia broni.\nZależy od odporności celu na obrażenia broni.", "status": "draft"}
+{"id": "String_UI_desc_AmplifyWind_body", "source": "<Rare>Boosts</> Damage when attacking with Wind.\nAffected by target's Wind Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia przy ataku żywiołem wiatru.\nZależy od odporności celu na wiatr.", "status": "draft"}
+{"id": "String_UI_desc_ArmorDefenseRatio_body", "source": "Increases Armor Defense.\nReduces Damage taken.", "translation": "Zwiększa obronę pancerza.\nZmniejsza otrzymywane obrażenia.", "status": "draft"}
+{"id": "String_UI_desc_ArmorDefense_body", "source": "Basic Defense.\nHigher Defense reduces Damage taken.", "translation": "Podstawowa obrona.\nWyższa obrona zmniejsza otrzymywane obrażenia.", "status": "draft"}
+{"id": "String_UI_desc_ArmorEvasionRatio_body", "source": "Increases Armor Evasion. Max Evasion Rate is <Mythic>30%</>.", "translation": "Zwiększa unik pancerza. Maks. szansa na unik wynosi <Mythic>30%</>.", "status": "draft"}
+{"id": "String_UI_desc_ArmorEvasion_body", "source": "Evading attacks prevents damage. Max Evasion rate is <Mythic>30%</>.", "translation": "Unikanie ataków zapobiega otrzymywaniu obrażeń. Maks. szansa na unik wynosi <Mythic>30%</>.", "status": "draft"}
+{"id": "String_UI_desc_AttackSpeed_body", "source": "Increases Attack Speed.", "translation": "Zwiększa szybkość ataku.", "status": "draft"}
+{"id": "String_UI_desc_BackAttackCriticalResist_body", "source": "Reduces target's Critical Hit Rate when attacked from behind.", "translation": "Zmniejsza szansę celu na trafienie krytyczne przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_BackAttackCritical_body", "source": "Increases Critical Hit Rate when attacking from behind.\n<unique>Ignores</> target's <unique>Block</> when attacking from behind.", "translation": "Zwiększa szansę na trafienie krytyczne przy ataku od tyłu.\n<unique>Ignoruje</> <unique>blok</> celu przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_BackAttackDamage_body", "source": "Increases Damage when successfully attacking from behind.\n<unique>Ignores</> target's <unique>Block</> when attacking from behind.", "translation": "Zwiększa obrażenia przy udanym ataku od tyłu.\n<unique>Ignoruje</> <unique>blok</> celu przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_BackAttackDefense_body", "source": "Reduces Damage taken when attacked from behind.", "translation": "Zmniejsza obrażenia otrzymywane przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_BasicAtkDamageDefense_body", "source": "Defense against Basic Attack.\nReduces Basic Attack Damage taken.", "translation": "Obrona przed atakiem podstawowym.\nZmniejsza obrażenia otrzymywane od ataków podstawowych.", "status": "draft"}
+{"id": "String_UI_desc_BasicAtkDamage_body", "source": "Basic Attack", "translation": "Atak podstawowy", "status": "draft"}
+{"id": "String_UI_desc_BattleAPRegen_body", "source": "Restores Rage at set intervals during combat.", "translation": "Odnawia szał w określonych odstępach czasu podczas walki.", "status": "draft"}
+{"id": "String_UI_desc_BattleFPRegen_body", "source": "Restores Flight Power at set intervals during combat.", "translation": "Odnawia moc lotu w określonych odstępach czasu podczas walki.", "status": "draft"}
+{"id": "String_UI_desc_BattleHPRegen_body", "source": "Restores HP at set intervals during combat.", "translation": "Odnawia PŻ w określonych odstępach czasu podczas walki.", "status": "draft"}
+{"id": "String_UI_desc_BattleMPRegen_body", "source": "Restores MP at set intervals during combat.", "translation": "Odnawia PM w określonych odstępach czasu podczas walki.", "status": "draft"}
+{"id": "String_UI_desc_BattleSPRegen_body", "source": "Restores Stamina at set intervals during combat.", "translation": "Odnawia wytrzymałość w określonych odstępach czasu podczas walki.", "status": "draft"}
+{"id": "String_UI_desc_BeltDefenseRatio_body", "source": "Belt Defense increase.", "translation": "Zwiększa obronę pasa.", "status": "draft"}
+{"id": "String_UI_desc_BindAccuracy_body", "source": "Increases the chance of landing Grab skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności chwytających.", "status": "draft"}
+{"id": "String_UI_desc_BindResist_body", "source": "Reduces the target's chance of landing Grab skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności chwytających.", "status": "draft"}
+{"id": "String_UI_desc_BindTimeDecrease_body", "source": "Reduces Grab duration.", "translation": "Skraca czas unieruchomienia chwytem.", "status": "draft"}
+{"id": "String_UI_desc_BindTimeIncrease_body", "source": "Increases Grab duration.", "translation": "Wydłuża czas unieruchomienia chwytem.", "status": "draft"}
+{"id": "String_UI_desc_BleedAccuracy_body", "source": "Increases the chance of landing Bleed skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności powodujących krwawienie.", "status": "draft"}
+{"id": "String_UI_desc_BleedResist_body", "source": "Reduces the target's chance of landing Bleed skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności powodujących krwawienie.", "status": "draft"}
+{"id": "String_UI_desc_BleedTimeDecrease_body", "source": "Reduces Bleed duration.", "translation": "Skraca czas krwawienia.", "status": "draft"}
+{"id": "String_UI_desc_BleedTimeIncrease_body", "source": "Increases Bleed duration.", "translation": "Wydłuża czas krwawienia.", "status": "draft"}
+{"id": "String_UI_desc_BlindAccuracy_body", "source": "Increases the chance of landing Blind skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności oślepiających.", "status": "draft"}
+{"id": "String_UI_desc_BlindResist_body", "source": "Reduces the target's chance of landing Blind skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności oślepiających.", "status": "draft"}
+{"id": "String_UI_desc_BlindTimeDecrease_body", "source": "Reduces Blind duration.", "translation": "Skraca czas oślepienia.", "status": "draft"}
+{"id": "String_UI_desc_BlindTimeIncrease_body", "source": "Increases Blind duration.", "translation": "Wydłuża czas oślepienia.", "status": "draft"}
+{"id": "String_UI_desc_BlockActiveAccuracy_body", "source": "Increases the chance of landing Seal skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności pieczętujących.", "status": "draft"}
+{"id": "String_UI_desc_BlockActiveResist_body", "source": "Reduces the target's chance of landing Seal skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności pieczętujących.", "status": "draft"}
+{"id": "String_UI_desc_BlockActiveTimeDecrease_body", "source": "Reduces Seal duration.", "translation": "Skraca czas pieczęci.", "status": "draft"}
+{"id": "String_UI_desc_BlockActiveTimeIncrease_body", "source": "Increases Seal duration.", "translation": "Wydłuża czas pieczęci.", "status": "draft"}
+{"id": "String_UI_desc_BlockPierceRatio_body", "source": "Increases Block Penetration by a multiplier.", "translation": "Zwiększa przebicie bloku o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_BlockPierce_body", "source": "Ignores target's Block Chance.", "translation": "Ignoruje szansę bloku celu.", "status": "draft"}
+{"id": "String_UI_desc_BlockRatio_body", "source": "Increases Block Increase by a multiplier.", "translation": "Zwiększa skuteczność bloku o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_Block_body", "source": "Increases Parry Chance and Shield Block Chance.\nCan Parry after blocking with shield.\nAffected by target's Accuracy and Block Penetration.\n<Legend>※ Block Damage Reduction Rate varies based on Gear Grade.</>", "translation": "Zwiększa szansę na parowanie i blok tarczą.\nMożna parować po zablokowaniu ataku tarczą.\nZależy od celności i przebicia bloku celu.\n<Legend>※ Redukcja obrażeń przy bloku zależy od klasy wyposażenia.</>", "status": "draft"}
+{"id": "String_UI_desc_BlockadeAccuracy_body", "source": "Increases the chance of landing Restrain skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności unieruchamiających.", "status": "draft"}
+{"id": "String_UI_desc_BlockadeResist_body", "source": "Reduces the target's chance of landing Restrain skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności unieruchamiających.", "status": "draft"}
+{"id": "String_UI_desc_BlockadeTimeDecrease_body", "source": "Reduces Restrain duration.", "translation": "Skraca czas unieruchomienia.", "status": "draft"}
+{"id": "String_UI_desc_BlockadeTimeIncrease_body", "source": "Increases Restrain duration.", "translation": "Wydłuża czas unieruchomienia.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyAccuracy_body", "source": "Increases the chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących efekty statusu typu dolegliwość.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyResist_body", "source": "Reduces the target's chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności wywołujących efekty statusu typu dolegliwość.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyTimeDecrease_body", "source": "Reduces Ailment-type duration.", "translation": "Skraca czas działania dolegliwości.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyTimeIncrease_body", "source": "Increases Ailment-type duration.", "translation": "Wydłuża czas działania dolegliwości.", "status": "draft"}
+{"id": "String_UI_desc_BootsDefenseRatio_body", "source": "Shoes Defense increase.", "translation": "Zwiększa obronę butów.", "status": "draft"}
+{"id": "String_UI_desc_BossNpcAddDamage_body", "source": "Increases Damage when attacking Boss Monster.", "translation": "Zwiększa obrażenia zadawane bossom.", "status": "draft"}
+{"id": "String_UI_desc_BossNpcAmplifyDamage_body", "source": "<Rare>Boosts</> Damage on Boss.\nAffected by target's Boss Damage Tolerance.", "translation": "<Rare>Zwiększa</> obrażenia zadawane bossom.\nZależy od odporności celu na obrażenia od bossów.", "status": "draft"}
+{"id": "String_UI_desc_BossNpcDecreaseDamage_body", "source": "<epic>Weakens</> Damage taken from Boss.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia od bossów.", "status": "draft"}
+{"id": "String_UI_desc_BossNpcDefense_body", "source": "Reduces Damage taken when attacked by Boss Monster.", "translation": "Zmniejsza otrzymywane obrażenia od bossów.", "status": "draft"}
+{"id": "String_UI_desc_BowDamageRatio_body", "source": "Bow Attack increase.", "translation": "Zwiększa atak łuku.", "status": "draft"}
+{"id": "String_UI_desc_BraceletDamageRatio_body", "source": "Bracelet Attack increase.", "translation": "Zwiększa atak bransolety.", "status": "draft"}
+{"id": "String_UI_desc_BraceletDefenseRatio_body", "source": "Bracelet Defense increase.", "translation": "Zwiększa obronę bransolety.", "status": "draft"}
+{"id": "String_UI_desc_CON_body", "source": "Increases HP.", "translation": "Zwiększa PŻ.", "status": "draft"}
+{"id": "String_UI_desc_CapeDefenseRatio_body", "source": "Cloak Defense increase.", "translation": "Zwiększa obronę peleryny.", "status": "draft"}
+{"id": "String_UI_desc_CastingSpeed_body", "source": "Increases Cast Speed.", "translation": "Zwiększa szybkość rzucania.", "status": "draft"}
+{"id": "String_UI_desc_CastingTime_body", "source": "Reduces Skill Cast duration.", "translation": "Skraca czas rzucania umiejętności.", "status": "draft"}
+{"id": "String_UI_desc_ChargeSpeed_body", "source": "Reduces Skill Recharge duration.", "translation": "Skraca czas odnowienia umiejętności.", "status": "draft"}
+{"id": "String_UI_desc_CombatSpeedRatio_body", "source": "Increases Combat Speed by a multiplier.", "translation": "Zwiększa szybkość walki o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_CombatSpeed_body", "source": "Increases Attack Speed and Spell Action Speed.", "translation": "Zwiększa szybkość ataku i szybkość wykonywania zaklęć.", "status": "draft"}
+{"id": "String_UI_desc_CoolTimeDecreaseRatio_body", "source": "Increases Cooldown reduction by a multiplier.", "translation": "Zwiększa redukcję czasu odnowienia o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_CoolTimeDecrease_body", "source": "Reduces Skill Cooldown.", "translation": "Skraca czas odnowienia umiejętności.", "status": "draft"}
+{"id": "String_UI_desc_CoolTimeIncrease_body", "source": "Skill Cooldown duration.\n<Unique>Negative value</> <Unique>reduces</> Cooldown.\nCooldown reduction is capped at 60%.", "translation": "Czas odnowienia umiejętności.\n<Unique>Wartość ujemna</> <Unique>skraca</> czas odnowienia.\nRedukcja czasu odnowienia nie przekracza 60%.", "status": "draft"}
+{"id": "String_UI_desc_CriticalAddDamage_body", "source": "Increases Damage when a Critical Hit occurs.\nAffected by target's Critical Damage Defense.", "translation": "Zwiększa obrażenia przy trafieniu krytycznym.\nZależy od obrony celu przed obrażeniami krytycznymi.", "status": "draft"}
+{"id": "String_UI_desc_CriticalDamageDefense_body", "source": "Reduces Damage taken from Critical Hit.", "translation": "Zmniejsza otrzymywane obrażenia od trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_CriticalMagicAddDamage_body", "source": "Increases Damage when a Magic Critical Hit occurs.\nAffected by target's Critical Damage Defense.", "translation": "Zwiększa obrażenia przy magicznym trafieniu krytycznym.\nZależy od obrony celu przed obrażeniami krytycznymi.", "status": "draft"}
+{"id": "String_UI_desc_CriticalMagicDamageDefense_body", "source": "Reduces Damage taken from Magic Critical Hit.", "translation": "Zmniejsza otrzymywane obrażenia od magicznych trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_CriticalPhysicAddDamage_body", "source": "Increases Damage when a Physical Critical Hit occurs.\nAffected by target's Critical Damage Defense.", "translation": "Zwiększa obrażenia przy fizycznym trafieniu krytycznym.\nZależy od obrony celu przed obrażeniami krytycznymi.", "status": "draft"}
+{"id": "String_UI_desc_CriticalPhysicDamageDefense_body", "source": "Reduces Damage taken from Physical Critical Hit.", "translation": "Zmniejsza otrzymywane obrażenia od fizycznych trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_CriticalRatio_body", "source": "Increases Critical Hit by a multiplier.", "translation": "Zwiększa trafienie krytyczne o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_CriticalResistRatio_body", "source": "Increases Critical Hit Resist by a multiplier.", "translation": "Zwiększa odporność na trafienia krytyczne o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_CriticalResist_body", "source": "Reduces chance of receiving Critical Hits.", "translation": "Zmniejsza szansę otrzymania trafienia krytycznego.", "status": "draft"}
+{"id": "String_UI_desc_Critical_body", "source": "Increases Critical Hit Rate.\nMax Critical Hit Rate is <Mythic>50%</>, and this is reduced by target's Critical Hit Resist.", "translation": "Zwiększa szansę na trafienie krytyczne.\nMaks. szansa na trafienie krytyczne wynosi <Mythic>50%</>, a odporność celu na trafienia krytyczne ją zmniejsza.", "status": "draft"}
+{"id": "String_UI_desc_DEX_body", "source": "Increases Evasion, Block, and Critical Hit Resist.", "translation": "Zwiększa unik, blok i odporność na trafienia krytyczne.", "status": "draft"}
+{"id": "String_UI_desc_DPHealRate_body", "source": "Increases Divine Power Heal.", "translation": "Zwiększa leczenie boskiej mocy.", "status": "draft"}
+{"id": "String_UI_desc_DPHealRegen_body", "source": "Increases Divine Power Heal.", "translation": "Zwiększa leczenie boskiej mocy.", "status": "draft"}
+{"id": "String_UI_desc_DPMax_body", "source": "Divine energy required for using Divine skills.\nObtained by defeating targets possessing Divine Power.", "translation": "Energia boska wymagana do używania umiejętności boskich.\nZdobywana przez pokonywanie celów posiadających boską moc.", "status": "draft"}
+{"id": "String_UI_desc_DPPotionRate_body", "source": "Increases Divine Power Potion Recovery.", "translation": "Zwiększa odzysk boskiej mocy z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_DPPotionRegen_body", "source": "Increases Divine Power Potion Recovery.", "translation": "Zwiększa odzysk boskiej mocy z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_DPRegen_body", "source": "Restores Divine Power at set intervals.", "translation": "Odnawia boską moc w określonych odstępach czasu.", "status": "draft"}
+{"id": "String_UI_desc_DaggerDamageRatio_body", "source": "Dagger Attack increase.", "translation": "Zwiększa atak sztyletu.", "status": "draft"}
+{"id": "String_UI_desc_DamageRatio_body", "source": "Increases Attack by a multiplier.", "translation": "Zwiększa atak o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_Dark_body", "source": "<unique>Darkness [Azphel]</>\n-", "translation": "<unique>Ciemność [Azphel]</>\n-", "status": "draft"}
+{"id": "String_UI_desc_Death_body", "source": "<unique>Death [Triniel]</>\nIncreases Critical Hit and Regeneration Penetration.", "translation": "<unique>Śmierć [Triniel]</>\nZwiększa trafienie krytyczne i przebicie regeneracji.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseAggro_body", "source": "Avoids the target's attention and prevents them attacking you.", "translation": "Unika uwagi celu i zapobiega jego atakom.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseBackAttack_body", "source": "<epic>Weakens</> Damage taken when attacked from behind.", "translation": "<epic>Zmniejsza</> obrażenia otrzymywane przy ataku od tyłu.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseBasicAtkDamage_body", "source": "<epic>Weakens</> attack target's Basic Attack Damage.", "translation": "<epic>Zmniejsza</> obrażenia otrzymywane od ataków podstawowych celu.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseCriticalDamage_body", "source": "<epic>Weakens</> Critical Hit Damage taken from Critical Hit.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia krytyczne od trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseDamageRatio_body", "source": "Increases Damage reduction by a multiplier.", "translation": "Zwiększa redukcję obrażeń o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseDamage_body", "source": "<epic>Weakens</> Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseFrontAttack_body", "source": "<epic>Weakens</> Damage taken when attacked from the front.", "translation": "<epic>Zmniejsza</> obrażenia otrzymywane przy ataku od przodu.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseMagicCriticalDamage_body", "source": "<epic>Weakens</> Magic Critical Hit Damage taken from Magic Critical Hit.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia magicznych trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseMagicDamage_body", "source": "<epic>Weakens</> Magic Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia magiczne.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseMagicSkillDamage_body", "source": "<epic>Weakens</> Magic Skill Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia umiejętności magicznych.", "status": "draft"}
+{"id": "String_UI_desc_DecreasePhysicCriticalDamage_body", "source": "<epic>Weakens</> Physical Critical Hit Damage taken from Physical Critical Hit.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia fizycznych trafień krytycznych.", "status": "draft"}
+{"id": "String_UI_desc_DecreasePhysicDamage_body", "source": "<epic>Weakens</> Physical Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia fizyczne.", "status": "draft"}
+{"id": "String_UI_desc_DecreasePhysicSkillDamage_body", "source": "<epic>Weakens</> Physical Skill Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia umiejętności fizycznych.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseShieldBlock_body", "source": "Reduces more Damage when Shield Block activates.", "translation": "Zmniejsza otrzymywane obrażenia, gdy aktywuje się blok tarczą.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseSkillDamage_body", "source": "<epic>Weakens</> Skill Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia umiejętności.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseWeaponBlock_body", "source": "Reduces Parry Damage Reduction Rate when target successfully parries.", "translation": "Zmniejsza redukcję obrażeń przy parowaniu przez cel.", "status": "draft"}
+{"id": "String_UI_desc_DecreaseWeaponDamage_body", "source": "<epic>Weakens</> attack target's Weapon Attack.", "translation": "<epic>Zmniejsza</> atak bronią celu.", "status": "draft"}
+{"id": "String_UI_desc_DefensePierce_body", "source": "Ignores target's Defense.\nDefense does not fall below <Mythic>0</>.", "translation": "Ignoruje obronę celu.\nObrona nie spada poniżej <Mythic>0</>.", "status": "draft"}
+{"id": "String_UI_desc_DefenseRatio_body", "source": "Increases Defense by a multiplier.", "translation": "Zwiększa obronę o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_Defense_body", "source": "Defense.\nReduces Damage taken.", "translation": "Obrona.\nZmniejsza otrzymywane obrażenia.", "status": "draft"}
+{"id": "String_UI_desc_Destiny_body", "source": "<unique>Destiny [Marchutan]</>\nIncreases MP and Endurance Chance.", "translation": "<unique>Przeznaczenie [Marchutan]</>\nZwiększa PM i szansę na wytrzymałość.", "status": "draft"}
+{"id": "String_UI_desc_Destruction_body", "source": "<unique>Destruction [Zikel]</>\nIncreases Attack and Perfect Resist.", "translation": "<unique>Zniszczenie [Zikel]</>\nZwiększa atak i odporność na perfekcyjne trafienia.", "status": "draft"}
+{"id": "String_UI_desc_DiveCost_body", "source": "Reduces Diving Gauge consumed while diving.", "translation": "Zmniejsza zużycie wskaźnika nurkowania podczas nurkowania.", "status": "draft"}
+{"id": "String_UI_desc_EarringDamageRatio_body", "source": "Earrings Attack increase.", "translation": "Zwiększa atak kolczyków.", "status": "draft"}
+{"id": "String_UI_desc_EarringDefenseRatio_body", "source": "Earrings Defense increase.", "translation": "Zwiększa obronę kolczyków.", "status": "draft"}
+{"id": "String_UI_desc_EarthDamageDefense_body", "source": "Reduces Damage taken from Earth.", "translation": "Zmniejsza otrzymywane obrażenia od ziemi.", "status": "draft"}
+{"id": "String_UI_desc_ElementalSummonLifetime_body", "source": "Increases Spirit duration.", "translation": "Wydłuża czas działania ducha.", "status": "draft"}
+{"id": "String_UI_desc_ElementalistDespawnHPRegen_body", "source": "Recovers Spirit HP.", "translation": "Przywraca PŻ ducha.", "status": "draft"}
+{"id": "String_UI_desc_EvasionRatio_body", "source": "Increases Evasion by a multiplier.", "translation": "Zwiększa unik o określony mnożnik.", "status": "draft"}
+{"id": "String_UI_desc_Evasion_body", "source": "Evading attacks prevents damage. Max Evasion rate is <Mythic>30%</>.", "translation": "Unikanie ataków zapobiega otrzymywaniu obrażeń. Maks. szansa na unik wynosi <Mythic>30%</>.", "status": "draft"}
+{"id": "String_UI_desc_ExperienceBonus_body", "source": "Increases EXP Gain.", "translation": "Zwiększa ilość zdobywanego PD.", "status": "draft"}
+{"id": "String_UI_desc_FPHealRate_body", "source": "Increases Flight Power Heal.", "translation": "Zwiększa przywracanie mocy lotu.", "status": "draft"}
+{"id": "String_UI_desc_FPHealRegen_body", "source": "Increases Flight Power Heal.", "translation": "Zwiększa przywracanie mocy lotu.", "status": "draft"}
+{"id": "String_UI_desc_FPMax_body", "source": "Consumed when flying.\nCollect a variety of wings to increase Flight Power.", "translation": "Zużywana podczas lotu.\nZbieraj różne skrzydła, aby zwiększyć moc lotu.", "status": "draft"}
+{"id": "String_UI_desc_FPPotionRate_body", "source": "Increases Flight Power Potion Recovery.", "translation": "Zwiększa odzysk mocy lotu z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_FPPotionRegen_body", "source": "Increases Flight Power Potion Recovery.", "translation": "Zwiększa odzysk mocy lotu z mikstur.", "status": "draft"}
+{"id": "String_UI_desc_FPRegenRatio_body", "source": "Increases Flight Power Regen.", "translation": "Zwiększa regenerację mocy lotu.", "status": "draft"}
+{"id": "String_UI_desc_FPRegen_body", "source": "Restores Flight Power at set intervals.", "translation": "Odnawia moc lotu w określonych odstępach czasu.", "status": "draft"}
+{"id": "String_UI_desc_FallingSpeed_body", "source": "Increases Fall Speed.", "translation": "Zwiększa szybkość spadania.", "status": "draft"}
+{"id": "String_UI_desc_FearAccuracy_body", "source": "Increases the chance of landing Fear skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących strach.", "status": "draft"}

@@ -1,0 +1,15 @@
+{
+  "table": "locres-NCPakFileRulesSetter",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "9dd966796380805ec1d64440cb4763395e45dbd4676a96fd8f7e3c38a3c58db6",
+  "records": 29,
+  "decodedJsonSha256": "6d472ec4c02284aa1235c9e11c36ad5b01f052b07aaee95fefd7f45d43b98e60",
+  "batches": [
+    {
+      "file": "locres-NCPakFileRulesSetter/NCPakFileRulesSetter/0001.jsonl",
+      "count": 29,
+      "category": "NCPakFileRulesSetter"
+    }
+  ]
+}

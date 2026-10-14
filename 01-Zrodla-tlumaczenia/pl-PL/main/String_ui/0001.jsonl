@@ -1,0 +1,250 @@
+{"id": "String_UI_ABNORMALINFO_MainTain_Time_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_ONBOARDING_EFFECT_NONE_body", "source": "No currently active effect.", "translation": "Brak aktywnych efektów.", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_TAB_BUFF_body", "source": "Buffs", "translation": "Wzmocnienia", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_TAB_DEBUFF_body", "source": "Debuffs", "translation": "Osłabienia", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_TAB_ITEM_PASSIVE_body", "source": "Gear Effects", "translation": "Efekty wyposażenia", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_TAB_PASSIVE_body", "source": "Passive", "translation": "Pasywne", "status": "draft"}
+{"id": "String_UI_ABNORMALINFO_TITLE_2_body", "source": "Effect Info", "translation": "Informacje o efekcie", "status": "draft"}
+{"id": "String_UI_ABYSSEVENT_ICON_CAPTION_PREPARE_body", "source": "Pending", "translation": "Oczekiwanie", "status": "draft"}
+{"id": "String_UI_ABYSSEVENT_ICON_CAPTION_PROCESS_body", "source": "Active", "translation": "W toku", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_DARK_SCORE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_DARK_body", "source": "Eastern Camp Points:", "translation": "Punkty obozu wschodniego:", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_EXIT_CONFIRM_body", "source": "Insufficent members, canceled matching and received match cancel rewards.\nWould you like to exit the Abyss?", "translation": "Za mało członków. Anulowano dobieranie i przyznano nagrody za anulowanie meczu.\nCzy chcesz opuścić Abyss?", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_LIGHT_SCORE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_LIGHT_body", "source": "Western Camp Points:", "translation": "Punkty obozu zachodniego:", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_NEXT_TIME_TITLE_body", "source": "Time until next event", "translation": "Czas do następnego wydarzenia", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_DRAW_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_GET_REWARD_body", "source": "Reward collected.", "translation": "Nagroda odebrana.", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_LOW_CONTRIBUTION_body", "source": "Insufficient Contribution to receive rewards.", "translation": "Za mały wkład, aby otrzymać nagrody.", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_TITLE_body", "source": "Abyss Rift Zone", "translation": "Strefa Szczeliny Abyss", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_VICTORY_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_COMMON_body", "source": "Purify the Rift Zone", "translation": "Oczyść strefę Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_KILLNPCCOUNT2_body", "source": "Defeat all invaders {0}/{1}", "translation": "Pokonaj wszystkich najeźdźców {0}/{1}", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_KILLNPCCOUNT_body", "source": "Purify the Rift Zone {0}/{1}", "translation": "Oczyść strefę Szczeliny {0}/{1}", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_KILLNPC_body", "source": "Defeat all Conquerors of the Rift", "translation": "Pokonaj wszystkich Zdobywców Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_MULTI_TITLE_body", "source": "Optional Objective", "translation": "Cel dodatkowy", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TIME_body", "source": "Purify the Rift Zone ({0})", "translation": "Oczyść strefę Szczeliny ({0})", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_1_body", "source": "First Rift Objective", "translation": "Pierwszy cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_2_body", "source": "Second Rift Objective", "translation": "Drugi cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_3_body", "source": "Third Rift Objective", "translation": "Trzeci cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_4_body", "source": "Fourth Rift Objective", "translation": "Czwarty cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_5_body", "source": "Fifth Rift Objective", "translation": "Piąty cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_6_body", "source": "Final Rift Objective", "translation": "Ostatni cel Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_TITLE_body", "source": "Objective", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_TARGET_WAIT_body", "source": "Rift spreading...", "translation": "Szczelina się rozszerza...", "status": "draft"}
+{"id": "String_UI_ABYSSWAR_HUD_EVENT_COMPLETE_body", "source": "Ended", "translation": "Zakończono", "status": "draft"}
+{"id": "String_UI_ABYSSWAR_HUD_EVENT_PREPARE_body", "source": "Preparing...", "translation": "Przygotowanie...", "status": "draft"}
+{"id": "String_UI_ABYSSWAR_HUD_EVENT_PROCESS_body", "source": "In Progress", "translation": "W toku", "status": "draft"}
+{"id": "String_UI_ABYSSWAR_HUD_POINT_TITLE_COMPLETE_body", "source": "Rift Zone Result", "translation": "Wynik strefy Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSSWAR_HUD_POINT_TITLE_PROCESS_body", "source": "Rift Zone Scoreboard", "translation": "Tabela wyników strefy Szczeliny", "status": "draft"}
+{"id": "String_UI_ABYSS_ARTIFACTWAR_PREPARE_TITLE_body", "source": "Preparing for Siege...", "translation": "Przygotowanie do oblężenia...", "status": "draft"}
+{"id": "String_UI_ABYSS_ARTIFACTWAR_PROCESS_TITLE_body", "source": "Siege in Progress...", "translation": "Oblężenie w toku...", "status": "draft"}
+{"id": "String_UI_ABYSS_DESCRIPTION_TITLE_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_ABYSS_DRAW_REWARD_TITLE_body", "source": "Draw Reward", "translation": "Nagroda za remis", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTER_CONFIRM_DARK_body", "source": "Go to the Latesran Eastern Root?", "translation": "Udać się do Wschodniego Korzenia Latesran?", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTER_CONFIRM_LIGHT_body", "source": "Go to the Latesran Western Root?", "translation": "Udać się do Zachodniego Korzenia Latesran?", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTER_CONFIRM_body", "source": "Move to {0}?", "translation": "Przenieść się do {0}?", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_BUTTON_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COMBAT_VALUE_INFO_body", "source": "<AbyssEntry_Point>{0}</> or less", "translation": "<AbyssEntry_Point>{0}</> lub mniej", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_INFO_body", "source": "Requires Item Level and Combat Power at or below the specified limits", "translation": "Wymagany poziom przedmiotów i moc bojowa nie mogą przekraczać podanych limitów", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_ITEMLEVEL_DESC_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_ITEMLEVEL_TITLE_body", "source": "Item Level", "translation": "Poziom przedmiotów", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_LEVEL_DESC_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_LEVEL_TITLE_body", "source": "Character Level", "translation": "Poziom postaci", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_TITLE_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_HIGH_ITEM_LEVEL_INFO_body", "source": "<AbyssEntry_Point>{0}</> or less", "translation": "<AbyssEntry_Point>{0}</> lub mniej", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_LEVEL_INFO_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_ABYSS_EXIT_CONFIRM_body", "source": "Would you like to exit the Abyss?", "translation": "Czy chcesz opuścić Abyss?", "status": "draft"}
+{"id": "String_UI_ABYSS_LOSE_REWARD_TITLE_body", "source": "Defeat Reward", "translation": "Nagroda za porażkę", "status": "draft"}
+{"id": "String_UI_ABYSS_MATCH_FAILURE_REWARD_TITLE_body", "source": "Match Cancel Rewards", "translation": "Nagrody za anulowanie meczu", "status": "draft"}
+{"id": "String_UI_ABYSS_PENALTY_DEDUCT_TIME_NOTICE_body", "source": "Exceeding the entry requirements will result in immediate removal from Upper Abyss Reshanta and <warning>{0} of Abyss Access Hours will be deducted</> as a penalty.", "translation": "Przekroczenie wymagań wejścia spowoduje natychmiastowe usunięcie z Górnego Abyss Reshanta, a <warning>{0} czasu dostępu do Abyss zostanie odjęte</> jako kara.", "status": "draft"}
+{"id": "String_UI_ABYSS_REWARD_TITLE_body", "source": "Reward Highlights", "translation": "Najważniejsze nagrody", "status": "draft"}
+{"id": "String_UI_ABYSS_SOULHARVEST_PROGRESS_VALUE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ABYSS_SOULHARVEST_PROGRESS_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_ABYSS_SOULHARVEST_TITLE_body", "source": "Artifact Resonance", "translation": "Rezonans artefaktu", "status": "draft"}
+{"id": "String_UI_ABYSS_SOULHARVEST_WAIT_TEXT_body", "source": "Time Left until Activation", "translation": "Czas do aktywacji", "status": "draft"}
+{"id": "String_UI_ABYSS_TAB_ABYSS_body", "source": "Abyss Reshanta", "translation": "Otchłań Reshanty", "status": "draft"}
+{"id": "String_UI_ABYSS_TAB_RANKING_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_ABYSS_TAB_SHOP_body", "source": "Trade Shop", "translation": "Handel", "status": "draft"}
+{"id": "String_UI_ABYSS_TELEPORT_NPC_TELEPORTLIST_BUTTON_body", "source": "Go", "translation": "Idź", "status": "draft"}
+{"id": "String_UI_ABYSS_TELEPORT_NPC_TELEPORTLIST_TITLE_body", "source": "Teleport Location", "translation": "Miejsce teleportacji", "status": "draft"}
+{"id": "String_UI_ABYSS_TELEPORT_NPC_TITLE_body", "source": "Abyss Portal", "translation": "Portal Abyss", "status": "draft"}
+{"id": "String_UI_ABYSS_TITLE_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_ABYSS_USETIME_RECHARGE_TITLE_body", "source": "Added Usage Time", "translation": "Dodatkowy czas użytkowania", "status": "draft"}
+{"id": "String_UI_ABYSS_USETIME_RESET_NOTICE_body", "source": "{0} until Basic Usage Time Reset", "translation": "{0} do zresetowania podstawowego czasu użytkowania", "status": "draft"}
+{"id": "String_UI_ABYSS_USETIME_TITLE_body", "source": "Basic Usage Time", "translation": "Podstawowy czas użytkowania", "status": "draft"}
+{"id": "String_UI_ABYSS_WIN_REWARD_TITLE_body", "source": "Victory Reward", "translation": "Nagroda za zwycięstwo", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_FIELD_EVENT_DESC_body", "source": "Sets the font color for Event messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości wydarzeń na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_FORCE_DESC_body", "source": "Sets the font color for Force messages in Chat.", "translation": "Ustawia kolor czcionki wiadomości grupy rajdowej na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_LEGION_DESC_body", "source": "Sets the font color for Legion messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości Legionu na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_NORMAL_DESC_body", "source": "Sets the font color for General messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości ogólnych na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_PARTYDUNGEON_DESC_body", "source": "Sets the font color for Dungeon messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości z lochów na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_PARTY_DESC_body", "source": "Sets the font color for Party messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości drużyny na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_SERVER_DESC_body", "source": "Sets the font color for Faction messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości frakcji na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_SHOUT_DESC_body", "source": "Sets the font color for Shout messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości krzyku na czacie.", "status": "draft"}
+{"id": "String_UI_ACCESSIBILITY_CONTEXT_TYPE_WHISPER_DESC_body", "source": "Sets the font color for Whisper messages in Chat.", "translation": "Ustawia kolor tekstu wiadomości szeptu na czacie.", "status": "draft"}
+{"id": "String_UI_ACCOUNT_WITHDRAWAL_REQUESTED_body", "source": "Account deletion application in progress for this account.", "translation": "Żądanie usunięcia tego konta jest w trakcie realizacji.", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENTGROUP_CLEAR_COUNT_body", "source": "<ref style=\"Achievement_RewardCount_Normal\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"Achievement_RewardCount_Normal\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENTGROUP_MISSION_COUNT_body", "source": "<ref style=\"Achievement_Count_Normal\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"Achievement_Count_Normal\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_BUTTON_ALL_GET_REWARD_body", "source": "Collect All Rewards", "translation": "Odbierz wszystkie nagrody", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_BUTTON_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_BUTTON_GET_REWARD_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_COMPLETE_GROUP_REWARD_body", "source": "Group Rewards Available", "translation": "Dostępne nagrody grupowe", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_COMPLETE_REWARD_body", "source": "Achievement Rewards", "translation": "Nagrody za osiągnięcia", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GETREWARD_TITLE_body", "source": "Rewards Collected", "translation": "Odebrane nagrody", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GET_REWARD_LIST_TITLE_body", "source": "{0} Achievement Reward(s) Obtained", "translation": "Otrzymano nagrody za osiągnięcia: {0}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GRADE_COMMON_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GRADE_LEGEND_body", "source": "Epic", "translation": "Epiczny", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GRADE_RARE_body", "source": "Rare", "translation": "Rzadki", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GROUPREWARD_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GROUPREWARD_DESC_body", "source": "[{0}] Level {1} Objective Complete", "translation": "Cel poziomu {1} [{0}] ukończony", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GROUP_STEP_INFO_DESC_body", "source": "{1} [{0}] Achievements Completed", "translation": "Ukończono osiągnięcia: {1} [{0}]", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GROUP_STEP_body", "source": "[{0}] Level {1}", "translation": "[{0}] Poziom {1}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_PROGRESS_COUNT_body", "source": "<ref style=\"Achievement_RewardCount_Normal\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"Achievement_RewardCount_Normal\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_PROGRESS_body", "source": "Total Completion", "translation": "Łączny postęp", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_REWARDED_body", "source": "Completed: {0}", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_CHECKBOX_ONLY_CHAR_REWARD_body", "source": "Collect character achievement rewards only", "translation": "Odbieraj tylko nagrody za osiągnięcia postaci", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_INCLUDE_SERVER_REWARD_body", "source": "Includes rewards for the server sharing achievement that can be claimed by only one character within the server.\nAccept all?", "translation": "Zawiera nagrody za osiągnięcia współdzielone na serwerze, które może odebrać tylko jedna postać na serwerze.\nOdebrać wszystkie?", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_ONLY_SERVER_REWARD_body", "source": "Rewards for the server sharing achievement can only be claimed by one character.\nClaim the reward with the current character?", "translation": "Nagrody za osiągnięcia współdzielone na serwerze może odebrać tylko jedna postać.\nOdebrać nagrodę obecną postacią?", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_SERVER_GROUP_TAG_body", "source": "Share Server", "translation": "Współdzielone na serwerze", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_STEP_INFO_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_STEP_INFO_ONGOING_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_STEP_INFO_STEPCOUNT_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_STEP_INFO_TITLE_body", "source": "Progression Status per Level", "translation": "Postęp na poszczególnych poziomach", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_TITLE_body", "source": "Achievements", "translation": "Osiągnięcia", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_UNLOCK_TOOLTIP_TITLE_body", "source": "[Unlock Condition]", "translation": "[Warunek odblokowania]", "status": "draft"}
+{"id": "String_UI_ADVENTURE_QUEST_CONDITION_TEXT_body", "source": "Prerequisite Conditions", "translation": "Wymagania wstępne", "status": "draft"}
+{"id": "String_UI_AGE_BUTTON_SELLECT_body", "source": "Select", "translation": "Wybierz", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_AIRSPACE_ABNORMAL_body", "source": "Airspace Owned Effect", "translation": "Efekt kontroli przestrzeni powietrznej", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_APPLICATION_CANCEL_body", "source": "Cancel Request", "translation": "Anuluj zgłoszenie", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_APPLICATION_body", "source": "Join", "translation": "Dołącz", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_HUD_BUTTON_PROGRESS_body", "source": "Progress", "translation": "Postęp", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_HUD_BUTTON_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_LEGION_MASTER_body", "source": "High Commander: {0}", "translation": "Wielki Dowódca: {0}", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_NOONEHASAIRSHIP_body", "source": "No Legion Owned", "translation": "Brak Legionu", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_NOTICE_RESULT_body", "source": "{0} Legion emerged victorious in the {1} siege.", "translation": "Legion {0} zwyciężył w oblężeniu {1}.", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_NOTICE_START_body", "source": "{0} siege has commenced.", "translation": "Rozpoczęło się oblężenie {0}.", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_NOTICE_TIE_body", "source": "{0} siege has ended.\nNeither side emerged victorious.", "translation": "Oblężenie {0} dobiegło końca.\nŻadna ze stron nie zwyciężyła.", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_POPUP_APPLICATION_CANCEL_body", "source": "Would you like to cancel the Dawn Legion siege?\nThe currency used to make the request will not be refunded.", "translation": "Czy chcesz anulować oblężenie Legionu Świtu?\nWaluta użyta do zgłoszenia nie zostanie zwrócona.", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_REAPPLICATION_body", "source": "You have already requested to join the {0} siege.\nWould you like to cancel the previous request and join {1}?", "translation": "Zgłoszono już udział w oblężeniu {0}.\nCzy chcesz anulować poprzednie zgłoszenie i dołączyć do {1}?", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_SCHEDULE_READY_TIME_body", "source": "Preparation Time", "translation": "Czas przygotowania", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_SCHEDULE_START_TIME_body", "source": "Start Time", "translation": "Czas rozpoczęcia", "status": "draft"}
+{"id": "String_UI_AIRSPACE_BATTLE_SCHEDULE_body", "source": "Schedule", "translation": "Harmonogram", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_BUTTON_REMAIN_TIME_body", "source": "Waiting Time", "translation": "Czas oczekiwania", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_BUTTON_body", "source": "Transmute", "translation": "Transmutuj", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_CAUTION_POPUP_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_CAUTION_POPUP_DESC_body", "source": "Would you like to proceed with Transmuting {0}?", "translation": "Czy chcesz przeprowadzić transmutację: {0}?", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_CAUTION_POPUP_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_MAINSTAT_ADD_GUIDE_FIXED_COUNT_body", "source": "Randomly grant {0} main effect(s).", "translation": "Losowo przyznaje {0} efektów głównych.", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_MATERIAL_body", "source": "Transmutation Material", "translation": "Materiał do transmutacji", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_SELECT_GRADE_TITLE_body", "source": "Grade", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_SUBSTAT_ADD_GUIDE_FIXED_COUNT_body", "source": "Randomly grant {0} additional effect(s).", "translation": "Losowo przyznaje {0} efektów dodatkowych.", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_SUBSTAT_ADD_GUIDE_RANDOM_COUNT_body", "source": "Randomly grant {0}-{1} additional effects.", "translation": "Losowo przyznaje od {0} do {1} efektów dodatkowych.", "status": "draft"}
+{"id": "String_UI_ARCANA_CREATE_SUBSTAT_ALL_RANDOM_body", "source": "Cannot Select", "translation": "Nie można wybrać", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_CANCEL_BUTTON_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_ENCHANT_BUTTON_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_ENCHANT_EXP_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_ENCHANT_LEVEL_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_GUIDE_SUBSTAT_NEW_body", "source": "{0} new effect(s) will be added.", "translation": "Zostanie dodanych {0} nowych efektów.", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_GUIDE_SUBSTAT_UPGRADE_body", "source": "Some effects develop randomly.", "translation": "Niektóre efekty rozwijają się losowo.", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_ADD_BUTTON_body", "source": "Register All", "translation": "Zarejestruj wszystkie", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_CATEGORY_TITLE_body", "source": "Arcana Type", "translation": "Typ Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_ETC_TITLE_body", "source": "Miscellaneous Settings", "translation": "Ustawienia różne", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_EXCEPT_GROWN_body", "source": "Exclude Enhanced Arcana from registration", "translation": "Nie rejestruj ulepszonych Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_GRADE_TITLE_body", "source": "Arcana Category", "translation": "Kategoria Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_MISC_FIRST_body", "source": "Register the Training Arcana first", "translation": "Najpierw zarejestruj Arcana treningową", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_MISC_body", "source": "Training Arcana", "translation": "Arcana treningowa", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_POPUP_TITLE_body", "source": "Enhance Material Selection Filter", "translation": "Filtr wyboru materiałów do ulepszania", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_QUICK_SET_SAME_ARCANA_FIRST_body", "source": "Register the identical Arcana first", "translation": "Najpierw zarejestruj identyczną Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_REGISTER_MAX_LEVEL_BUTTON_body", "source": "Max Level", "translation": "Maks. poziom", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_REGISTER_NEXT_LEVEL_BUTTON_body", "source": "Next Level", "translation": "Następny poziom", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_REGISTER_SAME_ARCANA_BUTTON_body", "source": "Identical Arcana", "translation": "Identyczna Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_MATERIAL_REMOVE_BUTTON_body", "source": "Remove", "translation": "Usuń", "status": "draft"}
+{"id": "String_UI_ARCANA_ENCHANT_SUCCESS_POPUP_TITLE_body", "source": "Enhance Success", "translation": "Ulepszanie udane", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_FIXED_MAINSTAT_NOT_SELECT_body", "source": "Main effect not selected.", "translation": "Nie wybrano efektu głównego.", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_FIXED_STAT_TITLE_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_FIXED_SUBSTAT_NOT_SELECT_body", "source": "Additional effect not selected.", "translation": "Nie wybrano efektu dodatkowego.", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_BUTTON_body", "source": "Quick Equip", "translation": "Szybkie zakładanie", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_CHANGE_BUTTON_body", "source": "Change Settings", "translation": "Zmień ustawienia", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_EQUIP_BUTTON_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_NO_STAT_CHANGE_body", "source": "Effect does not change.", "translation": "Efekt się nie zmienia.", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_PREVIEW_BUTTON_body", "source": "Preview Equipment", "translation": "Podgląd wyposażenia", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_PREVIEW_TITLE_body", "source": "Preview Equipment", "translation": "Podgląd wyposażenia", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_RESET_BUTTON_body", "source": "Reset Settings", "translation": "Przywróć ustawienia", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_SELECT_MAINSTAT_body", "source": "Main Effect", "translation": "Efekt główny", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_SELECT_SET_body", "source": "Set Type", "translation": "Typ zestawu", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_SELECT_SUBSTAT_body", "source": "Additional Effect", "translation": "Efekt dodatkowy", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_STAT_CHANGE_body", "source": "Effect Change", "translation": "Zmiana efektu", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_QUICK_SETTING_TITLE_body", "source": "Quick Equip Settings", "translation": "Ustawienia szybkiego zakładania", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_TOTAL_STAT_ONBOARDING_NO_STAT_body", "source": "Stats are shown when Arcana are equipped.", "translation": "Parametry są widoczne po założeniu Arcana.", "status": "draft"}
+{"id": "String_UI_ARCANA_EQUIP_TOTAL_STAT_TITLE_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_COUNT_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_EXTRACT_BUTTON_body", "source": "Extract", "translation": "Ekstrahuj", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_BY_FILTER_body", "source": "Register All", "translation": "Zarejestruj wszystkie", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_COMMON_body", "source": "Common Grade", "translation": "Zwykła ranga", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_LEGEND_OR_UNDER_body", "source": "Epic Grade or Below", "translation": "Ranga epicka lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_RARE_OR_UNDER_body", "source": "Rare Grade or Below", "translation": "Ranga rzadka lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_UNIQUE_OR_UNDER_body", "source": "Unique Grade or Below", "translation": "Ranga unikatowa lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_GUIDE_body", "source": "Select Arcana to use as material from the list on the left.", "translation": "Wybierz Arcana z listy po lewej stronie, aby użyć jej jako materiału.", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_RESULT_POPUP_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_RESULT_POPUP_TITLE_body", "source": "Extraction Results", "translation": "Wyniki ekstrakcji", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_RESULT_REWARD_ITEM_COUNT_body", "source": "Success {0}", "translation": "Sukces {0}", "status": "draft"}
+{"id": "String_UI_ARCANA_GET_ARCANA_POPUP_OK_BTN_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_ARCANA_GET_ARCANA_POPUP_TITLE_body", "source": "Acquire Arcana", "translation": "Zdobądź Arcana", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_CATEGORY_TYPE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_ENCHANT_BUTTON_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_ENCHANT_MAX_body", "source": "(MAX)", "translation": "(MAKS.)", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_ENCHANT_TITLE_body", "source": "Enhance Level", "translation": "Poziom ulepszenia", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_EQUIP_BUTTON_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_EXP_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_SET_NAME_EQUIP_COUNT_body", "source": "{0} (1}", "translation": "{0} (1}", "status": "draft"}
+{"id": "String_UI_ARCANA_INFO_UNEQUIP_BUTTON_body", "source": "Unequip", "translation": "Zdejmij", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_FILTER_APPLY_BUTTON_body", "source": "Apply Filter", "translation": "Zastosuj filtr", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_FILTER_RESET_BUTTON_body", "source": "Restore Selection", "translation": "Przywróć wybór", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_ONBOARDING_NO_ARCANA_BY_FILTER_body", "source": "No Arcana with matching conditions owned.", "translation": "Brak Arcana spełniających wybrane warunki.", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_ONBOARDING_NO_ARCANA_body", "source": "No Arcana owned.", "translation": "Nie posiadasz Arcana.", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_SET_FILTER_BUTTON_ON_body", "source": "Set Filter Applied", "translation": "Filtr zestawu włączony", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_SET_FILTER_BUTTON_body", "source": "Set Filter", "translation": "Filtr zestawu", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_SET_FILTER_TITLE_body", "source": "Select Set", "translation": "Wybierz zestaw", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_STAT_FILTER_BUTTON_ON_body", "source": "Effect Filter Applied", "translation": "Filtr efektów włączony", "status": "draft"}
+{"id": "String_UI_ARCANA_LIST_STAT_FILTER_BUTTON_body", "source": "Effect Filter", "translation": "Filtr efektów", "status": "draft"}
+{"id": "String_UI_ARCANA_POPUP_DESC_body", "source": "Arcana description area.", "translation": "Opis Arcana.", "status": "draft"}
+{"id": "String_UI_ARCANA_POPUP_STATFILTERTOOLTIP_TITLE_body", "source": "Select Effects", "translation": "Wybierz efekty", "status": "draft"}
+{"id": "String_UI_ARCANA_SCREEN_TAB_ARCANA_body", "source": "Arcana", "translation": "Arkana", "status": "draft"}
+{"id": "String_UI_ARCANA_SCREEN_TAB_CREATE_body", "source": "Transmute", "translation": "Transmutuj", "status": "draft"}
+{"id": "String_UI_ARCANA_SCREEN_TAB_EQUIP_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_ARCANA_SCREEN_TAB_EXTRACT_body", "source": "Extract", "translation": "Ekstrahuj", "status": "draft"}
+{"id": "String_UI_ARCANA_SCREEN_TITLE_body", "source": "Arcana", "translation": "Arkana", "status": "draft"}
+{"id": "String_UI_ARCANA_SET_EFFECT_EQUIP_COUNT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARCANA_SET_EFFECT_ONBOARDING_NO_EFFECT_body", "source": "Set Effects will activate if you equip multiple Arcana from the same set.", "translation": "Efekty zestawu aktywują się po założeniu kilku Arcana z tego samego zestawu.", "status": "draft"}
+{"id": "String_UI_ARCANA_SET_EFFECT_TITLE_body", "source": "Set Effects", "translation": "Efekty zestawu", "status": "draft"}
+{"id": "String_UI_ARCANA_SET_ITEM_LIST_body", "source": "Set Contents", "translation": "Zawartość zestawu", "status": "draft"}
+{"id": "String_UI_ARCANA_TOTAL_COUNT_body", "source": "{0} / {1} Owned", "translation": "{0} / {1} posiadane", "status": "draft"}
+{"id": "String_UI_ARENA_BUTTON_MATCHING_START_REQUIRE_WAITING_FOR_PARTY_body", "source": "Waiting for party members to accept", "translation": "Oczekiwanie na akceptację członków drużyny", "status": "draft"}
+{"id": "String_UI_ARENA_BUTTON_MATCHING_START_REQUIRE_WAITING_TIME_body", "source": "{0}s", "translation": "{0}s", "status": "draft"}
+{"id": "String_UI_ARENA_BUTTON_MATCHING_START_body", "source": "Start Matchmaking", "translation": "Rozpocznij dobieranie", "status": "draft"}
+{"id": "String_UI_ARENA_BUTTON_RANKING_PAGE_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_ARENA_CARMODE_HUD_ARTIFACT_SPAWN_DESC_body", "source": "Relic has appeared!", "translation": "Relikt się pojawił!", "status": "draft"}
+{"id": "String_UI_ARENA_CARMODE_HUD_EXTRA_COUNTDOWN_TIME_DESC_body", "source": "Pushing the Shard Catalyst into the opposing team's entry zone during Extra Time results in immediate victory.\nIf Extra Time ends without a point being scored, the match result is determined based on the location of the Shard Catalyst.", "translation": "Przepchnięcie Katalizatora Odłamków do strefy wejściowej drużyny przeciwnej w dogrywce oznacza natychmiastowe zwycięstwo.\nJeśli dogrywka zakończy się bez zdobycia punktu, wynik meczu zależy od położenia Katalizatora Odłamków.", "status": "draft"}
+{"id": "String_UI_ARENA_CARMODE_HUD_EXTRA_COUNTDOWN_TIME_TITLE_body", "source": "Extra Time", "translation": "Dogrywka", "status": "draft"}
+{"id": "String_UI_ARENA_CTF_HUD_EXTRA_REMAIN_TIME_DESC_body", "source": "The first team to score wins.", "translation": "Wygrywa drużyna, która jako pierwsza zdobędzie punkt.", "status": "draft"}
+{"id": "String_UI_ARENA_CTF_HUD_EXTRA_REMAIN_TIME_TITLE_body", "source": "Overtime", "translation": "Dogrywka", "status": "draft"}
+{"id": "String_UI_ARENA_CTF_HUD_REMAIN_TIME_DESC_body", "source": "The first team to reach {0}points wins.", "translation": "Wygrywa drużyna, która jako pierwsza zdobędzie {0} punktów.", "status": "draft"}
+{"id": "String_UI_ARENA_DOM_HUD_EXTRA_REMAIN_TIME_DESC_body", "source": "The first team to score enough points wins.", "translation": "Wygrywa drużyna, która jako pierwsza zdobędzie wystarczającą liczbę punktów.", "status": "draft"}
+{"id": "String_UI_ARENA_DOM_HUD_EXTRA_REMAIN_TIME_TITLE_body", "source": "Overtime", "translation": "Dogrywka", "status": "draft"}
+{"id": "String_UI_ARENA_DOM_HUD_REMAIN_TIME_DESC_body", "source": "The first team to reach {0}points wins.", "translation": "Wygrywa drużyna, która jako pierwsza zdobędzie {0} punktów.", "status": "draft"}
+{"id": "String_UI_ARENA_DOM_HUD_SITE_SCORE_PER_SEC_body", "source": "+{0}/s", "translation": "+{0}/s", "status": "draft"}
+{"id": "String_UI_ARENA_DOM_HUD_TEAM_SCORE_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_EXCEEDED_MAX_VICTORY_RESET_DAY_body", "source": "Resets every {0}.", "translation": "Reset co {0}.", "status": "draft"}
+{"id": "String_UI_ARENA_EXCEEDED_MAX_VICTORY_REWARDS_TITLE_body", "source": "Maximum Weekly Reward", "translation": "Maksymalna nagroda tygodniowa", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_AUTO_DENY_body", "source": "Automatically declining in {0}s", "translation": "Automatyczna odmowa za {0}s", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_BUTTON_ACCEPT_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_BUTTON_DENY_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_INFO_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_WAITING_FOR_PARTY_body", "source": "Waiting for party members to accept", "translation": "Oczekiwanie na akceptację członków drużyny", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_MATCHING_START_REQUIRE_body", "source": "Starting matchmaking.", "translation": "Rozpoczynanie dobierania.", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_REMAIN_ASSIST_body", "source": "A", "translation": "A", "status": "draft"}

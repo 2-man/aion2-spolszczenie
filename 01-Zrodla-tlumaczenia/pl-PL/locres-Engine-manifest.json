@@ -1,0 +1,180 @@
+{
+  "table": "locres-Engine",
+  "namespace": "LOCRES",
+  "culture": "en",
+  "inputSha256": "469c4786a216a0e30e30dff33168d456ce1b9e4bd8e6ce829d31049d7c28ad7a",
+  "records": 8358,
+  "decodedJsonSha256": "3476b8f6c2c1191dd183ce0b886bc29aa294f00ad261b30c6ad2a930723f6ba4",
+  "batches": [
+    {
+      "file": "locres-Engine/Engine/0001.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0002.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0003.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0004.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0005.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0006.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0007.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0008.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0009.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0010.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0011.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0012.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0013.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0014.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0015.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0016.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0017.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0018.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0019.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0020.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0021.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0022.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0023.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0024.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0025.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0026.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0027.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0028.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0029.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0030.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0031.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0032.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0033.jsonl",
+      "count": 250,
+      "category": "Engine"
+    },
+    {
+      "file": "locres-Engine/Engine/0034.jsonl",
+      "count": 108,
+      "category": "Engine"
+    }
+  ]
+}

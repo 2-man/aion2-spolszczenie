@@ -1,0 +1,250 @@
+{"id":"ncmop_Failed_to_connect_to_the_server","source":"Failed to connect to the server. ({0})","category":"NcPlatformSdk","translation":"Nie udało się połączyć z serwerem. ({0})","status":"draft"}
+{"id":"ncmop_Failed_to_connection_timed_out","source":"Server connection has timed out. ({0})","category":"NcPlatformSdk","translation":"Przekroczono limit czasu połączenia z serwerem. ({0})","status":"draft"}
+{"id":"ncmop_account_merge_cancel_description","source":"Abort the account-linking process?","category":"NcPlatformSdk","translation":"Przerwać proces łączenia kont?","status":"draft"}
+{"id":"ncmop_account_merge_complete_description","source":"Account-linking is completed.\nFrom now on, you can cross-play on the other platform with your linked account.","category":"NcPlatformSdk","translation":"Łączenie kont zostało zakończone.\nOd teraz możesz grać międzyplatformowo na innej platformie, korzystając z połączonego konta.","status":"draft"}
+{"id":"ncmop_account_merge_complete_title","source":"Account-linking Completed","category":"NcPlatformSdk","translation":"Łączenie kont zakończone","status":"draft"}
+{"id":"ncmop_account_merge_fail_description","source":"An account-linking error occurred.\n({0})","category":"NcPlatformSdk","translation":"Wystąpił błąd podczas łączenia kont.\n({0})","status":"draft"}
+{"id":"ncmop_account_merge_fail_title","source":"Account-linking Failed","category":"NcPlatformSdk","translation":"Nie udało się połączyć kont","status":"draft"}
+{"id":"ncmop_account_merge_input_pin_code_description","source":"Please enter the link code you've issued on the other platform.","category":"NcPlatformSdk","translation":"Wprowadź kod łączenia wygenerowany na drugiej platformie.","status":"draft"}
+{"id":"ncmop_account_merge_input_pin_code_title","source":"Enter Link Code","category":"NcPlatformSdk","translation":"Wprowadź kod łączenia","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_1_description","source":"Launch the game on both devices you want to cross-play.","category":"NcPlatformSdk","translation":"Uruchom grę na obu urządzeniach, między którymi chcesz grać.","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_1_title","source":"Launch the Game","category":"NcPlatformSdk","translation":"Uruchom grę","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_2_description","source":"On the device you've been playing on, select 'Issue Link Code' to issue a link code.","category":"NcPlatformSdk","translation":"Na dotychczas używanym urządzeniu wybierz „Wygeneruj kod łączenia”, aby go uzyskać.","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_2_title","source":"Issue Link Code","category":"NcPlatformSdk","translation":"Wygeneruj kod łączenia","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_3_description","source":"On the device you want to connect, select 'Enter Link Code' to enter the link code you issued.","category":"NcPlatformSdk","translation":"Na urządzeniu, które chcesz połączyć, wybierz „Wprowadź kod łączenia”, a następnie wpisz wygenerowany kod.","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_3_title","source":"Enter Link Code","category":"NcPlatformSdk","translation":"Wprowadź kod łączenia","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_4_description","source":"Once you've linked your account on the other platform, you'll be able to cross-play.","category":"NcPlatformSdk","translation":"Po połączeniu konta na drugiej platformie będzie można grać międzyplatformowo.","status":"draft"}
+{"id":"ncmop_account_merge_instruction_content_4_title","source":"Account Linking Completed","category":"NcPlatformSdk","translation":"Łączenie kont zakończone","status":"draft"}
+{"id":"ncmop_account_merge_instruction_note","source":"If you want to cross-play on a different mobile device than the one you linked, you'll need to link your account again.","category":"NcPlatformSdk","translation":"Jeśli chcesz grać na innym urządzeniu mobilnym niż to, które połączono, musisz ponownie połączyć konto.","status":"draft"}
+{"id":"ncmop_account_merge_instruction_return","source":"Previous Screen","category":"NcPlatformSdk","translation":"Poprzedni ekran","status":"draft"}
+{"id":"ncmop_account_merge_instruction_title","source":"How to Link","category":"NcPlatformSdk","translation":"Jak połączyć konta","status":"draft"}
+{"id":"ncmop_account_merge_invalid_pin_code_description","source":"The link code you entered does not match.\nPlease re-enter the link code displayed on the device on which you issued the code.","category":"NcPlatformSdk","translation":"Wprowadzony kod łączenia jest nieprawidłowy.\nWpisz ponownie kod wyświetlony na urządzeniu, na którym go wygenerowano.","status":"draft"}
+{"id":"ncmop_account_merge_invalid_pin_code_title","source":"Invalid Link Code","category":"NcPlatformSdk","translation":"Nieprawidłowy kod łączenia","status":"draft"}
+{"id":"ncmop_account_merge_progress_description","source":"Please do not exit the game.\nThe screen will automatically switch when the process is completed.","category":"NcPlatformSdk","translation":"Nie zamykaj gry.\nPo zakończeniu procesu ekran zmieni się automatycznie.","status":"draft"}
+{"id":"ncmop_account_merge_progress_title","source":"Linking your account...","category":"NcPlatformSdk","translation":"Łączenie konta...","status":"draft"}
+{"id":"ncmop_account_merge_show_pin_code_description","source":"Enter the following link code on the device of the other platform to which you want to connect.","category":"NcPlatformSdk","translation":"Wpisz poniższy kod na urządzeniu drugiej platformy, z którą chcesz połączyć konto.","status":"draft"}
+{"id":"ncmop_account_merge_show_pin_code_seconds","source":"{0} second(s)","category":"NcPlatformSdk","translation":"{0} s","status":"draft"}
+{"id":"ncmop_account_merge_show_pin_code_sub_text","source":"Please do not close this window until the process is completed. The screen will switch automatically.","category":"NcPlatformSdk","translation":"Nie zamykaj tego okna do zakończenia procesu. Ekran zmieni się automatycznie.","status":"draft"}
+{"id":"ncmop_account_merge_show_pin_code_title","source":"Issue Link Code","category":"NcPlatformSdk","translation":"Wygeneruj kod łączenia","status":"draft"}
+{"id":"ncmop_account_not_found","source":"This account does not exist. Please check your account. ({0})","category":"NcPlatformSdk","translation":"To konto nie istnieje. Sprawdź dane konta. ({0})","status":"draft"}
+{"id":"ncmop_accs_permission_banned","source":"This account is restricted. Please use another account. ({0})","category":"NcPlatformSdk","translation":"To konto jest zablokowane. Użyj innego konta. ({0})","status":"draft"}
+{"id":"ncmop_accs_permission_denied","source":"This account does not have permission to access. ({0})","category":"NcPlatformSdk","translation":"To konto nie ma uprawnień dostępu. ({0})","status":"draft"}
+{"id":"ncmop_agreement_ui_btn_all_check_and_start","source":"Agree to all and start","category":"NcPlatformSdk","translation":"Zaakceptuj wszystkie i rozpocznij","status":"draft"}
+{"id":"ncmop_agreement_ui_btn_start","source":"Start","category":"NcPlatformSdk","translation":"Rozpocznij","status":"draft"}
+{"id":"ncmop_agreement_ui_detail","source":"See more","category":"NcPlatformSdk","translation":"Więcej","status":"draft"}
+{"id":"ncmop_agreement_ui_game_service","source":"Agree to Game Terms of Service","category":"NcPlatformSdk","translation":"Akceptuję Warunki korzystania z gry","status":"draft"}
+{"id":"ncmop_agreement_ui_game_service_sub_text","source":"This doesn't include promotional push notifications from PLAYNC website.","category":"NcPlatformSdk","translation":"Nie obejmuje to promocyjnych powiadomień push ze strony PLAYNC.","status":"draft"}
+{"id":"ncmop_agreement_ui_game_service_sub_text_deprecated","source":"Permission to receive promotional push notifications is included. Promotional push notifications from PLAYNC are not included.","category":"NcPlatformSdk","translation":"Zgoda obejmuje otrzymywanie promocyjnych powiadomień push. Nie obejmuje promocyjnych powiadomień push od PLAYNC.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_text_0","source":"In accordance with EU GDPR (General Data Protection Regulation), the transfer of personal data may be made outside the European Union only if the individual expressly consents.","category":"NcPlatformSdk","translation":"Zgodnie z unijnym ogólnym rozporządzeniem o ochronie danych (RODO) dane osobowe mogą być przekazywane poza Unię Europejską wyłącznie za wyraźną zgodą danej osoby.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_text_1","source":"NC transfers personal data outside the European Union (Republic of Korea and the United States of America) with the individual's consent.","category":"NcPlatformSdk","translation":"NC przekazuje dane osobowe poza Unię Europejską (do Republiki Korei i Stanów Zjednoczonych) za zgodą danej osoby.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_text_2","source":"Your personal information may be transferred to a region which the European Commission has recognized as offering an inadequate level of data protection. Your personal information will be used to provide NC game services only and NC will vigorously adhere to the regulations required by GDPR to protect your personal information.","category":"NcPlatformSdk","translation":"Twoje dane osobowe mogą zostać przekazane do regionu, który Komisja Europejska uznała za zapewniający niewystarczający poziom ochrony danych. Dane będą wykorzystywane wyłącznie do świadczenia usług gier NC, a NC będzie ściśle przestrzegać wymogów RODO dotyczących ich ochrony.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_text_3","source":"The use of service is restricted if the individual does not consent to the transfer of personal information.","category":"NcPlatformSdk","translation":"Korzystanie z usługi jest ograniczone, jeśli dana osoba nie wyrazi zgody na przekazanie danych osobowych.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_text_4","source":"The individual may withdraw his or her consent at any time after giving consent to the transfer of personal information outside the EU.","category":"NcPlatformSdk","translation":"Po wyrażeniu zgody na przekazanie danych osobowych poza UE można ją wycofać w dowolnym momencie.","status":"draft"}
+{"id":"ncmop_agreement_ui_gdpr_title","source":"Onward Transfer of Personal Information","category":"NcPlatformSdk","translation":"Dalsze przekazywanie danych osobowych","status":"draft"}
+{"id":"ncmop_agreement_ui_newsletter","source":"Agree to Receive Newsletters","category":"NcPlatformSdk","translation":"Zgadzam się na otrzymywanie newsletterów","status":"draft"}
+{"id":"ncmop_agreement_ui_optional","source":"Optional","category":"NcPlatformSdk","translation":"Opcjonalne","status":"draft"}
+{"id":"ncmop_agreement_ui_privacy","source":"Agree to Collection and Use of Personal Information","category":"NcPlatformSdk","translation":"Zgadzam się na zbieranie i wykorzystywanie danych osobowych","status":"draft"}
+{"id":"ncmop_agreement_ui_push_option_ad_day","source":"Agree to receive day time push notifications (8 am - 9 pm)","category":"NcPlatformSdk","translation":"Zgadzam się na otrzymywanie dziennych powiadomień push (8:00–21:00)","status":"draft"}
+{"id":"ncmop_agreement_ui_push_option_ad_night","source":"Agree to receive night time push notifications (9 pm - 8 am)","category":"NcPlatformSdk","translation":"Zgadzam się na otrzymywanie nocnych powiadomień push (21:00–8:00)","status":"draft"}
+{"id":"ncmop_agreement_ui_push_sub_title","source":"Please agree to receive promotional push notifications to use the service.","category":"NcPlatformSdk","translation":"Aby korzystać z usługi, wyraź zgodę na otrzymywanie promocyjnych powiadomień push.","status":"draft"}
+{"id":"ncmop_agreement_ui_push_title","source":"Agree to receive promotional push notifications","category":"NcPlatformSdk","translation":"Zgadzam się na otrzymywanie promocyjnych powiadomień push","status":"draft"}
+{"id":"ncmop_agreement_ui_required","source":"Required","category":"NcPlatformSdk","translation":"Wymagane","status":"draft"}
+{"id":"ncmop_agreement_ui_sub_title","source":"Please agree to the terms to use the service.","category":"NcPlatformSdk","translation":"Zaakceptuj warunki, aby korzystać z usługi.","status":"draft"}
+{"id":"ncmop_agreement_ui_title","source":"Game Terms of Service","category":"NcPlatformSdk","translation":"Warunki korzystania z gry","status":"draft"}
+{"id":"ncmop_agreement_ui_toast_push_option_ad","source":"[NC] You have agreed to receive promotional push notifications.","category":"NcPlatformSdk","translation":"[NC] Zgoda na otrzymywanie promocyjnych powiadomień push została zapisana.","status":"draft"}
+{"id":"ncmop_agreement_ui_toast_push_option_ad_day","source":"[NC] Day promo push: on","category":"NcPlatformSdk","translation":"[NC] Dzienne powiadomienia promocyjne push: włączone","status":"draft"}
+{"id":"ncmop_agreement_ui_toast_push_option_ad_day_cancel","source":"[NC] Day promo push: off","category":"NcPlatformSdk","translation":"[NC] Dzienne powiadomienia promocyjne push: wyłączone","status":"draft"}
+{"id":"ncmop_agreement_ui_toast_push_option_ad_night","source":"[NC] Night promo push: on","category":"NcPlatformSdk","translation":"[NC] Nocne powiadomienia promocyjne push: włączone","status":"draft"}
+{"id":"ncmop_agreement_ui_toast_push_option_ad_night_cancel","source":"[NC] Night promo push: off","category":"NcPlatformSdk","translation":"[NC] Nocne powiadomienia promocyjne push: wyłączone","status":"draft"}
+{"id":"ncmop_agreement_ui_transfer_personal_information","source":"Agree to Onward Transfer of Personal Information","category":"NcPlatformSdk","translation":"Zgadzam się na dalsze przekazywanie danych osobowych","status":"draft"}
+{"id":"ncmop_app_not_allowed_ip","source":"Failed to connect. Please contact the SUPPORT. ({0})","category":"NcPlatformSdk","translation":"Nie udało się połączyć. Skontaktuj się z pomocą techniczną. ({0})","status":"draft"}
+{"id":"ncmop_backup_auth_error_0","source":"The verification code is invalid.\nPlease try again.","category":"NcPlatformSdk","translation":"Kod weryfikacyjny jest nieprawidłowy.\nSpróbuj ponownie.","status":"draft"}
+{"id":"ncmop_backup_auth_error_1","source":"You have exceeded the time limit.\nPlease try again after resending.","category":"NcPlatformSdk","translation":"Przekroczono limit czasu.\nWyślij kod ponownie i spróbuj jeszcze raz.","status":"draft"}
+{"id":"ncmop_backup_auth_error_2","source":"You have exceeded the maximum number of verification e-mail requests.\nPlease try again later.","category":"NcPlatformSdk","translation":"Przekroczono limit żądań wysłania wiadomości e-mail z kodem weryfikacyjnym.\nSpróbuj ponownie później.","status":"draft"}
+{"id":"ncmop_backup_auth_error_3","source":"You have exceeded the maximum number of verification attempts.\nPlease try again later.","category":"NcPlatformSdk","translation":"Przekroczono limit prób weryfikacji.\nSpróbuj ponownie później.","status":"draft"}
+{"id":"ncmop_backup_auth_error_4","source":"Invalid phone number.\nPlease enter the correct number.","category":"NcPlatformSdk","translation":"Nieprawidłowy numer telefonu.\nWpisz poprawny numer.","status":"draft"}
+{"id":"ncmop_backup_auth_error_5","source":"You have exceeded the number of accounts available for that phone number, so you can no longer register.","category":"NcPlatformSdk","translation":"Wyczerpano limit kont, które można zarejestrować przy użyciu tego numeru telefonu. Rejestracja nie jest już możliwa.","status":"draft"}
+{"id":"ncmop_banned","source":"This account is restricted. Please use another account. ({0})","category":"NcPlatformSdk","translation":"To konto jest zablokowane. Użyj innego konta. ({0})","status":"draft"}
+{"id":"ncmop_common_account","source":"Account","category":"NcPlatformSdk","translation":"Konto","status":"draft"}
+{"id":"ncmop_common_agree","source":"I Agree","category":"NcPlatformSdk","translation":"Zgadzam się","status":"draft"}
+{"id":"ncmop_common_cancel","source":"Cancel","category":"NcPlatformSdk","translation":"Anuluj","status":"draft"}
+{"id":"ncmop_common_cancel_waiting","source":"Cancel","category":"NcPlatformSdk","translation":"Anuluj","status":"draft"}
+{"id":"ncmop_common_change","source":"Change","category":"NcPlatformSdk","translation":"Zmień","status":"draft"}
+{"id":"ncmop_common_close","source":"Close","category":"NcPlatformSdk","translation":"Zamknij","status":"draft"}
+{"id":"ncmop_common_complete","source":"Completed","category":"NcPlatformSdk","translation":"Zakończono","status":"draft"}
+{"id":"ncmop_common_confirm","source":"OK","category":"NcPlatformSdk","translation":"OK","status":"draft"}
+{"id":"ncmop_common_date","source":"Date","category":"NcPlatformSdk","translation":"Data","status":"draft"}
+{"id":"ncmop_common_delete","source":"Delete","category":"NcPlatformSdk","translation":"Usuń","status":"draft"}
+{"id":"ncmop_common_develop","source":"(This is a process UI that is only used during development.)","category":"NcPlatformSdk","translation":"(Ten ekran procesu jest używany wyłącznie podczas tworzenia gry.)","status":"draft"}
+{"id":"ncmop_common_disagree","source":"Disagree","category":"NcPlatformSdk","translation":"Nie zgadzam się","status":"draft"}
+{"id":"ncmop_common_do_it_later","source":"Do it later","category":"NcPlatformSdk","translation":"Zrób to później","status":"draft"}
+{"id":"ncmop_common_error_message","source":"A temporary error has occurred.\nPlease try again later. ({0})","category":"NcPlatformSdk","translation":"Wystąpił tymczasowy błąd.\nSpróbuj ponownie później. ({0})","status":"draft"}
+{"id":"ncmop_common_in_use","source":"In Use","category":"NcPlatformSdk","translation":"W użyciu","status":"draft"}
+{"id":"ncmop_common_ip","source":"IP","category":"NcPlatformSdk","translation":"IP","status":"draft"}
+{"id":"ncmop_common_language_arabic","source":"Arabic","category":"NcPlatformSdk","translation":"Arabski","status":"draft"}
+{"id":"ncmop_common_language_automatic_recognition","source":"Auto Detection","category":"NcPlatformSdk","translation":"Wykrywanie automatyczne","status":"draft"}
+{"id":"ncmop_common_language_english","source":"English","category":"NcPlatformSdk","translation":"Angielski","status":"draft"}
+{"id":"ncmop_common_language_french","source":"French","category":"NcPlatformSdk","translation":"Francuski","status":"draft"}
+{"id":"ncmop_common_language_german","source":"German","category":"NcPlatformSdk","translation":"Niemiecki","status":"draft"}
+{"id":"ncmop_common_language_indonesian","source":"Indonesian","category":"NcPlatformSdk","translation":"Indonezyjski","status":"draft"}
+{"id":"ncmop_common_language_italian","source":"Italian","category":"NcPlatformSdk","translation":"Włoski","status":"draft"}
+{"id":"ncmop_common_language_japanese","source":"Japanese","category":"NcPlatformSdk","translation":"Japoński","status":"draft"}
+{"id":"ncmop_common_language_korean","source":"Korean","category":"NcPlatformSdk","translation":"Koreański","status":"draft"}
+{"id":"ncmop_common_language_polish","source":"Polish","category":"NcPlatformSdk","translation":"Polski","status":"draft"}
+{"id":"ncmop_common_language_portuguese","source":"Portuguese (Brazil)","category":"NcPlatformSdk","translation":"Portugalski (Brazylia)","status":"draft"}
+{"id":"ncmop_common_language_russian","source":"Russian","category":"NcPlatformSdk","translation":"Rosyjski","status":"draft"}
+{"id":"ncmop_common_language_simplified_chinese","source":"Chinese (Simplified)","category":"NcPlatformSdk","translation":"Chiński (uproszczony)","status":"draft"}
+{"id":"ncmop_common_language_spanish","source":"Spanish","category":"NcPlatformSdk","translation":"Hiszpański","status":"draft"}
+{"id":"ncmop_common_language_thai","source":"Thai","category":"NcPlatformSdk","translation":"Tajski","status":"draft"}
+{"id":"ncmop_common_language_traditional_chinese","source":"Chinese (Traditional)","category":"NcPlatformSdk","translation":"Chiński (tradycyjny)","status":"draft"}
+{"id":"ncmop_common_language_turkish","source":"Turkish","category":"NcPlatformSdk","translation":"Turecki","status":"draft"}
+{"id":"ncmop_common_language_vietnamese","source":"Vietnamese","category":"NcPlatformSdk","translation":"Wietnamski","status":"draft"}
+{"id":"ncmop_common_leave","source":"Leave","category":"NcPlatformSdk","translation":"Opuść","status":"draft"}
+{"id":"ncmop_common_location","source":"Region","category":"NcPlatformSdk","translation":"Region","status":"draft"}
+{"id":"ncmop_common_maintenance","source":"Maintenance","category":"NcPlatformSdk","translation":"Przerwa techniczna","status":"draft"}
+{"id":"ncmop_common_next","source":"Next","category":"NcPlatformSdk","translation":"Dalej","status":"draft"}
+{"id":"ncmop_common_no","source":"No","category":"NcPlatformSdk","translation":"Nie","status":"draft"}
+{"id":"ncmop_common_notice","source":"Notice","category":"NcPlatformSdk","translation":"Powiadomienie","status":"draft"}
+{"id":"ncmop_common_previous","source":"Previous","category":"NcPlatformSdk","translation":"Wstecz","status":"draft"}
+{"id":"ncmop_common_register","source":"Register","category":"NcPlatformSdk","translation":"Zarejestruj","status":"draft"}
+{"id":"ncmop_common_retry","source":"Try again","category":"NcPlatformSdk","translation":"Spróbuj ponownie","status":"draft"}
+{"id":"ncmop_common_retrying","source":"Retrying...","category":"NcPlatformSdk","translation":"Ponawianie...","status":"draft"}
+{"id":"ncmop_common_return","source":"Back","category":"NcPlatformSdk","translation":"Wróć","status":"draft"}
+{"id":"ncmop_common_save","source":"Save","category":"NcPlatformSdk","translation":"Zapisz","status":"draft"}
+{"id":"ncmop_common_scroll","source":"Scroll","category":"NcPlatformSdk","translation":"Przewiń","status":"draft"}
+{"id":"ncmop_common_selection","source":"Select","category":"NcPlatformSdk","translation":"Wybierz","status":"draft"}
+{"id":"ncmop_common_time_over","source":"Timed Out","category":"NcPlatformSdk","translation":"Przekroczono limit czasu","status":"draft"}
+{"id":"ncmop_common_to_change","source":"Change","category":"NcPlatformSdk","translation":"Zmień","status":"draft"}
+{"id":"ncmop_common_unregister","source":"Remove","category":"NcPlatformSdk","translation":"Usuń","status":"draft"}
+{"id":"ncmop_common_yes","source":"Yes","category":"NcPlatformSdk","translation":"Tak","status":"draft"}
+{"id":"ncmop_console_login_delete","source":"Delete","category":"NcPlatformSdk","translation":"Usuń","status":"draft"}
+{"id":"ncmop_console_login_delete_alert_description","source":"This game data will be removed from the list. You can restore it by verifying your account.","category":"NcPlatformSdk","translation":"Dane tej gry zostaną usunięte z listy. Możesz je przywrócić, weryfikując konto.","status":"draft"}
+{"id":"ncmop_console_login_delete_alert_title","source":"Remove Game Data","category":"NcPlatformSdk","translation":"Usuń dane gry","status":"draft"}
+{"id":"ncmop_console_login_description","source":"GameData ID: {0}","category":"NcPlatformSdk","translation":"ID danych gry: {0}","status":"draft"}
+{"id":"ncmop_console_login_error_desc","source":"The account verification information for this game data is invalid and it will be removed from the list. Please re-verify.","category":"NcPlatformSdk","translation":"Dane weryfikacyjne konta dla tych danych gry są nieprawidłowe, dlatego zostaną usunięte z listy. Zweryfikuj konto ponownie.","status":"draft"}
+{"id":"ncmop_console_login_error_title","source":"Invalid Game Data","category":"NcPlatformSdk","translation":"Nieprawidłowe dane gry","status":"draft"}
+{"id":"ncmop_console_login_last_login_date","source":"Last Accessed","category":"NcPlatformSdk","translation":"Ostatnie logowanie","status":"draft"}
+{"id":"ncmop_console_login_memo_description","source":"Enter information to record.","category":"NcPlatformSdk","translation":"Wpisz notatkę.","status":"draft"}
+{"id":"ncmop_console_login_memo_title","source":"Game Data Note","category":"NcPlatformSdk","translation":"Notatka do danych gry","status":"draft"}
+{"id":"ncmop_console_login_other_data","source":"Load Other Data","category":"NcPlatformSdk","translation":"Wczytaj inne dane","status":"draft"}
+{"id":"ncmop_console_login_overflow_error_description","source":"Maximum number of game data entries exceeded. Remove unused data and try again.","category":"NcPlatformSdk","translation":"Przekroczono limit wpisów danych gry. Usuń nieużywane dane i spróbuj ponownie.","status":"draft"}
+{"id":"ncmop_console_login_overflow_error_title","source":"Limit Reached on Game Data Registration","category":"NcPlatformSdk","translation":"Osiągnięto limit rejestracji danych gry","status":"draft"}
+{"id":"ncmop_console_login_sub_title","source":"You can load and play using your saved game data.","category":"NcPlatformSdk","translation":"Możesz wczytać zapisane dane gry i kontynuować rozgrywkę.","status":"draft"}
+{"id":"ncmop_console_login_title","source":"Game Data List","category":"NcPlatformSdk","translation":"Lista danych gry","status":"draft"}
+{"id":"ncmop_device_registration_info","source":"Device Registration Info","category":"NcPlatformSdk","translation":"Informacje o rejestracji urządzeń","status":"draft"}
+{"id":"ncmop_device_registration_info_change_name","source":"Change name","category":"NcPlatformSdk","translation":"Zmień nazwę","status":"draft"}
+{"id":"ncmop_device_registration_info_change_phone","source":"Change verification phone number","category":"NcPlatformSdk","translation":"Zmień numer telefonu do weryfikacji","status":"draft"}
+{"id":"ncmop_device_registration_info_count","source":"Number of Devices Registered in the Account ({0}/{1})","category":"NcPlatformSdk","translation":"Liczba urządzeń zarejestrowanych na koncie ({0}/{1})","status":"draft"}
+{"id":"ncmop_device_registration_info_footer_1","source":"You can register up to {0} device(s) per account.","category":"NcPlatformSdk","translation":"Na koncie można zarejestrować maksymalnie {0} urządzeń.","status":"draft"}
+{"id":"ncmop_device_registration_info_footer_2","source":"The same device information registered before the re-installation of the game will not be removed.","category":"NcPlatformSdk","translation":"Dane urządzenia zarejestrowane przed ponowną instalacją gry nie zostaną usunięte.","status":"draft"}
+{"id":"ncmop_device_registration_info_footer_3","source":"When you exceed the number of registered devices, you can remove other devices to register.","category":"NcPlatformSdk","translation":"Po przekroczeniu limitu zarejestrowanych urządzeń możesz usunąć inne urządzenie, aby zarejestrować nowe.","status":"draft"}
+{"id":"ncmop_device_registration_info_footer_4","source":"Need to change your verification phone number?","category":"NcPlatformSdk","translation":"Chcesz zmienić numer telefonu do weryfikacji?","status":"draft"}
+{"id":"ncmop_device_remove_message","source":"Once you remove {0}, you will no longer be able to use that device to connect.\nRemove anyway?","category":"NcPlatformSdk","translation":"Po usunięciu urządzenia {0} nie będzie już można łączyć się z niego z grą.\nCzy mimo to chcesz je usunąć?","status":"draft"}
+{"id":"ncmop_dormant_user","source":"This account is a dormant account. Please use another account. ({0})","category":"NcPlatformSdk","translation":"To nieaktywne konto. Użyj innego konta. ({0})","status":"draft"}
+{"id":"ncmop_double_login","source":"Failed to connect to the game server. Please log in again to load the data. ({0})","category":"NcPlatformSdk","translation":"Nie udało się połączyć z serwerem gry. Zaloguj się ponownie, aby wczytać dane. ({0})","status":"draft"}
+{"id":"ncmop_edit_device_name","source":"Change device name","category":"NcPlatformSdk","translation":"Zmień nazwę urządzenia","status":"draft"}
+{"id":"ncmop_edit_device_name_message","source":"Enter a new name.","category":"NcPlatformSdk","translation":"Wpisz nową nazwę.","status":"draft"}
+{"id":"ncmop_envoy_proxy_error_0","source":"Connection to the service is currently being delayed.\nPlease try again later. ({0})","category":"NcPlatformSdk","translation":"Połączenie z usługą jest obecnie opóźnione.\nSpróbuj ponownie później. ({0})","status":"draft"}
+{"id":"ncmop_game_account_invalid_status_description","source":"Accounts in gift status cannot access the game.\nPlease cancel the gift before logging in again.\nGifts can be canceled in your purchase history.","category":"NcPlatformSdk","translation":"Konta ze statusem prezentu nie mogą uzyskać dostępu do gry.\nAnuluj prezent przed ponownym logowaniem.\nMożesz anulować prezent w historii zakupów.","status":"draft"}
+{"id":"ncmop_game_banned","source":"This account is restricted. Please use another account. ({0})","category":"NcPlatformSdk","translation":"To konto jest zablokowane. Użyj innego konta. ({0})","status":"draft"}
+{"id":"ncmop_gamecenter_login_to_first","source":"Login to Game Center first ({0}). (Settings > Login to Game Center)","category":"NcPlatformSdk","translation":"Najpierw zaloguj się do Game Center ({0}). (Ustawienia > Zaloguj się do Game Center)","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_content","source":"Please leave us your comments and suggestions here. We will try our best to make our games better with your ideas and opinions.","category":"NcPlatformSdk","translation":"Zostaw tutaj komentarze i sugestie. Postaramy się ulepszyć nasze gry, korzystając z Twoich pomysłów i opinii.","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_interest","source":"It's fun!","category":"NcPlatformSdk","translation":"Świetna zabawa!","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_postpone","source":"Remind me later.","category":"NcPlatformSdk","translation":"Przypomnij mi później.","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_reject","source":"No, thanks.","category":"NcPlatformSdk","translation":"Nie, dziękuję.","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_sorry","source":"Needs improvement.","category":"NcPlatformSdk","translation":"Wymaga poprawy.","status":"draft"}
+{"id":"ncmop_good_reviews_dialog_title","source":"Rate Now","category":"NcPlatformSdk","translation":"Oceń teraz","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_cancel_dialog_content","source":"Are you sure you want to leave without saving your comment?","category":"NcPlatformSdk","translation":"Czy na pewno chcesz wyjść bez zapisania komentarza?","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_content_hint","source":"Leave a comment.","category":"NcPlatformSdk","translation":"Dodaj komentarz.","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_submit_done_dialog_content","source":"Thank you for your comment. Your feedback and suggestions will help us improve the quality of our service.","category":"NcPlatformSdk","translation":"Dziękujemy za komentarz. Twoja opinia i sugestie pomogą nam poprawić jakość usług.","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_submit_empty_dialog_content","source":"No comment has been entered. Please enter a comment.","category":"NcPlatformSdk","translation":"Nie wpisano komentarza. Wpisz komentarz.","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_title","source":"Comment","category":"NcPlatformSdk","translation":"Komentarz","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_type_control","source":"User Interface","category":"NcPlatformSdk","translation":"Interfejs użytkownika","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_type_convenience","source":"User-friendliness","category":"NcPlatformSdk","translation":"Łatwość obsługi","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_type_graphic","source":"Graphics (Characters, Backgrounds, etc.)","category":"NcPlatformSdk","translation":"Grafika (postacie, tła itp.)","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_type_interest","source":"Fun Game Play","category":"NcPlatformSdk","translation":"Przyjemność z rozgrywki","status":"draft"}
+{"id":"ncmop_good_reviews_feedback_type_tutorial","source":"Tutorial","category":"NcPlatformSdk","translation":"Samouczek","status":"draft"}
+{"id":"ncmop_good_reviews_review_status_sorry","source":"Need to Improve","category":"NcPlatformSdk","translation":"Do poprawy","status":"draft"}
+{"id":"ncmop_google_play_services_not_available_message","source":"Update for Google Play services is required. ({0})","category":"NcPlatformSdk","translation":"Wymagana jest aktualizacja Usług Google Play. ({0})","status":"draft"}
+{"id":"ncmop_google_reward_deliver_fail_title","source":"YouTube game rewards delivery has failed.","category":"NcPlatformSdk","translation":"Nie udało się dostarczyć nagród z gry na YouTube.","status":"draft"}
+{"id":"ncmop_google_reward_delivery_request_title","source":"YouTube game rewards\ndelivery request has been completed.","category":"NcPlatformSdk","translation":"Prośba o dostarczenie nagród z gry na YouTube\nzostała zrealizowana.","status":"draft"}
+{"id":"ncmop_google_reward_dialog_login_other_account","source":"Sign in with a different account and receive rewards","category":"NcPlatformSdk","translation":"Zaloguj się na inne konto, aby odebrać nagrody","status":"draft"}
+{"id":"ncmop_google_reward_dialog_receive_reward_button","source":"Receive Rewards","category":"NcPlatformSdk","translation":"Odbierz nagrody","status":"draft"}
+{"id":"ncmop_google_reward_dialog_sub_title","source":"You have signed in with {0}.\nWould you like to receive rewards for this account?","category":"NcPlatformSdk","translation":"Zalogowano na konto {0}.\nCzy chcesz odebrać nagrody dla tego konta?","status":"draft"}
+{"id":"ncmop_google_reward_dialog_title","source":"Receive YouTube game rewards","category":"NcPlatformSdk","translation":"Odbierz nagrody z gry na YouTube","status":"draft"}
+{"id":"ncmop_google_reward_no_reward_fail_sub_title","source":"There are no game rewards available for {0}.\nPlease check again.","category":"NcPlatformSdk","translation":"Brak dostępnych nagród z gry dla konta {0}.\nSprawdź ponownie.","status":"draft"}
+{"id":"ncmop_google_reward_no_reward_fail_title","source":"Failed to receive YouTube game rewards","category":"NcPlatformSdk","translation":"Nie udało się odebrać nagród z gry na YouTube","status":"draft"}
+{"id":"ncmop_google_reward_partial_success_sub_title","source":"You cannot receive rewards if you reach the claim limit.\nYou can check rewards received successfully in game.","category":"NcPlatformSdk","translation":"Po osiągnięciu limitu odbioru nie można odebrać kolejnych nagród.\nOdebrane nagrody możesz sprawdzić w grze.","status":"draft"}
+{"id":"ncmop_google_reward_partial_success_title","source":"You have received some YouTube game rewards.","category":"NcPlatformSdk","translation":"Odebrano część nagród z gry na YouTube.","status":"draft"}
+{"id":"ncmop_google_reward_success_sub_title","source":"Please check your rewards in the game.","category":"NcPlatformSdk","translation":"Sprawdź nagrody w grze.","status":"draft"}
+{"id":"ncmop_google_reward_success_title","source":"You have received YouTube game rewards.","category":"NcPlatformSdk","translation":"Odebrano nagrody z gry na YouTube.","status":"draft"}
+{"id":"ncmop_guardian_error_etc","source":"An error has occurred.","category":"NcPlatformSdk","translation":"Wystąpił błąd.","status":"draft"}
+{"id":"ncmop_guardian_error_exceeded_input_code","source":"You have exceeded the maximum number of verification attempts.","category":"NcPlatformSdk","translation":"Przekroczono limit prób weryfikacji.","status":"draft"}
+{"id":"ncmop_guardian_error_exceeded_input_code_time","source":"The verification code is no longer valid.","category":"NcPlatformSdk","translation":"Kod weryfikacyjny stracił ważność.","status":"draft"}
+{"id":"ncmop_guardian_error_exceeded_send_email","source":"You have exceeded the maximum number of verification e-mail requests.","category":"NcPlatformSdk","translation":"Przekroczono limit żądań wysłania wiadomości e-mail z kodem weryfikacyjnym.","status":"draft"}
+{"id":"ncmop_guardian_error_not_match_code","source":"Invalid verification code.","category":"NcPlatformSdk","translation":"Nieprawidłowy kod weryfikacyjny.","status":"draft"}
+{"id":"ncmop_guardian_error_not_match_email","source":"Invalid e-mail address.","category":"NcPlatformSdk","translation":"Nieprawidłowy adres e-mail.","status":"draft"}
+{"id":"ncmop_guardian_input_code","source":"Enter verification code","category":"NcPlatformSdk","translation":"Wpisz kod weryfikacyjny","status":"draft"}
+{"id":"ncmop_guardian_input_email","source":"Enter guardian's e-mail address","category":"NcPlatformSdk","translation":"Wpisz adres e-mail rodzica lub opiekuna","status":"draft"}
+{"id":"ncmop_guardian_more_than_age","source":"{0} and above","category":"NcPlatformSdk","translation":"Od {0} lat","status":"draft"}
+{"id":"ncmop_guardian_notice_process_email","source":"For individuals below {0}, parental consent will be requested through an e-mail.","category":"NcPlatformSdk","translation":"W przypadku osób poniżej {0} lat zgoda rodzica zostanie uzyskana za pośrednictwem poczty e-mail.","status":"draft"}
+{"id":"ncmop_guardian_re_input","source":"Please enter again.","category":"NcPlatformSdk","translation":"Wpisz ponownie.","status":"draft"}
+{"id":"ncmop_guardian_resend","source":"Resend","category":"NcPlatformSdk","translation":"Wyślij ponownie","status":"draft"}
+{"id":"ncmop_guardian_select_age","source":"Please select your age.","category":"NcPlatformSdk","translation":"Wybierz swój wiek.","status":"draft"}
+{"id":"ncmop_guardian_send_code","source":"Send verification code","category":"NcPlatformSdk","translation":"Wyślij kod weryfikacyjny","status":"draft"}
+{"id":"ncmop_guardian_send_email","source":"A verification code has been sent to the e-mail.","category":"NcPlatformSdk","translation":"Kod weryfikacyjny został wysłany na adres e-mail.","status":"draft"}
+{"id":"ncmop_guardian_text_0","source":"In accordance with EU GDPR, consent by the individual's parent or guardian is required in order to collect the personal information of the individuals below 16.","category":"NcPlatformSdk","translation":"Zgodnie z unijnym RODO, aby zbierać dane osobowe osób poniżej 16. roku życia, wymagana jest zgoda rodzica lub opiekuna.","status":"draft"}
+{"id":"ncmop_guardian_text_1","source":"Parent/guardian's e-mail address is required to receive parental consent.","category":"NcPlatformSdk","translation":"Do uzyskania zgody rodzica lub opiekuna potrzebny jest jego adres e-mail.","status":"draft"}
+{"id":"ncmop_guardian_text_2","source":"An e-mail regarding the agreement to the collection of personal information will be sent to the e-mail address you entered. You will be able to use our service once your parent/guardian consents to the agreement.","category":"NcPlatformSdk","translation":"Na podany adres e-mail zostanie wysłana wiadomość z prośbą o zgodę na zbieranie danych osobowych. Z usługi będzie można korzystać po wyrażeniu zgody przez rodzica lub opiekuna.","status":"draft"}
+{"id":"ncmop_guardian_title","source":"Please proceed with parental consent.","category":"NcPlatformSdk","translation":"Uzyskaj zgodę rodzica lub opiekuna.","status":"draft"}
+{"id":"ncmop_guardian_try_again","source":"Please try again.","category":"NcPlatformSdk","translation":"Spróbuj ponownie.","status":"draft"}
+{"id":"ncmop_guardian_try_again_later","source":"Please try again later.","category":"NcPlatformSdk","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"ncmop_guardian_under_age","source":"Below {0}","category":"NcPlatformSdk","translation":"Poniżej {0} lat","status":"draft"}
+{"id":"ncmop_home_dc_login_required","source":"To use this account, please log in from the PLAYNC website where you have created this account. ({0})","category":"NcPlatformSdk","translation":"Aby użyć tego konta, zaloguj się na stronie PLAYNC, na której zostało utworzone. ({0})","status":"draft"}
+{"id":"ncmop_identification_enter_phone_number","source":"Enter Phone Number","category":"NcPlatformSdk","translation":"Wpisz numer telefonu","status":"draft"}
+{"id":"ncmop_identification_info","source":"If you haven't received the verification code, please check your mobile device's spam blocker.","category":"NcPlatformSdk","translation":"Jeśli nie otrzymano kodu weryfikacyjnego, sprawdź filtr spamu na urządzeniu mobilnym.","status":"draft"}
+{"id":"ncmop_identification_select_country_code","source":"Select Country Number","category":"NcPlatformSdk","translation":"Wybierz numer kierunkowy kraju","status":"draft"}
+{"id":"ncmop_identification_send_complet_message","source":"{0}\nVerification code sent.","category":"NcPlatformSdk","translation":"{0}\nWysłano kod weryfikacyjny.","status":"draft"}
+{"id":"ncmop_identification_sub_title","source":"You need to register a phone number for authentication.\nYour personal information will be used only for authentication.","category":"NcPlatformSdk","translation":"Aby potwierdzić tożsamość, zarejestruj numer telefonu.\nTwoje dane osobowe będą używane wyłącznie do weryfikacji.","status":"draft"}
+{"id":"ncmop_identification_title","source":"Identity Verification","category":"NcPlatformSdk","translation":"Weryfikacja tożsamości","status":"draft"}
+{"id":"ncmop_inquiry_cannot_find_file","source":"The selected file is not found. Please select another file.","category":"NcPlatformSdk","translation":"Nie znaleziono wybranego pliku. Wybierz inny plik.","status":"draft"}
+{"id":"ncmop_inquiry_exceed_file_size","source":"The selected file cannot be uploaded because it exceeds {0} MB.","category":"NcPlatformSdk","translation":"Nie można przesłać pliku, ponieważ przekracza limit {0} MB.","status":"draft"}
+{"id":"ncmop_inquiry_invalid_file_type","source":"This file format cannot be uploaded. Only {0} can be uploaded.","category":"NcPlatformSdk","translation":"Nie można przesłać pliku w tym formacie. Dozwolone formaty: {0}.","status":"draft"}
+{"id":"ncmop_inquiry_server_error","source":"Failed to upload the file. Please try again. ({0})","category":"NcPlatformSdk","translation":"Nie udało się przesłać pliku. Spróbuj ponownie. ({0})","status":"draft"}
+{"id":"ncmop_invalid_password","source":"The password is incorrect. Please check your password. ({0})","category":"NcPlatformSdk","translation":"Nieprawidłowe hasło. Sprawdź, czy wpisano je poprawnie. ({0})","status":"draft"}
+{"id":"ncmop_invite_title","source":"Play with me.","category":"NcPlatformSdk","translation":"Zagraj ze mną.","status":"draft"}
+{"id":"ncmop_key_not_found","source":"A temporary error. Please log in again. ({0})","category":"NcPlatformSdk","translation":"Wystąpił tymczasowy błąd. Zaloguj się ponownie. ({0})","status":"draft"}
+{"id":"ncmop_limited_age","source":"Use of service is unavailable for this account. Please contact the SUPPORT for details. ({0})","category":"NcPlatformSdk","translation":"To konto nie może korzystać z usługi. Aby uzyskać szczegółowe informacje, skontaktuj się z pomocą techniczną. ({0})","status":"draft"}
+{"id":"ncmop_login_apple_os_version_alert_button_1","source":"Login with another method","category":"NcPlatformSdk","translation":"Zaloguj się inną metodą","status":"draft"}
+{"id":"ncmop_login_apple_os_version_alert_message","source":"iOS 13 or higher is required to login with Apple.","category":"NcPlatformSdk","translation":"Do logowania przez Apple wymagany jest system iOS 13 lub nowszy.","status":"draft"}
+{"id":"ncmop_login_apple_os_version_alert_title","source":"iOS version update required.","category":"NcPlatformSdk","translation":"Wymagana aktualizacja systemu iOS.","status":"draft"}
+{"id":"ncmop_login_browser_not_found_error","source":"Chrome is not set as the default browser.\nPlease try again after setting Chrome as the default browser in device settings. ({0})","category":"NcPlatformSdk","translation":"Chrome nie jest ustawiony jako domyślna przeglądarka.\nUstaw Chrome jako domyślną przeglądarkę w ustawieniach urządzenia i spróbuj ponownie. ({0})","status":"draft"}
+{"id":"ncmop_login_change_account_description","source":"To change your payment account,\nplease select another account.","category":"NcPlatformSdk","translation":"Aby zmienić konto płatnicze,\nwybierz inne konto.","status":"draft"}
+{"id":"ncmop_login_confirm_ui_description","source":"Payment account verification\nis required to use the game payment service.","category":"NcPlatformSdk","translation":"Aby korzystać z płatności w grze,\nwymagana jest weryfikacja konta płatniczego.","status":"draft"}
+{"id":"ncmop_login_confirm_ui_iscompleted","source":"Did you complete the payment account verification?","category":"NcPlatformSdk","translation":"Czy weryfikacja konta płatniczego została zakończona?","status":"draft"}
+{"id":"ncmop_login_confirm_ui_title","source":"Payment account verification","category":"NcPlatformSdk","translation":"Weryfikacja konta płatniczego","status":"draft"}
+{"id":"ncmop_login_error_message","source":"Login failed. ({0})","category":"NcPlatformSdk","translation":"Nie udało się zalogować. ({0})","status":"draft"}
+{"id":"ncmop_login_error_message_without_param","source":"Login failed.","category":"NcPlatformSdk","translation":"Nie udało się zalogować.","status":"draft"}
+{"id":"ncmop_login_fail_nintendo_association_not_found","source":"For Nintendo accounts, please launch your NC game on Nintendo Switch to register and agree to the terms of use, and then try again. ({0})","category":"NcPlatformSdk","translation":"W przypadku kont Nintendo uruchom grę NC na Nintendo Switch, zarejestruj się i zaakceptuj warunki użytkowania, a następnie spróbuj ponownie. ({0})","status":"draft"}
+{"id":"ncmop_login_fail_stepup","source":"Identity verification is not complete.\nPlease complete identity verification to use the service, or log in again in a secure environment. ({0})","category":"NcPlatformSdk","translation":"Weryfikacja tożsamości nie została ukończona.\nUkończ weryfikację, aby korzystać z usługi, lub zaloguj się ponownie w bezpiecznym środowisku. ({0})","status":"draft"}
+{"id":"ncmop_login_fail_xbox_age_info_not_found","source":"This account needs to authenticate its Xbox profile age to login.\nPlease check the Xbox site and try again later. ({0})","category":"NcPlatformSdk","translation":"To konto wymaga potwierdzenia wieku profilu Xbox przed zalogowaniem.\nSprawdź stronę Xbox i spróbuj ponownie później. ({0})","status":"draft"}
+{"id":"ncmop_login_fail_xbox_profile_not_found","source":"This account needs to set up its Xbox profile to log in.\nPlease check the Xbox site and try again later. ({0})","category":"NcPlatformSdk","translation":"Aby się zalogować, skonfiguruj profil Xbox dla tego konta.\nSprawdź stronę Xbox i spróbuj ponownie później. ({0})","status":"draft"}
+{"id":"ncmop_login_google_change_account_title","source":"Google Play billing account change","category":"NcPlatformSdk","translation":"Zmiana konta rozliczeniowego Google Play","status":"draft"}
+{"id":"ncmop_login_select_country","source":"Please select a country or a region.","category":"NcPlatformSdk","translation":"Wybierz kraj lub region.","status":"draft"}
+{"id":"ncmop_login_select_country_dialog_title","source":"Select Country or Region","category":"NcPlatformSdk","translation":"Wybierz kraj lub region","status":"draft"}
+{"id":"ncmop_login_select_country_global","source":"Global","category":"NcPlatformSdk","translation":"Globalny","status":"draft"}
+{"id":"ncmop_login_select_country_jp","source":"Japan","category":"NcPlatformSdk","translation":"Japonia","status":"draft"}
+{"id":"ncmop_login_select_country_tw","source":"Taiwan","category":"NcPlatformSdk","translation":"Tajwan","status":"draft"}
+{"id":"ncmop_login_select_display_apple","source":"Sign in with Apple","category":"NcPlatformSdk","translation":"Zaloguj się przez Apple","status":"draft"}
+{"id":"ncmop_login_select_display_facebook","source":"Login with Facebook","category":"NcPlatformSdk","translation":"Zaloguj się przez Facebooka","status":"draft"}
+{"id":"ncmop_login_select_display_gamania","source":"Login with Gama Pass","category":"NcPlatformSdk","translation":"Zaloguj się przez Gama Pass","status":"draft"}
+{"id":"ncmop_login_select_display_game_center","source":"Login with Game Center","category":"NcPlatformSdk","translation":"Zaloguj się przez Game Center","status":"draft"}
+{"id":"ncmop_login_select_display_google","source":"Sign in with Google","category":"NcPlatformSdk","translation":"Zaloguj się przez Google","status":"draft"}
+{"id":"ncmop_login_select_display_guest","source":"Guest","category":"NcPlatformSdk","translation":"Gość","status":"draft"}
+{"id":"ncmop_login_select_display_line","source":"Sign in with LINE","category":"NcPlatformSdk","translation":"Zaloguj się przez LINE","status":"draft"}
+{"id":"ncmop_login_select_display_nintendo","source":"Log In with Nintendo Account","category":"NcPlatformSdk","translation":"Zaloguj się przez konto Nintendo","status":"draft"}
+{"id":"ncmop_login_select_display_np_email","source":"Sign in with your ID or email","category":"NcPlatformSdk","translation":"Zaloguj się za pomocą identyfikatora lub adresu e-mail","status":"draft"}
+{"id":"ncmop_login_select_display_np_phone","source":"Sign in with your phone number","category":"NcPlatformSdk","translation":"Zaloguj się za pomocą numeru telefonu","status":"draft"}
+{"id":"ncmop_login_select_display_psn","source":"Sign in with PlayStation","category":"NcPlatformSdk","translation":"Zaloguj się przez PlayStation","status":"draft"}
+{"id":"ncmop_login_select_display_steam","source":"Sign in with Steam","category":"NcPlatformSdk","translation":"Zaloguj się przez Steam","status":"draft"}
+{"id":"ncmop_login_select_display_twitter","source":"Sign in with X","category":"NcPlatformSdk","translation":"Zaloguj się przez X","status":"draft"}

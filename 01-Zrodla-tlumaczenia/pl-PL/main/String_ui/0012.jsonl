@@ -1,0 +1,250 @@
+{"id":"String_UI_ENCHANT_TAB_ENCHANT_body","source":"Enhance","translation":"Ulepsz","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_GODSTONE_body","source":"Theostone","translation":"Teoskal","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_GROWTH_body","source":"Growth","translation":"Rozwój","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_MAGICSTONE_body","source":"Manastone","translation":"Kamień many","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_SOULBIND_body","source":"Soul Binding","translation":"Wiązanie duszy","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_SUCCESSION_body","source":"Transfer","translation":"Przeniesienie","status":"draft"}
+{"id":"String_UI_ENCHANT_TAB_TOOLTIP_EQUIPMENT_body","source":"Gear","translation":"Ekwipunek","status":"draft"}
+{"id":"String_UI_ENCHANT_TITLE_body","source":"Enhancement","translation":"Ulepszanie","status":"draft"}
+{"id":"String_UI_ENVOBJ_REQUIRE_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_BUTTON_OPEN_ITEM_body","source":"Open with Key","translation":"Otwórz kluczem","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_BUTTON_OPEN_NOITEM_body","source":"Open","translation":"Otwórz","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_DESC_body","source":"Use a key to get better rewards.","translation":"Użyj klucza, aby zdobyć lepsze nagrody.","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_KEY_ONLY_DESC_body","source":"Cannot open without a key.","translation":"Nie można otworzyć bez klucza.","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_KEY_SELECT_POPUP_TITLE_body","source":"Key Selection","translation":"Wybór klucza","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_ITEM_COUNT_FIXED_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_ITEM_COUNT_RANDOM_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_ITEM_PROB_body","source":"{0}%","translation":"{0}%","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_ITEM_TITLE_body","source":"Individual Items","translation":"Pojedyncze przedmioty","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_PACKAGE_COUNT_body","source":"{0} time(s)","translation":"{0} raz(y)","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_PACKAGE_PROB_body","source":"{0}%","translation":"{0}%","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_RANDOM_PACKAGE_TITLE_body","source":"Chance to Obtain {0}","translation":"Szansa na zdobycie {0}","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_REWARD_KEY_body","source":"Key Opening Rewards","translation":"Nagrody za otwarcie kluczem","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_REWARD_NORMAL_body","source":"Common Rewards","translation":"Zwykłe nagrody","status":"draft"}
+{"id":"String_UI_ENVOBJ_TREASUREBOX_VIEW_REWARD_body","source":"Obtainable Rewards","translation":"Dostępne nagrody","status":"draft"}
+{"id":"String_UI_EQUIPSLOT_HIDESET_BUTTON_MOUSEOVER_TEXT_body","source":"Skin Hide Settings","translation":"Ustawienia ukrywania wyglądu","status":"draft"}
+{"id":"String_UI_EQUIPSLOT_LISTTYPE_BUTTON_MOUSEOVER_TEXT_body","source":"View List Type","translation":"Typ widoku listy","status":"draft"}
+{"id":"String_UI_EQUIPSLOT_PAGE_BUTTON_ACCESSORY_MOUSEOVER_TEXT_body","source":"View Accessories","translation":"Pokaż akcesoria","status":"draft"}
+{"id":"String_UI_EQUIPSLOT_PAGE_BUTTON_WEAPON_MOUSEOVER_TEXT_body","source":"View Weapons/Armor","translation":"Pokaż broń / zbroję","status":"draft"}
+{"id":"String_UI_EQUIPSLOT_SLOTTYPE_BUTTON_MOUSEOVER_TEXT_body","source":"View Slot Type","translation":"Pokaż typ slotu","status":"draft"}
+{"id":"String_UI_EQUIP_EMBLEM_SLOT_AUTOEQUIP_body","source":"Auto Equip","translation":"Załóż automatycznie","status":"draft"}
+{"id":"String_UI_EQUIP_EMBLEM_TITLE_body","source":"Seals","translation":"Pieczęcie","status":"draft"}
+{"id":"String_UI_ERROR_LINK_FAQ_body","source":"View Solution","translation":"Pokaż rozwiązanie","status":"draft"}
+{"id":"String_UI_EVENTMISSION_INFO_PROGRESS_TITLE_body","source":"Event Mission Progress","translation":"Postęp misji wydarzenia","status":"draft"}
+{"id":"String_UI_EVENTMISSION_NONE_COMPLETE_ALL_body","source":"No season missions available.","translation":"Brak dostępnych misji sezonowych.","status":"draft"}
+{"id":"String_UI_EVENTMISSION_TITLE_body","source":"Event Mission","translation":"Misja wydarzenia","status":"draft"}
+{"id":"String_UI_EVENT_CAPTURE_INFO_body","source":"{1} (Shugo) found {0} (Lugi).","translation":"{1} (Shugo) znalazł {0} (Lugi).","status":"draft"}
+{"id":"String_UI_EVENT_CONTENTS_KEY_TITLE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_EVENT_CONTENTS_TICKET_TITLE_body","source":"Attempt Count","translation":"Liczba prób","status":"draft"}
+{"id":"String_UI_EVENT_END_TIME_body","source":"Event ends in {0}","translation":"Wydarzenie kończy się za {0}","status":"draft"}
+{"id":"String_UI_EVENT_INFO_BTN_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
+{"id":"String_UI_EVENT_INFO_BTN_MOVE_body","source":"Go","translation":"Idź","status":"draft"}
+{"id":"String_UI_EVENT_INFO_BTN_TELEPORT_body","source":"Teleport","translation":"Teleportuj","status":"draft"}
+{"id":"String_UI_EVENT_INFO_DESC_TITLE_body","source":"Event Info","translation":"Informacje o wydarzeniu","status":"draft"}
+{"id":"String_UI_EVENT_INFO_ENTRY_MEMBER_COUNT_body","source":"Max {0}","translation":"Maks. {0}","status":"draft"}
+{"id":"String_UI_EVENT_INFO_ENTRY_MEMBER_TITLE_body","source":"Participants","translation":"Uczestnicy","status":"draft"}
+{"id":"String_UI_EVENT_INFO_ENTRY_MINIMUM_MEMBER_COUNT_body","source":"(Min. {0})","translation":"(Min. {0})","status":"draft"}
+{"id":"String_UI_EVENT_INFO_ENTRY_NEED_OBJ_TITLE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_EVENT_INFO_LIMIT_TIME_MINUTE_body","source":"{0}min","translation":"{0} min","status":"draft"}
+{"id":"String_UI_EVENT_INFO_LIMIT_TIME_TITLE_body","source":"Time Limit","translation":"Limit czasu","status":"draft"}
+{"id":"String_UI_EVENT_INFO_REWARD_TITLE_body","source":"Obtainable Rewards","translation":"Dostępne nagrody","status":"draft"}
+{"id":"String_UI_EVENT_INFO_RULE_body","source":"Rules","translation":"Zasady","status":"draft"}
+{"id":"String_UI_EVENT_MENU_BUTTON_TELEPORT_body","source":"Teleport","translation":"Teleportuj","status":"draft"}
+{"id":"String_UI_EVENT_NOT_ENOUGH_KEY_ENTRY_CHECK_body","source":"Insufficient Reward Keys to receive a reward.\nEnter anyway?","translation":"Brakuje kluczy nagród, aby odebrać nagrodę.\nMimo to wejść?","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_POINT_PERSONAL_body","source":"Score","translation":"Wynik","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_POINT__HYPHEN_body","source":"-","translation":"-","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_RANKING_HYPHEN_body","source":"-","translation":"-","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_RANKING_PERSONAL_body","source":"My Rank","translation":"Moje miejsce","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_RANKING_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_RESULT_TITLE_body","source":"Event Results","translation":"Wyniki wydarzenia","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_TITLE_body","source":"Rank","translation":"Miejsce","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_TOP_CONTRIBUTION_body","source":"Score","translation":"Wynik","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_TOP_LEGION_body","source":"Legion","translation":"Legion","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_TOP_PCNAME_body","source":"Name","translation":"Imię","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_CONTRIBUTION_TOP_RANKING_body","source":"Rank","translation":"Miejsce","status":"draft"}
+{"id":"String_UI_EVENT_POPUP_KEY_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_EVENT_SCHEDULE_TAB_TIME_body","source":"H","translation":"G","status":"draft"}
+{"id":"String_UI_EVENT_SCHEDULE_TAB_WEEK_body","source":"Day","translation":"Dzień","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_JOIN_body","source":"Event Participation","translation":"Udział w wydarzeniu","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_MASQUERADE_HIDER_body","source":"Event will start in {0}.\nHide from the hunters.","translation":"Wydarzenie rozpocznie się za {0}.\nUkryj się przed łowcami.","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_MASQUERADE_SEEKER_body","source":"Event will start in {0}.\nFind the hidden fake Lugis.","translation":"Wydarzenie rozpocznie się za {0}.\nZnajdź ukrytych fałszywych Lugich.","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_RESULT_CLEAR_body","source":"Event Complete","translation":"Wydarzenie ukończone","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_RESULT_FAIL_body","source":"Event Failed","translation":"Wydarzenie nieudane","status":"draft"}
+{"id":"String_UI_EVENT_SCREENMSG_START_body","source":"Event Start","translation":"Rozpocznij wydarzenie","status":"draft"}
+{"id":"String_UI_EVENT_TICKET_DEFAULT_TITLE_body","source":"Basic Ticket","translation":"Podstawowy bilet","status":"draft"}
+{"id":"String_UI_EVENT_TICKET_ITEM_COUNT_body","source":"+{0}","translation":"+{0}","status":"draft"}
+{"id":"String_UI_EVENT_TICKET_ITEM_TITLE_body","source":"Added Ticket","translation":"Dodatkowy bilet","status":"draft"}
+{"id":"String_UI_EVENT_TICKET_RESET_TIME_body","source":"Until Basic Ticket Reset","translation":"Do resetu podstawowego biletu","status":"draft"}
+{"id":"String_UI_EVENT_TITLE_body","source":"Event","translation":"Wydarzenie","status":"draft"}
+{"id":"String_UI_EXCHANGE_CHARGE_GOLD_GUIDE_body","source":"Kina Trade Tax Rate {0}%","translation":"Stawka podatku od handlu Kina: {0}%","status":"draft"}
+{"id":"String_UI_EXCHANGE_CHARGE_GOLD_body","source":"Service Fee","translation":"Opłata za usługę","status":"draft"}
+{"id":"String_UI_EXCHANGE_CHARGE_body","source":"Service Fee","translation":"Opłata za usługę","status":"draft"}
+{"id":"String_UI_EXCHANGE_CONFIRM_NEED_body","source":"Trade Confirmation Required","translation":"Wymagane potwierdzenie wymiany","status":"draft"}
+{"id":"String_UI_EXCHANGE_CONFIRM_WAIT_body","source":"Waiting for trade confirmation","translation":"Oczekiwanie na potwierdzenie wymiany","status":"draft"}
+{"id":"String_UI_EXCHANGE_CONFIRM_body","source":"Exchanging Items","translation":"Wymiana przedmiotów","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_CONFIDENCE_STEP_body","source":"{0} Purchase Limit","translation":"Limit zakupu: {0}","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_DAILY_PURCHASABLE_KINA_body","source":"Daily Available Kina","translation":"Dzienny limit Kina","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_EXPECTED_KINA_body","source":"Pending Kina","translation":"Oczekujące Kina","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_GUIDE_TEXT_body","source":"Daily purchase limits are applied based on the total amount of Kina obtained from purchasing chests. If exceeding the maximum obtainable Kina, you cannot make additional purchases.","translation":"Dzienne limity zakupów zależą od łącznej liczby Kina zdobytego przez zakup skrzyń. Jeśli przekroczysz maksymalną możliwą do zdobycia ilość Kina, nie możesz dokonać kolejnych zakupów.","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_REMAINING_PURCHASE_LIMIT_body","source":"Remaining Purchase","translation":"Pozostała liczba zakupów","status":"draft"}
+{"id":"String_UI_EXCHANGE_DAILY_LIMIT_RESET_TIME_body","source":"Resets every {0}.","translation":"Resetuje się co {0}.","status":"draft"}
+{"id":"String_UI_EXCHANGE_FINISH_BUTTON_body","source":"Trading","translation":"Handel","status":"draft"}
+{"id":"String_UI_EXCHANGE_FINISH_body","source":"Trade Ready","translation":"Gotowość do wymiany","status":"draft"}
+{"id":"String_UI_EXCHANGE_GET_CURRENCY_body","source":"Kina","translation":"Kina","status":"draft"}
+{"id":"String_UI_EXCHANGE_GET_GOLD_body","source":"Estimated Receipt","translation":"Szacowana kwota do otrzymania","status":"draft"}
+{"id":"String_UI_EXCHANGE_GET_LIST_body","source":"Items to Receive","translation":"Przedmioty do otrzymania","status":"draft"}
+{"id":"String_UI_EXCHANGE_LOCK_BUTTON_body","source":"Lock","translation":"Zablokuj","status":"draft"}
+{"id":"String_UI_EXCHANGE_LOCK_body","source":"Locking","translation":"Blokowanie","status":"draft"}
+{"id":"String_UI_EXCHANGE_REQUEST_BUTTON_body","source":"Trade Request","translation":"Prośba o wymianę","status":"draft"}
+{"id":"String_UI_EXCHANGE_REQUEST_RECEIVE_AUTOREJECT_MSG_body","source":"Automatically declining in {0}s","translation":"Automatyczne odrzucenie za {0} s","status":"draft"}
+{"id":"String_UI_EXCHANGE_REQUEST_RECEIVE_MSG_body","source":"<desc_point>{0}</> requested a personal trade.","translation":"Gracz <desc_point>{0}</> prosi o wymianę osobistą.","status":"draft"}
+{"id":"String_UI_EXCHANGE_REQUEST_RECEIVE_NO_BUTTON_body","source":"Decline","translation":"Odrzuć","status":"draft"}
+{"id":"String_UI_EXCHANGE_REQUEST_RECEIVE_YES_BUTTON_body","source":"Accept","translation":"Akceptuj","status":"draft"}
+{"id":"String_UI_EXCHANGE_SECOND_TITLE_body","source":"Trading with <desc_point>{0}</>","translation":"Wymiana z graczem <desc_point>{0}</>","status":"draft"}
+{"id":"String_UI_EXCHANGE_SEND_CURRENCY_body","source":"Kina","translation":"Kina","status":"draft"}
+{"id":"String_UI_EXCHANGE_SEND_LIST_body","source":"Items to Give","translation":"Przedmioty do oddania","status":"draft"}
+{"id":"String_UI_EXCHANGE_TITLE_body","source":"Personal Trade","translation":"Wymiana osobista","status":"draft"}
+{"id":"String_UI_EXCHANGE_UNLOCK_BUTTON_body","source":"Unlock","translation":"Odblokuj","status":"draft"}
+{"id":"String_UI_FEILDEVENT_POPUP_ADDTICKET_DESC_body","source":"Recharging {0}. Select an item to recharge.","translation":"Doładowywanie {0}. Wybierz przedmiot do doładowania.","status":"draft"}
+{"id":"String_UI_FEILDEVENT_POPUP_ADDTICKET_TITLE_body","source":"Recharge {0}","translation":"Doładuj {0}","status":"draft"}
+{"id":"String_UI_FGT_WARNING_body","source":"Test Schedule: {0}\nThis game is a vital asset, which holds confidential information belonging the company.\nUnauthorized copying, filming, and leaking of data is strictly prohibited.\nExternal leaking can result in damage to the company,\nso please make sure to take extra security precautions.\nCapturing and recording the test screen are especially prohibited,\nas is sharing opinions and information related to the game outside of the company.\nViolating these will result in having to compensate any the damage and incidental expenses incurred to the company,\nand being subject to sanctions according the company's information security policy.","translation":"Harmonogram testów: {0}\nTa gra jest cennym zasobem firmy i zawiera poufne informacje należące do firmy.\nSurowo zabrania się nieuprawnionego kopiowania, nagrywania i ujawniania danych.\nUjawnienie informacji na zewnątrz może zaszkodzić firmie,\ndlatego zachowaj szczególne środki ostrożności.\nNagrywanie i przechwytywanie ekranu testowego jest surowo zabronione,\npodobnie jak udostępnianie poza firmą opinii o grze i związanych z nią informacji.\nNaruszenie tych zasad może skutkować obowiązkiem pokrycia szkód i dodatkowych kosztów poniesionych przez firmę\noraz sankcjami zgodnymi z firmową polityką bezpieczeństwa informacji.","status":"draft"}
+{"id":"String_UI_FIELDEVENT_CONTRIBUTION_NOTHING_body","source":"Insufficient Basic Score to receive rewards.","translation":"Za mało punktów podstawowych, aby odebrać nagrody.","status":"draft"}
+{"id":"String_UI_FIELDEVENT_MONSTERCUBE_CEILLING_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_FIELDEVENT_MONSTERCUBE_MULTYPLY_COUNT_body","source":"x{0}","translation":"x{0}","status":"draft"}
+{"id":"String_UI_FIELDEVENT_MONSTERCUBE_RESULT_SUB_GUIDE_body","source":"{0} will not be consumed on canceling selection.","translation":"{0} nie zostanie zużyty po anulowaniu wyboru.","status":"draft"}
+{"id":"String_UI_FIELDEVENT_POPUP_ENTRANCE_body","source":"Enter","translation":"Wejdź","status":"draft"}
+{"id":"String_UI_FIELDEVENT_RESULT_BUTTON_REWARD_body","source":"Rewards","translation":"Nagrody","status":"draft"}
+{"id":"String_UI_FIELDEVENT_RESULT_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
+{"id":"String_UI_FIELDEVENT_RESULT_RANKING_body","source":"Rank","translation":"Miejsce","status":"draft"}
+{"id":"String_UI_FIELDEVENT_RESULT_SCORE_body","source":"Score","translation":"Wynik","status":"draft"}
+{"id":"String_UI_FIELDEVENT_SCREEN_MESSAGE_FINISH_body","source":"FINISH","translation":"KONIEC","status":"draft"}
+{"id":"String_UI_FIELDEVENT_SCREEN_MESSAGE_ROUND_body","source":"Round","translation":"Runda","status":"draft"}
+{"id":"String_UI_FIELDEVENT_SCREEN_MESSAGE_START_body","source":"START","translation":"ROZPOCZNIJ","status":"draft"}
+{"id":"String_UI_FILTER_NOTHING_body","source":"No owned items.","translation":"Brak posiadanych przedmiotów.","status":"draft"}
+{"id":"String_UI_FLOATER_DUNGEON_POINT_body","source":"+{0}","translation":"+{0}","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_FORCE_RECRUITMENT_CANCEL_body","source":"End Recruitment","translation":"Zakończ rekrutację","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_FORCE_RECRUITMENT_body","source":"Force Recruitment","translation":"Wymuś rekrutację","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_MOVE_body","source":"Go","translation":"Idź","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_PREPERATION_body","source":"Ready Check","translation":"Sprawdzenie gotowości","status":"draft"}
+{"id":"String_UI_FORCE_BUTTON_SETTING_body","source":"Settings","translation":"Ustawienia","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_ENTRUST_BUTTON_ENTRUST_body","source":"Reassign","translation":"Przekaż dowództwo","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_ENTRUST_MESSAGE_ENTRUST_body","source":"<system_point>Reassign</> Force leadership to {0}?","translation":"Czy na pewno <system_point>przekazać dowództwo</> graczowi {0}?","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_INVITE_BUTTON_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_INVITE_HINTTEXT_INPUT_NAME_body","source":"Enter the character name.","translation":"Wpisz nazwę postaci.","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_INVITE_MESSAGE_INPUT_NAME_body","source":"Enter the name of the character to invite to the Force.","translation":"Wpisz nazwę postaci, którą chcesz zaprosić do grupy szturmowej.","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_KICKOUT_BUTTON_KICKOUT_body","source":"Kick","translation":"Wyrzuć","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_KICKOUT_MESSAGE_KICKOUT_VOTE_APPLY_body","source":"<system_point>Kick</> {0} from the Force?\nIf activated, a kick vote will start and determine whether the player is removed.","translation":"<system_point>Wyrzuć</> gracza {0} z grupy szturmowej?\nPo aktywowaniu rozpocznie się głosowanie nad wyrzuceniem.","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_KICKOUT_MESSAGE_KICKOUT_body","source":"<system_point>Kick</> {0} from the Force?","translation":"Czy na pewno <system_point>wyrzucić</> gracza {0} z grupy szturmowej?","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_LEAVE_BUTTON_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_FORCE_LEAVE_MESSAGE_LEAVE_body","source":"Do you wish to <system_point>leave</> the force?","translation":"Czy chcesz <system_point>opuścić</> grupę szturmową?","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_RECRUITMENT_CHAT_body","source":"Would you like to join this Force?","translation":"Czy chcesz dołączyć do tej grupy szturmowej?","status":"draft"}
+{"id":"String_UI_FORCE_DIALOGUE_RECRUITMENT_OFF_body","source":"Would you like to end Force Recruitment?","translation":"Czy chcesz zakończyć rekrutację do grupy szturmowej?","status":"draft"}
+{"id":"String_UI_FORCE_LIST_BUTTON_INVITE_CANCEL_body","source":"Cancel Invitation","translation":"Anuluj zaproszenie","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_APPOINT_body","source":"Appoint Position","translation":"Wyznacz pozycję","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_DEMOTION_body","source":"Demote","translation":"Degraduj","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_ENTRUST_body","source":"Reassign","translation":"Przekaż dowództwo","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_INFO_body","source":"View Info","translation":"Pokaż informacje","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_KICKOUT_VOTE_body","source":"Kick Vote","translation":"Głosowanie nad wyrzuceniem","status":"draft"}
+{"id":"String_UI_FORCE_LIST_INTERACTION_MENU_KICKOUT_body","source":"Kick","translation":"Wyrzuć","status":"draft"}
+{"id":"String_UI_FORCE_PARTY_NUMBER_PANEL_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_FORCE_PARTY_NUMBER_body","source":"Party {0}","translation":"Drużyna {0}","status":"draft"}
+{"id":"String_UI_FORCE_POPUP_CHECK_PREPERATION_FINISH_body","source":"Good to go.","translation":"Można zaczynać.","status":"draft"}
+{"id":"String_UI_FORCE_POPUP_CHECK_PREPERATION_UNFINISH_body","source":"Incomplete","translation":"Niekompletne","status":"draft"}
+{"id":"String_UI_FORCE_POPUP_CHECK_PREPERATION_body","source":"<msg_pc>{0}</> has initiated a combat readiness check.","translation":"<msg_pc>{0}</> rozpoczął sprawdzanie gotowości do walki.","status":"draft"}
+{"id":"String_UI_FORCE_POPUP_FORCE_SETTING_body","source":"Settings","translation":"Ustawienia","status":"draft"}
+{"id":"String_UI_FORCE_POPUP_INVITE_MESSAGE_body","source":"{0} sent you a Force invite.","translation":"Gracz {0} zaprasza cię do grupy szturmowej.","status":"draft"}
+{"id":"String_UI_FORCE_REQUEST_RECEIVE_AUTOREJECT_MSG_body","source":"Automatically declining in {0}s","translation":"Automatyczne odrzucenie za {0} s","status":"draft"}
+{"id":"String_UI_FORCE_REQUEST_RECEIVE_CHECK_PREPERATION_MSG_body","source":"Automatically set to incomplete in {0} second(s)","translation":"Automatyczne ustawienie statusu „niegotowy” za {0} s","status":"draft"}
+{"id": "String_UI_FORCE_TAB_FORCE_INVITE_CHECKBOX_ONLINE_body", "source": "Online", "translation": "W sieci", "status": "draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_LIST_BUTTON_INFO_body","source":"Info","translation":"Informacje","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_LIST_BUTTON_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
+{"id": "String_UI_FORCE_TAB_FORCE_INVITE_LIST_TEXT_LOCATION_OFFLINE_body", "source": "Offline", "translation": "Poza siecią", "status": "draft"}
+{"id": "String_UI_FORCE_TAB_FORCE_INVITE_LIST_TEXT_OFFLINE_body", "source": "Offline", "translation": "Poza siecią", "status": "draft"}
+{"id": "String_UI_FORCE_TAB_FORCE_INVITE_LIST_TEXT_ONLINE_body", "source": "Online", "translation": "W sieci", "status": "draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_FRIEND_GUIDE_TEXT_body","source":"Only currently online friends are displayed.","translation":"Wyświetlani są tylko znajomi dostępni online.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_FRIEND_ONBOARDING_NONE_body","source":"No friends available to invite.","translation":"Brak znajomych do zaproszenia.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_FRIEND_body","source":"Friends","translation":"Znajomi","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_LEGION_GUIDE_TEXT_body","source":"Only currently online Legion members are displayed.","translation":"Wyświetlani są tylko członkowie Legionu dostępni online.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_LEGION_ONBOARDING_NONE_body","source":"No Legion member available to invite.","translation":"Brak członków Legionu do zaproszenia.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_LEGION_body","source":"Legion Member","translation":"Członek Legionu","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_RECENT_FORCE_body","source":"Recent Party","translation":"Ostatnia drużyna","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_RECENT_GUIDE_TEXT_body","source":"Shows up to {0} player(s) you recently partied with.","translation":"Wyświetla maksymalnie {0} ostatnich członków drużyn.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_INVITE_SUBTAB_RECENT_ONBOARDING_NONE_body","source":"No recent party history available.","translation":"Brak historii ostatnich drużyn.","status":"draft"}
+{"id":"String_UI_FORCE_TAB_FORCE_body","source":"Force","translation":"Grupa szturmowa","status":"draft"}
+{"id":"String_UI_FORCE_TAB_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
+{"id":"String_UI_FORCE_TAB_SETTING_body","source":"Distribution","translation":"Podział","status":"draft"}
+{"id":"String_UI_FORCE_TITLE_FORCE_body","source":"Force Settings","translation":"Ustawienia grupy szturmowej","status":"draft"}
+{"id":"String_UI_FORCE_TITLE_body","source":"Force","translation":"Grupa szturmowa","status":"draft"}
+{"id":"String_UI_GACHA_SKIN_GET_DUPLICATION_body","source":"(Duplicate)","translation":"(Duplikat)","status":"draft"}
+{"id":"String_UI_GAMEFLOW_ERROR_MAP_LOAD_FAILED_body","source":"Failed to load map data.\nDownload was not completed, please try again later.","translation":"Nie udało się wczytać danych mapy.\nPobieranie nie zostało ukończone. Spróbuj ponownie później.","status":"draft"}
+{"id":"String_UI_GAME_RATING_LABEL_TEXT_body","source":"This game is not suitable for minors and cannot be used by anyone under the age of 19.","translation":"Ta gra nie jest przeznaczona dla osób niepełnoletnich i nie mogą z niej korzystać osoby poniżej 19. roku życia.","status":"draft"}
+{"id":"String_UI_GAME_RATING_POPUP_DESC_body","source":"This game is not suitable for minors and cannot be played by anyone under the age of 19.","translation":"Ta gra nie jest przeznaczona dla nieletnich i nie mogą w nią grać osoby poniżej 19 lat.","status":"draft"}
+{"id":"String_UI_GAME_RATING_POPUP_TITLE_body","source":"Rating","translation":"Ocena wiekowa","status":"draft"}
+{"id":"String_UI_GATHERGRADE_ADVANCED_body","source":"Advanced","translation":"Zaawansowany","status":"draft"}
+{"id":"String_UI_GATHERGRADE_BEGINNER_body","source":"Novice","translation":"Początkujący","status":"draft"}
+{"id":"String_UI_GATHERGRADE_EXPERT_body","source":"Expert","translation":"Ekspert","status":"draft"}
+{"id":"String_UI_GATHERGRADE_INTERMEDIATE_body","source":"Professional","translation":"Profesjonalista","status":"draft"}
+{"id":"String_UI_GATHERGRADE_Master_body","source":"Artisan","translation":"Rzemieślnik","status":"draft"}
+{"id":"String_UI_GATHERSKILL_BUTTON_RESET_body","source":"Skill Reset","translation":"Reset umiejętności","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CATEGORY_COMMON_body","source":"Common Skill","translation":"Umiejętność zwykła","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CATEGORY_SPECIALIZED_body","source":"{0} Specialty Skill","translation":"Umiejętność specjalizacji {0}","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CONDITION_ACQUIRE_body","source":"Acquisition Requirements","translation":"Wymagania zdobycia","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CONDITION_NEXTLEVEL_body","source":"Next Level Up Requirement","translation":"Wymagania do następnego poziomu","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CONDITION_UNLOCK_TITLE_body","source":"Skill Unlock Condition","translation":"Warunek odblokowania umiejętności","status":"draft"}
+{"id":"String_UI_GATHERSKILL_CONDITION_UNLOCK_body","source":"General Extraction Skill over {0}SP required","translation":"Wymagana umiejętność zwykłego pozyskiwania o wartości ponad {0} SP","status":"draft"}
+{"id":"String_UI_GATHERSKILL_LOCKED_body","source":"Locked","translation":"Zablokowane","status":"draft"}
+{"id":"String_UI_GATHERSKILL_MAXLEVEL_NOTICE_body","source":"Maximum Level Acquired.","translation":"Osiągnięto maksymalny poziom.","status":"draft"}
+{"id":"String_UI_GATHERSKILL_MAXLEVEL_body","source":"MAX","translation":"MAKS.","status":"draft"}
+{"id":"String_UI_GATHERSKILL_NAME_LEVEL_body","source":"{0} Lv. {1}","translation":"{0} poz. {1}","status":"draft"}
+{"id":"String_UI_GATHERSKILL_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHERSKILL_NOT_ACQUIRED_body","source":"Not Acquired","translation":"Nie zdobyto","status":"draft"}
+{"id":"String_UI_GATHERSKILL_TITLE_body","source":"Essence Extraction","translation":"Pozyskiwanie esencji","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_GRADE_body","source":"Required Grade","translation":"Wymagana jakość","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_LEVEL_body","source":"Required Proficiency Level","translation":"Wymagany poziom biegłości","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_POINT_body","source":"Required Common Skill Points","translation":"Wymagana liczba punktów umiejętności zwykłych","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_PRIOR_SKILL_NAME_LEVEL_body","source":"Lv. {0} {1}","translation":"Poz. {0} {1}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_PRIOR_SKILL_body","source":"Prerequisite Skills","translation":"Wymagane umiejętności","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_INFO_CONDITION_body","source":"Requirements","translation":"Wymagania","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_BTN_AFTER_body","source":"Upgrade Complete","translation":"Ulepszanie zakończone","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_BTN_BEFORE_body","source":"Upgrade","translation":"Ulepsz","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_CANCEL_POPUP_DELETE_ITEM_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_CANCEL_POPUP_TEXT_body","source":"Are you sure you want to cancel the upgrade?","translation":"Czy na pewno chcesz anulować ulepszanie?","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_BTN_ABANDONMENT_body","source":"Cancel Upgrade","translation":"Anuluj ulepszanie","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_BTN_ACCEPT_body","source":"Accept","translation":"Akceptuj","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_BTN_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_BTN_COMPLETE_body","source":"Upgrade Complete","translation":"Ulepszanie zakończone","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_BTN_REJECT_body","source":"Decline","translation":"Odrzuć","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_ITEM_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_PRICE_body","source":"{0}","translation":"{0}","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_TITLE_CLEAR_body","source":"Upgrade Complete","translation":"Ulepszanie zakończone","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_TITLE_ITEM_body","source":"Upgrade Item","translation":"Przedmiot do ulepszenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_TITLE_PRICE_body","source":"Upgrade Cost","translation":"Koszt ulepszenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_MASTERY_POPUP_TITLE_START_body","source":"Upgrade Preparation","translation":"Przygotowanie do ulepszania","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_ACQUIRE_BUTTON_body","source":"Acquire","translation":"Zdobądź","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_ALWAYS_body","source":"Always","translation":"Zawsze","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_GatherEnd_body","source":"Upon Completing Essence Extraction","translation":"Po zakończeniu pozyskiwania esencji","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_GatherFail_body","source":"Upon Failed Essence Extraction","translation":"Po nieudanym pozyskiwaniu esencji","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_GatherStart_body","source":"At the Start of Essence Extraction","translation":"Na początku pozyskiwania esencji","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_GatherSuccess_body","source":"Upon Successful Essence Extraction","translation":"Po udanym pozyskiwaniu esencji","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TEXT_body","source":"Activation Condition: <GatherSkillInfo_Condition>{0}</>","translation":"Warunek aktywacji: <GatherSkillInfo_Condition>{0}</>","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnAll_body","source":"All turns","translation":"Wszystkie tury","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnDiscoveryAdd_body","source":"Additional identification","translation":"Dodatkowa identyfikacja","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnDiscoveryAll_body","source":"All identification","translation":"Pełna identyfikacja","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnDiscoveryBasic_body","source":"Basic identification","translation":"Podstawowa identyfikacja","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnFailAll_body","source":"On Every Failed Roll","translation":"Przy każdym nieudanym rzucie","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnFailBasic_body","source":"Basic failure rolls","translation":"Podstawowe niepowodzenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnFailSmall_body","source":"Minor failure rolls","translation":"Drobne niepowodzenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnSuccessAll_body","source":"On Every Successful Roll","translation":"Przy każdym udanym rzucie","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnSuccessBasic_body","source":"Basic success rolls","translation":"Podstawowe powodzenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnSuccessCritical_body","source":"Critical rolls","translation":"Trafienia krytyczne","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnSuccessEpicCritical_body","source":"Epic critical rolls","translation":"Epickie trafienia krytyczne","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_CONDITION_TurnSuccessSmall_body","source":"Minor success rolls","translation":"Drobne powodzenia","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_GAUGEFAIL_body","source":"Failure Gauge is at {0}% or higher","translation":"Wskaźnik niepowodzeń wynosi co najmniej {0}%","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_GAUGESUCCESS_body","source":"Success Gauge {0}% or above","translation":"Wskaźnik powodzenia wynosi co najmniej {0}%","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TARGET_TEXT_body","source":"Target","translation":"Cel","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TITLE_body","source":"Effect Description","translation":"Opis efektu","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TURNCOUNT_1_body","source":"First turn","translation":"Pierwsza tura","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TURNCOUNT_2_body","source":"Turn {0}","translation":"Tura {0}","status":"draft"}

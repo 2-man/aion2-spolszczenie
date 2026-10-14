@@ -1,0 +1,250 @@
+{"id": "InputKeyMapping_Action_desc", "source": "Interact", "translation": "Interakcja", "status": "draft"}
+{"id": "InputKeyMapping_Action_sub_desc", "source": "Set key for Interact.", "translation": "Przypisz klawisz do interakcji.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker10_desc", "source": "Apply Marker 0", "translation": "Nałóż oznaczenie 0", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker10_sub_desc", "source": "Set key to apply Marker 0 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 0.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker11_desc", "source": "Apply Sleep Marker", "translation": "Nałóż oznaczenie snu", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker11_sub_desc", "source": "Set key to apply the Sleep Marker on the target.", "translation": "Przypisz klawisz do oznaczenia celu: snu.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker12_desc", "source": "Apply Stop Marker", "translation": "Nałóż oznaczenie zatrzymania", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker12_sub_desc", "source": "Set key to apply the Stop Marker on the target.", "translation": "Przypisz klawisz do oznaczenia celu: zatrzymania.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker13_desc", "source": "Apply Skull Marker", "translation": "Nałóż oznaczenie czaszki", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker13_sub_desc", "source": "Set key to apply the Skull Marker on the target.", "translation": "Przypisz klawisz do oznaczenia celu: czaszki.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker14_desc", "source": "Apply Star Marker", "translation": "Nałóż oznaczenie gwiazdy", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker14_sub_desc", "source": "Set key to apply the Star Marker on the target.", "translation": "Przypisz klawisz do oznaczenia celu: gwiazdy.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker15_desc", "source": "Apply Moon Marker", "translation": "Nałóż oznaczenie księżyca", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker15_sub_desc", "source": "Set key to apply the Moon Marker on the target.", "translation": "Przypisz klawisz do oznaczenia celu: księżyca.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker1_desc", "source": "Apply Marker 1", "translation": "Nałóż oznaczenie 1", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker1_sub_desc", "source": "Set key to apply Marker 1 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 1.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker2_desc", "source": "Apply Marker 2", "translation": "Nałóż oznaczenie 2", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker2_sub_desc", "source": "Set key to apply Marker 2 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 2.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker3_desc", "source": "Apply Marker 3", "translation": "Nałóż oznaczenie 3", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker3_sub_desc", "source": "Set key to apply Marker 3 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 3.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker4_desc", "source": "Apply Marker 4", "translation": "Nałóż oznaczenie 4", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker4_sub_desc", "source": "Set key to apply Marker 4 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 4.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker5_desc", "source": "Apply Marker 5", "translation": "Nałóż oznaczenie 5", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker5_sub_desc", "source": "Set key to apply Marker 5 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 5.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker6_desc", "source": "Apply Marker 6", "translation": "Nałóż oznaczenie 6", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker6_sub_desc", "source": "Set key to apply Marker 6 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 6.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker7_desc", "source": "Apply Marker 7", "translation": "Nałóż oznaczenie 7", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker7_sub_desc", "source": "Set key to apply Marker 7 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 7.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker8_desc", "source": "Apply Marker 8", "translation": "Nałóż oznaczenie 8", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker8_sub_desc", "source": "Set key to apply Marker 8 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 8.", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker9_desc", "source": "Apply Marker 9", "translation": "Nałóż oznaczenie 9", "status": "draft"}
+{"id": "InputKeyMapping_BindTargetMarker9_sub_desc", "source": "Set key to apply Marker 9 on the target.", "translation": "Przypisz klawisz do oznaczenia celu numerem 9.", "status": "draft"}
+{"id": "InputKeyMapping_Camera_Mode_desc", "source": "Switch Camera Mode", "translation": "Zmień tryb kamery", "status": "draft"}
+{"id": "InputKeyMapping_Camera_Mode_sub_desc", "source": "Set key for Switch Camera Mode.", "translation": "Przypisz klawisz do zmiany trybu kamery.", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ToggleLockOn_desc", "source": "Camera Lock-On", "translation": "Blokada kamery na celu", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ToggleLockOn_sub_desc", "source": "Set key to switch Camera Lock-On.", "translation": "Przypisz klawisz do włączania i wyłączania blokady kamery na celu.", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ZoomIn_desc", "source": "Camera Zoom In", "translation": "Przybliż kamerę", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ZoomIn_sub_desc", "source": "Set key for Camera Zoom In.", "translation": "Przypisz klawisz do przybliżania kamery.", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ZoomOut_desc", "source": "Camera Zoom Out", "translation": "Oddal kamerę", "status": "draft"}
+{"id": "InputKeyMapping_Camera_ZoomOut_sub_desc", "source": "Set key for Camera Zoom Out.", "translation": "Przypisz klawisz do oddalania kamery.", "status": "draft"}
+{"id": "InputKeyMapping_ChangeControlMode_desc", "source": "Switch Control Mode", "translation": "Zmień tryb sterowania", "status": "draft"}
+{"id": "InputKeyMapping_ChangeControlMode_sub_desc", "source": "Set key for Switch Control Mode.", "translation": "Przypisz klawisz do zmiany trybu sterowania.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_HostilePcTarget_desc", "source": "Target Hostile Players", "translation": "Namierz wrogich graczy", "status": "draft"}
+{"id": "InputKeyMapping_Combat_HostilePcTarget_sub_desc", "source": "Set key to target Hostile Players.", "translation": "Przypisz klawisz do namierzania wrogich graczy.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_NextTarget_desc", "source": "Change Target", "translation": "Zmień cel", "status": "draft"}
+{"id": "InputKeyMapping_Combat_NextTarget_sub_desc", "source": "Set key for Change Target.", "translation": "Przypisz klawisz do zmiany celu.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_PartyAssist_desc", "source": "Target Party Leader's Target", "translation": "Namierz cel lidera drużyny", "status": "draft"}
+{"id": "InputKeyMapping_Combat_PartyAssist_sub_desc", "source": "Set key for Target Party Leader's Target.", "translation": "Przypisz klawisz do namierzania celu lidera drużyny.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_Potion_desc", "source": "Activate/Deactivate Auto-use Potions", "translation": "Włącz/wyłącz automatyczne używanie mikstur", "status": "draft"}
+{"id": "InputKeyMapping_Combat_Potion_sub_desc", "source": "Set key for Activate/Deactivate Auto-use Potions.", "translation": "Przypisz klawisz do włączania i wyłączania automatycznego używania mikstur.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SealStone_desc", "source": "Activate/Deactivate Power Shard", "translation": "Włącz/wyłącz kamień mocy", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SealStone_sub_desc", "source": "Set key for Activate/Deactivate Power Shard.", "translation": "Przypisz klawisz do włączania i wyłączania kamienia mocy.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_ShockRelease_desc", "source": "Set Defiance Hotkey", "translation": "Przypisz klawisz do wyzwolenia", "status": "draft"}
+{"id": "InputKeyMapping_Combat_ShockRelease_sub_desc", "source": "Set a key for triggering Defiance.", "translation": "Przypisz klawisz do wyzwolenia.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_1_desc", "source": "Select Target - Party Member 1", "translation": "Wybierz cel: członek drużyny 1", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_1_sub_desc", "source": "Set key for Select Target - Party Member 1.", "translation": "Przypisz klawisz do wyboru celu: członka drużyny 1.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_2_desc", "source": "Select Target - Party Member 2", "translation": "Wybierz cel: członek drużyny 2", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_2_sub_desc", "source": "Set key for Select Target - Party Member 2.", "translation": "Przypisz klawisz do wyboru celu: członka drużyny 2.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_3_desc", "source": "Select Target - Party Member 3", "translation": "Wybierz cel: członek drużyny 3", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_3_sub_desc", "source": "Set key for Select Target - Party Member 3.", "translation": "Przypisz klawisz do wyboru celu: członka drużyny 3.", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_4_desc", "source": "Select Target - Party Member 4", "translation": "Wybierz cel: członek drużyny 4", "status": "draft"}
+{"id": "InputKeyMapping_Combat_SubTarget_Party_4_sub_desc", "source": "Set key for Select Target - Party Member 4.", "translation": "Przypisz klawisz do wyboru celu: członka drużyny 4.", "status": "draft"}
+{"id": "InputKeyMapping_DamageAnalyzer_desc", "source": "Combat Analysis", "translation": "Analiza walki", "status": "draft"}
+{"id": "InputKeyMapping_DamageAnalyzer_sub_desc", "source": "Set key for using Combat Analysis.", "translation": "Przypisz klawisz do analizy walki.", "status": "draft"}
+{"id": "InputKeyMapping_DeleteAllTargetMarker_desc", "source": "Remove All Markers", "translation": "Usuń wszystkie oznaczenia", "status": "draft"}
+{"id": "InputKeyMapping_DeleteAllTargetMarker_sub_desc", "source": "Set key for removing Markers from all targets.", "translation": "Przypisz klawisz do usuwania oznaczeń ze wszystkich celów.", "status": "draft"}
+{"id": "InputKeyMapping_DeleteTargetMarker_desc", "source": "Remove Target's Marker", "translation": "Usuń oznaczenie celu", "status": "draft"}
+{"id": "InputKeyMapping_DeleteTargetMarker_sub_desc", "source": "Set key for removing the target's Marker.", "translation": "Przypisz klawisz do usuwania oznaczenia celu.", "status": "draft"}
+{"id": "InputKeyMapping_Dev_DevHelper_desc", "source": "Open Dev UI", "translation": "Otwórz interfejs deweloperski", "status": "draft"}
+{"id": "InputKeyMapping_Dev_DevHelper_sub_desc", "source": "Test-only function. Not to be used in the official release.", "translation": "Funkcja wyłącznie do testów. Nie używać w oficjalnym wydaniu.", "status": "draft"}
+{"id": "InputKeyMapping_Dev_DevTestUI_desc", "source": "Open Test UI", "translation": "Otwórz interfejs testowy", "status": "draft"}
+{"id": "InputKeyMapping_Dev_DevTestUI_sub_desc", "source": "Test-only function. Not to be used in the official release.", "translation": "Funkcja wyłącznie do testów. Nie używać w oficjalnym wydaniu.", "status": "draft"}
+{"id": "InputKeyMapping_ElementalSummon_Despawn_All_desc", "source": "Dismiss Spirits (Spiritmaster Only)", "translation": "Odpraw duchy (tylko dla Zaklinacza)", "status": "draft"}
+{"id": "InputKeyMapping_ElementalSummon_Despawn_All_sub_desc", "source": "Set key to dismiss all currently summoned spirits.", "translation": "Przypisz klawisz do odprawiania wszystkich przyzwanych duchów.", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset1_desc", "source": "Equip Set 1", "translation": "Załóż zestaw 1", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset1_sub_desc", "source": "Batch equip Set 1.", "translation": "Załóż cały zestaw 1 jednocześnie.", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset2_desc", "source": "Equip Set 2", "translation": "Załóż zestaw 2", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset2_sub_desc", "source": "Batch equip Set 2.", "translation": "Załóż cały zestaw 2 jednocześnie.", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset3_desc", "source": "Equip Set 3", "translation": "Załóż zestaw 3", "status": "draft"}
+{"id": "InputKeyMapping_EquipAllPreset3_sub_desc", "source": "Batch equip Set 3.", "translation": "Załóż cały zestaw 3 jednocześnie.", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset1_desc", "source": "Gear Preset 1", "translation": "Zestaw wyposażenia 1", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset1_sub_desc", "source": "Equip Gear Preset 1.", "translation": "Załóż zestaw wyposażenia 1.", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset2_desc", "source": "Gear Preset 2", "translation": "Zestaw wyposażenia 2", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset2_sub_desc", "source": "Equip Gear Preset 2.", "translation": "Załóż zestaw wyposażenia 2.", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset3_desc", "source": "Gear Preset 3", "translation": "Zestaw wyposażenia 3", "status": "draft"}
+{"id": "InputKeyMapping_EquipPreset3_sub_desc", "source": "Equip Gear Preset 3.", "translation": "Załóż zestaw wyposażenia 3.", "status": "draft"}
+{"id": "InputKeyMapping_HudEditRedo_desc", "source": "Edit HUD: Redo", "translation": "Edycja HUD-u: ponów", "status": "draft"}
+{"id": "InputKeyMapping_HudEditRedo_sub_desc", "source": "Set key to redo HUD edits.", "translation": "Przypisz klawisz do ponawiania zmian HUD-u.", "status": "draft"}
+{"id": "InputKeyMapping_HudEditUndo_desc", "source": "Edit HUD: Undo", "translation": "Edycja HUD-u: cofnij", "status": "draft"}
+{"id": "InputKeyMapping_HudEditUndo_sub_desc", "source": "Set key to undo HUD edits.", "translation": "Przypisz klawisz do cofania zmian HUD-u.", "status": "draft"}
+{"id": "InputKeyMapping_Macro_desc", "source": "Macro", "translation": "Makro", "status": "draft"}
+{"id": "InputKeyMapping_Macro_sub_desc", "source": "Set keys for Macro.", "translation": "Przypisz klawisze do makra.", "status": "draft"}
+{"id": "InputKeyMapping_Move_AutoForward_desc", "source": "Auto Move Forward", "translation": "Automatyczny ruch do przodu", "status": "draft"}
+{"id": "InputKeyMapping_Move_AutoForward_sub_desc", "source": "Set key for Auto Move Forward.", "translation": "Przypisz klawisz do automatycznego ruchu do przodu.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Backward_desc", "source": "Move Backward", "translation": "Ruch do tyłu", "status": "draft"}
+{"id": "InputKeyMapping_Move_Backward_sub_desc", "source": "Set key for Move Backward.", "translation": "Przypisz klawisz do ruchu do tyłu.", "status": "draft"}
+{"id": "InputKeyMapping_Move_FlyDown_desc", "source": "Fly Down", "translation": "Opadaj", "status": "draft"}
+{"id": "InputKeyMapping_Move_FlyDown_sub_desc", "source": "Set key for Fly Down.", "translation": "Przypisz klawisz do opadania.", "status": "draft"}
+{"id": "InputKeyMapping_Move_FlyUp_desc", "source": "Fly Up", "translation": "Wznoś się", "status": "draft"}
+{"id": "InputKeyMapping_Move_FlyUp_sub_desc", "source": "Set key for Fly Up.", "translation": "Przypisz klawisz do wznoszenia się.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Fly_desc", "source": "Start Flight / Stop", "translation": "Rozpocznij lot / zatrzymaj", "status": "draft"}
+{"id": "InputKeyMapping_Move_Fly_sub_desc", "source": "Set key for Start Flight / Stop.", "translation": "Przypisz klawisz do rozpoczęcia lotu i zatrzymania.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Forward_desc", "source": "Move Forward (High-Speed Glide)", "translation": "Ruch do przodu (szybkie szybowanie)", "status": "draft"}
+{"id": "InputKeyMapping_Move_Forward_sub_desc", "source": "Moves the character in the direction of the camera.", "translation": "Postać porusza się w kierunku, w którym zwrócona jest kamera.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Jump_desc", "source": "Use Jump / Glide / Defiance", "translation": "Skok / szybowanie / wyzwolenie", "status": "draft"}
+{"id": "InputKeyMapping_Move_Jump_sub_desc", "source": "Set key for using Jump / Glide / Defiance skills.", "translation": "Przypisz klawisz do używania umiejętności skoku, szybowania i wyzwolenia.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Left_desc", "source": "Move Left (Glide Left Turn)", "translation": "Ruch w lewo (skręt w lewo podczas szybowania)", "status": "draft"}
+{"id": "InputKeyMapping_Move_Left_sub_desc", "source": "Set key for Move Left or Glide Left Turn.", "translation": "Przypisz klawisz do ruchu w lewo lub skrętu w lewo podczas szybowania.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Ride_desc", "source": "Mount / Dismount", "translation": "Wsiądź / zsiądź", "status": "draft"}
+{"id": "InputKeyMapping_Move_Ride_sub_desc", "source": "Set key for Mount / Dismount.", "translation": "Przypisz klawisz do wsiadania i zsiadania.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Right_desc", "source": "Move Right (Glide Right Turn)", "translation": "Ruch w prawo (skręt w prawo podczas szybowania)", "status": "draft"}
+{"id": "InputKeyMapping_Move_Right_sub_desc", "source": "Set key for Move Right or Glide Right Turn.", "translation": "Przypisz klawisz do ruchu w prawo lub skrętu w prawo podczas szybowania.", "status": "draft"}
+{"id": "InputKeyMapping_Move_Sprint_desc", "source": "Sprint", "translation": "Sprint", "status": "draft"}
+{"id": "InputKeyMapping_Move_Sprint_sub_desc", "source": "Set key for Sprint.", "translation": "Przypisz klawisz do sprintu.", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_1_desc", "source": "Use Unique Transformation Skill 1", "translation": "Użyj unikalnej umiejętności przemiany 1", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_1_sub_desc", "source": "Set key for Unique Skills used upon Transformation.", "translation": "Przypisz klawisz do używania unikalnych umiejętności podczas przemiany.", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_2_desc", "source": "Use Unique Transformation Skill 2", "translation": "Użyj unikalnej umiejętności przemiany 2", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_2_sub_desc", "source": "Set key for Unique Skills used upon Transformation.", "translation": "Przypisz klawisz do używania unikalnych umiejętności podczas przemiany.", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_3_desc", "source": "Use Unique Transformation Skill 3", "translation": "Użyj unikalnej umiejętności przemiany 3", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_3_sub_desc", "source": "Set key for Unique Skills used upon Transformation.", "translation": "Przypisz klawisz do używania unikalnych umiejętności podczas przemiany.", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_4_desc", "source": "Use Unique Transformation Skill 4", "translation": "Użyj unikalnej umiejętności przemiany 4", "status": "draft"}
+{"id": "InputKeyMapping_PolymorphSkillSlot_4_sub_desc", "source": "Set key for Unique Skills used upon Transformation.", "translation": "Przypisz klawisz do używania unikalnych umiejętności podczas przemiany.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_1_desc", "source": "Quest Tracker: Auto Move 1", "translation": "Śledzenie zadań: automatyczny ruch 1", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_1_sub_desc", "source": "Set key to Auto Move to Quest 1 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 1.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_2_desc", "source": "Quest Tracker: Auto Move 2", "translation": "Śledzenie zadań: automatyczny ruch 2", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_2_sub_desc", "source": "Set key to Auto Move to Quest 2 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 2.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_3_desc", "source": "Quest Tracker: Auto Move 3", "translation": "Śledzenie zadań: automatyczny ruch 3", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_3_sub_desc", "source": "Set key to Auto Move to Quest 3 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 3.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_4_desc", "source": "Quest Tracker: Auto Move 4", "translation": "Śledzenie zadań: automatyczny ruch 4", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_4_sub_desc", "source": "Set key to Auto Move to Quest 4 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 4.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_5_desc", "source": "Quest Tracker: Auto Move 5", "translation": "Śledzenie zadań: automatyczny ruch 5", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_5_sub_desc", "source": "Set key to Auto Move to Quest 5 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 5.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_6_desc", "source": "Quest Tracker: Auto Move 6", "translation": "Śledzenie zadań: automatyczny ruch 6", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_6_sub_desc", "source": "Set key to Auto Move to Quest 6 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 6.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_7_desc", "source": "Quest Tracker: Auto Move 7", "translation": "Śledzenie zadań: automatyczny ruch 7", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_7_sub_desc", "source": "Set key to Auto Move to Quest 7 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 7.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_8_desc", "source": "Quest Tracker: Auto Move 8", "translation": "Śledzenie zadań: automatyczny ruch 8", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_8_sub_desc", "source": "Set key to Auto Move to Quest 8 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 8.", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_9_desc", "source": "Quest Tracker: Auto Move 9", "translation": "Śledzenie zadań: automatyczny ruch 9", "status": "draft"}
+{"id": "InputKeyMapping_QuestIndicator_AutoMove_9_sub_desc", "source": "Set key to Auto Move to Quest 9 in progress.", "translation": "Przypisz klawisz do automatycznego ruchu do aktywnego zadania 9.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_EventSkill_1_desc", "source": "Special Skill Quickslot: Quick Use 1", "translation": "Szybki slot umiejętności specjalnych: użyj 1", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_EventSkill_1_sub_desc", "source": "Set key for quick use of Special Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności specjalnych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_EventSkill_2_desc", "source": "Special Skill Quickslot: Quick Use 2", "translation": "Szybki slot umiejętności specjalnych: użyj 2", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_EventSkill_2_sub_desc", "source": "Set key for quick use of Special Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności specjalnych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_1_desc", "source": "Consumables Quickslot: Quick Use 1", "translation": "Szybki slot przedmiotów użytkowych: użyj 1", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_1_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_2_desc", "source": "Consumables Quickslot: Quick Use 2", "translation": "Szybki slot przedmiotów użytkowych: użyj 2", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_2_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_3_desc", "source": "Consumables Quickslot: Quick Use 3", "translation": "Szybki slot przedmiotów użytkowych: użyj 3", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_3_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_4_desc", "source": "Consumables Quickslot: Quick Use 4", "translation": "Szybki slot przedmiotów użytkowych: użyj 4", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_4_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_5_desc", "source": "Consumables Quickslot: Quick Use 5", "translation": "Szybki slot przedmiotów użytkowych: użyj 5", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_5_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_6_desc", "source": "Consumables Quickslot: Quick Use 6", "translation": "Szybki slot przedmiotów użytkowych: użyj 6", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_6_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_7_desc", "source": "Consumables Quickslot: Quick Use 7", "translation": "Szybki slot przedmiotów użytkowych: użyj 7", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_7_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_8_desc", "source": "Consumables Quickslot: Quick Use 8", "translation": "Szybki slot przedmiotów użytkowych: użyj 8", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Item_8_sub_desc", "source": "Set key for quick use of Consumables.", "translation": "Przypisz klawisz do szybkiego używania przedmiotów użytkowych.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_1_desc", "source": "Skill Quickslot: Quick Use 1", "translation": "Szybki slot umiejętności: użyj 1", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_1_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_2_desc", "source": "Skill Quickslot: Quick Use 2", "translation": "Szybki slot umiejętności: użyj 2", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_2_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_3_desc", "source": "Skill Quickslot: Quick Use 3", "translation": "Szybki slot umiejętności: użyj 3", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_3_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_4_desc", "source": "Skill Quickslot: Quick Use 4", "translation": "Szybki slot umiejętności: użyj 4", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_4_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_5_desc", "source": "Skill Quickslot: Quick Use 5", "translation": "Szybki slot umiejętności: użyj 5", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_5_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_6_desc", "source": "Skill Quickslot: Quick Use 6", "translation": "Szybki slot umiejętności: użyj 6", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_6_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_7_desc", "source": "Skill Quickslot: Quick Use 7", "translation": "Szybki slot umiejętności: użyj 7", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_7_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_8_desc", "source": "Skill Quickslot: Quick Use 8", "translation": "Szybki slot umiejętności: użyj 8", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Skill_8_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_1_desc", "source": "Skill Quickslot: Quick Use 9", "translation": "Szybki slot umiejętności: użyj 9", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_1_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_2_desc", "source": "Skill Quickslot: Quick Use 10", "translation": "Szybki slot umiejętności: użyj 10", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_2_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_3_desc", "source": "Skill Quickslot: Quick Use 11", "translation": "Szybki slot umiejętności: użyj 11", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_3_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_4_desc", "source": "Skill Quickslot: Quick Use 12", "translation": "Szybki slot umiejętności: użyj 12", "status": "draft"}
+{"id": "InputKeyMapping_QuickSlot_Stigma_4_sub_desc", "source": "Set key for quick use of Skills.", "translation": "Przypisz klawisz do szybkiego używania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_Rest_desc", "source": "Rest", "translation": "Odpocznij", "status": "draft"}
+{"id": "InputKeyMapping_Rest_sub_desc", "source": "Set key for Rest.", "translation": "Przypisz klawisz do odpoczynku.", "status": "draft"}
+{"id": "InputKeyMapping_SelectNextTargetMarker_desc", "source": "Select Marker Target", "translation": "Wybierz cel z oznaczeniem", "status": "draft"}
+{"id": "InputKeyMapping_SelectNextTargetMarker_sub_desc", "source": "Set key to select Marker target.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker10_desc", "source": "Select Marker 0", "translation": "Wybierz cel z oznaczeniem 0", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker10_sub_desc", "source": "Set key to select the target with Marker 0.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 0.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker11_desc", "source": "Select Sleep Marker", "translation": "Wybierz cel z oznaczeniem snu", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker11_sub_desc", "source": "Set key to select the target with the Sleep Marker.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem snu.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker12_desc", "source": "Select Stop Marker", "translation": "Wybierz cel z oznaczeniem zatrzymania", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker12_sub_desc", "source": "Set key to select the target with the Stop Marker.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem zatrzymania.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker13_desc", "source": "Select Skull Marker", "translation": "Wybierz cel z oznaczeniem czaszki", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker13_sub_desc", "source": "Set key to select the target with the Skull Marker.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem czaszki.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker14_desc", "source": "Select Star Marker", "translation": "Wybierz cel z oznaczeniem gwiazdy", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker14_sub_desc", "source": "Set key to select the target with the Star Marker.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem gwiazdy.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker15_desc", "source": "Select Moon Marker", "translation": "Wybierz cel z oznaczeniem księżyca", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker15_sub_desc", "source": "Set key to select the target with the Moon Marker.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem księżyca.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker1_desc", "source": "Select Marker 1", "translation": "Wybierz cel z oznaczeniem 1", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker1_sub_desc", "source": "Set key to select the target with Marker 1.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 1.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker2_desc", "source": "Select Marker 2", "translation": "Wybierz cel z oznaczeniem 2", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker2_sub_desc", "source": "Set key to select the target with Marker 2.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 2.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker3_desc", "source": "Select Marker 3", "translation": "Wybierz cel z oznaczeniem 3", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker3_sub_desc", "source": "Set key to select the target with Marker 3.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 3.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker4_desc", "source": "Select Marker 4", "translation": "Wybierz cel z oznaczeniem 4", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker4_sub_desc", "source": "Set key to select the target with Marker 4.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 4.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker5_desc", "source": "Select Marker 5", "translation": "Wybierz cel z oznaczeniem 5", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker5_sub_desc", "source": "Set key to select the target with Marker 5.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 5.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker6_desc", "source": "Select Marker 6", "translation": "Wybierz cel z oznaczeniem 6", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker6_sub_desc", "source": "Set key to select the target with Marker 6.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 6.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker7_desc", "source": "Select Marker 7", "translation": "Wybierz cel z oznaczeniem 7", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker7_sub_desc", "source": "Set key to select the target with Marker 7.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 7.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker8_desc", "source": "Select Marker 8", "translation": "Wybierz cel z oznaczeniem 8", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker8_sub_desc", "source": "Set key to select the target with Marker 8.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 8.", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker9_desc", "source": "Select Marker 9", "translation": "Wybierz cel z oznaczeniem 9", "status": "draft"}
+{"id": "InputKeyMapping_SelectTargetMarker9_sub_desc", "source": "Set key to select the target with Marker 9.", "translation": "Przypisz klawisz do wyboru celu z oznaczeniem 9.", "status": "draft"}
+{"id": "InputKeyMapping_ShareItem_desc", "source": "Share Item/Map Pin", "translation": "Udostępnij przedmiot / znacznik mapy", "status": "draft"}
+{"id": "InputKeyMapping_ShareItem_sub_desc", "source": "Shares Item or Map Pin in chat.", "translation": "Udostępnia na czacie przedmiot lub znacznik mapy.", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset1_desc", "source": "Skill Preset 1", "translation": "Zestaw umiejętności 1", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset1_sub_desc", "source": "Equip Skill Preset 1.", "translation": "Załóż zestaw umiejętności 1.", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset2_desc", "source": "Skill Preset 2", "translation": "Zestaw umiejętności 2", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset2_sub_desc", "source": "Equip Skill Preset 2.", "translation": "Załóż zestaw umiejętności 2.", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset3_desc", "source": "Skill Preset 3", "translation": "Zestaw umiejętności 3", "status": "draft"}
+{"id": "InputKeyMapping_SkillPreset3_sub_desc", "source": "Equip Skill Preset 3.", "translation": "Załóż zestaw umiejętności 3.", "status": "draft"}
+{"id": "InputKeyMapping_System_Cancel_desc", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "InputKeyMapping_System_Cancel_sub_desc", "source": "Cancels casting, closes window, deselects target, and opens menu.", "translation": "Przerywa rzucanie, zamyka okno, odznacza cel i otwiera menu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Abyss_desc", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "InputKeyMapping_UI_Abyss_sub_desc", "source": "Set key for opening Abyss.", "translation": "Przypisz klawisz do otwierania Otchłani.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Achievement_desc", "source": "Achievements", "translation": "Osiągnięcia", "status": "draft"}
+{"id": "InputKeyMapping_UI_Achievement_sub_desc", "source": "Set key for opening Achievement.", "translation": "Przypisz klawisz do otwierania osiągnięć.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Arcana_desc", "source": "Arcana", "translation": "Arkana", "status": "draft"}
+{"id": "InputKeyMapping_UI_Arcana_sub_desc", "source": "Set key for opening Arcana.", "translation": "Przypisz klawisz do otwierania Arkan.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Arena_desc", "source": "Arena", "translation": "Arena", "status": "draft"}
+{"id": "InputKeyMapping_UI_Arena_sub_desc", "source": "Set key for opening Arena.", "translation": "Przypisz klawisz do otwierania Areny.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Attendance_desc", "source": "Attendance", "translation": "Obecność", "status": "draft"}
+{"id": "InputKeyMapping_UI_Attendance_sub_desc", "source": "Set key for opening Attendance.", "translation": "Przypisz klawisz do otwierania Obecności.", "status": "draft"}
+{"id": "InputKeyMapping_UI_AwakenDungeon_desc", "source": "Ascension Trial", "translation": "Próba Wniebowstąpienia", "status": "draft"}
+{"id": "InputKeyMapping_UI_AwakenDungeon_sub_desc", "source": "Set key for opening Ascension Trial.", "translation": "Przypisz klawisz do otwierania Próby Wniebowstąpienia.", "status": "draft"}
+{"id": "InputKeyMapping_UI_BMShop_desc", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "InputKeyMapping_UI_BMShop_sub_desc", "source": "Set key for opening Shop.", "translation": "Przypisz klawisz do otwierania sklepu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_BossChallenge_desc", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "InputKeyMapping_UI_BossChallenge_sub_desc", "source": "Set key for opening Nightmare.", "translation": "Przypisz klawisz do otwierania Koszmaru.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Character_desc", "source": "Stat Info", "translation": "Statystyki", "status": "draft"}
+{"id": "InputKeyMapping_UI_Character_sub_desc", "source": "Set key for opening Stat information.", "translation": "Przypisz klawisz do wyświetlania statystyk.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Chat_desc", "source": "Chat", "translation": "Czat", "status": "draft"}
+{"id": "InputKeyMapping_UI_Chat_sub_desc", "source": "Set key for opening Chat.", "translation": "Przypisz klawisz do otwierania czatu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Community_desc", "source": "Manage Friends", "translation": "Zarządzanie znajomymi", "status": "draft"}
+{"id": "InputKeyMapping_UI_Community_sub_desc", "source": "Set key for opening Manage Friends.", "translation": "Przypisz klawisz do otwierania zarządzania znajomymi.", "status": "draft"}

@@ -1,0 +1,129 @@
+{"id": "String_SCREEN_MSG_ABYSSRIFT_END_body", "source": "Ended", "translation": "Zakończono", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_KILLNPCCOUNT_BODY_body", "source": "The fifth rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się piąta szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_KILLNPCCOUNT_body", "source": "Fifth Rift", "translation": "Piąta szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_KILLNPC_BODY_body", "source": "The fourth rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się czwarta szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_KILLNPC_body", "source": "Fourth Rift", "translation": "Czwarta szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_NPC_BODY_body", "source": "The second rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się druga szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_NPC_body", "source": "Second Rift", "translation": "Druga szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_PC_BODY_body", "source": "The first rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się pierwsza szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_PC_body", "source": "First Rift", "translation": "Pierwsza szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIMEKILLNPCCOUNT_BODY_body", "source": "Defeat all invaders and seal the rift completely.", "translation": "Pokonaj wszystkich najeźdźców i całkowicie zamknij szczelinę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIMEKILLNPCCOUNT_body", "source": "The final conqueror has appeared!", "translation": "Pojawił się ostatni zdobywca!", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIMEKILLNPC_BODY_body", "source": "The final rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się ostatnia szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIMEKILLNPC_body", "source": "Final Rift", "translation": "Ostatnia szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIME_BODY_body", "source": "The third rift appeared.\nDefeat the invaders swarming out of the rift.", "translation": "Pojawiła się trzecia szczelina.\nPokonaj najeźdźców wydostających się ze szczeliny.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIME_body", "source": "Third Rift", "translation": "Trzecia szczelina", "status": "draft"}
+{"id": "String_SCREEN_MSG_ABYSSRIFT_TITLE_body", "source": "Abyss Rift Zone", "translation": "Strefa szczelin Otchłani", "status": "draft"}
+{"id": "String_SCREEN_MSG_ACHIEVEMENT_COMPLETE_TITLE_body", "source": "Achievement Unlocked", "translation": "Zdobyto osiągnięcie", "status": "draft"}
+{"id": "String_SCREEN_MSG_ACHIEVEMENT_MEMBERSHIPPASS_TITLE_body", "source": "Membership Pass Mission Achieved", "translation": "Wykonano misję Przepustki członkowskiej", "status": "draft"}
+{"id": "String_SCREEN_MSG_ACHIEVEMENT_ONBOARDING_COMPLETE_TITLE_body", "source": "Growth Support Mission Completed", "translation": "Ukończono misję wsparcia rozwoju", "status": "draft"}
+{"id": "String_SCREEN_MSG_ACHIEVEMENT_SEASON_COMPLETE_TITLE_body", "source": "Season Mission Achieved", "translation": "Wykonano misję sezonową", "status": "draft"}
+{"id": "String_SCREEN_MSG_ADVENTURE_QUEST_GROUP_UNLOCK_TITLE_body", "source": "Exploration Quest Unlocked", "translation": "Odblokowano zadanie eksploracyjne", "status": "draft"}
+{"id": "String_SCREEN_MSG_ADVENTURE_QUEST_SUBGROUP_UNLOCK_TITLE_body", "source": "Additional Exploration Quest Unlocked", "translation": "Odblokowano dodatkowe zadanie eksploracyjne", "status": "draft"}
+{"id": "String_SCREEN_MSG_ARTIFACTWAR_END_DESC_body", "source": "Ended", "translation": "Zakończono", "status": "draft"}
+{"id": "String_SCREEN_MSG_ARTIFACTWAR_END_TITLE_body", "source": "Artifact Siege", "translation": "Oblężenie artefaktu", "status": "draft"}
+{"id": "String_SCREEN_MSG_ARTIFACTWAR_START_DESC_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_SCREEN_MSG_ARTIFACTWAR_START_TITLE_body", "source": "Artifact Siege", "translation": "Oblężenie artefaktu", "status": "draft"}
+{"id": "String_SCREEN_MSG_ATTENDANCE_GET_REWARD_TEXT_body", "source": "{0} Attendance Reward acquired.", "translation": "Odebrano nagrodę za obecność: {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ATTENDANCE_GET_REWARD_TITLE_body", "source": "Attendance Rewards", "translation": "Nagrody za obecność", "status": "draft"}
+{"id": "String_SCREEN_MSG_BATTLEPASS_LEVEL_UP_body", "source": "Level increased", "translation": "Zwiększono poziom", "status": "draft"}
+{"id": "String_SCREEN_MSG_BATTLEPASS_REWARD_GET_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_BATTLEPASS_REWARD_GET_TITLE_body", "source": "Daeva Pass Level Reward", "translation": "Nagroda za poziom Przepustki Daevy", "status": "draft"}
+{"id": "String_SCREEN_MSG_BATTLEPASS_SUBSCRIBE_TEXT_body", "source": "{0} subscribed to {1}.", "translation": "{0} subskrybuje {1}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_BATTLEPASS_SUBSCRIBE_TITLE_body", "source": "Daeva Pass Subscription", "translation": "Subskrypcja Przepustki Daevy", "status": "draft"}
+{"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_CELLAR_body", "source": "Treasure Storage Investigation Complete", "translation": "Ukończono przeszukiwanie skarbca", "status": "draft"}
+{"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_HUNTER_body", "source": "Daeva Hunter Elimination Successful", "translation": "Pomyślnie wyeliminowano łowcę Daev", "status": "draft"}
+{"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_SEAL_body", "source": "Sealed Dungeon Exploration Complete", "translation": "Ukończono eksplorację zapieczętowanego lochu", "status": "draft"}
+{"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_TERRITORY_body", "source": "Stronghold Sweep Complete", "translation": "Ukończono oczyszczanie twierdzy", "status": "draft"}
+{"id": "String_SCREEN_MSG_CRAFT_SKILL_UNLOCK_TITLE_body", "source": "Crafting skill acquired", "translation": "Zdobyto umiejętność rzemieślniczą", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSMONOLITH_TEXT_body", "source": "Empyrean Trace: {0} acquired.", "translation": "Zdobyto ślad Empyrean: {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSMONOLITH_TITLE_body", "source": "Daeva Express", "translation": "Ekspres Daevy", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSOCCUPATIONTERRITORY_TEXT_body", "source": "Received the reward from {0} Stronghold.", "translation": "Odebrano nagrodę z twierdzy {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSOCCUPATIONTERRITORY_TITLE_body", "source": "Daeva Express", "translation": "Ekspres Daevy", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSSEAL_TEXT_body", "source": "Received the reward from {0} Sealed Dungeon.", "translation": "Odebrano nagrodę z zapieczętowanego lochu {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSSEAL_TITLE_body", "source": "Daeva Express", "translation": "Ekspres Daevy", "status": "draft"}
+{"id": "String_SCREEN_MSG_DIMENSION_INVASION_TITLE_body", "source": "{0}", "translation": "{0}", "status": "technical"}
+{"id": "String_SCREEN_MSG_DISCOVER_EXPLORATION_CELLAR_body", "source": "You can now enter the Stronghold Treasure Storage", "translation": "Możesz teraz wejść do skarbca twierdzy", "status": "draft"}
+{"id": "String_SCREEN_MSG_DISCOVER_EXPLORATION_HUNTER_body", "source": "Daeva Hunter Discovered", "translation": "Odkryto łowcę Daev", "status": "draft"}
+{"id": "String_SCREEN_MSG_DISCOVER_EXPLORATION_SEAL_body", "source": "Sealed Dungeon discovered", "translation": "Odkryto zapieczętowany loch", "status": "draft"}
+{"id": "String_SCREEN_MSG_DISCOVER_EXPLORATION_TERRITORY_body", "source": "Stronghold discovered", "translation": "Odkryto twierdzę", "status": "draft"}
+{"id": "String_SCREEN_MSG_DUNGEON_MENTOR_REWARD_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_DUNGEON_MENTOR_REWARD_TITLE_body", "source": "Collected Sprout Badge reward", "translation": "Odebrano nagrodę za odznakę kiełka", "status": "draft"}
+{"id": "String_SCREEN_MSG_DUNGEON_SWEEP_RESULT_TITLE_body", "source": "Instant Clear Reward", "translation": "Nagroda za natychmiastowe ukończenie", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_RESULT_DESTRUCTION_body", "source": "{0} enhancement failed. The item has been destroyed.", "translation": "Ulepszanie {0} nie powiodło się. Przedmiot został zniszczony.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_RESULT_DOWN_body", "source": "{0} enhancement failed. The level has dropped.", "translation": "Ulepszanie {0} nie powiodło się. Poziom spadł.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_RESULT_FAIL_body", "source": "{0} enhancement failed.", "translation": "Ulepszanie {0} nie powiodło się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_RESULT_SUCCESS_body", "source": "{0} enhancement successful", "translation": "Ulepszanie {0} powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_UPGRADE_RESULT_FAIL_body", "source": "{0} upgrade failed", "translation": "Udoskonalanie {0} nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_ENCHANT_UPGRADE_RESULT_SUCCESS_body", "source": "{0} upgrade successful", "translation": "Udoskonalanie {0} powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_DESTRUCTION_body", "source": "{0} Amplified Enhancement failed and the item has been destroyed.", "translation": "Wzmocnione ulepszanie {0} nie powiodło się. Przedmiot został zniszczony.", "status": "draft"}
+{"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_DOWN_body", "source": "{0} Amplified Enhancement failed and the level has dropped.", "translation": "Wzmocnione ulepszanie {0} nie powiodło się. Poziom spadł.", "status": "draft"}
+{"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_FAIL_body", "source": "{0} Amplified Enhancement failed", "translation": "Wzmocnione ulepszanie {0} nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_SUCCESS_body", "source": "{0} Amplified Enhancement succeeded", "translation": "Wzmocnione ulepszanie {0} powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_GATHER_SKILL_UNLOCK_TITLE_body", "source": "Gathering skill acquired", "translation": "Zdobyto umiejętność zbieractwa", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_Acquire_TEXT_body", "source": "{0} Crafting Skill acquired", "translation": "Zdobyto umiejętność rzemieślniczą: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_GradeUP_GATHER_body", "source": "Essence Extraction Proficiency Level increased", "translation": "Zwiększono poziom biegłości w pozyskiwaniu esencji", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_GradeUP_TEXT_body", "source": "{0} Crafting Proficiency Level increased", "translation": "Zwiększono poziom biegłości rzemieślniczej: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_LevelUP_GATHER_body", "source": "Essence Extraction Proficiency Level increased", "translation": "Zwiększono poziom biegłości w pozyskiwaniu esencji", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_UP_TEXT_body", "source": "{0} Crafting Proficiency Level increased", "translation": "Zwiększono poziom biegłości rzemieślniczej: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_MASTERY_UP_TITLE_body", "source": "Point", "translation": "Punkt", "status": "draft"}
+{"id": "String_SCREEN_MSG_MEMBERSHIPPASS_REWARD_SUB_TEXT_body", "source": "Membership Pass reward collected.", "translation": "Odebrano nagrodę Przepustki członkowskiej.", "status": "draft"}
+{"id": "String_SCREEN_MSG_MEMBERSHIPPASS_REWARD_TITLE_body", "source": "Membership Pass", "translation": "Przepustka członkowska", "status": "draft"}
+{"id": "String_SCREEN_MSG_ONBOARDING_GET_REWARD_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_PARTYDUNGEON_BOSS_KILL_TEXT_body", "source": "Reward has been added to Odyle Energy Cube.", "translation": "Dodano nagrodę do kostki energii Odyle.", "status": "draft"}
+{"id": "String_SCREEN_MSG_PARTYDUNGEON_BOSS_KILL_TITLE_body", "source": "{0} Defeated", "translation": "Pokonano: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_PC_LEVEL_UP_TEXT_body", "source": "Automatically closes in {0} seconds", "translation": "Automatyczne zamknięcie za {0} s", "status": "draft"}
+{"id": "String_SCREEN_MSG_PC_LEVEL_UP_TITLE_body", "source": "Level Up", "translation": "Awans na wyższy poziom", "status": "draft"}
+{"id": "String_SCREEN_MSG_PERIOD_COLLECTION_COMPLETE_TEXT_body", "source": "Reward Acquired", "translation": "Zdobyto nagrodę", "status": "draft"}
+{"id": "String_SCREEN_MSG_PERIOD_COLLECTION_COMPLETE_TITLE_body", "source": "Delivery Complete", "translation": "Zakończono dostawę", "status": "draft"}
+{"id": "String_SCREEN_MSG_PERIOD_DUNGEON_SWEEP_RESULT_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_PET_COLLECTION_REWARD_GET_TITLE_body", "source": "Reward Acquired", "translation": "Zdobyto nagrodę", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_COMPLETE_TEXT_body", "source": "Reward Acquired", "translation": "Zdobyto nagrodę", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_COMPLETE_TITLE_body", "source": "Quest Complete", "translation": "Ukończono zadanie", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_PARTCOMPLETE_TITLE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_PART_TITLE_body", "source": "Part {0}", "translation": "Część {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_START_TITLE_body", "source": "Quest Start", "translation": "Rozpoczęto zadanie", "status": "draft"}
+{"id": "String_SCREEN_MSG_QUEST_SUBZONEGROUP_OPEN_TITLE_body", "source": "Regional Mission Unlocked", "translation": "Odblokowano misję regionalną", "status": "draft"}
+{"id": "String_SCREEN_MSG_RANDOM_SHOP_BUY_SUCCESS_body", "source": "{0} Purchased", "translation": "Kupiono: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_RANDOM_SHOP_CHOICE_PURCHASING_SUCCESS_body", "source": "Selection Purchase complete", "translation": "Zakończono zakup wybranych przedmiotów", "status": "draft"}
+{"id": "String_SCREEN_MSG_SEASONMISSION_GET_REWARD_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SEASONMISSION_GET_REWARD_TITLE_body", "source": "Season Mission Weekly Rewards", "translation": "Tygodniowe nagrody misji sezonowych", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_BATCH_PURCHASING_SUCCESS_TEXT_body", "source": "Check Cube or owned currency", "translation": "Sprawdź kostkę lub posiadaną walutę", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_BATCH_PURCHASING_SUCCESS_body", "source": "Bulk purchase complete", "translation": "Zakończono zakup hurtowy", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_BUY_SUCCESS_TEXT_body", "source": "Check Cube or owned currency", "translation": "Sprawdź kostkę lub posiadaną walutę", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_BUY_SUCCESS_body", "source": "{0} Purchased", "translation": "Kupiono: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_SUBSCRIBE_EXTEND_SUCCESS_body", "source": "{0} duration has been extended.", "translation": "Przedłużono czas trwania: {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SHOP_SUBSCRIBE_SUCCESS_body", "source": "{0} has been activated.", "translation": "Aktywowano: {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SKILL_SPECIALIZED_TITLE_body", "source": "Skill has been specialized", "translation": "Wyspecjalizowano umiejętność", "status": "draft"}
+{"id": "String_SCREEN_MSG_SKILL_UNLOCK_TITLE_body", "source": "Acquired Stigma Skill", "translation": "Zdobyto umiejętność Stygmatu", "status": "draft"}
+{"id": "String_SCREEN_MSG_SKINSHOP_BUY_SUCCESS_TEXT_body", "source": "Check the equipped list", "translation": "Sprawdź listę wyposażonych elementów", "status": "draft"}
+{"id": "String_SCREEN_MSG_SKINSHOP_BUY_SUCCESS_body", "source": "{0} Purchased", "translation": "Kupiono: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_SKIN_DECO_BUY_SUCCESS_body", "source": "Customization applied", "translation": "Zastosowano personalizację", "status": "draft"}
+{"id": "String_SCREEN_MSG_SOULADD_RESULT_FAIL_body", "source": "Failed to perform Soul Fuse on {0}.", "translation": "Fuzja dusz dla {0} nie powiodła się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SOULADD_RESULT_SUCCESS_body", "source": "Successfully performed Soul Fuse on {0}.", "translation": "Fuzja dusz dla {0} powiodła się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SOULATTUNE_RESULT_FAIL_body", "source": "Soul Sync failed.", "translation": "Synchronizacja dusz nie powiodła się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_STIGMA_UPGRADE_FAIL_TEXT_body", "source": "Failed to enhance {0} to Lv. {1}", "translation": "Ulepszanie {0} do poz. {1} nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_STIGMA_UPGRADE_FAIL_TITLE_body", "source": "Enhance Failed", "translation": "Ulepszanie nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_STIGMA_UPGRADE_SUCCESS_TEXT_body", "source": "Successfully enhanced {0} to Lv. {1}", "translation": "Ulepszono {0} do poz. {1}", "status": "draft"}
+{"id": "String_SCREEN_MSG_STIGMA_UPGRADE_SUCCESS_TITLE_body", "source": "Enhance Success", "translation": "Ulepszanie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_SUCCESSION_RESULT_FAIL_body", "source": "Failed to perform {0} Gear Transfer", "translation": "Przeniesienie wyposażenia {0} nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_SUCCESSION_RESULT_SUCCESS_body", "source": "Successfully performed {0} Gear Transfer.", "translation": "Przeniesienie wyposażenia {0} powiodło się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SURPASS_RESULT_FAIL_body", "source": "{0} Potential enhancement failed.", "translation": "Ulepszanie potencjału {0} nie powiodło się.", "status": "draft"}
+{"id": "String_SCREEN_MSG_SURPASS_RESULT_SUCCESS_body", "source": "{0} Potential enhancement successful", "translation": "Ulepszanie potencjału {0} powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_TITLE_GET_REWARD_TEXT_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_TITLE_GET_REWARD_TITLE_body", "source": "Title Acquisition Reward", "translation": "Nagroda za zdobycie tytułu", "status": "draft"}
+{"id": "String_SCREEN_MSG_TRIAL_GET_ITEM_SUBMSG_body", "source": "Reward collected.", "translation": "Odebrano nagrodę.", "status": "draft"}
+{"id": "String_SCREEN_MSG_TRIAL_GET_ITEM_TITLE_body", "source": "Obtained Items", "translation": "Zdobyte przedmioty", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_CREATURE_LEVELUP_TEXT_body", "source": "Reached {0} Insight Lv. {1}", "translation": "Osiągnięto poz. {1} wnikliwości: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_CREATURE_LEVELUP_TITLE_body", "source": "{0} Pet Genus Insight Level Up", "translation": "Awans wnikliwości rodzaju wierzchowca: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_CREATURE_OPEN_TEXT_body", "source": "Unlocked {0} Genus Insight", "translation": "Odblokowano wnikliwość rodzaju: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_CREATURE_OPEN_TITLE_body", "source": "Pet Genus Insight Unlocked", "translation": "Odblokowano wnikliwość rodzaju wierzchowca", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_GET_TEXT_body", "source": "{0} Obtained", "translation": "Zdobyto: {0}", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_GET_TITLE_body", "source": "Pet Obtained", "translation": "Zdobyto wierzchowca", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_LEVEL_UP_TEXT_body", "source": "{0} Pet's stats increased.\n{1} Genus Insight increased by {2}.", "translation": "Wzrosły statystyki wierzchowca {0}.\nWnikliwość rodzaju {1} wzrosła o {2}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_VEHICLE_LEVEL_UP_TITLE_body", "source": "Pet Genus Insight Level Up", "translation": "Awans wnikliwości rodzaju wierzchowca", "status": "draft"}
+{"id": "String_SCREEN_MSG_WING_ENCHANT_FAIL_TEXT_body", "source": "{0}'s effect remains unchanged.", "translation": "Efekt {0} pozostaje bez zmian.", "status": "draft"}
+{"id": "String_SCREEN_MSG_WING_ENCHANT_FAIL_TITLE_body", "source": "Wing Enhance Failed", "translation": "Ulepszanie skrzydeł nie powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_WING_ENCHANT_SUCCESS_TEXT_body", "source": "{0}'s effect has been enhanced.", "translation": "Wzmocniono efekt {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_WING_ENCHANT_SUCCESS_TITLE_body", "source": "Wing Enhance Succeeded", "translation": "Ulepszanie skrzydeł powiodło się", "status": "draft"}

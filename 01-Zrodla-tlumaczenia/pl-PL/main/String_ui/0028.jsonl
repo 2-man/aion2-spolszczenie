@@ -1,0 +1,250 @@
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_IMAGE_BASED_LIGHTING_DESCRIPTION_body","source":"Assists in rendering reflective surfaces such as metal and water.","translation":"Pomaga renderować powierzchnie odbijające światło, takie jak metal i woda.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_IMAGE_BASED_LIGHTING_PERFORMANCE_body","source":"Performance","translation":"Wydajność","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_IMAGE_BASED_LIGHTING_QUALITY_body","source":"Quality","translation":"Jakość","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_IMAGE_BASED_LIGHTING_body","source":"Realtime Image-Based Lighting Quality","translation":"Jakość oświetlenia opartego na obrazie w czasie rzeczywistym","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_LUMEN_DESCRIPTION_body","source":"Raise the level of this option for more natural lighting effects.","translation":"Podwyższ poziom tej opcji, aby uzyskać bardziej naturalne oświetlenie.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_LUMEN_body","source":"Lumen","translation":"Lumen","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_NANITE_DESCRIPTION_body","source":"Raise the level of this option for cinematic-quality visuals.","translation":"Podwyższ poziom tej opcji, aby uzyskać obraz o kinowej jakości.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_NANITE_body","source":"Nanite","translation":"Nanite","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_FIRST_AGGRO_RANGE_NOTICE_DESC_body","source":"Displays the aggro range of targeted monsters. Adjustable opacity.","translation":"Wyświetla zasięg agresji wybranych potworów. Można dostosować przezroczystość.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_FIRST_AGGRO_RANGE_NOTICE_body","source":"Aggro Range Display","translation":"Wyświetlanie zasięgu agresji","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_HIT_FREEZE_DESC_body","source":"Plays freeze effects on your character when attacking.","translation":"Odtwarza efekt zatrzymania obrazu postaci podczas ataku.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_HIT_FREEZE_body","source":"Hit Freeze Effect","translation":"Efekt zatrzymania przy trafieniu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_SKILL_RANGE_NOTICE_DESC_body","source":"Displays the skill range. Adjustable opacity.","translation":"Wyświetla zasięg umiejętności. Można dostosować przezroczystość.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_SKILL_RANGE_NOTICE_body","source":"Display Skill Range","translation":"Wyświetlaj zasięg umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_OTHER_DIRECTION_body","source":"Miscellaneous Effects","translation":"Pozostałe efekty","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_MODE_DESC_body","source":"Switch between windowed or full-screen mode.","translation":"Przełącz między trybem okienkowym a pełnoekranowym.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_MODE_FULL_SCREEN_body","source":"Full-Screen Mode","translation":"Tryb pełnoekranowy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_MODE_FULL_WINDOW_body","source":"Borderless Window Mode","translation":"Tryb okienkowy bez ramek","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_MODE_WINDOW_body","source":"Windowed Mode","translation":"Tryb okienkowy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_MODE_body","source":"Display Mode","translation":"Tryb wyświetlania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_REFRESH_DESC_body","source":"Adjusts the display refresh rate.","translation":"Dostosowuje częstotliwość odświeżania ekranu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_REFRESH_RATE_HZ_body","source":"{0}Hz","translation":"{0} Hz","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_REFRESH_RATE_body","source":"Screen Refresh Rate","translation":"Częstotliwość odświeżania ekranu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_REFRESH_WARNING_body","source":"Only available when Vertical Sync is enabled.","translation":"Dostępne tylko po włączeniu synchronizacji pionowej.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_CUSTOM_body","source":"Custom","translation":"Niestandardowe","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_DESC_body","source":"Adjust resolution of the game screen.","translation":"Dostosuj rozdzielczość obrazu w grze.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_MOBILE_body","source":"Resolution Scale","translation":"Skala rozdzielczości","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_SCALE_GRADE_DISCRIPION_body","source":"Adjusts the resolution scale to balance performance and image quality.","translation":"Dostosowuje skalę rozdzielczości, równoważąc wydajność i jakość obrazu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_SCALE_GRADE_body","source":"Resolution Scale Adjustment","translation":"Dostosowanie skali rozdzielczości","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_DISPLAY_RESOLUTION_body","source":"Resolution","translation":"Rozdzielczość","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_SUBTITLE_SCREEN_body","source":"Display","translation":"Wyświetlanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_WORLDMAP_TRANSITION_DESC_body","source":"Configure the display of the cloud animation when opening the World Map.","translation":"Konfiguruje animację przejścia chmur podczas otwierania mapy świata.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_WORLDMAP_TRANSITION_body","source":"World Map Transition Animation","translation":"Animacja przejścia na mapie świata","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_WORLDMAP_body","source":"World Map","translation":"Mapa świata","status":"draft"}
+{"id":"String_UI_SETTING_TAB_GRAPHIC_body","source":"Graphics","translation":"Grafika","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_AGGRORANGE_DESC_body","source":"Display the Aggro Range of the targeted monster.","translation":"Wyświetla zasięg agresji wybranego potwora.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_AGGRORANGE_TRANSPARENCY_DESC_body","source":"Adjust the opacity of the aggro range.","translation":"Dostosuj przezroczystość zasięgu agresji.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_AGGRORANGE_TRANSPARENCY_body","source":"Aggro Range Opacity","translation":"Przezroczystość zasięgu agresji","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_AGGRORANGE_body","source":"Aggro Range Display","translation":"Wyświetlanie zasięgu agresji","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_BUTTON1_body","source":"OFF","translation":"WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_BUTTON2_body","source":"FRONT","translation":"PRZÓD","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_BUTTON3_body","source":"BACK","translation":"TYŁ","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_BUTTON4_body","source":"ALL","translation":"WSZYSTKIE","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_DESC_body","source":"Toggle display of boss radius indicator for front and back attacks.","translation":"Przełącza wyświetlanie wskaźnika promienia bossa dla ataków z przodu i z tyłu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_DIRECTIONANGLE_body","source":"Display Boss Orientation Indicator","translation":"Wyświetlaj wskaźnik kierunku bossa","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_RANGE_body","source":"Range Display","translation":"Wyświetlanie zasięgu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILLRANGE_DESC_body","source":"Display the skill range.","translation":"Wyświetla zasięg umiejętności.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILLRANGE_TRANSPARENCY_DESC_body","source":"Set the opacity of the skill range.","translation":"Ustaw przezroczystość zasięgu umiejętności.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILLRANGE_TRANSPARENCY_body","source":"Skill Range Opacity","translation":"Przezroczystość zasięgu umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILLRANGE_body","source":"Display Skill Range","translation":"Wyświetlanie zasięgu umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILL_COOL_TIME_body","source":"Display Skill Cooldown Time","translation":"Wyświetlaj czas odnowienia umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILL_REMAIN_COOL_TIME_DESC_body","source":"Skills that are on cooldown but not shown in the quickslot are shown in a single row at the bottom center.","translation":"Umiejętności odnawiane, które nie są przypisane do szybkiego slotu, pojawiają się w jednym rzędzie na dole ekranu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_SKILL_REMAIN_COOL_TIME_body","source":"Display Skills on Cooldown","translation":"Wyświetlaj odnawiane umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMBAT_body","source":"Combat","translation":"Walka","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_BATTLE_body","source":"Combat","translation":"Walka","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_CAPE_DESC_body","source":"Shows your cloak skin.","translation":"Wyświetla wygląd peleryny.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_CAPE_body","source":"Display Cloak","translation":"Wyświetlaj pelerynę","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DAMAGEFLOATER_DESC_body","source":"Displays floaters for damage, healing, status effects, etc.","translation":"Wyświetla nad postaciami obrażenia, leczenie, efekty statusu itp.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DAMAGEFLOATER_ME_body","source":"To Self","translation":"Na sobie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DAMAGEFLOATER_SUMMON_body","source":"To Summoned Spirit","translation":"Na przyzwanym duchu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DAMAGEFLOATER_TARGET_body","source":"To Target","translation":"Na celu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DAMAGEFLOATER_body","source":"Damage Floater Display","translation":"Wyświetlanie wartości nad postaciami","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DIVE_DESC_body","source":"Display controls while diving.","translation":"Wyświetla sterowanie podczas nurkowania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_DIVE_body","source":"Dive","translation":"Nurkowanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_ELITEMONSTER_DESC_body","source":"Include nameplates for elite monsters when displaying monster nameplates.","translation":"Uwzględnia tabliczki elitarnych potworów podczas wyświetlania tabliczek potworów.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_ELITEMONSTER_body","source":"Display Elite Monster Nameplate","translation":"Wyświetlaj tabliczki elitarnych potworów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FALL_DESC_body","source":"Display controls while falling.","translation":"Wyświetla sterowanie podczas spadania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FALL_body","source":"Fall","translation":"Spadanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE1_DEC_body","source":"Display controls while playing \"Mysterious Track\" in Shugo Festival.","translation":"Wyświetla sterowanie podczas gry w „Tajemniczy tor” na Festiwalu Shugo.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE1_body","source":"Mysterious Track","translation":"Tajemniczy tor","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE2_DEC_body","source":"Display controls while playing \"Jump Jump\" in Shugo Festival.","translation":"Wyświetla sterowanie podczas gry w „Skacz, skacz” na Festiwalu Shugo.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE2_body","source":"Jump Jump","translation":"Skacz, skacz","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE3_DEC_body","source":"Display controls while playing \"Hidden Lugi\" in Shugo Festival.","translation":"Wyświetla sterowanie podczas gry w „Ukryty Lugi” na Festiwalu Shugo.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FE3_body","source":"Hidden Lugi","translation":"Ukryty Lugi","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FEKEYGUIDE_body","source":"Shugo Festival HUD Key Guide","translation":"Podpowiedzi klawiszy interfejsu Festiwalu Shugo","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FLOATER_body","source":"Floater","translation":"Wartości nad postaciami","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FLY_DESC_body","source":"Display controls during flight.","translation":"Wyświetla sterowanie podczas lotu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FLY_body","source":"Flight","translation":"Lot","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FRIEND_REQUEST_DESC_body","source":"Automatically declines Friend Requests.","translation":"Automatycznie odrzuca zaproszenia do znajomych.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_FRIEND_REQUEST_body","source":"Auto Decline Friend Requests","translation":"Automatycznie odrzucaj zaproszenia do znajomych","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER1_DESC_body","source":"Display the nameplate of the Novice Gathered Material.","translation":"Wyświetla tabliczkę początkującego materiału do zbierania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER1_body","source":"Novice Gathered Material","translation":"Początkujący materiał do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER2_DESC_body","source":"Display the nameplate of the Intermediate Gathered Material.","translation":"Wyświetla tabliczkę średnio zaawansowanego materiału do zbierania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER2_body","source":"Intermediate Gathered Material","translation":"Średnio zaawansowany materiał do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER3_DESC_body","source":"Display the nameplate of the Advanced Gathered Material.","translation":"Wyświetla tabliczkę zaawansowanego materiału do zbierania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER3_body","source":"Advanced Gathered Material","translation":"Zaawansowany materiał do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER4_DESC_body","source":"Display the nameplate of the Expert Gathered Material.","translation":"Wyświetla tabliczkę eksperckiego materiału do zbierania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER4_body","source":"Expert Gathered Material","translation":"Ekspercki materiał do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER_DESC_body","source":"When set to ON, the nameplate will always be displayed if the target is within view distance.\nWhen set to OFF, the nameplate will only be displayed when you approach the target.","translation":"Po włączeniu tabliczka jest zawsze widoczna, jeśli cel znajduje się w zasięgu widzenia.\nPo wyłączeniu tabliczka pojawia się dopiero po podejściu do celu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GATHER_body","source":"Display Gathered Material Nameplate","translation":"Wyświetlaj tabliczki materiałów do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GLIDE_DESC_body","source":"Display controls while gliding.","translation":"Wyświetla sterowanie podczas szybowania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_GLIDE_body","source":"Glide","translation":"Szybowanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_HELMET_DESC_body","source":"Shows your helm skin.","translation":"Wyświetla wygląd hełmu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_HELMET_body","source":"Display Helm","translation":"Wyświetlaj hełm","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_HUDKEYGUIDE_body","source":"HUD Key Guide","translation":"Podpowiedzi klawiszy interfejsu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_DESC_body","source":"Display controls when flying, swimming, gliding, diving, and falling.","translation":"Wyświetla sterowanie podczas lotu, pływania, szybowania, nurkowania i spadania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_DIVE_body","source":"Dive","translation":"Nurkowanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FALL_body","source":"Fall","translation":"Spadanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FIELDEVENT_JUMPJUMP_body","source":"Jump Jump","translation":"Skacz, skacz","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FIELDEVENT_MASQUERADE_body","source":"Hidden Lugi","translation":"Ukryty Lugi","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FIELDEVENT_RACING_body","source":"Mysterious Track","translation":"Tajemniczy tor","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FIELDEVENT_TITLE_body","source":"Shugo Festival","translation":"Festiwal Shugo","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_FLY_body","source":"Flight","translation":"Lot","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_GLIDE_body","source":"Glide","translation":"Szybowanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_RUN_body","source":"Ground","translation":"Ziemia","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_SWIM_body","source":"Swim","translation":"Pływanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_WINDPATH_body","source":"Windstream","translation":"Strumień wiatru","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_KEYGUIDE_body","source":"Display HUD Key Guide","translation":"Wyświetlaj podpowiedzi klawiszy interfejsu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MINIMAP_GATHER_NORMAL_SUBTITLE_body","source":"When the [Gatherable Material Search] skill is acquired, it displays the locations of nearby Gatherable Material.","translation":"Po zdobyciu umiejętności [Wyszukiwanie materiałów do zbierania] wyświetla lokalizacje pobliskich materiałów do zbierania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MINIMAP_GATHER_NORMAL_TITLE_body","source":"Display Gathered Material Location Info","translation":"Wyświetlaj lokalizacje materiałów do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MINIMAP_MONSTER_SUBTITLE_body","source":"Displays the location information of nearby monsters.","translation":"Wyświetla informacje o lokalizacji pobliskich potworów.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MINIMAP_MONSTER_TITLE_body","source":"Display Monster Location Info","translation":"Wyświetlaj lokalizacje potworów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MINIMAP_body","source":"Minimap","translation":"Minimapa","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MONSTER_DESC_body","source":"When set to ON, the nameplate will always be displayed if the target is within view distance.\nWhen set to OFF, the nameplate will only be displayed when you target or hover your cursor over the monster.\n※ Nameplates for Unique Monsters will always be displayed.\n※ Nameplates for Heroic and Legendary monsters will always be displayed.","translation":"Po włączeniu tabliczka jest zawsze widoczna, jeśli cel znajduje się w zasięgu widzenia.\nPo wyłączeniu tabliczka pojawia się dopiero po wybraniu potwora lub najechaniu na niego kursorem.\n※ Tabliczki unikalnych potworów są zawsze widoczne.\n※ Tabliczki heroicznych i legendarnych potworów są zawsze widoczne.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MONSTER_body","source":"Display Monster Nameplate","translation":"Wyświetlaj tabliczki potworów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MYPETSHOW_DESC_body","source":"When set to OFF, your pet is hidden.","translation":"Po wyłączeniu wierzchowiec jest ukryty.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MYPETSHOW_body","source":"Display My Pet","translation":"Wyświetlaj mojego wierzchowca","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MY_SUMMON_DESC_body","source":"Display the nameplate of your spirits.","translation":"Wyświetla tabliczki twoich duchów.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_MY_SUMMON_body","source":"Display My Spirits' Nameplates","translation":"Wyświetlaj tabliczki moich duchów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_GATHER_DESC_body","source":"When set to ON, the nameplate will always be displayed if the target is within view distance.\nWhen set to OFF, the nameplate will only be displayed when you approach the target.","translation":"Po włączeniu tabliczka jest zawsze widoczna, jeśli cel znajduje się w zasięgu widzenia.\nPo wyłączeniu tabliczka pojawia się dopiero po podejściu do celu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_GATHER_body","source":"Display Gathered Material Nameplate","translation":"Wyświetlaj tabliczki materiałów do zbierania","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_MONSTER_AGGRESSIVE_body","source":"Aggressive","translation":"Agresywne","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_MONSTER_DESC_body","source":"When set to ON, the nameplate will always be displayed if the target is within view distance.\nWhen set to OFF, the nameplate will only be displayed when you target or hover your cursor over the monster.\n※ Nameplates for Unique Monsters will always be displayed.\n※ Nameplates for Heroic and Legendary monsters will always be displayed.","translation":"Po włączeniu tabliczka jest zawsze widoczna, jeśli cel znajduje się w zasięgu widzenia.\nPo wyłączeniu tabliczka pojawia się dopiero po wybraniu potwora lub najechaniu na niego kursorem.\n※ Tabliczki unikalnych potworów są zawsze widoczne.\n※ Tabliczki heroicznych i legendarnych potworów są zawsze widoczne.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_MONSTER_body","source":"Display Monster Nameplate","translation":"Wyświetlaj tabliczki potworów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_MYNAME_DESC_body","source":"Display My Nameplate.\nTurn this off to hide your name and HP/MP gauge.","translation":"Wyświetla twoją tabliczkę.\nWyłącz tę opcję, aby ukryć swoje imię oraz pasek PŻ/PM.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_MYNAME_body","source":"Display My Nameplate","translation":"Wyświetlaj moją tabliczkę","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_PLAYER_DESC_body","source":"Display player nameplates.\nNameplates of party members are displayed even if this option is turned off.","translation":"Wyświetla tabliczki graczy.\nTabliczki członków drużyny są widoczne nawet po wyłączeniu tej opcji.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_PLAYER_body","source":"Display Player Nameplate","translation":"Wyświetlaj tabliczki graczy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NAMEPLATE_body","source":"Nameplate","translation":"Tabliczka","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NORMALMONSTER_DESC_body","source":"Include nameplates for normal monsters when displaying monster nameplates.","translation":"Uwzględnia tabliczki zwykłych potworów podczas wyświetlania tabliczek potworów.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NORMALMONSTER_body","source":"Display Normal Monster Nameplate","translation":"Wyświetlaj tabliczki zwykłych potworów","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NPCLIST_DESC_body","source":"Automatically displays the NPC list upon entering a village.","translation":"Automatycznie wyświetla listę NPC po wejściu do wioski.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_NPCLIST_body","source":"NPC List","translation":"Lista NPC","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_OTHERPETSHOW_DESC_body","source":"When set to OFF, other players' pets are hidden.","translation":"Po wyłączeniu wierzchowce innych graczy są ukryte.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_OTHERPETSHOW_body","source":"Display Other Players' Pets","translation":"Wyświetlaj wierzchowce innych graczy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PARTY_INVITE_BUTTON_ALL_body","source":"All","translation":"Wszyscy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PARTY_INVITE_BUTTON_FRIEND_body","source":"Friends Only","translation":"Tylko znajomi","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PARTY_INVITE_BUTTON_REJECT_body","source":"Decline","translation":"Odrzuć","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PARTY_INVITE_DESC_body","source":"Configure who can send you party / force Invitations.","translation":"Wybierz, kto może wysyłać ci zaproszenia do drużyny / oddziału.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PARTY_INVITE_body","source":"Party / Force Invite Notifications","translation":"Powiadomienia o zaproszeniach do drużyny / oddziału","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PETSHOW_DESC_body","source":"Sets visibility of all pets.\nWhen set to ON, your pet and other players' pets are visible and when set to OFF, all pets are hidden.","translation":"Ustawia widoczność wszystkich wierzchowców.\nPo włączeniu widoczny jest twój wierzchowiec oraz wierzchowce innych graczy, a po wyłączeniu wszystkie wierzchowce są ukryte.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PETSHOW_body","source":"Display Pets","translation":"Wyświetlaj wierzchowce","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PET_body","source":"Pets","translation":"Wierzchowce","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_ABYSS_GRADE_ICON_DESC_body","source":"Player nameplates will display as Tier icons in the Abyss. Setting this to ON simplifies the displayed information, allowing an optimized play environment.","translation":"W Otchłani tabliczki graczy są wyświetlane jako ikony rangi. Włączenie tej opcji upraszcza wyświetlane informacje i pozwala uzyskać bardziej przejrzysty interfejs.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_ABYSS_GRADE_ICON_body","source":"[Abyss] Display as Tier Icon","translation":"[Otchłań] Wyświetlaj jako ikonę rangi","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_DESC_body","source":"Display player nameplates.\nNameplates of party members are displayed even if this option is turned off.","translation":"Wyświetla tabliczki graczy.\nTabliczki członków drużyny są widoczne nawet po wyłączeniu tej opcji.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_SUMMON_DESC_body","source":"Display the nameplate of the party members' spirits.","translation":"Wyświetla tabliczki duchów członków drużyny.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_SUMMON_body","source":"Display Party Members' Spirits' Nameplates","translation":"Wyświetlaj tabliczki duchów członków drużyny","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_PLAYER_body","source":"Display Player Nameplate","translation":"Wyświetlaj tabliczki graczy","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_RUN_DESC_body","source":"Display controls on the ground.","translation":"Wyświetla sterowanie na ziemi.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_RUN_body","source":"Ground","translation":"Ziemia","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_SKILLFLOATER_DESC_body","source":"Displays floater when using a skill.","translation":"Wyświetla wartość nad postacią podczas używania umiejętności.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_SKILLFLOATER_body","source":"Skill Floater Display","translation":"Wyświetlanie wartości umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_SWIM_DESC_body","source":"Display controls while swimming.","translation":"Wyświetla sterowanie podczas pływania.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_SWIM_body","source":"Swim","translation":"Pływanie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_TOWN_NPCLIST_DESC_body","source":"Automatically displays the NPC list upon entering a village.","translation":"Automatycznie wyświetla listę NPC po wejściu do wioski.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_TOWN_NPCLIST_body","source":"Auto Display NPC List","translation":"Automatycznie wyświetlaj listę NPC","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_WINDPATH_DESC_body","source":"Display controls while in a Windstream.","translation":"Wyświetla sterowanie podczas podróży strumieniem wiatru.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_WINDPATH_body","source":"Windstream Controls","translation":"Sterowanie w strumieniu wiatru","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_COMMON_body","source":"Common","translation":"Wspólne","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALME_DESC_body","source":"Displays the floater when Buffs/Debuffs occur to me.","translation":"Wyświetla wartość nad postacią, gdy dotyczą cię efekty pozytywne lub negatywne.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALME_body","source":"Status Effects on Me","translation":"Efekty statusu na mnie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALSUMMON_DESC_body","source":"Displays the floater when Status Effects occur to my spirit.","translation":"Wyświetla wartość nad postacią, gdy twój duch zostanie objęty efektami statusu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALSUMMON_body","source":"Status Effect on My Spirit","translation":"Efekty statusu na moim duchu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALTARGET_DESC_body","source":"Displays the floater when Buffs/Debuffs occur to the target.","translation":"Wyświetla wartość nad postacią, gdy cel zostanie objęty efektami pozytywnymi lub negatywnymi.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_ABNORMALTARGET_body","source":"Status Effects on Target","translation":"Efekty statusu na celu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_COMBATFLOATER_DESC_body","source":"Displays floaters for damage, healing, status effects, etc.","translation":"Wyświetla wartości obrażeń, leczenia, efektów statusu itp.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_COMBATFLOATER_body","source":"Combat Floater Display","translation":"Wyświetlanie wartości w walce","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGEME_DESC_body","source":"Displays the floater when Damage occurs to me.","translation":"Wyświetla wartość nad postacią, gdy otrzymujesz obrażenia.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGEME_body","source":"Damage on Me","translation":"Obrażenia na mnie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGESUMMON_DESC_body","source":"Displays the floater when Damage occurs to my spirit.","translation":"Wyświetla wartość nad postacią, gdy twój duch otrzymuje obrażenia.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGESUMMON_body","source":"Damage on My Spirit","translation":"Obrażenia mojego ducha","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGETARGET_DESC_body","source":"Displays the floater when Damage occurs to the target.","translation":"Wyświetla wartość nad postacią, gdy cel otrzymuje obrażenia.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_DAMAGETARGET_body","source":"Damage on Target","translation":"Obrażenia celu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_FLOATER_body","source":"Floater","translation":"Wartość nad postacią","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALME_DESC_body","source":"Displays the floater when Heal occurs to me.","translation":"Wyświetla wartość nad postacią, gdy otrzymujesz leczenie.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALME_body","source":"Heal on Me","translation":"Leczenie mnie","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALSUMMON_DESC_body","source":"Display the floater when Heal occurs to my spirit.","translation":"Wyświetla wartość nad postacią, gdy twój duch otrzymuje leczenie.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALSUMMON_body","source":"Heal on My Spirit","translation":"Leczenie mojego ducha","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALTARGET_DESC_body","source":"Displays the floater when Heal occurs to the target.","translation":"Wyświetla wartość nad postacią, gdy cel otrzymuje leczenie.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_HEALTARGET_body","source":"Heal on Target","translation":"Leczenie celu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_SKILLFLOATER_DESC_body","source":"Displays floater when using a skill.","translation":"Wyświetla wartość nad postacią podczas używania umiejętności.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_SKILLFLOATER_body","source":"Skill Floater Display","translation":"Wyświetlanie wartości umiejętności","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_SUBTAB_FLOATER_body","source":"Floater","translation":"Wartość nad postacią","status":"draft"}
+{"id":"String_UI_SETTING_TAB_INFO_body","source":"Info Display","translation":"Wyświetlanie informacji","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_BUTTON1_body","source":"Sound ON","translation":"Dźwięk WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_BUTTON2_body","source":"Sound OFF","translation":"Dźwięk WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_DESC_body","source":"Alerts with sound when attacked by another player.","translation":"Odtwarza dźwięk, gdy zaatakuje cię inny gracz.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_BUTTON1_body","source":"Sound Effect 1","translation":"Efekt dźwiękowy 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_BUTTON2_body","source":"Sound Effect 2","translation":"Efekt dźwiękowy 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_BUTTON3_body","source":"Voice 1","translation":"Głos 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_BUTTON4_body","source":"Voice 2","translation":"Głos 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_DESC_body","source":"Sets hit alert effects to be used.","translation":"Ustawia efekty powiadomienia o trafieniu.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_SOUND_body","source":"Select Hit Alert Sound","translation":"Wybierz dźwięk powiadomienia o trafieniu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_VIBE_BUTTON1_body","source":"Vibration ON","translation":"Wibracje WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_VIBE_BUTTON2_body","source":"Vibration OFF","translation":"Wibracje WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_VIBE_DESC_body","source":"Alerts with vibration when attacked by another player.","translation":"Powiadamia wibracją, gdy zaatakuje cię inny gracz.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_VIBE_body","source":"Hit Alert Vibration","translation":"Wibracje przy trafieniu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGEDALARM_body","source":"Hit Alert from Other Players","translation":"Powiadomienie o ataku innego gracza","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_DAMAGED_body","source":"Hit Alert","translation":"Powiadomienie o trafieniu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_BUTTON1_body","source":"Sound ON","translation":"Dźwięk WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_BUTTON2_body","source":"Sound OFF","translation":"Dźwięk WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_DESC_body","source":"Set whether to receive alerts with sound when HP falls below the set value.","translation":"Określa, czy odtwarzać dźwięk, gdy PŻ spadną poniżej ustawionej wartości.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_VIBE_BUTTON1_body","source":"Vibration ON","translation":"Wibracje WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_VIBE_BUTTON2_body","source":"Vibration OFF","translation":"Wibracje WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_VIBE_DESC_body","source":"Set whether to receive alerts with vibration when HP falls under the set value.","translation":"Określa, czy włączać wibracje, gdy PŻ spadną poniżej ustawionej wartości.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_VIBE_body","source":"HP Danger Alert Vibration","translation":"Wibracje przy alarmie niskiego poziomu PŻ","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPALARM_body","source":"HP Danger Alert","translation":"Alarm niskiego poziomu PŻ","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_DESC_body","source":"Sets the HP value for receiving Danger Alert","translation":"Ustawia poziom PŻ wywołujący alarm","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_BUTTON1_body","source":"Sound Effect 1","translation":"Efekt dźwiękowy 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_BUTTON2_body","source":"Sound Effect 2","translation":"Efekt dźwiękowy 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_BUTTON3_body","source":"Voice 1","translation":"Głos 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_BUTTON4_body","source":"Voice 2","translation":"Głos 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_DESC_body","source":"Sets HP danger alert effects to be used.","translation":"Ustawia efekty alarmu niskiego poziomu PŻ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_SOUND_body","source":"Select Danger Alert Sound","translation":"Wybierz dźwięk alarmu","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHPGAUGE_body","source":"HP Conditions for Danger Alert","translation":"Poziom PŻ wywołujący alarm","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_LOWHP_body","source":"HP Danger Alert","translation":"Alarm niskiego poziomu PŻ","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENITICE_body","source":"Game Alerts","translation":"Powiadomienia w grze","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_DESC_body","source":"Alerts with sound or vibration when attacked by another player.","translation":"Powiadamia dźwiękiem lub wibracją, gdy zaatakuje cię inny gracz.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_RADIOBUTTON_SOUND_OFF_body","source":"Sound OFF","translation":"Dźwięk WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_RADIOBUTTON_SOUND_ON_body","source":"Sound ON","translation":"Dźwięk WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_RADIOBUTTON_VIBE_OFF_body","source":"Vibration OFF","translation":"Wibracje WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_RADIOBUTTON_VIBE_ON_body","source":"Vibration ON","translation":"Wibracje WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_DAMAGEDALARM_body","source":"Hit Alert from Other Players","translation":"Powiadomienie o ataku innego gracza","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_DESC_body","source":"Triggers sound or vibration when HP is below {0}.","translation":"Uruchamia dźwięk lub wibracje, gdy PŻ spadną poniżej {0}.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_SOUND_OFF_body","source":"Sound OFF","translation":"Dźwięk WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_SOUND_ON_body","source":"Sound ON","translation":"Dźwięk WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_VIBE_OFF_body","source":"Vibration OFF","translation":"Wibracje WYŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_VIBE_ON_body","source":"Vibration ON","translation":"Wibracje WŁ.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_body","source":"HP Danger Alert","translation":"Alarm niskiego poziomu PŻ","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_EFFECT1_body","source":"Sound Effect 1","translation":"Efekt dźwiękowy 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_EFFECT2_body","source":"Sound Effect 2","translation":"Efekt dźwiękowy 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_VOICE1_body","source":"Voice 1","translation":"Głos 1","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_VOICE2_body","source":"Voice 2","translation":"Głos 2","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_BUTTION1_body","source":"On","translation":"Wł.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_BUTTION2_body","source":"Off","translation":"Wył.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_DAY_DESC_body","source":"Gives permission for marketing push notifications to be sent during daytime.","translation":"Udzielasz zgody na wysyłanie marketingowych powiadomień push w ciągu dnia.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_DAY_body","source":"Daytime (8AM to 9PM) Marketing Push Notifications","translation":"Marketingowe powiadomienia push w dzień (8:00–21:00)","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_NIGHT_DESC_body","source":"Gives permission for marketing push notifications to be sent during nighttime.","translation":"Udzielasz zgody na wysyłanie marketingowych powiadomień push w nocy.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_NIGHT_body","source":"Nighttime (9PM to 8AM) Marketing Push Notifications","translation":"Marketingowe powiadomienia push w nocy (21:00–8:00)","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_RECEIVE_body","source":"Push Notifications","translation":"Powiadomienia push","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_body","source":"Push Notifications","translation":"Powiadomienia push","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_CHARACTER_INFO_DESC_body","source":"Sets the visibility of your information to other players.","translation":"Ustawia widoczność twoich danych dla innych graczy.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_CHARACTER_INFO_body","source":"Keep My Info Hidden","translation":"Ukryj moje dane","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_DUEL_AUTOREJECT_DESC_body","source":"Automatically declines duel requests.","translation":"Automatycznie odrzuca prośby o pojedynek.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_DUEL_AUTOREJECT_body","source":"Auto Decline Duel Requests","translation":"Automatycznie odrzucaj prośby o pojedynek","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_EXCHANGE_AUTOREJECT_DESC_body","source":"Automatically declines personal trade requests.","translation":"Automatycznie odrzuca prośby o wymianę osobistą.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_EXCHANGE_AUTOREJECT_body","source":"Auto Decline Personal Trade","translation":"Automatycznie odrzucaj wymianę osobistą","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_FRIEND_REQUEST_DESC_body","source":"Automatically declines Friend Requests.","translation":"Automatycznie odrzuca zaproszenia do znajomych.","status":"draft"}
+{"id":"String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_FRIEND_REQUEST_body","source":"Auto Decline Friend Requests","translation":"Automatycznie odrzucaj zaproszenia do znajomych","status":"draft"}

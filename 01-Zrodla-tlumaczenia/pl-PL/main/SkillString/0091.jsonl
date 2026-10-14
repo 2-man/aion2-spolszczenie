@@ -1,0 +1,224 @@
+{"id":"SkillString_SkillString_NPC_1803615_skill_spec_effect","source":"Attack","translation":"Atak","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804350_skill_desc_effect","source":"Collapsed Cradle","translation":"Zapadnięta kołyska","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804350_skill_name","source":"Collapsed Cradle","translation":"Zapadnięta kołyska","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804433_skill_desc_effect","source":"Fierce Toxic Aura Wave","translation":"Potężna fala toksycznej aury","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804433_skill_name","source":"Fierce Toxic Aura Wave","translation":"Potężna fala toksycznej aury","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804555_skill_desc_effect","source":"Death Effect","translation":"Efekt śmierci","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1804555_skill_name","source":"Death Effect","translation":"Efekt śmierci","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805350_skill_name","source":"Surging Insanity","translation":"Narastające szaleństwo","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805350_skill_spec_effect","source":"Surging Insanity","translation":"Narastające szaleństwo","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805555_skill_desc_effect","source":"Divided Illusion","translation":"Rozdzielona iluzja","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805555_skill_name","source":"Divided Illusion","translation":"Rozdzielona iluzja","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805556_skill_desc_effect","source":"Distorted Symbol","translation":"Zniekształcony symbol","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805556_skill_name","source":"Distorted Symbol","translation":"Zniekształcony symbol","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805557_skill_desc_effect","source":"Light of Annihilation","translation":"Światło anihilacji","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805557_skill_name","source":"Light of Annihilation","translation":"Światło anihilacji","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805680_skill_name","source":"Split Shadow","translation":"Rozszczepiony cień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805680_skill_spec_effect","source":"Split Shadow","translation":"Rozszczepiony cień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805821_skill_desc_effect","source":"Unstable Venom Sphere","translation":"Niestabilna sfera jadu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805821_skill_name","source":"Unstable Venom Sphere","translation":"Niestabilna sfera jadu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805840_skill_desc_effect","source":"Wriggling Poison Fluid","translation":"Wijąca się trująca ciecz","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805840_skill_name","source":"Wriggling Poison Fluid","translation":"Wijąca się trująca ciecz","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805880_skill_desc_effect","source":"Chain Thunder","translation":"Łańcuch piorunów","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805880_skill_name","source":"Chain Thunder","translation":"Łańcuch piorunów","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805945_skill_desc_effect","source":"Unyielding Veil","translation":"Niezłomna zasłona","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1805945_skill_name","source":"Unyielding Veil","translation":"Niezłomna zasłona","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806170_skill_desc_effect","source":"Thunderous Charge","translation":"Grzmiąca szarża","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806170_skill_name","source":"Thunderous Charge","translation":"Grzmiąca szarża","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806180_skill_desc_effect","source":"Azure Lightning Wave","translation":"Fala błękitnych błyskawic","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806180_skill_name","source":"Azure Lightning Wave","translation":"Fala błękitnych błyskawic","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806190_skill_desc_effect","source":"Ordeal of the Awakened Beast","translation":"Próba przebudzonej bestii","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806190_skill_name","source":"Ordeal of the Awakened Beast","translation":"Próba przebudzonej bestii","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806310_skill_desc_effect","source":"Swing","translation":"Zamach","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806310_skill_name","source":"Swing","translation":"Zamach","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806320_skill_desc_effect","source":"Shoot Spinning Sword Aura","translation":"Wystrzelenie wirującej aury miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806320_skill_name","source":"Shoot Spinning Sword Aura","translation":"Wystrzelenie wirującej aury miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806330_skill_desc_effect","source":"Tectonic Shift","translation":"Przesunięcie tektoniczne","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806330_skill_name","source":"Tectonic Shift","translation":"Przesunięcie tektoniczne","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806340_skill_desc_effect","source":"Wave of Pure Will","translation":"Fala czystej woli","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806340_skill_name","source":"Wave of Pure Will","translation":"Fala czystej woli","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806350_skill_desc_effect","source":"Lightning Blade","translation":"Błyskawiczne ostrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806350_skill_name","source":"Lightning Blade","translation":"Błyskawiczne ostrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806360_skill_desc_effect","source":"Destructive Sword Aura","translation":"Niszcząca aura miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806360_skill_name","source":"Destructive Sword Aura","translation":"Niszcząca aura miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806370_skill_desc_effect","source":"Chaos Slash","translation":"Cięcie chaosu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806370_skill_name","source":"Chaos Slash","translation":"Cięcie chaosu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806495_skill_desc_effect","source":"Creeping Hellfire","translation":"Pełzający piekielny ogień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806495_skill_name","source":"Creeping Hellfire","translation":"Pełzający piekielny ogień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806535_skill_desc_effect","source":"Surging Lava","translation":"Wzbierająca lawa","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806535_skill_name","source":"Surging Lava","translation":"Wzbierająca lawa","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806560_skill_desc_effect","source":"Mark of the Dominator","translation":"Znak dominatora","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806560_skill_name","source":"Mark of the Dominator","translation":"Znak dominatora","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806565_skill_desc_effect","source":"Mark Explosion","translation":"Eksplozja znaku","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806565_skill_name","source":"Mark Explosion","translation":"Eksplozja znaku","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806580_skill_desc_effect","source":"Flame Breath","translation":"Płomienny oddech","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806580_skill_name","source":"Flame Breath","translation":"Płomienny oddech","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806610_skill_desc_effect","source":"Falling Flame","translation":"Spadający płomień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806610_skill_name","source":"Falling Flame","translation":"Spadający płomień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806620_skill_desc_effect","source":"Unbearable Heat","translation":"Nieznośny żar","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806620_skill_name","source":"Unbearable Heat","translation":"Nieznośny żar","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806630_skill_desc_effect","source":"Burning Order","translation":"Płonący rozkaz","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806630_skill_name","source":"Burning Order","translation":"Płonący rozkaz","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806640_skill_desc_effect","source":"Undying Flames","translation":"Nieśmiertelne płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806640_skill_name","source":"Undying Flames","translation":"Nieśmiertelne płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806660_skill_desc_effect","source":"Encircling Flames","translation":"Otaczające płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806660_skill_name","source":"Encircling Flames","translation":"Otaczające płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806670_skill_desc_effect","source":"Expanding Flames","translation":"Rozszerzające się płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806670_skill_name","source":"Expanding Flames","translation":"Rozszerzające się płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806690_skill_desc_effect","source":"Conqueror of the Depths","translation":"Zdobywca głębin","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806690_skill_name","source":"Conqueror of the Depths","translation":"Zdobywca głębin","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806735_skill_desc_effect","source":"Scourged Land","translation":"Spustoszona kraina","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1806735_skill_name","source":"Scourged Land","translation":"Spustoszona kraina","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807130_skill_desc_effect","source":"Truth Within the Mirror","translation":"Prawda w lustrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807130_skill_name","source":"Truth Within the Mirror","translation":"Prawda w lustrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807150_skill_desc_effect","source":"Kromede's Invitation","translation":"Zaproszenie Kromede","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807150_skill_name","source":"Kromede's Invitation","translation":"Zaproszenie Kromede","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807200_skill_desc_effect","source":"Path of Love","translation":"Ścieżka miłości","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1807200_skill_name","source":"Path of Love","translation":"Ścieżka miłości","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808070_skill_desc_effect","source":"Unleash Hell","translation":"Uwolnienie piekła","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808070_skill_name","source":"Unleash Hell","translation":"Uwolnienie piekła","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808090_skill_desc_effect","source":"Raining Fire","translation":"Deszcz ognia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808090_skill_name","source":"Raining Fire","translation":"Deszcz ognia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808100_skill_desc_effect","source":"Flame Insignia","translation":"Płomienny znak","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808100_skill_name","source":"Flame Insignia","translation":"Płomienny znak","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808110_skill_desc_effect","source":"Chromatic Judgment","translation":"Chromatyczny osąd","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808110_skill_name","source":"Chromatic Judgment","translation":"Chromatyczny osąd","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808120_skill_desc_effect","source":"Merciless Chromatic Judgment","translation":"Bezlitosny chromatyczny osąd","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808120_skill_name","source":"Merciless Chromatic Judgment","translation":"Bezlitosny chromatyczny osąd","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808130_skill_desc_effect","source":"Inquisition","translation":"Inkwizycja","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808130_skill_name","source":"Inquisition","translation":"Inkwizycja","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808133_skill_desc_effect","source":"Ominous Aura","translation":"Złowieszcza aura","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808133_skill_name","source":"Ominous Aura","translation":"Złowieszcza aura","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808140_skill_desc_effect","source":"Guardian of the Order","translation":"Strażnik porządku","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808140_skill_name","source":"Guardian of the Order","translation":"Strażnik porządku","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808170_skill_desc_effect","source":"Scattering Flames","translation":"Rozproszone płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808170_skill_name","source":"Scattering Flames","translation":"Rozproszone płomienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808631_skill_name","source":"Ambush","translation":"Zasadzka","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808641_skill_name","source":"Ambush","translation":"Zasadzka","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808653_skill_desc_effect","source":"Blue Light of Destruction","translation":"Błękitne światło zniszczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808653_skill_name","source":"Blue Light of Destruction","translation":"Błękitne światło zniszczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808653_skill_spec_effect","source":"Attack","translation":"Atak","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808667_skill_desc_effect","source":"Azure Energy","translation":"Błękitna energia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808667_skill_name","source":"Azure Energy","translation":"Błękitna energia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808668_skill_desc_effect","source":"Crimson Energy","translation":"Karmazynowa energia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808668_skill_name","source":"Crimson Energy","translation":"Karmazynowa energia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808802_skill_desc_effect","source":"Leash of Fate","translation":"Więzy przeznaczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808802_skill_name","source":"Leash of Fate","translation":"Więzy przeznaczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808803_skill_desc_effect","source":"Leash of Fate","translation":"Więzy przeznaczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808803_skill_name","source":"Leash of Fate","translation":"Więzy przeznaczenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808805_skill_desc_effect","source":"Fate Unleashed","translation":"Uwolnione przeznaczenie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808805_skill_name","source":"Fate Unleashed","translation":"Uwolnione przeznaczenie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808875_skill_desc_effect","source":"Corrupted Shieldfall","translation":"Upadek skażonej tarczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808875_skill_name","source":"Corrupted Shieldfall","translation":"Upadek skażonej tarczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808876_skill_desc_effect","source":"Judgment Shieldfall","translation":"Upadek tarczy osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808876_skill_name","source":"Judgment Shieldfall","translation":"Upadek tarczy osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808880_skill_desc_effect","source":"Corrupted Sword Aura","translation":"Skażona aura miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808880_skill_name","source":"Corrupted Sword Aura","translation":"Skażona aura miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808885_skill_desc_effect","source":"Judgment Sword Aura","translation":"Aura miecza osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808885_skill_name","source":"Judgment Sword Aura","translation":"Aura miecza osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808889_skill_desc_effect","source":"Betrayal","translation":"Zdrada","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808889_skill_name","source":"Betrayal","translation":"Zdrada","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808890_skill_desc_effect","source":"Field of Judgment","translation":"Pole osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808890_skill_name","source":"Field of Judgment","translation":"Pole osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808900_skill_desc_effect","source":"Sword of Judgment","translation":"Miecz osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808900_skill_name","source":"Sword of Judgment","translation":"Miecz osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808909_skill_desc_effect","source":"Judgment Explosion","translation":"Eksplozja osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808909_skill_name","source":"Judgment Explosion","translation":"Eksplozja osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808927_skill_desc_effect","source":"Shield Explosion","translation":"Eksplozja tarczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808927_skill_name","source":"Shield Explosion","translation":"Eksplozja tarczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808940_skill_desc_effect","source":"March of Judgment","translation":"Marsz osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808940_skill_name","source":"March of Judgment","translation":"Marsz osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808950_skill_desc_effect","source":"Fate of Judgment","translation":"Los osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808950_skill_name","source":"Fate of Judgment","translation":"Los osądu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808955_skill_desc_effect","source":"Fate of Corruption","translation":"Los skażenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1808955_skill_name","source":"Fate of Corruption","translation":"Los skażenia","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809660_skill_desc_effect","source":"Swing","translation":"Zamach","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809660_skill_name","source":"Swing","translation":"Zamach","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809670_skill_desc_effect","source":"Frontal Pierce","translation":"Przebicie od przodu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809670_skill_name","source":"Frontal Pierce","translation":"Przebicie od przodu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809680_skill_desc_effect","source":"Scatter Poison","translation":"Rozrzucenie trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809680_skill_name","source":"Scatter Poison","translation":"Rozrzucenie trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809690_skill_desc_effect","source":"Fire Gunblade","translation":"Ogniste ostrze-pistolet","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809690_skill_name","source":"Fire Gunblade","translation":"Ogniste ostrze-pistolet","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809691_skill_desc_effect","source":"Gunblade Laser","translation":"Laser ostrza-pistoletu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809691_skill_name","source":"Gunblade Laser","translation":"Laser ostrza-pistoletu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809700_skill_desc_effect","source":"Aura Discharge","translation":"Wyładowanie aury","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809700_skill_name","source":"Aura Discharge","translation":"Wyładowanie aury","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809710_skill_desc_effect","source":"Time Bomb","translation":"Bomba zegarowa","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809710_skill_name","source":"Time Bomb","translation":"Bomba zegarowa","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809720_skill_desc_effect","source":"Sword Dance","translation":"Taniec miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809720_skill_name","source":"Sword Dance","translation":"Taniec miecza","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809730_skill_desc_effect","source":"Noxious Discharge","translation":"Trujące wyładowanie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1809730_skill_name","source":"Noxious Discharge","translation":"Trujące wyładowanie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1900700_skill_desc_effect","source":"Vakron's Gaze","translation":"Spojrzenie Vakrona","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1900700_skill_name","source":"Vakron's Gaze","translation":"Spojrzenie Vakrona","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910010_skill_desc_effect","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910010_skill_name","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910020_skill_desc_effect","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910020_skill_name","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910030_skill_desc_effect","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910030_skill_name","source":"Poison Zone","translation":"Strefa trucizny","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910040_skill_desc_effect","source":"Summon Meteor","translation":"Przywołanie meteorytu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910040_skill_name","source":"Summon Meteor","translation":"Przywołanie meteorytu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910050_skill_desc_effect","source":"Summon Meteor","translation":"Przywołanie meteorytu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910050_skill_name","source":"Summon Meteor","translation":"Przywołanie meteorytu","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910060_skill_desc_effect","source":"Summon Whirlwind","translation":"Przywołanie wichru","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910060_skill_name","source":"Summon Whirlwind","translation":"Przywołanie wichru","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910061_skill_desc_effect","source":"Tornado","translation":"Tornado","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910061_skill_name","source":"Tornado","translation":"Tornado","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910062_skill_desc_effect","source":"Tornado","translation":"Tornado","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910062_skill_name","source":"Tornado","translation":"Tornado","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910070_skill_desc_effect","source":"Summon Recovery Totem","translation":"Przywołanie totemu regeneracji","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910070_skill_name","source":"Summon Recovery Totem","translation":"Przywołanie totemu regeneracji","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910071_skill_desc_effect","source":"Restores HP","translation":"Przywraca PŻ","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910071_skill_name","source":"Restore HP","translation":"Przywraca PŻ","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910080_skill_desc_effect","source":"Summon Contaminated Maw","translation":"Przywołanie skażonej paszczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910080_skill_name","source":"Summon Contaminated Maw","translation":"Przywołanie skażonej paszczy","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910081_skill_desc_effect","source":"Self-Destruction","translation":"Samozniszczenie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910081_skill_name","source":"Self-Destruction","translation":"Samozniszczenie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910090_skill_desc_effect","source":"Summon Trap","translation":"Przywołanie pułapki","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910090_skill_name","source":"Summon Trap","translation":"Przywołanie pułapki","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910091_skill_desc_effect","source":"Summon Trap","translation":"Przywołanie pułapki","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910091_skill_name","source":"Summon Trap","translation":"Przywołanie pułapki","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910092_skill_desc_effect","source":"Petrify","translation":"Skamienienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910092_skill_name","source":"Petrify","translation":"Skamienienie","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910100_skill_desc_effect","source":"Poison","translation":"Trucizna","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910100_skill_name","source":"Poison","translation":"Trucizna","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910240_skill_desc_effect","source":"Homing Missile","translation":"Samonaprowadzający pocisk","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910240_skill_name","source":"Homing Missile","translation":"Samonaprowadzający pocisk","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910250_skill_desc_effect","source":"Spectral Blade","translation":"Widmowe ostrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910250_skill_name","source":"Spectral Blade","translation":"Widmowe ostrze","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910261_skill_desc_effect","source":"Black Hole","translation":"Czarna dziura","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910261_skill_name","source":"Black Hole","translation":"Czarna dziura","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910290_skill_desc_effect","source":"Balance","translation":"Równowaga","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910290_skill_name","source":"Balance","translation":"Równowaga","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910301_skill_desc_effect","source":"Flame","translation":"Płomień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1910301_skill_name","source":"Flame","translation":"Płomień","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1990000_skill_desc_effect","source":"High HP","translation":"Wysokie PŻ","status":"draft"}
+{"id":"SkillString_SkillString_NPC_1990000_skill_name","source":"High HP","translation":"Wysokie PŻ","status":"draft"}
+{"id":"SkillString_SkillString_NPC_Attack_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
+{"id":"SkillString_SkillString_NPC_Attack_skill_name","source":"Attack","translation":"Atak","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200010_skill_name","source":"Shugo Transformation Candy","translation":"Cukierek przemiany w Szugo","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200020_skill_name","source":"Pino Transformation Candy","translation":"Cukierek przemiany w Pino","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200030_skill_name","source":"Fossa Transformation Candy","translation":"Cukierek przemiany w Fossa","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200040_skill_name","source":"Phantasmal Lakshmi Transformation Candy","translation":"Cukierek przemiany w widmową Lakshmi","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200050_skill_name","source":"Drakan Vanguard Armed Beast Transformation Candy","translation":"Cukierek przemiany w uzbrojoną bestię awangardy Drakan","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200060_skill_name","source":"Flame Gatekeeper Transformation Candy","translation":"Cukierek przemiany w płomiennego strażnika bramy","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200070_skill_name","source":"Festival Shugo Transformation Candy","translation":"Cukierek przemiany w festiwalowego Szugo","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200080_skill_name","source":"Kobold Transformation Candy","translation":"Cukierek przemiany w Kobolda","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200090_skill_name","source":"Dratona Transformation Candy","translation":"Cukierek przemiany w Dratonę","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200100_skill_name","source":"Mau Transformation Candy","translation":"Cukierek przemiany w Mau","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200110_skill_name","source":"Aullaeu Transformation Candy","translation":"Cukierek przemiany w Aullaeu","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200120_skill_name","source":"Mumu Transformation Candy","translation":"Cukierek przemiany w Mumu","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200130_skill_name","source":"Mau Transformation Candy","translation":"Cukierek przemiany w Mau","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200140_skill_name","source":"Shugo Transformation Candy","translation":"Cukierek przemiany w Szugo","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200150_skill_name","source":"Festival Shugo Transformation Candy","translation":"Cukierek przemiany w festiwalowego Szugo","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200160_skill_name","source":"Dev PD Transformation Candy","translation":"Cukierek przemiany w deweloperskiego strażnika PD","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4200170_skill_name","source":"Business PD Transformation Candy","translation":"Cukierek przemiany w biznesowego strażnika PD","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4300010_skill_name","source":"Pet Transformation","translation":"Przemiana zwierzaka","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900710_skill_desc_effect","source":"Dancing as shown in the mirror.","translation":"Tańcz zgodnie z tym, co pokazuje lustro.","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900710_skill_name","source":"Kromede's Invitation: Dance","translation":"Zaproszenie Kromede: taniec","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900720_skill_desc_effect","source":"Looking fearful as shown in the mirror.","translation":"Przybierz przerażony wyraz twarzy zgodnie z tym, co pokazuje lustro.","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900720_skill_name","source":"Kromede's Invitation: Fear","translation":"Zaproszenie Kromede: strach","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900730_skill_desc_effect","source":"Looking confident as shown in the mirror.","translation":"Przybierz pewny siebie wyraz twarzy zgodnie z tym, co pokazuje lustro.","status":"draft"}
+{"id":"SkillString_SkillString_Polymorph_4900730_skill_name","source":"Kromede's Invitation: Confidence","translation":"Zaproszenie Kromede: pewność siebie","status":"draft"}

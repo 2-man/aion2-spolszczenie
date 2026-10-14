@@ -1,0 +1,250 @@
+{"id": "Message_MSG_PATCH_STATUS_SUCCESSFUL_body", "source": "Patch complete.", "translation": "Łatanie zakończone.", "status": "draft"}
+{"id": "Message_MSG_PAYMENT_AUTH_POPUP_LOGIN_CANCEL_body", "source": "Registration canceled.", "translation": "Anulowano rejestrację.", "status": "draft"}
+{"id": "Message_MSG_PAYMENT_AUTH_POPUP_LOGIN_COMMON_ERROR_body", "source": "Unable to complete account registration due to failed login.", "translation": "Nie udało się zarejestrować konta z powodu nieudanego logowania.", "status": "draft"}
+{"id": "Message_MSG_PAYMENT_AUTH_POPUP_LOGIN_ERROR_body", "source": "Invalid account information.", "translation": "Nieprawidłowe dane konta.", "status": "draft"}
+{"id": "Message_MSG_PC_LEVEL_UP_body", "source": "Reached Lv. {0}.", "translation": "Osiągnięto poziom {0}.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_ALREADY_REGISTERD_FULL_body", "source": "Item already delivered.", "translation": "Przedmiot został już dostarczony.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_BTN_FAIL_body", "source": "No registered items in the delivery list.", "translation": "Brak zarejestrowanych przedmiotów na liście dostawy.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_COMPLETE_body", "source": "Delivery complete.", "translation": "Dostawa zakończona.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_DELIVERY_body", "source": "Delivered {1} item(s) for the <ref style=\"system_game\" attr=\"color\">{0}</> supply request.", "translation": "Dostarczono {1} szt. w ramach zamówienia zaopatrzeniowego <ref style=\"system_game\" attr=\"color\">{0}</>.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_EQUIPPED_ITEM_body", "source": "Cannot deliver equipped items.", "translation": "Nie można dostarczyć założonych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVALID_COLLECTIONID_body", "source": "Supply request not found.", "translation": "Nie znaleziono zamówienia zaopatrzeniowego.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVALID_DATA_body", "source": "Delivery list not found.", "translation": "Nie znaleziono listy dostawy.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVALID_ITEM_CONTAINER_TYPE_body", "source": "Item cannot be delivered.", "translation": "Nie można dostarczyć tego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVALID_ITEM_COUNT_body", "source": "Confirm quantity of items to deliver.", "translation": "Potwierdź liczbę przedmiotów do dostarczenia.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVALID_LISTID_body", "source": "Supply request form not found.", "translation": "Nie znaleziono formularza zamówienia zaopatrzeniowego.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_INVENTORY_MAX_body", "source": "Cannot deliver due to insufficient Cube space.", "translation": "Za mało miejsca w kostce, aby dostarczyć przedmiot.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_ITERNAL_ERROR_body", "source": "Server request failed.", "translation": "Żądanie serwera nie powiodło się.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_LEVEL_LOCK_body", "source": "Request is only available at Lv. {0} and above.", "translation": "Dostępne od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_MISMATCH_ITEM_body", "source": "Cannot deliver due to Enhance Level mismatch.", "translation": "Poziom ulepszenia przedmiotu nie jest zgodny.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_NOT_ENABLED_body", "source": "Cannot deliver at this time.", "translation": "Nie można teraz dostarczyć przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_NOT_EXIST_ITEM_body", "source": "Item for delivery not found.", "translation": "Nie znaleziono przedmiotu do dostarczenia.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_TOO_LOW_LEVEL_body", "source": "Cannot deliver due to Level mismatch.", "translation": "Poziom postaci nie jest zgodny.", "status": "draft"}
+{"id": "Message_MSG_PERIOD_COLLECTION_TOO_MANY_REQUESTS_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PET_GET_SOUL_CHANGE_POINT_body", "source": "{0} Soul(s) have been automatically changed. Obtained {2} Genus Soul Crystal {1}.", "translation": "Automatycznie zmieniono dusze: {0}. Otrzymano {2} kryształów duszy rodzaju {1}.", "status": "draft"}
+{"id": "Message_MSG_PET_POLYMORPH_CREATURE_ERROR_body", "source": "Pet unavailable for transformation.", "translation": "Wierzchowiec nie może zostać przemieniony.", "status": "draft"}
+{"id": "Message_MSG_PET_POLYMORPH_EQUIP_CHANGE_ERROR_body", "source": "Cancel transformation to change equipped pet.", "translation": "Anuluj przemianę, aby zmienić założonego wierzchowca.", "status": "draft"}
+{"id": "Message_MSG_PET_POLYMORPH_EQUIP_ERROR_body", "source": "No pet equipped.", "translation": "Nie masz założonego wierzchowca.", "status": "draft"}
+{"id": "Message_MSG_PET_POLYMORPH_LEVEL_ERROR_body", "source": "Pet transformation available from Insight level 3.", "translation": "Przemiana wierzchowca jest dostępna od 3. poziomu Wglądu.", "status": "draft"}
+{"id": "Message_MSG_POST_ARRIVE_SOMEONE_body", "source": "Received mail from {0}.", "translation": "Otrzymano pocztę od {0}.", "status": "draft"}
+{"id": "Message_MSG_POST_ARRIVE_SYSTEM_body", "source": "Mail received.", "translation": "Otrzymano pocztę.", "status": "draft"}
+{"id": "Message_MSG_POST_BLOCK_REMOVE_ALL_SUCCESS_body", "source": "Unblocked all.", "translation": "Odblokowano wszystkich.", "status": "draft"}
+{"id": "Message_MSG_POST_BLOCK_REMOVE_SUCCESS_body", "source": "Unblocked {0}.", "translation": "Odblokowano {0}.", "status": "draft"}
+{"id": "Message_MSG_POST_BLOCK_SUCCESS_body", "source": "Blocked {0}.", "translation": "Zablokowano {0}.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_BLOCK_ALREADY_body", "source": "Character is already blocked.", "translation": "Ta postać jest już zablokowana.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_BLOCK_MYSELF_body", "source": "Cannot block self.", "translation": "Nie możesz zablokować własnej postaci.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_BLOCK_REMOVE_NOT_FOUND_body", "source": "Character does not exist. List will update automatically.", "translation": "Nie znaleziono postaci. Lista zostanie zaktualizowana automatycznie.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_BLOCK_UNAVAILABLE_LIST_body", "source": "Reached character block limit. Clear block list first.", "translation": "Osiągnięto limit blokowanych postaci. Najpierw wyczyść listę zablokowanych postaci.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_DELETE_BLOCK_NOTHING_body", "source": "No characters to unblock.", "translation": "Brak postaci do odblokowania.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_DELETE_ITEMPOST_body", "source": "Items available for receipt.", "translation": "Dostępne przedmioty do odebrania.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_DELETE_LOCK_body", "source": "Cannot delete locked mail.", "translation": "Nie można usunąć zablokowanej wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_DELETE_NOTHING_body", "source": "No mail to delete.", "translation": "Brak wiadomości do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_GET_ITEM_CURRENCY_FULL_body", "source": "Exceeded currency limit. Cannot accept item.", "translation": "Przekroczono limit waluty. Nie można odebrać przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_GET_ITEM_INVENTORY_FULL_body", "source": "Insufficient Cube space to receive item.", "translation": "Za mało miejsca w kostce, aby odebrać przedmiot.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_REPORT_MYSELF_body", "source": "Cannot report self.", "translation": "Nie możesz zgłosić własnej postaci.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_BLOCK_PC_body", "source": "Character is blocked. Unblock to send mail.", "translation": "Ta postać jest zablokowana. Odblokuj ją, aby wysłać pocztę.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_LIMIT_COUNT_body", "source": "Exceeded daily sending limit. Please try again tomorrow.", "translation": "Przekroczono dzienny limit wysyłania. Spróbuj ponownie jutro.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_LONG_BODY_body", "source": "Mail content can be up to 500 characters.", "translation": "Treść wiadomości może mieć maksymalnie 500 znaków.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_LONG_TITLE_body", "source": "Mail titles can be up to 50 characters.", "translation": "Tytuł wiadomości może mieć maksymalnie 50 znaków.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_NOT_ENOUGH_MONEY_body", "source": "Cannot afford postage fee.", "translation": "Za mało kin na opłatę pocztową.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_RESEIVER_FAIL_body", "source": "Player cannot receive mail at this time.", "translation": "Gracz nie może teraz otrzymywać poczty.", "status": "draft"}
+{"id": "Message_MSG_POST_CANNOT_SEND_UNKNOWN_PC_body", "source": "Cannot find recipient. Check name again.", "translation": "Nie znaleziono odbiorcy. Sprawdź ponownie nazwę.", "status": "draft"}
+{"id": "Message_MSG_POST_FAILED_INVALID_CHARACTER_body", "source": "Character not found.", "translation": "Nie znaleziono postaci.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_ALREADY_GET_ITEM_body", "source": "Already collected items from this mail.", "translation": "Przedmioty z tej wiadomości zostały już odebrane.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_CANNOT_FOUND_INFO_body", "source": "Cannot find mail information.", "translation": "Nie znaleziono informacji o wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_CANNOT_FOUND_ITEM_body", "source": "No items to collect.", "translation": "Brak przedmiotów do odebrania.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_EXPIRED_body", "source": "Mail expired.", "translation": "Wiadomość wygasła.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_MANY_REQUESTS_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_POST_FAIL_NOT_FOUND_body", "source": "Mail not found.", "translation": "Nie znaleziono wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_GET_ITEM_SUCCESS_body", "source": "Obtained items attached to mail.", "translation": "Odebrano przedmioty załączone do wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_NOTICE_DELETE_ITEMPOST_body", "source": "There is mail with an item that will expire soon. Check your mailbox.", "translation": "W skrzynce jest wiadomość z przedmiotem, który wkrótce wygaśnie. Sprawdź pocztę.", "status": "draft"}
+{"id": "Message_MSG_POST_REPORT_FAIL_LIMIT_DAILY_body", "source": "Already used max reporting count for the day.", "translation": "Wykorzystano już dzienny limit zgłoszeń.", "status": "draft"}
+{"id": "Message_MSG_POST_REPORT_SUCCESS_body", "source": "Reported the Mail.", "translation": "Zgłoszono wiadomość.", "status": "draft"}
+{"id": "Message_MSG_POST_SEND_COMPLETE_body", "source": "Mail sent.", "translation": "Wysłano wiadomość.", "status": "draft"}
+{"id": "Message_MSG_POST_SEND_FAIL_BODY_EMPTY_body", "source": "Enter mail content.", "translation": "Wpisz treść wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_SEND_FAIL_GETTER_NAME_EMPTY_body", "source": "Enter the recipient's name.", "translation": "Wpisz nazwę odbiorcy.", "status": "draft"}
+{"id": "Message_MSG_POST_SEND_FAIL_TITLE_EMPTY_body", "source": "Enter mail title.", "translation": "Wpisz tytuł wiadomości.", "status": "draft"}
+{"id": "Message_MSG_POST_UNREAD_FILTER_COOLTIME_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_ABNORMAL_body", "source": "Cannot change gear while in a restricted state.", "translation": "Nie można zmieniać wyposażenia w ograniczonym stanie.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_COOLTIME_body", "source": "Preset swap is currently on cooldown.", "translation": "Zmiana zestawu jest obecnie objęta odnowieniem.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_DECOMPOSE_body", "source": "Cannot switch gear preset during item extraction.", "translation": "Nie można zmienić zestawu wyposażenia podczas pozyskiwania esencji.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_DELETE_body", "source": "Cannot switch gear preset while deleting the item.", "translation": "Nie można zmienić zestawu wyposażenia podczas usuwania przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_INCLUDING_INVALID_ITEM_body", "source": "Contains an unequippable item. Unable to replace gear.", "translation": "Zestaw zawiera przedmiot, którego nie można założyć. Nie można zastąpić wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CANNOT_CHANGE_BY_INVENTORY_FULL_SLOT_body", "source": "Insufficient Cube space to switch gear. {0} or more empty slots required.", "translation": "Za mało miejsca w kostce, aby zmienić zestaw wyposażenia. Wymagane wolne miejsca: {0} lub więcej.", "status": "draft"}
+{"id": "Message_MSG_PRESET_CHANGE_body", "source": "Gear changed to Preset {0}.", "translation": "Zmieniono wyposażenie na zestaw {0}.", "status": "draft"}
+{"id": "Message_MSG_PRESET_REMOVE_INVALID_ITEM_body", "source": "Items that do not meet the equip conditions were removed from the preset while replacing presets.", "translation": "Podczas zastępowania zestawu usunięto przedmioty, które nie spełniają warunków założenia.", "status": "draft"}
+{"id": "Message_MSG_PRESET_SWAP_COMPLETE_ALL_body", "source": "Equipped Preset {0}.", "translation": "Założono zestaw {0}.", "status": "draft"}
+{"id": "Message_MSG_PRESET_SWAP_FAIL_BY_CONDITION_body", "source": "Conditions for switching Presets ({0}) have not been met.", "translation": "Nie spełniono warunków zmiany zestawu ({0}).", "status": "draft"}
+{"id": "Message_MSG_PRESET_SWAP_FAIL_BY_EQUIPPED_body", "source": "Preset {0} is already equipped.", "translation": "Zestaw {0} jest już założony.", "status": "draft"}
+{"id": "Message_MSG_PRESET_SWAP_POPUP_COMPLETE_SAVE_body", "source": "Changed {0} configuration.", "translation": "Zmieniono konfigurację {0}.", "status": "draft"}
+{"id": "Message_MSG_PRESET_SWAP_POPUP_NOTHING_SAVE_body", "source": "Triggered when changing the configuration of preset sets.", "translation": "Uruchamiane przy zmianie konfiguracji zestawów ustawień.", "status": "draft"}
+{"id": "Message_MSG_PREVIEW_CANNOT_body", "source": "Preview not available.", "translation": "Podgląd jest niedostępny.", "status": "draft"}
+{"id": "Message_MSG_PURCHASE_FAILED_body", "source": "Conditions for purchase have not been met. Please check again.", "translation": "Nie spełniono warunków zakupu. Sprawdź je ponownie.", "status": "draft"}
+{"id": "Message_MSG_PURIFICATION_FAIL_HAS_NOT_PENALTY_body", "source": "Purification can only be requested when possessing Curse or Divine Punishment.", "translation": "O oczyszczenie można poprosić tylko pod wpływem Klątwy lub Boskiej Kary.", "status": "draft"}
+{"id": "Message_MSG_QUESTINDICATOR_AUTOMOVE_FAIL_body", "source": "Cannot auto-move to quest targets while in a dungeon.", "translation": "W lochu nie można automatycznie przemieszczać się do celów zadania.", "status": "draft"}
+{"id": "Message_MSG_QUESTITEM_CANNOT_EXCESS_PET_LOOTING_body", "source": "Cannot obtain more.", "translation": "Nie można zdobyć więcej.", "status": "draft"}
+{"id": "Message_MSG_QUESTITEM_CANNOT_EXCESS_body", "source": "Cannot obtain more.", "translation": "Nie można zdobyć więcej.", "status": "draft"}
+{"id": "Message_MSG_QUESTOBJECTIVE_FAIL_GETITEM_body", "source": "Unable to proceed due to insufficient space for obtaining quest items.", "translation": "Za mało miejsca na przedmioty zadania. Nie można kontynuować.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_AcceptQuestStep_body", "source": "Can only be accepted during certain steps of a quest in progress.", "translation": "Można przyjąć tylko na określonych etapach trwającego zadania.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_AcceptQuest_body", "source": "Can only be accepted during certain quests.", "translation": "Można przyjąć tylko podczas określonych zadań.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_ClearQuestStep_body", "source": "Can only be accepted during certain steps of a quest in progress.", "translation": "Można przyjąć tylko na określonych etapach trwającego zadania.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_ClearQuest_body", "source": "Can only be accepted after completing certain quests.", "translation": "Można przyjąć dopiero po ukończeniu określonych zadań.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_GET_LIMIT_body", "source": "Active Regional Quest limit exceeded.", "translation": "Przekroczono limit aktywnych zadań regionalnych.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_GetItem_body", "source": "Can only be accepted when in possession of certain items.", "translation": "Można przyjąć tylko po zdobyciu określonych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_Invalid_QuestId_body", "source": "This quest has invalid conditions specified.", "translation": "To zadanie ma nieprawidłowe warunki.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_PCLevel_body", "source": "Cannot accept at current character level.", "translation": "Nie można przyjąć zadania na obecnym poziomie postaci.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_PCRace_body", "source": "Cannot accept quest due to faction restriction.", "translation": "Nie można przyjąć zadania z powodu ograniczeń frakcji.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_TOD_body", "source": "This quest cannot be accepted at this time.", "translation": "Nie można teraz przyjąć tego zadania.", "status": "draft"}
+{"id": "Message_MSG_QUEST_ACCEPT_FAIL_UNIFIEDOBJECTIVESCORE_body", "source": "Unlocked when Ascension Gauge reaches 100%.", "translation": "Odblokowuje się po napełnieniu wskaźnika Wstąpienia do 100%.", "status": "draft"}
+{"id": "Message_MSG_QUEST_BARRACKSWAREHOUSE_MAPEVENT_NOTICE_body", "source": "Intruder! Protection device in motion!", "translation": "Intruz! Uruchomiono urządzenie ochronne!", "status": "draft"}
+{"id": "Message_MSG_QUEST_COMPLETE_body", "source": "{0} completed.", "translation": "Ukończono: {0}.", "status": "draft"}
+{"id": "Message_MSG_QUEST_DUTY_ALREADY_FULL_body", "source": "Active Duty Quest limit exceeded.", "translation": "Przekroczono limit aktywnych zadań służbowych.", "status": "draft"}
+{"id": "Message_MSG_QUEST_DUTY_RESET_NOMORE_NUM_body", "source": "All refresh attempts have been exhausted.", "translation": "Wykorzystano wszystkie próby odświeżenia.", "status": "draft"}
+{"id": "Message_MSG_QUEST_DUTY_RESET_NO_COST_body", "source": "Cannot afford refresh.", "translation": "Za mało środków na odświeżenie.", "status": "draft"}
+{"id": "Message_MSG_QUEST_DUTY_REWARDED_MAX_ALERT_body", "source": "Cannot accept more due to daily server completion limit (5/5) being reached.", "translation": "Nie można przyjąć kolejnych zadań: osiągnięto dzienny limit ukończeń na serwerze (5/5).", "status": "draft"}
+{"id": "Message_MSG_QUEST_DUTY_REWARDED_OVER_ALERT_body", "source": "Cannot complete due to daily server completion limit being exceeded.", "translation": "Nie można ukończyć zadania: przekroczono dzienny limit ukończeń na serwerze.", "status": "draft"}
+{"id": "Message_MSG_QUEST_L1_HQ009_TRAP_NOTICE_body", "source": "Wrong key detected! Activate the totem!", "translation": "Wykryto niewłaściwy klucz! Aktywuj totem!", "status": "draft"}
+{"id": "Message_MSG_QUEST_L1_HQ010_TRAP_NOTICE_body", "source": "Operating escape prevention totem!", "translation": "Uruchamianie totemu blokującego ucieczkę!", "status": "draft"}
+{"id": "Message_MSG_QUEST_OBJECTIVE_COMPLETE_body", "source": "{0} {1}", "translation": "{0} {1}", "status": "draft"}
+{"id": "Message_MSG_QUEST_PART_END_body", "source": "{0} completed.", "translation": "Ukończono: {0}.", "status": "draft"}
+{"id": "Message_MSG_QUEST_PART_START_body", "source": "Started {0}.", "translation": "Rozpoczęto: {0}.", "status": "draft"}
+{"id": "Message_MSG_QUEST_START_body", "source": "Quest acquired: [{0}]", "translation": "Przyjęto zadanie: [{0}]", "status": "draft"}
+{"id": "Message_MSG_QUICKSLOT_AUTOREGIST_MANY_body", "source": "Auto-use items changed according to priority.", "translation": "Zmieniono kolejność automatycznego używania przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_QUICKSLOT_AUTOREGIST_ONE_body", "source": "Registered {0} as an auto-use item according to priority.", "translation": "Zarejestrowano {0} jako przedmiot do automatycznego użycia zgodnie z priorytetem.", "status": "draft"}
+{"id": "Message_MSG_QUICKSLOT_CANNOT_EDIT_BY_SKILLPRESET_body", "source": "Cannot edit Quick Slots while changing Skill Presets.", "translation": "Nie można edytować szybkich slotów podczas zmiany zestawu umiejętności.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_BUY_FAIL_ALREADY_PURCHASED_body", "source": "Cannot select Sold Out products.", "translation": "Nie można wybrać wyprzedanych produktów.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_BUY_FAIL_INVALID_GOODS_body", "source": "Item not found.", "translation": "Nie znaleziono przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_BUY_FAIL_NOT_ENOUGH_MONEY_body", "source": "Insufficient currency to purchase.", "translation": "Za mało waluty na zakup.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_BUY_FAIL_REFRESH_NOT_ENOUGH_MONEY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_BUY_SUCCESS_body", "source": "Purchased {0}.", "translation": "Kupiono: {0}.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_CHOICE_FAIL_ALL_SOLDOUT_body", "source": "All products are sold out so there is no product available to select.", "translation": "Wszystkie produkty są wyprzedane, więc nie ma żadnego dostępnego produktu do wyboru.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_CHOICE_FAIL_SOLDOUT_body", "source": "Item already purchased.", "translation": "Ten przedmiot został już kupiony.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_CHOICE_PURCHASING_FULL_INVENTORY_body", "source": "Insufficient Cube space to purchase.", "translation": "Za mało miejsca w kostce, aby dokonać zakupu.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_CHOICE_PURCHASING_NOT_CHOICE_body", "source": "Select the item to purchase.", "translation": "Wybierz przedmiot do kupienia.", "status": "draft"}
+{"id": "Message_MSG_RANDOM_SHOP_CHOICE_PURCHASING_NOT_ENOUGH_MONEY_body", "source": "Insufficient currency to purchase.", "translation": "Za mało waluty na zakup.", "status": "draft"}
+{"id": "Message_MSG_RANKING_CONTENTS_NOT_READY_body", "source": "Under development.", "translation": "W trakcie opracowywania.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_CANCLE_KISK_body", "source": "Canceled Kisk registration.", "translation": "Anulowano rejestrację Kiska.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_COMPLETE_KISK_body", "source": "Registered to Kisk.", "translation": "Zarejestrowano Kisk.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_COMPLETE_NEW_KISK_body", "source": "Registered to new Kisk.", "translation": "Zarejestrowano nowy Kisk.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_KISK_FAIL_ALREADY_REGIST_body", "source": "Kisk already registered.", "translation": "Kisk jest już zarejestrowany.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_KISK_FAIL_GUILD_body", "source": "Only {0}'s Legion Members can register.", "translation": "Mogą się rejestrować tylko członkowie Legionu {0}.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_KISK_FAIL_MAXUSER_body", "source": "Reached Kisk registration limit.", "translation": "Osiągnięto limit rejestracji Kisków.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_KISK_FAIL_PARTY_body", "source": "Only {0}'s party members can register.", "translation": "Mogą się rejestrować tylko członkowie drużyny {0}.", "status": "draft"}
+{"id": "Message_MSG_REGISTRATION_KISK_FAIL_PERSONAL_body", "source": "Only {0} can register.", "translation": "Rejestrować może się tylko {0}.", "status": "draft"}
+{"id": "Message_MSG_REPORT_FAIL_body", "source": "Please enter the target and reason for your report.", "translation": "Podaj cel i powód zgłoszenia.", "status": "draft"}
+{"id": "Message_MSG_REPORT_RESULT_body", "source": "Thank you for your report. We will promptly review your report and take the necessary actions.", "translation": "Dziękujemy za zgłoszenie. Niezwłocznie je rozpatrzymy i podejmiemy odpowiednie działania.", "status": "draft"}
+{"id": "Message_MSG_RESET_REBIRTH_ITEM_NOCOUNT_body", "source": "Manual and skill resurrection count has reset.", "translation": "Zresetowano liczbę wskrzeszeń ręcznych i za pomocą umiejętności.", "status": "draft"}
+{"id": "Message_MSG_RESET_REBIRTH_LIMIT_NOCOUNT_body", "source": "Manual and skill resurrection count has reset.", "translation": "Zresetowano liczbę wskrzeszeń ręcznych i za pomocą umiejętności.", "status": "draft"}
+{"id": "Message_MSG_RIFT_INTERACTION_FAIL_BY_ITEM_body", "source": "Unable to enter Spacetime Rift due to insufficient entry tickets.", "translation": "Nie można wejść do Szczeliny Czasoprzestrzennej: brakuje biletów wstępu.", "status": "draft"}
+{"id": "Message_MSG_RIFT_INTERACTION_FAIL_BY_LEVEL_body", "source": "Level requirement not met for Spacetime Rift.", "translation": "Nie spełniasz wymagań poziomowych Szczeliny Czasoprzestrzennej.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_COMBAT_ERROR_body", "source": "Cannot be changed while in combat.", "translation": "Nie można tego zmienić podczas walki.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_COMMON_ERROR_body", "source": "This function is currently unavailable.", "translation": "Ta funkcja jest obecnie niedostępna.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_COOLDOWN_body", "source": "Cannot change status yet. Please try again later.", "translation": "Nie można jeszcze zmienić statusu. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_FORCE_PVP_BY_ATTACK_body", "source": "You have been forcibly changed to PvP Mode upon attacking an enemy player or Kisk.", "translation": "Po zaatakowaniu wrogiego gracza lub Kiska wymuszono przejście do trybu PvP.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_FORCE_PVP_BY_PARTY_FORCE_body", "source": "You have been forcibly changed to PvP Mode due to a member of your Party or Force being in PvP Mode.", "translation": "Członek twojej drużyny lub grupy rajdowej znajduje się w trybie PvP. Wymuszono przejście do trybu PvP.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_FORCE_PVP_ERROR_body", "source": "Status cannot be changed while Forced PvP is active.", "translation": "Nie można zmienić statusu, gdy wymuszony tryb PvP jest aktywny.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_INVALID_MAP_body", "source": "Function cannot be used in this area.", "translation": "Nie można użyć tej funkcji w tym obszarze.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_LV_ERROR_body", "source": "PvP status can be changed from Level {0}.", "translation": "Zmiana statusu PvP jest dostępna od poziomu {0}.", "status": "draft"}
+{"id": "Message_MSG_RIFT_PVP_MODE_SAME_VALUE_body", "source": "Already same status.", "translation": "Ten status jest już aktywny.", "status": "draft"}
+{"id": "Message_MSG_RIFT_SPAWN_body", "source": "A Spacetime Rift has appeared.", "translation": "Pojawiła się Szczelina Czasoprzestrzenna.", "status": "draft"}
+{"id": "Message_MSG_RIFT_USE_FAIL_ENOUGH_LEVEL_body", "source": "Unavailable at this level.", "translation": "Niedostępne na tym poziomie.", "status": "draft"}
+{"id": "Message_MSG_RIFT_USE_FAIL_NOT_PROPER_TRIBE_body", "source": "Cannot use portals of opposing faction.", "translation": "Nie można używać portali przeciwnej frakcji.", "status": "draft"}
+{"id": "Message_MSG_ROLE_VOTE_INPUT_DONE_body", "source": "Endorsed {0}.", "translation": "Udzielono poparcia: {0}.", "status": "draft"}
+{"id": "Message_MSG_ROLE_VOTE_UNABLE_INPUT_body", "source": "Please select a player to endorse.", "translation": "Wybierz gracza, któremu chcesz udzielić poparcia.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_ALL_GIVE_UP_body", "source": "All members gave up dice rolling.", "translation": "Wszyscy członkowie zrezygnowali z rzutu kośćmi.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_GIVEUP_body", "source": "{0} gave up rolling dice on {1}.", "translation": "Postać {0} zrezygnowała z rzutu kośćmi o {1}.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_ITEM_ALL_GIVE_UP_body", "source": "All item dice rolls have been canceled.", "translation": "Anulowano wszystkie rzuty kośćmi o przedmiot.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_ITEM_GET_body", "source": "{0} rolled dice and acquired {1}.", "translation": "Wynik rzutu kośćmi zapewnił postaci {0} przedmiot: {1}.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_REWARD_INVENTORY_FULL_body", "source": "Insufficient Cube space to participate in dice roll.", "translation": "Za mało miejsca w kostce, aby wziąć udział w rzucie kośćmi.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_ROLLING_DICE_PARTY_FORCE_SELF_body", "source": "Rolled a {1} on {0}.", "translation": "W rzucie o {0} uzyskano wynik {1}.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_ROLLING_DICE_PARTY_FORCE_body", "source": "{0} rolled a {2} on {1}.", "translation": "W rzucie kośćmi o {1} postać {0} uzyskała wynik {2}.", "status": "draft"}
+{"id": "Message_MSG_ROLLING_DICE_SAME_POINT_body", "source": "{0} dice roll ended in a tie. Re-roll in progress.", "translation": "Rzut kośćmi {0} zakończył się remisem. Trwa ponowny rzut.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_1Party_Wave_Fail_body", "source": "Ketu's powers have restored the Abyssal Forge.", "translation": "Moc Ketu przywróciła Kuźnię Otchłani.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_2Party_Wave_Fail_body", "source": "Rahu's powers have restored the Abyssal Forge.", "translation": "Moc Rahu przywróciła Kuźnię Otchłani.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_AbyssStone_01_body", "source": "When a Rage Abyss Stone is destroyed, the Power of Rage is released.", "translation": "Po zniszczeniu Kamienia Otchłani Gniewu uwolni się Moc Gniewu.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_AbyssStone_02_body", "source": "When a Patience Abyss Stone is destroyed, the Power of Patience is released.", "translation": "Po zniszczeniu Kamienia Otchłani Cierpliwości uwolni się Moc Cierpliwości.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_AbyssStone_03_body", "source": "When a Knowledge Abyss Stone is destroyed, the Power of Knowledge is released.", "translation": "Po zniszczeniu Kamienia Otchłani Wiedzy uwolni się Moc Wiedzy.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_AbyssStone_body", "source": "The Abyss energy forge warps and reveals an Abyss Stone.", "translation": "Kowadło energii Otchłani ulega zniekształceniu i ujawnia Kamień Otchłani.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_DrakanTower_01_body", "source": "Ketu's power reforges the Abyss's energy.\nThe security system has been activated.", "translation": "Moc Ketu ponownie wykuwa energię Otchłani.\nUruchomiono system ochronny.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_DrakanTower_02_body", "source": "Rahu's power reforges the Abyss's energy.\nThe security system has been activated.", "translation": "Moc Rahu ponownie wykuwa energię Otchłani.\nUruchomiono system ochronny.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_OrcusGem_01_001_Fail_body", "source": "The Central Abyss Fusion Reactor has been restored.", "translation": "Przywrócono Centralny Reaktor Fuzji Otchłani.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Potal_body", "source": "The Abyss distorts. \nThe Admin Zone Portal has opened.", "translation": "Otchłań ulega zniekształceniu. \nOtwarto portal do Strefy Administracyjnej.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_01_Die_body", "source": "The Left Auxiliary Fusion Reactor has been destroyed.\nThe Central Abyss Fusion Reactor's durability decreases.", "translation": "Zniszczono Lewy Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani spada.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_01_body", "source": "The Left Auxiliary Fusion Reactor has been summoned.\nThe Central Abyss Fusion Reactor's durability increases.", "translation": "Przywołano Lewy Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani wzrasta.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_02_Die_body", "source": "The Right Auxiliary Fusion Reactor has been destroyed.\nThe Central Abyss Fusion Reactor's durability decreases.", "translation": "Zniszczono Prawy Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani spada.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_02_body", "source": "The Right Auxiliary Fusion Reactor has been summoned.\nThe Central Abyss Fusion Reactor's durability increases.", "translation": "Przywołano Prawy Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani wzrasta.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_03_Die_body", "source": "The Central Auxiliary Fusion Reactor has been destroyed.\nThe Central Abyss Fusion Reactor's durability decreases.", "translation": "Zniszczono Centralny Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani spada.", "status": "draft"}
+{"id": "Message_MSG_ReforgedAbyss_Wave_ExtractorA_03_body", "source": "The Central Auxiliary Fusion Reactor has been summoned.\nThe Central Abyss Fusion Reactor's durability increases.", "translation": "Przywołano Centralny Pomocniczy Reaktor Fuzji.\nWytrzymałość Centralnego Reaktora Fuzji Otchłani wzrasta.", "status": "draft"}
+{"id": "Message_MSG_Resurrected_body", "source": "Character has resurrected.", "translation": "Postać została wskrzeszona.", "status": "draft"}
+{"id": "Message_MSG_SERVER_ENTER_NO_SELECTED_SERVER_body", "source": "Please select a server to enter.", "translation": "Wybierz serwer, na który chcesz wejść.", "status": "draft"}
+{"id": "Message_MSG_SERVER_STATE_LIMIT_CHARACTER_CREATION_01_body", "source": "Character creation is restricted on this server. Please choose another server.", "translation": "Tworzenie postaci na tym serwerze jest ograniczone. Wybierz inny serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_STATE_LIMIT_CHARACTER_CREATION_02_body", "source": "Character creation is restricted on this server.", "translation": "Tworzenie postaci na tym serwerze jest ograniczone.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_AVAILABLE_STATUS_CHANGED_body", "source": "Server transfer status changed. Please check your selection again.", "translation": "Serwer transferu zmienił status. Sprawdź ponownie wybór.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CANNOTTRANSFER_CURRENTSERVER_body", "source": "Cannot request transfer to current server.", "translation": "Nie można zlecić transferu na obecny serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CHARACTERTRANSFERDISABLED_body", "source": "Server transfer has been temporarily suspended.", "translation": "Transfer postaci na serwer został tymczasowo zawieszony.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CHARACTERTRANSFERUNAVAILABLETIME_body", "source": "Server transfer is currently unavailable.", "translation": "Transfer postaci na serwer jest obecnie niedostępny.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CHECK_CHARACTER_NO_MORE_SELECTIONS_body", "source": "Check number of characters available for application.", "translation": "Sprawdź liczbę postaci, które można zgłosić do transferu.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CHECK_CHARACTER_NO_SERVER_SELECTED_body", "source": "Select the server you wish to transfer to.", "translation": "Wybierz serwer docelowy.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_CHECK_SUBSCRIBE_DISABLE_body", "source": "Cannot transfer servers when subscription is not active.", "translation": "Nie można przenieść postaci na inny serwer bez aktywnej subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_COMMON_ERROR_body", "source": "Error occurred during server transfer. Please try again later.", "translation": "Wystąpił błąd podczas transferu postaci. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_DESTINATION_CHECK_COMMON_FAIL_body", "source": "Cannot confirm eligbility for server transfer.", "translation": "Nie można sprawdzić, czy transfer postaci na serwer jest możliwy.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_DESTINATION_CHECK_NOT_ENOUGH_SLOT_body", "source": "Insufficient slots in target server.", "translation": "Za mało wolnych miejsc na serwerze docelowym.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_INBOUNDQUOTANONE_body", "source": "Cannot transfer to target server.", "translation": "Nie można przenieść postaci na serwer docelowy.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_INBOUND_QUOTA_FULL_body", "source": "Transfer to this server is no longer available.", "translation": "Transfer na ten serwer nie jest już dostępny.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_INTERNAL_ERROR_body", "source": "Server transfer failed. Please try again shortly.", "translation": "Transfer postaci na serwer nie powiódł się. Spróbuj ponownie za chwilę.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_INVALID_PARAMETER_body", "source": "Invalid request. Please check again.", "translation": "Nieprawidłowe żądanie. Sprawdź je ponownie.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_LEGION_APPLICATION_TIME_EXPIRED_body", "source": "Legionnaire agreement period has expired.", "translation": "Okres akceptacji członków Legionu dobiegł końca.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_LEGION_LEADER_CANCELED_body", "source": "The Legion server transfer has been canceled.", "translation": "Anulowano transfer Legionu na serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_LEGION_MEMBER_SLOTS_FILLED_body", "source": "No more Legionnaires can be transferred.", "translation": "Nie można przenieść kolejnych członków Legionu.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_NOT_ENOUGH_COST_body", "source": "Cannot afford transfer.", "translation": "Za mało kin na transfer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_NOT_ENOUGH_ITEM_body", "source": "Insufficient funds to proceed with server transfer.", "translation": "Za mało środków, aby dokonać transferu postaci na serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_OUTBOUNDQUOTAFULL_body", "source": "Server transfer is no longer available.", "translation": "Transfer postaci na serwer nie jest już dostępny.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_OUTBOUNDQUOTANONE_body", "source": "Cannot transfer to another server.", "translation": "Nie można przenieść postaci na inny serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_OVER_LIMIT_COUNT_body", "source": "Cannot purchase item because purchase limit has been exceeded.", "translation": "Nie można kupić przedmiotu: przekroczono limit zakupów.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_PURCHASE_CONDITION_ERROR_body", "source": "Please check the server transfer requirements.", "translation": "Sprawdź wymagania transferu postaci na serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_PURCHASE_COST_ERROR_body", "source": "Please check the transfer fee.", "translation": "Sprawdź opłatę za transfer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_ROUND_BEFORE_START_PURCHASE_NOTICE_body", "source": "Cannot purchase before the server transfer begins.", "translation": "Nie można kupić przed rozpoczęciem transferu postaci na serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_RULE_SCROLL_NOTICE_body", "source": "Scroll down to read all the contents.", "translation": "Przewiń w dół, aby przeczytać całą treść.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_SAME_SERVER_body", "source": "Cannot transfer to the same server.", "translation": "Nie można przenieść postaci na ten sam serwer.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_START_COMMON_FAIL_body", "source": "Server transfer failed.", "translation": "Transfer postaci na serwer nie powiódł się.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_START_NOT_ENOUGH_LEVEL_body", "source": "Cannot transfer servers at current level.", "translation": "Nie można przenieść postaci na serwer przy obecnym poziomie.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_STATUS_CHECK_COMMON_FAIL_body", "source": "Cannot confirm transfer status.", "translation": "Nie można sprawdzić statusu transferu.", "status": "draft"}
+{"id": "Message_MSG_SERVER_TRANSFER_SYSTEM_UNAVAILABLE_body", "source": "Server transfer is currently unavailable.", "translation": "Transfer postaci na serwer jest obecnie niedostępny.", "status": "draft"}
+{"id": "Message_MSG_SETTING_LANGUAGE_VOICE_COMINGSOON_body", "source": "The selected audio is still under development. It will be added in a future update.", "translation": "Wybrana ścieżka dźwiękowa jest w trakcie opracowywania. Zostanie dodana w przyszłej aktualizacji.", "status": "draft"}
+{"id": "Message_MSG_SETTING_PUSH_DAY_OFF_body", "source": "Withdrew from receiving daytime marketing push notifications - {0}", "translation": "Wyłączono odbieranie dziennych powiadomień marketingowych - {0}", "status": "draft"}
+{"id": "Message_MSG_SETTING_PUSH_DAY_ON_body", "source": "Agreed to receive daytime marketing push notifications - {0}", "translation": "Zgodzono się na odbieranie dziennych powiadomień marketingowych - {0}", "status": "draft"}
+{"id": "Message_MSG_SETTING_PUSH_NIGHT_OFF_body", "source": "Withdrew from receiving nighttime marketing push notifications - {0}", "translation": "Wyłączono odbieranie nocnych powiadomień marketingowych - {0}", "status": "draft"}
+{"id": "Message_MSG_SETTING_PUSH_NIGHT_ON_body", "source": "Agreed to receive nighttime marketing push notifications - {0}", "translation": "Zgodzono się na odbieranie nocnych powiadomień marketingowych - {0}", "status": "draft"}
+{"id": "Message_MSG_SETUPKISK_USE_FAIL_DUNGEON_STATE_body", "source": "Cannot place a Kisk. The event has ended.", "translation": "Nie można ustawić Kiska. Wydarzenie dobiegło końca.", "status": "draft"}
+{"id": "Message_MSG_SETUPKISK_USE_FAIL_MOVEMENTMODE_body", "source": "Kisks can only be installed on the ground.", "translation": "Kiski można ustawiać tylko na ziemi.", "status": "draft"}
+{"id": "Message_MSG_SETUPKISK_USE_FAIL_NO_LOCATION_body", "source": "No space to install a Kisk.", "translation": "Brak miejsca na ustawienie Kiska.", "status": "draft"}
+{"id": "Message_MSG_SETUPKISK_USE_FAIL_SUBZONE_body", "source": "Cannot install Kisk in this area.", "translation": "Nie można ustawić Kiska w tym obszarze.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_CHANGE_SETTING_GRADE_ALL_body", "source": "Quick Settings have been changed to target items of all grades.", "translation": "Zmieniono szybkie ustawienia, aby obejmowały przedmioty wszystkich rang.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_CHANGE_SETTING_GRADE_body", "source": "Change Quick settings to sort items by grade.", "translation": "Zmień szybkie ustawienia, aby sortować przedmioty według rangi.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_COMPLETE_body", "source": "Added Quick Register items to the list.", "translation": "Dodano przedmioty szybkiej rejestracji do listy.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_MISC_COMPLETE_body", "source": "Added all miscellaneous items to the trade list.", "translation": "Dodano wszystkie przedmioty różne do listy wymiany.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_NOT_HAVE_ITEM_body", "source": "No item(s) to add to trade list.", "translation": "Brak przedmiotów do dodania do listy wymiany.", "status": "draft"}
+{"id": "Message_MSG_SHOPPINGCART_AUTOREGISTER_NOT_SETTING_body", "source": "There are no items set in Quick Register.", "translation": "Nie ustawiono żadnych przedmiotów w szybkiej rejestracji.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BATCH_PURCHASING_FAIL_body", "source": "Purchase failed as certain items are no longer for sale.\nPlease try again later.", "translation": "Nie udało się kupić niektórych przedmiotów, bo nie są już w sprzedaży.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BATCH_PURCHASING_NOT_ENOUGH_body", "source": "No items available for bulk purchase.", "translation": "Brak przedmiotów dostępnych do zakupu hurtowego.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BATCH_PURCHASING_SUCCESS_body", "source": "Bulk purchase complete.\nCheck Cube or owned currency.", "translation": "Zakup hurtowy zakończony.\nSprawdź zawartość kostki lub posiadaną walutę.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_FULL_INVENTORY_body", "source": "Insufficient Cube space to purchase.", "translation": "Za mało miejsca w kostce, aby dokonać zakupu.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_GLOBAL_EU_REFUND_NOT_AGREED_body", "source": "Please agree to the purchase policy.", "translation": "Zaakceptuj zasady zakupu.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_NOT_ENOUGH_MONEY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_NOT_GET_GOODS_body", "source": "Available for purchase after claiming previous item from storage.", "translation": "Można kupić po odebraniu poprzedniego przedmiotu z magazynu.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_NOT_RIGHT_STEP_body", "source": "Cannot purchase at this Stage.", "translation": "Nie można kupić produktu na tym etapie.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_NOT_SALE_TARGET_body", "source": "Available only to {0} players.", "translation": "Dostępne tylko dla graczy: {0}.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_NOT_SUBSCRIBE_body", "source": "Available after membership subscription.", "translation": "Dostępne po wykupieniu członkostwa.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_VERIFY_PAYMENT_ACCOUNT_body", "source": "Purchase unavailable. No payment account linked.", "translation": "Nie można dokonać zakupu. Nie połączono konta płatniczego.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_FAIL_body", "source": "Failed to purchase some items due to unexpected error.\nPlease try again later.", "translation": "Nie udało się kupić niektórych przedmiotów z powodu nieoczekiwanego błędu.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_BUY_SUCCESS_body", "source": "Purchased {0}.\nCheck Cube or owned currency.", "translation": "Kupiono: {0}.\nSprawdź zawartość kostki lub posiadaną walutę.", "status": "draft"}
+{"id": "Message_MSG_SHOP_LIMIT_LEVEL_body", "source": "Insufficient level to purchase.", "translation": "Za niski poziom, aby dokonać zakupu.", "status": "draft"}
+{"id": "Message_MSG_SHOP_POPUP_AGESELECT_SUCCESS_body", "source": "Age setting has been completed.", "translation": "Ustawiono wiek.", "status": "draft"}
+{"id": "Message_MSG_SHOP_POPUP_AGE_NO_SELECT_body", "source": "Select an age.", "translation": "Wybierz wiek.", "status": "draft"}
+{"id": "Message_MSG_SHOP_PRODUCT_NOT_VISIBLE_BY_FETCH_FAILED_body", "source": "Could not fetch product list. Please try again later.", "translation": "Nie udało się pobrać listy produktów. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_PRODUCT_NOT_VISIBLE_BY_PURCHASE_LIMIT_body", "source": "Could not find product list. Please try again later.", "translation": "Nie znaleziono listy produktów. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_PRODUCT_NOT_VISIBLE_ERRORINTERNAL_body", "source": "Cannot confirm product information. Please try again later.", "translation": "Nie można potwierdzić informacji o produkcie. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_PRODUCT_NOT_VISIBLE_INVALIDDATA_body", "source": "Could not fetch product information. Please try again later.", "translation": "Nie udało się pobrać informacji o produkcie. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_PRODUCT_NOT_VISIBLE_UNAVAILABLE_body", "source": "Could not find product information. Please try again later.", "translation": "Nie znaleziono informacji o produkcie. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_RECURRING_PURCHASE_COMPLETED_body", "source": "Purchased {1} {0}. Please check the Storage.", "translation": "Kupiono: {1} {0}. Sprawdź magazyn.", "status": "draft"}
+{"id": "Message_MSG_SHOP_SOLDOUT_body", "source": "Item has already been purchased.", "translation": "Ten przedmiot został już kupiony.", "status": "draft"}

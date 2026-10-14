@@ -1,0 +1,250 @@
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TIME_body", "source": "Clear time", "translation": "Czas ukończenia", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TITLE_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TOTAL_SCORE_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_REWARD_body", "source": "Obtainable Rewards", "translation": "Dostępne nagrody", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TAB_RANKING_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TAB_TITLE_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TICKET_ITEM_BASIC_body", "source": "Default Count", "translation": "Liczba podstawowa", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TICKET_ITEM_CHARGE_body", "source": "Recharge Count", "translation": "Liczba doładowań", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TICKET_ITEM_COUNT_DEFAULT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TICKET_ITEM_COUNT_body", "source": "{0}<DraconicCrisis_RechargeTicket>(+{1})</>{2}", "translation": "{0}<DraconicCrisis_RechargeTicket>(+{1})</>{2}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TICKET_ITEM_RECHARGE_body", "source": "Until the Default Count Recharges", "translation": "Do przywrócenia liczby podstawowej", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_TITLE_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_SUPRRESSION_ABNORMAL_BUFF_body", "source": "Applicable Buffs", "translation": "Dostępne wzmocnienia", "status": "draft"}
+{"id": "String_UI_SUPRRESSION_ABNORMAL_DEBUFF_body", "source": "Applicable Debuffs", "translation": "Dostępne osłabienia", "status": "draft"}
+{"id": "String_UI_SUPRRESSION_REQUIRED_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SUPRRESSION_REQUIRED_PEOPLE_body", "source": "{0} Player(s)", "translation": "{0} graczy", "status": "draft"}
+{"id": "String_UI_SWEEP_TICKET_ADD_BUTTON_MOVE_body", "source": "Move", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_SWEEP_TICKET_ADD_DESC_body", "source": "The item can be <system_point>purchased</> from the shop.\n<system_point>Move</> to the shop?", "translation": "Przedmiot można <system_point>kupić</> w sklepie.\n<system_point>Przejść</> do sklepu?", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Buy_Button_body", "source": "Purchase", "translation": "Kup", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Buy_Cost_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Change_Button_Cancel_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Change_Button_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Change_Notice_Title_body", "source": "Character Name Change Guide", "translation": "Informacje o zmianie nazwy postaci", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Change_Notice_body", "source": "You can changed to a desired character name after server transfer.\n\n(The name cannot be a duplicate or contain prohibited words.\nYou may not be able to use your current character name as-is.)\n\nWould you like to proceed with the server transfer?", "translation": "Po transferze serwera możesz zmienić nazwę postaci na wybraną.\n\n(Nazwa nie może być zajęta ani zawierać niedozwolonych słów.\nMoże się okazać, że nie można zachować obecnej nazwy postaci.)\n\nCzy chcesz kontynuować transfer serwera?", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Input_Notice2_body", "source": "Duplicate names or prohibited words cannot be used.", "translation": "Nie można użyć zajętej nazwy ani niedozwolonych słów.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Input_Notice_Button_Cancel_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Input_Notice_Button_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Input_Notice_Title_body", "source": "Enter Name of Character for Server Transfer", "translation": "Wpisz nazwę postaci do transferu serwera", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Character_Name_Input_Notice_body", "source": "Enter your desired character name.", "translation": "Wpisz wybraną nazwę postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Current_Selection_body", "source": "Currently Selected Character: {0} / {1}", "translation": "Wybrana postać: {0}/{1}", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Legion_Apply_Result_body", "source": "Check Legion application status.", "translation": "Sprawdź stan wniosku Legionu.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Legion_Apply_body", "source": "Legion Application", "translation": "Wniosek Legionu", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Legion_Join_Result_body", "source": "Please check Legion enlistment status.", "translation": "Sprawdź stan dołączenia do Legionu.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Legion_Join_body", "source": "Join Legion", "translation": "Dołącz do Legionu", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Legion_Notice_body", "source": "Check Legion enlistment and application status.", "translation": "Sprawdź stan dołączenia do Legionu i wniosku.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Level_Notice_body", "source": "Check character level.", "translation": "Sprawdź poziom postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Level_Result_body", "source": "Check character level.", "translation": "Sprawdź poziom postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Level_body", "source": "Character Level {0} required", "translation": "Wymagany poziom postaci: {0}", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Location_Notice_body", "source": "Check character location.", "translation": "Sprawdź lokalizację postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Location_Result_body", "source": "You can only apply for server transfer in the village.", "translation": "Transfer serwera można zlecić tylko w wiosce.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Location_body", "source": "Current Location", "translation": "Bieżąca lokalizacja", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_No_More_Selections_body", "source": "Cannot select any more.", "translation": "Nie można wybrać więcej postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_None_Selected_body", "source": "No character selected.", "translation": "Nie wybrano postaci.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Select_body", "source": "Select the character to transfer.", "translation": "Wybierz postać do transferu.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Slot_Notice_body", "source": "Check character slots on the server you wish to transfer to.", "translation": "Sprawdź miejsca na postacie na serwerze docelowym.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Slot_Result_body", "source": "Insufficient remaining slots on the server to transfer to.", "translation": "Za mało wolnych miejsc na serwerze docelowym.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Character_Slot_body", "source": "Target Server Slots Available: {0} ({1} Default Slots/{2} Unpurchased Slots)", "translation": "Dostępne miejsca na serwerze docelowym: {0} ({1} miejsc podstawowych / {2} niewykupionych miejsc)", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Notice_body", "source": "Check unclaimed currency/items.", "translation": "Sprawdź nieodebrane waluty i przedmioty.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Post_Result_body", "source": "Unclaimed currency/items in the Mailbox must be claimed.", "translation": "Odbierz nieodebrane waluty i przedmioty ze skrzynki pocztowej.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Post_body", "source": "Mail", "translation": "Poczta", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Shop_Result_body", "source": "Unclaimed currency/items in the Shop Storage must be claimed.", "translation": "Odbierz nieodebrane waluty i przedmioty z magazynu sklepu.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Shop_body", "source": "Shop Storage", "translation": "Magazyn sklepu", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Trade_Result_body", "source": "Unclaimed currency/items in the market must be claimed.", "translation": "Odbierz nieodebrane waluty i przedmioty z rynku.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Receive_Trade_body", "source": "Market", "translation": "Rynek", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Recover_Item_Notice_body", "source": "Check the items recovered with the Soul Healer.", "translation": "Sprawdź przedmioty odzyskane u Uzdrowiciela duszy.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Recover_Item_Result_body", "source": "Check the recovered item.", "translation": "Sprawdź odzyskany przedmiot.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Check_Recover_Item_body", "source": "Recovered Item", "translation": "Odzyskany przedmiot", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Completed_Button_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Completed_Notice_Push_body", "source": "<ref style=\"insufficient\" attr=\"color\">Switch push notifications to ON in Settings > Notifications to receive notifications.</>", "translation": "<ref style=\"insufficient\" attr=\"color\">Aby otrzymywać powiadomienia, włącz powiadomienia push w Ustawienia > Powiadomienia.</>", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Completed_Notice_Title_body", "source": "Server Transfer Application", "translation": "Wniosek o transfer serwera", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Completed_Notice_body", "source": "Server transfer application complete.\n\nYou cannot play the game while the transfer is in progress.\n\nThe transfer will proceed based on the order of applications received,\nand you will be notified via push notifications once completed.", "translation": "Wniosek o transfer serwera został złożony.\n\nPodczas transferu nie możesz grać.\n\nTransfery będą realizowane w kolejności otrzymania wniosków.\nPo zakończeniu otrzymasz powiadomienie push.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Not_Available_Char_body", "source": "Cannot transfer server in current state. Please check the server transfer period.\nServer transfer is unavailable while in the Abyss, dungeons, and several other areas.", "translation": "Nie można teraz przenieść serwera. Sprawdź okres transferu.\nTransfer serwera jest niedostępny w Otchłani, lochach i niektórych innych obszarach.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Select_Button_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Select_Server_Char_body", "source": "Select the server you wish to transfer to.", "translation": "Wybierz serwer docelowy.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Server_List_Server_Name_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Server_List_Title_body", "source": "Server List", "translation": "Lista serwerów", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Server_List_Window_Notice_body", "source": "Servers that have closed transfer applications will be displayed in red and transfer applications will be unavailable.\nWe plan to introduce gradual adjustments based on overall transfer applications. Please check the announcement for details.", "translation": "Serwery, na których zakończono przyjmowanie wniosków o transfer, będą oznaczone na czerwono i transfer nie będzie dostępny.\nPlanujemy stopniowo dostosowywać zasady w zależności od liczby wniosków. Szczegóły znajdziesz w ogłoszeniu.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Tab_Char_body", "source": "Server Transfer", "translation": "Transfer serwera", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Temporarily_Unavailable_body", "source": "Server transfer has been temporarily suspended. Please check the server transfer schedule.", "translation": "Transfer serwera został tymczasowo wstrzymany. Sprawdź harmonogram transferów.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Transfer_Available_Text_body", "source": "Transfer Available", "translation": "Dostępny transfer", "status": "draft"}
+{"id": "String_UI_TARGETINFO_TEXT_TRIBALISTIC_body", "source": "Tribal Kinship", "translation": "Pokrewieństwo plemienne", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_BUTTON_TELEPORT_body", "source": "Teleport", "translation": "Teleportuj", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_ENGRAVE_INFO_body", "source": "Kibelisk Interactions", "translation": "Interakcje z Kibieliskiem", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_ENGRAVE_MISSION_TITLE_body", "source": "Binding Method", "translation": "Sposób związania", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_STATE_ENGRAVED_body", "source": "Bind Complete", "translation": "Związano", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_STATE_MISSION_INCOMPLETE_body", "source": "Binding Incomplete", "translation": "Nieukończone wiązanie", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_STATE_RECOVERY_body", "source": "%hh:%mm:%ss until Recovery", "translation": "Do odzyskania: %hh:%mm:%ss", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_SUBZONEINFO_TITLE_body", "source": "Detailed Info", "translation": "Szczegółowe informacje", "status": "draft"}
+{"id": "String_UI_TELPO_HOME_CASTING_STRING_HOME_body", "source": "Moving to {0}", "translation": "Przenoszenie do {0}", "status": "draft"}
+{"id": "String_UI_TELPO_HOME_CASTING_STRING_KIBEL_body", "source": "Moving to {0}", "translation": "Przenoszenie do {0}", "status": "draft"}
+{"id": "String_UI_TIMESPAN_DAY_HOUR_MIN_body", "source": "{0}d {1}h {2}min", "translation": "{0} d {1} godz. {2} min", "status": "draft"}
+{"id": "String_UI_TIMESPAN_DAY_HOUR_body", "source": "{0}d {1}h", "translation": "{0} d {1} godz.", "status": "draft"}
+{"id": "String_UI_TIMESPAN_DAY_body", "source": "{0}d", "translation": "{0} d", "status": "draft"}
+{"id": "String_UI_TIMESPAN_HH_MM_SS_body", "source": "{0}:{1}:{2}", "translation": "{0}:{1}:{2}", "status": "draft"}
+{"id": "String_UI_TIMESPAN_HOUR_MIN_SEC_body", "source": "{0}h {1}min {2}s", "translation": "{0} godz. {1} min {2} s", "status": "draft"}
+{"id": "String_UI_TIMESPAN_HOUR_MIN_body", "source": "{0}h {1}min", "translation": "{0} godz. {1} min", "status": "draft"}
+{"id": "String_UI_TIMESPAN_HOUR_body", "source": "{0}h", "translation": "{0} godz.", "status": "draft"}
+{"id": "String_UI_TIMESPAN_MIN_SEC_body", "source": "{0}min {1}s", "translation": "{0} min {1} s", "status": "draft"}
+{"id": "String_UI_TIMESPAN_MIN_body", "source": "{0}min", "translation": "{0} min", "status": "draft"}
+{"id": "String_UI_TIMESPAN_MM_SS_body", "source": "{0}:{1}", "translation": "{0}:{1}", "status": "draft"}
+{"id": "String_UI_TIMESPAN_POSTTIME_body", "source": "{0} ago", "translation": "{0} temu", "status": "draft"}
+{"id": "String_UI_TIMESPAN_SEC_body", "source": "{0}s", "translation": "{0} s", "status": "draft"}
+{"id": "String_UI_TIMESPAN_SS_MS_body", "source": "{0}.{1}", "translation": "{0}.{1}", "status": "draft"}
+{"id": "String_UI_TIME_LOCAL_BTN_TEXT_body", "source": "LT", "translation": "LT", "status": "draft"}
+{"id": "String_UI_TIME_LOCAL_TOOLTIP_DESC_body", "source": "Displaying Local Time", "translation": "Wyświetlanie czasu lokalnego", "status": "draft"}
+{"id": "String_UI_TIME_SEC_body", "source": "{0}:{1}:{2}", "translation": "{0}:{1}:{2}", "status": "draft"}
+{"id": "String_UI_TIME_SERVER_BTN_TEXT_body", "source": "ST", "translation": "ST", "status": "draft"}
+{"id": "String_UI_TIME_SERVER_TOOLTIP_DESC_body", "source": "Displaying Server Time", "translation": "Wyświetlanie czasu serwera", "status": "draft"}
+{"id": "String_UI_TIME_body", "source": "{0}:{1}", "translation": "{0}:{1}", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_ATTACK_body", "source": "Offensive", "translation": "Atak", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_DEFENSE_body", "source": "Defensive", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_ETC_body", "source": "Other", "translation": "Inne", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_MOUSEOVER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_MOUSEOVER_ATTACK_body", "source": "Offensive", "translation": "Atak", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_MOUSEOVER_DEFENCS_body", "source": "Defensive", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_TITLE_EQUIP_CATEGORY_MOUSEOVER_ETC_body", "source": "Other", "translation": "Inne", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_ALL_STAT_body", "source": "All Stats", "translation": "Wszystkie statystyki", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_NOT_GET_body", "source": "Show unacquired titles only", "translation": "Pokaż tylko niezdobyte tytuły", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_RESULT_NOTHING_body", "source": "No Applicable Items", "translation": "Brak pasujących przedmiotów", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_SELECT_STAT_body", "source": "{0} Type(s) of Stats", "translation": "{0} typ(y) statystyk", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_STAT_LIST_EQUIP_body", "source": "Equipped Effect ({0})", "translation": "Efekt założonego tytułu ({0})", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_STAT_LIST_OWNED_body", "source": "Owned Effect ({0})", "translation": "Efekt posiadanego tytułu ({0})", "status": "draft"}
+{"id": "String_UI_TITLE_FILTER_STAT_LIST_body", "source": "Stat List", "translation": "Lista statystyk", "status": "draft"}
+{"id": "String_UI_TITLE_LIST_APPLY_body", "source": "Apply Skin", "translation": "Zastosuj wygląd", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_BUTTON_ALL_EFFECT_body", "source": "All Equipped Effects", "translation": "Wszystkie efekty założonego tytułu", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_BUTTON_ALL_GET_REWARD_body", "source": "Collect All Rewards", "translation": "Odbierz wszystkie nagrody", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_COLLECTIONRATE_body", "source": "Total Collection Status <ref style=\"Title_List_CurCount\" attr=\"color\">{0}</>/{1}", "translation": "Łączny postęp kolekcji <ref style=\"Title_List_CurCount\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_EQUIP_SLOT_TITLE_body", "source": "Equipped Effect", "translation": "Efekt założonego tytułu", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_MOUSEOVER_FX_body", "source": "Character Effects", "translation": "Efekty postaci", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_COLLECTIONRATE_body", "source": "<ref style=\"Title_List_CurCount\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"Title_List_CurCount\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_EQUIP_NONE_body", "source": "No active equipped effect.", "translation": "Brak aktywnych efektów z założonych tytułów.", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_EQUIP_TITLE_body", "source": "Equipped Effect", "translation": "Efekt założonego tytułu", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_OWNED_NONE_body", "source": "No effects currently owned.", "translation": "Nie masz obecnie żadnych efektów.", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_OWNED_TITLE_body", "source": "All Owned Effects", "translation": "Wszystkie posiadane efekty", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_POPUP_ALL_EFFECT_body", "source": "All Equipped Effects", "translation": "Wszystkie efekty założonego tytułu", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_SLOT_TITLE_body", "source": "Equipped Title", "translation": "Założony tytuł", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_SUB_CATEGORY_EQUIP_INFO_body", "source": "Equip Status", "translation": "Stan założenia", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_SUB_CATEGORY_SELECT_INFO_body", "source": "Title Info", "translation": "Informacje o tytule", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_USING_EFFEET_NONE_body", "source": "No currently active effect.", "translation": "Brak aktywnego efektu.", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_USING_NONE_MESSAGE_body", "source": "You can earn various titles through your adventures.", "translation": "Podczas przygód możesz zdobywać różne tytuły.", "status": "draft"}
+{"id": "String_UI_TITLE_MAIN_USING_NONE_body", "source": "No currently active title.", "translation": "Brak aktywnego tytułu.", "status": "draft"}
+{"id": "String_UI_TITLE_PANTHEON_body", "source": "Pantheon", "translation": "Pantheon", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_ACCEPT_BUTTON_body", "source": "Obtain", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_APPLY_BUTTON_body", "source": "Equip Title", "translation": "Załóż tytuł", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_EQUIP_APPLY_BUTTON_body", "source": "Equip Effect", "translation": "Załóż efekt", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_EQUIP_REMOVE_BUTTON_body", "source": "Remove Effect", "translation": "Usuń efekt", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_EQUIP_STAT_NOTHING_body", "source": "No equip effect.", "translation": "Brak efektu założenia.", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_EQUIP_STAT_body", "source": "Equipped Effect", "translation": "Efekt założonego tytułu", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_GET_ROUTE_NOTHING_body", "source": "No source information available.", "translation": "Brak informacji o źródle.", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_GET_ROUTE_body", "source": "Source Information", "translation": "Informacje o źródle", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_NOTHING_body", "source": "No titles have been selected.", "translation": "Nie wybrano żadnych tytułów.", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_NOTICE_SERVERTITLE_body", "source": "Share Server", "translation": "Udostępniaj na serwerze", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_REMOVE_BUTTON_body", "source": "Remove Title", "translation": "Usuń tytuł", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_REWARD_BUTTON_ACQUIRED_body", "source": "Obtain", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_REWARD_BUTTON_REWARDED_body", "source": "Obtained", "translation": "Zdobyto", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_REWARD_ITEM_body", "source": "Obtained Rewards", "translation": "Zdobyte nagrody", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_REWARD_NOTHING_body", "source": "No title rewards available to collect.", "translation": "Brak nagród za tytuł do odebrania.", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_STAT_NOTHING_body", "source": "No owned effects.", "translation": "Brak posiadanych efektów.", "status": "draft"}
+{"id": "String_UI_TITLE_SELECT_STAT_body", "source": "Owned Effect", "translation": "Posiadany efekt", "status": "draft"}
+{"id": "String_UI_TITLE_STATCATEGORY_FIRST_body", "source": "Offensive", "translation": "Atak", "status": "draft"}
+{"id": "String_UI_TITLE_STATCATEGORY_SECOND_body", "source": "Defensive", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_TITLE_STATCATEGORY_THIRD_body", "source": "Other", "translation": "Inne", "status": "draft"}
+{"id": "String_UI_TITLE_STATTYPE_ATTACK_body", "source": "Offensive", "translation": "Atak", "status": "draft"}
+{"id": "String_UI_TITLE_STATTYPE_DEFENSE_body", "source": "Defensive", "translation": "Obrona", "status": "draft"}
+{"id": "String_UI_TITLE_STATTYPE_SPESIAL_body", "source": "Other", "translation": "Inne", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_FIFTH_body", "source": "Secret", "translation": "Sekretne", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_FIRST_body", "source": "Quest", "translation": "Zadanie", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_FOURTH_body", "source": "World Event", "translation": "Wydarzenie światowe", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_SECOND_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "String_UI_TITLE_TAB_NAME_THIRD_body", "source": "Achievements", "translation": "Osiągnięcia", "status": "draft"}
+{"id": "String_UI_TITLE_TITLE_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "String_UI_TRADE_ACCOUNT_ID_LOCK_BUTTON_HELP_SERVICE_body", "source": "1:1 Inquiry", "translation": "Zapytanie 1:1", "status": "draft"}
+{"id": "String_UI_TRADE_ACCOUNT_ID_LOCK_BUTTON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_TRADE_ACCOUNT_ID_LOCK_TEXT_body", "source": "This account is restricted from using the Market.\nPlease contact us via 1:1 Inquiry for more details.", "translation": "To konto nie może korzystać z rynku.\nAby uzyskać więcej informacji, skontaktuj się z nami przez zapytanie 1:1.", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_ALL_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_ALL_PRICE_body", "source": "Total Settlement Amount", "translation": "Łączna kwota rozliczenia", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_BTN_body", "source": "Settlement", "translation": "Rozlicz", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_ALL_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_ALL_PRICE_body", "source": "Total Settlement Amount", "translation": "Łączna kwota rozliczenia", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_COMPLETE_NUMBER_body", "source": "{0} Listing(s)", "translation": "Liczba ofert: {0}", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_COMPLETE_body", "source": "Completed Settlement", "translation": "Rozliczenie zakończone", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_NO_LIST_TEXT_body", "source": "No settlement details for the past month.", "translation": "Brak szczegółów rozliczenia z ostatniego miesiąca.", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_HISTORY_TAB_body", "source": "Settlement Details", "translation": "Szczegóły rozliczenia", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_NO_LIST_TEXT_body", "source": "No items have been sold.", "translation": "Nie sprzedano żadnych przedmiotów.", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_PRICE_body", "source": "Settlement Amount", "translation": "Kwota rozliczenia", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_SELL_COMPLETE_NUMBER_body", "source": "{0} Listing(s)", "translation": "Liczba ofert: {0}", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_SELL_COMPLETE_body", "source": "Completed Sale", "translation": "Sprzedaż zakończona", "status": "draft"}
+{"id": "String_UI_TRADE_CALCULATE_TAB_body", "source": "Settlement", "translation": "Rozliczenie", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_PURCHASE_MAX_body", "source": "Max Purchase Limit", "translation": "Maksymalny limit zakupu", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_PURCHASE_TOTAL_body", "source": "Total Daily Purchase", "translation": "Łączna dzienna wartość zakupów", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_TOOLTIP_CONFIDENCE_STEP_body", "source": "{0} Purchase Limit", "translation": "Limit zakupu {0}", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_TOOLTIP_GUIDE_TEXT_body", "source": "You can buy items within the set Kina limit.", "translation": "Możesz kupować przedmioty w ramach ustalonego limitu Kina.", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_TOOLTIP_RESET_TIME_body", "source": "Resets every {0}.", "translation": "Reset co {0}.", "status": "draft"}
+{"id": "String_UI_TRADE_DAILY_BUY_LIMIT_TOOLTIP_TITLE_body", "source": "Daily Max Purchase Limit", "translation": "Dzienny limit zakupów", "status": "draft"}
+{"id": "String_UI_TRADE_EXCHANGE_BUY_NOT_ENOUGH_MONEY_GO_SHOP_body", "source": "Go to Shop", "translation": "Przejdź do sklepu", "status": "draft"}
+{"id": "String_UI_TRADE_EXCHANGE_SERVER_MENU_LINK_TEXT_body", "source": "Exchange", "translation": "Giełda", "status": "draft"}
+{"id": "String_UI_TRADE_EXCHANGE_TAB_body", "source": "Exchange", "translation": "Giełda", "status": "draft"}
+{"id": "String_UI_TRADE_EXCHANGE_WORLD_MENU_LINK_TEXT_body", "source": "World Exchange", "translation": "Giełda światowa", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_001_body", "source": "Blind", "translation": "Oślepienie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_002_body", "source": "Restrain", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_003_body", "source": "Seal", "translation": "Pieczęć", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_004_body", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_005_body", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_006_body", "source": "Paralyze", "translation": "Paraliż", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_007_body", "source": "Move Speed Reduction", "translation": "Obniżenie szybkości ruchu", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_008_body", "source": "Combat Speed Reduction", "translation": "Obniżenie szybkości ataku", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_009_body", "source": "Poison", "translation": "Zatrucie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_010_body", "source": "Bleed", "translation": "Krwawienie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_011_body", "source": "Fire Damage (Single-target)", "translation": "Obrażenia od ognia (cel pojedynczy)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_012_body", "source": "Water Damage (Single-target)", "translation": "Obrażenia od wody (cel pojedynczy)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_013_body", "source": "Earth Damage (Single-target)", "translation": "Obrażenia od ziemi (cel pojedynczy)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_014_body", "source": "Wind Damage (Single-target)", "translation": "Obrażenia od wiatru (cel pojedynczy)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_015_body", "source": "Fire Damage (AoE)", "translation": "Obrażenia od ognia (obszarowe)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_016_body", "source": "Water Damage (AoE)", "translation": "Obrażenia od wody (obszarowe)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_017_body", "source": "Earth Damage (AoE)", "translation": "Obrażenia od ziemi (obszarowe)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_018_body", "source": "Wind Damage (AoE)", "translation": "Obrażenia od wiatru (obszarowe)", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_019_body", "source": "HP Regen A", "translation": "Regeneracja PŻ A", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_020_body", "source": "HP Regen B", "translation": "Regeneracja PŻ B", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_021_body", "source": "Impact-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu uderzenie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_022_body", "source": "Ailment-type-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu dolegliwość", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_023_body", "source": "Mental-type-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu mentalnego", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_024_body", "source": "Defense Up", "translation": "Zwiększenie obrony", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_025_body", "source": "Evasion Up", "translation": "Zwiększenie uniku", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_026_body", "source": "Block Up", "translation": "Zwiększenie blokowania", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_027_body", "source": "Critical Tolerance Up", "translation": "Zwiększenie odporności na cios krytyczny", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_028_body", "source": "Damage Up", "translation": "Zwiększenie obrażeń", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_029_body", "source": "Accuracy Up", "translation": "Zwiększenie celności", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_030_body", "source": "Critical Up", "translation": "Premia do trafień krytycznych", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_031_body", "source": "Enmity Boost", "translation": "Zwiększenie wrogości", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_OPTIONS_TITLE_body", "source": "Sorting Options", "translation": "Opcje sortowania", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_ASC_body", "source": "By Grade Ascending", "translation": "Rosnąco według rangi", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_DESC_body", "source": "By Grade Descending", "translation": "Malejąco według rangi", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_RACE_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_RACE_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_RACE_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
+{"id": "String_UI_TRADE_GRADE_FILTER_TITLE_body", "source": "Grade", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_TRADE_ITEMLIST_MY_ITEM_TEXT_body", "source": "Items Registered by Me", "translation": "Przedmioty wystawione przeze mnie", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_INFO_body", "source": "Item", "translation": "Przedmiot", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_OPTION_body", "source": "Properties", "translation": "Właściwości", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_EACH_NUMBER_body", "source": "{0} per item", "translation": "{0} za sztukę", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_EACH_body", "source": "Sale Price Per Item", "translation": "Cena sprzedaży za sztukę", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_LOW_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_LOW_body", "source": "Lowest Sale Price", "translation": "Najniższa cena sprzedaży", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_PRICE_body", "source": "Sale Price", "translation": "Cena sprzedaży", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_TIME_END_body", "source": "Period has expired", "translation": "Okres minął", "status": "draft"}
+{"id": "String_UI_TRADE_ITEM_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_BOOKMARK_ENCHANT_INFO_NUMBER_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_BOOKMARK_ENCHANT_INFO_body", "source": "Max Enhance", "translation": "Maks. wzmocnienie", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BEFORE_BTN_body", "source": "Previous", "translation": "Poprzednia", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ALL_BTN_body", "source": "Purchase Selection {0}/5", "translation": "Kup zaznaczone {0}/5", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_CONFIRM_BTN_body", "source": "Purchase", "translation": "Kup", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ITEM_COUNT_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ITEM_COUNT_body", "source": "Purchase Quantity", "translation": "Liczba zakupów", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_NOT_ENOUGH_MONEY_BTN_body", "source": "Purchase Quna", "translation": "Kup Quna", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_NOT_ENOUGH_MONEY_TEXT_body", "source": "Insufficient funds to purchase.", "translation": "Za mało środków na zakup.", "status": "draft"}
+{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}

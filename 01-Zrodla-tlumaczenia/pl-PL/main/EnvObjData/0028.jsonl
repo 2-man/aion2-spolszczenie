@@ -1,0 +1,62 @@
+{"id": "EnvObjData_Test_SocialAction_Chair_001_desc", "source": "Social Action_Chair", "translation": "Social Action_Chair", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_Prop_001_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_Prop_Small_001_desc", "source": "Chair (Flight Circle Test)", "translation": "Chair (Flight Circle Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_Prop_Small_002_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SpawnPortal_01_001_desc", "source": "Dungeon Interior Portal for Spawning", "translation": "Portal generowania wewnątrz lochu", "status": "draft"}
+{"id": "EnvObjData_Test_SpellTrace_01_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
+{"id": "EnvObjData_Test_SpellTrace_02_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
+{"id": "EnvObjData_Test_Suppression_ArenaArtifact_desc", "source": "Golden Odyle Drop", "translation": "Złoty Odyl", "status": "draft"}
+{"id": "EnvObjData_Test_Teleport_Rift_01_001_desc", "source": "Spacetime Portal", "translation": "Portal czasoprzestrzenny", "status": "draft"}
+{"id": "EnvObjData_Test_Trap_01_001_desc", "source": "Trap", "translation": "Pułapka", "status": "draft"}
+{"id": "EnvObjData_Test_Void_Despawn_001_desc", "source": "Void Exit Gate", "translation": "Brama wyjściowa Pustki", "status": "draft"}
+{"id": "EnvObjData_Test_Void_Spawn_001_desc", "source": "Void Spawn Gate", "translation": "Brama pojawiania się Pustki", "status": "draft"}
+{"id": "EnvObjData_Test_aerial_001_desc", "source": "Midair Gathered Material", "translation": "Zebrany materiał w powietrzu", "status": "draft"}
+{"id": "EnvObjData_Test_attack_001_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_Test_attack_002_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_Test_common_none_eye_01_001_desc", "source": "Kaisinel's Third Eye", "translation": "Trzecie Oko Kaisinel", "status": "draft"}
+{"id": "EnvObjData_Test_decayingcorpse_001_desc", "source": "Decaying Corpse", "translation": "Rozkładające się zwłoki", "status": "draft"}
+{"id": "EnvObjData_Test_decayingcorpse_001_interact_desc", "source": "Investigating the Corpse...", "translation": "Badanie zwłok...", "status": "draft"}
+{"id": "EnvObjData_Test_dynamic_01_desc", "source": "Collapsing Floor Mechanism – For Testing", "translation": "Collapsing Floor Mechanism – For Testing", "status": "technical"}
+{"id": "EnvObjData_Test_eventfunc_chatbubble_desc", "source": "chatbubble Test", "translation": "chatbubble Test", "status": "technical"}
+{"id": "EnvObjData_Test_eventfunc_summon_desc", "source": "env summon Test", "translation": "env summon Test", "status": "technical"}
+{"id": "EnvObjData_Test_eventfunc_summonnpc_desc", "source": "env summon Test", "translation": "env summon Test", "status": "technical"}
+{"id": "EnvObjData_Test_eventfuncbox_01_desc", "source": "Test Wooden Chest", "translation": "Test Wooden Chest", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_01_desc", "source": "Interaction Conditions Test Entity 01", "translation": "Interaction Conditions Test Entity 01", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_02_desc", "source": "Interaction Conditions Test Entity 02", "translation": "Interaction Conditions Test Entity 02", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_03_desc", "source": "Interaction Conditions Test Entity 03", "translation": "Interaction Conditions Test Entity 03", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_04_desc", "source": "Interaction Conditions Test Entity 04", "translation": "Interaction Conditions Test Entity 04", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_05_desc", "source": "Interaction Conditions Test Entity 05", "translation": "Interaction Conditions Test Entity 05", "status": "technical"}
+{"id": "EnvObjData_Test_interaction_test_06_desc", "source": "Interaction Conditions Test Entity 06", "translation": "Interaction Conditions Test Entity 06", "status": "technical"}
+{"id": "EnvObjData_Test_interacttype_001_desc", "source": "Proceed with quest step", "translation": "Przejdź do etapu zadania", "status": "draft"}
+{"id": "EnvObjData_Test_interacttype_002_desc", "source": "Proceed with quest step 2", "translation": "Przejdź do etapu zadania 2", "status": "draft"}
+{"id": "EnvObjData_Test_interacttype_003_desc", "source": "Quest Complete", "translation": "Zadanie ukończone", "status": "draft"}
+{"id": "EnvObjData_Test_interacttype_004_desc", "source": "Quest Incomplete", "translation": "Zadanie nieukończone", "status": "draft"}
+{"id": "EnvObjData_Test_interacttype_005_desc", "source": "Quest Incomplete 2", "translation": "Zadanie nieukończone 2", "status": "draft"}
+{"id": "EnvObjData_Test_interacttype_006_desc", "source": "Quest Complete 2", "translation": "Zadanie ukończone 2", "status": "draft"}
+{"id": "EnvObjData_Test_overlap_HpMarble_001_desc", "source": "Test_Blood Orb", "translation": "Test_Blood Orb", "status": "technical"}
+{"id": "EnvObjData_Test_partyUI_001_desc", "source": "Enter Draupnir", "translation": "Wejdź do Draupnira", "status": "draft"}
+{"id": "EnvObjData_Test_partyUI_002_desc", "source": "Enter Fire Temple", "translation": "Wejdź do Świątyni Ognia", "status": "draft"}
+{"id": "EnvObjData_Test_pvp_buff_001_desc", "source": "Golden Odyle Drop", "translation": "Złoty Odyl", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch01_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch01_buff_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch02_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch02_buff_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch03_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_pvpswitch03_buff_001_desc", "source": "Statue Switch", "translation": "Przełącznik posągu", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_01_desc", "source": "Blood Orb Test Chest", "translation": "Testowa skrzynia Kuli Krwi", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_01_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_02_desc", "source": "Blood Orb Test Chest 2", "translation": "Testowa skrzynia Kuli Krwi 2", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_02_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_03_desc", "source": "Blood Orb Test Chest 3", "translation": "Testowa skrzynia Kuli Krwi 3", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_03_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_04_desc", "source": "Blood Orb Test Chest 4", "translation": "Testowa skrzynia Kuli Krwi 4", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_04_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_05_desc", "source": "Blood Orb Test Chest 5 Dive", "translation": "Testowa skrzynia Kuli Krwi 5 (nurkowanie)", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_05_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_Random_01_desc", "source": "Blood Orb Test Chest Random", "translation": "Losowa testowa skrzynia Kuli Krwi", "status": "draft"}
+{"id": "EnvObjData_Test_recoveryOrbBox_Random_01_interact_desc", "source": "Opening the Chest...", "translation": "Otwieranie skrzyni...", "status": "draft"}
+{"id": "EnvObjData_Test_same_parent_spawn_max_count_001_desc", "source": "Oak Barrel", "translation": "Dębowa beczka", "status": "draft"}
+{"id": "EnvObjData_Test_treasurebox_001_desc", "source": "Key Open Treasure Chest", "translation": "Skrzynia skarbów otwierana kluczem", "status": "draft"}
+{"id": "EnvObjData_Test_treasurebox_001_interact_desc", "source": "Opening Treasure Chest...", "translation": "Otwieranie skrzyni ze skarbem...", "status": "draft"}
+{"id": "EnvObjData_Test_treasurebox_002_desc", "source": "Key Open Treasure Chest", "translation": "Skrzynia skarbów otwierana kluczem", "status": "draft"}
+{"id": "EnvObjData_Test_treasurebox_002_interact_desc", "source": "Opening Treasure Chest...", "translation": "Otwieranie skrzyni ze skarbem...", "status": "draft"}

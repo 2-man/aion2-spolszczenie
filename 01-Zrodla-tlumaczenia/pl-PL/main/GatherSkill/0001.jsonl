@@ -1,0 +1,42 @@
+{"id": "GatherSkill_Food_60800_desc_long", "source": "Grants the ability to see the locations of Cooking Ingredients on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania składników kulinarnych.", "status": "draft"}
+{"id": "GatherSkill_Food_60800_string_skill", "source": "Cooking Ingredient Seeker", "translation": "Wykrywanie składników kulinarnych", "status": "draft"}
+{"id": "GatherSkill_Food_61000_desc_long", "source": "Enables the harvesting of greater quantities of Cooking Ingredients.", "translation": "Pozwala zbierać większe ilości składników kulinarnych.", "status": "draft"}
+{"id": "GatherSkill_Food_61000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Food_61200_desc_long", "source": "Grants a chance to discover more Cooking Ingredients.", "translation": "Daje szansę na znalezienie większej ilości składników kulinarnych.", "status": "draft"}
+{"id": "GatherSkill_Food_61200_string_skill", "source": "Cooking Ingredient Appraiser", "translation": "Rzeczoznawca składników kulinarnych", "status": "draft"}
+{"id": "GatherSkill_Herb_50800_desc_long", "source": "Grants the ability to see the locations of Herbs on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania ziół.", "status": "draft"}
+{"id": "GatherSkill_Herb_50800_string_skill", "source": "Herb Seeker", "translation": "Wykrywanie ziół", "status": "draft"}
+{"id": "GatherSkill_Herb_51000_desc_long", "source": "Enables the harvesting of greater quantities of Herbs.", "translation": "Pozwala zbierać większe ilości ziół.", "status": "draft"}
+{"id": "GatherSkill_Herb_51000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Herb_51200_desc_long", "source": "Grants a chance to discover higher-grade Herbs.", "translation": "Daje szansę na znalezienie ziół wyższej jakości.", "status": "draft"}
+{"id": "GatherSkill_Herb_51200_string_skill", "source": "Herb Appraiser", "translation": "Rzeczoznawca ziół", "status": "draft"}
+{"id": "GatherSkill_Jewelry_20800_desc_long", "source": "Grants the ability to see the locations of Gems on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania klejnotów.", "status": "draft"}
+{"id": "GatherSkill_Jewelry_20800_string_skill", "source": "Gem Seeker", "translation": "Wykrywanie klejnotów", "status": "draft"}
+{"id": "GatherSkill_Jewelry_21000_desc_long", "source": "Enables the harvesting of greater quantities of Gems.", "translation": "Pozwala zbierać większe ilości klejnotów.", "status": "draft"}
+{"id": "GatherSkill_Jewelry_21000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Jewelry_21200_desc_long", "source": "Grants a chance to discover higher-grade Gems.", "translation": "Daje szansę na znalezienie klejnotów wyższej jakości.", "status": "draft"}
+{"id": "GatherSkill_Jewelry_21200_string_skill", "source": "Gem Appraiser", "translation": "Rzeczoznawca klejnotów", "status": "draft"}
+{"id": "GatherSkill_Metal_10800_desc_long", "source": "Grants the ability to see the locations of Ores on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania rud.", "status": "draft"}
+{"id": "GatherSkill_Metal_10800_string_skill", "source": "Ore Seeker", "translation": "Wykrywanie rud", "status": "draft"}
+{"id": "GatherSkill_Metal_11000_desc_long", "source": "Enables the harvesting of greater quantities of Ores.", "translation": "Pozwala zbierać większe ilości rud.", "status": "draft"}
+{"id": "GatherSkill_Metal_11000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Metal_11200_desc_long", "source": "Grants a chance to discover higher-grade Ores.", "translation": "Daje szansę na znalezienie rud wyższej jakości.", "status": "draft"}
+{"id": "GatherSkill_Metal_11200_string_skill", "source": "Ore Appraiser", "translation": "Rzeczoznawca rud", "status": "draft"}
+{"id": "GatherSkill_None_100_desc_long", "source": "Reduces Failure Gauge increase amount through a delicate touch.", "translation": "Delikatny dotyk zmniejsza przyrost wskaźnika niepowodzeń.", "status": "draft"}
+{"id": "GatherSkill_None_100_string_skill", "source": "Delicate Touch", "translation": "Delikatny dotyk", "status": "draft"}
+{"id": "GatherSkill_None_300_desc_long", "source": "Improves the chance of greatly increasing the Success Gauge at a critical moment.", "translation": "Zwiększa szansę na znaczne zwiększenie wskaźnika powodzenia w kluczowym momencie.", "status": "draft"}
+{"id": "GatherSkill_None_300_string_skill", "source": "Lady Luck", "translation": "Pani Fortuna", "status": "draft"}
+{"id": "GatherSkill_None_800_desc_long", "source": "Improves Success Gauge increase amount through proficient handling.", "translation": "Wprawne działanie zwiększa przyrost wskaźnika powodzenia.", "status": "draft"}
+{"id": "GatherSkill_None_800_string_skill", "source": "Proficient Handling", "translation": "Wprawne działanie", "status": "draft"}
+{"id": "GatherSkill_Od_70800_desc_long", "source": "Grants the ability to see the locations of Odyle on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania Odyle.", "status": "draft"}
+{"id": "GatherSkill_Od_70800_string_skill", "source": "Odyle Seeker", "translation": "Wykrywanie Odyle", "status": "draft"}
+{"id": "GatherSkill_Od_71000_desc_long", "source": "Enables the harvesting of greater quantities of Odyle.", "translation": "Pozwala zbierać większe ilości Odyle.", "status": "draft"}
+{"id": "GatherSkill_Od_71000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Od_71200_desc_long", "source": "Grants a chance to discover higher-grade Odyle.", "translation": "Daje szansę na znalezienie Odyle wyższej jakości.", "status": "draft"}
+{"id": "GatherSkill_Od_71200_string_skill", "source": "Odyle Appraiser", "translation": "Rzeczoznawca Odyle", "status": "draft"}
+{"id": "GatherSkill_Tree_30800_desc_long", "source": "Grants the ability to see the locations of Logs on the compass.", "translation": "Pozwala dostrzegać na kompasie miejsca występowania kłód.", "status": "draft"}
+{"id": "GatherSkill_Tree_30800_string_skill", "source": "Log Seeker", "translation": "Wykrywanie kłód", "status": "draft"}
+{"id": "GatherSkill_Tree_31000_desc_long", "source": "Enables the harvesting of greater quantities of Logs.", "translation": "Pozwala zbierać większe ilości kłód.", "status": "draft"}
+{"id": "GatherSkill_Tree_31000_string_skill", "source": "Plentiful Harvest", "translation": "Obfite zbiory", "status": "draft"}
+{"id": "GatherSkill_Tree_31200_desc_long", "source": "Grants a chance to discover higher-grade Logs.", "translation": "Daje szansę na znalezienie kłód wyższej jakości.", "status": "draft"}
+{"id": "GatherSkill_Tree_31200_string_skill", "source": "Log Appraiser", "translation": "Rzeczoznawca kłód", "status": "draft"}

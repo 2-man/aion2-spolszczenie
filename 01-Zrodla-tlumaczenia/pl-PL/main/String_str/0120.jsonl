@@ -1,0 +1,250 @@
+{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_5_body", "source": "Blow up the Stone Wall", "translation": "Wysadź kamienny mur", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_6_body", "source": "Go behind the obstruction near the Blades", "translation": "Przejdź za przeszkodę w pobliżu Ostrzy", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_7_body", "source": "Search the Stone Wall in the yard", "translation": "Przeszukaj kamienny mur na dziedzińcu", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_StorageYard_01_Title_body", "source": "Discover the base of the Blades", "translation": "Odkryj bazę Ostrzy", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_1_body", "source": "Investigate the Abandoned Campsite", "translation": "Zbadaj opuszczone obozowisko", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_2_body", "source": "Search the Abandoned Campsite", "translation": "Przeszukaj opuszczone obozowisko", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_3_body", "source": "Enter the campsite", "translation": "Wejdź do obozowiska", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_4_body", "source": "Eliminate the searching Blades", "translation": "Wyeliminuj przeszukujące teren Ostrza", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_5_body", "source": "Defeat the Blades inside the campsite", "translation": "Pokonaj Ostrza w obozowisku", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_6_body", "source": "Listen to the situation from the hiding Daeva", "translation": "Wysłuchaj ukrywającego się daeva", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_AbandonedCampsite_01_Desc_7_body", "source": "Talk to Pordhet", "translation": "Porozmawiaj z Pordhetem", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_10_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_1_body", "source": "Discover the base of the Blades", "translation": "Odkryj bazę Ostrzy", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_2_body", "source": "Discover the Blades Hideout", "translation": "Odkryj kryjówkę Ostrzy", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_3_body", "source": "Enter the Merchant's Yard", "translation": "Wejdź na Dziedziniec Kupiecki", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_4_body", "source": "Eliminate the Blades inside the Merchant's Yard", "translation": "Wyeliminuj Ostrza na Dziedzińcu Kupieckim", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_5_body", "source": "Defeat the Blood Blade Members", "translation": "Pokonaj członków Krwawych Ostrzy", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_6_body", "source": "Search inside the Merchant's Yard", "translation": "Przeszukaj Dziedziniec Kupiecki", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_7_body", "source": "Inspect the Dropped Notebook", "translation": "Zbadaj upuszczony notes", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_8_body", "source": "Examine the Ledger", "translation": "Zbadaj rejestr", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WGC_StorageYard_01_Desc_9_body", "source": "Discuss the next step with Nemon", "translation": "Omów następny krok z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_1_body", "source": "Go deeper into the Camp", "translation": "Udaj się głębiej do obozu", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_3_body", "source": "Defeat the Mumu inside the camp", "translation": "Pokonaj Mumu w obozie", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_4_body", "source": "Defeat Mumu Overseer", "translation": "Pokonaj Nadzorca Mumu", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_5_body", "source": "Destroy the Central Surveillance Device", "translation": "Zniszcz Centralne Urządzenie Obserwacyjne", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_6_body", "source": "Investigate the documents inside the watchtower", "translation": "Zbadaj dokumenty wewnątrz wieży strażniczej", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_7_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Desc_8_body", "source": "Go toward the exit with Nemon and Ulgorn", "translation": "Udaj się do wyjścia z Nemonem i Ulgornem", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Step_1_body", "source": "Neutralize the Watchtower Camp", "translation": "Unieszkodliw obóz przy wieży strażniczej", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Step_2_body", "source": "Investigate the Watchtower Camp", "translation": "Zbadaj obóz przy wieży strażniczej", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_WatchTowerBarracks_Step_4_body", "source": "Search inside the camp", "translation": "Przeszukaj obóz", "status": "draft"}
+{"id": "String_STR_MapEvent_D1_human_Garrision_1_Desc_2_body", "source": "Defeat the marauder leader", "translation": "Pokonaj przywódcę rabusiów", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_01_body", "source": "Find the Red Fafnite", "translation": "Znajdź Czerwony Fafnite", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_02_body", "source": "Run to the door", "translation": "Biegnij do drzwi", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_03_body", "source": "Open the Fafnir Fortress Door", "translation": "Otwórz drzwi Fortecy Fafnira", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_04_body", "source": "Defeat the Fafnir Drakan", "translation": "Pokonaj Drakanów Fafnira", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_05_body", "source": "Approach Hugo", "translation": "Podejdź do Hugo", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_06_body", "source": "Destroy the Cracked Door", "translation": "Zniszcz popękane drzwi", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_07_body", "source": "Climb over the remnants", "translation": "Przejdź po rumowisku", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_08_body", "source": "Check the Mercenary Corpse", "translation": "Zbadaj zwłoki najemnika", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_09_body", "source": "Take weapons from the Mercenary Corpse and defeat the other Drakan", "translation": "Zabierz broń ze zwłok najemnika i pokonaj pozostałych Drakan", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_10_body", "source": "Check the Fafnite Storage Room with Nemon", "translation": "Sprawdź magazyn Fafnite razem z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_11_body", "source": "Follow Nemon", "translation": "Podążaj za Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_12_body", "source": "Defeat Rakut", "translation": "Pokonaj Rakut", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_13_body", "source": "Escape Fafnir Fortress", "translation": "Ucieknij z Fortecy Fafnira", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_14_body", "source": "Descend the hill", "translation": "Zejdź ze wzgórza", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_15_body", "source": "Defeat Fafnir Drakan on the way", "translation": "Pokonaj napotkanych Drakanów Fafnira", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_16_body", "source": "Pass through the narrow gap", "translation": "Przejdź przez wąską szczelinę", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_17_body", "source": "Leave the hill area", "translation": "Opuść obszar wzgórz", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_18_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_19_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_1_20_body", "source": "Check another Fafnite Storage Room", "translation": "Sprawdź kolejny magazyn Fafnite", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_01_body", "source": "Search for prisoners in the compound", "translation": "Poszukaj więźniów w kompleksie", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_02_body", "source": "Open the Prison Compound Door", "translation": "Otwórz drzwi kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_03_body", "source": "Talk to the prisoner Hergal", "translation": "Porozmawiaj z więźniem Hergalem", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_04_body", "source": "Go to the Control Room", "translation": "Udaj się do Sali Kontrolnej", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_05_body", "source": "Defeat the Draconute in the control room", "translation": "Pokonaj drakonuta w Sali Kontrolnej", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_06_body", "source": "Operate the Prison Lever", "translation": "Uruchom dźwignię więzienną", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_2_07_body", "source": "Escape the prison compound through the window", "translation": "Ucieknij z kompleksu więziennego przez okno", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_10_body", "source": "Follow the canyon path", "translation": "Podążaj ścieżką kanionu", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_1_body", "source": "Defeat the Mind-Controlled Villagers", "translation": "Pokonaj wieśniaków pod kontrolą umysłu", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_2_body", "source": "Go to the vine gorge entrance", "translation": "Udaj się do wejścia do Wąwozu Pnączy", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_3_body", "source": "Clear the vines and go deeper in", "translation": "Usuń pnącza i ruszaj dalej w głąb", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_4_body", "source": "Go into the canyon", "translation": "Wejdź do kanionu", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_5_body", "source": "Defeat the village chief Pelleir", "translation": "Pokonaj wodza wioski Pelleira", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_6_body", "source": "Find the airship", "translation": "Znajdź statek powietrzny", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_7_body", "source": "Escape from Ishalgen", "translation": "Ucieknij z Ishalgen", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_8_body", "source": "Talk to Garlond", "translation": "Porozmawiaj z Garlondem", "status": "draft"}
+{"id": "String_STR_MapEvent_D_Starter_Layer_3_9_body", "source": "Help Garlond and others who got ambushed", "translation": "Pomóż Garlondowi i pozostałym napadniętym", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_1_body", "source": "Defeat Willful Turgen", "translation": "Pokonaj Nieugięty Turgen", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_2_body", "source": "Proceed outside the Tarnished Ramparts", "translation": "Wyjdź poza Zmatowiałe Wały", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_3_body", "source": "Defeat Forbidden Hexbeast Griosa", "translation": "Pokonaj Zakazana bestia klątw Griosa", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_4_body", "source": "Open Execution’s Crossing Door", "translation": "Otwórz drzwi Przejścia Egzekucji", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_5_body", "source": "Break through the Execution’s Crossing", "translation": "Przedrzyj się przez Przejście Egzekucji", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_6_body", "source": "Go deeper into the Arena of Defiled Honor", "translation": "Udaj się głębiej na Arenę Zbezczeszczonego Honoru", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_7_body", "source": "Defeat Basilus the False", "translation": "Pokonaj Basilus Fałszywy", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_1_body", "source": "Defeat Willful Turgen", "translation": "Pokonaj Nieugięty Turgen", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_2_body", "source": "Proceed outside the Tarnished Ramparts", "translation": "Wyjdź poza Zmatowiałe Wały", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_3_body", "source": "Defeat Forbidden Hexbeast Griosa", "translation": "Pokonaj Zakazana bestia klątw Griosa", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_4_body", "source": "Open Execution’s Crossing Door", "translation": "Otwórz drzwi Przejścia Egzekucji", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_5_body", "source": "Break through the Execution’s Crossing", "translation": "Przedrzyj się przez Przejście Egzekucji", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_6_body", "source": "Go deeper into the Defiled Hall of Honor", "translation": "Udaj się głębiej do Zbezczeszczonej Sali Honoru", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_7_body", "source": "Bind Kibelisk in the Arena of Defiled Honor", "translation": "Zwiąż się z Kibeliskiem na Arenie Zbezczeszczonego Honoru", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaCitadel_Easy_8_body", "source": "Defeat Basilus the False", "translation": "Pokonaj Basilus Fałszywy", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_01_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraD_03_01}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraD_03_01}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_02_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_09_02}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_09_02}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_03_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_08_03}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_08_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_04_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraD_03_04}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraD_03_04}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_05_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_09_05}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_09_05}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_06_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_08_06}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_08_06}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_07_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraD_03_07}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraD_03_07}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_08_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_09_08}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_09_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_09_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_08_09}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_08_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_10_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraD_03_10}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraD_03_10}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_11_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_09_11}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_09_11}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_12_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_08_12}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_08_12}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_13_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraD_03_13}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraD_03_13}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_14_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_09_14}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_09_14}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_15_Desc_body", "source": "Defeat {NPC:M_D1_DH_BeritraC_08_15}", "translation": "Pokonaj {NPC:M_D1_DH_BeritraC_08_15}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D1_1_Desc_1_body", "source": "Defeat Brutal Zrash", "translation": "Pokonaj Brutalny Zrash", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_01_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraD_03_01}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraD_03_01}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_02_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraC_09_02}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraC_09_02}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_03_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraC_08_03}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraC_08_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_04_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraD_03_04}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraD_03_04}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_05_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraC_09_05}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraC_09_05}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_06_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraC_08_06}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraC_08_06}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_D2_07_Desc_body", "source": "Defeat {NPC:M_D2_DH_BeritraD_03_07}", "translation": "Pokonaj {NPC:M_D2_DH_BeritraD_03_07}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_01_Desc_body", "source": "Defeat {NPC:M_L1_DH_1_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L1_DH_1_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_02_Desc_body", "source": "Defeat {NPC:M_L1_DH_2_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L1_DH_2_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_03_Desc_body", "source": "Defeat {NPC:M_L1_DH_3_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L1_DH_3_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_04_Desc_body", "source": "Defeat {NPC:M_L1_DH_4_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L1_DH_4_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_05_Desc_body", "source": "Defeat {NPC:M_L1_DH_5_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L1_DH_5_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_06_Desc_body", "source": "Defeat {NPC:M_L1_DH_6_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L1_DH_6_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_07_Desc_body", "source": "Defeat {NPC:M_L1_DH_7_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L1_DH_7_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_08_Desc_body", "source": "Defeat {NPC:M_L1_DH_8_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L1_DH_8_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_09_Desc_body", "source": "Defeat {NPC:M_L1_DH_9_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L1_DH_9_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_10_Desc_body", "source": "Defeat {NPC:M_L1_DH_10_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L1_DH_10_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_11_Desc_body", "source": "Defeat {NPC:M_L1_DH_11_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L1_DH_11_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_12_Desc_body", "source": "Defeat {NPC:M_L1_DH_12_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L1_DH_12_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_13_Desc_body", "source": "Defeat {NPC:M_L1_DH_13_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L1_DH_13_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_14_Desc_body", "source": "Defeat {NPC:M_L1_DH_14_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L1_DH_14_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L1_15_Desc_body", "source": "Defeat {NPC:M_L1_DH_15_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L1_DH_15_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_01_Desc_body", "source": "Defeat {NPC:M_L2_DH_1_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L2_DH_1_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_02_Desc_body", "source": "Defeat {NPC:M_L2_DH_2_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L2_DH_2_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_03_Desc_body", "source": "Defeat {NPC:M_L2_DH_3_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L2_DH_3_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_04_Desc_body", "source": "Defeat {NPC:M_L2_DH_4_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L2_DH_4_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_05_Desc_body", "source": "Defeat {NPC:M_L2_DH_5_MOB_BeritraC_09}", "translation": "Pokonaj {NPC:M_L2_DH_5_MOB_BeritraC_09}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_06_Desc_body", "source": "Defeat {NPC:M_L2_DH_6_MOB_BeritraC_08}", "translation": "Pokonaj {NPC:M_L2_DH_6_MOB_BeritraC_08}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_L2_07_Desc_body", "source": "Defeat {NPC:M_L2_DH_7_MOB_BeritraD_03}", "translation": "Pokonaj {NPC:M_L2_DH_7_MOB_BeritraD_03}", "status": "draft"}
+{"id": "String_STR_MapEvent_DaevaHunter_Title_1_body", "source": "Defeat the Daeva Hunter", "translation": "Pokonaj Łowcę Daeva", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_2_Desc_1_body", "source": "Defeat the Leader of the Annex", "translation": "Pokonaj przywódcę przybudówki", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_2_Desc_2_body", "source": "Destroy the Annex's Provisions", "translation": "Zniszcz zapasy przybudówki", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_2_Desc_3_body", "source": "Destroy loot in the territory", "translation": "Zniszcz łupy na tym terenie", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_3_Desc_1_body", "source": "Rescue the captured Elim safely", "translation": "Bezpiecznie uwolnij pojmanego Elima", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_3_Desc_2_body", "source": "Defeat the poacher patrols", "translation": "Pokonaj patrole kłusowników", "status": "draft"}
+{"id": "String_STR_MapEvent_Daeva_Garrision_D1_3_Desc_3_body", "source": "Defeat the poacher leader", "translation": "Pokonaj przywódcę kłusowników", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_1_body", "source": "Leap down to enter the cave", "translation": "Zeskocz w dół, aby wejść do jaskini", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_2_body", "source": "Dive down to enter the cave", "translation": "Zanurkuj, aby wejść do jaskini", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_3_body", "source": "Investigate Dramata Valley", "translation": "Zbadaj Dolinę Dramaty", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_4_body", "source": "[Optional] Defeat Broodkeeper Nayatman or Manager Nasium", "translation": "[Opcjonalnie] Pokonaj opiekuna lęgu Nayatmana lub zarządcę Nasium", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_5_body", "source": "Bind with the Dramata Valley Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Dolinie Dramaty", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_6_body", "source": "Go deeper into Dramata Valley", "translation": "Udaj się głębiej w Dolinę Dramaty", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_7_body", "source": "Go to Durvati's Nest", "translation": "Udaj się do Gniazda Durvatiego", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_8_body", "source": "Defeat Decaying Durvati", "translation": "Pokonaj Rozkładający się Durvati", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_1_body", "source": "Bind with the Dramata Underwater Cave Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Podwodnej Jaskini Dramaty", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_2_body", "source": "Defeat all Dratona Handlers", "translation": "Pokonaj wszystkich treserów Dratony", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_3_body", "source": "Defeat Dratona Tamer", "translation": "Pokonaj Pogromca Dratony", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_4_body", "source": "Defeat Broodkeeper Nayatman", "translation": "Pokonaj Opiekun lęgu Nayatman", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_5_body", "source": "Go into the depths of the Dratona Breeding Ground", "translation": "Udaj się w głąb Wylęgarni Draton", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_6_body", "source": "Defeat Manager Nasium", "translation": "Pokonaj Zarządca Nasium", "status": "draft"}
+{"id": "String_STR_MapEvent_DeadDramatanest_Easy_7_body", "source": "Bind with the Durvati's Nest Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Gnieździe Durvatiego", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_1_body", "source": "Ride the Windstream to go to the Secret Laboratory", "translation": "Skorzystaj ze Strumienia Wiatru, aby dotrzeć do Tajnego Laboratorium", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_2_1_body", "source": "Go to the Pseudo-Odyle Workshop", "translation": "Udaj się do Warsztatu Pseudo-Odyle", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_2_2_body", "source": "[Optional] Operate the lever to disable the lasers", "translation": "[Opcjonalnie] Uruchom dźwignię, aby wyłączyć lasery", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_2_body", "source": "Conduct a stealth operation in the Secret Laboratory", "translation": "Przeprowadź skrytą operację w Tajnym Laboratorium", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_3_body", "source": "Defeat the Veil Administrator", "translation": "Pokonaj administratora Zasłony", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_4_body", "source": "Ride the Updraft to the upper floor", "translation": "Wznieś się prądem wstępującym na górne piętro", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_5_body", "source": "Go to the upper floor", "translation": "Udaj się na górne piętro", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_6_body", "source": "Defeat Atiel", "translation": "Pokonaj Atiel", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_1_body", "source": "Go deeper inside", "translation": "Idź dalej w głąb", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_2_body", "source": "Go on top of the collapsed structure", "translation": "Wejdź na szczyt zawalonej konstrukcji", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_3_body", "source": "Bind with the Kibelisk", "translation": "Zwiąż się z Kibeliskiem", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_4_body", "source": "Defeat Gelcos", "translation": "Pokonaj Gelcos", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_5_body", "source": "Go to the secret data repository", "translation": "Udaj się do tajnego repozytorium danych", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_6_body", "source": "Find all levers to disable the lasers", "translation": "Znajdź wszystkie dźwignie, aby wyłączyć lasery", "status": "draft"}
+{"id": "String_STR_MapEvent_DeusCenter_Easy_7_body", "source": "Defeat Nazmun", "translation": "Pokonaj Nazmun", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_10_body", "source": "Go to Bakarma's Subspace", "translation": "Udaj się do Podprzestrzeni Bakarmy", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_1_body", "source": "Go to the Abyss Control Sector", "translation": "Udaj się do Sektora Kontroli Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_2_body", "source": "Operate the Abyss Entrance Control Device", "translation": "Uruchom urządzenie sterujące wejściem do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_3_body", "source": "Jump into the Wormhole to enter the Abyss", "translation": "Wskocz do tunelu czasoprzestrzennego, aby dostać się do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_4_body", "source": "Operate the Windstream Activation Device", "translation": "Uruchom urządzenie aktywujące Strumień Wiatru", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_5_body", "source": "Go to the Meditation Room", "translation": "Udaj się do Sali Medytacji", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_6_body", "source": "Defeat the Bakarma Brigade", "translation": "Pokonaj Brygadę Bakarmy", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_7_body", "source": "Defeat Petty Officer Akvar", "translation": "Pokonaj Podoficer Akvar", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_8_body", "source": "Defeat Draconute Shadows", "translation": "Pokonaj Draconute Shadows", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_9_body", "source": "Defeat Transcendent Bakarma", "translation": "Pokonaj Transcendentny Bakarma", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc10_body", "source": "Bind with the Meditation Room Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Sali Medytacji", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc11_body", "source": "Go to the Meditation Room", "translation": "Udaj się do Sali Medytacji", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc12_body", "source": "Defeat the Bakarma Brigade", "translation": "Pokonaj Brygadę Bakarmy", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc13_body", "source": "Defeat Petty Officer Akvar", "translation": "Pokonaj Podoficer Akvar", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc14_body", "source": "Defeat Draconute Shadows", "translation": "Pokonaj Draconute Shadows", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc15_body", "source": "Go to Bakarma's Subspace", "translation": "Udaj się do Podprzestrzeni Bakarmy", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc16_body", "source": "Defeat Transcendent Bakarma", "translation": "Pokonaj Transcendentny Bakarma", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc1_body", "source": "Defeat all Klaw Janitors", "translation": "Pokonaj wszystkich woźnych Klaw", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc2_body", "source": "Go to the Abyss Control Sector", "translation": "Udaj się do Sektora Kontroli Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc3_body", "source": "Bind with the Abyss Control Sector Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Sektorze Kontroli Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc4_body", "source": "Operate the Abyss Entrance Control Device", "translation": "Uruchom urządzenie sterujące wejściem do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc5_body", "source": "Leap into the Abyss", "translation": "Skocz do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc6_body", "source": "Defeat Bakarma's Followers", "translation": "Pokonaj Bakarma's Followers", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc7_body", "source": "Defeat Saraswati", "translation": "Pokonaj Saraswati", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc8_body", "source": "Defeat Lakshmi", "translation": "Pokonaj Lakshmi", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_Easy_Desc9_body", "source": "Operate the Windstream Activation Device", "translation": "Uruchom urządzenie aktywujące Strumień Wiatru", "status": "draft"}
+{"id": "String_STR_MapEvent_Draupnir_G_01_1_body", "source": "Defeat Transcendent Bakarma", "translation": "Pokonaj Transcendentny Bakarma", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamCommon_01_body", "source": "Talk to Asahr", "translation": "Porozmawiaj z Asahrem", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamDebris_2_body", "source": "Defeat Dream Guardian and Dream Watcher", "translation": "Pokonaj Strażnika Snu i Obserwatora Snu", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamDebris_3_body", "source": "Resonate with the Dream of Willpower Fragment", "translation": "Zestroj się z Fragmentem Snu o Silnej Woli", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamDebris_4_body", "source": "Defeat Dream Guardian Knight and Dream Knight", "translation": "Pokonaj Rycerza Strażnika Snu i Rycerza Snu", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamDebris_7_body", "source": "Defeat Dream Guardian Eonos", "translation": "Pokonaj Strażnik snu Eonos", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamOfPain_1_body", "source": "Activate the Dream Artifact", "translation": "Aktywuj Artefakt Snu", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamOfPain_2_body", "source": "Awakening Artifact", "translation": "Artefakt Przebudzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamOfPain_3_body", "source": "Understand AION's Past", "translation": "Poznaj przeszłość AION", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamOfPain_5_body", "source": "Witness the dream of the present", "translation": "Zobacz sen o teraźniejszości", "status": "draft"}
+{"id": "String_STR_MapEvent_DreamOfPain_6_body", "source": "Witness the dream of the future", "translation": "Zobacz sen o przyszłości", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_1_body", "source": "Defeat Dredgion Drakan Armed Soldiers", "translation": "Pokonaj uzbrojonych żołnierzy Drakan z Dredgionu", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_2_body", "source": "Defeat Dredgion Drakan Elite Soldiers", "translation": "Pokonaj elitarnych żołnierzy Drakan z Dredgionu", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_3_body", "source": "Defeat Dredgion Drakan Commander", "translation": "Pokonaj dowódcę Drakan z Dredgionu", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_4_body", "source": "Go to the outskirts of the Barrier Tower", "translation": "Udaj się na obrzeża Wieży Bariery", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_5_body", "source": "Go inside the Barrier Tower's perimeter", "translation": "Wejdź na teren Wieży Bariery", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Desc_6_body", "source": "Defeat the Drakan Unit", "translation": "Pokonaj oddział Drakan", "status": "draft"}
+{"id": "String_STR_MapEvent_Dredgion_L1_Test_Title_1_body", "source": "Prevent the Dredgion invasion", "translation": "Powstrzymaj inwazję Dredgionu", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_02_body", "source": "Go to the next floor", "translation": "Udaj się na następne piętro", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_03_body", "source": "Floor 1: Defeat all monsters", "translation": "Piętro 1: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_04_body", "source": "Floor 2: Defeat all monsters", "translation": "Piętro 2: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_05_body", "source": "Floor 3: Defeat all monsters", "translation": "Piętro 3: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_06_body", "source": "Floor 4: Defeat all monsters", "translation": "Piętro 4: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_07_body", "source": "Floor 5: Defeat all monsters", "translation": "Piętro 5: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_08_body", "source": "Floor 6: Defeat all monsters", "translation": "Piętro 6: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_09_body", "source": "Floor 7: Defeat all monsters", "translation": "Piętro 7: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_10_body", "source": "Floor 8: Defeat all monsters", "translation": "Piętro 8: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_11_body", "source": "Floor 9: Defeat all monsters", "translation": "Piętro 9: Pokonaj wszystkie potwory", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonTower_0001_12_body", "source": "Floor 10: Defeat the boss monster", "translation": "Piętro 10: Pokonaj potwora-bossa", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonWave_0001_01_body", "source": "Select effects", "translation": "Wybierz efekty", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonWave_0001_03_body", "source": "Defeat the swarming Experimental Subjects", "translation": "Pokonaj atakujące chmarą obiekty eksperymentalne", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonWave_0001_04_body", "source": "Odyle Spawn Gauge", "translation": "Wskaźnik pojawiania się Odyle", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonWave_0001_05_body", "source": "Exit the dungeon", "translation": "Opuść loch", "status": "draft"}
+{"id": "String_STR_MapEvent_DungeonWave_0001_06_body", "source": "Collect rewards", "translation": "Odbierz nagrody", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_02_body", "source": "Defeat the Seker Brigade", "translation": "Pokonaj Brygadę Seker", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_04_body", "source": "Operate the Windstream Activation Device", "translation": "Uruchom urządzenie aktywujące Strumień Wiatru", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_05_body", "source": "Use the Windstream to approach Narun", "translation": "Skorzystaj ze Strumienia Wiatru, aby zbliżyć się do Naruna", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_07_body", "source": "Subdue insane Narun", "translation": "Obezwładnij oszalałego Naruna", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_08_body", "source": "Talk to Narun", "translation": "Porozmawiaj z Narunem", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0004_09_body", "source": "Resonate with the Dream of Sacrifice Fragment", "translation": "Zestroj się z Fragmentem Snu o Poświęceniu", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0005_01_body", "source": "Enter the first mirror", "translation": "Wejdź do pierwszego lustra", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0005_02_body", "source": "Enter the second mirror", "translation": "Wejdź do drugiego lustra", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0005_03_body", "source": "Enter the third mirror", "translation": "Wejdź do trzeciego lustra", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_01_body", "source": "Head to the rampart", "translation": "Udaj się na wał", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_02_body", "source": "Destroy the Rampart and enter", "translation": "Zniszcz wał i wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_03_body", "source": "Defeat the Drakan Specter", "translation": "Pokonaj widmo Drakan", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_04_body", "source": "Enter the fortress", "translation": "Wejdź do fortecy", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_05_body", "source": "Talk to Satia", "translation": "Porozmawiaj z Satią", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_06_body", "source": "Defeat the Drakan Specter to free the legionnaires", "translation": "Pokonaj widmo Drakan, aby uwolnić legionistów", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_0013_07_body", "source": "Go deeper into the battlefield", "translation": "Udaj się głębiej na pole bitwy", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_01_body", "source": "Open the entrance", "translation": "Otwórz wejście", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_02_body", "source": "Defeat all of the monsters inside the room", "translation": "Pokonaj wszystkie potwory w sali", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_03_body", "source": "Open the entrance of the next room", "translation": "Otwórz wejście do następnej sali", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_04_body", "source": "Defeat the boss", "translation": "Pokonaj bossa", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_05_body", "source": "Dungeon Results", "translation": "Wyniki lochu", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_001_01_06_body", "source": "Enter the Ascension Room", "translation": "Wejdź do Sali Wzniesienia", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_003_01_01_body", "source": "Open the entrance", "translation": "Otwórz wejście", "status": "draft"}
+{"id": "String_STR_MapEvent_Dungeon_Awaken_003_01_02_body", "source": "Defeat all of the monsters inside the room", "translation": "Pokonaj wszystkie potwory w sali", "status": "draft"}

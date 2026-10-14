@@ -1,0 +1,160 @@
+{"id":"Message_MSG_Soul_Bind_fail_Canceled_body","source":"Soul Binding was forcibly canceled.","translation":"Związanie duszy zostało wymuszone i anulowane.","status":"draft"}
+{"id":"Message_MSG_Soul_Bind_fail_InvalidData_body","source":"Cannot be Soul Bound.","translation":"Nie można związać tego z duszą.","status":"draft"}
+{"id":"Message_MSG_Soul_Bind_fail_Level_body","source":"Insufficient level to Soul Bind this gear.","translation":"Poziom jest zbyt niski, aby związać to wyposażenie z duszą.","status":"draft"}
+{"id":"Message_MSG_Soul_Bind_fail_OtherActions_body","source":"Cannot Soul Bind while engaged in other actions.","translation":"Nie można wiązać duszy podczas wykonywania innych czynności.","status":"draft"}
+{"id":"Message_MSG_Soul_Bind_fail_OverCount_body","source":"Number of possible Soul Bindings has been exceeded.","translation":"Przekroczono maksymalną liczbę wiązań duszy.","status":"draft"}
+{"id":"Message_MSG_TARGETINFO_PARTY_CURRENT_JOIN_body","source":"Already in a party.","translation":"Postać należy już do drużyny.","status":"draft"}
+{"id":"Message_MSG_TARGETINFO_PARTY_DO_NOT_DISTURB_CHARACTER_body","source":"This character has opted out of party invites.","translation":"Ta postać nie przyjmuje zaproszeń do drużyny.","status":"draft"}
+{"id":"Message_MSG_TARGETINFO_PARTY_INVITE_INVALID_RACE_body","source":"Cannot form party with hostile faction.","translation":"Nie można utworzyć drużyny z wrogą frakcją.","status":"draft"}
+{"id":"Message_MSG_TARGETINFO_PARTY_NO_AUTHORITY_body","source":"Do not have permission to send invitation.","translation":"Brak uprawnień do wysłania zaproszenia.","status":"draft"}
+{"id":"Message_MSG_TARGET_IS_TOO_FAR_body","source":"Target is too far.","translation":"Cel znajduje się zbyt daleko.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_BOOKMARK_MAX_LIMIT_body","source":"Cannot add more Kibelisks to Favorites because the maximum has been reached.","translation":"Osiągnięto limit ulubionych Kibelisków. Nie można dodać kolejnych.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_FAIL_ALREADY_ENGRAVED_body","source":"Kibelisk already bound.","translation":"Kibelisk jest już związany.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_FAIL_INVALID_STATE_body","source":"Cannot teleport as the Kibelisk has been destroyed.","translation":"Nie można się teleportować, ponieważ Kibelisk został zniszczony.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_ICON_SELECT_FAIL_BY_RACE_body","source":"Cannot use Kibelisks of other faction.","translation":"Nie można używać Kibelisków należących do innej frakcji.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_INTERACTION_FAIL_MISSION_INCOMPLETE_body","source":"Cannot Bind in current state. Required conditions can be viewed on the World Map.","translation":"W obecnym stanie nie można związać Kibeliska. Wymagane warunki można sprawdzić na mapie świata.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_INTERACTION_SUCCESS_body","source":"Once Binding is complete, teleportation to the current Kibelisk is available.","translation":"Po związaniu Kibeliska będzie można teleportować się do niego.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_MISSION_COMPLETE_body","source":"Can Bind in current state.","translation":"W obecnym stanie można związać Kibelisk.","status":"draft"}
+{"id":"Message_MSG_TELEPORTARTIFACT_TELEPORT_FAIL_NOT_ENGRAVED_body","source":"Kibelisk can be used after Binding.","translation":"Z Kibeliska można skorzystać po jego związaniu.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_ERROR_INVALID_RACE_body","source":"Cannot enter specified map as faction requirements are not met.","translation":"Nie można wejść na wskazaną mapę, ponieważ nie spełniono wymagań frakcji.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_ERROR_INVALID_TELEPORT_ID_body","source":"Cannot enter as specified teleport point was not found on the server.","translation":"Nie można wejść: serwer nie znalazł wskazanego punktu teleportacji.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_ERROR_INVALID_TELEPORT_POS_body","source":"Cannot enter as location information was not found on the server.","translation":"Nie można wejść: serwer nie znalazł informacji o lokalizacji.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_FAIL_LOST_WORLD_SESSION_body","source":"Cannot enter specified map as connection to the server was lost.","translation":"Nie można wejść na wskazaną mapę, ponieważ utracono połączenie z serwerem.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_FAIL_NOT_FOUND_MAP_body","source":"Cannot enter as specified map not found.","translation":"Nie można wejść: nie znaleziono wskazanej mapy.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_FAIL_RESPONSE_TIME_EXPIRED_body","source":"Cannot enter specified map as there was no response from the server.","translation":"Nie można wejść na wskazaną mapę, ponieważ serwer nie odpowiedział.","status":"draft"}
+{"id":"Message_MSG_TELEPORTWORLD_FAIL_SERVER_IS_FULL_body","source":"Cannot enter as server has reached maximum capacity.","translation":"Nie można wejść: serwer osiągnął maksymalną liczbę graczy.","status":"draft"}
+{"id":"Message_MSG_TELEPORT_ERROR_INVALID_MAP_body","source":"Specified map not found.","translation":"Nie znaleziono wskazanej mapy.","status":"draft"}
+{"id":"Message_MSG_TELEPORT_ERROR_INVALID_TELEPORT_ID_body","source":"Specified teleport location not found.","translation":"Nie znaleziono wskazanej lokalizacji teleportacji.","status":"draft"}
+{"id":"Message_MSG_TELEPORT_FAIL_NOT_IN_PROGRESS_QUEST_STEP_body","source":"Cannot enter due to not meeting quest requirements.","translation":"Nie można wejść, ponieważ nie spełniono wymagań zadania.","status":"draft"}
+{"id":"Message_MSG_TEST_MESSAGE1_body","source":"Test message. (Default Announcement)","translation":"Wiadomość testowa (ogłoszenie domyślne).","status":"draft"}
+{"id":"Message_MSG_TITLEPRESET_SWAP_COMPLETE_body","source":"Title changed according to Preset {0}.","translation":"Zmieniono tytuł zgodnie z zestawem {0}.","status":"draft"}
+{"id":"Message_MSG_TITLE_GET_REWARD_NOTHING_body","source":"No rewards available.","translation":"Brak dostępnych nagród.","status":"draft"}
+{"id":"Message_MSG_TITLE_NOT_ACQUIRED_body","source":"Unacquired title.","translation":"Tytuł nie został zdobyty.","status":"draft"}
+{"id":"Message_MSG_TITLE_NOT_EQUIP_EFFECT_body","source":"This title has no equip effect.","translation":"Ten tytuł nie zapewnia efektu po założeniu.","status":"draft"}
+{"id":"Message_MSG_TITLE_NOT_SELECTED_TITLE_body","source":"Select Title.","translation":"Wybierz tytuł.","status":"draft"}
+{"id":"Message_MSG_TITLE_REMOVE_TIMEOVER_body","source":"Active title has expired and was automatically unequipped.","translation":"Aktywny tytuł wygasł i został automatycznie zdjęty.","status":"draft"}
+{"id":"Message_MSG_TRADE_BLOCK_ITEM_ERROR_body","source":"Trade restircted item.","translation":"Przedmiot objęty ograniczeniami handlu.","status":"draft"}
+{"id":"Message_MSG_TRADE_BOOKMARK_ADD_OVERMAXCOUNT_body","source":"Favorites limit exceeded. Up to 10 favorites can be registered.","translation":"Przekroczono limit ulubionych. Można zarejestrować maksymalnie 10.","status":"draft"}
+{"id":"Message_MSG_TRADE_BOOKMARK_NO_ITEM_body","source":"No items registered for sale. Try again later.","translation":"Brak przedmiotów wystawionych na sprzedaż. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_BUY_COMPLETE_body","source":"Purchase complete.","translation":"Zakup zakończony.","status":"draft"}
+{"id":"Message_MSG_TRADE_BUY_NOT_ENOUGH_INVENTORY_SLOT_body","source":"Insufficient Cube space to purchase.","translation":"Za mało miejsca w kostce, aby dokonać zakupu.","status":"draft"}
+{"id":"Message_MSG_TRADE_CALCULATE_COMPLETE_body","source":"A total payment of {0} Kina has been completed.","translation":"Opłacono łącznie {0} kin.","status":"draft"}
+{"id":"Message_MSG_TRADE_DAILY_BUY_LIMIT_PURCHASE_LIMIT_EXCEEDED_body","source":"Cannot purchase item because daily purchase limit was exceeded.","translation":"Nie można kupić przedmiotu: przekroczono dzienny limit zakupów.","status":"draft"}
+{"id":"Message_MSG_TRADE_INVALID_REQUEST_DETECTED_body","source":"An abnormal request occurred. Please try again later.","translation":"Wystąpiło nieprawidłowe żądanie. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_INVENTORY_MAX_body","source":"Insufficient Cube space. Please clear out your Cube.","translation":"Za mało miejsca w kostce. Zrób w niej miejsce.","status":"draft"}
+{"id":"Message_MSG_TRADE_KEYMAPPING_KEY_INVALID_body","source":"Cannot move to Market.","translation":"Nie można przejść do Rynku.","status":"draft"}
+{"id":"Message_MSG_TRADE_MAIN_CATEGORY_BUY_SOLD_OUT_body","source":"Item has already been sold.","translation":"Ten przedmiot został już sprzedany.","status":"draft"}
+{"id":"Message_MSG_TRADE_MAIN_CATEGORY_DETAIL_FILTER_GODSTONE_SELECT_OVER_body","source":"Can select up to 5 options.","translation":"Można wybrać maksymalnie 5 opcji.","status":"draft"}
+{"id":"Message_MSG_TRADE_MAIN_CATEGORY_DETAIL_FILTER_MASICSTONE_SELECT_OVER_body","source":"Can select up to 5 options.","translation":"Można wybrać maksymalnie 5 opcji.","status":"draft"}
+{"id":"Message_MSG_TRADE_MAIN_CATEGORY_ITEM_SELECT_OVER_body","source":"Can purchase up to 5 items.","translation":"Można kupić maksymalnie 5 przedmiotów.","status":"draft"}
+{"id":"Message_MSG_TRADE_NOT_ALLOWED_SERVER_MSG_body","source":"Cannot register items in this Market. Please use the World Market.","translation":"Nie można rejestrować przedmiotów na tym Rynku. Skorzystaj z Rynku Światowego.","status":"draft"}
+{"id":"Message_MSG_TRADE_NOT_BUY_MY_ITEM_body","source":"Cannot purchase items that have been registered.","translation":"Nie można kupić wystawionych przez siebie przedmiotów.","status":"draft"}
+{"id":"Message_MSG_TRADE_PAYOUT_LIMIT_NOT_AVAILABLE_ERROR_body","source":"Only partial settlement has been completed as it exceeded the total settlement amount.\nPlease try again after settlement limit has been updated.","translation":"Rozliczono tylko część kwoty, ponieważ przekroczyła limit całkowitego rozliczenia.\nSpróbuj ponownie po zaktualizowaniu limitu rozliczeń.","status":"draft"}
+{"id":"Message_MSG_TRADE_PAYOUT_LIMIT_NOT_SETTLEMENT_ERROR_body","source":"You can't settle more than the total amount available for daily settlement.","translation":"Nie można rozliczyć kwoty większej niż dostępna dzienna pula rozliczeń.","status":"draft"}
+{"id":"Message_MSG_TRADE_POLICY_SERVICE_STATUS_body","source":"Market is under maintenance. Please try again later.","translation":"Rynek jest w trakcie konserwacji. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_PURCHASE_UNAVAILABLE_ERROR_body","source":"Product cannot be purchased due to usage restrictions.","translation":"Nie można kupić produktu z powodu ograniczeń użytkowania.","status":"draft"}
+{"id":"Message_MSG_TRADE_QUERY_ERROR_body","source":"An error has occurred while viewing files. Please try again.","translation":"Wystąpił błąd podczas wyświetlania plików. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_REQUEST_TIMEOUT_ERROR_body","source":"Request has been temporarily restricted due to excessive activity.","translation":"Żądania zostały tymczasowo ograniczone z powodu nadmiernej aktywności.","status":"draft"}
+{"id":"Message_MSG_TRADE_REQUEST_TIMEOUT_body","source":"The request has timed out. Please try again later.","translation":"Upłynął limit czasu żądania. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_COMMON_FAIL_ERROR_body","source":"Sale registration failed. Please try again.","translation":"Nie udało się wystawić przedmiotu na sprzedaż. Spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_MISMATCH_AVERAGE_PRICE_ERROR_body","source":"Cannot register because market or price information has changed. Please try again later.","translation":"Nie można wystawić przedmiotu, ponieważ zmieniły się informacje o rynku lub cenie. Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_PRICE_ABOVE_AVG_WARNING_body","source":"The sale price has been set above the average. Please enter it again after confirming.","translation":"Cena sprzedaży przekracza średnią. Potwierdź ją i wpisz ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_PRICE_AVG_LOAD_WARNING_body","source":"Checking market prices. Please wait a moment.","translation":"Sprawdzanie cen rynkowych. Chwileczkę.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_PRICE_BELOW_AVG_WARNING_body","source":"The sale price has been set below the average. Please enter it again after confirming.","translation":"Cena sprzedaży jest niższa od średniej. Potwierdź ją i wpisz ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_CANCEL_body","source":"Registration canceled.","translation":"Anulowano rejestrację.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_COLLECT_body","source":"Registered item retrieved.","translation":"Odebrano wystawiony przedmiot.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_ENTER_AGAIN_body","source":"Quantity is incorrect. Please enter again.","translation":"Nieprawidłowa liczba. Wpisz ją ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_INVENTORY_EQUIP_body","source":"Cannot register equipped items. Please unequip and try again.","translation":"Nie można wystawić założonych przedmiotów. Zdejmij je i spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_INVENTORY_IMPOSSIBLE_body","source":"This item cannot be registered for sale.","translation":"Tego przedmiotu nie można wystawić na sprzedaż.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_INVENTORY_LOCK_body","source":"Cannot register locked items. Please unlock and try again.","translation":"Nie można wystawić zablokowanych przedmiotów. Odblokuj je i spróbuj ponownie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_ITEM_MAX_body","source":"Registration limit reached.","translation":"Osiągnięto limit wystawionych przedmiotów.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_MINIMUM_SALES_AMOUNT_body","source":"Sale price must be at least {0} Kina. Please check the amount.","translation":"Cena sprzedaży musi wynosić co najmniej {0} kin. Sprawdź kwotę.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_NOT_ENOUGH_MONEY_body","source":"Cannot afford registration fee.","translation":"Za mało kin na opłatę za wystawienie.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_REGISTRATION_SUCCESS_body","source":"Item registered successfully May take a while to take effect.","translation":"Przedmiot został wystawiony. Zmiana może być widoczna z opóźnieniem.","status":"draft"}
+{"id":"Message_MSG_TRADE_SELL_RE_REGISTRATION_body","source":"Re-registered item.","translation":"Ponownie wystawiono przedmiot.","status":"draft"}
+{"id":"Message_MSG_TRADE_SETTLEMENT_UNAVAILABLE_ERROR_body","source":"Cannot be settled due to usage restrictions.","translation":"Nie można rozliczyć z powodu ograniczeń użytkowania.","status":"draft"}
+{"id":"Message_MSG_TRADE_TRY_AGAIN_LATER_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRADE_WAITING_RESPONSE_NOTICE_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_TRANSFER_KIST_OWNER_body","source":"Received ownership of Kisk.","translation":"Przejęto własność Kiska.","status":"draft"}
+{"id":"Message_MSG_TRANSFER_LEGION_APPLICATION_SUBMITTED_body","source":"Legion server transfer request made.","translation":"Złożono wniosek o transfer Legionu na serwer.","status":"draft"}
+{"id":"Message_MSG_TRAPBOARD_ANSWERTIME_END_body","source":"{0}s left to answer","translation":"Pozostało {0} s na udzielenie odpowiedzi.","status":"draft"}
+{"id":"Message_MSG_Test_Console_body","source":"Console: {0}","translation":"Konsola: {0}","status":"draft"}
+{"id":"Message_MSG_UI_KEYMAPPING_ACTION_KEY_INVALID_body","source":"Key cannot be used as [Action] hotkey.","translation":"Tego klawisza nie można przypisać jako skrótu [Akcja].","status":"draft"}
+{"id":"Message_MSG_UI_KEYMAPPING_KEY_DELETED_body","source":"{0} shortcut key removed.","translation":"Usunięto skrót klawiszowy {0}.","status":"draft"}
+{"id":"Message_MSG_UI_KEYMAPPING_KEY_INVALID_body","source":"Invalid key.","translation":"Nieprawidłowy klawisz.","status":"draft"}
+{"id":"Message_MSG_UI_SERVER_TRANSFER_CHECK_CHARACTER_NO_MORE_SELECTIONS_body","source":"Cannot select any more.","translation":"Nie można wybrać więcej.","status":"draft"}
+{"id":"Message_MSG_UPDATEKISK_LEAVE_EXPIRED_body","source":"{0}'s Kisk has expired and automatically terminated.","translation":"Kisk postaci {0} wygasł i został automatycznie usunięty.","status":"draft"}
+{"id":"Message_MSG_USECOUNT_WARNING_KISK_body","source":"Kisk has 1 use remaining.","translation":"Kiskowi pozostało 1 użycie.","status":"draft"}
+{"id":"Message_MSG_USE_EQUIP_FAILED_body","source":"Failed to equip gear.","translation":"Nie udało się założyć wyposażenia.","status":"draft"}
+{"id":"Message_MSG_USE_ITEM_FAILED_body","source":"Failed to use item.","translation":"Nie udało się użyć przedmiotu.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_BATTLE_body","source":"Cannot ride mount during combat.","translation":"Nie można dosiadać wierzchowca podczas walki.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_COMMON_body","source":"Cannot mount in current state.","translation":"W obecnym stanie nie można dosiąść wierzchowca.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_COOLTIME_body","source":"Mount is on cooldown.","translation":"Wierzchowiec jest w trakcie odnowienia.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_DIE_body","source":"Cannot mount while dead.","translation":"Nie można dosiąść wierzchowca po śmierci.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_FALLING_body","source":"Cannot mount while falling.","translation":"Nie można dosiąść wierzchowca podczas spadania.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_FLY_body","source":"Cannot mount during flight.","translation":"Nie można dosiąść wierzchowca podczas lotu.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_FOLLOW_body","source":"Cannot ride mount while tracking.","translation":"Nie można dosiadać wierzchowca podczas śledzenia.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_PETLV_GLIDE_CHANGE_body","source":"Cannot change to a pet that cannot glide while gliding.","translation":"Podczas szybowania nie można zmienić wierzchowca na takiego, który nie potrafi szybować.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_PETLV_GLIDE_body","source":"Equipped pet cannot Glide.","translation":"Założony wierzchowiec nie potrafi szybować.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_PETLV_RIDE_body","source":"Equipped pet has no Mount functions.","translation":"Założony wierzchowiec nie może pełnić funkcji wierzchowca.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_POLYMORPH_body","source":"Unable to mount due to current Transformation state.","translation":"Nie można dosiąść wierzchowca w obecnej postaci.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_SPRINGBOARD_body","source":"Cannot mount while using an Updraft.","translation":"Nie można dosiąść wierzchowca podczas korzystania z prądu wznoszącego.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_RIDE_ZONE_body","source":"Cannot ride mount in this area.","translation":"Nie można dosiadać wierzchowca w tym obszarze.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_USE_ZONE_CANCEL_body","source":"Dismounting. Entered no-mount zone.","translation":"Zsiadanie z wierzchowca. Wkroczono do strefy, w której nie można dosiadać wierzchowców.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CANNOT_WINDPATH_body","source":"Cannot mount, unmount, or switch mounts in the Windstream.","translation":"W Strumieniu Wiatru nie można dosiadać ani opuszczać wierzchowca ani zmieniać wierzchowca.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_AUTO_ANALYSIS_FAIL_SLOT_LOCK_NO_OPTION_body","source":"Empty slots without options cannot be locked.","translation":"Nie można zablokować pustych miejsc bez opcji.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_AUTO_ANALYSIS_LOCKED_SLOT_ALERT_body","source":"Insufficient Genus Insight level to select.","translation":"Poziom Wnikliwości rodzaju jest zbyt niski, aby dokonać wyboru.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_FAIL_RESET_BUTTON_NO_OPTION_SELECTED_body","source":"No option to reset.","translation":"Brak opcji do zresetowania.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_LEVELUP_FAIL_COST_body","source":"Insufficient funds for analysis.","translation":"Za mało środków na analizę.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_LEVELUP_FAIL_LOCK_CREATURE_body","source":"Analysis available after unlocking Genus Insight.","translation":"Analiza będzie dostępna po odblokowaniu Wnikliwości rodzaju.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_LEVELUP_FAIL_LOCK_body","source":"All slots are locked. No slots available for analysis.","translation":"Wszystkie miejsca są zablokowane. Brak miejsc do analizy.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_LEVELUP_FAIL_NO_OPTION_SELECTED_body","source":"Option not selected for analysis.","translation":"Nie wybrano opcji do analizy.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CREATURE_SWAP_COMPLETE_body","source":"Genus Insight changed to Preset {0}.","translation":"Zmieniono Wnikliwość rodzaju na zestaw {0}.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_CRYSTAL_AUTO_SELECT_FAIL_body","source":"No souls available for registration.","translation":"Brak dusz do zarejestrowania.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_DEFAULT_SELECT_body","source":"{0} equipped.","translation":"Założono: {0}.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_EQUIP_ALREADY_body","source":"Already equipped.","translation":"Jest już założone.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_FAIL_ADD_ALREADY_body","source":"Already own this pet.","translation":"Ten wierzchowiec jest już w posiadaniu.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_FAIL_ADD_COMMON_body","source":"Failed to add pet.","translation":"Nie udało się dodać wierzchowca.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_FAIL_EQUIP_COMMON_body","source":"Failed to equip pet.","translation":"Nie udało się założyć wierzchowca.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_FAIL_EQUIP_NONE_body","source":"Cannot equip a pet you do not own.","translation":"Nie można założyć wierzchowca, którego się nie posiada.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_GET_body","source":"{0} acquired.","translation":"Zdobyto: {0}.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_LEVELUP_FAIL_NONE_body","source":"Only owned pets can be analyzed.","translation":"Można analizować tylko posiadane wierzchowce.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_LEVELUP_LEVEL_MAX_body","source":"Cannot register due to reaching max level.","translation":"Nie można zarejestrować: osiągnięto maksymalny poziom.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_LEVELUP_MATERIAL_SLOT_MAX_body","source":"No available slots for materials.","translation":"Brak wolnych miejsc na materiały.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_LEVEL_MAX_body","source":"Max Insight level.","translation":"Osiągnięto maksymalny poziom Wglądu.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_LEVEL_UP_body","source":"Increased Pet Insight Level {0}.","translation":"Podniesiono poziom Wglądu wierzchowca do {0}.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_SAME_LEVELUP_FAIL_body","source":"No valid targets for batch analysis.","translation":"Brak prawidłowych celów analizy zbiorczej.","status":"draft"}
+{"id":"Message_MSG_VEHICLE_SAME_LEVELUP_SUCCES_body","source":"Completed analysis on all pets.","translation":"Zakończono analizę wszystkich wierzchowców.","status":"draft"}
+{"id":"Message_MSG_VOICECHAT_CONNECTED_body","source":"Connected to voice chat.","translation":"Połączono z czatem głosowym.","status":"draft"}
+{"id":"Message_MSG_VOICECHAT_DISCONNECTED_body","source":"Disconnected from voice chat.","translation":"Rozłączono z czatem głosowym.","status":"draft"}
+{"id":"Message_MSG_WAVEGROUP_WAVE_01_START_body","source":"Start Stage 1 (temporary)","translation":"Rozpocznij etap 1 (tymczasowe)","status":"draft"}
+{"id":"Message_MSG_WAVEGROUP_WAVE_02_START_body","source":"Start Stage 2 (temporary)","translation":"Rozpocznij etap 2 (tymczasowe)","status":"draft"}
+{"id":"Message_MSG_WAVEGROUP_WAVE_03_START_body","source":"Start Stage 3 (temporary)","translation":"Rozpocznij etap 3 (tymczasowe)","status":"draft"}
+{"id":"Message_MSG_WINGPRESET_SWAP_COMPLETE_body","source":"Wings changed to Preset {0}.","translation":"Zmieniono skrzydła na zestaw {0}.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_FAIL_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_INCORRECT_LEVEL_body","source":"Cannot enhance at this level.","translation":"Nie można ulepszać na tym poziomie.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_NOMORE_body","source":"Cannot enhance further due to reaching max Enhance Level.","translation":"Nie można dalej ulepszać: osiągnięto maksymalny poziom ulepszenia.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_NOT_ENOUGH_COST_body","source":"Insufficient enhancing materials.","translation":"Za mało materiałów do ulepszenia.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_NOT_GET_body","source":"Try again after unlocking wings.","translation":"Spróbuj ponownie po odblokowaniu skrzydeł.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_ENCHANT_NO_LEVEL_body","source":"Cannot enhance these wings.","translation":"Nie można ulepszyć tych skrzydeł.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_EQUIP_ALREADY_body","source":"Wings already equipped.","translation":"Te skrzydła są już założone.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_EQUIP_LOCKED_body","source":"Wings not unlocked.","translation":"Skrzydła nie zostały odblokowane.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_GET_EXISTS_body","source":"Wings already owned.","translation":"Te skrzydła są już w posiadaniu.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_GET_RACE_body","source":"Cannot unlock these wings.","translation":"Nie można odblokować tych skrzydeł.","status":"draft"}
+{"id":"Message_MSG_WING_CANNOT_LOOK_body","source":"Cannot select an enhancement level lower than the current one.","translation":"Nie można wybrać poziomu ulepszenia niższego niż obecny.","status":"draft"}
+{"id":"Message_MSG_WING_EQUIP_NOTHING_CANNOT_GLIDE_body","source":"Glide available after Ascension.","translation":"Szybowanie będzie dostępne po Wniebowstąpieniu.","status":"draft"}
+{"id":"Message_MSG_WING_EQUIP_NOTHING_body","source":"Flight available after Ascension.","translation":"Lot będzie dostępny po Wniebowstąpieniu.","status":"draft"}
+{"id":"Message_MSG_WING_GET_body","source":"{0} unlocked.","translation":"Odblokowano: {0}.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_ARTIFACT_NOT_SELECTABLE_BY_FILTER_body","source":"Kibelisk is deselected in filter settings. Please change filter settings.","translation":"Kibelisk jest wyłączony w filtrach. Zmień ustawienia filtrów.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_ARTIFACT_NOT_SELECTABLE_BY_UNDISCOVERD_body","source":"Cannot select a Kibelisk located in an undiscovered area.","translation":"Nie można wybrać Kibeliska znajdującego się na nieodkrytym obszarze.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_ARTIFACT_TELEPORT_FAIL_CASH_body","source":"Insufficient items to use Kibelisk.","translation":"Za mało przedmiotów, aby skorzystać z Kibeliska.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_ARTIFACT_TELEPORT_FAIL_UNENGRAVED_body","source":"Cannot use unbound Kibelisk.","translation":"Nie można użyć niezwiązanego Kibeliska.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_EXPLORATION_NOT_SELECTABLE_BY_FILTER_body","source":"Exploration content is deselected in filter settings. Please change filter settings.","translation":"Zawartość eksploracji jest wyłączona w filtrach. Zmień ustawienia filtrów.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_FIELDEVENT_NOT_SELECTABLE_BY_FILTER_body","source":"Event cannot be selected due to filter settings. Please change filter settings.","translation":"Nie można wybrać wydarzenia z powodu ustawień filtrów. Zmień ustawienia filtrów.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_KTELPO_TOO_HIGH_COMBAT_VALUE_body","source":"Cannot move to this location. Highest Combat Power exceeds the limit.","translation":"Nie można przemieścić się w to miejsce. Maksymalna moc bojowa przekracza limit.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_KTELPO_TOO_HIGH_CURRENT_COMBAT_VALUE_body","source":"Cannot move to this location. Current Combat Power exceeds the limit.","translation":"Nie można przemieścić się w to miejsce. Obecna moc bojowa przekracza limit.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_KTELPO_TOO_HIGH_CURRENT_ITEM_LEVEL_body","source":"Cannot move to this location. Current Item Level exceeds the limit.","translation":"Nie można przemieścić się w to miejsce. Obecny poziom przedmiotu przekracza limit.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_KTELPO_TOO_HIGH_ITEM_LEVEL_body","source":"Cannot move to this location. Highest Item Level exceeds the limit.","translation":"Nie można przemieścić się w to miejsce. Maksymalny poziom przedmiotu przekracza limit.","status":"draft"}
+{"id":"Message_MSG_WORLDMAP_MAPPIN_NOT_SELECTABLE_BY_FILTER_body","source":"Map pin is unchecked from Filter Settings. Please change Filter Settings.","translation":"Pinezka mapy jest wyłączona w filtrach. Zmień ustawienia filtrów.","status":"draft"}
+{"id":"Message_MSG_WORLD_TRADE_KEYMAPPING_KEY_INVALID_body","source":"Cannot move to World Market.","translation":"Nie można przejść do Rynku Światowego.","status":"draft"}
+{"id":"Message_UI_SPECIALIZED_SKILL_SLOT_EQUIP_CONFIRM_001_body","source":"This Specialty Skill is already equipped. Equip in the current slot?\n(The Specialty Skill that has been previously equipped will be unequipped.)","translation":"Ta umiejętność specjalizacji jest już założona. Założyć ją w obecnym miejscu?\n(Wcześniej założona umiejętność specjalizacji zostanie zdjęta.)","status":"draft"}

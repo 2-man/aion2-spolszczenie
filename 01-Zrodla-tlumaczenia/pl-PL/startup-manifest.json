@@ -1,0 +1,40 @@
+{
+  "table": "startup",
+  "namespace": "AION2",
+  "culture": "en-US",
+  "inputSha256": "472396af2c2eeaf1d062209ed6053ac76b94b807e37a8a56cfebad863cca36bf",
+  "records": 486,
+  "decodedJsonSha256": "4e631f791517e090ea665a859632d0d28095f5e0136133d91f0574a39b0ca7b9",
+  "batches": [
+    {
+      "file": "startup/InputKeyMapping/0001.jsonl",
+      "count": 250,
+      "category": "InputKeyMapping"
+    },
+    {
+      "file": "startup/InputKeyMapping/0002.jsonl",
+      "count": 66,
+      "category": "InputKeyMapping"
+    },
+    {
+      "file": "startup/PackageList/0001.jsonl",
+      "count": 34,
+      "category": "PackageList"
+    },
+    {
+      "file": "startup/String_msgbox/0001.jsonl",
+      "count": 4,
+      "category": "String_msgbox"
+    },
+    {
+      "file": "startup/String_str/0001.jsonl",
+      "count": 107,
+      "category": "String_str"
+    },
+    {
+      "file": "startup/String_ui/0001.jsonl",
+      "count": 25,
+      "category": "String_ui"
+    }
+  ]
+}

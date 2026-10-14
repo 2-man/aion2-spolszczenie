@@ -1,0 +1,66 @@
+{"id": "InputKeyMapping_UI_Conversion_desc", "source": "Substance Morph", "translation": "Transmutacja substancji", "status": "draft"}
+{"id": "InputKeyMapping_UI_Conversion_sub_desc", "source": "Set key for opening Substance Morph.", "translation": "Przypisz klawisz do otwierania transmutacji substancji.", "status": "draft"}
+{"id": "InputKeyMapping_UI_CraftSkill_desc", "source": "Crafting", "translation": "Rzemiosło", "status": "draft"}
+{"id": "InputKeyMapping_UI_CraftSkill_sub_desc", "source": "Set key for opening Crafting.", "translation": "Przypisz klawisz do otwierania rzemiosła.", "status": "draft"}
+{"id": "InputKeyMapping_UI_CursorMode_desc", "source": "Display Cursor", "translation": "Pokaż kursor", "status": "draft"}
+{"id": "InputKeyMapping_UI_CursorMode_sub_desc", "source": "Display Cursor while pressing", "translation": "Pokazuje kursor podczas naciskania", "status": "draft"}
+{"id": "InputKeyMapping_UI_Daevanion_desc", "source": "Daevanion", "translation": "Daevanion", "status": "draft"}
+{"id": "InputKeyMapping_UI_Daevanion_sub_desc", "source": "Set key for opening Daevanion.", "translation": "Przypisz klawisz do otwierania Daevanion.", "status": "draft"}
+{"id": "InputKeyMapping_UI_DailyDungeon_desc", "source": "Daily Dungeon", "translation": "Codzienny loch", "status": "draft"}
+{"id": "InputKeyMapping_UI_DailyDungeon_sub_desc", "source": "Set key for opening Daily Dungeon.", "translation": "Przypisz klawisz do otwierania codziennego lochu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Enchant_desc", "source": "Enhancement", "translation": "Ulepszanie", "status": "draft"}
+{"id": "InputKeyMapping_UI_Enchant_sub_desc", "source": "Set key for opening Enhancement.", "translation": "Przypisz klawisz do otwierania ulepszania.", "status": "draft"}
+{"id": "InputKeyMapping_UI_GamepadWheelMode_desc", "source": "Toggle Gamepad Wheel Mode", "translation": "Przełącz tryb kołowy kontrolera", "status": "draft"}
+{"id": "InputKeyMapping_UI_GamepadWheelMode_sub_desc", "source": "Switch the gamepad's right stick to wheel scrolling.", "translation": "Przełącza prawy drążek kontrolera na przewijanie kołowe.", "status": "draft"}
+{"id": "InputKeyMapping_UI_GatherSkill_desc", "source": "Essence Extraction", "translation": "Pozyskiwanie esencji", "status": "draft"}
+{"id": "InputKeyMapping_UI_GatherSkill_sub_desc", "source": "Set key for opening Essence Extraction.", "translation": "Przypisz klawisz do otwierania pozyskiwania esencji.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Guild_desc", "source": "Legion", "translation": "Gildia", "status": "draft"}
+{"id": "InputKeyMapping_UI_Guild_sub_desc", "source": "Set key for opening Legion.", "translation": "Przypisz klawisz do otwierania gildii.", "status": "draft"}
+{"id": "InputKeyMapping_UI_HudToggle_desc", "source": "Hide UI", "translation": "Ukryj interfejs", "status": "draft"}
+{"id": "InputKeyMapping_UI_HudToggle_sub_desc", "source": "Set key to hide UI.", "translation": "Przypisz klawisz do ukrywania interfejsu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Inventory_desc", "source": "Cube", "translation": "Ekwipunek", "status": "draft"}
+{"id": "InputKeyMapping_UI_Inventory_sub_desc", "source": "Set key for opening Cube.", "translation": "Przypisz klawisz do otwierania ekwipunku.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Journal_desc", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "InputKeyMapping_UI_Journal_sub_desc", "source": "Set key for opening Journal.", "translation": "Przypisz klawisz do otwierania dziennika.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Map_desc", "source": "Map", "translation": "Mapa", "status": "draft"}
+{"id": "InputKeyMapping_UI_Map_sub_desc", "source": "Set key for opening Map.", "translation": "Przypisz klawisz do otwierania mapy.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Navigation_desc", "source": "Navigator", "translation": "Nawigator", "status": "draft"}
+{"id": "InputKeyMapping_UI_Navigation_sub_desc", "source": "Set key for opening Navigator.", "translation": "Przypisz klawisz do otwierania nawigatora.", "status": "draft"}
+{"id": "InputKeyMapping_UI_PartyDungeonChallenge_desc", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "InputKeyMapping_UI_PartyDungeonChallenge_sub_desc", "source": "Set key for opening Transcendence.", "translation": "Przypisz klawisz do otwierania Transcendencji.", "status": "draft"}
+{"id": "InputKeyMapping_UI_PartyDungeon_desc", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "InputKeyMapping_UI_PartyDungeon_sub_desc", "source": "Set key for opening Expedition.", "translation": "Przypisz klawisz do otwierania Ekspedycji.", "status": "draft"}
+{"id": "InputKeyMapping_UI_PeriodCollection_desc", "source": "Supply Request", "translation": "Zapotrzebowanie na zaopatrzenie", "status": "draft"}
+{"id": "InputKeyMapping_UI_PeriodCollection_sub_desc", "source": "Set key for opening Supply Request.", "translation": "Przypisz klawisz do otwierania zapotrzebowania na zaopatrzenie.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Post_desc", "source": "Mail", "translation": "Poczta", "status": "draft"}
+{"id": "InputKeyMapping_UI_Post_sub_desc", "source": "Set key for opening Mail.", "translation": "Przypisz klawisz do otwierania poczty.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Ranking_desc", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "InputKeyMapping_UI_Ranking_sub_desc", "source": "Set key for opening Rank", "translation": "Przypisz klawisz do otwierania rankingu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Season_desc", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "InputKeyMapping_UI_Season_sub_desc", "source": "Set key for opening Season.", "translation": "Przypisz klawisz do otwierania sezonu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Setting_desc", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
+{"id": "InputKeyMapping_UI_Setting_sub_desc", "source": "Set key for opening Settings.", "translation": "Przypisz klawisz do otwierania ustawień.", "status": "draft"}
+{"id": "InputKeyMapping_UI_ShugoFesta_desc", "source": "Shugo Festival", "translation": "Festiwal Szugów", "status": "draft"}
+{"id": "InputKeyMapping_UI_ShugoFesta_sub_desc", "source": "Set key for opening Shugo Festival.", "translation": "Przypisz klawisz do otwierania Festiwalu Szugów.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Skill_desc", "source": "Skills", "translation": "Umiejętności", "status": "draft"}
+{"id": "InputKeyMapping_UI_Skill_sub_desc", "source": "Set key for opening Skills.", "translation": "Przypisz klawisz do otwierania umiejętności.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Skin_desc", "source": "Closet", "translation": "Garderoba", "status": "draft"}
+{"id": "InputKeyMapping_UI_Skin_sub_desc", "source": "Set key for opening Closet.", "translation": "Przypisz klawisz do otwierania garderoby.", "status": "draft"}
+{"id": "InputKeyMapping_UI_SocialAction_desc", "source": "Display Emote List", "translation": "Pokaż listę emotek", "status": "draft"}
+{"id": "InputKeyMapping_UI_SocialAction_sub_desc", "source": "Set key to Display Emote List.", "translation": "Przypisz klawisz do wyświetlania listy emotek.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Subscribe_desc", "source": "Subscription", "translation": "Subskrypcja", "status": "draft"}
+{"id": "InputKeyMapping_UI_Subscribe_sub_desc", "source": "Set key for opening Subscription.", "translation": "Przypisz klawisz do otwierania subskrypcji.", "status": "draft"}
+{"id": "InputKeyMapping_UI_SuppressionDungeon_desc", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "InputKeyMapping_UI_SuppressionDungeon_sub_desc", "source": "Set key for opening Subjugation.", "translation": "Przypisz klawisz do otwierania podboju.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Title_desc", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "InputKeyMapping_UI_Title_sub_desc", "source": "Set key for opening Title.", "translation": "Przypisz klawisz do otwierania tytułu.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Trade_desc", "source": "Market", "translation": "Rynek", "status": "draft"}
+{"id": "InputKeyMapping_UI_Trade_sub_desc", "source": "Set key for opening Market.", "translation": "Przypisz klawisz do otwierania rynku.", "status": "draft"}
+{"id": "InputKeyMapping_UI_TransparentMap_desc", "source": "Transparent Map", "translation": "Przezroczysta mapa", "status": "draft"}
+{"id": "InputKeyMapping_UI_TransparentMap_sub_desc", "source": "Set key for opening Transparent Map.", "translation": "Przypisz klawisz do otwierania przezroczystej mapy.", "status": "draft"}
+{"id": "InputKeyMapping_UI_VehicleSoul_desc", "source": "Pet", "translation": "Wierzchowiec", "status": "draft"}
+{"id": "InputKeyMapping_UI_VehicleSoul_sub_desc", "source": "Set key for opening Pet.", "translation": "Przypisz klawisz do otwierania wierzchowca.", "status": "draft"}
+{"id": "InputKeyMapping_UI_Wing_desc", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "InputKeyMapping_UI_Wing_sub_desc", "source": "Set key for opening Wings.", "translation": "Przypisz klawisz do otwierania skrzydeł.", "status": "draft"}
+{"id": "InputKeyMapping_UI_WorldMarker_desc", "source": "World Marker", "translation": "Znacznik świata", "status": "draft"}
+{"id": "InputKeyMapping_UI_WorldMarker_sub_desc", "source": "Set key for opening World Marker.", "translation": "Przypisz klawisz do otwierania znacznika świata.", "status": "draft"}
