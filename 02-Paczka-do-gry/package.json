@@ -3,28 +3,32 @@
   "testedInGame": false,
   "cultureSlot": "en-US",
   "translationLanguage": "pl-PL",
-  "datSha256": "a90699147f0ae41ba3c6474a3433a78e6cb89ae1d5914adc538316eb8a8d5059",
-  "changedValues": 148287,
-  "selectedRecords": 152455,
+  "datSha256": "8782ae64f956905b0e616b8c3b6d8d05e2b22006d8e0922a787f5349fb774c0f",
+  "changedValues": 148574,
+  "selectedRecords": 152734,
   "installationMethodConfirmedInGame": true,
-  "records": 152774,
+  "records": 153042,
   "prefixPolicy": "zero-reference",
   "originals": [
     {
       "name": "pakchunk502000-Windows_0_P.pak",
-      "sha256": "9f305aa46f63640a0d5f10fff206bae4e345b508f13a72fda1957337a2769b7c"
+      "sha256": "07d61d63c131ce86a5674be28e14d9d93a11631a8704eb9c85e310123f11088c",
+      "bytes": 3745986
     },
     {
       "name": "pakchunk502000-Windows_0_P.sig",
-      "sha256": "4d803599fb9a6cdbe8c22eb1c370fc9d9690a0f22517002e992a31829bd6a3e3"
+      "sha256": "f8e5b7f4b1e750d22ace1e9319b226210dff4888729edf40774d21d883178325",
+      "bytes": 760
     },
     {
       "name": "pakchunk502000-Windows_0_P.ucas",
-      "sha256": "c8e7146240adc7718e7e7d0b65468a8c71f4c7dd1f8a96e60d9a8daddc30be4f"
+      "sha256": "c8e7146240adc7718e7e7d0b65468a8c71f4c7dd1f8a96e60d9a8daddc30be4f",
+      "bytes": 48
     },
     {
       "name": "pakchunk502000-Windows_0_P.utoc",
-      "sha256": "588dd500e88bd7cc6170831e78c3409c275018ae13a9c1a8fc21633e43612c7e"
+      "sha256": "588dd500e88bd7cc6170831e78c3409c275018ae13a9c1a8fc21633e43612c7e",
+      "bytes": 1297
     }
   ],
   "referenceUrl": "https://github.com/duoluoyuji/Aion2-Steam-CN",

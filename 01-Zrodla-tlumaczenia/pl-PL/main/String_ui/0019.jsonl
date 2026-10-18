@@ -1,3 +1,7 @@
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_MENTEE_body","source":"Sprout Badge","translation":"Odznaka Kiełka","status":"draft"}
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_body","source":"Sprout Badge Rewards","translation":"Nagrody: Odznaka Kiełka","status":"draft"}
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_SERVER_GROUP_TAG_body","source":"Per Server","translation":"Na serwer","status":"draft"}
+{"id":"String_UI_MENTOR_DUNGEON_REWARD_TICKET_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
 {"id":"String_UI_MENTOR_DUNGEON_REWARD_TICKET_RECHARGE_TIME_body","source":"Time Until Reset","translation":"Czas do resetu","status":"draft"}
 {"id":"String_UI_MENTOR_DUNGEON_REWARD_TICKET_TITLE_body","source":"Reward Count","translation":"Liczba nagród","status":"draft"}
 {"id":"String_UI_MENTOR_REWARD_LIMIT_DAILY_body","source":"Daily","translation":"Dziennie","status":"draft"}
@@ -190,6 +194,7 @@
 {"id":"String_UI_NAMEPLATE_MYNAME_STREAMER_MODE_body","source":"Player","translation":"Gracz","status":"draft"}
 {"id":"String_UI_NAMEPLATE_OTHER_RACE_SEASON_RANKING_NONE_body","source":"Trainee","translation":"Rekrut","status":"draft"}
 {"id":"String_UI_NAMEPLATE_PLAYER_body","source":"{0}[{1}]","translation":"{0}[{1}]","status":"draft"}
+{"id":"String_UI_NETWORK_RECONNECT_STOP_body","source":"Cancel Reconnection","translation":"Anuluj ponowne połączenie","status":"draft"}
 {"id":"String_UI_NET_ACCOUNT_NOT_FOUND_body","source":"Account not registered. Please check account information.","translation":"Nie znaleziono konta. Sprawdź dane konta.","status":"draft"}
 {"id":"String_UI_NET_ALREADY_CLAIMED_body","source":"Product has already been received or is being processed.","translation":"Produkt został już odebrany lub jest przetwarzany.","status":"draft"}
 {"id":"String_UI_NET_BILLING_VERSION_CHANGED_body","source":"Product information has changed. Please try again.","translation":"Informacje o produkcie uległy zmianie. Spróbuj ponownie.","status":"draft"}
@@ -243,8 +248,3 @@
 {"id":"String_UI_NUMPAD_KEY_4_body","source":"4","translation":"4","status":"draft"}
 {"id":"String_UI_NUMPAD_KEY_5_body","source":"5","translation":"5","status":"draft"}
 {"id":"String_UI_NUMPAD_KEY_6_body","source":"6","translation":"6","status":"draft"}
-{"id":"String_UI_NUMPAD_KEY_7_body","source":"7","translation":"7","status":"draft"}
-{"id":"String_UI_NUMPAD_KEY_8_body","source":"8","translation":"8","status":"draft"}
-{"id":"String_UI_NUMPAD_KEY_9_body","source":"9","translation":"9","status":"draft"}
-{"id":"String_UI_NUMPAD_TEXT_AMOUNT_body","source":"Quantity","translation":"Ilość","status":"draft"}
-{"id":"String_UI_NUMPAD_TITLE_body","source":"Enter Quantity","translation":"Wprowadź ilość","status":"draft"}

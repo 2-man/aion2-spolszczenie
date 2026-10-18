@@ -1,222 +1,222 @@
-{"id":"InputKeyText_#_desc","source":"<img id=\"NumberSign\"/>","translation":"<img id=\"NumberSign\"/>","status":"draft"}
-{"id":"InputKeyText_+_desc","source":"<img id=\"Plus\"/>","translation":"<img id=\"Plus\"/>","status":"draft"}
-{"id":"InputKeyText_A_AccentGrave_desc","source":"<img id=\"A_AccentGrave\"/>","translation":"<img id=\"A_AccentGrave\"/>","status":"draft"}
-{"id":"InputKeyText_A_desc","source":"<img id=\"A\"/>","translation":"<img id=\"A\"/>","status":"draft"}
-{"id":"InputKeyText_Add_desc","source":"<img id=\"Add\"/>","translation":"<img id=\"Add\"/>","status":"draft"}
-{"id":"InputKeyText_Ampersand_desc","source":"<img id=\"Ampersand\"/>","translation":"<img id=\"Ampersand\"/>","status":"draft"}
-{"id":"InputKeyText_Android_Back_desc","source":"Android_Back","translation":"Wstecz","status":"draft"}
-{"id":"InputKeyText_Apostrophe_desc","source":"<img id=\"Apostrophe\"/>","translation":"<img id=\"Apostrophe\"/>","status":"draft"}
-{"id":"InputKeyText_Asterix_desc","source":"<img id=\"Asterix\"/>","translation":"<img id=\"Asterix\"/>","status":"draft"}
-{"id":"InputKeyText_B_desc","source":"<img id=\"B\"/>","translation":"<img id=\"B\"/>","status":"draft"}
-{"id":"InputKeyText_BackSpace_desc","source":"<img id=\"BackSpace\"/>","translation":"<img id=\"BackSpace\"/>","status":"draft"}
-{"id":"InputKeyText_Backslash_desc","source":"<img id=\"Backslash\"/>","translation":"<img id=\"Backslash\"/>","status":"draft"}
-{"id":"InputKeyText_C_Cedille_desc","source":"<img id=\"C_Cedille\"/>","translation":"<img id=\"C_Cedille\"/>","status":"draft"}
-{"id":"InputKeyText_C_desc","source":"<img id=\"C\"/>","translation":"<img id=\"C\"/>","status":"draft"}
-{"id":"InputKeyText_CapsLock_desc","source":"<img id=\"CapsLock\"/>","translation":"<img id=\"CapsLock\"/>","status":"draft"}
-{"id":"InputKeyText_Colon_desc","source":"<img id=\"Colon\"/>","translation":"<img id=\"Colon\"/>","status":"draft"}
-{"id":"InputKeyText_Comma_desc","source":"<img id=\"Comma\"/>","translation":"<img id=\"Comma\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Che_desc","source":"<img id=\"Cyrillic_Che\"/>","translation":"<img id=\"Cyrillic_Che\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Em_desc","source":"<img id=\"Cyrillic_Em\"/>","translation":"<img id=\"Cyrillic_Em\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_En_desc","source":"<img id=\"Cyrillic_En\"/>","translation":"<img id=\"Cyrillic_En\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Es_desc","source":"<img id=\"Cyrillic_Es\"/>","translation":"<img id=\"Cyrillic_Es\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Ghe_desc","source":"<img id=\"Cyrillic_Ghe\"/>","translation":"<img id=\"Cyrillic_Ghe\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_I_desc","source":"<img id=\"Cyrillic_I\"/>","translation":"<img id=\"Cyrillic_I\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Ka_desc","source":"<img id=\"Cyrillic_Ka\"/>","translation":"<img id=\"Cyrillic_Ka\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Sha_desc","source":"<img id=\"Cyrillic_Sha\"/>","translation":"<img id=\"Cyrillic_Sha\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Shcha_desc","source":"<img id=\"Cyrillic_Shcha\"/>","translation":"<img id=\"Cyrillic_Shcha\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_ShortI_desc","source":"<img id=\"Cyrillic_ShortI\"/>","translation":"<img id=\"Cyrillic_ShortI\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_SoftSign_desc","source":"<img id=\"Cyrillic_SoftSign\"/>","translation":"<img id=\"Cyrillic_SoftSign\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Te_desc","source":"<img id=\"Cyrillic_Te\"/>","translation":"<img id=\"Cyrillic_Te\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Tse_desc","source":"<img id=\"Cyrillic_Tse\"/>","translation":"<img id=\"Cyrillic_Tse\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_U_desc","source":"<img id=\"Cyrillic_U\"/>","translation":"<img id=\"Cyrillic_U\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Ya_desc","source":"<img id=\"Cyrillic_Ya\"/>","translation":"<img id=\"Cyrillic_Ya\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Ye_desc","source":"<img id=\"Cyrillic_Ye\"/>","translation":"<img id=\"Cyrillic_Ye\"/>","status":"draft"}
-{"id":"InputKeyText_Cyrillic_Ze_desc","source":"<img id=\"Cyrillic_Ze\"/>","translation":"<img id=\"Cyrillic_Ze\"/>","status":"draft"}
-{"id":"InputKeyText_D_desc","source":"<img id=\"D\"/>","translation":"<img id=\"D\"/>","status":"draft"}
-{"id":"InputKeyText_Decimal_desc","source":"<img id=\"Decimal\"/>","translation":"<img id=\"Decimal\"/>","status":"draft"}
-{"id":"InputKeyText_Delete_desc","source":"<img id=\"Delete\"/>","translation":"<img id=\"Delete\"/>","status":"draft"}
-{"id":"InputKeyText_Divide_desc","source":"<img id=\"Divide\"/>","translation":"<img id=\"Divide\"/>","status":"draft"}
-{"id":"InputKeyText_Dollar_desc","source":"<img id=\"Dollar\"/>","translation":"<img id=\"Dollar\"/>","status":"draft"}
-{"id":"InputKeyText_Down_desc","source":"<img id=\"Down\"/>","translation":"<img id=\"Down\"/>","status":"draft"}
-{"id":"InputKeyText_E_AccentAigu_desc","source":"<img id=\"E_AccentAigu\"/>","translation":"<img id=\"E_AccentAigu\"/>","status":"draft"}
-{"id":"InputKeyText_E_AccentGrave_desc","source":"<img id=\"E_AccentGrave\"/>","translation":"<img id=\"E_AccentGrave\"/>","status":"draft"}
-{"id":"InputKeyText_E_desc","source":"<img id=\"E\"/>","translation":"<img id=\"E\"/>","status":"draft"}
-{"id":"InputKeyText_Eight_desc","source":"<img id=\"8\"/>","translation":"<img id=\"8\"/>","status":"draft"}
-{"id":"InputKeyText_End_desc","source":"<img id=\"End\"/>","translation":"<img id=\"End\"/>","status":"draft"}
-{"id":"InputKeyText_Enter_desc","source":"<img id=\"Enter\"/>","translation":"<img id=\"Enter\"/>","status":"draft"}
-{"id":"InputKeyText_Equals_desc","source":"<img id=\"Equals\"/>","translation":"<img id=\"Equals\"/>","status":"draft"}
-{"id":"InputKeyText_Escape_desc","source":"<img id=\"Esc\"/>","translation":"<img id=\"Esc\"/>","status":"draft"}
-{"id":"InputKeyText_Exclamation_desc","source":"<img id=\"Exclamation\"/>","translation":"<img id=\"Exclamation\"/>","status":"draft"}
-{"id":"InputKeyText_F10_desc","source":"<img id=\"F10\"/>","translation":"<img id=\"F10\"/>","status":"draft"}
-{"id":"InputKeyText_F11_desc","source":"<img id=\"F11\"/>","translation":"<img id=\"F11\"/>","status":"draft"}
-{"id":"InputKeyText_F12_desc","source":"<img id=\"F12\"/>","translation":"<img id=\"F12\"/>","status":"draft"}
-{"id":"InputKeyText_F1_desc","source":"<img id=\"F1\"/>","translation":"<img id=\"F1\"/>","status":"draft"}
-{"id":"InputKeyText_F2_desc","source":"<img id=\"F2\"/>","translation":"<img id=\"F2\"/>","status":"draft"}
-{"id":"InputKeyText_F3_desc","source":"<img id=\"F3\"/>","translation":"<img id=\"F3\"/>","status":"draft"}
-{"id":"InputKeyText_F4_desc","source":"<img id=\"F4\"/>","translation":"<img id=\"F4\"/>","status":"draft"}
-{"id":"InputKeyText_F5_desc","source":"<img id=\"F5\"/>","translation":"<img id=\"F5\"/>","status":"draft"}
-{"id":"InputKeyText_F6_desc","source":"<img id=\"F6\"/>","translation":"<img id=\"F6\"/>","status":"draft"}
-{"id":"InputKeyText_F7_desc","source":"<img id=\"F7\"/>","translation":"<img id=\"F7\"/>","status":"draft"}
-{"id":"InputKeyText_F8_desc","source":"<img id=\"F8\"/>","translation":"<img id=\"F8\"/>","status":"draft"}
-{"id":"InputKeyText_F9_desc","source":"<img id=\"F9\"/>","translation":"<img id=\"F9\"/>","status":"draft"}
-{"id":"InputKeyText_F_desc","source":"<img id=\"F\"/>","translation":"<img id=\"F\"/>","status":"draft"}
-{"id":"InputKeyText_Five_desc","source":"<img id=\"5\"/>","translation":"<img id=\"5\"/>","status":"draft"}
-{"id":"InputKeyText_Four_desc","source":"<img id=\"4\"/>","translation":"<img id=\"4\"/>","status":"draft"}
-{"id":"InputKeyText_G_desc","source":"<img id=\"G\"/>","translation":"<img id=\"G\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_DPad_Down_desc","source":"<img id=\"GamePad_DPad_Down\"/>","translation":"<img id=\"GamePad_DPad_Down\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_DPad_Left_desc","source":"<img id=\"GamePad_DPad_Left\"/>","translation":"<img id=\"GamePad_DPad_Left\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_DPad_Right_desc","source":"<img id=\"GamePad_DPad_Right\"/>","translation":"<img id=\"GamePad_DPad_Right\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_DPad_Up_desc","source":"<img id=\"GamePad_DPad_Up\"/>","translation":"<img id=\"GamePad_DPad_Up\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_FaceButton_Bottom_desc","source":"<img id=\"GamePad_FaceButton_Bottom\"/>","translation":"<img id=\"GamePad_FaceButton_Bottom\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_FaceButton_Left_desc","source":"<img id=\"GamePad_FaceButton_Left\"/>","translation":"<img id=\"GamePad_FaceButton_Left\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_FaceButton_Right_desc","source":"<img id=\"GamePad_FaceButton_Right\"/>","translation":"<img id=\"GamePad_FaceButton_Right\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_FaceButton_Top_desc","source":"<img id=\"GamePad_FaceButton_Top\"/>","translation":"<img id=\"GamePad_FaceButton_Top\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftShoulder_desc","source":"<img id=\"GamePad_LeftBumper\"/>","translation":"<img id=\"GamePad_LeftBumper\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftStick_Down_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftStick_Left_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftStick_Right_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftStick_Up_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftThumbstick_desc","source":"<img id=\"GamePad_LeftThumbStick\"/>","translation":"<img id=\"GamePad_LeftThumbStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftTriggerAxis_desc","source":"Gamepad_LeftTriggerAxis","translation":"Lewy spust (oś)","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftTrigger_desc","source":"<img id=\"GamePad_LeftTrigger\"/>","translation":"<img id=\"GamePad_LeftTrigger\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftX_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_LeftY_desc","source":"<img id=\"GamePad_LeftStick\"/>","translation":"<img id=\"GamePad_LeftStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightShoulder_desc","source":"<img id=\"GamePad_RightBumper\"/>","translation":"<img id=\"GamePad_RightBumper\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightStick_Down_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightStick_Left_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightStick_Right_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightStick_Up_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightThumbstick_desc","source":"<img id=\"GamePad_RightThumbStick\"/>","translation":"<img id=\"GamePad_RightThumbStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightTriggerAxis_desc","source":"Gamepad_RightTriggerAxis","translation":"Prawy spust (oś)","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightTrigger_desc","source":"<img id=\"GamePad_RightTrigger\"/>","translation":"<img id=\"GamePad_RightTrigger\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightX_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_RightY_desc","source":"<img id=\"GamePad_RightStick\"/>","translation":"<img id=\"GamePad_RightStick\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_Special_Left_X_desc","source":"Gamepad_Special_Left_X","translation":"Lewy przycisk specjalny (oś X)","status":"draft"}
-{"id":"InputKeyText_Gamepad_Special_Left_Y_desc","source":"Gamepad_Special_Left_Y","translation":"Lewy przycisk specjalny (oś Y)","status":"draft"}
-{"id":"InputKeyText_Gamepad_Special_Left_desc","source":"<img id=\"GamePad_Special_Left\"/>","translation":"<img id=\"GamePad_Special_Left\"/>","status":"draft"}
-{"id":"InputKeyText_Gamepad_Special_Right_desc","source":"<img id=\"GamePad_Special_Right\"/>","translation":"<img id=\"GamePad_Special_Right\"/>","status":"draft"}
-{"id":"InputKeyText_Gesture_Flick_desc","source":"Flick","translation":"Szybkie przesunięcie","status":"draft"}
-{"id":"InputKeyText_Gesture_Pinch_desc","source":"Pinch","translation":"Uszczypnięcie","status":"draft"}
-{"id":"InputKeyText_Gesture_Rotate_desc","source":"Rotate","translation":"Obrót","status":"draft"}
-{"id":"InputKeyText_H_desc","source":"<img id=\"H\"/>","translation":"<img id=\"H\"/>","status":"draft"}
-{"id":"InputKeyText_Home_desc","source":"<img id=\"Home\"/>","translation":"<img id=\"Home\"/>","status":"draft"}
-{"id":"InputKeyText_Hyphen_desc","source":"<img id=\"Hyphen\"/>","translation":"<img id=\"Hyphen\"/>","status":"draft"}
-{"id":"InputKeyText_I_desc","source":"<img id=\"I\"/>","translation":"<img id=\"I\"/>","status":"draft"}
-{"id":"InputKeyText_Insert_desc","source":"<img id=\"Insert\"/>","translation":"<img id=\"Insert\"/>","status":"draft"}
-{"id":"InputKeyText_J_desc","source":"<img id=\"J\"/>","translation":"<img id=\"J\"/>","status":"draft"}
-{"id":"InputKeyText_K_desc","source":"<img id=\"K\"/>","translation":"<img id=\"K\"/>","status":"draft"}
-{"id":"InputKeyText_L_desc","source":"<img id=\"L\"/>","translation":"<img id=\"L\"/>","status":"draft"}
-{"id":"InputKeyText_LeftAlt_desc","source":"<img id=\"LeftAlt\"/>","translation":"<img id=\"LeftAlt\"/>","status":"draft"}
-{"id":"InputKeyText_LeftAlt_short_desc","source":"A","translation":"A","status":"draft"}
-{"id":"InputKeyText_LeftBracket_desc","source":"<img id=\"LeftBracket\"/>","translation":"<img id=\"LeftBracket\"/>","status":"draft"}
-{"id":"InputKeyText_LeftCommand_desc","source":"<img id=\"LeftCommand\"/>","translation":"<img id=\"LeftCommand\"/>","status":"draft"}
-{"id":"InputKeyText_LeftControl_desc","source":"<img id=\"LeftControl\"/>","translation":"<img id=\"LeftControl\"/>","status":"draft"}
-{"id":"InputKeyText_LeftControl_short_desc","source":"C","translation":"C","status":"draft"}
-{"id":"InputKeyText_LeftMouseButton_desc","source":"<img id=\"Mouse_LeftButton\"/>","translation":"<img id=\"Mouse_LeftButton\"/>","status":"draft"}
-{"id":"InputKeyText_LeftParantheses_desc","source":"<img id=\"LeftParantheses\"/>","translation":"<img id=\"LeftParantheses\"/>","status":"draft"}
-{"id":"InputKeyText_LeftShift_desc","source":"<img id=\"LeftShift\"/>","translation":"<img id=\"LeftShift\"/>","status":"draft"}
-{"id":"InputKeyText_LeftShift_short_desc","source":"S","translation":"S","status":"draft"}
-{"id":"InputKeyText_Left_desc","source":"<img id=\"Left\"/>","translation":"<img id=\"Left\"/>","status":"draft"}
-{"id":"InputKeyText_M_desc","source":"<img id=\"M\"/>","translation":"<img id=\"M\"/>","status":"draft"}
-{"id":"InputKeyText_MiddleMouseButton_desc","source":"<img id=\"Mouse_MiddleButton\"/>","translation":"<img id=\"Mouse_MiddleButton\"/>","status":"draft"}
-{"id":"InputKeyText_MouseScrollDown_desc","source":"<img id=\"Mouse_ScrollDown\"/>","translation":"<img id=\"Mouse_ScrollDown\"/>","status":"draft"}
-{"id":"InputKeyText_MouseScrollUp_desc","source":"<img id=\"Mouse_ScrolUp\"/>","translation":"<img id=\"Mouse_ScrolUp\"/>","status":"draft"}
-{"id":"InputKeyText_MouseWheelAxis_desc","source":"<img id=\"Mouse_WheelAxis\"/>","translation":"<img id=\"Mouse_WheelAxis\"/>","status":"draft"}
-{"id":"InputKeyText_MouseX_desc","source":"<img id=\"Mouse_X\"/>","translation":"<img id=\"Mouse_X\"/>","status":"draft"}
-{"id":"InputKeyText_MouseY_desc","source":"<img id=\"Mouse_Y\"/>","translation":"<img id=\"Mouse_Y\"/>","status":"draft"}
-{"id":"InputKeyText_Multiply_desc","source":"<img id=\"Multiply\"/>","translation":"<img id=\"Multiply\"/>","status":"draft"}
-{"id":"InputKeyText_N_desc","source":"<img id=\"N\"/>","translation":"<img id=\"N\"/>","status":"draft"}
-{"id":"InputKeyText_Nine_desc","source":"<img id=\"9\"/>","translation":"<img id=\"9\"/>","status":"draft"}
-{"id":"InputKeyText_NumLock_desc","source":"<img id=\"NumLock\"/>","translation":"<img id=\"NumLock\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadEight_desc","source":"<img id=\"Numpad_8\"/>","translation":"<img id=\"Numpad_8\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadEight_short_desc","source":"N8","translation":"N8","status":"draft"}
-{"id":"InputKeyText_NumPadFive_desc","source":"<img id=\"Numpad_5\"/>","translation":"<img id=\"Numpad_5\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadFive_short_desc","source":"N5","translation":"N5","status":"draft"}
-{"id":"InputKeyText_NumPadFour_desc","source":"<img id=\"Numpad_4\"/>","translation":"<img id=\"Numpad_4\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadFour_short_desc","source":"N4","translation":"N4","status":"draft"}
-{"id":"InputKeyText_NumPadNine_desc","source":"<img id=\"Numpad_9\"/>","translation":"<img id=\"Numpad_9\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadNine_short_desc","source":"N9","translation":"N9","status":"draft"}
-{"id":"InputKeyText_NumPadOne_desc","source":"<img id=\"Numpad_1\"/>","translation":"<img id=\"Numpad_1\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadOne_short_desc","source":"N1","translation":"N1","status":"draft"}
-{"id":"InputKeyText_NumPadSeven_desc","source":"<img id=\"Numpad_7\"/>","translation":"<img id=\"Numpad_7\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadSeven_short_desc","source":"N7","translation":"N7","status":"draft"}
-{"id":"InputKeyText_NumPadSix_desc","source":"<img id=\"Numpad_6\"/>","translation":"<img id=\"Numpad_6\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadSix_short_desc","source":"N6","translation":"N6","status":"draft"}
-{"id":"InputKeyText_NumPadThree_desc","source":"<img id=\"Numpad_3\"/>","translation":"<img id=\"Numpad_3\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadThree_short_desc","source":"N3","translation":"N3","status":"draft"}
-{"id":"InputKeyText_NumPadTwo_desc","source":"<img id=\"Numpad_2\"/>","translation":"<img id=\"Numpad_2\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadTwo_short_desc","source":"N2","translation":"N2","status":"draft"}
-{"id":"InputKeyText_NumPadZero_desc","source":"<img id=\"Numpad_0\"/>","translation":"<img id=\"Numpad_0\"/>","status":"draft"}
-{"id":"InputKeyText_NumPadZero_short_desc","source":"N0","translation":"N0","status":"draft"}
-{"id":"InputKeyText_O_desc","source":"<img id=\"O\"/>","translation":"<img id=\"O\"/>","status":"draft"}
-{"id":"InputKeyText_One_desc","source":"<img id=\"1\"/>","translation":"<img id=\"1\"/>","status":"draft"}
-{"id":"InputKeyText_P_desc","source":"<img id=\"P\"/>","translation":"<img id=\"P\"/>","status":"draft"}
-{"id":"InputKeyText_PageDown_desc","source":"<img id=\"PageDown\"/>","translation":"<img id=\"PageDown\"/>","status":"draft"}
-{"id":"InputKeyText_PageUp_desc","source":"<img id=\"PageUp\"/>","translation":"<img id=\"PageUp\"/>","status":"draft"}
-{"id":"InputKeyText_Pause_desc","source":"<img id=\"Pause\"/>","translation":"<img id=\"Pause\"/>","status":"draft"}
-{"id":"InputKeyText_Period_desc","source":"<img id=\"Period\"/>","translation":"<img id=\"Period\"/>","status":"draft"}
-{"id":"InputKeyText_Q_desc","source":"<img id=\"Q\"/>","translation":"<img id=\"Q\"/>","status":"draft"}
-{"id":"InputKeyText_Quote_desc","source":"<img id=\"Quote\"/>","translation":"<img id=\"Quote\"/>","status":"draft"}
-{"id":"InputKeyText_R_desc","source":"<img id=\"R\"/>","translation":"<img id=\"R\"/>","status":"draft"}
-{"id":"InputKeyText_RightAlt_desc","source":"<img id=\"LeftAlt\"/>","translation":"<img id=\"LeftAlt\"/>","status":"draft"}
-{"id":"InputKeyText_RightAlt_short_desc","source":"A","translation":"A","status":"draft"}
-{"id":"InputKeyText_RightBracket_desc","source":"<img id=\"RightBracket\"/>","translation":"<img id=\"RightBracket\"/>","status":"draft"}
-{"id":"InputKeyText_RightCommand_desc","source":"<img id=\"LeftCommand\"/>","translation":"<img id=\"LeftCommand\"/>","status":"draft"}
-{"id":"InputKeyText_RightControl_desc","source":"<img id=\"LeftControl\"/>","translation":"<img id=\"LeftControl\"/>","status":"draft"}
-{"id":"InputKeyText_RightControl_short_desc","source":"C","translation":"C","status":"draft"}
-{"id":"InputKeyText_RightMouseButton_desc","source":"<img id=\"Mouse_RightButton\"/>","translation":"<img id=\"Mouse_RightButton\"/>","status":"draft"}
-{"id":"InputKeyText_RightParantheses_desc","source":"<img id=\"RightParantheses\"/>","translation":"<img id=\"RightParantheses\"/>","status":"draft"}
-{"id":"InputKeyText_RightShift_desc","source":"<img id=\"LeftShift\"/>","translation":"<img id=\"LeftShift\"/>","status":"draft"}
-{"id":"InputKeyText_RightShift_short_desc","source":"S","translation":"S","status":"draft"}
-{"id":"InputKeyText_Right_desc","source":"<img id=\"Right\"/>","translation":"<img id=\"Right\"/>","status":"draft"}
-{"id":"InputKeyText_S_desc","source":"<img id=\"S\"/>","translation":"<img id=\"S\"/>","status":"draft"}
-{"id":"InputKeyText_ScrollLock_desc","source":"<img id=\"ScrollLock\"/>","translation":"<img id=\"ScrollLock\"/>","status":"draft"}
-{"id":"InputKeyText_Section_desc","source":"<img id=\"Section\"/>","translation":"<img id=\"Section\"/>","status":"draft"}
-{"id":"InputKeyText_Semicolon_desc","source":"<img id=\"Semicolon\"/>","translation":"<img id=\"Semicolon\"/>","status":"draft"}
-{"id":"InputKeyText_Seven_desc","source":"<img id=\"7\"/>","translation":"<img id=\"7\"/>","status":"draft"}
-{"id":"InputKeyText_Six_desc","source":"<img id=\"6\"/>","translation":"<img id=\"6\"/>","status":"draft"}
-{"id":"InputKeyText_Slash_desc","source":"<img id=\"Slash\"/>","translation":"<img id=\"Slash\"/>","status":"draft"}
-{"id":"InputKeyText_SpaceBar_desc","source":"<img id=\"SpaceBar\"/>","translation":"<img id=\"SpaceBar\"/>","status":"draft"}
-{"id":"InputKeyText_Subtract_desc","source":"<img id=\"Subtract\"/>","translation":"<img id=\"Subtract\"/>","status":"draft"}
-{"id":"InputKeyText_T_desc","source":"<img id=\"T\"/>","translation":"<img id=\"T\"/>","status":"draft"}
-{"id":"InputKeyText_Tab_desc","source":"<img id=\"Tab\"/>","translation":"<img id=\"Tab\"/>","status":"draft"}
-{"id":"InputKeyText_Three_desc","source":"<img id=\"3\"/>","translation":"<img id=\"3\"/>","status":"draft"}
-{"id":"InputKeyText_ThumbMouseButton2_desc","source":"<img id=\"Mouse_ThumbButton2\"/>","translation":"<img id=\"Mouse_ThumbButton2\"/>","status":"draft"}
-{"id":"InputKeyText_ThumbMouseButton_desc","source":"<img id=\"Mouse_ThumbButton1\"/>","translation":"<img id=\"Mouse_ThumbButton1\"/>","status":"draft"}
-{"id":"InputKeyText_Tilde_desc","source":"<img id=\"Tilde\"/>","translation":"<img id=\"Tilde\"/>","status":"draft"}
-{"id":"InputKeyText_Two_desc","source":"<img id=\"2\"/>","translation":"<img id=\"2\"/>","status":"draft"}
-{"id":"InputKeyText_U_desc","source":"<img id=\"U\"/>","translation":"<img id=\"U\"/>","status":"draft"}
-{"id":"InputKeyText_Underscore_desc","source":"<img id=\"Underscore\"/>","translation":"<img id=\"Underscore\"/>","status":"draft"}
-{"id":"InputKeyText_Up_desc","source":"<img id=\"Up\"/>","translation":"<img id=\"Up\"/>","status":"draft"}
-{"id":"InputKeyText_V_desc","source":"<img id=\"V\"/>","translation":"<img id=\"V\"/>","status":"draft"}
-{"id":"InputKeyText_W_desc","source":"<img id=\"W\"/>","translation":"<img id=\"W\"/>","status":"draft"}
-{"id":"InputKeyText_X_desc","source":"<img id=\"X\"/>","translation":"<img id=\"X\"/>","status":"draft"}
-{"id":"InputKeyText_Y_desc","source":"<img id=\"Y\"/>","translation":"<img id=\"Y\"/>","status":"draft"}
-{"id":"InputKeyText_Z_desc","source":"<img id=\"Z\"/>","translation":"<img id=\"Z\"/>","status":"draft"}
-{"id":"InputKeyText_Zero_desc","source":"<img id=\"0\"/>","translation":"<img id=\"0\"/>","status":"draft"}
-{"id":"InputKeyText_\\_desc","source":"<img id=\"Backslash\"/>","translation":"<img id=\"Backslash\"/>","status":"draft"}
-{"id":"InputKeyText_^_desc","source":"<img id=\"Caret\"/>","translation":"<img id=\"Caret\"/>","status":"draft"}
-{"id":"InputKeyText_`_desc","source":"<img id=\"AccentGrave\"/>","translation":"<img id=\"AccentGrave\"/>","status":"draft"}
-{"id":"InputKeyText_{_desc","source":"<img id=\"LeftCurlyBrace\"/>","translation":"<img id=\"LeftCurlyBrace\"/>","status":"draft"}
-{"id":"InputKeyText_|_desc","source":"<img id=\"VerticalBar\"/>","translation":"<img id=\"VerticalBar\"/>","status":"draft"}
-{"id":"InputKeyText_}_desc","source":"<img id=\"RightCurlyBrace\"/>","translation":"<img id=\"RightCurlyBrace\"/>","status":"draft"}
-{"id":"InputKeyText_~_desc","source":"<img id=\"Tilde\"/>","translation":"<img id=\"Tilde\"/>","status":"draft"}
-{"id":"InputKeyText_¡_desc","source":"<img id=\"InvertedExclamation\"/>","translation":"<img id=\"InvertedExclamation\"/>","status":"draft"}
-{"id":"InputKeyText_«_desc","source":"<img id=\"LeftGuillemet\"/>","translation":"<img id=\"LeftGuillemet\"/>","status":"draft"}
-{"id":"InputKeyText_²_desc","source":"<img id=\"Superscript2\"/>","translation":"<img id=\"Superscript2\"/>","status":"draft"}
-{"id":"InputKeyText_´_desc","source":"<img id=\"AcuteAccent\"/>","translation":"<img id=\"AcuteAccent\"/>","status":"draft"}
-{"id":"InputKeyText_º_desc","source":"<img id=\"MasculineOrdinal\"/>","translation":"<img id=\"MasculineOrdinal\"/>","status":"draft"}
-{"id":"InputKeyText_¿_desc","source":"<img id=\"InvertedQuestion\"/>","translation":"<img id=\"InvertedQuestion\"/>","status":"draft"}
-{"id":"InputKeyText_ß_desc","source":"<img id=\"Eszett\"/>","translation":"<img id=\"Eszett\"/>","status":"draft"}
-{"id":"InputKeyText_ä_desc","source":"<img id=\"A_Umlaut\"/>","translation":"<img id=\"A_Umlaut\"/>","status":"draft"}
-{"id":"InputKeyText_ñ_desc","source":"<img id=\"N_Tilde\"/>","translation":"<img id=\"N_Tilde\"/>","status":"draft"}
-{"id":"InputKeyText_ö_desc","source":"<img id=\"O_Umlaut\"/>","translation":"<img id=\"O_Umlaut\"/>","status":"draft"}
-{"id":"InputKeyText_ù_desc","source":"<img id=\"U_AccentGrave\"/>","translation":"<img id=\"U_AccentGrave\"/>","status":"draft"}
-{"id":"InputKeyText_ü_desc","source":"<img id=\"U_Umlaut\"/>","translation":"<img id=\"U_Umlaut\"/>","status":"draft"}
-{"id":"InputKeyText_б_desc","source":"<img id=\"Comma\"/>","translation":"<img id=\"Comma\"/>","status":"draft"}
-{"id":"InputKeyText_ж_desc","source":"<img id=\"Semicolon\"/>","translation":"<img id=\"Semicolon\"/>","status":"draft"}
-{"id":"InputKeyText_х_desc","source":"<img id=\"LeftBracket\"/>","translation":"<img id=\"LeftBracket\"/>","status":"draft"}
-{"id":"InputKeyText_ъ_desc","source":"<img id=\"RightBracket\"/>","translation":"<img id=\"RightBracket\"/>","status":"draft"}
-{"id":"InputKeyText_э_desc","source":"<img id=\"Apostrophe\"/>","translation":"<img id=\"Apostrophe\"/>","status":"draft"}
-{"id":"InputKeyText_ю_desc","source":"<img id=\"Period\"/>","translation":"<img id=\"Period\"/>","status":"draft"}
-{"id":"InputKeyText_ё_desc","source":"<img id=\"Tilde\"/>","translation":"<img id=\"Tilde\"/>","status":"draft"}
+{"id": "InputKeyText_#_desc", "source": "<img id=\"NumberSign\"/>", "translation": "<img id=\"NumberSign\"/>", "status": "draft"}
+{"id": "InputKeyText_+_desc", "source": "<img id=\"Plus\"/>", "translation": "<img id=\"Plus\"/>", "status": "draft"}
+{"id": "InputKeyText_A_AccentGrave_desc", "source": "<img id=\"A_AccentGrave\"/>", "translation": "<img id=\"A_AccentGrave\"/>", "status": "draft"}
+{"id": "InputKeyText_A_desc", "source": "<img id=\"A\"/>", "translation": "<img id=\"A\"/>", "status": "draft"}
+{"id": "InputKeyText_Add_desc", "source": "<img id=\"Add\"/>", "translation": "<img id=\"Add\"/>", "status": "draft"}
+{"id": "InputKeyText_Ampersand_desc", "source": "<img id=\"Ampersand\"/>", "translation": "<img id=\"Ampersand\"/>", "status": "draft"}
+{"id": "InputKeyText_Android_Back_desc", "source": "Android_Back", "translation": "Wstecz", "status": "draft"}
+{"id": "InputKeyText_Apostrophe_desc", "source": "<img id=\"Apostrophe\"/>", "translation": "<img id=\"Apostrophe\"/>", "status": "draft"}
+{"id": "InputKeyText_Asterix_desc", "source": "<img id=\"Asterix\"/>", "translation": "<img id=\"Asterix\"/>", "status": "draft"}
+{"id": "InputKeyText_B_desc", "source": "<img id=\"B\"/>", "translation": "<img id=\"B\"/>", "status": "draft"}
+{"id": "InputKeyText_BackSpace_desc", "source": "<img id=\"BackSpace\"/>", "translation": "<img id=\"BackSpace\"/>", "status": "draft"}
+{"id": "InputKeyText_Backslash_desc", "source": "<img id=\"Backslash\"/>", "translation": "<img id=\"Backslash\"/>", "status": "draft"}
+{"id": "InputKeyText_C_Cedille_desc", "source": "<img id=\"C_Cedille\"/>", "translation": "<img id=\"C_Cedille\"/>", "status": "draft"}
+{"id": "InputKeyText_C_desc", "source": "<img id=\"C\"/>", "translation": "<img id=\"C\"/>", "status": "draft"}
+{"id": "InputKeyText_CapsLock_desc", "source": "<img id=\"CapsLock\"/>", "translation": "<img id=\"CapsLock\"/>", "status": "draft"}
+{"id": "InputKeyText_Colon_desc", "source": "<img id=\"Colon\"/>", "translation": "<img id=\"Colon\"/>", "status": "draft"}
+{"id": "InputKeyText_Comma_desc", "source": "<img id=\"Comma\"/>", "translation": "<img id=\"Comma\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Che_desc", "source": "<img id=\"Cyrillic_Che\"/>", "translation": "<img id=\"Cyrillic_Che\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Em_desc", "source": "<img id=\"Cyrillic_Em\"/>", "translation": "<img id=\"Cyrillic_Em\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_En_desc", "source": "<img id=\"Cyrillic_En\"/>", "translation": "<img id=\"Cyrillic_En\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Es_desc", "source": "<img id=\"Cyrillic_Es\"/>", "translation": "<img id=\"Cyrillic_Es\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Ghe_desc", "source": "<img id=\"Cyrillic_Ghe\"/>", "translation": "<img id=\"Cyrillic_Ghe\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_I_desc", "source": "<img id=\"Cyrillic_I\"/>", "translation": "<img id=\"Cyrillic_I\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Ka_desc", "source": "<img id=\"Cyrillic_Ka\"/>", "translation": "<img id=\"Cyrillic_Ka\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Sha_desc", "source": "<img id=\"Cyrillic_Sha\"/>", "translation": "<img id=\"Cyrillic_Sha\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Shcha_desc", "source": "<img id=\"Cyrillic_Shcha\"/>", "translation": "<img id=\"Cyrillic_Shcha\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_ShortI_desc", "source": "<img id=\"Cyrillic_ShortI\"/>", "translation": "<img id=\"Cyrillic_ShortI\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_SoftSign_desc", "source": "<img id=\"Cyrillic_SoftSign\"/>", "translation": "<img id=\"Cyrillic_SoftSign\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Te_desc", "source": "<img id=\"Cyrillic_Te\"/>", "translation": "<img id=\"Cyrillic_Te\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Tse_desc", "source": "<img id=\"Cyrillic_Tse\"/>", "translation": "<img id=\"Cyrillic_Tse\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_U_desc", "source": "<img id=\"Cyrillic_U\"/>", "translation": "<img id=\"Cyrillic_U\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Ya_desc", "source": "<img id=\"Cyrillic_Ya\"/>", "translation": "<img id=\"Cyrillic_Ya\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Ye_desc", "source": "<img id=\"Cyrillic_Ye\"/>", "translation": "<img id=\"Cyrillic_Ye\"/>", "status": "draft"}
+{"id": "InputKeyText_Cyrillic_Ze_desc", "source": "<img id=\"Cyrillic_Ze\"/>", "translation": "<img id=\"Cyrillic_Ze\"/>", "status": "draft"}
+{"id": "InputKeyText_D_desc", "source": "<img id=\"D\"/>", "translation": "<img id=\"D\"/>", "status": "draft"}
+{"id": "InputKeyText_Decimal_desc", "source": "<img id=\"Decimal\"/>", "translation": "<img id=\"Decimal\"/>", "status": "draft"}
+{"id": "InputKeyText_Delete_desc", "source": "<img id=\"Delete\"/>", "translation": "<img id=\"Delete\"/>", "status": "draft"}
+{"id": "InputKeyText_Divide_desc", "source": "<img id=\"Divide\"/>", "translation": "<img id=\"Divide\"/>", "status": "draft"}
+{"id": "InputKeyText_Dollar_desc", "source": "<img id=\"Dollar\"/>", "translation": "<img id=\"Dollar\"/>", "status": "draft"}
+{"id": "InputKeyText_Down_desc", "source": "<img id=\"Down\"/>", "translation": "<img id=\"Down\"/>", "status": "draft"}
+{"id": "InputKeyText_E_AccentAigu_desc", "source": "<img id=\"E_AccentAigu\"/>", "translation": "<img id=\"E_AccentAigu\"/>", "status": "draft"}
+{"id": "InputKeyText_E_AccentGrave_desc", "source": "<img id=\"E_AccentGrave\"/>", "translation": "<img id=\"E_AccentGrave\"/>", "status": "draft"}
+{"id": "InputKeyText_E_desc", "source": "<img id=\"E\"/>", "translation": "<img id=\"E\"/>", "status": "draft"}
+{"id": "InputKeyText_Eight_desc", "source": "<img id=\"8\"/>", "translation": "<img id=\"8\"/>", "status": "draft"}
+{"id": "InputKeyText_End_desc", "source": "<img id=\"End\"/>", "translation": "<img id=\"End\"/>", "status": "draft"}
+{"id": "InputKeyText_Enter_desc", "source": "<img id=\"Enter\"/>", "translation": "<img id=\"Enter\"/>", "status": "draft"}
+{"id": "InputKeyText_Equals_desc", "source": "<img id=\"Equals\"/>", "translation": "<img id=\"Equals\"/>", "status": "draft"}
+{"id": "InputKeyText_Escape_desc", "source": "<img id=\"Esc\"/>", "translation": "<img id=\"Esc\"/>", "status": "draft"}
+{"id": "InputKeyText_Exclamation_desc", "source": "<img id=\"Exclamation\"/>", "translation": "<img id=\"Exclamation\"/>", "status": "draft"}
+{"id": "InputKeyText_F10_desc", "source": "<img id=\"F10\"/>", "translation": "<img id=\"F10\"/>", "status": "draft"}
+{"id": "InputKeyText_F11_desc", "source": "<img id=\"F11\"/>", "translation": "<img id=\"F11\"/>", "status": "draft"}
+{"id": "InputKeyText_F12_desc", "source": "<img id=\"F12\"/>", "translation": "<img id=\"F12\"/>", "status": "draft"}
+{"id": "InputKeyText_F1_desc", "source": "<img id=\"F1\"/>", "translation": "<img id=\"F1\"/>", "status": "draft"}
+{"id": "InputKeyText_F2_desc", "source": "<img id=\"F2\"/>", "translation": "<img id=\"F2\"/>", "status": "draft"}
+{"id": "InputKeyText_F3_desc", "source": "<img id=\"F3\"/>", "translation": "<img id=\"F3\"/>", "status": "draft"}
+{"id": "InputKeyText_F4_desc", "source": "<img id=\"F4\"/>", "translation": "<img id=\"F4\"/>", "status": "draft"}
+{"id": "InputKeyText_F5_desc", "source": "<img id=\"F5\"/>", "translation": "<img id=\"F5\"/>", "status": "draft"}
+{"id": "InputKeyText_F6_desc", "source": "<img id=\"F6\"/>", "translation": "<img id=\"F6\"/>", "status": "draft"}
+{"id": "InputKeyText_F7_desc", "source": "<img id=\"F7\"/>", "translation": "<img id=\"F7\"/>", "status": "draft"}
+{"id": "InputKeyText_F8_desc", "source": "<img id=\"F8\"/>", "translation": "<img id=\"F8\"/>", "status": "draft"}
+{"id": "InputKeyText_F9_desc", "source": "<img id=\"F9\"/>", "translation": "<img id=\"F9\"/>", "status": "draft"}
+{"id": "InputKeyText_F_desc", "source": "<img id=\"F\"/>", "translation": "<img id=\"F\"/>", "status": "draft"}
+{"id": "InputKeyText_Five_desc", "source": "<img id=\"5\"/>", "translation": "<img id=\"5\"/>", "status": "draft"}
+{"id": "InputKeyText_Four_desc", "source": "<img id=\"4\"/>", "translation": "<img id=\"4\"/>", "status": "draft"}
+{"id": "InputKeyText_G_desc", "source": "<img id=\"G\"/>", "translation": "<img id=\"G\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_DPad_Down_desc", "source": "<img id=\"GamePad_DPad_Down\"/>", "translation": "<img id=\"GamePad_DPad_Down\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_DPad_Left_desc", "source": "<img id=\"GamePad_DPad_Left\"/>", "translation": "<img id=\"GamePad_DPad_Left\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_DPad_Right_desc", "source": "<img id=\"GamePad_DPad_Right\"/>", "translation": "<img id=\"GamePad_DPad_Right\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_DPad_Up_desc", "source": "<img id=\"GamePad_DPad_Up\"/>", "translation": "<img id=\"GamePad_DPad_Up\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_FaceButton_Bottom_desc", "source": "<img id=\"GamePad_FaceButton_Bottom\"/>", "translation": "<img id=\"GamePad_FaceButton_Bottom\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_FaceButton_Left_desc", "source": "<img id=\"GamePad_FaceButton_Left\"/>", "translation": "<img id=\"GamePad_FaceButton_Left\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_FaceButton_Right_desc", "source": "<img id=\"GamePad_FaceButton_Right\"/>", "translation": "<img id=\"GamePad_FaceButton_Right\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_FaceButton_Top_desc", "source": "<img id=\"GamePad_FaceButton_Top\"/>", "translation": "<img id=\"GamePad_FaceButton_Top\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftShoulder_desc", "source": "<img id=\"GamePad_LeftBumper\"/>", "translation": "<img id=\"GamePad_LeftBumper\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftStick_Down_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftStick_Left_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftStick_Right_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftStick_Up_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftThumbstick_desc", "source": "<img id=\"GamePad_LeftThumbStick\"/>", "translation": "<img id=\"GamePad_LeftThumbStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftTriggerAxis_desc", "source": "Gamepad_LeftTriggerAxis", "translation": "Lewy spust (oś)", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftTrigger_desc", "source": "<img id=\"GamePad_LeftTrigger\"/>", "translation": "<img id=\"GamePad_LeftTrigger\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftX_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_LeftY_desc", "source": "<img id=\"GamePad_LeftStick\"/>", "translation": "<img id=\"GamePad_LeftStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightShoulder_desc", "source": "<img id=\"GamePad_RightBumper\"/>", "translation": "<img id=\"GamePad_RightBumper\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightStick_Down_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightStick_Left_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightStick_Right_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightStick_Up_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightThumbstick_desc", "source": "<img id=\"GamePad_RightThumbStick\"/>", "translation": "<img id=\"GamePad_RightThumbStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightTriggerAxis_desc", "source": "Gamepad_RightTriggerAxis", "translation": "Prawy spust (oś)", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightTrigger_desc", "source": "<img id=\"GamePad_RightTrigger\"/>", "translation": "<img id=\"GamePad_RightTrigger\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightX_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_RightY_desc", "source": "<img id=\"GamePad_RightStick\"/>", "translation": "<img id=\"GamePad_RightStick\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_Special_Left_X_desc", "source": "Gamepad_Special_Left_X", "translation": "Lewy przycisk specjalny (oś X)", "status": "draft"}
+{"id": "InputKeyText_Gamepad_Special_Left_Y_desc", "source": "Gamepad_Special_Left_Y", "translation": "Lewy przycisk specjalny (oś Y)", "status": "draft"}
+{"id": "InputKeyText_Gamepad_Special_Left_desc", "source": "<img id=\"GamePad_Special_Left\"/>", "translation": "<img id=\"GamePad_Special_Left\"/>", "status": "draft"}
+{"id": "InputKeyText_Gamepad_Special_Right_desc", "source": "<img id=\"GamePad_Special_Right\"/>", "translation": "<img id=\"GamePad_Special_Right\"/>", "status": "draft"}
+{"id": "InputKeyText_Gesture_Flick_desc", "source": "Flick", "translation": "Szybkie przesunięcie", "status": "draft"}
+{"id": "InputKeyText_Gesture_Pinch_desc", "source": "Pinch", "translation": "Uszczypnięcie", "status": "draft"}
+{"id": "InputKeyText_Gesture_Rotate_desc", "source": "Rotate", "translation": "Obrót", "status": "draft"}
+{"id": "InputKeyText_H_desc", "source": "<img id=\"H\"/>", "translation": "<img id=\"H\"/>", "status": "draft"}
+{"id": "InputKeyText_Home_desc", "source": "<img id=\"Home\"/>", "translation": "<img id=\"Home\"/>", "status": "draft"}
+{"id": "InputKeyText_Hyphen_desc", "source": "<img id=\"Hyphen\"/>", "translation": "<img id=\"Hyphen\"/>", "status": "draft"}
+{"id": "InputKeyText_I_desc", "source": "<img id=\"I\"/>", "translation": "<img id=\"I\"/>", "status": "draft"}
+{"id": "InputKeyText_Insert_desc", "source": "<img id=\"Insert\"/>", "translation": "<img id=\"Insert\"/>", "status": "draft"}
+{"id": "InputKeyText_J_desc", "source": "<img id=\"J\"/>", "translation": "<img id=\"J\"/>", "status": "draft"}
+{"id": "InputKeyText_K_desc", "source": "<img id=\"K\"/>", "translation": "<img id=\"K\"/>", "status": "draft"}
+{"id": "InputKeyText_L_desc", "source": "<img id=\"L\"/>", "translation": "<img id=\"L\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftAlt_desc", "source": "<img id=\"LeftAlt\"/>", "translation": "<img id=\"LeftAlt\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftAlt_short_desc", "source": "A", "translation": "A", "status": "draft"}
+{"id": "InputKeyText_LeftBracket_desc", "source": "<img id=\"LeftBracket\"/>", "translation": "<img id=\"LeftBracket\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftCommand_desc", "source": "<img id=\"LeftCommand\"/>", "translation": "<img id=\"LeftCommand\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftControl_desc", "source": "<img id=\"LeftControl\"/>", "translation": "<img id=\"LeftControl\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftControl_short_desc", "source": "C", "translation": "C", "status": "draft"}
+{"id": "InputKeyText_LeftMouseButton_desc", "source": "<img id=\"Mouse_LeftButton\"/>", "translation": "<img id=\"Mouse_LeftButton\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftParantheses_desc", "source": "<img id=\"LeftParantheses\"/>", "translation": "<img id=\"LeftParantheses\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftShift_desc", "source": "<img id=\"LeftShift\"/>", "translation": "<img id=\"LeftShift\"/>", "status": "draft"}
+{"id": "InputKeyText_LeftShift_short_desc", "source": "S", "translation": "S", "status": "draft"}
+{"id": "InputKeyText_Left_desc", "source": "<img id=\"Left\"/>", "translation": "<img id=\"Left\"/>", "status": "draft"}
+{"id": "InputKeyText_M_desc", "source": "<img id=\"M\"/>", "translation": "<img id=\"M\"/>", "status": "draft"}
+{"id": "InputKeyText_MiddleMouseButton_desc", "source": "<img id=\"Mouse_MiddleButton\"/>", "translation": "<img id=\"Mouse_MiddleButton\"/>", "status": "draft"}
+{"id": "InputKeyText_MouseScrollDown_desc", "source": "<img id=\"Mouse_ScrollDown\"/>", "translation": "<img id=\"Mouse_ScrollDown\"/>", "status": "draft"}
+{"id": "InputKeyText_MouseScrollUp_desc", "source": "<img id=\"Mouse_ScrolUp\"/>", "translation": "<img id=\"Mouse_ScrolUp\"/>", "status": "draft"}
+{"id": "InputKeyText_MouseWheelAxis_desc", "source": "<img id=\"Mouse_WheelAxis\"/>", "translation": "<img id=\"Mouse_WheelAxis\"/>", "status": "draft"}
+{"id": "InputKeyText_MouseX_desc", "source": "<img id=\"Mouse_X\"/>", "translation": "<img id=\"Mouse_X\"/>", "status": "draft"}
+{"id": "InputKeyText_MouseY_desc", "source": "<img id=\"Mouse_Y\"/>", "translation": "<img id=\"Mouse_Y\"/>", "status": "draft"}
+{"id": "InputKeyText_Multiply_desc", "source": "<img id=\"Multiply\"/>", "translation": "<img id=\"Multiply\"/>", "status": "draft"}
+{"id": "InputKeyText_N_desc", "source": "<img id=\"N\"/>", "translation": "<img id=\"N\"/>", "status": "draft"}
+{"id": "InputKeyText_Nine_desc", "source": "<img id=\"9\"/>", "translation": "<img id=\"9\"/>", "status": "draft"}
+{"id": "InputKeyText_NumLock_desc", "source": "<img id=\"NumLock\"/>", "translation": "<img id=\"NumLock\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadEight_desc", "source": "<img id=\"Numpad_8\"/>", "translation": "<img id=\"Numpad_8\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadEight_short_desc", "source": "N8", "translation": "N8", "status": "draft"}
+{"id": "InputKeyText_NumPadFive_desc", "source": "<img id=\"Numpad_5\"/>", "translation": "<img id=\"Numpad_5\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadFive_short_desc", "source": "N5", "translation": "N5", "status": "draft"}
+{"id": "InputKeyText_NumPadFour_desc", "source": "<img id=\"Numpad_4\"/>", "translation": "<img id=\"Numpad_4\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadFour_short_desc", "source": "N4", "translation": "N4", "status": "draft"}
+{"id": "InputKeyText_NumPadNine_desc", "source": "<img id=\"Numpad_9\"/>", "translation": "<img id=\"Numpad_9\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadNine_short_desc", "source": "N9", "translation": "N9", "status": "draft"}
+{"id": "InputKeyText_NumPadOne_desc", "source": "<img id=\"Numpad_1\"/>", "translation": "<img id=\"Numpad_1\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadOne_short_desc", "source": "N1", "translation": "N1", "status": "draft"}
+{"id": "InputKeyText_NumPadSeven_desc", "source": "<img id=\"Numpad_7\"/>", "translation": "<img id=\"Numpad_7\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadSeven_short_desc", "source": "N7", "translation": "N7", "status": "draft"}
+{"id": "InputKeyText_NumPadSix_desc", "source": "<img id=\"Numpad_6\"/>", "translation": "<img id=\"Numpad_6\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadSix_short_desc", "source": "N6", "translation": "N6", "status": "draft"}
+{"id": "InputKeyText_NumPadThree_desc", "source": "<img id=\"Numpad_3\"/>", "translation": "<img id=\"Numpad_3\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadThree_short_desc", "source": "N3", "translation": "N3", "status": "draft"}
+{"id": "InputKeyText_NumPadTwo_desc", "source": "<img id=\"Numpad_2\"/>", "translation": "<img id=\"Numpad_2\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadTwo_short_desc", "source": "N2", "translation": "N2", "status": "draft"}
+{"id": "InputKeyText_NumPadZero_desc", "source": "<img id=\"Numpad_0\"/>", "translation": "<img id=\"Numpad_0\"/>", "status": "draft"}
+{"id": "InputKeyText_NumPadZero_short_desc", "source": "N0", "translation": "N0", "status": "draft"}
+{"id": "InputKeyText_O_desc", "source": "<img id=\"O\"/>", "translation": "<img id=\"O\"/>", "status": "draft"}
+{"id": "InputKeyText_One_desc", "source": "<img id=\"1\"/>", "translation": "<img id=\"1\"/>", "status": "draft"}
+{"id": "InputKeyText_P_desc", "source": "<img id=\"P\"/>", "translation": "<img id=\"P\"/>", "status": "draft"}
+{"id": "InputKeyText_PageDown_desc", "source": "<img id=\"PageDown\"/>", "translation": "<img id=\"PageDown\"/>", "status": "draft"}
+{"id": "InputKeyText_PageUp_desc", "source": "<img id=\"PageUp\"/>", "translation": "<img id=\"PageUp\"/>", "status": "draft"}
+{"id": "InputKeyText_Pause_desc", "source": "<img id=\"Pause\"/>", "translation": "<img id=\"Pause\"/>", "status": "draft"}
+{"id": "InputKeyText_Period_desc", "source": "<img id=\"Period\"/>", "translation": "<img id=\"Period\"/>", "status": "draft"}
+{"id": "InputKeyText_Q_desc", "source": "<img id=\"Q\"/>", "translation": "<img id=\"Q\"/>", "status": "draft"}
+{"id": "InputKeyText_Quote_desc", "source": "<img id=\"Quote\"/>", "translation": "<img id=\"Quote\"/>", "status": "draft"}
+{"id": "InputKeyText_R_desc", "source": "<img id=\"R\"/>", "translation": "<img id=\"R\"/>", "status": "draft"}
+{"id": "InputKeyText_RightAlt_desc", "source": "<img id=\"LeftAlt\"/>", "translation": "<img id=\"LeftAlt\"/>", "status": "draft"}
+{"id": "InputKeyText_RightAlt_short_desc", "source": "A", "translation": "A", "status": "draft"}
+{"id": "InputKeyText_RightBracket_desc", "source": "<img id=\"RightBracket\"/>", "translation": "<img id=\"RightBracket\"/>", "status": "draft"}
+{"id": "InputKeyText_RightCommand_desc", "source": "<img id=\"LeftCommand\"/>", "translation": "<img id=\"LeftCommand\"/>", "status": "draft"}
+{"id": "InputKeyText_RightControl_desc", "source": "<img id=\"LeftControl\"/>", "translation": "<img id=\"LeftControl\"/>", "status": "draft"}
+{"id": "InputKeyText_RightControl_short_desc", "source": "C", "translation": "C", "status": "draft"}
+{"id": "InputKeyText_RightMouseButton_desc", "source": "<img id=\"Mouse_RightButton\"/>", "translation": "<img id=\"Mouse_RightButton\"/>", "status": "draft"}
+{"id": "InputKeyText_RightParantheses_desc", "source": "<img id=\"RightParantheses\"/>", "translation": "<img id=\"RightParantheses\"/>", "status": "draft"}
+{"id": "InputKeyText_RightShift_desc", "source": "<img id=\"LeftShift\"/>", "translation": "<img id=\"LeftShift\"/>", "status": "draft"}
+{"id": "InputKeyText_RightShift_short_desc", "source": "S", "translation": "S", "status": "draft"}
+{"id": "InputKeyText_Right_desc", "source": "<img id=\"Right\"/>", "translation": "<img id=\"Right\"/>", "status": "draft"}
+{"id": "InputKeyText_S_desc", "source": "<img id=\"S\"/>", "translation": "<img id=\"S\"/>", "status": "draft"}
+{"id": "InputKeyText_ScrollLock_desc", "source": "<img id=\"ScrollLock\"/>", "translation": "<img id=\"ScrollLock\"/>", "status": "draft"}
+{"id": "InputKeyText_Section_desc", "source": "<img id=\"Section\"/>", "translation": "<img id=\"Section\"/>", "status": "draft"}
+{"id": "InputKeyText_Semicolon_desc", "source": "<img id=\"Semicolon\"/>", "translation": "<img id=\"Semicolon\"/>", "status": "draft"}
+{"id": "InputKeyText_Seven_desc", "source": "<img id=\"7\"/>", "translation": "<img id=\"7\"/>", "status": "draft"}
+{"id": "InputKeyText_Six_desc", "source": "<img id=\"6\"/>", "translation": "<img id=\"6\"/>", "status": "draft"}
+{"id": "InputKeyText_Slash_desc", "source": "<img id=\"Slash\"/>", "translation": "<img id=\"Slash\"/>", "status": "draft"}
+{"id": "InputKeyText_SpaceBar_desc", "source": "<img id=\"SpaceBar\"/>", "translation": "<img id=\"SpaceBar\"/>", "status": "draft"}
+{"id": "InputKeyText_Subtract_desc", "source": "<img id=\"Subtract\"/>", "translation": "<img id=\"Subtract\"/>", "status": "draft"}
+{"id": "InputKeyText_T_desc", "source": "<img id=\"T\"/>", "translation": "<img id=\"T\"/>", "status": "draft"}
+{"id": "InputKeyText_Tab_desc", "source": "<img id=\"Tab\"/>", "translation": "<img id=\"Tab\"/>", "status": "draft"}
+{"id": "InputKeyText_Three_desc", "source": "<img id=\"3\"/>", "translation": "<img id=\"3\"/>", "status": "draft"}
+{"id": "InputKeyText_ThumbMouseButton2_desc", "source": "<img id=\"Mouse_ThumbButton2\"/>", "translation": "<img id=\"Mouse_ThumbButton2\"/>", "status": "draft"}
+{"id": "InputKeyText_ThumbMouseButton_desc", "source": "<img id=\"Mouse_ThumbButton1\"/>", "translation": "<img id=\"Mouse_ThumbButton1\"/>", "status": "draft"}
+{"id": "InputKeyText_Tilde_desc", "source": "<img id=\"Tilde\"/>", "translation": "<img id=\"Tilde\"/>", "status": "draft"}
+{"id": "InputKeyText_Two_desc", "source": "<img id=\"2\"/>", "translation": "<img id=\"2\"/>", "status": "draft"}
+{"id": "InputKeyText_U_desc", "source": "<img id=\"U\"/>", "translation": "<img id=\"U\"/>", "status": "draft"}
+{"id": "InputKeyText_Underscore_desc", "source": "<img id=\"Underscore\"/>", "translation": "<img id=\"Underscore\"/>", "status": "draft"}
+{"id": "InputKeyText_Up_desc", "source": "<img id=\"Up\"/>", "translation": "<img id=\"Up\"/>", "status": "draft"}
+{"id": "InputKeyText_V_desc", "source": "<img id=\"V\"/>", "translation": "<img id=\"V\"/>", "status": "draft"}
+{"id": "InputKeyText_W_desc", "source": "<img id=\"W\"/>", "translation": "<img id=\"W\"/>", "status": "draft"}
+{"id": "InputKeyText_X_desc", "source": "<img id=\"X\"/>", "translation": "<img id=\"X\"/>", "status": "draft"}
+{"id": "InputKeyText_Y_desc", "source": "<img id=\"Y\"/>", "translation": "<img id=\"Y\"/>", "status": "draft"}
+{"id": "InputKeyText_Z_desc", "source": "<img id=\"Z\"/>", "translation": "<img id=\"Z\"/>", "status": "draft"}
+{"id": "InputKeyText_Zero_desc", "source": "<img id=\"0\"/>", "translation": "<img id=\"0\"/>", "status": "draft"}
+{"id": "InputKeyText_\\_desc", "source": "<img id=\"Backslash\"/>", "translation": "<img id=\"Backslash\"/>", "status": "draft"}
+{"id": "InputKeyText_^_desc", "source": "<img id=\"Caret\"/>", "translation": "<img id=\"Caret\"/>", "status": "draft"}
+{"id": "InputKeyText_`_desc", "source": "<img id=\"AccentGrave\"/>", "translation": "<img id=\"AccentGrave\"/>", "status": "draft"}
+{"id": "InputKeyText_{_desc", "source": "<img id=\"LeftCurlyBrace\"/>", "translation": "<img id=\"LeftCurlyBrace\"/>", "status": "draft"}
+{"id": "InputKeyText_|_desc", "source": "<img id=\"VerticalBar\"/>", "translation": "<img id=\"VerticalBar\"/>", "status": "draft"}
+{"id": "InputKeyText_}_desc", "source": "<img id=\"RightCurlyBrace\"/>", "translation": "<img id=\"RightCurlyBrace\"/>", "status": "draft"}
+{"id": "InputKeyText_~_desc", "source": "<img id=\"Tilde\"/>", "translation": "<img id=\"Tilde\"/>", "status": "draft"}
+{"id": "InputKeyText_¡_desc", "source": "<img id=\"InvertedExclamation\"/>", "translation": "<img id=\"InvertedExclamation\"/>", "status": "draft"}
+{"id": "InputKeyText_«_desc", "source": "<img id=\"LeftGuillemet\"/>", "translation": "<img id=\"LeftGuillemet\"/>", "status": "draft"}
+{"id": "InputKeyText_²_desc", "source": "<img id=\"Superscript2\"/>", "translation": "<img id=\"Superscript2\"/>", "status": "draft"}
+{"id": "InputKeyText_´_desc", "source": "<img id=\"AcuteAccent\"/>", "translation": "<img id=\"AcuteAccent\"/>", "status": "draft"}
+{"id": "InputKeyText_º_desc", "source": "<img id=\"MasculineOrdinal\"/>", "translation": "<img id=\"MasculineOrdinal\"/>", "status": "draft"}
+{"id": "InputKeyText_¿_desc", "source": "<img id=\"InvertedQuestion\"/>", "translation": "<img id=\"InvertedQuestion\"/>", "status": "draft"}
+{"id": "InputKeyText_ß_desc", "source": "<img id=\"Eszett\"/>", "translation": "<img id=\"Eszett\"/>", "status": "draft"}
+{"id": "InputKeyText_ä_desc", "source": "<img id=\"A_Umlaut\"/>", "translation": "<img id=\"A_Umlaut\"/>", "status": "draft"}
+{"id": "InputKeyText_ñ_desc", "source": "<img id=\"N_Tilde\"/>", "translation": "<img id=\"N_Tilde\"/>", "status": "draft"}
+{"id": "InputKeyText_ö_desc", "source": "<img id=\"O_Umlaut\"/>", "translation": "<img id=\"O_Umlaut\"/>", "status": "draft"}
+{"id": "InputKeyText_ù_desc", "source": "<img id=\"U_AccentGrave\"/>", "translation": "<img id=\"U_AccentGrave\"/>", "status": "draft"}
+{"id": "InputKeyText_ü_desc", "source": "<img id=\"U_Umlaut\"/>", "translation": "<img id=\"U_Umlaut\"/>", "status": "draft"}
+{"id": "InputKeyText_б_desc", "source": "<img id=\"Comma\"/>", "translation": "<img id=\"Comma\"/>", "status": "draft"}
+{"id": "InputKeyText_ж_desc", "source": "<img id=\"Semicolon\"/>", "translation": "<img id=\"Semicolon\"/>", "status": "draft"}
+{"id": "InputKeyText_х_desc", "source": "<img id=\"LeftBracket\"/>", "translation": "<img id=\"LeftBracket\"/>", "status": "draft"}
+{"id": "InputKeyText_ъ_desc", "source": "<img id=\"RightBracket\"/>", "translation": "<img id=\"RightBracket\"/>", "status": "draft"}
+{"id": "InputKeyText_э_desc", "source": "<img id=\"Apostrophe\"/>", "translation": "<img id=\"Apostrophe\"/>", "status": "draft"}
+{"id": "InputKeyText_ю_desc", "source": "<img id=\"Period\"/>", "translation": "<img id=\"Period\"/>", "status": "draft"}
+{"id": "InputKeyText_ё_desc", "source": "<img id=\"Tilde\"/>", "translation": "<img id=\"Tilde\"/>", "status": "draft"}

@@ -1,3 +1,27 @@
+{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_body", "source": "Include Customization Info", "translation": "Uwzględnij informacje o personalizacji", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_SHOOTING_body", "source": "Shoot", "translation": "Zrób zdjęcie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_MENU_body", "source": "Snapshot", "translation": "Zrzut ekranu", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_BASIC_SETUP_body", "source": "Default Settings", "translation": "Ustawienia domyślne", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_EXPRESSION_SETUP_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_LOOKAT_body", "source": "Face Camera", "translation": "Zwróć twarz w stronę kamery", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_OTHER_PLAYER_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_PLAYER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_body", "source": "Display Nameplate", "translation": "Wyświetl tabliczkę z nazwą", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_HIDE_ALL_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_SHOW_OWNER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_body", "source": "Change Target", "translation": "Zmień cel", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_PET_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_BOTTOM_body", "source": "Bottom Left", "translation": "Lewy dolny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_TOP_body", "source": "Top Left", "translation": "Lewy górny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_BOTTOM_body", "source": "Bottom Right", "translation": "Prawy dolny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_TOP_body", "source": "Top Right", "translation": "Prawy górny róg", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_body", "source": "Display Watermark", "translation": "Wyświetl znak wodny", "status": "draft"}
+{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_body", "source": "Snapshot Settings", "translation": "Ustawienia zrzutu ekranu", "status": "draft"}
 {"id": "String_UI_SOCIALACTION_CHAT_body", "source": "Chat", "translation": "Czat", "status": "draft"}
 {"id": "String_UI_SOCIALACTION_CHECKBUTTON_BOOKMARK_body", "source": "Show favorites only", "translation": "Pokaż tylko ulubione", "status": "draft"}
 {"id": "String_UI_SOCIALACTION_CHECKBUTTON_REGISTERED_body", "source": "Show acquired emotes only", "translation": "Pokaż tylko zdobyte emotki", "status": "draft"}
@@ -96,7 +120,7 @@
 {"id": "String_UI_STORAGE_MOVE_FROM_OTHER_STORAGE_body", "source": "Import items duplicated between Storages", "translation": "Importuj przedmioty powtarzające się w magazynach", "status": "draft"}
 {"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_ARMOR_TYPE_TITLE_body", "source": "Item Material", "translation": "Materiał przedmiotu", "status": "draft"}
 {"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_CATEGORY_TITLE_body", "source": "Item Type", "translation": "Typ przedmiotu", "status": "draft"}
-{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_GRADE_TITLE_body", "source": "Item Grade", "translation": "Ranga przedmiotu", "status": "draft"}
+{"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_GRADE_TITLE_body", "source": "Item Grade", "translation": "Jakość przedmiotu", "status": "draft"}
 {"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_ITEMLEVEL_COMPARE_TITLE_body", "source": "Select gear that cannot be equipped and has a low base item level", "translation": "Wybierz wyposażenie, którego nie można założyć i które ma niski bazowy poziom przedmiotów", "status": "draft"}
 {"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_LEVEL_TITLE2_body", "source": "Minimum Equip / Use Level Settings 2", "translation": "Ustawienia minimalnego poziomu zakładania/używania 2", "status": "draft"}
 {"id": "String_UI_STORAGE_SHOPPINGCART_DETAIL_SETTING_LEVEL_TITLE_body", "source": "Minimum Equip / Use Level Settings", "translation": "Ustawienia minimalnego poziomu zakładania/używania", "status": "draft"}
@@ -163,12 +187,12 @@
 {"id": "String_UI_SUBSCRIBE_ODERENGYCUBE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You get an additional Odyle Energy Cube selection with a\nSpecial Quai Membership.", "translation": "Dodatkowy wybór Kostki energii Odyle otrzymasz dzięki\nczłonkostwu Special Quai.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_ONBOARDING_PREMIUM_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can obtain {0} premium rewards with a Quai Membership.", "translation": "Członkostwo Quai zapewnia {0} nagród premium.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_PERIOD_body", "source": "{0}d", "translation": "{0} d", "status": "draft"}
-{"id": "String_UI_SUBSCRIBE_PET_LOOTING_TITLE_body", "source": "Pet Auto-Loot", "translation": "Automatyczne zbieranie przez Wierzchowca", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_PET_LOOTING_TITLE_body", "source": "Pet Auto-Loot", "translation": "Automatyczne zbieranie przez zwierzaka", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_REMAIN_PERIOD_body", "source": "{0} remaining", "translation": "Pozostało {0}", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can access Remote Storage with a\nSpecial Quai Membership.", "translation": "Dostęp do zdalnego magazynu jest możliwy dzięki\nczłonkostwu Special Quai.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_body", "source": "Can be used after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_REWARD_body", "source": "Receive immediately with Premium Subscription", "translation": "Odbierz natychmiast z subskrypcją Premium", "status": "draft"}
-{"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_BUY_body", "source": "You can purchase a Pet Auto-Loot item from the Wind Breeze Merchants.", "translation": "Możesz kupić przedmiot automatycznego zbierania przez Wierzchowca u handlarzy Wind Breeze.", "status": "draft"}
+{"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_BUY_body", "source": "You can purchase a Pet Auto-Loot item from the Wind Breeze Merchants.", "translation": "Możesz kupić przedmiot automatycznego zbierania przez zwierzaka u handlarzy Wind Breeze.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_NOT_SUBSCRIBE_body", "source": "Grants access to Wind Breeze Merchants.", "translation": "Zapewnia dostęp do handlarzy Wind Breeze.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_SHOP_INFO_TOOLTIP_SUBSCRIBED_body", "source": "You can purchase items from the Wind Breeze Merchants with a\nSpecial Quai Membership.", "translation": "Możesz kupować przedmioty u handlarzy Wind Breeze dzięki\nczłonkostwu Special Quai.", "status": "draft"}
 {"id": "String_UI_SUBSCRIBE_SUBSCRIBE_body", "source": "Subscribed", "translation": "Subskrypcja aktywna", "status": "draft"}
@@ -213,7 +237,7 @@
 {"id": "String_UI_SUPPRESSION_DIFFICULTY_BONUS_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_DIFFICULTY_body", "source": "Difficulty", "translation": "Poziom trudności", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_DUNGEON_HUD_ABNORMAL_LIST_body", "source": "Buff List", "translation": "Lista wzmocnień", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_DEATH_LIMIT_body", "source": "Remaining Deaths: {0}", "translation": "Pozostałe śmierci: {0}", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_DUNGEON_HUD_DEATH_LIMIT_body", "source": "Remaining Deaths: {0}", "translation": "Pozostałe zgony: {0}", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_DUNGEON_HUD_KILL_NPC_body", "source": "Target", "translation": "Cel", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_DUNGEON_HUD_TIME_LIMIT_body", "source": "Time", "translation": "Czas", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_EASY_body", "source": "Easy", "translation": "Łatwy", "status": "draft"}
@@ -224,27 +248,3 @@
 {"id": "String_UI_SUPPRESSION_HUD_MATCHING_START_REQUIR_INFO_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_IINFO_RANKING_DESC_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_IINFO_REWARD_SEASON_NONE_body", "source": "No Rewards Obtainable", "translation": "Brak dostępnych nagród", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_IINFO_REWARD_SEASON_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_IINFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_INFO_CONTENTS_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba podejść", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_INFO_SOCRE_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_INFO_TOOLTIP_NEED_MEMBER_body", "source": "Required Participants", "translation": "Wymagana liczba uczestników", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body", "source": "Entering the dungeon shortly.", "translation": "Wkrótce nastąpi wejście do lochu.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_WARNING_body", "source": "If you cancel matchmaking multiple times after it has already completed, subjugation entry will be restricted for a certain period of time.", "translation": "Wielokrotne anulowanie ukończonego dobierania graczy zablokuje na pewien czas wejście do Podboju.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_NOTICE_MATCHING_SEASON_OUTDATE_body", "source": "Cannot begin matchmaking as the season has ended.", "translation": "Nie można rozpocząć dobierania graczy, ponieważ sezon dobiegł końca.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_NOTICE_SEASON_OUTDATE_body", "source": "Season has ended.", "translation": "Sezon dobiegł końca.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RANKING_REWARD_DESC_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_REQUIRED_CONDITION_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_BUTTON_QUIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_CLEAR_body", "source": "Subjugation Success", "translation": "Podbój zakończony powodzeniem", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_FAIL_DEATH_body", "source": "Remaining Deaths Count", "translation": "Pozostała liczba śmierci", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_FAIL_REWARD_body", "source": "No rewards obtained.", "translation": "Nie zdobyto nagród.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TITLE_body", "source": "{0} Failed", "translation": "{0} — niepowodzenie", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_FAIL_body", "source": "Subjugation Fail", "translation": "Podbój nieudany", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_BASIC_SCORE_body", "source": "Clear Points", "translation": "Punkty za ukończenie", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DEATH_body", "source": "Total Deaths", "translation": "Łączna liczba śmierci", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DIFFICULTY_BONUS_body", "source": "Difficulty Bonus", "translation": "Premia za poziom trudności", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_NOCONTRIBUTE_body", "source": "Cannot receive reward and Rank Points due to </>insufficient Contribution<insufficient>.", "translation": "Nie otrzymasz nagrody ani punktów rankingowych z powodu </>niewystarczającego wkładu<insufficient>.", "status": "draft"}
-{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_REWARD_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}

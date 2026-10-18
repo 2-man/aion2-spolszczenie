@@ -215,7 +215,7 @@
 {"id": "ServerName_31_desc", "source": "StandAlone_Light", "translation": "Samodzielny serwer Elyos", "status": "draft"}
 {"id": "ServerName_31_short_desc", "source": "ElyosStand", "translation": "Elyos — serwer samodzielny", "status": "draft"}
 {"id": "ServerName_32_desc", "source": "StandAlone_Dark", "translation": "Samodzielny serwer Asmodian", "status": "draft"}
-{"id": "ServerName_32_short_desc", "source": "AsmodiansStand", "translation": "Asmodianie — serwer samodzielny", "status": "draft"}
+{"id": "ServerName_32_short_desc", "source": "AsmodiansStand", "translation": "Asmodian — serwer samodzielny", "status": "draft"}
 {"id": "ServerName_35_desc", "source": "StandAlone_InterServer", "translation": "Samodzielny serwer międzyserwerowy", "status": "draft"}
 {"id": "ServerName_35_short_desc", "source": "InterStand", "translation": "Międzyserwerowy — serwer samodzielny", "status": "draft"}
 {"id": "ServerName_3_desc", "source": "Elyos3_FullName", "translation": "Elyos3_FullName", "status": "draft"}
@@ -225,7 +225,7 @@
 {"id": "ServerName_51_desc", "source": "Dev_Reporting_Light", "translation": "Deweloperski serwer zgłoszeń Elyos", "status": "draft"}
 {"id": "ServerName_51_short_desc", "source": "ElyosDevR", "translation": "Elyos — deweloperski serwer zgłoszeń", "status": "draft"}
 {"id": "ServerName_52_desc", "source": "Dev_Reporting_Dark", "translation": "Deweloperski serwer zgłoszeń Asmodian", "status": "draft"}
-{"id": "ServerName_52_short_desc", "source": "AsmodiansDevR", "translation": "Asmodianie — deweloperski serwer zgłoszeń", "status": "draft"}
+{"id": "ServerName_52_short_desc", "source": "AsmodiansDevR", "translation": "Asmodian — deweloperski serwer zgłoszeń", "status": "draft"}
 {"id": "ServerName_55_desc", "source": "Dev_Reporting_InterServer", "translation": "Deweloperski serwer zgłoszeń międzyserwerowych", "status": "draft"}
 {"id": "ServerName_55_short_desc", "source": "InterDevR", "translation": "Międzyserwerowy — deweloperski serwer zgłoszeń", "status": "draft"}
 {"id": "ServerName_5_desc", "source": "Elyos5_FullName", "translation": "Elyos5_FullName", "status": "draft"}
@@ -244,5 +244,5 @@
 {"id": "ServerName_610_short_desc", "source": "Dist2_3_Dark", "translation": "Dist2_3 — Asmodian", "status": "draft"}
 {"id": "ServerName_901_desc", "source": "Review_Siel", "translation": "Przegląd — Siel", "status": "draft"}
 {"id": "ServerName_901_short_desc", "source": "RVL", "translation": "RVL", "status": "draft"}
-{"id": "ServerName_902_desc", "source": "Review_Israpel", "translation": "Review_Israpel", "status": "draft"}
+{"id": "ServerName_902_desc", "source": "Review_Israpel", "translation": "Przegląd — Israphel", "status": "draft"}
 {"id": "ServerName_902_short_desc", "source": "RVD", "translation": "RVD", "status": "draft"}

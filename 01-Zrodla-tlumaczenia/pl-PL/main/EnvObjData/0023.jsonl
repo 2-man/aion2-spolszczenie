@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_Seal_Altgard_014_Egg_008_desc", "source": "Moving Insectoid Egg", "translation": "Przenoszenie jaja owadopodobnego", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Altgard_014_EnterPortal_001_desc", "source": "Insectoid Tunnel Entrance", "translation": "Wejście do tunelu owadopodobnych", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Altgard_014_EnterPortal_001_interact_desc", "source": "Entering Insectoid Tunnel...", "translation": "Wchodzenie do tunelu owadopodobnych...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Altgard_015_EnterPortal_001_desc", "source": "Bloodsoaked Confessional Entrance", "translation": "Wejście do Zakrwawionego Konfesjonału", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Altgard_015_EnterPortal_001_interact_desc", "source": "Entering the Bloodsoaked Confessional...", "translation": "Wchodzenie do Zakrwawionego Konfesjonału...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Altgard_016_Coffin_001_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Altgard_016_Coffin_001_interact_desc", "source": "Checking inside the Stone Casket...", "translation": "Sprawdzanie zawartości kamiennego sarkofagu...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Altgard_016_Coffin_002_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Altgard_016_Coffin_002_interact_desc", "source": "Checking inside the Stone Casket...", "translation": "Sprawdzanie zawartości kamiennego sarkofagu...", "status": "draft"}
@@ -242,9 +248,3 @@
 {"id": "EnvObjData_E_Seal_Dark_061_Memorial_001_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_Memorial_002_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_Memorial_002_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_003_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_003_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_004_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_004_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_005_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Dark_061_Memorial_005_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}

@@ -1,3 +1,4 @@
+{"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_GRADE_body", "source": "By Item Grade", "translation": "Według jakości przedmiotu", "status": "draft"}
 {"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_LEVEL_body", "source": "By Item Level", "translation": "Według poziomu przedmiotu", "status": "draft"}
 {"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_SET_EFFECT_body", "source": "By Set Effects", "translation": "Według efektów zestawu", "status": "draft"}
 {"id": "String_UI_EMBLEM_SLOT_UNLOCK_CATEGORY_ACHIEVEMENT_body", "source": "Achievement Unlocked", "translation": "Osiągnięcie odblokowane", "status": "draft"}
@@ -15,8 +16,8 @@
 {"id": "String_UI_EMBLEM_TYPE_EMBLEMH_body", "source": "Focus Seal", "translation": "Pieczęć Skupienia", "status": "draft"}
 {"id": "String_UI_EMBLEM_TYPE_EMBLEMI_body", "source": "Strike Seal", "translation": "Pieczęć Uderzenia", "status": "draft"}
 {"id": "String_UI_EMBLEM_TYPE_EMBLEMJ_body", "source": "Sprint Seal", "translation": "Pieczęć Sprintu", "status": "draft"}
-{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Superior Transfer Recovery Count: {0}", "translation": "Liczba udanych doskonałych transferów: {0}", "status": "draft"}
-{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_SUCCESS_MAX_COUNT_body", "source": "Seasonal Superior Transfer Successes: {0}", "translation": "Liczba sezonowych udanych doskonałych transferów: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Superior Transfer Recovery Count: {0}", "translation": "Liczba przywróceń transferów wyższej klasy: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_ADVANCED_SUCCESSION_GUIDETEXT_SUCCESS_MAX_COUNT_body", "source": "Seasonal Superior Transfer Successes: {0}", "translation": "Liczba udanych sezonowych transferów wyższej klasy: {0}", "status": "draft"}
 {"id": "String_UI_ENCHANT_BUTTON_ACC_MAGICSTONE_body", "source": "Soulstone", "translation": "Kamień duszy", "status": "draft"}
 {"id": "String_UI_ENCHANT_BUTTON_COMBINE_CLOSE_GODSTONE_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
 {"id": "String_UI_ENCHANT_BUTTON_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
@@ -105,7 +106,7 @@
 {"id": "String_UI_ENCHANT_HOLD_MATERIAL_body", "source": "Owned", "translation": "Posiadane", "status": "draft"}
 {"id": "String_UI_ENCHANT_INVENTORY_TAB_MAGICSTONE_MATERIAL_body", "source": "Engraving Materials", "translation": "Materiały do grawerowania", "status": "draft"}
 {"id": "String_UI_ENCHANT_INVENTORY_TAB_MAGICSTONE_body", "source": "Manastone / Soulstone", "translation": "Kamień many / Kamień duszy", "status": "draft"}
-{"id": "String_UI_ENCHANT_INVENTORY_body", "source": "Cube", "translation": "Sześcian", "status": "draft"}
+{"id": "String_UI_ENCHANT_INVENTORY_body", "source": "Cube", "translation": "Kostka", "status": "draft"}
 {"id": "String_UI_ENCHANT_LIST_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
 {"id": "String_UI_ENCHANT_MAGICSTONE_APPLY_GUIDETEXT_CHANGE_body", "source": "Engraving will change the current engraving effects.", "translation": "Grawerowanie zmieni obecne efekty grawerowania.", "status": "draft"}
 {"id": "String_UI_ENCHANT_MAGICSTONE_APPLY_GUIDETEXT_body", "source": "After Engraving, all slots will gain effects.", "translation": "Po grawerowaniu wszystkie sloty otrzymają efekty.", "status": "draft"}
@@ -196,18 +197,18 @@
 {"id": "String_UI_ENCHANT_SOULBIND_TAB_TOOLTIP_EQUIPMENT_body", "source": "Gear", "translation": "Ekwipunek", "status": "draft"}
 {"id": "String_UI_ENCHANT_SOULBIND_TAB_TOOLTIP_MATERIAL_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
 {"id": "String_UI_ENCHANT_SOULSELECT_PROB_TOOLTIP_body", "source": "Soul Sync Chance applies depending on the Materials Item Grade and Item Level.", "translation": "Szansa synchronizacji duszy zależy od jakości i poziomu przedmiotu użytego jako materiał.", "status": "draft"}
-{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_ADVANCED_SUCCESS_COUNT_body", "source": "Superior Transfer", "translation": "Doskonały transfer", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_ADVANCED_SUCCESS_COUNT_body", "source": "Superior Transfer", "translation": "Transfer wyższej klasy", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_MAX_COUNT_body", "source": "Cannot perform any further Gear Transfers this season.", "translation": "W tym sezonie nie można już wykonywać transferów ekwipunku.", "status": "draft"}
-{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Regular Transfer Recovery Count: {0}", "translation": "Liczba zwykłych odzyskań transferu: {0}", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_RESTORE_COUNT_body", "source": "Regular Transfer Recovery Count: {0}", "translation": "Liczba przywróceń zwykłego transferu: {0}", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SELECT_ITEM_body", "source": "Select a target item for Gear Transfer.", "translation": "Wybierz przedmiot docelowy do transferu ekwipunku.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SELECT_MATERIAL_ITEM_body", "source": "Select an item to use as material for Gear Transfer.", "translation": "Wybierz przedmiot, który będzie materiałem do transferu ekwipunku.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_COUNT_body", "source": "Seasonal Transfer Success: {0}", "translation": "Liczba udanych transferów w sezonie: {0}", "status": "draft"}
-{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_GUIDE_body", "source": "Enhancement and Transfer Crafting Superior Transfer count are shown.", "translation": "Wyświetlana jest liczba doskonałych transferów rzemieślniczych oraz ulepszeń i transferów.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_GUIDE_body", "source": "Enhancement and Transfer Crafting Superior Transfer count are shown.", "translation": "Wyświetlana jest liczba udanych wzmocnień oraz transferów wyższej klasy.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_MAX_COUNT_body", "source": "Seasonal Transfer Success: {0}", "translation": "Liczba udanych transferów w sezonie: {0}", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDETEXT_body", "source": "Transfers Enhance Level and Soul Binding effects.", "translation": "Przenosi poziom ulepszenia i efekty związania duszy.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_GUIDE_SOULBIND_FIXED_ITEM_body", "source": "Fixed Soul Binding effects are not transferred.\nOnly Enhance Level is transferred.", "translation": "Stałe efekty związania duszy nie zostaną przeniesione.\nPrzenoszony jest tylko poziom ulepszenia.", "status": "draft"}
-{"id": "String_UI_ENCHANT_SUCCESSION_INFO_TEXT_body", "source": "<Title_List_CurCount>Superior Gear Transfer</>\nTransfers gear to a higher grade.\nHigher grade gear cannot be transferred to lower grade gear.\nWhen transferring to a higher grade, Soul Binding stats are applied at the enhance level of the transferred gear.", "translation": "<Title_List_CurCount>Doskonały transfer ekwipunku</>\nPrzenosi ekwipunek do przedmiotu o wyższej jakości.\nEkwipunku o wyższej jakości nie można przenieść na przedmiot niższej jakości.\nPrzy transferze do przedmiotu wyższej jakości statystyki związania duszy zostaną zastosowane na poziomie ulepszenia przenoszonego ekwipunku.", "status": "draft"}
+{"id": "String_UI_ENCHANT_SUCCESSION_INFO_TEXT_body", "source": "<Title_List_CurCount>Superior Gear Transfer</>\nTransfers gear to a higher grade.\nHigher grade gear cannot be transferred to lower grade gear.\nWhen transferring to a higher grade, Soul Binding stats are applied at the enhance level of the transferred gear.", "translation": "<Title_List_CurCount>Transfer ekwipunku wyższej klasy</>\nPrzenosi ekwipunek do przedmiotu o wyższej jakości.\nEkwipunku o wyższej jakości nie można przenieść na przedmiot niższej jakości.\nPrzy transferze do przedmiotu wyższej jakości statystyki związania duszy zostaną zastosowane na poziomie ulepszenia przenoszonego ekwipunku.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_MAIN_STAT_body", "source": "Main Stats", "translation": "Główne statystyki", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_MATERIAL_body", "source": "Gear Transfer Material", "translation": "Materiał do transferu ekwipunku", "status": "draft"}
 {"id": "String_UI_ENCHANT_SUCCESSION_NOTICE_SOULADD_body", "source": "(Cannot Transfer)", "translation": "(Nie można przenieść)", "status": "draft"}
@@ -247,4 +248,3 @@
 {"id": "String_UI_ENCHANT_SURPASS_MAX_GUIDETEXT_body", "source": "Reached Max Potential Level.", "translation": "Osiągnięto maksymalny poziom potencjału.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SURPASS_NOHAVE_MATERIAL_GUIDETEXT_body", "source": "Insufficient Potential enhance materials.", "translation": "Za mało materiałów do ulepszania potencjału.", "status": "draft"}
 {"id": "String_UI_ENCHANT_SURPASS_POSSIBLE_GUIDETEXT_body", "source": "Enhance Potential using Potential Enhance Materials.", "translation": "Ulepsz potencjał za pomocą materiałów do ulepszania potencjału.", "status": "draft"}
-{"id": "String_UI_ENCHANT_SURPASS_SUCCESS_PROB_body", "source": "{0}% Success Chance", "translation": "Szansa powodzenia: {0}%", "status": "draft"}

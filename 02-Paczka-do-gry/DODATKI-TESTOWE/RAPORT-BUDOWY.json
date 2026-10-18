@@ -1,0 +1,74 @@
+﻿{
+    "packageId":  "AION2-PL-EXTRAS-20261014-v2",
+    "packageType":  "offline experimental extras",
+    "installTarget":  "Aion2/Content/Paks/~mods",
+    "unsigned":  true,
+    "runtimeTested":  false,
+    "gameModified":  false,
+    "installerModified":  false,
+    "includesGlobalContainer":  false,
+    "includesSdk":  true,
+    "includesSupplementalPak":  true,
+    "files":  [
+                  {
+                      "name":  "pakchunk999995-Windows_999_P.utoc",
+                      "kind":  "sdk-iostore",
+                      "bytes":  530,
+                      "sha256":  "0c28d51d88b392e8b45a86b77992e6743c22366337637a09bee945b78e0dadcd",
+                      "source":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\sdk\\NcPlatformSdk-pl-PL.utoc"
+                  },
+                  {
+                      "name":  "pakchunk999995-Windows_999_P.ucas",
+                      "kind":  "sdk-iostore",
+                      "bytes":  39757,
+                      "sha256":  "213f9ff2426ebc4fcecb746f76ac80822b38b7b9414d1e49dfdfbab01fd8ddfc",
+                      "source":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\sdk\\NcPlatformSdk-pl-PL.ucas"
+                  },
+                  {
+                      "name":  "pakchunk999995-Windows_999_P.pak",
+                      "kind":  "sdk-iostore",
+                      "bytes":  347,
+                      "sha256":  "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+                      "source":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\sdk\\NcPlatformSdk-pl-PL.pak"
+                  },
+                  {
+                      "name":  "pakchunk999997-Windows_999_P.pak",
+                      "kind":  "supplemental-pak",
+                      "bytes":  1561311,
+                      "sha256":  "eca0475790f39f58bae4d6cbfb13f974c47a21de48b954dc50a588a517eafccf",
+                      "source":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\supplemental-test\\pakchunk999997-Windows_999_P.pak"
+                  }
+              ],
+    "sourceReports":  {
+                          "sdk":  "reports/sdk-build.json",
+                          "supplemental":  "work/build/supplemental-test/manifest.json"
+                      },
+    "archive":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\extras-test\\AION2-PL-extras-test.zip",
+    "archiveBytes":  494041,
+    "archiveSha256":  "97e8f13dcf16cfc70e0593c9aacfb7fe0a759fc01588becb0a9b0b858fb35d32",
+    "archivePayloadRoundtripPassed":  true,
+    "gamePaksCollisionCheckPassed":  true,
+    "fakeRootInstallRestoreTested":  true,
+    "fakeRootTestReport":  "work/build/extras-test/fake-root-test.json",
+    "foreignFilenameCollisionRefused":  true,
+    "modifiedOwnedFileRestoreRefusedAtomically":  true,
+    "fakeRootSecurityChecks":  {
+                                   "fakeRoot":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\extras-test\\fake-root",
+                                   "dryRunPassed":  true,
+                                   "installFourFilesPassed":  true,
+                                   "restoreRemovedOnlyOwnedFilesPassed":  true,
+                                   "foreignFilenameCollisionRefused":  true,
+                                   "modifiedOwnedFileRestoreRefusedAtomically":  true,
+                                   "restoreAfterRestoringExpectedHashPassed":  true,
+                                   "doubleInstallAndRestoreRefused":  true,
+                                   "existingModsPreserved":  true,
+                                   "missingOwnedFileRestorePassed":  true,
+                                   "manifestPathTraversalRefused":  true,
+                                   "incompletePayloadRejectedBeforeMutation":  true,
+                                   "modsJunctionRefused":  false,
+                                   "paksRootJunctionRefused":  false,
+                                   "junctionCreationError":  "Odmowa dostępu",
+                                   "gameModified":  false,
+                                   "reportPath":  "C:\\Users\\Hubert\\.codex\\visualizations\\2026\\10\\10\\01a12754-74c3-7851-afe3-b5589b1178cc\\AION2-PL\\work\\build\\extras-test\\fake-root-test.json"
+                               }
+}

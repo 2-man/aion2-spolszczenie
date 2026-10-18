@@ -1,250 +1,250 @@
-{"id":"String_STR_ABNORMAL_PROPERTY_TYPE_BODY_body","source":"Ailment-type","translation":"Typ dolegliwości","status":"draft"}
-{"id":"String_STR_ABNORMAL_PROPERTY_TYPE_MENTAL_body","source":"Mental-type","translation":"Typ mentalny","status":"draft"}
-{"id":"String_STR_ABNORMAL_PROPERTY_TYPE_SHOCK_body","source":"Impact-type","translation":"Typ uderzenia","status":"draft"}
-{"id":"String_STR_ABYSSBATTLEFIELD_NEXT_SCHEDULE_body","source":"Next war in {0}","translation":"Następna bitwa za {0}","status":"draft"}
-{"id":"String_STR_ABYSSRIFT_NEXT_SCHEDUL_body","source":"Time until next event","translation":"Czas do następnego wydarzenia","status":"draft"}
-{"id":"String_STR_ABYSSRIFT_PREPARE_body","source":"Preparing...","translation":"Przygotowywanie...","status":"draft"}
-{"id":"String_STR_ABYSSRIFT_PROCESS_body","source":"In Progress","translation":"W toku","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_01_body","source":"Supreme Commander","translation":"Naczelny Dowódca","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_02_body","source":"Commander","translation":"Dowódca","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_03_body","source":"Marshal","translation":"Marszałek","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_04_body","source":"General","translation":"Generał","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_05_body","source":"5-Star Officer","translation":"Oficer 5. rangi","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_06_body","source":"4-Star Officer","translation":"Oficer 4. rangi","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_07_body","source":"3-Star Officer","translation":"Oficer 3. rangi","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_08_body","source":"2-Star Officer","translation":"Oficer 2. rangi","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_09_body","source":"1-Star Officer","translation":"Oficer 1. rangi","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_10_body","source":"First-Class Soldier","translation":"Żołnierz 1. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_11_body","source":"Second-Class Soldier","translation":"Żołnierz 2. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_12_body","source":"Third-Class Soldier","translation":"Żołnierz 3. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_13_body","source":"Fourth-Class Soldier","translation":"Żołnierz 4. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_14_body","source":"Fifth-Class Soldier","translation":"Żołnierz 5. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_15_body","source":"Sixth-Class Soldier","translation":"Żołnierz 6. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_16_body","source":"Seventh-Class Soldier","translation":"Żołnierz 7. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_17_body","source":"Eighth-Class Soldier","translation":"Żołnierz 8. klasy","status":"draft"}
-{"id":"String_STR_ABYSS_GRADE_18_body","source":"Ninth-Class Soldier","translation":"Żołnierz 9. klasy","status":"draft"}
-{"id":"String_STR_ACHIEVEMENT_RESET_TYPE_SEASON_body","source":"S  E  A  S  O  N","translation":"S  E  Z  O  N","status":"draft"}
-{"id":"String_STR_ACHIEVEMENT_RESET_TYPE_WEEKLY_body","source":"W  E  E  K  L  Y","translation":"T  Y  G  O  D  N  I  O  W  O","status":"draft"}
-{"id":"String_STR_ADVENTURE_QUEST_SELECT_UI_TITLE_body","source":"{0} Exploration Quest","translation":"Zadanie eksploracyjne: {0}","status":"draft"}
-{"id":"String_STR_AD_G_pic_A_NPC_ShugoM_02_body","source":"Artwork: Shugo Alchemist","translation":"Dzieło: alchemik Shugo","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Buffer_Calderon_Hill_body","source":"Artwork: Calderon Canyon","translation":"Dzieło: Kanion Calderon","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Dredgion_Crash_Site_body","source":"Artwork: Dredgion Crash Site","translation":"Dzieło: miejsce katastrofy Dredgionu","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_FugitiveVillage_body","source":"Artwork: Safe Haven","translation":"Dzieło: bezpieczna przystań","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Impetusium_body","source":"Artwork: Impetusium","translation":"Dzieło: Impetusium","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_MagicDoor_01_body","source":"Artwork: Archon Underground Fortress Door","translation":"Dzieło: brama podziemnej twierdzy Archontów","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Moslan_Forest_body","source":"Artwork: Moslan Forest","translation":"Dzieło: Las Moslan","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Nornir_Lodge_body","source":"Artwork: Nornir Assembly","translation":"Dzieło: zgromadzenie Nornir","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Quairerk_Camp_body","source":"Artwork: Quai Campsite","translation":"Dzieło: obóz Quai","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Sanctum_Watchpost_body","source":"Artwork: Sanctum Outpost","translation":"Dzieło: posterunek Sanctum","status":"draft"}
-{"id":"String_STR_AD_G_pic_D_Unnamed_Cemetery_body","source":"Artwork: Nameless Cemetery","translation":"Dzieło: Bezimienny cmentarz","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Ardus_Shrine_body","source":"Artwork: Ardus Shrine","translation":"Dzieło: świątynia Ardus","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Buffer_EllunRiver_Midstream_body","source":"Artwork: Ellun River Midstream","translation":"Dzieło: środkowy bieg rzeki Ellun","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Buffer_Pilgrims_Ridge_Path_body","source":"Artwork: Pilgrim's Ridge","translation":"Dzieło: Grań Pielgrzyma","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Cantas_Valley_body","source":"Artwork: Cantas Valley","translation":"Dzieło: dolina Cantas","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Dawn_Legion_Base_body","source":"Artwork: Dawn Legion Base","translation":"Dzieło: baza Legionu Świtu","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Ellun_River_Marsh_body","source":"Artwork: Ellun River Marsh","translation":"Dzieło: bagna rzeki Ellun","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_StoneDoor_06_body","source":"Artwork: Zumion Stone Gate","translation":"Dzieło: Kamienna Brama Zumion","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Tolbas_Forest_body","source":"Artwork: Tolbas Forest","translation":"Dzieło: las Tolbas","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Verteron_Fortress_Ruin_body","source":"Artwork: Verteron Fortress Ruins","translation":"Dzieło: ruiny twierdzy Verteron","status":"draft"}
-{"id":"String_STR_AD_G_pic_L_Verteron_ZumionVillage_body","source":"Artwork: Zumion Village","translation":"Dzieło: wioska Zumion","status":"draft"}
-{"id":"String_STR_AD_pic_A_BakronIsland_body","source":"Artwork: Vakron Sky Island","translation":"Dzieło: podniebna wyspa Vakron","status":"draft"}
-{"id":"String_STR_AD_pic_A_BlueBreathIsle_body","source":"Artwork: Azure Breath Island","translation":"Dzieło: wyspa Błękitnego Tchnienia","status":"draft"}
-{"id":"String_STR_AD_pic_A_CradleNihility_body","source":"Artwork: Cradle of Nihility","translation":"Dzieło: Kolebka Nicości","status":"draft"}
-{"id":"String_STR_AD_pic_A_DaevaCitadel_body","source":"Artwork: Citadel of the Fallen Daeva","translation":"Dzieło: Cytadela Upadłej Daevy","status":"draft"}
-{"id":"String_STR_AD_pic_A_DeadDramataNest_body","source":"Artwork: Dying Dramata's Nest","translation":"Dzieło: gniazdo umierającej Dramaty","status":"draft"}
-{"id":"String_STR_AD_pic_A_Draupnir_body","source":"Artwork: Draupnir","translation":"Dzieło: Draupnir","status":"draft"}
-{"id":"String_STR_AD_pic_A_Eltenen_body","source":"Artwork: Eltnen","translation":"Dzieło: Eltnen","status":"draft"}
-{"id":"String_STR_AD_pic_A_ErosionPurifier_body","source":"Artwork: Corroded Decontamination Facility","translation":"Dzieło: skorodowany zakład oczyszczania","status":"draft"}
-{"id":"String_STR_AD_pic_A_FE_Dilemma_body","source":"Artwork: Shugo's Dilemma","translation":"Dzieło: dylemat Shugo","status":"draft"}
-{"id":"String_STR_AD_pic_A_Fire_Temple_body","source":"Artwork: Fire Temple","translation":"Dzieło: Fire Temple","status":"draft"}
-{"id":"String_STR_AD_pic_A_HornCave_body","source":"Artwork: Ferocious Horn Den","translation":"Dzieło: legowisko Groźnego Rogacza","status":"draft"}
-{"id":"String_STR_AD_pic_A_KraoCave_body","source":"Artwork: Krao","translation":"Dzieło: Krao","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AbBoss_01_body","source":"Artwork: Guardian Lord Nahma","translation":"Dzieło: Władca Strażników Nahma","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AddShulack_01_body","source":"Artwork: Addicted Shulak Laborer","translation":"Dzieło: uzależniony robotnik Shulak","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AddShulack_05_body","source":"Artwork: Addicted Hardirun","translation":"Dzieło: uzależniony Hardirun","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Agrint_04_body","source":"Artwork: Rotten Root Meltlim","translation":"Dzieło: zgniły korzeniak Meltlim","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AltKnife_04_V02_body","source":"Artwork: Blood Warrior Lannar","translation":"Dzieło: krwawy wojownik Lannar","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AltKnife_06_body","source":"Artwork: Desecrator Newbold","translation":"Dzieło: profanator Newbold","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AltKnife_06a_body","source":"Artwork: Elite Inquisitor Verant","translation":"Dzieło: elitarny inkwizytor Verant","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_AltKnife_07_body","source":"Artwork: Executioner Barthien","translation":"Dzieło: kat Barthien","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Bargot_01_body","source":"Artwork: Modified Bargott [Season 3]","translation":"Dzieło: zmodyfikowany Bargott [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Basilisk_02_body","source":"Artwork: Three-Horned Mino","translation":"Dzieło: trójrogie Mino","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_BeritraD_01_body","source":"Artwork: Third Unit Captain Karkoti","translation":"Dzieło: kapitan trzeciego oddziału Karkoti","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_BeritraD_01a_body","source":"Artwork: Third Unit Captain Minasara","translation":"Dzieło: kapitan trzeciego oddziału Minasara","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_BigMan_01_V03_body","source":"Artwork: Rotten Kutar","translation":"Dzieło: zgniły Kutar","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Bug_02_V01_body","source":"Artwork: Agglomerated Verenom","translation":"Dzieło: zlepiony Verenom","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Coradon_01_V03_body","source":"Artwork: Blooming Korin","translation":"Dzieło: kwitnący Korin","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DarkLeda_02_body","source":"Artwork: Enraged Reda [Season 2]","translation":"Dzieło: rozwścieczona Reda [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DracoElite_01_V01_body","source":"Artwork: Sharp Shylak","translation":"Dzieło: ostry Shylak","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DracoWar_01_V03_body","source":"Artwork: Faithful Rajit","translation":"Dzieło: wierny Rajit","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DranaVar_02_V01_body","source":"Artwork: Melted Danar","translation":"Dzieło: stopiony Danar","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Dratona_03_body","source":"Artwork: Predator Colossus Balakh","translation":"Dzieło: kolosalny drapieżnik Balakh","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DstrArchonE_01_body","source":"Artwork: Specter Archon Axios","translation":"Dzieło: widmowy Archont Axios","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DstrArchonE_01a_body","source":"Artwork: Severed Wings Zvein","translation":"Dzieło: Zvein o odciętych skrzydłach","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DstrArchonE_01b_body","source":"Artwork: Frostarmor Harkhan","translation":"Dzieło: Harkhan w lodowej zbroi","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_DstrArchon_01_body","source":"Artwork: Soulless Destruction Archons Gladiator","translation":"Dzieło: bezduszny gladiator Archontów Zniszczenia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Duduka_01_body","source":"Artwork: Duduka Worker","translation":"Dzieło: robotnik Duduka","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Durbati_01_V01_body","source":"Artwork: Abyssal Ludra","translation":"Dzieło: Ludra z Otchłani","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_EleKing_01_V02_body","source":"Artwork: Argo, the Spirit King","translation":"Dzieło: Argo, Król Duchów","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_EvSpirit_02_body","source":"Artwork: Resentful Daeva Wraith Boss","translation":"Dzieło: mściwy przywódca widm Daevy","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Evspirit_02_CV02_body","source":"Artwork: Turncoat Ducal","translation":"Dzieło: zdrajca Ducal","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Fieoce_01_body","source":"Artwork: Wings of Hellfire Fios","translation":"Dzieło: Fios o skrzydłach piekielnego ognia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_FighterM_01_V03_body","source":"Artwork: Special Operations Leader Linx","translation":"Dzieło: dowódca operacji specjalnych Linx","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_FighterM_04_V01_body","source":"Artwork: Old Boss Vigor","translation":"Dzieło: stary przywódca Vigor","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_FireEle_04_V01_body","source":"Artwork: Mad Watcher Bulagan","translation":"Dzieło: szalony strażnik Bulagan","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Gartua_01_body","source":"Artwork: Oathbreaker Gartua [Season 3]","translation":"Dzieło: krzywoprzysięzca Gartua [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Gauss_01_body","source":"Artwork: Sanctum Guardian Gauss [Season 3]","translation":"Dzieło: strażnik Sanctum Gauss [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Guardit_03_body","source":"Artwork: Divine Ansas","translation":"Dzieło: boski Ansas","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kaisinel_01_body","source":"Artwork: Kaisinel's Illusion [Season 2]","translation":"Dzieło: iluzja Kaisinela [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kalgolem_03_CV01_body","source":"Artwork: Vulcanarch Grymnir","translation":"Dzieło: arcywulkanista Grymnir","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KalnifElite_01_V01_body","source":"Artwork: Bloodfang Pnyn","translation":"Dzieło: Pnyn o krwawych kłach","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KalnifElite_01_V01a_body","source":"Artwork: Superbia, Sacred Beast of Life","translation":"Dzieło: Superbia, Święta Bestia Życia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KalnifElite_01_body","source":"Artwork: Crimson Blizzard Renulf","translation":"Dzieło: Renulf, Karmazynowa Zamieć","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kashapa_01_CV02_body","source":"Artwork: Executioner Dramos","translation":"Dzieło: kat Dramos","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kashapa_01_body","source":"Artwork: Soul Ruler Kashapa","translation":"Dzieło: władca dusz Kashapa","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kashapa_01a_body","source":"Artwork: Deputy Commander Vivajra","translation":"Dzieło: zastępca dowódcy Vivajra","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kashapa_01b_body","source":"Artwork: Deputy Commander Sarvakha","translation":"Dzieło: zastępca dowódcy Sarvakha","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Kasia_01_body","source":"Artwork: Phantasm Kasia","translation":"Dzieło: zjawa Kasia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Keneir_01_V02_body","source":"Artwork: Kernon of the West","translation":"Dzieło: Kernon z Zachodu","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Keneir_01_V03_body","source":"Artwork: Neikel of the East","translation":"Dzieło: Neikel ze Wschodu","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KrallElite_01_CV01_body","source":"Artwork: Lava Heart Batu","translation":"Dzieło: Batu o lawowym sercu","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KrallElite_01_V01_body","source":"Artwork: Kusan the Mad Gladiator","translation":"Dzieło: Kusan, Szalony Gladiator","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_KrallElite_02_V01_body","source":"Artwork: Ritualist Garshim","translation":"Dzieło: rytualista Garshim","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Ktima_01_body","source":"Artwork: First Test Subject K'tima","translation":"Dzieło: pierwszy obiekt testowy K'tima","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Lagta_01_body","source":"Artwork: High Commander Lagta","translation":"Dzieło: Wysoki Dowódca Lagta","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_LakeGuard_01_body","source":"Artwork: Lake Guardian","translation":"Dzieło: strażnik jeziora","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Lufilini_01_body","source":"Artwork: Modified Lupyllini","translation":"Dzieło: zmodyfikowany Lupyllini","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Lycan_04_body","source":"Artwork: Visionary Karuka","translation":"Dzieło: wizjoner Karuka","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Lycan_05_body","source":"Artwork: Veteran Shujakan","translation":"Dzieło: weteran Shujakan","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_NagaElite_05_body","source":"Artwork: Black Tentacle Lawa","translation":"Dzieło: Lawa o czarnych mackach","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Nahid_01_CV02_body","source":"Artwork: Ravager Marakha","translation":"Dzieło: niszczyciel Marakha","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Nahid_01_WP_body","source":"Artwork: High Commander Nahid's Greatsword","translation":"Dzieło: wielki miecz Wysokiego Dowódcy Nahida","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Neuth_03_body","source":"Artwork: Bodyguard Teegant","translation":"Dzieło: ochroniarz Teegant","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Nihogg_01_body","source":"Artwork: Rabid Nihogg","translation":"Dzieło: wściekły Nihogg","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_NornirVar_02_V02_body","source":"Artwork: Deceiver Trid","translation":"Dzieło: oszust Trid","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_OwlElite_01_CV01_body","source":"Artwork: Chaser Taulo","translation":"Dzieło: łowca Taulo","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_OwlElite_01_V01_body","source":"Artwork: Forest Warrior Aullamu","translation":"Dzieło: leśny wojownik Aullamu","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_OwlMagic_01_V01_body","source":"Artwork: Scholar Aulla","translation":"Dzieło: uczony Aulla","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Owlac_01_body","source":"Artwork: Sharp Aulak [Season 2]","translation":"Dzieło: ostry Aulak [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Owlapri_01_body","source":"Artwork: Ritualist Aulisa [Season 3]","translation":"Dzieło: rytualista Aulisa [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Owltros_01_body","source":"Artwork: Root Mythical Bird Aultross [Season 3]","translation":"Dzieło: mityczny ptak korzeni Aultross [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Pargon_01_body","source":"Artwork: Edgewalker Pargon","translation":"Dzieło: wędrowiec krawędzi Pargon","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Perion_01_body","source":"Artwork: Sealed Sura [Season 2]","translation":"Dzieło: zapieczętowany Sura [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Phaini_01_body","source":"Artwork: Crasaur","translation":"Dzieło: Crasaur","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_PretorBoss_01_body","source":"Artwork: Gluttonous Egetis","translation":"Dzieło: żarłoczny Egetis","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Protect_01_body","source":"Artwork: Incarnated Warding Feather [Season 3]","translation":"Dzieło: wcielone ochronne pióro [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Radvima_01_CV02_body","source":"Artwork: Executor Tamasa","translation":"Dzieło: egzekutor Tamasa","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Ramfu_04_body","source":"Artwork: Lamphus of Agony","translation":"Dzieło: Lamphus Cierpienia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Rathman_01_body","source":"Artwork: Soulreaper Rathman [Season 2]","translation":"Dzieło: żniwiarz dusz Rathman [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Santras_01_body","source":"Artwork: Warden Santras [Season 2]","translation":"Dzieło: strażnik Santras [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_SkurvWar_04_V03_body","source":"Artwork: High Overseer Nutah","translation":"Dzieło: Główny Nadzorca Nutah","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_SpiritKnt_02_body","source":"Artwork: TBD","translation":"Grafika: do ustalenia","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_SuraPriest_01_V04_body","source":"Artwork: Heretic Layla","translation":"Dzieło: heretyczka Layla","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_SuraPriest_01_body","source":"Artwork: Sura Priest","translation":"Dzieło: kapłan Sura","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_SuraWar_05_V02_body","source":"Artwork: Black Warrior Aed","translation":"Dzieło: czarny wojownik Aed","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Tasin_02_body","source":"Artwork: Tyrant Tassin [Season 3]","translation":"Dzieło: tyran Tassin [Sezon 3]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Ulgorn_01_body","source":"Artwork: Mutated Ulgorn [Season 2]","translation":"Dzieło: zmutowany Ulgorn [Sezon 2]","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Undead_01_body","source":"Artwork: Centurion Demiros","translation":"Dzieło: centurion Demiros","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_UrsussElite_01_CV01_body","source":"Artwork: Predator Garsan","translation":"Dzieło: drapieżnik Garsan","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_UrsussElite_01_V01_body","source":"Artwork: Furious Saursus","translation":"Dzieło: rozwścieczony Saursus","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_Varg_03_V01_body","source":"Artwork: Berserker Vargor","translation":"Dzieło: berserker Vargor","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_WaterEle_04_V01_body","source":"Artwork: Blue Wave Kelpina","translation":"Dzieło: Kelpina, Błękitna Fala","status":"draft"}
-{"id":"String_STR_AD_pic_A_MOB_WaterEle_04_V01a_body","source":"Artwork: Azure Tear Glacia","translation":"Dzieło: Glacia, Błękitna Łza","status":"draft"}
-{"id":"String_STR_AD_pic_A_Morheim_body","source":"Artwork: Morheim","translation":"Dzieło: Morheim","status":"draft"}
-{"id":"String_STR_AD_pic_A_MusphelHolyGrail_body","source":"Artwork: Chalice of Muspel","translation":"Dzieło: Kielich Muspel","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_Ashar_01_body","source":"Artwork: Asahr","translation":"Dzieło: Asahr","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_DredgionA_01_body","source":"Artwork: Dredgion Warship","translation":"Dzieło: okręt wojenny Dredgion","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_M_ShulackA_03_body","source":"Artwork: Shulak","translation":"Dzieło: Shulak","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_ShugoGame_01_body","source":"Artwork: Shugo Festival Manager","translation":"Dzieło: zarządca festiwalu Shugo","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_ShugoM_02_body","source":"Artwork: Shugo Alchemist","translation":"Dzieło: alchemik Shugo","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_ShugoShop_02_body","source":"Artwork: Secret Shop Shugo","translation":"Dzieło: Shugo z tajnego sklepu","status":"draft"}
-{"id":"String_STR_AD_pic_A_NPC_Siel_01_body","source":"Artwork: Siel","translation":"Dzieło: Siel","status":"draft"}
-{"id":"String_STR_AD_pic_A_PhantomsHall_body","source":"Artwork: Hall of Illusion","translation":"Dzieło: Sala Iluzji","status":"draft"}
-{"id":"String_STR_AD_pic_A_Piano_body","source":"Artwork: Village Piano","translation":"Dzieło: wiejskie pianino","status":"draft"}
-{"id":"String_STR_AD_pic_A_Urugugu_Canyon_body","source":"Artwork: Urugugu","translation":"Dzieło: Urugugu","status":"draft"}
-{"id":"String_STR_AD_pic_A_VEH_Horse_03_body","source":"Artwork: Adventure Together","translation":"Dzieło: wspólna przygoda","status":"draft"}
-{"id":"String_STR_AD_pic_A_WingA_003_body","source":"Artwork: Brawler Wings","translation":"Dzieło: skrzydła zapaśnika","status":"draft"}
-{"id":"String_STR_AD_pic_A_s1_MOB_FafBlood_01_body","source":"Artwork: Fafnir's Poison Blood","translation":"Dzieło: trująca krew Fafnira","status":"draft"}
-{"id":"String_STR_AD_pic_A_s1_MOB_Ferk_01_body","source":"Artwork: Furious Feruk","translation":"Dzieło: rozwścieczony Feruk","status":"draft"}
-{"id":"String_STR_AD_pic_A_s1_MOB_Giselle_01_body","source":"Artwork: Wraith Giselle","translation":"Dzieło: widmo Giselle","status":"draft"}
-{"id":"String_STR_AD_pic_A_s1_MOB_PinoBoss_01_body","source":"Artwork: Pino Gatekeeper","translation":"Dzieło: strażnik bramy Pino","status":"draft"}
-{"id":"String_STR_AD_pic_A_s1_MOB_Zikel_01_body","source":"Artwork: Zikel's Apparition","translation":"Dzieło: zjawa Zikela","status":"draft"}
-{"id":"String_STR_AD_pic_D_AbGuardian_02_body","source":"Artwork: Guardian Lord","translation":"Dzieło: Władca Strażników","status":"draft"}
-{"id":"String_STR_AD_pic_D_Buffer_Calderon_Hill_body","source":"Artwork: Calderon Canyon","translation":"Dzieło: Kanion Calderon","status":"draft"}
-{"id":"String_STR_AD_pic_D_Dredgion_Crash_Site_body","source":"Artwork: Dredgion Crash Site","translation":"Dzieło: miejsce katastrofy Dredgionu","status":"draft"}
-{"id":"String_STR_AD_pic_D_FugitiveVillage_body","source":"Artwork: Safe Haven","translation":"Dzieło: bezpieczna przystań","status":"draft"}
-{"id":"String_STR_AD_pic_D_Impetusium_body","source":"Artwork: Impetusium","translation":"Dzieło: Impetusium","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_BeritraD_01_body","source":"Artwork: Watcher Kaira","translation":"Dzieło: obserwatorka Kaira","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_BeritraD_03_V01_body","source":"Artwork: Dark Shadow Vishwada","translation":"Dzieło: Mroczny Cień Vishwada","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_BeritraD_04_V01_body","source":"Artwork: Drakan Battalion Weapon Guruta","translation":"Dzieło: oręż batalionu Drakan Guruta","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_DrakanElite_03_V01_body","source":"Artwork: Advisor Resana","translation":"Dzieło: doradczyni Resana","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_Gartua_01_V02_body","source":"Artwork: Immortal Gartua","translation":"Dzieło: nieśmiertelny Gartua","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_Gerod_01_body","source":"Artwork: Gerod","translation":"Dzieło: Gerod","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_Nothun_01_body","source":"Artwork: Fortress Guardian Notun","translation":"Dzieło: strażnik twierdzy Notun","status":"draft"}
-{"id":"String_STR_AD_pic_D_MOB_Tasin_02_body","source":"Artwork: Tyrant Tassin","translation":"Dzieło: tyran Tassin","status":"draft"}
-{"id":"String_STR_AD_pic_D_MagicDoor_01_body","source":"Artwork: Archon Underground Fortress Door","translation":"Dzieło: brama podziemnej twierdzy Archontów","status":"draft"}
-{"id":"String_STR_AD_pic_D_Moslan_Forest_body","source":"Artwork: Moslan Forest","translation":"Dzieło: Las Moslan","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_F_Master_03_body","source":"Artwork: Artisan Blacksmith","translation":"Dzieło: mistrz kowalstwa","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_F_Master_04_body","source":"Artwork: Artisan Armorsmith","translation":"Dzieło: mistrz płatnerstwa","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_Histan_01_body","source":"Artwork: Destruction Archons High Priest Hystan","translation":"Dzieło: arcykapłan Archontów Zniszczenia Hystan","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_M_Master_06_body","source":"Artwork: Artisan Essence Extractor","translation":"Dzieło: mistrz pozyskiwania esencji","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_M_Master_08_body","source":"Artwork: Artisan Handicrafter","translation":"Dzieło: mistrz rzemiosła","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_M_Master_09_body","source":"Artwork: Artisan Alchemist","translation":"Dzieło: mistrz alchemii","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_M_Master_10_body","source":"Artwork: Artisan Chef","translation":"Dzieło: mistrz kucharski","status":"draft"}
-{"id":"String_STR_AD_pic_D_NPC_M_ShugoB_01_body","source":"Artwork: Quai Merchants","translation":"Dzieło: kupcy Quai","status":"draft"}
-{"id":"String_STR_AD_pic_D_Nornir_Lodge_body","source":"Artwork: Nornir Assembly","translation":"Dzieło: zgromadzenie Nornir","status":"draft"}
-{"id":"String_STR_AD_pic_D_Quairerk_Camp_body","source":"Artwork: Quai Campsite","translation":"Dzieło: obóz Quai","status":"draft"}
-{"id":"String_STR_AD_pic_D_Sanctum_Watchpost_body","source":"Artwork: Sanctum Outpost","translation":"Dzieło: posterunek Sanctum","status":"draft"}
-{"id":"String_STR_AD_pic_D_Unnamed_Cemetery_body","source":"Artwork: Nameless Cemetery","translation":"Dzieło: Bezimienny cmentarz","status":"draft"}
-{"id":"String_STR_AD_pic_L_AbGuardian_01_body","source":"Artwork: Guardian Lord","translation":"Dzieło: Władca Strażników","status":"draft"}
-{"id":"String_STR_AD_pic_L_Ardus_Shrine_body","source":"Artwork: Ardus Shrine","translation":"Dzieło: świątynia Ardus","status":"draft"}
-{"id":"String_STR_AD_pic_L_Buffer_EllunRiver_Midstream_body","source":"Artwork: Ellun River Midstream","translation":"Dzieło: środkowy bieg rzeki Ellun","status":"draft"}
-{"id":"String_STR_AD_pic_L_Buffer_Pilgrims_Ridge_Path_body","source":"Artwork: Pilgrim's Ridge","translation":"Dzieło: Grań Pielgrzyma","status":"draft"}
-{"id":"String_STR_AD_pic_L_Cantas_Valley_body","source":"Artwork: Cantas Valley","translation":"Dzieło: dolina Cantas","status":"draft"}
-{"id":"String_STR_AD_pic_L_Dawn_Legion_Base_body","source":"Artwork: Dawn Legion Base","translation":"Dzieło: baza Legionu Świtu","status":"draft"}
-{"id":"String_STR_AD_pic_L_Ellun_River_Marsh_body","source":"Artwork: Ellun River Marsh","translation":"Dzieło: bagna rzeki Ellun","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_BeritraD_01_body","source":"Artwork: Silent Dartan","translation":"Dzieło: Milczący Dartan","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_BeritraD_03_V01_body","source":"Artwork: Researcher Setram","translation":"Dzieło: badacz Setram","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_BeritraD_04_V01_body","source":"Artwork: Sentinel K'nash","translation":"Dzieło: wartownik K'nash","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_DrakanElite_03_V01_body","source":"Artwork: Harvest Manager Moshav","translation":"Dzieło: zarządca zbiorów Moshav","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_Gartua_01_V02_body","source":"Artwork: Eternal Gartua","translation":"Dzieło: wieczny Gartua","status":"draft"}
-{"id":"String_STR_AD_pic_L_MOB_Hiladr_01_body","source":"Artwork: Karas Mutant Heladrir","translation":"Dzieło: zmutowany Karas Heladrir","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_F_Master_01_body","source":"Artwork: Artisan Blacksmith","translation":"Dzieło: mistrz kowalstwa","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_F_Master_02_body","source":"Artwork: Artisan Armorsmith","translation":"Dzieło: mistrz płatnerstwa","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_F_ShugoA_01_body","source":"Artwork: Wind Breeze Merchants","translation":"Dzieło: kupcy Wietrznej Bryzy","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_M_Master_01_body","source":"Artwork: Artisan Essence Extractor","translation":"Dzieło: mistrz pozyskiwania esencji","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_M_Master_03_body","source":"Artwork: Artisan Handicrafter","translation":"Dzieło: mistrz rzemiosła","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_M_Master_04_body","source":"Artwork: Artisan Alchemist","translation":"Dzieło: mistrz alchemii","status":"draft"}
-{"id":"String_STR_AD_pic_L_NPC_M_Master_05_body","source":"Artwork: Artisan Chef","translation":"Dzieło: mistrz kucharski","status":"draft"}
-{"id":"String_STR_AD_pic_L_StoneDoor_06_body","source":"Artwork: Zumion Stone Gate","translation":"Dzieło: Kamienna Brama Zumion","status":"draft"}
-{"id":"String_STR_AD_pic_L_TeinaFrame_01_body","source":"Artwork: Teina's Portrait","translation":"Dzieło: portret Teiny","status":"draft"}
-{"id":"String_STR_AD_pic_L_Tolbas_Forest_body","source":"Artwork: Tolbas Forest","translation":"Dzieło: las Tolbas","status":"draft"}
-{"id":"String_STR_AD_pic_L_Verteron_Fortress_Ruin_body","source":"Artwork: Verteron Fortress Ruins","translation":"Dzieło: ruiny twierdzy Verteron","status":"draft"}
-{"id":"String_STR_AD_pic_L_Verteron_ZumionVillage_body","source":"Artwork: Zumion Village","translation":"Dzieło: wioska Zumion","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_AbBoss_01_body","source":"Colossus: Guardian Lord Nahma","translation":"Kolos: Władca Strażników Nahma","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Ateron_01_body","source":"Colossus: Ascended Atheron","translation":"Kolos: Wniebowstąpiony Atheron","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Cromede_01_body","source":"Colossus Kromede's Desire","translation":"Kolos: Pragnienie Kromede","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_DarkLeda_02_body","source":"Colossus: Enraged Reda","translation":"Kolos: rozwścieczona Reda","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Gerod_01_body","source":"Colossus: Gerod","translation":"Kolos: Gerod","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Kaisinel_01_body","source":"Colossus: Kaisinel's Illusion","translation":"Kolos: iluzja Kaisinela","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Nahid_01_body","source":"Colossus: High Commander Nahid","translation":"Kolos: Wysoki Dowódca Nahid","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Nothun_01_body","source":"Colossus: Fortress Guardian Notun","translation":"Kolos: strażnik twierdzy Notun","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Owlapri_01_body","source":"Colossus: Ritualist Aulisa","translation":"Kolos: rytualista Aulisa","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Protect_01_body","source":"Colossus: Incarnated Warding Feather","translation":"Kolos: wcielone ochronne pióro","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Santras_01_body","source":"Colossus: Warden Santras","translation":"Kolos: strażnik Santras","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Tasin_02_body","source":"Colossus: Tyrant Tassin","translation":"Kolos: tyran Tassin","status":"draft"}
-{"id":"String_STR_AD_statueL_A_MOB_Zikel_01_body","source":"Colossus: Zikel's Apparition","translation":"Kolos: zjawa Zikela","status":"draft"}
-{"id":"String_STR_AD_statueL_D_s1_abyss_a_01_body","source":"Colossus: Asmodian Supreme Commander","translation":"Kolos: Naczelny Dowódca Asmodian","status":"draft"}
-{"id":"String_STR_AD_statueL_D_s1_abyss_b_01_body","source":"Colossus: Asmodian Commander","translation":"Kolos: Dowódca Asmodian","status":"draft"}
-{"id":"String_STR_AD_statueL_D_s1_abyss_c_01_body","source":"Colossus: Asmodian Marshal","translation":"Kolos: Marszałek Asmodian","status":"draft"}
-{"id":"String_STR_AD_statueL_L_s1_abyss_a_01_body","source":"Colossus: Elyos Supreme Commander","translation":"Kolos: Naczelny Dowódca Elyosów","status":"draft"}
-{"id":"String_STR_AD_statueL_L_s1_abyss_b_01_body","source":"Colossus: Elyos Commander","translation":"Kolos: Dowódca Elyosów","status":"draft"}
-{"id":"String_STR_AD_statueL_L_s1_abyss_c_01_body","source":"Colossus: Elyos Marshal","translation":"Kolos: Marszałek Elyosów","status":"draft"}
-{"id":"String_STR_AD_statueS_A_AcaciaTree_01_body","source":"Statue: Debassy Honey Tree","translation":"Posąg: Miodowe drzewo Debassy","status":"draft"}
-{"id":"String_STR_AD_statueS_A_DreamArtifact_01_body","source":"Statue: Dream Fragment","translation":"Posąg: fragment snu","status":"draft"}
-{"id":"String_STR_AD_statueS_A_Eltenen_Tree_body","source":"Statue: Eltnen's Flower Trees","translation":"Posąg: kwitnące drzewa Eltnen","status":"draft"}
-{"id":"String_STR_AD_statueS_A_MOB_Bakarma_02_body","source":"Statue: Transcendent Bakarma","translation":"Posąg: transcendentalny Bakarma","status":"draft"}
-{"id":"String_STR_AD_statueS_A_MOB_Bargot_01_body","source":"Statue: Modified Bargott","translation":"Posąg: zmodyfikowany Bargott","status":"draft"}
-{"id":"String_STR_AD_statueS_A_MOB_Berc_02_body","source":"Statue: Berk","translation":"Posąg: Berk","status":"draft"}
-{"id":"String_STR_AD_statueS_A_MOB_Cromede_01_V02_body","source":"Statue: Kromede's Desolation","translation":"Posąg: Rozpacz Kromede","status":"draft"}
-{"id":"String_STR_AD_statueS_A_MOB_Cromede_02_body","source":"Statue Kromede's Desire","translation":"Posąg: Pragnienie Kromede","status":"draft"}
+{"id": "String_STR_ABNORMAL_PROPERTY_TYPE_BODY_body", "source": "Ailment-type", "translation": "Typ dolegliwości", "status": "draft"}
+{"id": "String_STR_ABNORMAL_PROPERTY_TYPE_MENTAL_body", "source": "Mental-type", "translation": "Typ mentalny", "status": "draft"}
+{"id": "String_STR_ABNORMAL_PROPERTY_TYPE_SHOCK_body", "source": "Impact-type", "translation": "Typ uderzeniowy", "status": "draft"}
+{"id": "String_STR_ABYSSBATTLEFIELD_NEXT_SCHEDULE_body", "source": "Next war in {0}", "translation": "Następna bitwa za {0}", "status": "draft"}
+{"id": "String_STR_ABYSSRIFT_NEXT_SCHEDUL_body", "source": "Time until next event", "translation": "Czas do następnego wydarzenia", "status": "draft"}
+{"id": "String_STR_ABYSSRIFT_PREPARE_body", "source": "Preparing...", "translation": "Przygotowywanie...", "status": "draft"}
+{"id": "String_STR_ABYSSRIFT_PROCESS_body", "source": "In Progress", "translation": "W toku", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_01_body", "source": "Supreme Commander", "translation": "Naczelny Dowódca", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_02_body", "source": "Commander", "translation": "Dowódca", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_03_body", "source": "Marshal", "translation": "Marszałek", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_04_body", "source": "General", "translation": "Generał", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_05_body", "source": "5-Star Officer", "translation": "Oficer 5. rangi", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_06_body", "source": "4-Star Officer", "translation": "Oficer 4. rangi", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_07_body", "source": "3-Star Officer", "translation": "Oficer 3. rangi", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_08_body", "source": "2-Star Officer", "translation": "Oficer 2. rangi", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_09_body", "source": "1-Star Officer", "translation": "Oficer 1. rangi", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_10_body", "source": "First-Class Soldier", "translation": "Żołnierz 1. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_11_body", "source": "Second-Class Soldier", "translation": "Żołnierz 2. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_12_body", "source": "Third-Class Soldier", "translation": "Żołnierz 3. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_13_body", "source": "Fourth-Class Soldier", "translation": "Żołnierz 4. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_14_body", "source": "Fifth-Class Soldier", "translation": "Żołnierz 5. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_15_body", "source": "Sixth-Class Soldier", "translation": "Żołnierz 6. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_16_body", "source": "Seventh-Class Soldier", "translation": "Żołnierz 7. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_17_body", "source": "Eighth-Class Soldier", "translation": "Żołnierz 8. klasy", "status": "draft"}
+{"id": "String_STR_ABYSS_GRADE_18_body", "source": "Ninth-Class Soldier", "translation": "Żołnierz 9. klasy", "status": "draft"}
+{"id": "String_STR_ACHIEVEMENT_RESET_TYPE_SEASON_body", "source": "S  E  A  S  O  N", "translation": "S  E  Z  O  N", "status": "draft"}
+{"id": "String_STR_ACHIEVEMENT_RESET_TYPE_WEEKLY_body", "source": "W  E  E  K  L  Y", "translation": "T  Y  G  O  D  N  I  O  W  O", "status": "draft"}
+{"id": "String_STR_ADVENTURE_QUEST_SELECT_UI_TITLE_body", "source": "{0} Exploration Quest", "translation": "Zadanie eksploracyjne: {0}", "status": "draft"}
+{"id": "String_STR_AD_G_pic_A_NPC_ShugoM_02_body", "source": "Artwork: Shugo Alchemist", "translation": "Dzieło: alchemik Shugo", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Buffer_Calderon_Hill_body", "source": "Artwork: Calderon Canyon", "translation": "Dzieło: Kanion Calderon", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Dredgion_Crash_Site_body", "source": "Artwork: Dredgion Crash Site", "translation": "Dzieło: miejsce katastrofy Dredgionu", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_FugitiveVillage_body", "source": "Artwork: Safe Haven", "translation": "Dzieło: bezpieczna przystań", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Impetusium_body", "source": "Artwork: Impetusium", "translation": "Dzieło: Impetusium", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_MagicDoor_01_body", "source": "Artwork: Archon Underground Fortress Door", "translation": "Dzieło: brama podziemnej twierdzy Archontów", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Moslan_Forest_body", "source": "Artwork: Moslan Forest", "translation": "Dzieło: Las Moslan", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Nornir_Lodge_body", "source": "Artwork: Nornir Assembly", "translation": "Dzieło: zgromadzenie Nornir", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Quairerk_Camp_body", "source": "Artwork: Quai Campsite", "translation": "Dzieło: obóz Quai", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Sanctum_Watchpost_body", "source": "Artwork: Sanctum Outpost", "translation": "Dzieło: posterunek Sanctum", "status": "draft"}
+{"id": "String_STR_AD_G_pic_D_Unnamed_Cemetery_body", "source": "Artwork: Nameless Cemetery", "translation": "Dzieło: Bezimienny cmentarz", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Ardus_Shrine_body", "source": "Artwork: Ardus Shrine", "translation": "Dzieło: świątynia Ardus", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Buffer_EllunRiver_Midstream_body", "source": "Artwork: Ellun River Midstream", "translation": "Dzieło: środkowy bieg rzeki Ellun", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Buffer_Pilgrims_Ridge_Path_body", "source": "Artwork: Pilgrim's Ridge", "translation": "Dzieło: Grań Pielgrzyma", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Cantas_Valley_body", "source": "Artwork: Cantas Valley", "translation": "Dzieło: dolina Cantas", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Dawn_Legion_Base_body", "source": "Artwork: Dawn Legion Base", "translation": "Dzieło: baza Legionu Świtu", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Ellun_River_Marsh_body", "source": "Artwork: Ellun River Marsh", "translation": "Dzieło: bagna rzeki Ellun", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_StoneDoor_06_body", "source": "Artwork: Zumion Stone Gate", "translation": "Dzieło: Kamienna Brama Zumion", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Tolbas_Forest_body", "source": "Artwork: Tolbas Forest", "translation": "Dzieło: las Tolbas", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Verteron_Fortress_Ruin_body", "source": "Artwork: Verteron Fortress Ruins", "translation": "Dzieło: ruiny twierdzy Verteron", "status": "draft"}
+{"id": "String_STR_AD_G_pic_L_Verteron_ZumionVillage_body", "source": "Artwork: Zumion Village", "translation": "Dzieło: wioska Zumion", "status": "draft"}
+{"id": "String_STR_AD_pic_A_BakronIsland_body", "source": "Artwork: Vakron Sky Island", "translation": "Dzieło: podniebna wyspa Vakron", "status": "draft"}
+{"id": "String_STR_AD_pic_A_BlueBreathIsle_body", "source": "Artwork: Azure Breath Island", "translation": "Dzieło: wyspa Błękitnego Tchnienia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_CradleNihility_body", "source": "Artwork: Cradle of Nihility", "translation": "Dzieło: Kolebka Nicości", "status": "draft"}
+{"id": "String_STR_AD_pic_A_DaevaCitadel_body", "source": "Artwork: Citadel of the Fallen Daeva", "translation": "Dzieło: Cytadela Upadłej Daevy", "status": "draft"}
+{"id": "String_STR_AD_pic_A_DeadDramataNest_body", "source": "Artwork: Dying Dramata's Nest", "translation": "Dzieło: gniazdo umierającej Dramaty", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Draupnir_body", "source": "Artwork: Draupnir", "translation": "Dzieło: Draupnir", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Eltenen_body", "source": "Artwork: Eltnen", "translation": "Dzieło: Eltnen", "status": "draft"}
+{"id": "String_STR_AD_pic_A_ErosionPurifier_body", "source": "Artwork: Corroded Decontamination Facility", "translation": "Dzieło: skorodowany zakład oczyszczania", "status": "draft"}
+{"id": "String_STR_AD_pic_A_FE_Dilemma_body", "source": "Artwork: Shugo's Dilemma", "translation": "Dzieło: dylemat Shugo", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Fire_Temple_body", "source": "Artwork: Fire Temple", "translation": "Dzieło: Fire Temple", "status": "draft"}
+{"id": "String_STR_AD_pic_A_HornCave_body", "source": "Artwork: Ferocious Horn Den", "translation": "Dzieło: legowisko Groźnego Rogacza", "status": "draft"}
+{"id": "String_STR_AD_pic_A_KraoCave_body", "source": "Artwork: Krao", "translation": "Dzieło: Krao", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AbBoss_01_body", "source": "Artwork: Guardian Lord Nahma", "translation": "Dzieło: Władca Strażników Nahma", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AddShulack_01_body", "source": "Artwork: Addicted Shulak Laborer", "translation": "Dzieło: uzależniony robotnik Shulak", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AddShulack_05_body", "source": "Artwork: Addicted Hardirun", "translation": "Dzieło: uzależniony Hardirun", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Agrint_04_body", "source": "Artwork: Rotten Root Meltlim", "translation": "Dzieło: zgniły korzeniak Meltlim", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AltKnife_04_V02_body", "source": "Artwork: Blood Warrior Lannar", "translation": "Dzieło: krwawy wojownik Lannar", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AltKnife_06_body", "source": "Artwork: Desecrator Newbold", "translation": "Dzieło: profanator Newbold", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AltKnife_06a_body", "source": "Artwork: Elite Inquisitor Verant", "translation": "Dzieło: elitarny inkwizytor Verant", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_AltKnife_07_body", "source": "Artwork: Executioner Barthien", "translation": "Dzieło: kat Barthien", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Bargot_01_body", "source": "Artwork: Modified Bargott [Season 3]", "translation": "Dzieło: zmodyfikowany Bargott [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Basilisk_02_body", "source": "Artwork: Three-Horned Mino", "translation": "Dzieło: trójrogie Mino", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_BeritraD_01_body", "source": "Artwork: Third Unit Captain Karkoti", "translation": "Dzieło: kapitan trzeciego oddziału Karkoti", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_BeritraD_01a_body", "source": "Artwork: Third Unit Captain Minasara", "translation": "Dzieło: kapitan trzeciego oddziału Minasara", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_BigMan_01_V03_body", "source": "Artwork: Rotten Kutar", "translation": "Dzieło: zgniły Kutar", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Bug_02_V01_body", "source": "Artwork: Agglomerated Verenom", "translation": "Dzieło: zlepiony Verenom", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Coradon_01_V03_body", "source": "Artwork: Blooming Korin", "translation": "Dzieło: kwitnący Korin", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DarkLeda_02_body", "source": "Artwork: Enraged Reda [Season 2]", "translation": "Dzieło: rozwścieczona Reda [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DracoElite_01_V01_body", "source": "Artwork: Sharp Shylak", "translation": "Dzieło: ostry Shylak", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DracoWar_01_V03_body", "source": "Artwork: Faithful Rajit", "translation": "Dzieło: wierny Rajit", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DranaVar_02_V01_body", "source": "Artwork: Melted Danar", "translation": "Dzieło: stopiony Danar", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Dratona_03_body", "source": "Artwork: Predator Colossus Balakh", "translation": "Dzieło: kolosalny drapieżnik Balakh", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DstrArchonE_01_body", "source": "Artwork: Specter Archon Axios", "translation": "Dzieło: widmowy Archont Axios", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DstrArchonE_01a_body", "source": "Artwork: Severed Wings Zvein", "translation": "Dzieło: Zvein o odciętych skrzydłach", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DstrArchonE_01b_body", "source": "Artwork: Frostarmor Harkhan", "translation": "Dzieło: Harkhan w lodowej zbroi", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_DstrArchon_01_body", "source": "Artwork: Soulless Destruction Archons Gladiator", "translation": "Dzieło: bezduszny gladiator Archontów Zniszczenia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Duduka_01_body", "source": "Artwork: Duduka Worker", "translation": "Dzieło: robotnik Duduka", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Durbati_01_V01_body", "source": "Artwork: Abyssal Ludra", "translation": "Dzieło: Ludra z Otchłani", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_EleKing_01_V02_body", "source": "Artwork: Argo, the Spirit King", "translation": "Dzieło: Argo, Król Duchów", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_EvSpirit_02_body", "source": "Artwork: Resentful Daeva Wraith Boss", "translation": "Dzieło: mściwy przywódca widm Daevy", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Evspirit_02_CV02_body", "source": "Artwork: Turncoat Ducal", "translation": "Dzieło: zdrajca Ducal", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Fieoce_01_body", "source": "Artwork: Wings of Hellfire Fios", "translation": "Dzieło: Fios o skrzydłach piekielnego ognia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_FighterM_01_V03_body", "source": "Artwork: Special Operations Leader Linx", "translation": "Dzieło: dowódca operacji specjalnych Linx", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_FighterM_04_V01_body", "source": "Artwork: Old Boss Vigor", "translation": "Dzieło: stary przywódca Vigor", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_FireEle_04_V01_body", "source": "Artwork: Mad Watcher Bulagan", "translation": "Dzieło: szalony strażnik Bulagan", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Gartua_01_body", "source": "Artwork: Oathbreaker Gartua [Season 3]", "translation": "Dzieło: krzywoprzysięzca Gartua [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Gauss_01_body", "source": "Artwork: Sanctum Guardian Gauss [Season 3]", "translation": "Dzieło: strażnik Sanctum Gauss [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Guardit_03_body", "source": "Artwork: Divine Ansas", "translation": "Dzieło: boski Ansas", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kaisinel_01_body", "source": "Artwork: Kaisinel's Illusion [Season 2]", "translation": "Dzieło: iluzja Kaisinela [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kalgolem_03_CV01_body", "source": "Artwork: Vulcanarch Grymnir", "translation": "Dzieło: arcywulkanista Grymnir", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KalnifElite_01_V01_body", "source": "Artwork: Bloodfang Pnyn", "translation": "Dzieło: Pnyn o krwawych kłach", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KalnifElite_01_V01a_body", "source": "Artwork: Superbia, Sacred Beast of Life", "translation": "Dzieło: Superbia, Święta Bestia Życia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KalnifElite_01_body", "source": "Artwork: Crimson Blizzard Renulf", "translation": "Dzieło: Renulf, Karmazynowa Zamieć", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kashapa_01_CV02_body", "source": "Artwork: Executioner Dramos", "translation": "Dzieło: kat Dramos", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kashapa_01_body", "source": "Artwork: Soul Ruler Kashapa", "translation": "Dzieło: władca dusz Kashapa", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kashapa_01a_body", "source": "Artwork: Deputy Commander Vivajra", "translation": "Dzieło: zastępca dowódcy Vivajra", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kashapa_01b_body", "source": "Artwork: Deputy Commander Sarvakha", "translation": "Dzieło: zastępca dowódcy Sarvakha", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Kasia_01_body", "source": "Artwork: Phantasm Kasia", "translation": "Dzieło: zjawa Kasia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Keneir_01_V02_body", "source": "Artwork: Kernon of the West", "translation": "Dzieło: Kernon z Zachodu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Keneir_01_V03_body", "source": "Artwork: Neikel of the East", "translation": "Dzieło: Neikel ze Wschodu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KrallElite_01_CV01_body", "source": "Artwork: Lava Heart Batu", "translation": "Dzieło: Batu o lawowym sercu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KrallElite_01_V01_body", "source": "Artwork: Kusan the Mad Gladiator", "translation": "Dzieło: Kusan, Szalony Gladiator", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_KrallElite_02_V01_body", "source": "Artwork: Ritualist Garshim", "translation": "Dzieło: rytualista Garshim", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Ktima_01_body", "source": "Artwork: First Test Subject K'tima", "translation": "Dzieło: pierwszy obiekt testowy K'tima", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Lagta_01_body", "source": "Artwork: High Commander Lagta", "translation": "Dzieło: Wysoki Dowódca Lagta", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_LakeGuard_01_body", "source": "Artwork: Lake Guardian", "translation": "Dzieło: strażnik jeziora", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Lufilini_01_body", "source": "Artwork: Modified Lupyllini", "translation": "Dzieło: zmodyfikowany Lupyllini", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Lycan_04_body", "source": "Artwork: Visionary Karuka", "translation": "Dzieło: wizjoner Karuka", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Lycan_05_body", "source": "Artwork: Veteran Shujakan", "translation": "Dzieło: weteran Shujakan", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_NagaElite_05_body", "source": "Artwork: Black Tentacle Lawa", "translation": "Dzieło: Lawa o czarnych mackach", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Nahid_01_CV02_body", "source": "Artwork: Ravager Marakha", "translation": "Dzieło: niszczyciel Marakha", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Nahid_01_WP_body", "source": "Artwork: High Commander Nahid's Greatsword", "translation": "Dzieło: wielki miecz Wysokiego Dowódcy Nahida", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Neuth_03_body", "source": "Artwork: Bodyguard Teegant", "translation": "Dzieło: ochroniarz Teegant", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Nihogg_01_body", "source": "Artwork: Rabid Nihogg", "translation": "Dzieło: wściekły Nihogg", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_NornirVar_02_V02_body", "source": "Artwork: Deceiver Trid", "translation": "Dzieło: oszust Trid", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_OwlElite_01_CV01_body", "source": "Artwork: Chaser Taulo", "translation": "Dzieło: łowca Taulo", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_OwlElite_01_V01_body", "source": "Artwork: Forest Warrior Aullamu", "translation": "Dzieło: leśny wojownik Aullamu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_OwlMagic_01_V01_body", "source": "Artwork: Scholar Aulla", "translation": "Dzieło: uczony Aulla", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Owlac_01_body", "source": "Artwork: Sharp Aulak [Season 2]", "translation": "Dzieło: ostry Aulak [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Owlapri_01_body", "source": "Artwork: Ritualist Aulisa [Season 3]", "translation": "Dzieło: rytualista Aulisa [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Owltros_01_body", "source": "Artwork: Root Mythical Bird Aultross [Season 3]", "translation": "Dzieło: mityczny ptak korzeni Aultross [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Pargon_01_body", "source": "Artwork: Edgewalker Pargon", "translation": "Dzieło: wędrowiec krawędzi Pargon", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Perion_01_body", "source": "Artwork: Sealed Sura [Season 2]", "translation": "Dzieło: zapieczętowany Sura [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Phaini_01_body", "source": "Artwork: Crasaur", "translation": "Dzieło: Crasaur", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_PretorBoss_01_body", "source": "Artwork: Gluttonous Egetis", "translation": "Dzieło: żarłoczny Egetis", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Protect_01_body", "source": "Artwork: Incarnated Warding Feather [Season 3]", "translation": "Dzieło: wcielone ochronne pióro [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Radvima_01_CV02_body", "source": "Artwork: Executor Tamasa", "translation": "Dzieło: egzekutor Tamasa", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Ramfu_04_body", "source": "Artwork: Lamphus of Agony", "translation": "Dzieło: Lamphus Cierpienia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Rathman_01_body", "source": "Artwork: Soulreaper Rathman [Season 2]", "translation": "Dzieło: żniwiarz dusz Rathman [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Santras_01_body", "source": "Artwork: Warden Santras [Season 2]", "translation": "Dzieło: strażnik Santras [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_SkurvWar_04_V03_body", "source": "Artwork: High Overseer Nutah", "translation": "Dzieło: Główny Nadzorca Nutah", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_SpiritKnt_02_body", "source": "Artwork: TBD", "translation": "Grafika: do ustalenia", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_SuraPriest_01_V04_body", "source": "Artwork: Heretic Layla", "translation": "Dzieło: heretyczka Layla", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_SuraPriest_01_body", "source": "Artwork: Sura Priest", "translation": "Dzieło: kapłan Sura", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_SuraWar_05_V02_body", "source": "Artwork: Black Warrior Aed", "translation": "Dzieło: czarny wojownik Aed", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Tasin_02_body", "source": "Artwork: Tyrant Tassin [Season 3]", "translation": "Dzieło: tyran Tassin [Sezon 3]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Ulgorn_01_body", "source": "Artwork: Mutated Ulgorn [Season 2]", "translation": "Dzieło: zmutowany Ulgorn [Sezon 2]", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Undead_01_body", "source": "Artwork: Centurion Demiros", "translation": "Dzieło: centurion Demiros", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_UrsussElite_01_CV01_body", "source": "Artwork: Predator Garsan", "translation": "Dzieło: drapieżnik Garsan", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_UrsussElite_01_V01_body", "source": "Artwork: Furious Saursus", "translation": "Dzieło: rozwścieczony Saursus", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_Varg_03_V01_body", "source": "Artwork: Berserker Vargor", "translation": "Dzieło: berserker Vargor", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_WaterEle_04_V01_body", "source": "Artwork: Blue Wave Kelpina", "translation": "Dzieło: Kelpina, Błękitna Fala", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MOB_WaterEle_04_V01a_body", "source": "Artwork: Azure Tear Glacia", "translation": "Dzieło: Glacia, Błękitna Łza", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Morheim_body", "source": "Artwork: Morheim", "translation": "Dzieło: Morheim", "status": "draft"}
+{"id": "String_STR_AD_pic_A_MusphelHolyGrail_body", "source": "Artwork: Chalice of Muspel", "translation": "Dzieło: Kielich Muspel", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_Ashar_01_body", "source": "Artwork: Asahr", "translation": "Dzieło: Asahr", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_DredgionA_01_body", "source": "Artwork: Dredgion Warship", "translation": "Dzieło: okręt wojenny Dredgion", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_M_ShulackA_03_body", "source": "Artwork: Shulak", "translation": "Dzieło: Shulak", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_ShugoGame_01_body", "source": "Artwork: Shugo Festival Manager", "translation": "Dzieło: zarządca festiwalu Shugo", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_ShugoM_02_body", "source": "Artwork: Shugo Alchemist", "translation": "Dzieło: alchemik Shugo", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_ShugoShop_02_body", "source": "Artwork: Secret Shop Shugo", "translation": "Dzieło: Shugo z tajnego sklepu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_NPC_Siel_01_body", "source": "Artwork: Siel", "translation": "Dzieło: Siel", "status": "draft"}
+{"id": "String_STR_AD_pic_A_PhantomsHall_body", "source": "Artwork: Hall of Illusion", "translation": "Dzieło: Sala Iluzji", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Piano_body", "source": "Artwork: Village Piano", "translation": "Dzieło: wiejskie pianino", "status": "draft"}
+{"id": "String_STR_AD_pic_A_Urugugu_Canyon_body", "source": "Artwork: Urugugu", "translation": "Dzieło: Urugugu", "status": "draft"}
+{"id": "String_STR_AD_pic_A_VEH_Horse_03_body", "source": "Artwork: Adventure Together", "translation": "Dzieło: wspólna przygoda", "status": "draft"}
+{"id": "String_STR_AD_pic_A_WingA_003_body", "source": "Artwork: Brawler Wings", "translation": "Dzieło: skrzydła zapaśnika", "status": "draft"}
+{"id": "String_STR_AD_pic_A_s1_MOB_FafBlood_01_body", "source": "Artwork: Fafnir's Poison Blood", "translation": "Dzieło: trująca krew Fafnira", "status": "draft"}
+{"id": "String_STR_AD_pic_A_s1_MOB_Ferk_01_body", "source": "Artwork: Furious Feruk", "translation": "Dzieło: rozwścieczony Feruk", "status": "draft"}
+{"id": "String_STR_AD_pic_A_s1_MOB_Giselle_01_body", "source": "Artwork: Wraith Giselle", "translation": "Dzieło: widmo Giselle", "status": "draft"}
+{"id": "String_STR_AD_pic_A_s1_MOB_PinoBoss_01_body", "source": "Artwork: Pino Gatekeeper", "translation": "Dzieło: strażnik bramy Pino", "status": "draft"}
+{"id": "String_STR_AD_pic_A_s1_MOB_Zikel_01_body", "source": "Artwork: Zikel's Apparition", "translation": "Dzieło: zjawa Zikela", "status": "draft"}
+{"id": "String_STR_AD_pic_D_AbGuardian_02_body", "source": "Artwork: Guardian Lord", "translation": "Dzieło: Władca Strażników", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Buffer_Calderon_Hill_body", "source": "Artwork: Calderon Canyon", "translation": "Dzieło: Kanion Calderon", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Dredgion_Crash_Site_body", "source": "Artwork: Dredgion Crash Site", "translation": "Dzieło: miejsce katastrofy Dredgionu", "status": "draft"}
+{"id": "String_STR_AD_pic_D_FugitiveVillage_body", "source": "Artwork: Safe Haven", "translation": "Dzieło: bezpieczna przystań", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Impetusium_body", "source": "Artwork: Impetusium", "translation": "Dzieło: Impetusium", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_BeritraD_01_body", "source": "Artwork: Watcher Kaira", "translation": "Dzieło: obserwatorka Kaira", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_BeritraD_03_V01_body", "source": "Artwork: Dark Shadow Vishwada", "translation": "Dzieło: Mroczny Cień Vishwada", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_BeritraD_04_V01_body", "source": "Artwork: Drakan Battalion Weapon Guruta", "translation": "Dzieło: oręż batalionu Drakan Guruta", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_DrakanElite_03_V01_body", "source": "Artwork: Advisor Resana", "translation": "Dzieło: doradczyni Resana", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_Gartua_01_V02_body", "source": "Artwork: Immortal Gartua", "translation": "Dzieło: nieśmiertelny Gartua", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_Gerod_01_body", "source": "Artwork: Gerod", "translation": "Dzieło: Gerod", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_Nothun_01_body", "source": "Artwork: Fortress Guardian Notun", "translation": "Dzieło: strażnik twierdzy Notun", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MOB_Tasin_02_body", "source": "Artwork: Tyrant Tassin", "translation": "Dzieło: tyran Tassin", "status": "draft"}
+{"id": "String_STR_AD_pic_D_MagicDoor_01_body", "source": "Artwork: Archon Underground Fortress Door", "translation": "Dzieło: brama podziemnej twierdzy Archontów", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Moslan_Forest_body", "source": "Artwork: Moslan Forest", "translation": "Dzieło: Las Moslan", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_F_Master_03_body", "source": "Artwork: Artisan Blacksmith", "translation": "Dzieło: mistrz kowalstwa", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_F_Master_04_body", "source": "Artwork: Artisan Armorsmith", "translation": "Dzieło: mistrz płatnerstwa", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_Histan_01_body", "source": "Artwork: Destruction Archons High Priest Hystan", "translation": "Dzieło: arcykapłan Archontów Zniszczenia Hystan", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_M_Master_06_body", "source": "Artwork: Artisan Essence Extractor", "translation": "Dzieło: mistrz pozyskiwania esencji", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_M_Master_08_body", "source": "Artwork: Artisan Handicrafter", "translation": "Dzieło: mistrz rzemiosła", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_M_Master_09_body", "source": "Artwork: Artisan Alchemist", "translation": "Dzieło: mistrz alchemii", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_M_Master_10_body", "source": "Artwork: Artisan Chef", "translation": "Dzieło: mistrz kucharski", "status": "draft"}
+{"id": "String_STR_AD_pic_D_NPC_M_ShugoB_01_body", "source": "Artwork: Quai Merchants", "translation": "Dzieło: kupcy Quai", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Nornir_Lodge_body", "source": "Artwork: Nornir Assembly", "translation": "Dzieło: zgromadzenie Nornir", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Quairerk_Camp_body", "source": "Artwork: Quai Campsite", "translation": "Dzieło: obóz Quai", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Sanctum_Watchpost_body", "source": "Artwork: Sanctum Outpost", "translation": "Dzieło: posterunek Sanctum", "status": "draft"}
+{"id": "String_STR_AD_pic_D_Unnamed_Cemetery_body", "source": "Artwork: Nameless Cemetery", "translation": "Dzieło: Bezimienny cmentarz", "status": "draft"}
+{"id": "String_STR_AD_pic_L_AbGuardian_01_body", "source": "Artwork: Guardian Lord", "translation": "Dzieło: Władca Strażników", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Ardus_Shrine_body", "source": "Artwork: Ardus Shrine", "translation": "Dzieło: świątynia Ardus", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Buffer_EllunRiver_Midstream_body", "source": "Artwork: Ellun River Midstream", "translation": "Dzieło: środkowy bieg rzeki Ellun", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Buffer_Pilgrims_Ridge_Path_body", "source": "Artwork: Pilgrim's Ridge", "translation": "Dzieło: Grań Pielgrzyma", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Cantas_Valley_body", "source": "Artwork: Cantas Valley", "translation": "Dzieło: dolina Cantas", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Dawn_Legion_Base_body", "source": "Artwork: Dawn Legion Base", "translation": "Dzieło: baza Legionu Świtu", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Ellun_River_Marsh_body", "source": "Artwork: Ellun River Marsh", "translation": "Dzieło: bagna rzeki Ellun", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_BeritraD_01_body", "source": "Artwork: Silent Dartan", "translation": "Dzieło: Milczący Dartan", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_BeritraD_03_V01_body", "source": "Artwork: Researcher Setram", "translation": "Dzieło: badacz Setram", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_BeritraD_04_V01_body", "source": "Artwork: Sentinel K'nash", "translation": "Dzieło: wartownik K'nash", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_DrakanElite_03_V01_body", "source": "Artwork: Harvest Manager Moshav", "translation": "Dzieło: zarządca zbiorów Moshav", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_Gartua_01_V02_body", "source": "Artwork: Eternal Gartua", "translation": "Dzieło: wieczny Gartua", "status": "draft"}
+{"id": "String_STR_AD_pic_L_MOB_Hiladr_01_body", "source": "Artwork: Karas Mutant Heladrir", "translation": "Dzieło: zmutowany Karas Heladrir", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_F_Master_01_body", "source": "Artwork: Artisan Blacksmith", "translation": "Dzieło: mistrz kowalstwa", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_F_Master_02_body", "source": "Artwork: Artisan Armorsmith", "translation": "Dzieło: mistrz płatnerstwa", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_F_ShugoA_01_body", "source": "Artwork: Wind Breeze Merchants", "translation": "Dzieło: kupcy Wietrznej Bryzy", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_M_Master_01_body", "source": "Artwork: Artisan Essence Extractor", "translation": "Dzieło: mistrz pozyskiwania esencji", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_M_Master_03_body", "source": "Artwork: Artisan Handicrafter", "translation": "Dzieło: mistrz rzemiosła", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_M_Master_04_body", "source": "Artwork: Artisan Alchemist", "translation": "Dzieło: mistrz alchemii", "status": "draft"}
+{"id": "String_STR_AD_pic_L_NPC_M_Master_05_body", "source": "Artwork: Artisan Chef", "translation": "Dzieło: mistrz kucharski", "status": "draft"}
+{"id": "String_STR_AD_pic_L_StoneDoor_06_body", "source": "Artwork: Zumion Stone Gate", "translation": "Dzieło: Kamienna Brama Zumion", "status": "draft"}
+{"id": "String_STR_AD_pic_L_TeinaFrame_01_body", "source": "Artwork: Teina's Portrait", "translation": "Dzieło: portret Teiny", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Tolbas_Forest_body", "source": "Artwork: Tolbas Forest", "translation": "Dzieło: las Tolbas", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Verteron_Fortress_Ruin_body", "source": "Artwork: Verteron Fortress Ruins", "translation": "Dzieło: ruiny twierdzy Verteron", "status": "draft"}
+{"id": "String_STR_AD_pic_L_Verteron_ZumionVillage_body", "source": "Artwork: Zumion Village", "translation": "Dzieło: wioska Zumion", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_AbBoss_01_body", "source": "Colossus: Guardian Lord Nahma", "translation": "Kolos: Władca Strażników Nahma", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Ateron_01_body", "source": "Colossus: Ascended Atheron", "translation": "Kolos: Wniebowstąpiony Atheron", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Cromede_01_body", "source": "Colossus Kromede's Desire", "translation": "Kolos: Pragnienie Kromede", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_DarkLeda_02_body", "source": "Colossus: Enraged Reda", "translation": "Kolos: rozwścieczona Reda", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Gerod_01_body", "source": "Colossus: Gerod", "translation": "Kolos: Gerod", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Kaisinel_01_body", "source": "Colossus: Kaisinel's Illusion", "translation": "Kolos: iluzja Kaisinela", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Nahid_01_body", "source": "Colossus: High Commander Nahid", "translation": "Kolos: Wysoki Dowódca Nahid", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Nothun_01_body", "source": "Colossus: Fortress Guardian Notun", "translation": "Kolos: strażnik twierdzy Notun", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Owlapri_01_body", "source": "Colossus: Ritualist Aulisa", "translation": "Kolos: rytualista Aulisa", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Protect_01_body", "source": "Colossus: Incarnated Warding Feather", "translation": "Kolos: wcielone ochronne pióro", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Santras_01_body", "source": "Colossus: Warden Santras", "translation": "Kolos: strażnik Santras", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Tasin_02_body", "source": "Colossus: Tyrant Tassin", "translation": "Kolos: tyran Tassin", "status": "draft"}
+{"id": "String_STR_AD_statueL_A_MOB_Zikel_01_body", "source": "Colossus: Zikel's Apparition", "translation": "Kolos: zjawa Zikela", "status": "draft"}
+{"id": "String_STR_AD_statueL_D_s1_abyss_a_01_body", "source": "Colossus: Asmodian Supreme Commander", "translation": "Kolos: Naczelny Dowódca Asmodian", "status": "draft"}
+{"id": "String_STR_AD_statueL_D_s1_abyss_b_01_body", "source": "Colossus: Asmodian Commander", "translation": "Kolos: Dowódca Asmodian", "status": "draft"}
+{"id": "String_STR_AD_statueL_D_s1_abyss_c_01_body", "source": "Colossus: Asmodian Marshal", "translation": "Kolos: Marszałek Asmodian", "status": "draft"}
+{"id": "String_STR_AD_statueL_L_s1_abyss_a_01_body", "source": "Colossus: Elyos Supreme Commander", "translation": "Kolos: Naczelny Dowódca Elyosów", "status": "draft"}
+{"id": "String_STR_AD_statueL_L_s1_abyss_b_01_body", "source": "Colossus: Elyos Commander", "translation": "Kolos: Dowódca Elyosów", "status": "draft"}
+{"id": "String_STR_AD_statueL_L_s1_abyss_c_01_body", "source": "Colossus: Elyos Marshal", "translation": "Kolos: Marszałek Elyosów", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_AcaciaTree_01_body", "source": "Statue: Debassy Honey Tree", "translation": "Posąg: Miodowe drzewo Debassy", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_DreamArtifact_01_body", "source": "Statue: Dream Fragment", "translation": "Posąg: fragment snu", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_Eltenen_Tree_body", "source": "Statue: Eltnen's Flower Trees", "translation": "Posąg: kwitnące drzewa Eltnen", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_MOB_Bakarma_02_body", "source": "Statue: Transcendent Bakarma", "translation": "Posąg: transcendentalny Bakarma", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_MOB_Bargot_01_body", "source": "Statue: Modified Bargott", "translation": "Posąg: zmodyfikowany Bargott", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_MOB_Berc_02_body", "source": "Statue: Berk", "translation": "Posąg: Berk", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_MOB_Cromede_01_V02_body", "source": "Statue: Kromede's Desolation", "translation": "Posąg: Rozpacz Kromede", "status": "draft"}
+{"id": "String_STR_AD_statueS_A_MOB_Cromede_02_body", "source": "Statue Kromede's Desire", "translation": "Posąg: Pragnienie Kromede", "status": "draft"}

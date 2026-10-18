@@ -1,3 +1,4 @@
+{"id": "String_UI_BATTLEPASSGROUP_DARK_S1_2_body", "source": "Planet's Call", "translation": "Zew planety", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_DARK_S1_3_body", "source": "AION's Call", "translation": "Wezwanie AION", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_DARK_S1_4_body", "source": "Golden Shugo Gift", "translation": "Złoty podarunek Shugo", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_DARK_S1_EVENT_01_body", "source": "Snowy Atreia", "translation": "Śnieżna Atreia", "status": "draft"}
@@ -18,7 +19,7 @@
 {"id": "String_UI_BATTLEPASSGROUP_DARK_S4_3_body", "source": "Warm Welcome", "translation": "Serdeczne powitanie", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_DARK_S4_4_body", "source": "Aquamarine Symphony", "translation": "Akwamarynowa symfonia", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S1_1_body", "source": "Dawn Legion", "translation": "Legion Świtu", "status": "draft"}
-{"id":"String_UI_BATTLEPASSGROUP_LIGHT_S1_2_body","source":"Planet's Call","translation":"Zew planety","status":"draft"}
+{"id": "String_UI_BATTLEPASSGROUP_LIGHT_S1_2_body", "source": "Planet's Call", "translation": "Zew planety", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S1_3_body", "source": "AION's Call", "translation": "Wezwanie AION", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S1_4_body", "source": "Golden Shugo Gift", "translation": "Złoty podarunek Shugo", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S1_EVENT_01_body", "source": "Snowy Atreia", "translation": "Śnieżna Atreia", "status": "draft"}
@@ -39,10 +40,10 @@
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S4_3_body", "source": "Warm Welcome", "translation": "Serdeczne powitanie", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_LIGHT_S4_4_body", "source": "Aquamarine Symphony", "translation": "Akwamarynowa symfonia", "status": "draft"}
 {"id": "String_UI_BATTLEPASSGROUP_TAB_TITLE_body", "source": "Lv. {0} {1}", "translation": "Poz. {0} {1}", "status": "draft"}
-{"id": "String_UI_BATTLEPASS_ACCEPT_POPUP_CONFIRM_REWARD_GUIDE_body", "source": "Premium reward available upon subscription\nApplied to the character it was subscribed on", "translation": "Nagroda premium dostępna po subskrypcji\nPrzypisana do postaci, która ją wykupiła", "status": "draft"}
+{"id": "String_UI_BATTLEPASS_ACCEPT_POPUP_CONFIRM_REWARD_GUIDE_body", "source": "Premium reward available upon subscription\nApplied to the character it was subscribed on", "translation": "Nagroda premium dostępna po subskrypcji\nPrzypisana do postaci, na której wykupiono subskrypcję", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_ACCEPT_POPUP_CONFIRM_body", "source": "Would you like to subscribe to {0} {1}?", "translation": "Czy chcesz wykupić {0} {1}?", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_ACCUMULATED_REWARD_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
-{"id": "String_UI_BATTLEPASS_BASIC_ACCEPT_POPUP_CONFIRM_REWARD_GUIDE_body", "source": "Basic reward available upon subscription\nApplied to the character it was subscribed on", "translation": "Nagroda podstawowa dostępna po subskrypcji\nPrzypisana do postaci, która ją wykupiła", "status": "draft"}
+{"id": "String_UI_BATTLEPASS_BASIC_ACCEPT_POPUP_CONFIRM_REWARD_GUIDE_body", "source": "Basic reward available upon subscription\nApplied to the character it was subscribed on", "translation": "Nagroda podstawowa dostępna po subskrypcji\nPrzypisana do postaci, na której wykupiono subskrypcję", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_BASIC_REWARD_body", "source": "Receive immediately upon Basic Subscription", "translation": "Odbierz od razu po wykupieniu subskrypcji podstawowej", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_BENEFIT_BUFF_body", "source": "Subscription Buff", "translation": "Premia subskrypcji", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_BTN_SHORTCUT_body", "source": "Go to Pass", "translation": "Przejdź do przepustki", "status": "draft"}
@@ -57,7 +58,7 @@
 {"id": "String_UI_BATTLEPASS_BUY_PERIOD_DATE_body", "source": "Until {0}", "translation": "Do {0}", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_BUY_PERIOD_body", "source": "Subscription Period", "translation": "Okres subskrypcji", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_BUY_POPUP_CONFIRM_body", "source": "Would you like to purchase the Premium Pass?", "translation": "Czy chcesz kupić przepustkę premium?", "status": "draft"}
-{"id": "String_UI_BATTLEPASS_BUY_WARNING_SHORT_DURATION_body", "source": "This product expires in {0}d. Subscribing now may not allow you to fully benefit.", "translation": "Ten produkt wygaśnie za {0} dni. Subskrypcja teraz może nie pozwolić w pełni z niego skorzystać.", "status": "draft"}
+{"id": "String_UI_BATTLEPASS_BUY_WARNING_SHORT_DURATION_body", "source": "This product expires in {0}d. Subscribing now may not allow you to fully benefit.", "translation": "Ten produkt wygaśnie za {0} dni. Jeśli wykupisz subskrypcję teraz, możesz nie zdążyć w pełni z niego skorzystać.", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_COMPLETION_REWARD_ACCEPT_ALL_body", "source": "Collect All Rewards", "translation": "Odbierz wszystkie nagrody", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_COMPLETION_REWARD_ACCEPT_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
 {"id": "String_UI_BATTLEPASS_COMPLETION_body", "source": "Pass Progress", "translation": "Postęp przepustki", "status": "draft"}
@@ -188,7 +189,7 @@
 {"id": "String_UI_BOSSCHALLENGE_INFO_SCORE_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
 {"id": "String_UI_BOSSCHALLENGE_INFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
 {"id": "String_UI_BOSSCHALLENGE_INFO_TIP_TITLE_body", "source": "Info", "translation": "Informacje", "status": "draft"}
-{"id": "String_UI_BOSSCHALLENGE_INFO_UNLOCK_COND_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_BOSSCHALLENGE_INFO_UNLOCK_COND_body", "source": "Entry Requirements", "translation": "Warunki wejścia", "status": "draft"}
 {"id": "String_UI_BOSSCHALLENGE_POPUP_RECORD_DESC_body", "source": "Ranks are determined based on the highest-tier boss cleared in the Layers of Nightmare. Layer takes precedence over character grade.\nIf the highest boss tier cleared is the same, the user with the higher Rank Points for that boss tier will receive the higher rank.\nIf these points are also equal, the user with the higher cumulative Rank Points will receive the higher rank.\n※ Ranks and point record are reset with every new season.", "translation": "Ranga zależy od bossa o najwyższym poziomie trudności pokonanego w Warstwach Koszmaru. Liczy się warstwa, a następnie ranga postaci.\nJeśli pokonano bossa tego samego poziomu, wyższą rangę otrzyma gracz z większą liczbą punktów rankingowych za tego bossa.\nJeśli liczba tych punktów również jest taka sama, wyższą rangę otrzyma gracz z większą łączną liczbą punktów rankingowych.\n※ Rangi i wyniki są resetowane z początkiem każdego sezonu.", "status": "draft"}
 {"id": "String_UI_BOSSCHALLENGE_POPUP_RECORD_HEADER_BOSS_body", "source": "Boss", "translation": "Boss", "status": "draft"}
 {"id": "String_UI_BOSSCHALLENGE_POPUP_RECORD_HEADER_CLEAR_TIME_body", "source": "Clear Time", "translation": "Czas ukończenia", "status": "draft"}
@@ -247,4 +248,3 @@
 {"id": "String_UI_BUFFGROUP_DAEVANION3_DESC_body", "source": "Daevanion Vaizel Activation Effects", "translation": "Efekty aktywacji Daevanionu Vaizela", "status": "draft"}
 {"id": "String_UI_BUFFGROUP_DAEVANION3_TITLE_body", "source": "Daevanion Vaizel Effects", "translation": "Efekty Daevanionu Vaizela", "status": "draft"}
 {"id": "String_UI_BUFFGROUP_DAEVANION4_DESC_body", "source": "Daevanion Triniel Activation Effects", "translation": "Efekty aktywacji Daevanionu Triniela", "status": "draft"}
-{"id": "String_UI_BUFFGROUP_DAEVANION4_TITLE_body", "source": "Daevanion Triniel Effects", "translation": "Efekty Daevanionu Triniela", "status": "draft"}

@@ -2,9 +2,9 @@
   "table": "startup",
   "namespace": "AION2",
   "culture": "en-US",
-  "inputSha256": "472396af2c2eeaf1d062209ed6053ac76b94b807e37a8a56cfebad863cca36bf",
+  "inputSha256": "cffa165719fed31ce099900eccffc2a8f7aa0effbed5e7b47f83b158909773c0",
   "records": 486,
-  "decodedJsonSha256": "4e631f791517e090ea665a859632d0d28095f5e0136133d91f0574a39b0ca7b9",
+  "decodedJsonSha256": "2d96dc88ee67fc3d13b31618b69a24b2bc2277cd806f53a89bd00367e7e18433",
   "batches": [
     {
       "file": "startup/InputKeyMapping/0001.jsonl",

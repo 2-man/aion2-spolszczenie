@@ -1,3 +1,43 @@
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_CRAFTDRACONIC_008A_S_body", "source": "Ebony Dragon Lord Fist", "translation": "Pięść Hebanowego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_CRAFTDRACONIC_009A_S_body", "source": "Demonic Dragon Lord Fist", "translation": "Pięść Demonicznego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_CRAFTDRACONIC_010A_S_body", "source": "Crimson Dragon Lord Fist", "translation": "Pięść Karmazynowego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_CRAFTDRACONIC_011A_S_body", "source": "Crimson Dragon Lord Fist", "translation": "Pięść Karmazynowego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROPBOSS_001A_S_body", "source": "Accursed Fist", "translation": "Przeklęta Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROPBOSS_002A_S_body", "source": "Accursed Fist", "translation": "Przeklęta Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_002A_S_body", "source": "Fantasy Fist", "translation": "Pięść Fantazji", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_003A_S_body", "source": "Spectral Fist", "translation": "Widmowa Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_007A_S_body", "source": "Fantasy Fist", "translation": "Pięść Fantazji", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_008A_S_body", "source": "Spectral Fist", "translation": "Widmowa Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_011A_S_body", "source": "Sorrow Fist", "translation": "Pięść Smutku", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_DROP_012A_S_body", "source": "Sorrow Fist", "translation": "Pięść Smutku", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_QUEST_001A_B_body", "source": "Spiritforged Fist", "translation": "Wykuta z ducha Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_SHOPABYSS_002A_S_body", "source": "Archon Decanus Fist", "translation": "Pięść Dekanusa Archonta", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_SHOPABYSS_003A_S_body", "source": "Archon Centurion Fist", "translation": "Pięść Centuriona Archonta", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_D_U_SHOPABYSS_004A_S_body", "source": "Archon Tribunus Fist", "translation": "Pięść Trybuna Archonta", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_BEGIN_001A_B_body", "source": "Worn Fist", "translation": "Zużyta Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_CRAFT_001A_S_body", "source": "Orichalcum Fist", "translation": "Pięść z Orichalcum", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_DROP_003A_S_body", "source": "Forgotten Fist", "translation": "Zapomniana Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_DROP_004A_S_body", "source": "Riverside Fist", "translation": "Nadrzeczna Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_DROP_007A_S_body", "source": "Forgotten Fist", "translation": "Zapomniana Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_DROP_008A_S_body", "source": "Riverside Fist", "translation": "Nadrzeczna Pięść", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_C_LOBBY_001A_B_body", "source": "Brawler's Fist", "translation": "Pięść Bijownika", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONICCOMBO_001A_S_body", "source": "Splendent Noble Dragon Lord Fist", "translation": "Pięść Lśniącego Szlachetnego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONICCOMBO_002A_S_body", "source": "Splendent Genesis Dragon Lord Fist", "translation": "Pięść Lśniącego Smoczego Władcy Genezy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONICCOMBO_003A_S_body", "source": "Splendent Noble Dragon Lord Fist", "translation": "Pięść Lśniącego Szlachetnego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONICCOMBO_004A_S_body", "source": "Splendent Genesis Dragon Lord Fist", "translation": "Pięść Lśniącego Smoczego Władcy Genezy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONIC_001A_S_body", "source": "Noble Dragon Lord Fist", "translation": "Pięść Szlachetnego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONIC_002A_S_body", "source": "Genesis Dragon Lord Fist", "translation": "Pięść Smoczego Władcy Genezy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONIC_003A_S_body", "source": "Noble Dragon Lord Fist", "translation": "Pięść Szlachetnego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_CRAFTDRACONIC_004A_S_body", "source": "Genesis Dragon Lord Fist", "translation": "Pięść Smoczego Władcy Genezy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_SHOPABYSSELITE_001A_S_body", "source": "Elite Guardian High Commander Fist", "translation": "Pięść Elitarnego Wysokiego Dowódcy Strażników", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_SHOPABYSSELITE_002A_S_body", "source": "Elite Guardian Praetorian Captain Fist", "translation": "Pięść Elitarnego Kapitana Pretorian Strażników", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_SHOPABYSS_001A_S_body", "source": "Guardian High Commander Fist", "translation": "Pięść Wysokiego Dowódcy Strażników", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_E_SHOPABYSS_002A_S_body", "source": "Guardian Praetorian Captain Fist", "translation": "Pięść Kapitana Pretorian Strażników", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_CRAFTCOMBO_001A_S_body", "source": "Expert's Splendent Orichalcum Fist", "translation": "Pięść eksperta z lśniącego Orichalcum", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_CRAFT_001A_S_body", "source": "Artisan's Orichalcum Fist", "translation": "Pięść z Orichalcum rzemieślnika", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_002A_S_body", "source": "Elder Fist", "translation": "Pięść Starszego", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_003A_S_body", "source": "Temple Guardian Fist", "translation": "Pięść Strażnika Świątyni", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_004A_S_body", "source": "Illusion Fist", "translation": "Pięść Iluzji", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_005A_S_body", "source": "Order Fist", "translation": "Pięść Ładu", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_007A_S_body", "source": "Elder Fist", "translation": "Pięść Starszego", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_WP_GAUNTLET_L_L_DROP_008A_S_body", "source": "Temple Guardian Fist", "translation": "Pięść Strażnika Świątyni", "status": "draft"}
@@ -208,43 +248,3 @@
 {"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_CRAFTDRACONIC_002A_S_body", "source": "Genesis Dragon Lord Greatsword", "translation": "Wielki miecz Smoczego Władcy Genezy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_CRAFTDRACONIC_003A_S_body", "source": "Noble Dragon Lord Greatsword", "translation": "Wielki miecz Szlachetnego Smoczego Władcy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_CRAFTDRACONIC_004A_S_body", "source": "Genesis Dragon Lord Greatsword", "translation": "Wielki miecz Smoczego Władcy Genezy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_SHOPABYSSELITE_001A_S_body", "source": "Elite Guardian High Commander Greatsword", "translation": "Wielki miecz Elitarnego Wysokiego Dowódcy Strażników", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_SHOPABYSSELITE_002A_S_body", "source": "Elite Guardian Praetorian Captain Greatsword", "translation": "Wielki miecz Elitarnego Kapitana Pretorian Strażników", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_SHOPABYSS_001A_S_body", "source": "Guardian High Commander Greatsword", "translation": "Wielki miecz Wysokiego Dowódcy Strażników", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_E_SHOPABYSS_002A_S_body", "source": "Guardian Praetorian Captain Greatsword", "translation": "Wielki miecz Kapitana Pretorian Strażników", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_CRAFTCOMBO_001A_S_body", "source": "Expert's Splendent Orichalcum Greatsword", "translation": "Wielki miecz eksperta z lśniącego Orichalcum", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_CRAFT_001A_S_body", "source": "Artisan's Orichalcum Greatsword", "translation": "Wielki miecz z Orichalcum rzemieślnika", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_002A_S_body", "source": "Elder Greatsword", "translation": "Wielki miecz Starszego", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_003A_S_body", "source": "Temple Guardian Greatsword", "translation": "Wielki miecz Strażnika Świątyni", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_004A_S_body", "source": "Illusion Greatsword", "translation": "Wielki miecz Iluzji", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_005A_S_body", "source": "Order Greatsword", "translation": "Wielki miecz Ładu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_007A_S_body", "source": "Elder Greatsword", "translation": "Wielki miecz Starszego", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_008A_S_body", "source": "Temple Guardian Greatsword", "translation": "Wielki miecz Strażnika Świątyni", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_009A_S_body", "source": "Illusion Greatsword", "translation": "Wielki miecz Iluzji", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_DROP_010A_S_body", "source": "Order Greatsword", "translation": "Wielki miecz Ładu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_QUEST_001A_B_body", "source": "Drifter Greatsword", "translation": "Wielki miecz Włóczęgi", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_L_QUEST_002A_B_body", "source": "Pilgrim Greatsword", "translation": "Wielki miecz Pielgrzyma", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_CRAFTCOMBO_001A_S_body", "source": "Splendent Orichalcum Greatsword", "translation": "Wielki miecz z lśniącego Orichalcum", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_CRAFT_001A_S_body", "source": "Expert's Orichalcum Greatsword", "translation": "Wielki miecz z Orichalcum eksperta", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_003A_S_body", "source": "Rainy Forest Greatsword", "translation": "Wielki miecz Deszczowego Lasu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_004A_S_body", "source": "Ethereal Greatsword", "translation": "Eteryczny Wielki miecz", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_005A_S_body", "source": "Comet Greatsword", "translation": "Wielki miecz Komety", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_008A_S_body", "source": "Rainy Forest Greatsword", "translation": "Wielki miecz Deszczowego Lasu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_009A_S_body", "source": "Ethereal Greatsword", "translation": "Eteryczny Wielki miecz", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_DROP_010A_S_body", "source": "Comet Greatsword", "translation": "Wielki miecz Komety", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_QUEST_001A_B_body", "source": "Wind Breeze Greatsword", "translation": "Wielki miecz Wiatru", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_QUEST_002A_B_body", "source": "Dawn Greatsword", "translation": "Wielki miecz Świtu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_R_QUEST_003A_B_body", "source": "Twilight Greatsword", "translation": "Wielki miecz Zmierzchu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTCOMBO_001A_S_body", "source": "Artisan's Splendent Orichalcum Greatsword", "translation": "Wielki miecz rzemieślnika z lśniącego Orichalcum", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTCOMBO_002A_S_body", "source": "Artisan's Splendent Orichalcum Greatsword", "translation": "Wielki miecz rzemieślnika z lśniącego Orichalcum", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_001A_S_body", "source": "Splendent True Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Prawdziwego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_002A_S_body", "source": "Splendent White Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Białego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_003A_S_body", "source": "Splendent Wise Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Mądrego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_004A_S_body", "source": "Splendent Celestial Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Niebiańskiego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_005A_S_body", "source": "Splendent True Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Prawdziwego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_006A_S_body", "source": "Splendent White Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Białego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_007A_S_body", "source": "Splendent Wise Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Mądrego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_008A_S_body", "source": "Splendent Celestial Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Niebiańskiego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_009A_S_body", "source": "Splendent Obsidian Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Obsydianowego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONICCOMBO_010A_S_body", "source": "Splendent Obsidian Dragon Lord Greatsword", "translation": "Wielki miecz Lśniącego Obsydianowego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_WP_GREATSWORD_L_U_CRAFTDRACONIC_001A_S_body", "source": "True Dragon Lord Greatsword", "translation": "Wielki miecz Prawdziwego Smoczego Władcy", "status": "draft"}

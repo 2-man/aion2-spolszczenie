@@ -1,4 +1,75 @@
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_116_body", "source": "Retrieve Pact-bound Ranged Weapon", "translation": "Zdobądź broń dystansowa Związanego Przysięgą", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Jewelry_DiscoveryAddProb_body", "source": "Successful Essence Extraction grants a {active_prop.percent}% chance to reselect Gem grades.\n(Does not activate if higher-grade Gems have already been discovered)", "translation": "Po udanym pozyskiwaniu esencji istnieje {active_prop.percent}% szansy na ponowny wybór klasy kamieni szlachetnych.\n(Nie aktywuje się, jeśli odkryto już kamienie szlachetne wyższej klasy)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Jewelry_MultiplyReward_body", "source": "Upon a successful Essence Extraction, has a {active_prop.percent}% chance to obtain double Gathered Materials.", "translation": "Udane pozyskiwanie esencji daje {active_prop.percent}% szansy na zdobycie podwójnej ilości zebranych materiałów.", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Jewelry_ShowMinimapGatherSource_body", "source": "Gem locations are displayed on the minimap.\n(Can be toggled in the minimap options.)", "translation": "Położenie kamieni szlachetnych jest wyświetlane na minimapie.\n(Można to włączyć lub wyłączyć w opcjach minimapy.)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Metal_DiscoveryAddProb_body", "source": "Successful Essence Extraction grants a {active_prop.percent}% chance to reselect Ore grades.\n(Does not activate if higher-grade Ores have already been discovered)", "translation": "Po udanym pozyskiwaniu esencji istnieje {active_prop.percent}% szansy na ponowny wybór klasy rud.\n(Nie aktywuje się, jeśli odkryto już rudy wyższej klasy)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Metal_MultiplyReward_body", "source": "Upon a successful Essence Extraction, has a {active_prop.percent}% chance to obtain double Gathered Materials.", "translation": "Udane pozyskiwanie esencji daje {active_prop.percent}% szansy na zdobycie podwójnej ilości zebranych materiałów.", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Metal_ShowMinimapGatherSource_body", "source": "Ore locations are displayed on the minimap.\n(Can be toggled in the minimap options.)", "translation": "Położenie rud jest wyświetlane na minimapie.\n(Można to włączyć lub wyłączyć w opcjach minimapy.)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Od_DiscoveryAddProb_body", "source": "Successful Essence Extraction grants a {active_prop.percent}% chance to reselect Odyle grades.\n(Does not activate if higher-grade Odyle has already been discovered)", "translation": "Po udanym pozyskiwaniu esencji istnieje {active_prop.percent}% szansy na ponowny wybór klasy Odyle.\n(Nie aktywuje się, jeśli odkryto już Odyle wyższej klasy)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Od_MultiplyReward_body", "source": "Upon a successful Essence Extraction, has a {active_prop.percent}% chance to obtain double Gathered Materials.", "translation": "Udane pozyskiwanie esencji daje {active_prop.percent}% szansy na zdobycie podwójnej ilości zebranych materiałów.", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Od_ShowMinimapGatherSource_body", "source": "Odyle locations are displayed on the minimap.\n(Can be toggled in the minimap options.)", "translation": "Położenie Odyle jest wyświetlane na minimapie.\n(Można to włączyć lub wyłączyć w opcjach minimapy.)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Tree_DiscoveryAddProb_body", "source": "Successful Essence Extraction grants a {active_prop.percent}% chance to reselect Log grades.\n(Does not activate if higher-grade Logs have already been discovered)", "translation": "Po udanym pozyskiwaniu esencji istnieje {active_prop.percent}% szansy na ponowny wybór klasy kłód.\n(Nie aktywuje się, jeśli odkryto już kłody wyższej klasy)", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Tree_MultiplyReward_body", "source": "Upon a successful Essence Extraction, has a {active_prop.percent}% chance to obtain double Gathered Materials.", "translation": "Udane pozyskiwanie esencji daje {active_prop.percent}% szansy na zdobycie podwójnej ilości zebranych materiałów.", "status": "draft"}
+{"id": "String_STR_PC_GatherSkill_Tree_ShowMinimapGatherSource_body", "source": "Log locations are displayed on the minimap.\n(Can be toggled in the minimap options.)", "translation": "Położenie kłód jest wyświetlane na minimapie.\n(Można to włączyć lub wyłączyć w opcjach minimapy.)", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_01_body", "source": "An Impact-type status effect that causes immobilization and incapacitation.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu uderzeniowego, który powoduje unieruchomienie i obezwładnienie.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_02_body", "source": "An Impact-type status effect that causes immobilization and incapacitation.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu uderzeniowego, który powoduje unieruchomienie i obezwładnienie.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_03_body", "source": "An Impact-type status effect that causes immobilization and incapacitation.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu uderzeniowego, który powoduje unieruchomienie i obezwładnienie.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_04_body", "source": "An Impact-type status effect that causes immobilization and incapacitation.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu uderzeniowego, który powoduje unieruchomienie i obezwładnienie.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_05_body", "source": "A Mental-type status effect that forces the target to move in the opposite direction of the caster.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu mentalnego, który zmusza cel do poruszania się w kierunku przeciwnym do rzucającego.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_06_body", "source": "An Ailment-type status effect that causes immobilization and incapacitation.\nRemoved upon being hit by Frost Burst.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który powoduje unieruchomienie i obezwładnienie.\nUsuwa go trafienie Wybuchem mrozu.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_07_body", "source": "A Mental-type status effect that causes immobilization and incapacitation.\nHas a fixed chance to be removed when attacked.\nCan be removed through cleansing skills.", "translation": "Efekt statusu typu mentalnego, który powoduje unieruchomienie i obezwładnienie.\nMa stałą szansę na usunięcie po otrzymaniu ataku.\nMożna go usunąć za pomocą umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_08_body", "source": "A Mental-type status effect that causes immobilization and incapacitation.\nHas a fixed chance to be removed when attacked.\nCan be removed through cleansing skills.", "translation": "Efekt statusu typu mentalnego, który powoduje unieruchomienie i obezwładnienie.\nMa stałą szansę na usunięcie po otrzymaniu ataku.\nMożna go usunąć za pomocą umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_09_body", "source": "A Mental-type status effect that forces the target to move towards and attack the caster.\nCan be removed through Defiance or cleansing skills.", "translation": "Efekt statusu typu mentalnego, który zmusza cel do zbliżenia się do rzucającego i zaatakowania go.\nMożna go usunąć za pomocą Niezłomności lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_10_body", "source": "An Ailment-type status effect that causes immobilization and incapacitation.\nCan be removed through cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który powoduje unieruchomienie i obezwładnienie.\nMożna go usunąć za pomocą umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_11_body", "source": "A Mental-type status effect that causes the target to be unable to use skills.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu mentalnego, który uniemożliwia celowi używanie umiejętności.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_12_body", "source": "An Ailment-type status effect that causes immobilization.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który powoduje unieruchomienie.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_13_body", "source": "An Ailment-type status effect that causes an increased chance of attack failure.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który zwiększa szansę na niepowodzenie ataku.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_14_body", "source": "An Ailment-type status effect that reduces Combat Speed.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który zmniejsza szybkość walki.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_15_body", "source": "An Ailment-type status effect that reduces Move Speed.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który zmniejsza szybkość ruchu.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_16_body", "source": "An Ailment-type status effect that periodically inflicts Damage over Time.\nReduces HP Potion Recovery and Incoming Heal.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który okresowo zadaje obrażenia w czasie.\nZmniejsza odzyskiwanie PŻ z mikstur oraz otrzymywane leczenie.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_17_body", "source": "An Ailment-type status effect that periodically inflicts Damage over Time.\nCan be removed through Healing Potions or cleansing skills.", "translation": "Efekt statusu typu dolegliwości, który okresowo zadaje obrażenia w czasie.\nMożna go usunąć za pomocą mikstur leczniczych lub umiejętności oczyszczających.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_18_body", "source": "To be added.", "translation": "Do uzupełnienia.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_19_body", "source": "To be added.", "translation": "Do uzupełnienia.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_DESC_20_body", "source": "To be added.", "translation": "Do uzupełnienia.", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_01_body", "source": "Stun", "translation": "Ogłuszenie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_02_body", "source": "Knockdown", "translation": "Powalenie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_03_body", "source": "Airborne", "translation": "Wyrzucenie w powietrze", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_04_body", "source": "Grab", "translation": "Pochwycenie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_05_body", "source": "Fear", "translation": "Strach", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_06_body", "source": "Frost", "translation": "Mróz", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_07_body", "source": "Sleep", "translation": "Sen", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_08_body", "source": "Polymorph", "translation": "Polimorfia", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_09_body", "source": "Taunt", "translation": "Prowokacja", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_10_body", "source": "Paralyze", "translation": "Paraliż", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_11_body", "source": "Seal", "translation": "Pieczęć", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_12_body", "source": "Root", "translation": "Unieruchomienie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_13_body", "source": "Blind", "translation": "Oślepienie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_14_body", "source": "Lethargy", "translation": "Letarg", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_15_body", "source": "Slow", "translation": "Spowolnienie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_16_body", "source": "Poison", "translation": "Trucizna", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_17_body", "source": "Bleed", "translation": "Krwawienie", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_18_body", "source": "To be added", "translation": "Do dodania", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_19_body", "source": "To be added", "translation": "Do dodania", "status": "draft"}
+{"id": "String_STR_PC_SKILL_ABNORMAL_TYPE_20_body", "source": "To be added", "translation": "Do dodania", "status": "draft"}
+{"id": "String_STR_PERCENT_PLUS_body", "source": "+{0}%", "translation": "+{0}%", "status": "draft"}
+{"id": "String_STR_PERCENT_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_100_body", "source": "Retrieve Alluring Accessory", "translation": "Zdobądź akcesorium Uwodzicielskie", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_101_body", "source": "Retrieve Dusk Accessory", "translation": "Zdobądź akcesorium Zmierzchu", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_102_body", "source": "Retrieve Defender Melee Weapon", "translation": "Zdobądź broń Obrońcy do walki wręcz", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_103_body", "source": "Retrieve Whispering Oblivion Melee Weapon", "translation": "Zdobądź broń Szepczącego Zapomnienia do walki wręcz", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_104_body", "source": "Retrieve Bloodthirsty Melee Weapon", "translation": "Zdobądź broń Krwiożercy do walki wręcz", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_105_body", "source": "Retrieve Vowed Melee Weapon", "translation": "Zdobądź broń Przysięgi do walki wręcz", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_106_body", "source": "Retrieve Pact-bound Melee Weapon", "translation": "Zdobądź broń Związanego Przysięgą do walki wręcz", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_107_body", "source": "Retrieve Defender Sword and Shield", "translation": "Zdobądź miecz i tarczę Obrońcy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_108_body", "source": "Retrieve Whispering Oblivion Sword and Shield", "translation": "Zdobądź miecz i tarczę Szepczącego Zapomnienia", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_109_body", "source": "Retrieve Bloodthirsty Sword and Shield", "translation": "Zdobądź miecz i tarczę Krwiożercy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_10_body", "source": "Retrieve Phantasm Armor II", "translation": "Zdobądź zbroję Ułudy II", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_110_body", "source": "Retrieve Vowed Sword and Shield", "translation": "Zdobądź miecz i tarczę Przysięgi", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_111_body", "source": "Retrieve Pact-bound Sword and Shield", "translation": "Zdobądź miecz i tarczę Związanego Przysięgą", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_112_body", "source": "Retrieve Defender Ranged Weapon", "translation": "Zdobądź broń dystansową Obrońcy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_113_body", "source": "Retrieve Whispering Oblivion Ranged Weapon", "translation": "Zdobądź broń dystansową Szepczącego Zapomnienia", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_114_body", "source": "Retrieve Bloodthirsty Ranged Weapon", "translation": "Zdobądź broń dystansową Krwiożercy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_115_body", "source": "Retrieve Vowed Ranged Weapon", "translation": "Zdobądź broń dystansową Przysięgi", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_116_body", "source": "Retrieve Pact-bound Ranged Weapon", "translation": "Zdobądź broń dystansową Związanego Przysięgą", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_117_body", "source": "Retrieve Defender Armor I", "translation": "Zdobądź zbroję Obrońcy I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_118_body", "source": "Retrieve Whispering Oblivion Armor I", "translation": "Zdobądź zbroję Szepczącego Zapomnienia I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_119_body", "source": "Retrieve Bloodthirsty Armor I", "translation": "Zdobądź zbroję Krwiożercy I", "status": "draft"}
@@ -89,37 +160,37 @@
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_196_body", "source": "Retrieve Corrupted Judicator Sword and Shield", "translation": "Zdobądź miecz i tarczę Spaczonego Sędziego", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_197_body", "source": "Retrieve Unyielding Sword and Shield", "translation": "Zdobądź miecz i tarczę Niezłomnego", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_198_body", "source": "Retrieve Black Claw Sword and Shield", "translation": "Zdobądź miecz i tarczę Czarnego Pazura", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_199_body", "source": "Retrieve Red Agate Ranged Weapon", "translation": "Zdobądź broń dystansowa Czerwonego Agatu", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_19_body", "source": "Retrieve Tempest Ranged Weapon", "translation": "Zdobądź broń dystansowa Nawałnicy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_199_body", "source": "Retrieve Red Agate Ranged Weapon", "translation": "Zdobądź broń dystansową Czerwonego Agatu", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_19_body", "source": "Retrieve Tempest Ranged Weapon", "translation": "Zdobądź broń dystansową Nawałnicy", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_1_body", "source": "Retrieve Shade Melee Weapon", "translation": "Zdobądź broń Cienia do walki wręcz", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_200_body", "source": "Retrieve Faith Ranged Weapon", "translation": "Zdobądź broń dystansowa Wiary", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_201_body", "source": "Retrieve Anguish Ranged Weapon", "translation": "Zdobądź broń dystansowa Udręki", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_202_body", "source": "Retrieve Division Ranged Weapon", "translation": "Zdobądź broń dystansowa Podziału", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_203_body", "source": "Retrieve Divine Canyon Ranged Weapon", "translation": "Zdobądź broń dystansowa Boskiego Kanionu", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_204_body", "source": "Retrieve Corrupted Judicator's Ranged Weapon", "translation": "Zdobądź broń dystansowa Corrupted Judicator's", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_205_body", "source": "Retrieve Unyielding Ranged Weapon", "translation": "Zdobądź broń dystansowa Niezłomnego", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_206_body", "source": "Retrieve Black Claw Ranged Weapon", "translation": "Zdobądź broń dystansowa Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_200_body", "source": "Retrieve Faith Ranged Weapon", "translation": "Zdobądź broń dystansową Wiary", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_201_body", "source": "Retrieve Anguish Ranged Weapon", "translation": "Zdobądź broń dystansową Udręki", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_202_body", "source": "Retrieve Division Ranged Weapon", "translation": "Zdobądź broń dystansową Podziału", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_203_body", "source": "Retrieve Divine Canyon Ranged Weapon", "translation": "Zdobądź broń dystansową Boskiego Kanionu", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_204_body", "source": "Retrieve Corrupted Judicator's Ranged Weapon", "translation": "Zdobądź broń dystansową Spaczonego Sędziego", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_205_body", "source": "Retrieve Unyielding Ranged Weapon", "translation": "Zdobądź broń dystansową Niezłomnego", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_206_body", "source": "Retrieve Black Claw Ranged Weapon", "translation": "Zdobądź broń dystansową Czarnego Pazura", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_207_body", "source": "Retrieve Red Agate Armor I", "translation": "Zdobądź zbroję Czerwonego Agatu I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_208_body", "source": "Retrieve Faith Armor I", "translation": "Zdobądź zbroję Wiary I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_209_body", "source": "Retrieve Judicator Armor I", "translation": "Zdobądź zbroję Sędziego I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_20_body", "source": "Retrieve Chaos Ranged Weapon", "translation": "Zdobądź broń dystansowa Chaosu", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_20_body", "source": "Retrieve Chaos Ranged Weapon", "translation": "Zdobądź broń dystansową Chaosu", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_210_body", "source": "Retrieve Anguish Armor I", "translation": "Zdobądź zbroję Udręki I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_211_body", "source": "Retrieve Division Armor I", "translation": "Zdobądź zbroję Podziału I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_212_body", "source": "Retrieve Divine Canyon Armor I", "translation": "Zdobądź zbroję Boskiego Kanionu I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_213_body", "source": "Retrieve Corrupted Judicator Armor I", "translation": "Zdobądź zbroję Spaczonego Sędziego I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_214_body", "source": "Retrieve Unyielding Armor I", "translation": "Zdobądź zbroję Niezłomnego I", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_214_body", "source": "Retrieve Unyielding Armor I", "translation": "Zdobądź niezłomną zbroję I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_215_body", "source": "Retrieve Black Claw Armor I", "translation": "Zdobądź zbroję Czarnego Pazura I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_216_body", "source": "Retrieve Dramata Armor I", "translation": "Zdobądź zbroję Dramaty I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_217_body", "source": "Retrieve Apex Armor I", "translation": "Zdobądź zbroję Szczytu I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_218_body", "source": "Retrieve Red Agate Armor II", "translation": "Zdobądź zbroję Czerwonego Agatu II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_219_body", "source": "Retrieve Faith Armor II", "translation": "Zdobądź zbroję Wiary II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_21_body", "source": "Retrieve Luminous Ranged Weapon", "translation": "Zdobądź broń dystansowa Blasku", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_21_body", "source": "Retrieve Luminous Ranged Weapon", "translation": "Zdobądź broń dystansową Blasku", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_220_body", "source": "Retrieve Judicator Armor II", "translation": "Zdobądź zbroję Sędziego II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_221_body", "source": "Retrieve Anguish Armor II", "translation": "Zdobądź zbroję Udręki II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_222_body", "source": "Retrieve Division Armor II", "translation": "Zdobądź zbroję Podziału II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_223_body", "source": "Retrieve Divine Canyon Armor II", "translation": "Zdobądź zbroję Boskiego Kanionu II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_224_body", "source": "Retrieve Corrupted Judicator Armor II", "translation": "Zdobądź zbroję Spaczonego Sędziego II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_225_body", "source": "Retrieve Unyielding Armor II", "translation": "Zdobądź zbroję Niezłomnego II", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_225_body", "source": "Retrieve Unyielding Armor II", "translation": "Zdobądź niezłomną zbroję II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_226_body", "source": "Retrieve Black Claw Armor II", "translation": "Zdobądź zbroję Czarnego Pazura II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_227_body", "source": "Retrieve Dramata Armor II", "translation": "Zdobądź zbroję Dramaty II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_228_body", "source": "Retrieve Apex Armor II", "translation": "Zdobądź zbroję Szczytu II", "status": "draft"}
@@ -144,8 +215,8 @@
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_245_body", "source": "Retrieve Ferocious Horn Den Accessory", "translation": "Zdobądź akcesorium Gniazda Dzikiego Rogu", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_246_body", "source": "Retrieve Dramata Accessory", "translation": "Zdobądź akcesorium Dramaty", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_247_body", "source": "Retrieve Apex Accessory", "translation": "Zdobądź akcesorium Szczytu", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_248_body", "source": "Retrieve Fire Temple Accessory", "translation": "Zdobądź akcesorium Fire Temple", "status": "draft"}
-{"id":"String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_249_body","source":"Retrieve Agony and Windwood","translation":"Zdobądź Agony i Windwood.","status":"draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_248_body", "source": "Retrieve Fire Temple Accessory", "translation": "Zdobądź akcesorium Świątyni Ognia", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_249_body", "source": "Retrieve Agony and Windwood", "translation": "Zdobądź Agony i Windwood.", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_24_body", "source": "Retrieve Luminous Armor I", "translation": "Zdobądź zbroję Blasku I", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_250_body", "source": "Retrieve Kromede Melee Weapon", "translation": "Zdobądź broń Kromede do walki wręcz", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_251_body", "source": "Retrieve Rupture Melee Weapon", "translation": "Zdobądź broń Rozdarcia do walki wręcz", "status": "draft"}
@@ -158,93 +229,22 @@
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_258_body", "source": "Retrieve Afflicted Bakarma Weapon", "translation": "Zdobądź broń Dotkniętej Bakarmy", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_259_body", "source": "Retrieve Atiel Weapon", "translation": "Zdobądź broń Atiel", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_25_body", "source": "Retrieve Tempest Armor II", "translation": "Zdobądź zbroję Nawałnicy II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_260_body", "source": "Retrieve Kromede Ranged Weapon", "translation": "Zdobądź broń dystansowa Kromede", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_261_body", "source": "Retrieve Rupture Ranged Weapon", "translation": "Zdobądź broń dystansowa Rozdarcia", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_262_body", "source": "Retrieve Aulamus Ranged Weapon", "translation": "Zdobądź broń dystansowa Aulamusa", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_263_body", "source": "Retrieve Enraged Kromede Ranged Weapon", "translation": "Zdobądź broń dystansowa Rozwścieczonej Kromede", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_264_body", "source": "Retrieve Afflicted Bakarma Ranged Weapon", "translation": "Zdobądź broń dystansowa Dotkniętej Bakarmy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_265_body", "source": "Retrieve Nathara Ranged Weapon", "translation": "Zdobądź broń dystansowa Nathary", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_266_body", "source": "Retrieve Atiel Ranged Weapon", "translation": "Zdobądź broń dystansowa Atiel", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_260_body", "source": "Retrieve Kromede Ranged Weapon", "translation": "Zdobądź broń dystansową Kromede", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_261_body", "source": "Retrieve Rupture Ranged Weapon", "translation": "Zdobądź broń dystansową Rozdarcia", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_262_body", "source": "Retrieve Aulamus Ranged Weapon", "translation": "Zdobądź broń dystansową Aulamusa", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_263_body", "source": "Retrieve Enraged Kromede Ranged Weapon", "translation": "Zdobądź broń dystansową Rozwścieczonej Kromede", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_264_body", "source": "Retrieve Afflicted Bakarma Ranged Weapon", "translation": "Zdobądź broń dystansową Dotkniętej Bakarmy", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_265_body", "source": "Retrieve Nathara Ranged Weapon", "translation": "Zdobądź broń dystansową Nathary", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_266_body", "source": "Retrieve Atiel Ranged Weapon", "translation": "Zdobądź broń dystansową Atiel", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_267_body", "source": "Retrieve Kromede Weapon", "translation": "Zdobądź broń Kromede", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_268_body", "source": "Retrieve Rupture Weapon", "translation": "Zdobądź broń Rozdarcia", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_269_body", "source": "Retrieve Enraged Kromede Weapon", "translation": "Zdobądź broń Rozwścieczonej Kromede", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_26_body", "source": "Retrieve Chaos Armor II", "translation": "Zdobądź zbroję Chaosu II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_270_body", "source": "Retrieve Nathara Weapon", "translation": "Zdobądź broń Nathary", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_271_body", "source": "Retrieve Transcendent Armor II", "translation": "Zdobądź zbroję Transcendentnej II", "status": "draft"}
+{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_271_body", "source": "Retrieve Transcendent Armor II", "translation": "Zdobądź zbroję Transcendencji II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_272_body", "source": "Retrieve Bakarma Armor II", "translation": "Zdobądź zbroję Bakarmy II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_273_body", "source": "Retrieve Vakron Armor II", "translation": "Zdobądź zbroję Vakrona II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_274_body", "source": "Retrieve Nuakum Armor II", "translation": "Zdobądź zbroję Nuakum II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_275_body", "source": "Retrieve Durvati Armor II", "translation": "Zdobądź zbroję Durvati II", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_276_body", "source": "Retrieve Awakened Alturadon Sword and Shield", "translation": "Zdobądź miecz i tarczę Przebudzonego Alturadona", "status": "draft"}
 {"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_277_body", "source": "Retrieve Basilus Sword and Shield", "translation": "Zdobądź miecz i tarczę Basilusa", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_278_body", "source": "Retrieve Transcendent Armor I", "translation": "Zdobądź zbroję Transcendentnej I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_279_body", "source": "Retrieve Bakarma Armor I", "translation": "Zdobądź zbroję Bakarmy I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_27_body", "source": "Retrieve Luminous Armor II", "translation": "Zdobądź zbroję Blasku II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_280_body", "source": "Retrieve Vakron Armor I", "translation": "Zdobądź zbroję Vakrona I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_281_body", "source": "Retrieve Nuakum Armor I", "translation": "Zdobądź zbroję Nuakum I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_282_body", "source": "Retrieve Durvati Armor I", "translation": "Zdobądź zbroję Durvati I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_283_body", "source": "Retrieve Nathara Armor", "translation": "Zdobądź zbroję Nathary", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_284_body", "source": "Retrieve Basilus Armor I", "translation": "Zdobądź zbroję Basilusa I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_285_body", "source": "Retrieve Awakened Alturadon Armor", "translation": "Zdobądź zbroję Przebudzonego Alturadona", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_286_body", "source": "Retrieve Basilus Armor II", "translation": "Zdobądź zbroję Basilusa II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_287_body", "source": "Retrieve Transcendent Clothes", "translation": "Zdobądź odzież Transcendentnej", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_288_body", "source": "Retrieve Bakarma Clothes", "translation": "Zdobądź odzież Bakarmy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_289_body", "source": "Retrieve Vakron Clothes", "translation": "Zdobądź odzież Vakrona", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_28_body", "source": "Retrieve Tempest Clothes", "translation": "Zdobądź odzież Nawałnicy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_290_body", "source": "Retrieve Nuakum Clothes", "translation": "Zdobądź odzież Nuakum", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_291_body", "source": "Retrieve Durvati Clothes", "translation": "Zdobądź odzież Durvati", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_292_body", "source": "Retrieve Basilus Clothes", "translation": "Zdobądź odzież Basilusa", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_293_body", "source": "Retrieve Berk Accessory", "translation": "Zdobądź akcesorium Berka", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_294_body", "source": "Retrieve Aulamus Accessory", "translation": "Zdobądź akcesorium Aulamusa", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_295_body", "source": "Retrieve Enraged Kromede Accessory", "translation": "Zdobądź akcesorium Rozwścieczonej Kromede", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_296_body", "source": "Retrieve Afflicted Bakarma Accessory", "translation": "Zdobądź akcesorium Dotkniętej Bakarmy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_297_body", "source": "Retrieve Scattered Radiance Accessory", "translation": "Zdobądź akcesorium Rozproszonego Blasku", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_298_body", "source": "Retrieve Atiel Accessory", "translation": "Zdobądź akcesorium Atiel", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_299_body", "source": "Retrieve Blacksmith Weapon", "translation": "Zdobądź broń Kowala", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_29_body", "source": "Retrieve Chaos Clothes", "translation": "Zdobądź odzież Chaosu", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_2_body", "source": "Retrieve Phantasm Melee Weapon", "translation": "Zdobądź broń Ułudy do walki wręcz", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_300_body", "source": "Retrieve Handicrafter Weapon", "translation": "Zdobądź broń Rękodzielnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_301_body", "source": "Retrieve Alchemist Weapon", "translation": "Zdobądź broń Alchemika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_302_body", "source": "Retrieve Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Prawdy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_303_body", "source": "Retrieve Armorsmith Armor I", "translation": "Zdobądź zbroję Płatnerza I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_304_body", "source": "Retrieve Armorsmith Armor II", "translation": "Zdobądź zbroję Płatnerza II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_305_body", "source": "Retrieve Handicrafter Accessory", "translation": "Zdobądź akcesorium Rękodzielnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_306_body", "source": "Retrieve Expert Blacksmith Weapon", "translation": "Zdobądź broń Kowala eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_307_body", "source": "Retrieve Expert Handicrafter Weapon", "translation": "Zdobądź broń Rękodzielnika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_308_body", "source": "Retrieve Expert Alchemist Weapon", "translation": "Zdobądź broń Alchemika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_309_body", "source": "Retrieve Expert's Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Prawdy eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_30_body", "source": "Retrieve Luminous Clothes", "translation": "Zdobądź odzież Blasku", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_310_body", "source": "Retrieve Expert Armorsmith Armor I", "translation": "Zdobądź zbroję Płatnerza eksperta I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_311_body", "source": "Retrieve Expert Armorsmith Armor II", "translation": "Zdobądź zbroję Płatnerza eksperta II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_312_body", "source": "Retrieve Expert Handicrafter Accessory", "translation": "Zdobądź akcesorium Rękodzielnika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_313_body", "source": "Retrieve Artisan Blacksmith Weapon", "translation": "Zdobądź broń Kowala rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_314_body", "source": "Retrieve Artisan Handicrafter Weapon", "translation": "Zdobądź broń Rękodzielnika rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_315_body", "source": "Retrieve Artisan Alchemist Weapon", "translation": "Zdobądź broń Alchemika rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_316_body", "source": "Retrieve Artisan's Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Prawdy rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_317_body", "source": "Retrieve Artisan Armorsmith Armor I", "translation": "Zdobądź zbroję Płatnerza rzemieślnika I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_318_body", "source": "Retrieve Artisan Armorsmith Armor II", "translation": "Zdobądź zbroję Płatnerza rzemieślnika II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_319_body", "source": "Retrieve Artisan Handicrafter Accessory", "translation": "Zdobądź akcesorium Rękodzielnika rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_31_body", "source": "Retrieve Relic Seeker Melee Weapon", "translation": "Zdobądź broń Poszukiwacza Reliktów do walki wręcz", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_320_body", "source": "Retrieve Blacksmith Splendent Weapon", "translation": "Zdobądź lśniącą broń Kowala", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_321_body", "source": "Retrieve Handicrafter Splendent Weapon", "translation": "Zdobądź lśniącą broń Rękodzielnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_322_body", "source": "Retrieve Alchemist Splendent Weapon", "translation": "Zdobądź lśniącą broń Alchemika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_323_body", "source": "Retrieve Splendent Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Lśniącej Prawdy", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_324_body", "source": "Retrieve Armorsmith Splendent Armor I", "translation": "Zdobądź lśniącą zbroję Płatnerza I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_325_body", "source": "Retrieve Armorsmith Splendent Armor II", "translation": "Zdobądź lśniącą zbroję Płatnerza II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_326_body", "source": "Retrieve Handicrafter Splendent Accessory", "translation": "Zdobądź lśniące akcesorium Rękodzielnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_327_body", "source": "Retrieve Expert Blacksmith Splendent Weapon", "translation": "Zdobądź lśniącą broń Kowala eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_328_body", "source": "Retrieve Expert Handicrafter Splendent Weapon", "translation": "Zdobądź lśniącą broń Rękodzielnika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_329_body", "source": "Retrieve Expert Alchemist Splendent Weapon", "translation": "Zdobądź lśniącą broń Alchemika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_32_body", "source": "Retrieve Pragmatist Melee Weapon", "translation": "Zdobądź broń Pragmatysty do walki wręcz", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_330_body", "source": "Retrieve Expert's Splendent Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Lśniącej Prawdy eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_331_body", "source": "Retrieve Expert Armorsmith Splendent Armor I", "translation": "Zdobądź lśniącą zbroję Płatnerza eksperta I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_332_body", "source": "Retrieve Expert Armorsmith Splendent Armor II", "translation": "Zdobądź lśniącą zbroję Płatnerza eksperta II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_333_body", "source": "Retrieve Expert Handicrafter Splendent Accessory", "translation": "Zdobądź lśniące akcesorium Rękodzielnika eksperta", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_334_body", "source": "Retrieve Artisan Blacksmith Splendent Weapon", "translation": "Zdobądź lśniącą broń Kowala rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_335_body", "source": "Retrieve Artisan Handicrafter Splendent Weapon", "translation": "Zdobądź lśniącą broń Rękodzielnika rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_336_body", "source": "Retrieve Artisan Alchemist Splendent Weapon", "translation": "Zdobądź lśniącą broń Alchemika rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_337_body", "source": "Retrieve Artisan's Splendent Truth Ranged Weapon", "translation": "Zdobądź broń dystansowa Lśniącej Prawdy rzemieślnika", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_338_body", "source": "Retrieve Artisan Armorsmith Splendent Armor I", "translation": "Zdobądź lśniącą zbroję Płatnerza rzemieślnika I", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_339_body", "source": "Retrieve Artisan Armorsmith Splendent Armor II", "translation": "Zdobądź lśniącą zbroję Płatnerza rzemieślnika II", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_33_body", "source": "Retrieve Destruction Melee Weapon", "translation": "Zdobądź broń Zniszczenia do walki wręcz", "status": "draft"}
-{"id": "String_STR_PERIOD_COLLECTION_DARK_LIST_DESC_340_body", "source": "Retrieve Artisan Handicrafter Splendent Accessory", "translation": "Zdobądź lśniące akcesorium Rękodzielnika rzemieślnika", "status": "draft"}

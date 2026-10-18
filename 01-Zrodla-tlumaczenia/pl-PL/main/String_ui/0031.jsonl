@@ -1,3 +1,27 @@
+{"id": "String_UI_SKIN_BUFF_TAB_UTILITY_body", "source": "Utility", "translation": "Użytkowe", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_EFFECT_body", "source": "Collection Effect", "translation": "Efekt kolekcji", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_COMMON_body", "source": "Common", "translation": "Zwykła", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_EPIC_body", "source": "Heroic", "translation": "Heroiczna", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_GUIDE_body", "source": "Gain Collection Points when obtaining the skin for the first time.", "translation": "Przy pierwszym zdobyciu skórki otrzymasz punkty kolekcji.", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_LEGEND_body", "source": "Epic", "translation": "Epicka", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_RARE_body", "source": "Rare", "translation": "Rzadka", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_TITLE_body", "source": "Points Gained by Skin Grade", "translation": "Punkty za jakość skórki", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_INFO_UNIQUE_body", "source": "Unique", "translation": "Unikatowa", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_POINT_GUIDE_BUTTON_body", "source": "Points Gained", "translation": "Zdobyte punkty", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_POINT_body", "source": "{0} pts.", "translation": "{0} pkt", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_0_body", "source": "0", "translation": "0", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_RATE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_GUIDE_body", "source": "{1} per {0} pt(s)", "translation": "{1} na każde {0} pkt", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_body", "source": "Stats increase per Collection Point", "translation": "Statystyki rosną za każdy punkt kolekcji", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_STATE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_SKIN_COLLECTION_WEAPON_GUIDE_body", "source": "The weapon skins of another class are not added to total collection points.", "translation": "Skórki broni innych klas nie są wliczane do łącznej liczby punktów kolekcji.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_AUTOREGISTERBUTTON_body", "source": "Auto Register", "translation": "Zarejestruj automatycznie", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_CHECK_RESULT_body", "source": "Please check the results.", "translation": "Sprawdź wyniki.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_COMBINEBUTTON_body", "source": "Combine", "translation": "Połącz", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_COMBINENTIMESBUTTON_body", "source": "Combine X {0}", "translation": "Połącz × {0}", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_DECO_SKIN_USE_DISABLED_body", "source": "You must <warning>remove customization</> from a customized skin before it can be used for combination.", "translation": "Przed połączeniem <warning>usuń personalizację</> ze spersonalizowanej skórki.", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_FILTER_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
@@ -6,10 +30,10 @@
 {"id": "String_UI_SKIN_COMBINE_GUIDE_body", "source": "Register the Skins you want to combine.", "translation": "Zarejestruj skórki, które chcesz połączyć.", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_OPENALLRESULTS_body", "source": "Open All", "translation": "Otwórz wszystkie", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_PAGE_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_PROBABILITYPOPUPTITLE_body", "source": "Combination Success Probability by Grade", "translation": "Szansa na uzyskanie przedmiotu danej rangi", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_PROBABILITY_BASE_body", "source": "Top Grade Item Probability {0}%", "translation": "Szansa na przedmiot najwyższej rangi: {0}%", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_PROBABILITY_GRADE_NOT_SELECTED_body", "source": "Select a grade.", "translation": "Wybierz rangę.", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_PROBABILITY_INCREASE_UNAVAILABLE_body", "source": "Rate Increase Unavailable Grade", "translation": "Ranga bez możliwości zwiększenia szansy", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITYPOPUPTITLE_body", "source": "Combination Success Probability by Grade", "translation": "Szansa na uzyskanie przedmiotu danej jakości", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_BASE_body", "source": "Top Grade Item Probability {0}%", "translation": "Szansa na przedmiot najwyższej jakości: {0}%", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_GRADE_NOT_SELECTED_body", "source": "Select a grade.", "translation": "Wybierz jakość.", "status": "draft"}
+{"id": "String_UI_SKIN_COMBINE_PROBABILITY_INCREASE_UNAVAILABLE_body", "source": "Rate Increase Unavailable Grade", "translation": "Jakość bez możliwości zwiększenia szansy", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_PROBABILITY_INCREASE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_PROBABILITY_INFORMATION_body", "source": "Probability to Acquire Skins", "translation": "Szansa na zdobycie skórek", "status": "draft"}
 {"id": "String_UI_SKIN_COMBINE_PROBABILITY_ITEM_QUANTITY_body", "source": "{0}", "translation": "{0}", "status": "draft"}
@@ -96,7 +120,7 @@
 {"id": "String_UI_SKIN_GRADE_BUFF_TAB_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
 {"id": "String_UI_SKIN_GRADE_BUFF_TITLE_body", "source": "Closet Effect", "translation": "Efekt garderoby", "status": "draft"}
 {"id": "String_UI_SKIN_GRADE_POINT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
-{"id": "String_UI_SKIN_GRADE_TEXT_body", "source": "Skin Record {0} Grade", "translation": "Ranga {0} w rejestrze skórek", "status": "draft"}
+{"id": "String_UI_SKIN_GRADE_TEXT_body", "source": "Skin Record {0} Grade", "translation": "Jakość {0} w rejestrze skórek", "status": "draft"}
 {"id": "String_UI_SKIN_INFO_BTN_ACQUISITIONINFORMATION_body", "source": "Acquisition Information", "translation": "Informacje o zdobyciu", "status": "draft"}
 {"id": "String_UI_SKIN_INFO_BTN_Deco_body", "source": "Customize", "translation": "Personalizuj", "status": "draft"}
 {"id": "String_UI_SKIN_INFO_BTN_register_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
@@ -119,7 +143,7 @@
 {"id": "String_UI_SKIN_LIST_FILTERED_EMPTY_body", "source": "No Skins to display.", "translation": "Brak skórek do wyświetlenia.", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_FILTER_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_FILTER_BOOKMARK_body", "source": "Favorites", "translation": "Ulubione", "status": "draft"}
-{"id": "String_UI_SKIN_LIST_FILTER_GRADE_body", "source": "Skin Grade", "translation": "Ranga skórki", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_FILTER_GRADE_body", "source": "Skin Grade", "translation": "Jakość skórki", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_FILTER_REGISTERED_body", "source": "Equipped Skin", "translation": "Założona skórka", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_FILTER_STATUS_body", "source": "Skin Status", "translation": "Stan skórki", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_FILTER_STYLE_HeavyArmor_body", "source": "Heavy Armor Skin", "translation": "Skórka ciężkiej zbroi", "status": "draft"}
@@ -129,8 +153,8 @@
 {"id": "String_UI_SKIN_LIST_OWNED_EMPTY_body", "source": "No Skins owned.", "translation": "Nie masz żadnych skórek.", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_SKINSET_EQUIP_BUTTON_body", "source": "Equip All", "translation": "Załóż wszystkie", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_SORT_BASIC_body", "source": "Default Sorting", "translation": "Sortowanie domyślne", "status": "draft"}
-{"id": "String_UI_SKIN_LIST_SORT_GRADE_HIGH_body", "source": "Highest Grade First", "translation": "Od najwyższej rangi", "status": "draft"}
-{"id": "String_UI_SKIN_LIST_SORT_GRADE_LOW_body", "source": "Lowest Grade First", "translation": "Od najniższej rangi", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_GRADE_HIGH_body", "source": "Highest Grade First", "translation": "Od najwyższej jakości", "status": "draft"}
+{"id": "String_UI_SKIN_LIST_SORT_GRADE_LOW_body", "source": "Lowest Grade First", "translation": "Od najniższej jakości", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_SORT_NAME_body", "source": "By Name", "translation": "Według nazwy", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_SORT_NEW_body", "source": "Newest Skin First", "translation": "Od najnowszych skórek", "status": "draft"}
 {"id": "String_UI_SKIN_LIST_SORT_TITLE_body", "source": "Sorting Options", "translation": "Opcje sortowania", "status": "draft"}
@@ -224,27 +248,3 @@
 {"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_02_body", "source": "Snapshots will be saved with skin info included when you take a shot. You can register the saved snapshot in the Style Shop to share skin info.\nThere may be a delay until a snapshot is taken.\n[Save Location]\n(PC) PURPLE designated path for screenshots > snapshot_styleShop", "translation": "Zrzuty ekranu będą zapisywane z informacjami o skórce. Zapisany zrzut możesz zarejestrować w Sklepie Stylu, aby udostępnić te informacje.\nWykonanie zrzutu może się opóźnić.\n[Miejsce zapisu]\n(PC) Wyznaczona ścieżka PURPLE dla zrzutów ekranu > snapshot_styleShop", "status": "draft"}
 {"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_03_body", "source": "[OFF]", "translation": "[WYŁ.]", "status": "draft"}
 {"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_TOOLTIP_04_body", "source": "Snapshots will be saved without skin info.\n[Save Location]\n(PC) PURPLE designated path for screenshots > snapshot", "translation": "Zrzuty ekranu będą zapisywane bez informacji o skórce.\n[Miejsce zapisu]\n(PC) Wyznaczona ścieżka PURPLE dla zrzutów ekranu > snapshot", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_MENU_CUSTOMIZE_INFO_body", "source": "Include Customization Info", "translation": "Uwzględnij informacje o personalizacji", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_MENU_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_MENU_SHOOTING_body", "source": "Shoot", "translation": "Zrób zdjęcie", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_MENU_body", "source": "Snapshot", "translation": "Zrzut ekranu", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_BASIC_SETUP_body", "source": "Default Settings", "translation": "Ustawienia domyślne", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_EXPRESSION_SETUP_body", "source": "Emote", "translation": "Emotka", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_LOOKAT_body", "source": "Face Camera", "translation": "Zwróć twarz w stronę kamery", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_OTHER_PLAYER_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_PLAYER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_NAMEPLATE_body", "source": "Display Nameplate", "translation": "Wyświetl tabliczkę z nazwą", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_HIDE_ALL_body", "source": "Other Characters", "translation": "Inne postacie", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_SHOW_OWNER_body", "source": "My Character", "translation": "Moja postać", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_PLAYER_body", "source": "Change Target", "translation": "Zmień cel", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_MONSTER_body", "source": "Monster", "translation": "Potwór", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_NPC_body", "source": "NPC", "translation": "NPC", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_SHOW_PET_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_BOTTOM_body", "source": "Bottom Left", "translation": "Lewy dolny róg", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_LEFT_TOP_body", "source": "Top Left", "translation": "Lewy górny róg", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_BOTTOM_body", "source": "Bottom Right", "translation": "Prawy dolny róg", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_RIGHT_TOP_body", "source": "Top Right", "translation": "Prawy górny róg", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_WATERMARK_body", "source": "Display Watermark", "translation": "Wyświetl znak wodny", "status": "draft"}
-{"id": "String_UI_SNAPSHOT_OPTIONS_BUTTON_body", "source": "Snapshot Settings", "translation": "Ustawienia zrzutu ekranu", "status": "draft"}

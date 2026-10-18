@@ -9,7 +9,7 @@
 {"id": "String_UI_ABYSSEVENT_ICON_CAPTION_PROCESS_body", "source": "Active", "translation": "W toku", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_DARK_SCORE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_DARK_body", "source": "Eastern Camp Points:", "translation": "Punkty obozu wschodniego:", "status": "draft"}
-{"id": "String_UI_ABYSSRIFT_EXIT_CONFIRM_body", "source": "Insufficent members, canceled matching and received match cancel rewards.\nWould you like to exit the Abyss?", "translation": "Za mało członków. Anulowano dobieranie i przyznano nagrody za anulowanie meczu.\nCzy chcesz opuścić Abyss?", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_EXIT_CONFIRM_body", "source": "Insufficent members, canceled matching and received match cancel rewards.\nWould you like to exit the Abyss?", "translation": "Za mało członków, więc anulowano dobieranie i przyznano nagrody za anulowanie meczu.\nCzy chcesz opuścić Otchłań?", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_LIGHT_SCORE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_LIGHT_body", "source": "Western Camp Points:", "translation": "Punkty obozu zachodniego:", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_NEXT_TIME_TITLE_body", "source": "Time until next event", "translation": "Czas do następnego wydarzenia", "status": "draft"}
@@ -18,7 +18,7 @@
 {"id": "String_UI_ABYSSRIFT_RESULT_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_RESULT_LOW_CONTRIBUTION_body", "source": "Insufficient Contribution to receive rewards.", "translation": "Za mały wkład, aby otrzymać nagrody.", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_RESULT_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
-{"id": "String_UI_ABYSSRIFT_RESULT_TITLE_body", "source": "Abyss Rift Zone", "translation": "Strefa Szczeliny Abyss", "status": "draft"}
+{"id": "String_UI_ABYSSRIFT_RESULT_TITLE_body", "source": "Abyss Rift Zone", "translation": "Strefa szczeliny w Otchłani", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_RESULT_VICTORY_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_TARGET_COMMON_body", "source": "Purify the Rift Zone", "translation": "Oczyść strefę Szczeliny", "status": "draft"}
 {"id": "String_UI_ABYSSRIFT_TARGET_KILLNPCCOUNT2_body", "source": "Defeat all invaders {0}/{1}", "translation": "Pokonaj wszystkich najeźdźców {0}/{1}", "status": "draft"}
@@ -53,13 +53,13 @@
 {"id": "String_UI_ABYSS_ENTRY_COND_ITEMLEVEL_TITLE_body", "source": "Item Level", "translation": "Poziom przedmiotów", "status": "draft"}
 {"id": "String_UI_ABYSS_ENTRY_COND_LEVEL_DESC_body", "source": "{0}", "translation": "{0}", "status": "draft"}
 {"id": "String_UI_ABYSS_ENTRY_COND_LEVEL_TITLE_body", "source": "Character Level", "translation": "Poziom postaci", "status": "draft"}
-{"id": "String_UI_ABYSS_ENTRY_COND_TITLE_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_ABYSS_ENTRY_COND_TITLE_body", "source": "Entry Requirements", "translation": "Warunki wejścia", "status": "draft"}
 {"id": "String_UI_ABYSS_ENTRY_HIGH_ITEM_LEVEL_INFO_body", "source": "<AbyssEntry_Point>{0}</> or less", "translation": "<AbyssEntry_Point>{0}</> lub mniej", "status": "draft"}
 {"id": "String_UI_ABYSS_ENTRY_LEVEL_INFO_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
-{"id": "String_UI_ABYSS_EXIT_CONFIRM_body", "source": "Would you like to exit the Abyss?", "translation": "Czy chcesz opuścić Abyss?", "status": "draft"}
+{"id": "String_UI_ABYSS_EXIT_CONFIRM_body", "source": "Would you like to exit the Abyss?", "translation": "Czy chcesz opuścić Otchłań?", "status": "draft"}
 {"id": "String_UI_ABYSS_LOSE_REWARD_TITLE_body", "source": "Defeat Reward", "translation": "Nagroda za porażkę", "status": "draft"}
 {"id": "String_UI_ABYSS_MATCH_FAILURE_REWARD_TITLE_body", "source": "Match Cancel Rewards", "translation": "Nagrody za anulowanie meczu", "status": "draft"}
-{"id": "String_UI_ABYSS_PENALTY_DEDUCT_TIME_NOTICE_body", "source": "Exceeding the entry requirements will result in immediate removal from Upper Abyss Reshanta and <warning>{0} of Abyss Access Hours will be deducted</> as a penalty.", "translation": "Przekroczenie wymagań wejścia spowoduje natychmiastowe usunięcie z Górnego Abyss Reshanta, a <warning>{0} czasu dostępu do Abyss zostanie odjęte</> jako kara.", "status": "draft"}
+{"id": "String_UI_ABYSS_PENALTY_DEDUCT_TIME_NOTICE_body", "source": "Exceeding the entry requirements will result in immediate removal from Upper Abyss Reshanta and <warning>{0} of Abyss Access Hours will be deducted</> as a penalty.", "translation": "Przekroczenie warunków wejścia spowoduje natychmiastowe usunięcie z Górnej Otchłani Reshanty. Kara obejmie odjęcie <warning>{0} godzin dostępu do Otchłani</>.", "status": "draft"}
 {"id": "String_UI_ABYSS_REWARD_TITLE_body", "source": "Reward Highlights", "translation": "Najważniejsze nagrody", "status": "draft"}
 {"id": "String_UI_ABYSS_SOULHARVEST_PROGRESS_VALUE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
 {"id": "String_UI_ABYSS_SOULHARVEST_PROGRESS_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
@@ -70,7 +70,7 @@
 {"id": "String_UI_ABYSS_TAB_SHOP_body", "source": "Trade Shop", "translation": "Handel", "status": "draft"}
 {"id": "String_UI_ABYSS_TELEPORT_NPC_TELEPORTLIST_BUTTON_body", "source": "Go", "translation": "Idź", "status": "draft"}
 {"id": "String_UI_ABYSS_TELEPORT_NPC_TELEPORTLIST_TITLE_body", "source": "Teleport Location", "translation": "Miejsce teleportacji", "status": "draft"}
-{"id": "String_UI_ABYSS_TELEPORT_NPC_TITLE_body", "source": "Abyss Portal", "translation": "Portal Abyss", "status": "draft"}
+{"id": "String_UI_ABYSS_TELEPORT_NPC_TITLE_body", "source": "Abyss Portal", "translation": "Portal Otchłani", "status": "draft"}
 {"id": "String_UI_ABYSS_TITLE_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
 {"id": "String_UI_ABYSS_USETIME_RECHARGE_TITLE_body", "source": "Added Usage Time", "translation": "Dodatkowy czas użytkowania", "status": "draft"}
 {"id": "String_UI_ABYSS_USETIME_RESET_NOTICE_body", "source": "{0} until Basic Usage Time Reset", "translation": "{0} do zresetowania podstawowego czasu użytkowania", "status": "draft"}
@@ -96,7 +96,7 @@
 {"id": "String_UI_ACHIEVEMENT_GETREWARD_TITLE_body", "source": "Rewards Collected", "translation": "Odebrane nagrody", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_GET_REWARD_LIST_TITLE_body", "source": "{0} Achievement Reward(s) Obtained", "translation": "Otrzymano nagrody za osiągnięcia: {0}", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_GRADE_COMMON_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
-{"id": "String_UI_ACHIEVEMENT_GRADE_LEGEND_body", "source": "Epic", "translation": "Epiczny", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_GRADE_LEGEND_body", "source": "Epic", "translation": "Epicki", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_GRADE_RARE_body", "source": "Rare", "translation": "Rzadki", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_GROUPREWARD_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_GROUPREWARD_DESC_body", "source": "[{0}] Level {1} Objective Complete", "translation": "Cel poziomu {1} [{0}] ukończony", "status": "draft"}
@@ -107,7 +107,7 @@
 {"id": "String_UI_ACHIEVEMENT_REWARDED_body", "source": "Completed: {0}", "translation": "Ukończono: {0}", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_CHECKBOX_ONLY_CHAR_REWARD_body", "source": "Collect character achievement rewards only", "translation": "Odbieraj tylko nagrody za osiągnięcia postaci", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_INCLUDE_SERVER_REWARD_body", "source": "Includes rewards for the server sharing achievement that can be claimed by only one character within the server.\nAccept all?", "translation": "Zawiera nagrody za osiągnięcia współdzielone na serwerze, które może odebrać tylko jedna postać na serwerze.\nOdebrać wszystkie?", "status": "draft"}
-{"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_ONLY_SERVER_REWARD_body", "source": "Rewards for the server sharing achievement can only be claimed by one character.\nClaim the reward with the current character?", "translation": "Nagrody za osiągnięcia współdzielone na serwerze może odebrać tylko jedna postać.\nOdebrać nagrodę obecną postacią?", "status": "draft"}
+{"id": "String_UI_ACHIEVEMENT_REWARD_POPUP_ONLY_SERVER_REWARD_body", "source": "Rewards for the server sharing achievement can only be claimed by one character.\nClaim the reward with the current character?", "translation": "Nagrody za osiągnięcia współdzielone na serwerze może odebrać tylko jedna postać.\nCzy odebrać nagrodę tą postacią?", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_SERVER_GROUP_TAG_body", "source": "Share Server", "translation": "Współdzielone na serwerze", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_STEP_INFO_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
 {"id": "String_UI_ACHIEVEMENT_STEP_INFO_ONGOING_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
@@ -185,10 +185,10 @@
 {"id": "String_UI_ARCANA_EXTRACT_COUNT_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
 {"id": "String_UI_ARCANA_EXTRACT_EXTRACT_BUTTON_body", "source": "Extract", "translation": "Ekstrahuj", "status": "draft"}
 {"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_BY_FILTER_body", "source": "Register All", "translation": "Zarejestruj wszystkie", "status": "draft"}
-{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_COMMON_body", "source": "Common Grade", "translation": "Zwykła ranga", "status": "draft"}
-{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_LEGEND_OR_UNDER_body", "source": "Epic Grade or Below", "translation": "Ranga epicka lub niższa", "status": "draft"}
-{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_RARE_OR_UNDER_body", "source": "Rare Grade or Below", "translation": "Ranga rzadka lub niższa", "status": "draft"}
-{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_UNIQUE_OR_UNDER_body", "source": "Unique Grade or Below", "translation": "Ranga unikatowa lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_COMMON_body", "source": "Common Grade", "translation": "Zwykła jakość", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_LEGEND_OR_UNDER_body", "source": "Epic Grade or Below", "translation": "Jakość epicka lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_RARE_OR_UNDER_body", "source": "Rare Grade or Below", "translation": "Jakość rzadka lub niższa", "status": "draft"}
+{"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_FILTER_UNIQUE_OR_UNDER_body", "source": "Unique Grade or Below", "translation": "Jakość unikatowa lub niższa", "status": "draft"}
 {"id": "String_UI_ARCANA_EXTRACT_MATERIAL_SELECT_GUIDE_body", "source": "Select Arcana to use as material from the list on the left.", "translation": "Wybierz Arcana z listy po lewej stronie, aby użyć jej jako materiału.", "status": "draft"}
 {"id": "String_UI_ARCANA_EXTRACT_RESULT_POPUP_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
 {"id": "String_UI_ARCANA_EXTRACT_RESULT_POPUP_TITLE_body", "source": "Extraction Results", "translation": "Wyniki ekstrakcji", "status": "draft"}

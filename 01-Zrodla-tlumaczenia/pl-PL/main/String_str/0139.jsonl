@@ -1,250 +1,250 @@
-{"id":"String_STR_N_Lugi_body","source":"Shirakiki's Lugi","translation":"Lugi Shirakiki","status":"draft"}
-{"id":"String_STR_N_Lukaring_01_body","source":"Luka","translation":"Luka","status":"draft"}
-{"id":"String_STR_N_Luoowl_body","source":"Luoaul","translation":"Luoaul","status":"draft"}
-{"id":"String_STR_N_Luters_body","source":"Luteros","translation":"Luteros","status":"draft"}
-{"id":"String_STR_N_Lutz_body","source":"Lutz","translation":"Lutz","status":"draft"}
-{"id":"String_STR_N_M_AbyssTrader_1_body","source":"Abyss General Goods Merchant","translation":"Kupiec towarów ogólnych Otchłani","status":"draft"}
-{"id":"String_STR_N_M_AbyssTrader_2_body","source":"Abyss Gear Merchant","translation":"Kupiec sprzętu Otchłani","status":"draft"}
-{"id":"String_STR_N_M_Alchemy_Shop_body","source":"Alchemy Merchant","translation":"Kupiec alchemiczny","status":"draft"}
-{"id":"String_STR_N_M_AprilFool_01_V01_001_body","source":"Jooni","translation":"Jooni","status":"draft"}
-{"id":"String_STR_N_M_AprilFool_02_V01_001_body","source":"Subbi","translation":"Subbi","status":"draft"}
-{"id":"String_STR_N_M_Audience_Kid_body","source":"Observer","translation":"Obserwator","status":"draft"}
-{"id":"String_STR_N_M_Audience_body","source":"Observer","translation":"Obserwator","status":"draft"}
-{"id":"String_STR_N_M_Blacksmithing_Shop_body","source":"Blacksmith Merchant","translation":"Kupiec kowalski","status":"draft"}
-{"id":"String_STR_N_M_CanineLegion_body","source":"Fang Legionnaire","translation":"Legionista Kieł","status":"draft"}
-{"id":"String_STR_N_M_CapturedMember_body","source":"Captured Member","translation":"Pojmany członek","status":"draft"}
-{"id":"String_STR_N_M_CemetryScholar_body","source":"Grave Scholar","translation":"Uczony grobowca","status":"draft"}
-{"id":"String_STR_N_M_Cemetrydispatch_body","source":"Dispatched Member","translation":"Oddelegowany członek","status":"draft"}
-{"id":"String_STR_N_M_ChikataFamily_body","source":"Chikata's Family","translation":"Rodzina Chikaty","status":"draft"}
-{"id":"String_STR_N_M_ChlorisCabal_body","source":"Chloris's Band","translation":"Zespół Chloris","status":"draft"}
-{"id":"String_STR_N_M_ChlorisFellow_01_body","source":"Chloris's Companion","translation":"Towarzysz Chloris","status":"draft"}
-{"id":"String_STR_N_M_CoinShop_body","source":"Adventurer's Mark Merchant","translation":"Kupiec znaków poszukiwacza przygód","status":"draft"}
-{"id":"String_STR_N_M_Concierge_body","source":"Grave Warden","translation":"Strażnik grobu","status":"draft"}
-{"id":"String_STR_N_M_Contractor_body","source":"Mercenary","translation":"Najemnik","status":"draft"}
-{"id":"String_STR_N_M_Conversion_Shop_body","source":"Morph Merchant","translation":"Kupiec transmutacji","status":"draft"}
-{"id":"String_STR_N_M_Cooking_Shop_body","source":"Cooking Merchant","translation":"Kupiec artykułów kulinarnych","status":"draft"}
-{"id":"String_STR_N_M_Crafting_Shop_01_body","source":"Master Handicrafter","translation":"Mistrz rękodzieła","status":"draft"}
-{"id":"String_STR_N_M_Creion_01_body","source":"Creion","translation":"Creion","status":"draft"}
-{"id":"String_STR_N_M_Creion_body","source":"Creion Researcher","translation":"Badacz Creion","status":"draft"}
-{"id":"String_STR_N_M_CroStaff_body","source":"Kromede's Minion","translation":"Sługa Kromede","status":"draft"}
-{"id":"String_STR_N_M_D1_Daeva03_Merchant_02_body","source":"Captured Burglar","translation":"Pojmany włamywacz","status":"draft"}
-{"id":"String_STR_N_M_D1_Daeva04_Refugee_1_body","source":"Royal Huey","translation":"Royal Huey","status":"draft"}
-{"id":"String_STR_N_M_D1_Daeva05_Villager_01_1_body","source":"Vagabond Daeva","translation":"Wędrowny Daeva","status":"draft"}
-{"id":"String_STR_N_M_D1_Dragon02_Militia_01_01_body","source":"Demoralized Daeva","translation":"Złamany na duchu Daeva","status":"draft"}
-{"id":"String_STR_N_M_D1_Human01_Fighter_02_body","source":"Albert","translation":"Albert","status":"draft"}
-{"id":"String_STR_N_M_D1_Human04_Slave_01_01_body","source":"Captured Stranger","translation":"Pojmany nieznajomy","status":"draft"}
-{"id":"String_STR_N_M_DaevaPrisoner_body","source":"Captured Daeva","translation":"Pojmany Daeva","status":"draft"}
-{"id":"String_STR_N_M_DawnLegion_body","source":"Dawn Legionnaire","translation":"Żołnierz Legionu Świtu","status":"draft"}
-{"id":"String_STR_N_M_DeadDaeva_body","source":"Fallen Daeva","translation":"Poległy Daeva","status":"draft"}
-{"id":"String_STR_N_M_DelusionCitizen_body","source":"Enchanted Villager","translation":"Zaklęty mieszkaniec wioski","status":"draft"}
-{"id":"String_STR_N_M_DestDaevaPrison_body","source":"Fate Archon Captive","translation":"Pojmany Archont Losu","status":"draft"}
-{"id":"String_STR_N_M_DownLegion_body","source":"Fallen Member","translation":"Poległy członek","status":"draft"}
-{"id":"String_STR_N_M_Drinking_body","source":"Drunkard","translation":"Pijak","status":"draft"}
-{"id":"String_STR_N_M_DrunkBandit_01_body","source":"Drunken Bandit","translation":"Pijany bandyta","status":"draft"}
-{"id":"String_STR_N_M_DrunkBandit_02_body","source":"Drunken Bandit Captain","translation":"Kapitan pijanych bandytów","status":"draft"}
-{"id":"String_STR_N_M_DyedItem_Shop_body","source":"Dye Merchant","translation":"Kupiec barwników","status":"draft"}
-{"id":"String_STR_N_M_East_Shulack_01_body","source":"Steel Hammer Merchant","translation":"Kupiec Stalowego Młota","status":"draft"}
-{"id":"String_STR_N_M_East_Shulack_02_body","source":"Steel Hammer Merchants Shulak Worker","translation":"Robotnik Shulak kupców Stalowego Młota","status":"draft"}
-{"id":"String_STR_N_M_East_Shulack_03_body","source":"Steel Hammer Merchants Worker","translation":"Robotnik kupców Stalowego Młota","status":"draft"}
-{"id":"String_STR_N_M_Elim_body","source":"Elim","translation":"Elim","status":"draft"}
-{"id":"String_STR_N_M_Equipment_Shop_01_body","source":"Weapon Merchant","translation":"Kupiec broni","status":"draft"}
-{"id":"String_STR_N_M_Equipment_Shop_02_body","source":"Armor Merchant","translation":"Kupiec zbroi","status":"draft"}
-{"id":"String_STR_N_M_EventPlanner_body","source":"Stage Director","translation":"Reżyser sceny","status":"draft"}
-{"id":"String_STR_N_M_EventStaff_body","source":"Stage Staff","translation":"Obsługa sceny","status":"draft"}
-{"id":"String_STR_N_M_Farmer_body","source":"Farmer","translation":"Rolnik","status":"draft"}
-{"id":"String_STR_N_M_Fishyowl_body","source":"Suspicious Aullaeu","translation":"Podejrzany Aullaeu","status":"draft"}
-{"id":"String_STR_N_M_Food_Shop_body","source":"Food Merchant","translation":"Kupiec żywności","status":"draft"}
-{"id":"String_STR_N_M_ForgottenSpirit_body","source":"Forgotten Faithful's Apparition","translation":"Zjawa Zapomnianego Wyznawcy","status":"draft"}
-{"id":"String_STR_N_M_Gravekeeper_body","source":"Gravekeeper","translation":"Grabarz","status":"draft"}
-{"id":"String_STR_N_M_Guard_body","source":"Guard","translation":"Strażnik","status":"draft"}
-{"id":"String_STR_N_M_Guildstorage_body","source":"Legion Storage Manager","translation":"Zarządca magazynu Legionu","status":"draft"}
-{"id":"String_STR_N_M_Herbalist_body","source":"Herbalist","translation":"Zielarz","status":"draft"}
-{"id":"String_STR_N_M_Hostage_body","source":"Captured Villager","translation":"Pojmany mieszkaniec","status":"draft"}
-{"id":"String_STR_N_M_HurtRefugee1_body","source":"Brainwashed Laborer","translation":"Zindoktrynowany robotnik","status":"draft"}
-{"id":"String_STR_N_M_HurtRefugee2_body","source":"Unconscious Laborer","translation":"Nieprzytomny robotnik","status":"draft"}
-{"id":"String_STR_N_M_HurtRefugee_body","source":"Collapsed Refugee","translation":"Osłabiony uchodźca","status":"draft"}
-{"id":"String_STR_N_M_Injured_03_body","source":"Unconscious Legionnaire","translation":"Nieprzytomny żołnierz Legionu","status":"draft"}
-{"id":"String_STR_N_M_Inspector_01_body","source":"Krao Cave Investigator","translation":"Badacz Krao Cave","status":"draft"}
-{"id":"String_STR_N_M_Inspector_02_body","source":"Urugugu Canyon Investigator","translation":"Badacz Urugugu Canyon","status":"draft"}
-{"id":"String_STR_N_M_Instruction_Shop_body","source":"Command Merchant","translation":"Kupiec dowództwa","status":"draft"}
-{"id":"String_STR_N_M_JumionBeliever_body","source":"Zumion Faithful","translation":"Wyznawca Zumionu","status":"draft"}
-{"id":"String_STR_N_M_Kanshasha_body","source":"Traska","translation":"Traska","status":"draft"}
-{"id":"String_STR_N_M_Kid_body","source":"Refugee Child","translation":"Dziecko uchodźcy","status":"draft"}
-{"id":"String_STR_N_M_L2_Garrison_H1_PrisonShugo_body","source":"Captured Shugo","translation":"Pojmany Shugo","status":"draft"}
-{"id":"String_STR_N_M_LegionB_01_body","source":"Spirit Guide Male 1 (Specimen)","translation":"Przewodnik duchów 1 (okaz)","status":"draft"}
-{"id":"String_STR_N_M_LegionB_02_body","source":"Spirit Guide Male 2 (Specimen)","translation":"Przewodnik duchów 2 (okaz)","status":"draft"}
-{"id":"String_STR_N_M_LegionE_01_body","source":"Captured Blade (Specimen)","translation":"Pojmany Ostrze (okaz)","status":"draft"}
-{"id":"String_STR_N_M_LegionStore_Shop_body","source":"Legion Merchant","translation":"Kupiec Legionu","status":"draft"}
-{"id":"String_STR_N_M_Lepharistillusion_01_body","source":"Lepharist Illusion","translation":"Iluzja Lepharysty","status":"draft"}
-{"id":"String_STR_N_M_LifeDaeva_body","source":"Life Daeva","translation":"Daeva Życia","status":"draft"}
-{"id":"String_STR_N_M_MCShugo_body","source":"Stage Emcee","translation":"Konferansjer","status":"draft"}
-{"id":"String_STR_N_M_Mercenary_body","source":"Vigilante","translation":"Strażnik","status":"draft"}
-{"id":"String_STR_N_M_Militia_01_body","source":"Safe Haven Militia Male (Specimen)","translation":"Milicjant Bezpiecznej Przystani (okaz)","status":"draft"}
-{"id":"String_STR_N_M_Misc_Shop_body","source":"General Goods Merchant","translation":"Kupiec z towarami ogólnymi","status":"draft"}
-{"id":"String_STR_N_M_NewFirmMember_body","source":"Thunder Lightning Merchants Member","translation":"Członek kupców Gromu i Błyskawicy","status":"draft"}
-{"id":"String_STR_N_M_NornirKidnap_body","source":"Captured Nornir","translation":"Pojmany Nornir","status":"draft"}
-{"id":"String_STR_N_M_NortosLegion_body","source":"Notos Legionnaire","translation":"Żołnierz Legionu Notos","status":"draft"}
-{"id":"String_STR_N_M_Officiator_body","source":"Officiant","translation":"Prowadzący ceremonię","status":"draft"}
-{"id":"String_STR_N_M_Postman_body","source":"Courier","translation":"Kurier","status":"draft"}
-{"id":"String_STR_N_M_PrisonShugo_body","source":"Kidnapped Shugo","translation":"Porwany Shugo","status":"draft"}
-{"id":"String_STR_N_M_Q_AltKnife_01_body","source":"Blades Bomber","translation":"Bombardier Ostrzy","status":"draft"}
-{"id":"String_STR_N_M_Q_AltKnife_02_body","source":"Blades Captive","translation":"Pojmany z Ostrzy","status":"draft"}
-{"id":"String_STR_N_M_Q_BlackClaw_01_body","source":"Black Claw Scout","translation":"Zwiadowca Czarnego Pazura","status":"draft"}
-{"id":"String_STR_N_M_Q_BlackClaw_02_body","source":"Black Claw Patrol Watcher","translation":"Obserwator patrolu Czarnego Pazura","status":"draft"}
-{"id":"String_STR_N_M_Q_BlackClaw_03_body","source":"Black Claw Shaman","translation":"Szaman Czarnego Pazura","status":"draft"}
-{"id":"String_STR_N_M_Q_BlackClaw_04_body","source":"Black Claw Apothecary","translation":"Aptekarz Czarnego Pazura","status":"draft"}
-{"id":"String_STR_N_M_Q_ChangarnerkBodyguard_01_body","source":"Tsenka Merchants Guard","translation":"Strażnik kupców Tsenka","status":"draft"}
-{"id":"String_STR_N_M_Q_ChangarungMember_01_body","source":"Tsenka Merchants Member","translation":"Członek kupców Tsenka","status":"draft"}
-{"id":"String_STR_N_M_Q_Creion_01_body","source":"Unconscious Creion","translation":"Nieprzytomny Creion","status":"draft"}
-{"id":"String_STR_N_M_Q_Draconute_01_body","source":"Draconute Warrior","translation":"Wojownik Drakonidów","status":"draft"}
-{"id":"String_STR_N_M_Q_Draconute_02_body","source":"Draconute Ranger","translation":"Łowca Drakonidów","status":"draft"}
-{"id":"String_STR_N_M_Q_Draconute_03_body","source":"Draconute Superior Combatant","translation":"Wybitny wojownik Drakonidów","status":"draft"}
-{"id":"String_STR_N_M_Q_Draconute_04_body","source":"Draconute Sentinel","translation":"Wartownik Drakonidów","status":"draft"}
-{"id":"String_STR_N_M_Q_EironRefugee_01_body","source":"Eiron Refugee","translation":"Uchodźca Eiron","status":"draft"}
-{"id":"String_STR_N_M_Q_FaintVoice_01_body","source":"Faint Voice","translation":"Słaby głos","status":"draft"}
-{"id":"String_STR_N_M_Q_FallenFollower_01_body","source":"Fallen Follower","translation":"Poległy wyznawca","status":"draft"}
-{"id":"String_STR_N_M_Q_FallenFollower_02_body","source":"Wounded Follower","translation":"Ranny wyznawca","status":"draft"}
-{"id":"String_STR_N_M_Q_FallenFollower_03_body","source":"Deceived Follower","translation":"Zwiedziony wyznawca","status":"draft"}
-{"id":"String_STR_N_M_Q_Fangs_01_body","source":"Fang Legion Captive","translation":"Pojmany żołnierz Legionu Kła","status":"draft"}
-{"id":"String_STR_N_M_Q_Fangs_02_body","source":"Injured Fang Legionnaires","translation":"Ranni żołnierze Legionu Kła","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_01_body","source":"Kobold Fertilizer Worker","translation":"Robotnik koboldów przy nawozach","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_02_body","source":"Kobold Drudge","translation":"Parobek koboldów","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_03_body","source":"Kobold Servant","translation":"Sługa koboldów","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_04_body","source":"Kobold Tinkerer","translation":"Majsterkowicz koboldów","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_05_body","source":"Kobold Worker","translation":"Robotnik koboldów","status":"draft"}
-{"id":"String_STR_N_M_Q_Kobold_06_body","source":"Kobold Porter","translation":"Tragarz Kobold","status":"draft"}
-{"id":"String_STR_N_M_Q_Krall_01_body","source":"Krall Watcher","translation":"Obserwator Krall","status":"draft"}
-{"id":"String_STR_N_M_Q_Krall_02_body","source":"Krall Combatant","translation":"Wojownik Krall","status":"draft"}
-{"id":"String_STR_N_M_Q_Krall_03_body","source":"Krall Supporter","translation":"Stronnik Krall","status":"draft"}
-{"id":"String_STR_N_M_Q_LieDownChangarnerkTraders_01_body","source":"Fallen Tsenka Merchants Member","translation":"Poległy członek kupców Tsenka","status":"draft"}
-{"id":"String_STR_N_M_Q_MysteryDevaGhost_body","source":"Mysterious Daeva Illusion","translation":"Iluzja tajemniczego Daevy","status":"draft"}
-{"id":"String_STR_N_M_Q_NetraCompanion_body","source":"Netra's Companion","translation":"Towarzysz Netry","status":"draft"}
-{"id":"String_STR_N_M_Q_NewFallenBeliever_01_body","source":"Novice Trainee","translation":"Początkujący adept","status":"draft"}
-{"id":"String_STR_N_M_Q_Owl_01_body","source":"Aullaeu Sentinel","translation":"Wartownik Aullaeu","status":"draft"}
-{"id":"String_STR_N_M_Q_Owl_02_body","source":"Aullaeu Trainee","translation":"Adept Aullaeu","status":"draft"}
-{"id":"String_STR_N_M_Q_Owl_03_body","source":"Aullaeu Village Guard","translation":"Strażnik wioski Aullaeu","status":"draft"}
-{"id":"String_STR_N_M_Q_Shulack_01_body","source":"Injured Shulak Worker","translation":"Ranny robotnik Shulak","status":"draft"}
-{"id":"String_STR_N_M_Q_Shulack_02_body","source":"Fallen Shulak Worker","translation":"Poległy robotnik Shulak","status":"draft"}
-{"id":"String_STR_N_M_Q_Shulack_03_body","source":"Unconscious Shulak","translation":"Nieprzytomny Shulak","status":"draft"}
-{"id":"String_STR_N_M_Q_Survivor_01_body","source":"Survivor","translation":"Ocalały","status":"draft"}
-{"id":"String_STR_N_M_Q_Victim_01_body","source":"Disposed Test Subject","translation":"Usunięty obiekt testowy","status":"draft"}
-{"id":"String_STR_N_M_Q_Vigilante_01_body","source":"Village Vigilante","translation":"Strażnik wioski","status":"draft"}
-{"id":"String_STR_N_M_Q_Villager_01_body","source":"Patamor Village Vigilante Group","translation":"Grupa strażników z Wioski Patamor","status":"draft"}
-{"id":"String_STR_N_M_Q_Villager_02_body","source":"Villager","translation":"Mieszkaniec wioski","status":"draft"}
-{"id":"String_STR_N_M_Q_ZebasCompanion_body","source":"Zebas's Companion","translation":"Towarzysz Zebasa","status":"draft"}
-{"id":"String_STR_N_M_QuairerkTraders_body","source":"Quai Merchants","translation":"Kupcy Quai","status":"draft"}
-{"id":"String_STR_N_M_Quairerk_02_body","source":"Shugo Student","translation":"Uczeń Shugo","status":"draft"}
-{"id":"String_STR_N_M_Quairerk_body","source":"Trainee Merchant","translation":"Adept kupiecki","status":"draft"}
-{"id":"String_STR_N_M_Refugee2_body","source":"Refugee","translation":"Uchodźca","status":"draft"}
-{"id":"String_STR_N_M_Refugee_body","source":"Refugee","translation":"Uchodźca","status":"draft"}
-{"id":"String_STR_N_M_Resident_body","source":"Legion Base Resident","translation":"Mieszkaniec bazy Legionu","status":"draft"}
-{"id":"String_STR_N_M_Revin_body","source":"Refugee Child","translation":"Dziecko uchodźcy","status":"draft"}
-{"id":"String_STR_N_M_RoleCarasFriend_body","source":"Role: Friend Turned Karas","translation":"Rola: przyjaciel przemieniony w Karasa","status":"draft"}
-{"id":"String_STR_N_M_RoleCaras_body","source":"Role: Karas","translation":"Rola: Karas","status":"draft"}
-{"id":"String_STR_N_M_RoleFriend_body","source":"Role: Friend","translation":"Rola: przyjaciel","status":"draft"}
-{"id":"String_STR_N_M_RoleRaider_body","source":"Role: Marauder","translation":"Rola: maruder","status":"draft"}
-{"id":"String_STR_N_M_RoleVillager_body","source":"Role: Villager","translation":"Rola: mieszkaniec wioski","status":"draft"}
-{"id":"String_STR_N_M_Scholar_body","source":"Scholar","translation":"Uczony","status":"draft"}
-{"id":"String_STR_N_M_ShugoDown_body","source":"Fallen Shugo","translation":"Poległy Shugo","status":"draft"}
-{"id":"String_STR_N_M_ShugoGame_body","source":"Shugo Festival Merchant","translation":"Kupiec Festiwalu Shugo","status":"draft"}
-{"id":"String_STR_N_M_ShugoKidnap_body","source":"Kidnapped Shugo","translation":"Porwany Shugo","status":"draft"}
-{"id":"String_STR_N_M_ShugoMerchant_body","source":"Shugo Merchant","translation":"Kupiec Shugo","status":"draft"}
-{"id":"String_STR_N_M_Shugo_Vigilante_body","source":"Shugo Vigilante Group","translation":"Grupa strażników Shugo","status":"draft"}
-{"id":"String_STR_N_M_Shugo_Worker_body","source":"Shugo Worker","translation":"Robotnik Shugo","status":"draft"}
-{"id":"String_STR_N_M_Shugo_body","source":"Vagabond Shugo","translation":"Wędrowny Shugo","status":"draft"}
-{"id":"String_STR_N_M_Shulack_body","source":"Vagabond Shulak","translation":"Wędrowny Shulak","status":"draft"}
-{"id":"String_STR_N_M_SkinExtraction_body","source":"Skin Extractor","translation":"Ekstraktor skórek","status":"draft"}
-{"id":"String_STR_N_M_SkurvWarSlacker_body","source":"Slothful Mumu","translation":"Ospałe Mumu","status":"draft"}
-{"id":"String_STR_N_M_SlaveWorker_body","source":"Laborer","translation":"Robotnik","status":"draft"}
-{"id":"String_STR_N_M_SocialNPC_Mercenary_body","source":"Apprentice Mercenary","translation":"Adept najemniczy","status":"draft"}
-{"id":"String_STR_N_M_SocialN_DawnLegion_body","source":"Dawn Legionnaire","translation":"Żołnierz Legionu Świtu","status":"draft"}
-{"id":"String_STR_N_M_SocialN_NortosLegion_body","source":"Notos Legionnaire","translation":"Żołnierz Legionu Notos","status":"draft"}
-{"id":"String_STR_N_M_SpiritGuide_body","source":"Spirit Guide Member","translation":"Członek przewodników duchów","status":"draft"}
-{"id":"String_STR_N_M_Statue_02_body","source":"Broken Warrior Statue","translation":"Uszkodzony posąg wojownika","status":"draft"}
-{"id":"String_STR_N_M_Statue_03_body","source":"Statue of Daeva Warrior","translation":"Posąg wojownika Daevy","status":"draft"}
-{"id":"String_STR_N_M_SteelHammerVillager_body","source":"Steel Hammer Trader","translation":"Handlarz Stalowego Młota","status":"draft"}
-{"id":"String_STR_N_M_Storage_body","source":"Storage Manager","translation":"Zarządca magazynu","status":"draft"}
-{"id":"String_STR_N_M_SuraBroken_body","source":"Damaged Mutated Sura","translation":"Uszkodzona zmutowana Sura","status":"draft"}
-{"id":"String_STR_N_M_SwordTeacher_body","source":"Gladiator's Mentor","translation":"Mentor gladiatora","status":"draft"}
-{"id":"String_STR_N_M_TestQuest_body","source":"Quest Test","translation":"Test zadania","status":"draft"}
-{"id":"String_STR_N_M_ThiefShulack_01_001_body","source":"Shugo Thief","translation":"Złodziej Shugo","status":"draft"}
-{"id":"String_STR_N_M_Trader_body","source":"Merchant (tentative)","translation":"Kupiec (roboczo)","status":"draft"}
-{"id":"String_STR_N_M_Trainee_body","source":"Legion Trainee","translation":"Adept Legionu","status":"draft"}
-{"id":"String_STR_N_M_UnknownPerson_body","source":"???","translation":"","status":"pending"}
-{"id":"String_STR_N_M_VeilJewel_body","source":"Veil Jewel","translation":"Klejnot Zasłony","status":"draft"}
-{"id":"String_STR_N_M_Victim_body","source":"Kidnapping Victim","translation":"Ofiara porwania","status":"draft"}
-{"id":"String_STR_N_M_Vigilante_body","source":"Vigilante","translation":"Strażnik","status":"draft"}
-{"id":"String_STR_N_M_VillagerKid_body","source":"Village Kid","translation":"Dziecko z wioski","status":"draft"}
-{"id":"String_STR_N_M_Villager_Kid_body","source":"Child Resident","translation":"Dziecko, mieszkaniec","status":"draft"}
-{"id":"String_STR_N_M_Villager_Old_body","source":"Senior Resident","translation":"Starszy mieszkaniec","status":"draft"}
-{"id":"String_STR_N_M_Villager_body","source":"Villager","translation":"Mieszkaniec wioski","status":"draft"}
-{"id":"String_STR_N_M_W_CanineLegion_body","source":"Fang Legionnaire","translation":"Legionista Kieł","status":"draft"}
-{"id":"String_STR_N_M_W_Mercenary_body","source":"Mercenary","translation":"Najemnik","status":"draft"}
-{"id":"String_STR_N_M_W_Misc_Shop_body","source":"General Goods Merchant","translation":"Kupiec z towarami ogólnymi","status":"draft"}
-{"id":"String_STR_N_M_W_Refugee_body","source":"Refugee","translation":"Uchodźca","status":"draft"}
-{"id":"String_STR_N_M_W_SpiritGuide_body","source":"Spirit Guide Member","translation":"Członek przewodników duchów","status":"draft"}
-{"id":"String_STR_N_M_WeddingGuest_body","source":"Guest","translation":"Gość","status":"draft"}
-{"id":"String_STR_N_M_WindBreezeGuard_body","source":"Wind Breeze Merchants Vigilante Group","translation":"Grupa strażników kupców Wietrznej Bryzy","status":"draft"}
-{"id":"String_STR_N_M_WindBreezeMember_body","source":"Wind Breeze Merchants Member","translation":"Członek kupców Wietrznej Bryzy","status":"draft"}
-{"id":"String_STR_N_M_WindBreezeShopMember_body","source":"Wind Breeze Merchants Member","translation":"Członek kupców Wietrznej Bryzy","status":"draft"}
-{"id":"String_STR_N_M_ZVVillagerChildren_body","source":"Zumion Village Child","translation":"Dziecko z Wioski Zumion","status":"draft"}
-{"id":"String_STR_N_M_ZVVillager_body","source":"Zumion Villager","translation":"Mieszkaniec Wioski Zumion","status":"draft"}
-{"id":"String_STR_N_Magaretha_body","source":"Margareta","translation":"Margareta","status":"draft"}
-{"id":"String_STR_N_Mairon_L1_body","source":"Mairon","translation":"Mairon","status":"draft"}
-{"id":"String_STR_N_MakePC_body","source":"Player Character Creation","translation":"Tworzenie postaci gracza","status":"draft"}
-{"id":"String_STR_N_Manikiki_body","source":"Mannikiki","translation":"Mannikiki","status":"draft"}
-{"id":"String_STR_N_Maorung_body","source":"Mao","translation":"Mao","status":"draft"}
-{"id":"String_STR_N_Maraten_body","source":"Maraden","translation":"Maraden","status":"draft"}
-{"id":"String_STR_N_Marcella_01_body","source":"Marcella","translation":"Marcella","status":"draft"}
-{"id":"String_STR_N_Mard_body","source":"Maard","translation":"Maard","status":"draft"}
-{"id":"String_STR_N_Marika_body","source":"Marica","translation":"Marica","status":"draft"}
-{"id":"String_STR_N_Mark_CoinShop_01_body","source":"Adventurer's Mark Merchant","translation":"Kupiec znaków poszukiwacza przygód","status":"draft"}
-{"id":"String_STR_N_Markan_body","source":"Markan","translation":"Markan","status":"draft"}
-{"id":"String_STR_N_Marowl_body","source":"Maraul","translation":"Maraul","status":"draft"}
-{"id":"String_STR_N_Martor_body","source":"Martor","translation":"Martor","status":"draft"}
-{"id":"String_STR_N_Mascon_body","source":"Masocon","translation":"Masocon","status":"draft"}
-{"id":"String_STR_N_Matir_body","source":"Matir","translation":"Matir","status":"draft"}
-{"id":"String_STR_N_Mattering_body","source":"Matti","translation":"Matti","status":"draft"}
-{"id":"String_STR_N_Medion_body","source":"Medion","translation":"Medion","status":"draft"}
-{"id":"String_STR_N_Menos_body","source":"Menos","translation":"Menos","status":"draft"}
-{"id":"String_STR_N_Menric_01_body","source":"Menrik (Specimen)","translation":"Menrik (okaz)","status":"draft"}
-{"id":"String_STR_N_Menric_Morph_body","source":"Transformed Menrik","translation":"Przemieniony Menrik","status":"draft"}
-{"id":"String_STR_N_MercenaryF_01_body","source":"Mercenary","translation":"Najemnik","status":"draft"}
-{"id":"String_STR_N_MercenaryM_01_body","source":"Mercenary","translation":"Najemnik","status":"draft"}
-{"id":"String_STR_N_MercenaryM_02_CV02_body","source":"Male Daeva Ranger_Apparition (Specimen)","translation":"Zjawa łowcy Daevy (okaz)","status":"draft"}
-{"id":"String_STR_N_MercenaryM_05_body","source":"Mercenary Male Default 3 (Specimen)","translation":"Najemnik, domyślny mężczyzna 3 (okaz)","status":"draft"}
-{"id":"String_STR_N_Mia_body","source":"Mia","translation":"Mia","status":"draft"}
-{"id":"String_STR_N_Mihoring_01_body","source":"Miho","translation":"Miho","status":"draft"}
-{"id":"String_STR_N_Militia_body","source":"Guard","translation":"Strażnik","status":"draft"}
-{"id":"String_STR_N_Milled_body","source":"Milred","translation":"Milred","status":"draft"}
-{"id":"String_STR_N_Milllora_body","source":"Milora","translation":"Milora","status":"draft"}
-{"id":"String_STR_N_Minoring_body","source":"Mino","translation":"Mino","status":"draft"}
-{"id":"String_STR_N_Minos_01_body","source":"Minos","translation":"Minos","status":"draft"}
-{"id":"String_STR_N_Mirna_body","source":"Mirna","translation":"Mirna","status":"draft"}
-{"id":"String_STR_N_Morchen_body","source":"Morhen","translation":"Morhen","status":"draft"}
-{"id":"String_STR_N_Morien_body","source":"Morien","translation":"Morien","status":"draft"}
-{"id":"String_STR_N_Morrk_01_body","source":"Drunken Moreuk","translation":"Pijany Moreuk","status":"draft"}
-{"id":"String_STR_N_Morrk_02_body","source":"Conscious Moreuk","translation":"Przytomny Moreuk","status":"draft"}
-{"id":"String_STR_N_Morrk_body","source":"Moreuk","translation":"Moreuk","status":"draft"}
-{"id":"String_STR_N_Morumong_01_body","source":"Moru","translation":"Moru","status":"draft"}
-{"id":"String_STR_N_Muarung_01_body","source":"Mua","translation":"Mua","status":"draft"}
-{"id":"String_STR_N_Munin_01_body","source":"Munin (Specimen)","translation":"Munin (okaz)","status":"draft"}
-{"id":"String_STR_N_MysteriousVoice_body","source":"Mysterious Voice","translation":"Tajemniczy głos","status":"draft"}
-{"id":"String_STR_N_Mytyl_body","source":"Mythil","translation":"Mythil","status":"draft"}
-{"id":"String_STR_N_NPC_Satia_01_body","source":"Satia (Specimen)","translation":"Satia (okaz)","status":"draft"}
-{"id":"String_STR_N_Nairing_body","source":"Nai","translation":"Nai","status":"draft"}
-{"id":"String_STR_N_Nanarin_body","source":"Nanarin","translation":"Nanarin","status":"draft"}
-{"id":"String_STR_N_Nania_body","source":"Nania","translation":"Nania","status":"draft"}
-{"id":"String_STR_N_Naribungbung_01_body","source":"Nari","translation":"Nari","status":"draft"}
-{"id":"String_STR_N_Narsen_body","source":"Narsen","translation":"Narsen","status":"draft"}
-{"id":"String_STR_N_Nazmong_body","source":"Naju","translation":"Naju","status":"draft"}
-{"id":"String_STR_N_Neiren_body","source":"Neiren","translation":"Neiren","status":"draft"}
-{"id":"String_STR_N_NemonGhost_body","source":"Nemon Illusion","translation":"Iluzja Nemona","status":"draft"}
-{"id":"String_STR_N_Nemon_01_body","source":"Nemon (Selvis)","translation":"Nemon (Selvis)","status":"draft"}
-{"id":"String_STR_N_Nemon_Morph_body","source":"Transformed Nemon","translation":"Przemieniona Nemon","status":"draft"}
-{"id":"String_STR_N_Nemon_body","source":"Nemon","translation":"Nemon","status":"draft"}
-{"id":"String_STR_N_Neroa_body","source":"Neroa","translation":"Neroa","status":"draft"}
-{"id":"String_STR_N_Nervas_body","source":"Nervas","translation":"Nervas","status":"draft"}
-{"id":"String_STR_N_Nestor_body","source":"Nestor","translation":"Nestor","status":"draft"}
-{"id":"String_STR_N_Netra_body","source":"Netra","translation":"Netra","status":"draft"}
-{"id":"String_STR_N_Niata_01_body","source":"Niata","translation":"Niata","status":"draft"}
+{"id": "String_STR_N_L1_Q_Sahmas_body", "source": "Samath", "translation": "Samath", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Samiring_01_body", "source": "Sami", "translation": "Sami", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Sasarung_01_body", "source": "Sasa", "translation": "Sasa", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Shishiring_01_body", "source": "Sisi", "translation": "Sisi", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Shuron_01_body", "source": "Shuron", "translation": "Shuron", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Siel_01_body", "source": "Siel", "translation": "Siel", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Sindri_01_body", "source": "Sindri", "translation": "Sindri", "status": "draft"}
+{"id": "String_STR_N_L1_Q_SoliderOwl_05_body", "source": "Aullaeu Trainee", "translation": "Adept Aullaeu", "status": "draft"}
+{"id": "String_STR_N_L1_Q_Sothe_01_body", "source": "Tavern Staff Soder", "translation": "Pracownik tawerny Soder", "status": "draft"}
+{"id": "String_STR_N_L1_Revin_01_body", "source": "Levin", "translation": "Levin", "status": "draft"}
+{"id": "String_STR_N_L1_Rohin_01_body", "source": "Rohin", "translation": "Rohin", "status": "draft"}
+{"id": "String_STR_N_L1_Skillbook_Cleric_Shop_01_body", "source": "Cleric's Mentor", "translation": "Mentor kleryka", "status": "draft"}
+{"id": "String_STR_N_L1_Skillbook_Gladiator_Shop_01_body", "source": "Gladiator's Mentor", "translation": "Mentor gladiatora", "status": "draft"}
+{"id": "String_STR_N_L1_Skillbook_Sorcerer_Shop_01_body", "source": "Sorcerer's Mentor", "translation": "Mentor czarownika", "status": "draft"}
+{"id": "String_STR_N_L1_Skillbook_Templar_Shop_01_body", "source": "Templar's Mentor", "translation": "Mentor templariusza", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_DawnLegionF_01_1_body", "source": "Dawn Legionnaire", "translation": "Żołnierz Legionu Świtu", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_DawnLegionM_01_1_body", "source": "Dawn Legionnaire", "translation": "Żołnierz Legionu Świtu", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_DawnLegion_01_1_body", "source": "Dawn Legionnaire", "translation": "Żołnierz Legionu Świtu", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_Mercenary_03_body", "source": "Apprentice Mercenary", "translation": "Adept najemniczy", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_NortosLegion_body", "source": "Notos Legionnaire", "translation": "Żołnierz Legionu Notos", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_Resident_01_1_body", "source": "Legion Base Resident", "translation": "Mieszkaniec bazy Legionu", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_ZVVillagerChildren_body", "source": "Zumion Village Child", "translation": "Dziecko z Wioski Zumion", "status": "draft"}
+{"id": "String_STR_N_L1_SocialNPC_ZVVillager_body", "source": "Zumion Villager", "translation": "Mieszkaniec Wioski Zumion", "status": "draft"}
+{"id": "String_STR_N_L1_Social_Shop_01_body", "source": "Emote Merchant", "translation": "Kupiec emotek", "status": "draft"}
+{"id": "String_STR_N_L1_Storage_01_body", "source": "Storage Manager", "translation": "Zarządca magazynu", "status": "draft"}
+{"id": "String_STR_N_L1_Tailoring_Shop_body", "source": "Armorsmith Merchant", "translation": "Kupiec płatnerski", "status": "draft"}
+{"id": "String_STR_N_L1_Temer_01_body", "source": "Temer", "translation": "Temer", "status": "draft"}
+{"id": "String_STR_N_L1_Totorung_body", "source": "Todo", "translation": "Todo", "status": "draft"}
+{"id": "String_STR_N_L1_Ullis_02_body", "source": "Ullys", "translation": "Ullys", "status": "draft"}
+{"id": "String_STR_N_L2_DQ7_3_ShugoBeast_01_body", "source": "Hogmo's Lugi", "translation": "Lugi Hogmo", "status": "draft"}
+{"id": "String_STR_N_L2_GT_R1_M_Refugee_01_001_body", "source": "Injured Ruin Researcher", "translation": "Ranny badacz ruin", "status": "draft"}
+{"id": "String_STR_N_L2_Garrison_H1_F_ShugoC_01_CV01_body", "source": "Rai", "translation": "Rai", "status": "draft"}
+{"id": "String_STR_N_L2_Garrison_H1_M_ShugoC_01_CV02_1_body", "source": "Tavu", "translation": "Tavu", "status": "draft"}
+{"id": "String_STR_N_L2_H3_INS_VillageF_01_body", "source": "Captured Villager", "translation": "Pojmany mieszkaniec", "status": "draft"}
+{"id": "String_STR_N_L2_H3_INS_VillageM_01_body", "source": "Captured Villager", "translation": "Pojmany mieszkaniec", "status": "draft"}
+{"id": "String_STR_N_L2_H3_INS_VillagerM_01_001_body", "source": "Siruon", "translation": "Siruon", "status": "draft"}
+{"id": "String_STR_N_L2_HQ010_Censer_01_body", "source": "Suspicious Rooting Device", "translation": "Podejrzane urządzenie do pobierania korzeni", "status": "draft"}
+{"id": "String_STR_N_L2_HQ021_Artifact_01_body", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
+{"id": "String_STR_N_L2_SocialNPC_ED_body", "source": "Sand Claw Campsite Shulak", "translation": "Shulak z obozowiska Sand Claw", "status": "draft"}
+{"id": "String_STR_N_L2_Social_F_ChlorisGroup_02_001_body", "source": "Research Team Member", "translation": "Członek zespołu badawczego", "status": "draft"}
+{"id": "String_STR_N_L2_Social_M_ChlorisGroup_01_001_body", "source": "Research Team Member", "translation": "Członek zespołu badawczego", "status": "draft"}
+{"id": "String_STR_N_Laceis_01_body", "source": "Laveis (Specimen)", "translation": "Laveis (okaz)", "status": "draft"}
+{"id": "String_STR_N_Laceis_body", "source": "Laveis", "translation": "Laveis", "status": "draft"}
+{"id": "String_STR_N_Lacenith_body", "source": "Lachesis", "translation": "Lachesis", "status": "draft"}
+{"id": "String_STR_N_Lagerk_body", "source": "Ragerk", "translation": "Ragerk", "status": "draft"}
+{"id": "String_STR_N_Lakiba_body", "source": "Lakiba", "translation": "Lakiba", "status": "draft"}
+{"id": "String_STR_N_Lames_body", "source": "Rames", "translation": "Rames", "status": "draft"}
+{"id": "String_STR_N_Lanhit_body", "source": "Ranheet", "translation": "Ranheet", "status": "draft"}
+{"id": "String_STR_N_Larisa_01_body", "source": "Larissa", "translation": "Larissa", "status": "draft"}
+{"id": "String_STR_N_LaserOn_body", "source": "Laser Trap Activated", "translation": "Pułapka laserowa aktywowana", "status": "draft"}
+{"id": "String_STR_N_Leanis_body", "source": "Leanis", "translation": "Leanis", "status": "draft"}
+{"id": "String_STR_N_Lebron_L1_body", "source": "Lebronus", "translation": "Lebronus", "status": "draft"}
+{"id": "String_STR_N_Leda_01_body", "source": "Reda (Specimen)", "translation": "Reda (okaz)", "status": "draft"}
+{"id": "String_STR_N_LegionAF_01_CV01_body", "source": "Female Daeva Gladiator_Apparition (Specimen)", "translation": "Zjawa gladiatorki Daevy (okaz)", "status": "draft"}
+{"id": "String_STR_N_LegionStore_Shop_01_body", "source": "Legion Merchant", "translation": "Kupiec Legionu", "status": "draft"}
+{"id": "String_STR_N_Lemuring_body", "source": "Lemu", "translation": "Lemu", "status": "draft"}
+{"id": "String_STR_N_Lenais_body", "source": "Lenais", "translation": "Lenais", "status": "draft"}
+{"id": "String_STR_N_Leona_body", "source": "Riona", "translation": "Riona", "status": "draft"}
+{"id": "String_STR_N_Leoni_body", "source": "Leoni", "translation": "Leoni", "status": "draft"}
+{"id": "String_STR_N_LepharistStrigikExplosion_01_body", "source": "Unstable Energy Circuit", "translation": "Niestabilny obwód energii", "status": "draft"}
+{"id": "String_STR_N_Lepharistillusion_01_body", "source": "Lepharist Illusion", "translation": "Iluzja Lepharysty", "status": "draft"}
+{"id": "String_STR_N_Leus_body", "source": "Leus", "translation": "Leus", "status": "draft"}
+{"id": "String_STR_N_Lezante_body", "source": "Rezante", "translation": "Rezante", "status": "draft"}
+{"id": "String_STR_N_LifeDaeva_body", "source": "Life Daeva", "translation": "Daeva Życia", "status": "draft"}
+{"id": "String_STR_N_LifeDevaSpirt_body", "source": "Fragment of Yustiel", "translation": "Fragment Yustiel", "status": "draft"}
+{"id": "String_STR_N_Light_AirShip_01_body", "source": "Airship", "translation": "Statek powietrzny", "status": "draft"}
+{"id": "String_STR_N_Ligra_body", "source": "Rigna", "translation": "Rigna", "status": "draft"}
+{"id": "String_STR_N_Limelt_body", "source": "Rimelt", "translation": "Rimelt", "status": "draft"}
+{"id": "String_STR_N_Lindino_body", "source": "Lindino", "translation": "Lindino", "status": "draft"}
+{"id": "String_STR_N_Littlekin_body", "source": "Littlekhi", "translation": "Littlekhi", "status": "draft"}
+{"id": "String_STR_N_Lowenton_body", "source": "Lowenton", "translation": "Lowenton", "status": "draft"}
+{"id": "String_STR_N_Lugi_body", "source": "Shirakiki's Lugi", "translation": "Lugi Shirakiki", "status": "draft"}
+{"id": "String_STR_N_Lukaring_01_body", "source": "Luka", "translation": "Luka", "status": "draft"}
+{"id": "String_STR_N_Luoowl_body", "source": "Luoaul", "translation": "Luoaul", "status": "draft"}
+{"id": "String_STR_N_Luters_body", "source": "Luteros", "translation": "Luteros", "status": "draft"}
+{"id": "String_STR_N_Lutz_body", "source": "Lutz", "translation": "Lutz", "status": "draft"}
+{"id": "String_STR_N_M_AbyssTrader_1_body", "source": "Abyss General Goods Merchant", "translation": "Kupiec towarów ogólnych Otchłani", "status": "draft"}
+{"id": "String_STR_N_M_AbyssTrader_2_body", "source": "Abyss Gear Merchant", "translation": "Kupiec sprzętu Otchłani", "status": "draft"}
+{"id": "String_STR_N_M_Alchemy_Shop_body", "source": "Alchemy Merchant", "translation": "Kupiec alchemiczny", "status": "draft"}
+{"id": "String_STR_N_M_AprilFool_01_V01_001_body", "source": "Jooni", "translation": "Jooni", "status": "draft"}
+{"id": "String_STR_N_M_AprilFool_02_V01_001_body", "source": "Subbi", "translation": "Subbi", "status": "draft"}
+{"id": "String_STR_N_M_Audience_Kid_body", "source": "Observer", "translation": "Obserwator", "status": "draft"}
+{"id": "String_STR_N_M_Audience_body", "source": "Observer", "translation": "Obserwator", "status": "draft"}
+{"id": "String_STR_N_M_Blacksmithing_Shop_body", "source": "Blacksmith Merchant", "translation": "Kupiec kowalski", "status": "draft"}
+{"id": "String_STR_N_M_CanineLegion_body", "source": "Fang Legionnaire", "translation": "Legionista Kieł", "status": "draft"}
+{"id": "String_STR_N_M_CapturedMember_body", "source": "Captured Member", "translation": "Pojmany członek", "status": "draft"}
+{"id": "String_STR_N_M_CemetryScholar_body", "source": "Grave Scholar", "translation": "Uczony grobowca", "status": "draft"}
+{"id": "String_STR_N_M_Cemetrydispatch_body", "source": "Dispatched Member", "translation": "Oddelegowany członek", "status": "draft"}
+{"id": "String_STR_N_M_ChikataFamily_body", "source": "Chikata's Family", "translation": "Rodzina Chikaty", "status": "draft"}
+{"id": "String_STR_N_M_ChlorisCabal_body", "source": "Chloris's Band", "translation": "Zespół Chloris", "status": "draft"}
+{"id": "String_STR_N_M_ChlorisFellow_01_body", "source": "Chloris's Companion", "translation": "Towarzysz Chloris", "status": "draft"}
+{"id": "String_STR_N_M_CoinShop_body", "source": "Adventurer's Mark Merchant", "translation": "Kupiec znaków poszukiwacza przygód", "status": "draft"}
+{"id": "String_STR_N_M_Concierge_body", "source": "Grave Warden", "translation": "Strażnik grobu", "status": "draft"}
+{"id": "String_STR_N_M_Contractor_body", "source": "Mercenary", "translation": "Najemnik", "status": "draft"}
+{"id": "String_STR_N_M_Conversion_Shop_body", "source": "Morph Merchant", "translation": "Kupiec transmutacji", "status": "draft"}
+{"id": "String_STR_N_M_Cooking_Shop_body", "source": "Cooking Merchant", "translation": "Kupiec artykułów kulinarnych", "status": "draft"}
+{"id": "String_STR_N_M_Crafting_Shop_01_body", "source": "Master Handicrafter", "translation": "Mistrz rękodzieła", "status": "draft"}
+{"id": "String_STR_N_M_Creion_01_body", "source": "Creion", "translation": "Creion", "status": "draft"}
+{"id": "String_STR_N_M_Creion_body", "source": "Creion Researcher", "translation": "Badacz Creion", "status": "draft"}
+{"id": "String_STR_N_M_CroStaff_body", "source": "Kromede's Minion", "translation": "Sługa Kromede", "status": "draft"}
+{"id": "String_STR_N_M_D1_Daeva03_Merchant_02_body", "source": "Captured Burglar", "translation": "Pojmany włamywacz", "status": "draft"}
+{"id": "String_STR_N_M_D1_Daeva04_Refugee_1_body", "source": "Royal Huey", "translation": "Royal Huey", "status": "draft"}
+{"id": "String_STR_N_M_D1_Daeva05_Villager_01_1_body", "source": "Vagabond Daeva", "translation": "Wędrowny Daeva", "status": "draft"}
+{"id": "String_STR_N_M_D1_Dragon02_Militia_01_01_body", "source": "Demoralized Daeva", "translation": "Złamany na duchu Daeva", "status": "draft"}
+{"id": "String_STR_N_M_D1_Human01_Fighter_02_body", "source": "Albert", "translation": "Albert", "status": "draft"}
+{"id": "String_STR_N_M_D1_Human04_Slave_01_01_body", "source": "Captured Stranger", "translation": "Pojmany nieznajomy", "status": "draft"}
+{"id": "String_STR_N_M_DaevaPrisoner_body", "source": "Captured Daeva", "translation": "Pojmany Daeva", "status": "draft"}
+{"id": "String_STR_N_M_DawnLegion_body", "source": "Dawn Legionnaire", "translation": "Żołnierz Legionu Świtu", "status": "draft"}
+{"id": "String_STR_N_M_DeadDaeva_body", "source": "Fallen Daeva", "translation": "Poległy Daeva", "status": "draft"}
+{"id": "String_STR_N_M_DelusionCitizen_body", "source": "Enchanted Villager", "translation": "Zaklęty mieszkaniec wioski", "status": "draft"}
+{"id": "String_STR_N_M_DestDaevaPrison_body", "source": "Fate Archon Captive", "translation": "Pojmany Archont Losu", "status": "draft"}
+{"id": "String_STR_N_M_DownLegion_body", "source": "Fallen Member", "translation": "Poległy członek", "status": "draft"}
+{"id": "String_STR_N_M_Drinking_body", "source": "Drunkard", "translation": "Pijak", "status": "draft"}
+{"id": "String_STR_N_M_DrunkBandit_01_body", "source": "Drunken Bandit", "translation": "Pijany bandyta", "status": "draft"}
+{"id": "String_STR_N_M_DrunkBandit_02_body", "source": "Drunken Bandit Captain", "translation": "Kapitan pijanych bandytów", "status": "draft"}
+{"id": "String_STR_N_M_DyedItem_Shop_body", "source": "Dye Merchant", "translation": "Kupiec barwników", "status": "draft"}
+{"id": "String_STR_N_M_East_Shulack_01_body", "source": "Steel Hammer Merchant", "translation": "Kupiec Stalowego Młota", "status": "draft"}
+{"id": "String_STR_N_M_East_Shulack_02_body", "source": "Steel Hammer Merchants Shulak Worker", "translation": "Robotnik Shulak kupców Stalowego Młota", "status": "draft"}
+{"id": "String_STR_N_M_East_Shulack_03_body", "source": "Steel Hammer Merchants Worker", "translation": "Robotnik kupców Stalowego Młota", "status": "draft"}
+{"id": "String_STR_N_M_Elim_body", "source": "Elim", "translation": "Elim", "status": "draft"}
+{"id": "String_STR_N_M_Equipment_Shop_01_body", "source": "Weapon Merchant", "translation": "Kupiec broni", "status": "draft"}
+{"id": "String_STR_N_M_Equipment_Shop_02_body", "source": "Armor Merchant", "translation": "Kupiec zbroi", "status": "draft"}
+{"id": "String_STR_N_M_EventPlanner_body", "source": "Stage Director", "translation": "Reżyser sceny", "status": "draft"}
+{"id": "String_STR_N_M_EventStaff_body", "source": "Stage Staff", "translation": "Obsługa sceny", "status": "draft"}
+{"id": "String_STR_N_M_Farmer_body", "source": "Farmer", "translation": "Rolnik", "status": "draft"}
+{"id": "String_STR_N_M_Fishyowl_body", "source": "Suspicious Aullaeu", "translation": "Podejrzany Aullaeu", "status": "draft"}
+{"id": "String_STR_N_M_Food_Shop_body", "source": "Food Merchant", "translation": "Kupiec żywności", "status": "draft"}
+{"id": "String_STR_N_M_ForgottenSpirit_body", "source": "Forgotten Faithful's Apparition", "translation": "Zjawa Zapomnianego Wyznawcy", "status": "draft"}
+{"id": "String_STR_N_M_Gravekeeper_body", "source": "Gravekeeper", "translation": "Grabarz", "status": "draft"}
+{"id": "String_STR_N_M_Guard_body", "source": "Guard", "translation": "Strażnik", "status": "draft"}
+{"id": "String_STR_N_M_Guildstorage_body", "source": "Legion Storage Manager", "translation": "Zarządca magazynu Legionu", "status": "draft"}
+{"id": "String_STR_N_M_Herbalist_body", "source": "Herbalist", "translation": "Zielarz", "status": "draft"}
+{"id": "String_STR_N_M_Hostage_body", "source": "Captured Villager", "translation": "Pojmany mieszkaniec", "status": "draft"}
+{"id": "String_STR_N_M_HurtRefugee1_body", "source": "Brainwashed Laborer", "translation": "Zindoktrynowany robotnik", "status": "draft"}
+{"id": "String_STR_N_M_HurtRefugee2_body", "source": "Unconscious Laborer", "translation": "Nieprzytomny robotnik", "status": "draft"}
+{"id": "String_STR_N_M_HurtRefugee_body", "source": "Collapsed Refugee", "translation": "Osłabiony uchodźca", "status": "draft"}
+{"id": "String_STR_N_M_Injured_03_body", "source": "Unconscious Legionnaire", "translation": "Nieprzytomny żołnierz Legionu", "status": "draft"}
+{"id": "String_STR_N_M_Inspector_01_body", "source": "Krao Cave Investigator", "translation": "Badacz Krao Cave", "status": "draft"}
+{"id": "String_STR_N_M_Inspector_02_body", "source": "Urugugu Canyon Investigator", "translation": "Badacz Kanionu Urugugu", "status": "draft"}
+{"id": "String_STR_N_M_Instruction_Shop_body", "source": "Command Merchant", "translation": "Kupiec dowództwa", "status": "draft"}
+{"id": "String_STR_N_M_JumionBeliever_body", "source": "Zumion Faithful", "translation": "Wyznawca Zumionu", "status": "draft"}
+{"id": "String_STR_N_M_Kanshasha_body", "source": "Traska", "translation": "Traska", "status": "draft"}
+{"id": "String_STR_N_M_Kid_body", "source": "Refugee Child", "translation": "Dziecko uchodźcy", "status": "draft"}
+{"id": "String_STR_N_M_L2_Garrison_H1_PrisonShugo_body", "source": "Captured Shugo", "translation": "Pojmany Shugo", "status": "draft"}
+{"id": "String_STR_N_M_LegionB_01_body", "source": "Spirit Guide Male 1 (Specimen)", "translation": "Przewodnik duchów 1 (okaz)", "status": "draft"}
+{"id": "String_STR_N_M_LegionB_02_body", "source": "Spirit Guide Male 2 (Specimen)", "translation": "Przewodnik duchów 2 (okaz)", "status": "draft"}
+{"id": "String_STR_N_M_LegionE_01_body", "source": "Captured Blade (Specimen)", "translation": "Pojmany Ostrze (okaz)", "status": "draft"}
+{"id": "String_STR_N_M_LegionStore_Shop_body", "source": "Legion Merchant", "translation": "Kupiec Legionu", "status": "draft"}
+{"id": "String_STR_N_M_Lepharistillusion_01_body", "source": "Lepharist Illusion", "translation": "Iluzja Lepharysty", "status": "draft"}
+{"id": "String_STR_N_M_LifeDaeva_body", "source": "Life Daeva", "translation": "Daeva Życia", "status": "draft"}
+{"id": "String_STR_N_M_MCShugo_body", "source": "Stage Emcee", "translation": "Konferansjer", "status": "draft"}
+{"id": "String_STR_N_M_Mercenary_body", "source": "Vigilante", "translation": "Strażnik", "status": "draft"}
+{"id": "String_STR_N_M_Militia_01_body", "source": "Safe Haven Militia Male (Specimen)", "translation": "Milicjant Bezpiecznej Przystani (okaz)", "status": "draft"}
+{"id": "String_STR_N_M_Misc_Shop_body", "source": "General Goods Merchant", "translation": "Kupiec z towarami ogólnymi", "status": "draft"}
+{"id": "String_STR_N_M_NewFirmMember_body", "source": "Thunder Lightning Merchants Member", "translation": "Członek kupców Gromu i Błyskawicy", "status": "draft"}
+{"id": "String_STR_N_M_NornirKidnap_body", "source": "Captured Nornir", "translation": "Pojmany Nornir", "status": "draft"}
+{"id": "String_STR_N_M_NortosLegion_body", "source": "Notos Legionnaire", "translation": "Żołnierz Legionu Notos", "status": "draft"}
+{"id": "String_STR_N_M_Officiator_body", "source": "Officiant", "translation": "Prowadzący ceremonię", "status": "draft"}
+{"id": "String_STR_N_M_Postman_body", "source": "Courier", "translation": "Kurier", "status": "draft"}
+{"id": "String_STR_N_M_PrisonShugo_body", "source": "Kidnapped Shugo", "translation": "Porwany Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Q_AltKnife_01_body", "source": "Blades Bomber", "translation": "Bombardier Ostrzy", "status": "draft"}
+{"id": "String_STR_N_M_Q_AltKnife_02_body", "source": "Blades Captive", "translation": "Pojmany z Ostrzy", "status": "draft"}
+{"id": "String_STR_N_M_Q_BlackClaw_01_body", "source": "Black Claw Scout", "translation": "Zwiadowca Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_N_M_Q_BlackClaw_02_body", "source": "Black Claw Patrol Watcher", "translation": "Obserwator patrolu Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_N_M_Q_BlackClaw_03_body", "source": "Black Claw Shaman", "translation": "Szaman Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_N_M_Q_BlackClaw_04_body", "source": "Black Claw Apothecary", "translation": "Aptekarz Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_N_M_Q_ChangarnerkBodyguard_01_body", "source": "Tsenka Merchants Guard", "translation": "Strażnik kupców Tsenka", "status": "draft"}
+{"id": "String_STR_N_M_Q_ChangarungMember_01_body", "source": "Tsenka Merchants Member", "translation": "Członek kupców Tsenka", "status": "draft"}
+{"id": "String_STR_N_M_Q_Creion_01_body", "source": "Unconscious Creion", "translation": "Nieprzytomny Creion", "status": "draft"}
+{"id": "String_STR_N_M_Q_Draconute_01_body", "source": "Draconute Warrior", "translation": "Wojownik Drakonidów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Draconute_02_body", "source": "Draconute Ranger", "translation": "Łowca Drakonidów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Draconute_03_body", "source": "Draconute Superior Combatant", "translation": "Wybitny wojownik Drakonidów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Draconute_04_body", "source": "Draconute Sentinel", "translation": "Wartownik Drakonidów", "status": "draft"}
+{"id": "String_STR_N_M_Q_EironRefugee_01_body", "source": "Eiron Refugee", "translation": "Uchodźca Eiron", "status": "draft"}
+{"id": "String_STR_N_M_Q_FaintVoice_01_body", "source": "Faint Voice", "translation": "Słaby głos", "status": "draft"}
+{"id": "String_STR_N_M_Q_FallenFollower_01_body", "source": "Fallen Follower", "translation": "Poległy wyznawca", "status": "draft"}
+{"id": "String_STR_N_M_Q_FallenFollower_02_body", "source": "Wounded Follower", "translation": "Ranny wyznawca", "status": "draft"}
+{"id": "String_STR_N_M_Q_FallenFollower_03_body", "source": "Deceived Follower", "translation": "Zwiedziony wyznawca", "status": "draft"}
+{"id": "String_STR_N_M_Q_Fangs_01_body", "source": "Fang Legion Captive", "translation": "Pojmany żołnierz Legionu Kła", "status": "draft"}
+{"id": "String_STR_N_M_Q_Fangs_02_body", "source": "Injured Fang Legionnaires", "translation": "Ranni żołnierze Legionu Kła", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_01_body", "source": "Kobold Fertilizer Worker", "translation": "Robotnik koboldów przy nawozach", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_02_body", "source": "Kobold Drudge", "translation": "Parobek koboldów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_03_body", "source": "Kobold Servant", "translation": "Sługa koboldów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_04_body", "source": "Kobold Tinkerer", "translation": "Majsterkowicz koboldów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_05_body", "source": "Kobold Worker", "translation": "Robotnik koboldów", "status": "draft"}
+{"id": "String_STR_N_M_Q_Kobold_06_body", "source": "Kobold Porter", "translation": "Tragarz Kobold", "status": "draft"}
+{"id": "String_STR_N_M_Q_Krall_01_body", "source": "Krall Watcher", "translation": "Obserwator Krall", "status": "draft"}
+{"id": "String_STR_N_M_Q_Krall_02_body", "source": "Krall Combatant", "translation": "Wojownik Krall", "status": "draft"}
+{"id": "String_STR_N_M_Q_Krall_03_body", "source": "Krall Supporter", "translation": "Stronnik Krall", "status": "draft"}
+{"id": "String_STR_N_M_Q_LieDownChangarnerkTraders_01_body", "source": "Fallen Tsenka Merchants Member", "translation": "Poległy członek kupców Tsenka", "status": "draft"}
+{"id": "String_STR_N_M_Q_MysteryDevaGhost_body", "source": "Mysterious Daeva Illusion", "translation": "Iluzja tajemniczego Daevy", "status": "draft"}
+{"id": "String_STR_N_M_Q_NetraCompanion_body", "source": "Netra's Companion", "translation": "Towarzysz Netry", "status": "draft"}
+{"id": "String_STR_N_M_Q_NewFallenBeliever_01_body", "source": "Novice Trainee", "translation": "Początkujący adept", "status": "draft"}
+{"id": "String_STR_N_M_Q_Owl_01_body", "source": "Aullaeu Sentinel", "translation": "Wartownik Aullaeu", "status": "draft"}
+{"id": "String_STR_N_M_Q_Owl_02_body", "source": "Aullaeu Trainee", "translation": "Adept Aullaeu", "status": "draft"}
+{"id": "String_STR_N_M_Q_Owl_03_body", "source": "Aullaeu Village Guard", "translation": "Strażnik wioski Aullaeu", "status": "draft"}
+{"id": "String_STR_N_M_Q_Shulack_01_body", "source": "Injured Shulak Worker", "translation": "Ranny robotnik Shulak", "status": "draft"}
+{"id": "String_STR_N_M_Q_Shulack_02_body", "source": "Fallen Shulak Worker", "translation": "Poległy robotnik Shulak", "status": "draft"}
+{"id": "String_STR_N_M_Q_Shulack_03_body", "source": "Unconscious Shulak", "translation": "Nieprzytomny Shulak", "status": "draft"}
+{"id": "String_STR_N_M_Q_Survivor_01_body", "source": "Survivor", "translation": "Ocalały", "status": "draft"}
+{"id": "String_STR_N_M_Q_Victim_01_body", "source": "Disposed Test Subject", "translation": "Usunięty obiekt testowy", "status": "draft"}
+{"id": "String_STR_N_M_Q_Vigilante_01_body", "source": "Village Vigilante", "translation": "Strażnik wioski", "status": "draft"}
+{"id": "String_STR_N_M_Q_Villager_01_body", "source": "Patamor Village Vigilante Group", "translation": "Grupa strażników z Wioski Patamor", "status": "draft"}
+{"id": "String_STR_N_M_Q_Villager_02_body", "source": "Villager", "translation": "Mieszkaniec wioski", "status": "draft"}
+{"id": "String_STR_N_M_Q_ZebasCompanion_body", "source": "Zebas's Companion", "translation": "Towarzysz Zebasa", "status": "draft"}
+{"id": "String_STR_N_M_QuairerkTraders_body", "source": "Quai Merchants", "translation": "Kupcy Quai", "status": "draft"}
+{"id": "String_STR_N_M_Quairerk_02_body", "source": "Shugo Student", "translation": "Uczeń Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Quairerk_body", "source": "Trainee Merchant", "translation": "Adept kupiecki", "status": "draft"}
+{"id": "String_STR_N_M_Refugee2_body", "source": "Refugee", "translation": "Uchodźca", "status": "draft"}
+{"id": "String_STR_N_M_Refugee_body", "source": "Refugee", "translation": "Uchodźca", "status": "draft"}
+{"id": "String_STR_N_M_Resident_body", "source": "Legion Base Resident", "translation": "Mieszkaniec bazy Legionu", "status": "draft"}
+{"id": "String_STR_N_M_Revin_body", "source": "Refugee Child", "translation": "Dziecko uchodźcy", "status": "draft"}
+{"id": "String_STR_N_M_RoleCarasFriend_body", "source": "Role: Friend Turned Karas", "translation": "Rola: przyjaciel przemieniony w Karasa", "status": "draft"}
+{"id": "String_STR_N_M_RoleCaras_body", "source": "Role: Karas", "translation": "Rola: Karas", "status": "draft"}
+{"id": "String_STR_N_M_RoleFriend_body", "source": "Role: Friend", "translation": "Rola: przyjaciel", "status": "draft"}
+{"id": "String_STR_N_M_RoleRaider_body", "source": "Role: Marauder", "translation": "Rola: maruder", "status": "draft"}
+{"id": "String_STR_N_M_RoleVillager_body", "source": "Role: Villager", "translation": "Rola: mieszkaniec wioski", "status": "draft"}
+{"id": "String_STR_N_M_Scholar_body", "source": "Scholar", "translation": "Uczony", "status": "draft"}
+{"id": "String_STR_N_M_ShugoDown_body", "source": "Fallen Shugo", "translation": "Poległy Shugo", "status": "draft"}
+{"id": "String_STR_N_M_ShugoGame_body", "source": "Shugo Festival Merchant", "translation": "Kupiec Festiwalu Shugo", "status": "draft"}
+{"id": "String_STR_N_M_ShugoKidnap_body", "source": "Kidnapped Shugo", "translation": "Porwany Shugo", "status": "draft"}
+{"id": "String_STR_N_M_ShugoMerchant_body", "source": "Shugo Merchant", "translation": "Kupiec Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Shugo_Vigilante_body", "source": "Shugo Vigilante Group", "translation": "Grupa strażników Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Shugo_Worker_body", "source": "Shugo Worker", "translation": "Robotnik Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Shugo_body", "source": "Vagabond Shugo", "translation": "Wędrowny Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Shulack_body", "source": "Vagabond Shulak", "translation": "Wędrowny Shulak", "status": "draft"}
+{"id": "String_STR_N_M_SkinExtraction_body", "source": "Skin Extractor", "translation": "Ekstraktor skórek", "status": "draft"}
+{"id": "String_STR_N_M_SkurvWarSlacker_body", "source": "Slothful Mumu", "translation": "Ospałe Mumu", "status": "draft"}
+{"id": "String_STR_N_M_SlaveWorker_body", "source": "Laborer", "translation": "Robotnik", "status": "draft"}
+{"id": "String_STR_N_M_SocialNPC_Mercenary_body", "source": "Apprentice Mercenary", "translation": "Adept najemniczy", "status": "draft"}
+{"id": "String_STR_N_M_SocialN_DawnLegion_body", "source": "Dawn Legionnaire", "translation": "Żołnierz Legionu Świtu", "status": "draft"}
+{"id": "String_STR_N_M_SocialN_NortosLegion_body", "source": "Notos Legionnaire", "translation": "Żołnierz Legionu Notos", "status": "draft"}
+{"id": "String_STR_N_M_SpiritGuide_body", "source": "Spirit Guide Member", "translation": "Członek przewodników duchów", "status": "draft"}
+{"id": "String_STR_N_M_Statue_02_body", "source": "Broken Warrior Statue", "translation": "Uszkodzony posąg wojownika", "status": "draft"}
+{"id": "String_STR_N_M_Statue_03_body", "source": "Statue of Daeva Warrior", "translation": "Posąg wojownika Daevy", "status": "draft"}
+{"id": "String_STR_N_M_SteelHammerVillager_body", "source": "Steel Hammer Trader", "translation": "Handlarz Stalowego Młota", "status": "draft"}
+{"id": "String_STR_N_M_Storage_body", "source": "Storage Manager", "translation": "Zarządca magazynu", "status": "draft"}
+{"id": "String_STR_N_M_SuraBroken_body", "source": "Damaged Mutated Sura", "translation": "Uszkodzona zmutowana Sura", "status": "draft"}
+{"id": "String_STR_N_M_SwordTeacher_body", "source": "Gladiator's Mentor", "translation": "Mentor gladiatora", "status": "draft"}
+{"id": "String_STR_N_M_TestQuest_body", "source": "Quest Test", "translation": "Test zadania", "status": "draft"}
+{"id": "String_STR_N_M_ThiefShulack_01_001_body", "source": "Shugo Thief", "translation": "Złodziej Shugo", "status": "draft"}
+{"id": "String_STR_N_M_Trader_body", "source": "Merchant (tentative)", "translation": "Kupiec (roboczo)", "status": "draft"}
+{"id": "String_STR_N_M_Trainee_body", "source": "Legion Trainee", "translation": "Adept Legionu", "status": "draft"}
+{"id": "String_STR_N_M_UnknownPerson_body", "source": "???", "translation": "Nieznana osoba", "status": "draft"}
+{"id": "String_STR_N_M_VeilJewel_body", "source": "Veil Jewel", "translation": "Klejnot Zasłony", "status": "draft"}
+{"id": "String_STR_N_M_Victim_body", "source": "Kidnapping Victim", "translation": "Ofiara porwania", "status": "draft"}
+{"id": "String_STR_N_M_Vigilante_body", "source": "Vigilante", "translation": "Strażnik", "status": "draft"}
+{"id": "String_STR_N_M_VillagerKid_body", "source": "Village Kid", "translation": "Dziecko z wioski", "status": "draft"}
+{"id": "String_STR_N_M_Villager_Kid_body", "source": "Child Resident", "translation": "Dziecko, mieszkaniec", "status": "draft"}
+{"id": "String_STR_N_M_Villager_Old_body", "source": "Senior Resident", "translation": "Starszy mieszkaniec", "status": "draft"}

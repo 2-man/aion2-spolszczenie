@@ -16,6 +16,7 @@
 {"id": "String_SCREEN_MSG_ABYSSRIFT_TARGET_TIME_body", "source": "Third Rift", "translation": "Trzecia szczelina", "status": "draft"}
 {"id": "String_SCREEN_MSG_ABYSSRIFT_TITLE_body", "source": "Abyss Rift Zone", "translation": "Strefa szczelin Otchłani", "status": "draft"}
 {"id": "String_SCREEN_MSG_ACHIEVEMENT_COMPLETE_TITLE_body", "source": "Achievement Unlocked", "translation": "Zdobyto osiągnięcie", "status": "draft"}
+{"id": "String_SCREEN_MSG_ACHIEVEMENT_EVENT_COMPLETE_TITLE_body", "source": "Event Mission Complete", "translation": "Ukończono misję wydarzenia", "status": "draft"}
 {"id": "String_SCREEN_MSG_ACHIEVEMENT_MEMBERSHIPPASS_TITLE_body", "source": "Membership Pass Mission Achieved", "translation": "Wykonano misję Przepustki członkowskiej", "status": "draft"}
 {"id": "String_SCREEN_MSG_ACHIEVEMENT_ONBOARDING_COMPLETE_TITLE_body", "source": "Growth Support Mission Completed", "translation": "Ukończono misję wsparcia rozwoju", "status": "draft"}
 {"id": "String_SCREEN_MSG_ACHIEVEMENT_SEASON_COMPLETE_TITLE_body", "source": "Season Mission Achieved", "translation": "Wykonano misję sezonową", "status": "draft"}
@@ -37,7 +38,7 @@
 {"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_SEAL_body", "source": "Sealed Dungeon Exploration Complete", "translation": "Ukończono eksplorację zapieczętowanego lochu", "status": "draft"}
 {"id": "String_SCREEN_MSG_CLEAR_EXPLORATION_TERRITORY_body", "source": "Stronghold Sweep Complete", "translation": "Ukończono oczyszczanie twierdzy", "status": "draft"}
 {"id": "String_SCREEN_MSG_CRAFT_SKILL_UNLOCK_TITLE_body", "source": "Crafting skill acquired", "translation": "Zdobyto umiejętność rzemieślniczą", "status": "draft"}
-{"id": "String_SCREEN_MSG_DAEVAEXPRESSMONOLITH_TEXT_body", "source": "Empyrean Trace: {0} acquired.", "translation": "Zdobyto ślad Empyrean: {0}.", "status": "draft"}
+{"id": "String_SCREEN_MSG_DAEVAEXPRESSMONOLITH_TEXT_body", "source": "Empyrean Trace: {0} acquired.", "translation": "Zdobyto Ślad Empyrejski: {0}.", "status": "draft"}
 {"id": "String_SCREEN_MSG_DAEVAEXPRESSMONOLITH_TITLE_body", "source": "Daeva Express", "translation": "Ekspres Daevy", "status": "draft"}
 {"id": "String_SCREEN_MSG_DAEVAEXPRESSOCCUPATIONTERRITORY_TEXT_body", "source": "Received the reward from {0} Stronghold.", "translation": "Odebrano nagrodę z twierdzy {0}.", "status": "draft"}
 {"id": "String_SCREEN_MSG_DAEVAEXPRESSOCCUPATIONTERRITORY_TITLE_body", "source": "Daeva Express", "translation": "Ekspres Daevy", "status": "draft"}
@@ -57,6 +58,8 @@
 {"id": "String_SCREEN_MSG_ENCHANT_RESULT_SUCCESS_body", "source": "{0} enhancement successful", "translation": "Ulepszanie {0} powiodło się", "status": "draft"}
 {"id": "String_SCREEN_MSG_ENCHANT_UPGRADE_RESULT_FAIL_body", "source": "{0} upgrade failed", "translation": "Udoskonalanie {0} nie powiodło się", "status": "draft"}
 {"id": "String_SCREEN_MSG_ENCHANT_UPGRADE_RESULT_SUCCESS_body", "source": "{0} upgrade successful", "translation": "Udoskonalanie {0} powiodło się", "status": "draft"}
+{"id": "String_SCREEN_MSG_EVENTMISSION_GET_REWARD_TEXT_body", "source": "Reward collected.", "translation": "Nagroda odebrana.", "status": "draft"}
+{"id": "String_SCREEN_MSG_EVENTMISSION_GET_REWARD_TITLE_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
 {"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_DESTRUCTION_body", "source": "{0} Amplified Enhancement failed and the item has been destroyed.", "translation": "Wzmocnione ulepszanie {0} nie powiodło się. Przedmiot został zniszczony.", "status": "draft"}
 {"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_DOWN_body", "source": "{0} Amplified Enhancement failed and the level has dropped.", "translation": "Wzmocnione ulepszanie {0} nie powiodło się. Poziom spadł.", "status": "draft"}
 {"id": "String_SCREEN_MSG_EXCEEDENCHANT_RESULT_FAIL_body", "source": "{0} Amplified Enhancement failed", "translation": "Wzmocnione ulepszanie {0} nie powiodło się", "status": "draft"}

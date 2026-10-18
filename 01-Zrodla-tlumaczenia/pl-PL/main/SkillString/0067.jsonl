@@ -101,14 +101,14 @@
 {"id": "SkillString_SkillString_ETC_9337_skill_name", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
 {"id": "SkillString_SkillString_ETC_9338_skill_desc_effect", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
 {"id": "SkillString_SkillString_ETC_9338_skill_name", "source": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "translation": "Root Motion, Movable_In_Charge=FALSE,Movable_In_Use=FALSE", "status": "draft"}
-{"id":"SkillString_SkillString_ETC_9339_skill_desc_effect","source":"Charge Level 1, Movable_In_Use=FALSE","translation":"Poziom naładowania 1, Movable_In_Use=FALSE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9339_skill_name","source":"Charge Level 1, Movable_In_Use=FALSE","translation":"Poziom naładowania 1, Movable_In_Use=FALSE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9340_skill_desc_effect","source":"Charge Level 2, Movable_In_Use=FALSE","translation":"Poziom naładowania 2, Movable_In_Use=FALSE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9340_skill_name","source":"Charge Level 2, Movable_In_Use=FALSE","translation":"Poziom naładowania 2, Movable_In_Use=FALSE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9341_skill_desc_effect","source":"Charge Level 1, Movable_In_Use=TRUE","translation":"Poziom naładowania 1, Movable_In_Use=TRUE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9341_skill_name","source":"Charge Level 1, Movable_In_Use=TRUE","translation":"Poziom naładowania 1, Movable_In_Use=TRUE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9342_skill_desc_effect","source":"Charge Level 2, Movable_In_Use=TRUE","translation":"Poziom naładowania 2, Movable_In_Use=TRUE","status":"draft"}
-{"id":"SkillString_SkillString_ETC_9342_skill_name","source":"Charge Level 2, Movable_In_Use=TRUE","translation":"Poziom naładowania 2, Movable_In_Use=TRUE","status":"draft"}
+{"id": "SkillString_SkillString_ETC_9339_skill_desc_effect", "source": "Charge Level 1, Movable_In_Use=FALSE", "translation": "Poziom naładowania 1, Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9339_skill_name", "source": "Charge Level 1, Movable_In_Use=FALSE", "translation": "Poziom naładowania 1, Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9340_skill_desc_effect", "source": "Charge Level 2, Movable_In_Use=FALSE", "translation": "Poziom naładowania 2, Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9340_skill_name", "source": "Charge Level 2, Movable_In_Use=FALSE", "translation": "Poziom naładowania 2, Movable_In_Use=FALSE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9341_skill_desc_effect", "source": "Charge Level 1, Movable_In_Use=TRUE", "translation": "Poziom naładowania 1, Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9341_skill_name", "source": "Charge Level 1, Movable_In_Use=TRUE", "translation": "Poziom naładowania 1, Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9342_skill_desc_effect", "source": "Charge Level 2, Movable_In_Use=TRUE", "translation": "Poziom naładowania 2, Movable_In_Use=TRUE", "status": "draft"}
+{"id": "SkillString_SkillString_ETC_9342_skill_name", "source": "Charge Level 2, Movable_In_Use=TRUE", "translation": "Poziom naładowania 2, Movable_In_Use=TRUE", "status": "draft"}
 {"id": "SkillString_SkillString_ETC_9344_skill_desc_effect", "source": "AoE Dispel", "translation": "Rozproszenie obszarowe", "status": "draft"}
 {"id": "SkillString_SkillString_ETC_9344_skill_name", "source": "AoE Dispel", "translation": "Rozproszenie obszarowe", "status": "draft"}
 {"id": "SkillString_SkillString_ETC_9345_skill_desc_effect", "source": "Movable_In_Use=TRUE", "translation": "Movable_In_Use=TRUE", "status": "draft"}

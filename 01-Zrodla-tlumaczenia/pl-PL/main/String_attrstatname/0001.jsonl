@@ -53,14 +53,14 @@
 {"id": "String_AttrStatName_ForcedMoveResist_body", "source": "Forced Move Resist", "translation": "Odporność na wymuszone przemieszczenie", "status": "draft"}
 {"id": "String_AttrStatName_FreezeResist_body", "source": "Frost Resist", "translation": "Odporność na mróz", "status": "draft"}
 {"id": "String_AttrStatName_GainEPIncrease_body", "source": "Energy Gain increase", "translation": "Zwiększenie zdobywanej energii", "status": "draft"}
-{"id": "String_AttrStatName_GainRPIncrease_body", "source": "Rage Gain increase", "translation": "Zwiększenie zdobywanej furii", "status": "draft"}
+{"id": "String_AttrStatName_GainRPIncrease_body", "source": "Rage Gain increase", "translation": "Zwiększenie zdobywanego Szału", "status": "draft"}
 {"id": "String_AttrStatName_GlidingBoostSpeed_body", "source": "<DNT>", "translation": "<DNT>", "status": "technical"}
 {"id": "String_AttrStatName_GlidingSpeed_body", "source": "Gliding Speed", "translation": "Szybkość szybowania", "status": "draft"}
 {"id": "String_AttrStatName_HideDetectLevel_body", "source": "Detection Level", "translation": "Poziom wykrywania", "status": "draft"}
 {"id": "String_AttrStatName_HideLevel_body", "source": "Stealth Level", "translation": "Poziom ukrycia", "status": "draft"}
 {"id": "String_AttrStatName_IgnoreBlock_body", "source": "Ignore Block", "translation": "Ignorowanie bloku", "status": "draft"}
 {"id": "String_AttrStatName_IncreaseHealing_body", "source": "Healing Increase", "translation": "Zwiększenie leczenia", "status": "draft"}
-{"id": "String_AttrStatName_KinahMul_body", "source": "Kina Gain Increase", "translation": "Zwiększenie zdobywanej Kina", "status": "draft"}
+{"id": "String_AttrStatName_KinahMul_body", "source": "Kina Gain Increase", "translation": "Zwiększenie zdobywanej Kiny", "status": "draft"}
 {"id": "String_AttrStatName_MPCostDecrease_body", "source": "MP Cost Reduction", "translation": "Redukcja kosztu MP", "status": "draft"}
 {"id": "String_AttrStatName_MagAttHit_body", "source": "Magic Chance", "translation": "Szansa trafienia magią", "status": "draft"}
 {"id": "String_AttrStatName_MagAttackMax_body", "source": "Max Magic Attack", "translation": "Maksymalny atak magiczny", "status": "draft"}
@@ -75,7 +75,7 @@
 {"id": "String_AttrStatName_MaxEP_body", "source": "Energy", "translation": "Energia", "status": "draft"}
 {"id": "String_AttrStatName_MaxHP_body", "source": "Max HP", "translation": "Maksymalne PŻ", "status": "draft"}
 {"id": "String_AttrStatName_MaxMP_body", "source": "MP", "translation": "MP", "status": "technical"}
-{"id": "String_AttrStatName_MaxRP_body", "source": "Rage", "translation": "Furia", "status": "draft"}
+{"id": "String_AttrStatName_MaxRP_body", "source": "Rage", "translation": "Szał", "status": "draft"}
 {"id": "String_AttrStatName_MaxWT_body", "source": "Vulnerability Tolerance", "translation": "Odporność na osłabienie", "status": "draft"}
 {"id": "String_AttrStatName_MenConditionResist_body", "source": "Mental-type Status Effect Resist", "translation": "Odporność na mentalne efekty statusu", "status": "draft"}
 {"id": "String_AttrStatName_MentalConditionHit_body", "source": "Mental-type Status Effect Chance", "translation": "Szansa na nałożenie mentalnego efektu statusu", "status": "draft"}
@@ -89,7 +89,7 @@
 {"id": "String_AttrStatName_PhyDefend_body", "source": "Physical Defense", "translation": "Obrona fizyczna", "status": "draft"}
 {"id": "String_AttrStatName_PhyDodge_body", "source": "Physical Evasion", "translation": "Unik fizyczny", "status": "draft"}
 {"id": "String_AttrStatName_ProductCriticalMul_body", "source": "Crafting Great Success Chance", "translation": "Szansa na wielki sukces rzemiosła", "status": "draft"}
-{"id": "String_AttrStatName_RPCostDecrease_body", "source": "Rage Cost reduction", "translation": "Redukcja kosztu furii", "status": "draft"}
+{"id": "String_AttrStatName_RPCostDecrease_body", "source": "Rage Cost reduction", "translation": "Redukcja kosztu Szału", "status": "draft"}
 {"id": "String_AttrStatName_ReduceAionBlessMul_body", "source": "Blessing Cost reduction", "translation": "Redukcja kosztu błogosławieństwa", "status": "draft"}
 {"id": "String_AttrStatName_ReduceChargeJump_body", "source": "Leap Charging duration reduction", "translation": "Skrócenie czasu ładowania skoku", "status": "draft"}
 {"id": "String_AttrStatName_ReduceCooldown_body", "source": "Reduces Skill cooldown", "translation": "Skrócenie czasu odnowienia umiejętności", "status": "draft"}

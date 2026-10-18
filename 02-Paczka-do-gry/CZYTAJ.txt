@@ -1,14 +1,14 @@
 AION2 PL - wersja robocza
 
-Zakres pakietu: 148287 polskich wpisow tabeli glownej (pelna tabela: 152774 wpisy).
+Zakres pakietu: 148574 polskich wpisow tabeli glownej (pelna tabela: 153042 wpisy).
 Sposob instalacji potwierdzono w grze 2026-10-11. Najnowsze teksty sa szkicami wymagajacymi redakcji; ten konkretny build nie zostal jeszcze sprawdzony w kliencie.
 
-Pierwsza instalacja: zamknij gre, uruchom INSTALUJ.cmd i wybierz katalog glowny gry.
-Aktualizacja dzialajacej wersji: zamknij gre, uruchom AKTUALIZUJ.cmd i wybierz katalog glowny gry. Poprzedni polski DAT zostanie zachowany.
+Wypakuj zawartosc tej paczki bezposrednio do glownego folderu gry (tego z Aion2 i Engine), zamknij gre i uruchom install.cmd. Skrypt przekazuje swoj folder jako sciezke klienta; nie otwiera okna wyboru.
+Aktualizacja: wypakuj nowe pliki paczki do tego samego folderu gry i uruchom update.cmd. Narzedzie nie porownuje wersji klienta z hashami paczki; przed podmiana zachowuje biezace archiwa i DAT w AION2-PL-LOOSE/history.
 W grze wybierz English i uruchom ja ponownie.
 Przywracanie: AION2-PL-LOOSE/PRZYWROC-ANGIELSKI.cmd w folderze gry.
 
-Instalator zachowuje cztery oryginalne pliki en-US i sprawdza SHA-256. Wycofuje aktywny zestaw jezykowy, pozostawia pusty PAK, a teksty instaluje jako Aion2/Content/L10N/Text/en-US/L10NString.dat. Aktualizacja odmawia nadpisania obcej zmiany.
+Instalator zachowuje cztery biezace pliki en-US, wycofuje aktywny zestaw jezykowy i pozostawia pusty PAK. Teksty instaluje jako Aion2/Content/L10N/Text/en-US/L10NString.dat. SHA-256 sprawdza kopie i DAT, nie wersje klienta.
 
 Pakiet dostarcza tabele glowna. SDK, oddzielne LOCRES i startup nie sa jeszcze osobno dostarczane. Audio, EXE, DLL i konfiguracja anti-cheat pozostaja niezmienione. Nie jest to osobny jezyk pl-PL w menu.
 

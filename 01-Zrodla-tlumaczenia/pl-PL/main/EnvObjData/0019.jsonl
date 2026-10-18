@@ -1,39 +1,45 @@
+{"id": "EnvObjData_E_PD_Barrier_A_06_Easy_interact_desc", "source": "Preparing for exploration...", "translation": "Przygotowania do eksploracji...", "status": "draft"}
+{"id": "EnvObjData_E_PD_Barrier_Challenge_01_desc", "source": "Common Veil_Transcendence 1", "translation": "Zwykła Zasłona_Transcendencja 1", "status": "draft"}
+{"id": "EnvObjData_E_PD_Barrier_Challenge_02_desc", "source": "Common Veil_Transcendence 2", "translation": "Zwykła Zasłona_Transcendencja 2", "status": "draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_01_001_desc", "source": "Azure Primeval Forest Waterfall", "translation": "Wodospad w Błękitnym Pradawnym Lesie", "status": "draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_02_001_desc", "source": "Azure Primeval Forest", "translation": "Lazurowy Pradawny Las", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_03_001_desc", "source": "Azure Primeval Forest Cliff", "translation": "Klif w Błękitnym Pradawnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_04_001_desc","source":"Mushroom Colony","translation":"Kolonia Grzybów","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_04_001_desc", "source": "Mushroom Colony", "translation": "Kolonia Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_05_001_desc", "source": "Mushroom Colony Floating Island", "translation": "Podniebna wyspa Kolonii Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_06_001_desc","source":"Moonlit Land","translation":"Księżycowa Kraina","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_06_001_desc", "source": "Moonlit Land", "translation": "Księżycowa Kraina", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Easy_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_01_001_desc", "source": "Azure Primeval Forest Waterfall", "translation": "Wodospad w Błękitnym Pradawnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_02_001_desc","source":"Azure Primeval Forest","translation":"Lazurowy Pradawny Las","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_02_001_desc", "source": "Azure Primeval Forest", "translation": "Lazurowy Pradawny Las", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_03_001_desc", "source": "Azure Primeval Forest Cliff", "translation": "Klif w Błękitnym Pradawnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_04_001_desc","source":"Mushroom Colony","translation":"Kolonia Grzybów","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_04_001_desc", "source": "Mushroom Colony", "translation": "Kolonia Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_05_001_desc", "source": "Mushroom Colony Floating Island", "translation": "Podniebna wyspa Kolonii Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_06_001_desc","source":"Moonlit Land","translation":"Księżycowa Kraina","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_06_001_desc", "source": "Moonlit Land", "translation": "Księżycowa Kraina", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Hard_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_01_001_desc", "source": "Azure Primeval Forest Waterfall", "translation": "Wodospad w Błękitnym Pradawnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_02_001_desc","source":"Azure Primeval Forest","translation":"Lazurowy Pradawny Las","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_02_001_desc", "source": "Azure Primeval Forest", "translation": "Lazurowy Pradawny Las", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_03_001_desc", "source": "Azure Primeval Forest Cliff", "translation": "Klif w Błękitnym Pradawnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_04_001_desc","source":"Mushroom Colony","translation":"Kolonia Grzybów","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_04_001_desc", "source": "Mushroom Colony", "translation": "Kolonia Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_05_001_desc", "source": "Mushroom Colony Floating Island", "translation": "Podniebna wyspa Kolonii Grzybów", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_06_001_desc","source":"Moonlit Land","translation":"Księżycowa Kraina","status":"draft"}
+{"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_06_001_desc", "source": "Moonlit Land", "translation": "Księżycowa Kraina", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_BlueBreathIsle_Normal_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
@@ -47,29 +53,29 @@
 {"id": "EnvObjData_E_PD_CommonExitPortal_001_interact_desc", "source": "Exiting...", "translation": "Opuszczanie...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_DrakanDevice_02_001_desc", "source": "Windstream Activation Device", "translation": "Urządzenie aktywujące strumień wiatru", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_DrakanDevice_02_001_desc", "source": "Windstream Activation Device", "translation": "Urządzenie aktywujące strumień wiatru", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_01_001_desc","source":"Floating Dimension","translation":"Pływający Wymiar","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_01_001_desc", "source": "Floating Dimension", "translation": "Pływający Wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_02_001_desc", "source": "Ruptured Dimension", "translation": "Rozerwany wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_03_001_desc","source":"Distorted Spiral","translation":"Zniekształcona Spirala","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_03_001_desc", "source": "Distorted Spiral", "translation": "Zniekształcona Spirala", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_04_001_desc","source":"Distorted Crystal Cave","translation":"Zniekształcona Kryształowa Jaskinia","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_04_001_desc", "source": "Distorted Crystal Cave", "translation": "Zniekształcona Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_05_001_desc","source":"Collapsed Cradle","translation":"Zawalona Kolebka","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_05_001_desc", "source": "Collapsed Cradle", "translation": "Zawalona Kolebka", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_06_001_desc", "source": "Dimensional Crystal Cave", "translation": "Wymiarowa Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Easy_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_01_001_desc","source":"Floating Dimension","translation":"Pływający Wymiar","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_01_001_desc", "source": "Floating Dimension", "translation": "Pływający Wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_02_001_desc", "source": "Ruptured Dimension", "translation": "Rozerwany wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_03_001_desc","source":"Distorted Spiral","translation":"Zniekształcona Spirala","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_03_001_desc", "source": "Distorted Spiral", "translation": "Zniekształcona Spirala", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_04_001_desc","source":"Distorted Crystal Cave","translation":"Zniekształcona Kryształowa Jaskinia","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_04_001_desc", "source": "Distorted Crystal Cave", "translation": "Zniekształcona Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_05_001_desc","source":"Collapsed Cradle","translation":"Zawalona Kolebka","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_05_001_desc", "source": "Collapsed Cradle", "translation": "Zawalona Kolebka", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_06_001_desc", "source": "Dimensional Crystal Cave", "translation": "Wymiarowa Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
@@ -77,15 +83,15 @@
 {"id": "EnvObjData_E_PD_CradleNihility_Hard_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Nor_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Nor_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_01_001_desc","source":"Floating Dimension","translation":"Pływający Wymiar","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_01_001_desc", "source": "Floating Dimension", "translation": "Pływający Wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_02_001_desc", "source": "Ruptured Dimension", "translation": "Rozerwany wymiar", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_03_001_desc","source":"Distorted Spiral","translation":"Zniekształcona Spirala","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_03_001_desc", "source": "Distorted Spiral", "translation": "Zniekształcona Spirala", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_04_001_desc","source":"Distorted Crystal Cave","translation":"Zniekształcona Kryształowa Jaskinia","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_04_001_desc", "source": "Distorted Crystal Cave", "translation": "Zniekształcona Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_05_001_desc","source":"Collapsed Cradle","translation":"Zawalona Kolebka","status":"draft"}
+{"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_05_001_desc", "source": "Collapsed Cradle", "translation": "Zawalona Kolebka", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_06_001_desc", "source": "Dimensional Crystal Cave", "translation": "Wymiarowa Kryształowa Jaskinia", "status": "draft"}
 {"id": "EnvObjData_E_PD_CradleNihility_Normal_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
@@ -99,11 +105,11 @@
 {"id": "EnvObjData_E_PD_DDN_SwimDash_01_desc", "source": "Sprint Droplet", "translation": "Kropla sprintu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_BrokenBoard_01_001_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_BrokenBoard_01_002_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_01_001_desc","source":"Hall of Indomitability","translation":"Sala Niezłomności","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_01_001_desc", "source": "Hall of Indomitability", "translation": "Sala Niezłomności", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_02_001_desc","source":"Tarnished Ramparts","translation":"Zmatowiałe Wały","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_02_001_desc", "source": "Tarnished Ramparts", "translation": "Zmatowiałe Wały", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_03_001_desc","source":"Execution's Crossing","translation":"Przeprawa Egzekucji","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_03_001_desc", "source": "Execution's Crossing", "translation": "Przeprawa Egzekucji", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_04_001_desc", "source": "Arena of Defiled Honor Exterior", "translation": "Zewnętrze Areny Zbezczeszczonego Honoru", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
@@ -117,11 +123,11 @@
 {"id": "EnvObjData_E_PD_DaevaCitadel_Easy_ZikelDoor_01_002_interact_desc", "source": "Opening the castle door...", "translation": "Otwieranie drzwi zamku...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_BrokenBoard_01_001_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_BrokenBoard_01_002_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_01_001_desc","source":"Hall of Indomitability","translation":"Sala Niezłomności","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_01_001_desc", "source": "Hall of Indomitability", "translation": "Sala Niezłomności", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_02_001_desc","source":"Tarnished Ramparts","translation":"Zmatowiałe Wały","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_02_001_desc", "source": "Tarnished Ramparts", "translation": "Zmatowiałe Wały", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_03_001_desc","source":"Execution's Crossing","translation":"Przeprawa Egzekucji","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_03_001_desc", "source": "Execution's Crossing", "translation": "Przeprawa Egzekucji", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_04_001_desc", "source": "Arena of Defiled Honor Exterior", "translation": "Zewnętrze Areny Zbezczeszczonego Honoru", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
@@ -135,11 +141,11 @@
 {"id": "EnvObjData_E_PD_DaevaCitadel_Hard_ZikelDoor_01_002_interact_desc", "source": "Opening the castle door...", "translation": "Otwieranie drzwi zamku...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_BrokenBoard_01_001_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_BrokenBoard_01_002_desc", "source": "Collapsing Bridge", "translation": "Walący się most", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_01_001_desc","source":"Hall of Indomitability","translation":"Sala Niezłomności","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_01_001_desc", "source": "Hall of Indomitability", "translation": "Sala Niezłomności", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_02_001_desc","source":"Tarnished Ramparts","translation":"Zmatowiałe Wały","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_02_001_desc", "source": "Tarnished Ramparts", "translation": "Zmatowiałe Wały", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_03_001_desc","source":"Execution's Crossing","translation":"Przeprawa Egzekucji","status":"draft"}
+{"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_03_001_desc", "source": "Execution's Crossing", "translation": "Przeprawa Egzekucji", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_04_001_desc", "source": "Arena of Defiled Honor Exterior", "translation": "Zewnętrze Areny Zbezczeszczonego Honoru", "status": "draft"}
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
@@ -153,98 +159,92 @@
 {"id": "EnvObjData_E_PD_DaevaCitadel_Normal_ZikelDoor_01_002_interact_desc", "source": "Opening the castle door...", "translation": "Otwieranie drzwi zamku...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNes_Pillar_01_desc", "source": "Pillar", "translation": "Filar", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNes_Pillar_02_desc", "source": "Pillar", "translation": "Filar", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_01_001_desc","source":"Dramata Underwater Cave","translation":"Podwodna Jaskinia Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_01_001_desc", "source": "Dramata Underwater Cave", "translation": "Podwodna Jaskinia Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_02_001_desc","source":"Dratona Hatchery","translation":"Wylęgarnia Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_02_001_desc", "source": "Dratona Hatchery", "translation": "Wylęgarnia Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_03_001_desc","source":"Dratona Breeding Ground","translation":"Legowisko Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_03_001_desc", "source": "Dratona Breeding Ground", "translation": "Legowisko Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_04_001_desc","source":"Dramata Valley","translation":"Dolina Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_04_001_desc", "source": "Dramata Valley", "translation": "Dolina Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_05_001_desc","source":"Dramata Valley Culvert","translation":"Kanał Doliny Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_05_001_desc", "source": "Dramata Valley Culvert", "translation": "Kanał Doliny Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_06_001_desc","source":"Durvati's Nest","translation":"Gniazdo Durvati","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_06_001_desc", "source": "Durvati's Nest", "translation": "Gniazdo Durvati", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Easy_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Grade_01_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Grade_01_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_01_001_desc","source":"Dramata Underwater Cave","translation":"Podwodna Jaskinia Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_01_001_desc", "source": "Dramata Underwater Cave", "translation": "Podwodna Jaskinia Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_02_001_desc","source":"Dratona Hatchery","translation":"Wylęgarnia Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_02_001_desc", "source": "Dratona Hatchery", "translation": "Wylęgarnia Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_03_001_desc","source":"Dratona Breeding Ground","translation":"Legowisko Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_03_001_desc", "source": "Dratona Breeding Ground", "translation": "Legowisko Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_04_001_desc","source":"Dramata Valley","translation":"Dolina Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_04_001_desc", "source": "Dramata Valley", "translation": "Dolina Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_05_001_desc","source":"Dramata Valley Culvert","translation":"Kanał Doliny Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_05_001_desc", "source": "Dramata Valley Culvert", "translation": "Kanał Doliny Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_06_001_desc","source":"Durvati's Nest","translation":"Gniazdo Durvati","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_06_001_desc", "source": "Durvati's Nest", "translation": "Gniazdo Durvati", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Hard_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Nor_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Nor_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_01_001_desc","source":"Dramata Underwater Cave","translation":"Podwodna Jaskinia Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_01_001_desc", "source": "Dramata Underwater Cave", "translation": "Podwodna Jaskinia Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_02_001_desc","source":"Dratona Hatchery","translation":"Wylęgarnia Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_02_001_desc", "source": "Dratona Hatchery", "translation": "Wylęgarnia Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_03_001_desc","source":"Dratona Breeding Ground","translation":"Legowisko Dratony","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_03_001_desc", "source": "Dratona Breeding Ground", "translation": "Legowisko Dratony", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_04_001_desc","source":"Dramata Valley","translation":"Dolina Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_04_001_desc", "source": "Dramata Valley", "translation": "Dolina Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_05_001_desc","source":"Dramata Valley Culvert","translation":"Kanał Doliny Dramaty","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_05_001_desc", "source": "Dramata Valley Culvert", "translation": "Kanał Doliny Dramaty", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_06_001_desc","source":"Durvati's Nest","translation":"Gniazdo Durvati","status":"draft"}
+{"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_06_001_desc", "source": "Durvati's Nest", "translation": "Gniazdo Durvati", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeadDramataNest_Normal_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_DynamicGround_Cylinder_01_desc", "source": "Falling Platform Gimmick_Round Plate", "translation": "Opadająca platforma_Round Plate", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_DynamicGround_ring_01_desc", "source": "Collapsing Floor Mechanism_Small Ring", "translation": "Mechanizm zapadającej się podłogi (mały pierścień)", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_DynamicGround_ring_02_desc", "source": "Collapsing Floor Mechanism_Large Ring", "translation": "Mechanizm zapadającej się podłogi (duży pierścień)", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_02_001_desc", "source": "Collapsed Sky Island", "translation": "Zawalona Podniebna Wyspa", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_03_001_desc", "source": "Pseudo-Odyle Workshop", "translation": "Warsztat Pseudo-Odylium", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_04_001_desc","source":"Deus Research Base Top Floor","translation":"Górne piętro Bazy Badawczej Deus","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_04_001_desc", "source": "Deus Research Base Top Floor", "translation": "Górne piętro Bazy Badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_Easy_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_02_001_desc", "source": "Collapsed Sky Island", "translation": "Zawalona Podniebna Wyspa", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_03_001_desc", "source": "Pseudo-Odyle Workshop", "translation": "Warsztat Pseudo-Odylium", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_04_001_desc","source":"Deus Research Base Top Floor","translation":"Górne piętro Bazy Badawczej Deus","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_04_001_desc", "source": "Deus Research Base Top Floor", "translation": "Górne piętro Bazy Badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_01_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_02_001_desc", "source": "Collapsed Sky Island", "translation": "Zawalona Podniebna Wyspa", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_03_001_desc", "source": "Pseudo-Odyle Workshop", "translation": "Warsztat Pseudo-Odylium", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_04_001_desc","source":"Deus Research Base Top Floor","translation":"Górne piętro Bazy Badawczej Deus","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_04_001_desc", "source": "Deus Research Base Top Floor", "translation": "Górne piętro Bazy Badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_02_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_02_001_desc", "source": "Collapsed Sky Island", "translation": "Zawalona Podniebna Wyspa", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_03_001_desc", "source": "Pseudo-Odyle Workshop", "translation": "Warsztat Pseudo-Odylium", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_04_001_desc","source":"Deus Research Base Top Floor","translation":"Górne piętro Bazy Badawczej Deus","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_04_001_desc", "source": "Deus Research Base Top Floor", "translation": "Górne piętro Bazy Badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_03_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_02_001_desc", "source": "Collapsed Sky Island", "translation": "Zawalona Podniebna Wyspa", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_03_001_desc", "source": "Pseudo-Odyle Workshop", "translation": "Warsztat Pseudo-Odylium", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_04_001_desc","source":"Deus Research Base Top Floor","translation":"Górne piętro Bazy Badawczej Deus","status":"draft"}
+{"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_04_001_desc", "source": "Deus Research Base Top Floor", "translation": "Górne piętro Bazy Badawczej Deus", "status": "draft"}
 {"id": "EnvObjData_E_PD_DeusCenter_G_04_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id": "EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_01_001_desc", "source": "Deus Research Base Entrance", "translation": "Wejście do bazy badawczej Deus", "status": "draft"}
-{"id": "EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_02_001_desc","source":"Collapsed Sky Island","translation":"Zawalona Podniebna Wyspa","status":"draft"}
-{"id": "EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_03_001_desc","source":"Pseudo-Odyle Workshop","translation":"Warsztat Pseudo-Odylium","status":"draft"}
-{"id": "EnvObjData_E_PD_DeusCenter_G_05_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}

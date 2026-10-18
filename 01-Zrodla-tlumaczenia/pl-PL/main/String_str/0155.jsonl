@@ -1,250 +1,250 @@
-{"id":"String_STR_SKILL_FirstChainSkill_body","source":"Opening Skill","translation":"Umiejętność otwierająca","status":"draft"}
-{"id":"String_STR_SKILL_SKILLINFO_RANGETYPE_AROUND_body","source":"near","translation":"w pobliżu","status":"draft"}
-{"id":"String_STR_SKILL_SKILLINFO_RANGETYPE_FORWARD_body","source":"in front of","translation":"przed","status":"draft"}
-{"id":"String_STR_SKILL_SKillPassiveType_body","source":"PASSIVE","translation":"BIERNA","status":"draft"}
-{"id":"String_STR_SKILL_SkillActiveType_body","source":"ACTIVE","translation":"AKTYWNA","status":"draft"}
-{"id":"String_STR_SKILL_TARGET_TYPE_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_STR_SKILL_Tooltip_TimeSettingDisable_body","source":"The skill will be used automatically immediately after the cooldown ends.","translation":"Umiejętność zostanie użyta automatycznie, gdy tylko zakończy się czas odnowienia.","status":"draft"}
-{"id":"String_STR_SKILL_Tooltip_TimeSettingEnable_body","source":"Once the cooldown ends, the skill will be automatically used after a set time.\nQuick slot auto-use must be enabled for the set time to apply.","translation":"Po zakończeniu czasu odnowienia umiejętność zostanie użyta automatycznie po określonym czasie.\nAby ustawić ten czas, włącz automatyczne używanie na szybkim slocie.","status":"draft"}
-{"id":"String_STR_STAT_NAME_PLUS_body","source":"{0}+{1}","translation":"","status":"pending"}
-{"id":"String_STR_STAT_PLUS_ENCHANT_body","source":"{0}(+{1})","translation":"","status":"pending"}
-{"id":"String_STR_STEAM_INIT_FAILED_body","source":"Failed to reset Steam account linking. Please check Steam's status and restart the game.","translation":"Nie udało się zresetować powiązania konta Steam. Sprawdź status Steam i uruchom grę ponownie.","status":"draft"}
-{"id":"String_STR_STORAGE_ACCESSORY_body","source":"Accessories","translation":"Akcesoria","status":"draft"}
-{"id":"String_STR_STORAGE_ARMOR_body","source":"Armor","translation":"Zbroje","status":"draft"}
-{"id":"String_STR_STORAGE_CONVERSION_body","source":"Substance Morph Material","translation":"Materiał do transmutacji substancji","status":"draft"}
-{"id":"String_STR_STORAGE_ENCHANTSTONE_body","source":"Enhance Stone","translation":"Kamień wzmocnienia","status":"draft"}
-{"id":"String_STR_STORAGE_FOOD_body","source":"Food","translation":"Jedzenie","status":"draft"}
-{"id":"String_STR_STORAGE_MAGICSTONE_body","source":"Manastone","translation":"Kamień many","status":"draft"}
-{"id":"String_STR_STORAGE_MATERIAL_body","source":"Crafting Materials","translation":"Materiały rzemieślnicze","status":"draft"}
-{"id":"String_STR_STORAGE_POTION_body","source":"Potions","translation":"Mikstury","status":"draft"}
-{"id":"String_STR_STORAGE_REFUND_body","source":"Valuables","translation":"Kosztowności","status":"draft"}
-{"id":"String_STR_STORAGE_SCROLL_body","source":"Scrolls","translation":"Zwoje","status":"draft"}
-{"id":"String_STR_STORAGE_WEAPON_body","source":"Weapons","translation":"Broń","status":"draft"}
-{"id":"String_STR_SUB_CATEGORY_FASHIONACCESSORY_body","source":"Props","translation":"Przedmioty","status":"draft"}
-{"id":"String_STR_SUB_CATEGORY_accessory_body","source":"Accessories","translation":"Akcesoria","status":"draft"}
-{"id":"String_STR_SUB_CATEGORY_armor_body","source":"Armor","translation":"Zbroje","status":"draft"}
-{"id":"String_STR_SUB_CATEGORY_weapon_body","source":"Weapons","translation":"Broń","status":"draft"}
-{"id":"String_STR_SUB_DRAGONGUARDCAPTAIN_body","source":"Balaur Guardian Lord","translation":"Władca Strażników Balaurów","status":"draft"}
-{"id":"String_STR_SUB_M_Awaken_006_01_Owlapri_01_body","source":"Anguish Wings","translation":"Skrzydła Udręki","status":"draft"}
-{"id":"String_STR_SUB_M_Dungeon_Awaken_005_01_Nua_01_V01_001_body","source":"Soul Reaper","translation":"Żniwiarz Dusz","status":"draft"}
-{"id":"String_STR_SUB_M_L0_Layer1_Bargot_01_body","source":"Daeva Janitor","translation":"Czyściciel Daevy","status":"draft"}
-{"id":"String_STR_SUB_M_NahidDisposalPlant_Bargot_01_body","source":"Waste Disposer","translation":"Utylizator odpadów","status":"draft"}
-{"id":"String_STR_SUB_M_Rakut_body","source":"Daeva Slaughterer","translation":"Rzeźnik Daevy","status":"draft"}
-{"id":"String_STR_SUB_M_RootCellar_Owltros_01_body","source":"Root Mythical Bird","translation":"Mityczny Ptak Korzenia","status":"draft"}
-{"id":"String_STR_SUB_M_Seal_Light_068_Boss_01_body","source":"Creion","translation":"Creion","status":"draft"}
-{"id":"String_STR_SUB_M_Seal_Light_069_GraveUn_02_001_body","source":"Fallen Life Daeva","translation":"Upadła Daewa Życia","status":"draft"}
-{"id":"String_STR_SUB_M_StrigikAltar_Owlac_01_body","source":"Aullaeu Guardian","translation":"Strażnik Aullaeu","status":"draft"}
-{"id":"String_STR_SUB_M_StrigikAltar_Owlapri_01_body","source":"Scarlotus Sacrifice","translation":"Ofiara Scarlotusa","status":"draft"}
-{"id":"String_STR_SUPPRESSION_OUT_BODY_body","source":"You are about to leave the Subjugation.\nOnce you leave, you may not rejoin.\nProceed?","translation":"Za chwilę opuścisz Podbój.\nPo wyjściu nie będzie można do niego wrócić.\nKontynuować?","status":"draft"}
-{"id":"String_STR_Scan_TargetFilter_Def_0_body","source":"Hunting","translation":"Polowanie","status":"draft"}
-{"id":"String_STR_Scan_TargetFilter_Def_1_body","source":"PvP","translation":"PvP","status":"draft"}
-{"id":"String_STR_Scan_TargetFilter_Def_2_body","source":"Gathering","translation":"Zbieractwo","status":"draft"}
-{"id":"String_STR_Scan_Target_AttackingMe_body","source":"Targets Attacking Me","translation":"Cele atakujące mnie","status":"draft"}
-{"id":"String_STR_Scan_Target_BossMonster_body","source":"Boss Monsters","translation":"Potwory-bossy","status":"draft"}
-{"id":"String_STR_Scan_Target_ENEMY_PLAYER_body","source":"Hostile Players","translation":"Wrodzy gracze","status":"draft"}
-{"id":"String_STR_Scan_Target_FRIENDLY_PLAYER_body","source":"Friendly Players","translation":"Sojuszniczy gracze","status":"draft"}
-{"id":"String_STR_Scan_Target_Gather_body","source":"Gatherable Material","translation":"Surowiec do zebrania","status":"draft"}
-{"id":"String_STR_Scan_Target_MYPARTY_body","source":"My Party Members","translation":"Członkowie mojej drużyny","status":"draft"}
-{"id":"String_STR_Scan_Target_MyLegion_body","source":"My Legion Members","translation":"Członkowie mojego Legionu","status":"draft"}
-{"id":"String_STR_Scan_Target_NormalMonster_body","source":"Normal Monsters","translation":"Zwykłe potwory","status":"draft"}
-{"id":"String_STR_SealDungeon_Out_Body_body","source":"You are about to leave the Sealed Dungeon.\nDungeon progress will be reset.\nProceed?","translation":"Za chwilę opuścisz Zapieczętowany loch.\nPostępy w lochu zostaną zresetowane.\nKontynuować?","status":"draft"}
-{"id":"String_STR_Seal_Stone_Num_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_A_Atk1_body","source":"Guardian Centurion Tribulation","translation":"Udręka Centuriona Strażników","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_A_Atk2_body","source":"Guardian Tribunus Tribulation","translation":"Udręka Tribunusa Strażników","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_A_Atk3_body","source":"Guardian High Commander Tribulation","translation":"Udręka Wielkiego Dowódcy Strażników","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_A_Atk4_body","source":"Guardian Decanus Tribulation","translation":"Udręka Dekanusa Strażników","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_A_Atk5_body","source":"Guardian Praetorian Captain Tribulation","translation":"Udręka Kapitana Pretorianów Strażników","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_D_Atk1_body","source":"Archon Centurion Tribulation","translation":"Udręka Centuriona Archontów","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_D_Atk2_body","source":"Archon Tribunus Tribulation","translation":"Udręka Tribunusa Archontów","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_D_Atk3_body","source":"Archon High Commander Tribulation","translation":"Udręka Wielkiego Dowódcy Archontów","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_D_Atk4_body","source":"Archon Decanus Tribulation","translation":"Udręka Dekanusa Archontów","status":"draft"}
-{"id":"String_STR_Set_Equip_Abyss_D_Atk5_body","source":"Archon Praetorian Captain Tribulation","translation":"Udręka Kapitana Pretorianów Archontów","status":"draft"}
-{"id":"String_STR_SleetOutpost_Subzone_body","source":"Sleet Outpost","translation":"Posterunek Śnieżycy","status":"draft"}
-{"id":"String_STR_SnowbreathOutpost_Subzone_body","source":"Frostwind Forward Base","translation":"Wysunięta Baza Mroźnego Wiatru","status":"draft"}
-{"id":"String_STR_SnowshadeHideout_Subzone_body","source":"Snowshade Hideout","translation":"Kryjówka Śnieżnego Cienia","status":"draft"}
-{"id":"String_STR_SocialAction_TargetPc_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_STR_SubZone_FE_Dilemma_body","source":"Shugo's Dilemma","translation":"Dylemat Shugo","status":"draft"}
-{"id":"String_STR_SubZone_FE_Pang_body","source":"Nyerk Shooter","translation":"Strzelanka Nyerk","status":"draft"}
-{"id":"String_STR_Sub_AR1_RiftBoss_01_body","source":"Rift Echo","translation":"Echo Szczeliny","status":"draft"}
-{"id":"String_STR_Sub_AR1_RiftBoss_02_body","source":"Conqueror of the Rift","translation":"Zdobywca Szczeliny","status":"draft"}
-{"id":"String_STR_Sub_AR4_30_Legion_body","source":"30th Division","translation":"30. Dywizja","status":"draft"}
-{"id":"String_STR_Sub_AR4_34_Legion_body","source":"34th Division","translation":"34. Dywizja","status":"draft"}
-{"id":"String_STR_Sub_AR4_38_Legion_body","source":"38th Division","translation":"38. Dywizja","status":"draft"}
-{"id":"String_STR_Sub_DawnLegion_Guard_body","source":"Dawn Legion","translation":"Legion Świtu","status":"draft"}
-{"id":"String_STR_Sub_E_D1_MorheimEnterAgitPortal_01_body","source":"Morheim Hall Teleportation Portal","translation":"Portal teleportacyjny do Sali Morheim","status":"draft"}
-{"id":"String_STR_Sub_E_D1_MorheimEnterPortal_01_body","source":"Morheim Teleportation Portal","translation":"Portal teleportacyjny Morheim","status":"draft"}
-{"id":"String_STR_Sub_E_D2_AltgardEnterAgitPortal_01_body","source":"Altgard Hall Teleportation Portal","translation":"Portal teleportacyjny do Sali Altgard","status":"draft"}
-{"id":"String_STR_Sub_E_D2_AltgardEnterPortal_01_body","source":"Altgard Teleportation Portal","translation":"Portal teleportacyjny Altgard","status":"draft"}
-{"id":"String_STR_Sub_E_L1_VerteronToEltnen_AgitPortal_body","source":"Eltnen Hall Teleportation Portal","translation":"Portal teleportacyjny do Sali Eltnen","status":"draft"}
-{"id":"String_STR_Sub_E_L1_VerteronToEltnen_Portal_body","source":"Eltnen Teleportation Portal","translation":"Portal teleportacyjny Eltnen","status":"draft"}
-{"id":"String_STR_Sub_E_L2_EltnenToVerteron_AgitPortal_body","source":"Verteron Hall Teleportation Portal","translation":"Portal teleportacyjny do Sali Verteron","status":"draft"}
-{"id":"String_STR_Sub_E_L2_EltnenToVerteron_Portal_body","source":"Verteron Teleportation Portal","translation":"Portal teleportacyjny Verteron","status":"draft"}
-{"id":"String_STR_Sub_M_AncientCenturion_Light_body","source":"Ancient Elyos Centurion","translation":"Starożytny Centurion Elyos","status":"draft"}
-{"id":"String_STR_Sub_M_Awaken_002_01_TasinB_body","source":"Fallen Tyrant","translation":"Upadły Tyran","status":"draft"}
-{"id":"String_STR_Sub_M_Awaken_004_DarkLeda_01_body","source":"Contained Calamity","translation":"Uwięziona Katastrofa","status":"draft"}
-{"id":"String_STR_Sub_M_PD_AbyssalHornCave_Ferk_01_V02_body","source":"Returned Exile","translation":"Powracający Wygnańcy","status":"draft"}
-{"id":"String_STR_Sub_M_PD_AbyssalHornCave_KalnifElite_01_V02_001_body","source":"Orphaned Watchdog","translation":"Osierocony Strażnik","status":"draft"}
-{"id":"String_STR_Sub_M_PD_AbyssalHornCave_Lycan_04_V01_001_body","source":"Grand Necromancer","translation":"Wielki Nekromanta","status":"draft"}
-{"id":"String_STR_Sub_M_PD_BakronIsland_Barkon_01_body","source":"Boulder Lord","translation":"Władca Głazów","status":"draft"}
-{"id":"String_STR_Sub_M_PD_BakronIsland_Tamon_01_body","source":"Island Warden","translation":"Strażnik Wyspy","status":"draft"}
-{"id":"String_STR_Sub_M_PD_BakronIsland_Tie_01_body","source":"Spirit Predator","translation":"Drapieżnik Duchów","status":"draft"}
-{"id":"String_STR_Sub_M_PD_CradleNihility_Bakarma_01_V01_001_body","source":"Untranscended","translation":"Nieprzemieniony","status":"draft"}
-{"id":"String_STR_Sub_M_PD_DeusCenter_Atiel_01_body","source":"Divine Test Subject","translation":"Boski Obiekt Testowy","status":"draft"}
-{"id":"String_STR_Sub_M_PD_DeusCenter_Gelcos_01_body","source":"Deus Research Base Guard Troopers Captain","translation":"Kapitan strażników Bazy Badawczej Deus","status":"draft"}
-{"id":"String_STR_Sub_M_PD_DeusCenter_Nazmun_01_body","source":"Deus Research Base Lab Director","translation":"Dyrektor laboratorium Bazy Badawczej Deus","status":"draft"}
-{"id":"String_STR_Sub_M_PD_MirrorHeart_EvSpirit_02_V01_001_body","source":"Robstin's Afterimage","translation":"Powidok Robstina","status":"draft"}
-{"id":"String_STR_Sub_M_PD_MirrorHeart_WraPrst_01_V01_001_body","source":"Rotan's Afterimage","translation":"Powidok Rotana","status":"draft"}
-{"id":"String_STR_Sub_M_PD_MusphelHolyGrail_AltKnife_07_V01_01_body","source":"Chalice Guardian","translation":"Strażnik Kielicha","status":"draft"}
-{"id":"String_STR_Sub_M_PD_MusphelHolyGrail_Ramu_01_V01_01_body","source":"Underground Scourge","translation":"Podziemna Plaga","status":"draft"}
-{"id":"String_STR_Sub_M_PD_PhantomsHall_Hiladr_01_V01_001_body","source":"Shattered Mirror","translation":"Rozbite Zwierciadło","status":"draft"}
-{"id":"String_STR_Sub_M_PD_PhantomsHall_Protect_01_V01_001_body","source":"Illusion Cavaliers","translation":"Rycerze Iluzji","status":"draft"}
-{"id":"String_STR_Sub_M_PD_PhantomsHall__DarkLeda_02_V01_001_body","source":"Refraction of Reda","translation":"Załamanie Redy","status":"draft"}
-{"id":"String_STR_Sub_N_Actor_body","source":"Performer","translation":"Wykonawca","status":"draft"}
-{"id":"String_STR_Sub_N_Adventurer_body","source":"Adventurer","translation":"Podróżnik","status":"draft"}
-{"id":"String_STR_Sub_N_ArchonOfDestruction_body","source":"Destruction Archons","translation":"Archonci Zniszczenia","status":"draft"}
-{"id":"String_STR_Sub_N_BlackClawApothecary_body","source":"Black Claw Apothecary","translation":"Aptekarz Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Sub_N_BlackClawPatrol_body","source":"Black Claw Patrol Watcher","translation":"Obserwator patrolu Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Sub_N_BlackClawSentry_body","source":"Black Claw Scout","translation":"Zwiadowca Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Sub_N_BlackClawShaman_body","source":"Black Claw Shaman","translation":"Szaman Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Sub_N_BlackClaw_body","source":"Black Claw Mau","translation":"Mau Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Sub_N_BlackCloudTraders_body","source":"Black Cloud Merchants","translation":"Kupcy Czarnej Chmury","status":"draft"}
-{"id":"String_STR_Sub_N_D1_Dragon01_Daeva_1_body","source":"Daeva Search Party","translation":"Oddział Poszukiwawczy Daevów","status":"draft"}
-{"id":"String_STR_Sub_N_D1_FQ_Benvolimong_01_body","source":"Host","translation":"Gospodarz","status":"draft"}
-{"id":"String_STR_Sub_N_D1_FQ_Benvolimong_body","source":"Romi's Friend","translation":"Przyjaciel Romi","status":"draft"}
-{"id":"String_STR_Sub_N_D1_FQ_Julykiki_body","source":"Bride","translation":"Panna młoda","status":"draft"}
-{"id":"String_STR_Sub_N_D1_FQ_Romirung_01_body","source":"Groom","translation":"Pan młody","status":"draft"}
-{"id":"String_STR_Sub_N_D1_FQ_Romirung_body","source":"Groom-to-Be","translation":"Przyszły pan młody","status":"draft"}
-{"id":"String_STR_Sub_N_DawnCabal_01_body","source":"Fallen Daybreak Society Member","translation":"Upadły członek Towarzystwa Świtu","status":"draft"}
-{"id":"String_STR_Sub_N_DawnCabal_body","source":"Daybreak Society","translation":"Stowarzyszenie Świtu","status":"draft"}
-{"id":"String_STR_Sub_N_Digger_body","source":"Graverobber","translation":"Rabuś grobów","status":"draft"}
-{"id":"String_STR_Sub_N_Embezzlement_body","source":"Wind Breeze Merchants Embezzler","translation":"Defraudant Kupców Wietrznej Bryzy","status":"draft"}
-{"id":"String_STR_Sub_N_Fugitive_body","source":"Fugitive","translation":"Zbieg","status":"draft"}
-{"id":"String_STR_Sub_N_Galond_body","source":"Mercenary Commander","translation":"Dowódca najemników","status":"draft"}
-{"id":"String_STR_Sub_N_Galondmercenary_body","source":"Garlond Mercenaries","translation":"Najemnicy Garlonda","status":"draft"}
-{"id":"String_STR_Sub_N_Grisilla_body","source":"Manifestation of the Sacred Tree","translation":"Ucieleśnienie Świętego Drzewa","status":"draft"}
-{"id":"String_STR_Sub_N_Hilsroter_01_body","source":"Marauders Commander","translation":"Dowódca rabusiów","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Garba_01_body","source":"Crematorium Manager","translation":"Zarządca krematorium","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Goregon_02_body","source":"Gambler","translation":"Hazardzista","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Marten_01_body","source":"Frightened Refugee","translation":"Przerażony uchodźca","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Revin_01_body","source":"Refugee Child","translation":"Dziecko uchodźcy","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Temer_01_body","source":"Nervous-Looking Daeva","translation":"Zdenerwowany daewa","status":"draft"}
-{"id":"String_STR_Sub_N_L1_Ullis_02_body","source":"Legion Trainee","translation":"Adept Legionu","status":"draft"}
-{"id":"String_STR_Sub_N_LagtaLegion_body","source":"Lagta Brigade","translation":"Brygada Lagty","status":"draft"}
-{"id":"String_STR_Sub_N_MuMuGuard_body","source":"Mumu Sentinel","translation":"Wartownik Mumu","status":"draft"}
-{"id":"String_STR_Sub_N_MuMuSupervisor_body","source":"Mumu Overseer","translation":"Nadzorca Mumu","status":"draft"}
-{"id":"String_STR_Sub_N_Nornir_body","source":"Nornir","translation":"Nornir","status":"draft"}
-{"id":"String_STR_Sub_N_OwlamusInferior_body","source":"Aulamus's Minion","translation":"Sługa Aulamusa","status":"draft"}
-{"id":"String_STR_Sub_N_PD_Common_M_ShulackB_01_001_body","source":"Shuliman Expedition","translation":"Wyprawa Shuliman","status":"draft"}
-{"id":"String_STR_Sub_N_PD_MusphelHolyGrail_GhostF_01_body","source":"Daeva of Flame","translation":"Daewa Płomienia","status":"draft"}
-{"id":"String_STR_Sub_N_Pedlar_body","source":"Vagabond Merchant","translation":"Wędrowny kupiec","status":"draft"}
-{"id":"String_STR_Sub_N_RuinsManager_body","source":"Ruins Administrator","translation":"Zarządca ruin","status":"draft"}
-{"id":"String_STR_Sub_N_SlaveWorker_body","source":"Laborer","translation":"Robotnik","status":"draft"}
-{"id":"String_STR_Sub_N_SteelHammer_body","source":"Steel Hammer Merchants","translation":"Kupcy Stalowego Młota","status":"draft"}
-{"id":"String_STR_Sub_N_Vendor_body","source":"Street Vendor","translation":"Uliczny sprzedawca","status":"draft"}
-{"id":"String_STR_Sub_NortosLegion_Guard_body","source":"Notos Legion Guard Troopers","translation":"Strażnicy Legionu Notos","status":"draft"}
-{"id":"String_STR_Sub_TreasureHunter_body","source":"Treasure Hunter","translation":"Łowca skarbów","status":"draft"}
-{"id":"String_STR_Subzone_AB1_BlackShardZone_body","source":"Eroded Black Fragments Area","translation":"Obszar Erodowanych Czarnych Fragmentów","status":"draft"}
-{"id":"String_STR_Subzone_AB1_DestroyedDebris_body","source":"Abandoned Devastated Remnants","translation":"Opuszczone Zniszczone Szczątki","status":"draft"}
-{"id":"String_STR_Subzone_AB1_PrimumLanding_body","source":"Rift Eastern Root Base","translation":"Baza Wschodniego Korzenia Szczeliny","status":"draft"}
-{"id":"String_STR_Subzone_AB1_RootsofReshanta_body","source":"Submerged Reshanta's Root","translation":"Zatopiony Korzeń Reshanty","status":"draft"}
-{"id":"String_STR_Subzone_AB1_SulfurTreeIsland_body","source":"Warped Sulfur Tree Island","translation":"Wypaczona Wyspa Siarkowego Drzewa","status":"draft"}
-{"id":"String_STR_Subzone_AB1_TeminonLanding_body","source":"Rift Western Root Base","translation":"Baza Zachodniego Korzenia Szczeliny","status":"draft"}
-{"id":"String_STR_Subzone_AB1_WingsofSielArchipelago_body","source":"Distorted Archipelago of Siel's Wings","translation":"Wypaczony Archipelag Skrzydeł Siel","status":"draft"}
-{"id":"String_STR_Subzone_AR3_BlackShardZone_Desc_body","source":"The southernmost region of Chaotic Middle Reshanta. Corroded metal wreckage scattered around the site denotes the presence of a fortress in the past.","translation":"Najbardziej na południe wysunięty obszarze Chaotycznej Środkowej Reshanty. Rozrzucone tu skorodowane metalowe szczątki wskazują, że niegdyś znajdowała się tu twierdza.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_BlackShardZone_body","source":"Eroded Fragment Area","translation":"Obszar Erodowanych Fragmentów","status":"draft"}
-{"id":"String_STR_Subzone_AR3_DestroyedDebris_Desc_body","source":"The northernmost region of Chaotic Middle Reshanta. The broken remains of giant mechanical soldiers used in the Last War lie abandoned here.","translation":"Najbardziej na północ wysunięty obszarze Chaotycznej Środkowej Reshanty. Leżą tu porzucone szczątki wielkich mechanicznych żołnierzy używanych podczas Ostatniej Wojny.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_DestroyedDebris_body","source":"Steel Titan's Grave","translation":"Grób Stalowego Tytana","status":"draft"}
-{"id":"String_STR_Subzone_AR3_PrimumLanding_Desc_body","source":"An <QK>eastern camp</> base located in the east of Chaotic Middle Reshanta.","translation":"Baza <QK>wschodniego obozu</> położona we wschodniej części Chaotycznej Środkowej Reshanty.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_PrimumLanding_body","source":"Latesran Eastern Ridge","translation":"Wschodnia Grań Latesran","status":"draft"}
-{"id":"String_STR_Subzone_AR3_RootsofReshanta_Desc_body","source":"A floating island located in the very center of Chaotic Middle Reshanta.","translation":"Latająca wyspa położona w samym centrum Chaotycznej Środkowej Reshanty.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_RootsofReshanta_body","source":"Corroded Heart","translation":"Skorodowane Serce","status":"draft"}
-{"id":"String_STR_Subzone_AR3_SulfurTreeIsland_Desc_body","source":"An area filled with dangerous creatures that have adapted to the thick sulfur contaminating the swamp.","translation":"Obszar zamieszkany przez niebezpieczne stworzenia, które przystosowały się do gęstej siarki zanieczyszczającej mokradła.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_SulfurTreeIsland_body","source":"Contaminated Marsh","translation":"Skażone Mokradła","status":"draft"}
-{"id":"String_STR_Subzone_AR3_TeminonLanding_Desc_body","source":"A <QK>western camp</> base located in the west of Chaotic Middle Reshanta.","translation":"Baza <QK>zachodniego obozu</> położona w zachodniej części Chaotycznej Środkowej Reshanty.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_TeminonLanding_body","source":"Latesran Western Ridge","translation":"Zachodnia Grań Latesran","status":"draft"}
-{"id":"String_STR_Subzone_AR3_WingsofSielArchipelago_Desc_body","source":"An area of old trees that twisted and mutated in order to survive in the Middle Abyss, where Odyle energy is scarce.","translation":"Obszar starych drzew, które poskręcały się i zmutowały, by przetrwać w Środkowej Otchłani, gdzie brakuje energii Odyle.","status":"draft"}
-{"id":"String_STR_Subzone_AR3_WingsofSielArchipelago_body","source":"Distorted Old Growth Forest","translation":"Wypaczony Starodrzew","status":"draft"}
-{"id":"String_STR_Subzone_AR4_BlackShardZone_01_Desc_body","source":"The southern of two floating islands bearing the scars of a Dredgion crash.","translation":"Południowa z dwóch latających wysp noszących ślady katastrofy Dredgionu.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_BlackShardZone_01_body","source":"Fractured Southern Crash Site","translation":"Spękane Południowe Miejsce Katastrofy","status":"draft"}
-{"id":"String_STR_Subzone_AR4_BlackShardZone_02_Desc_body","source":"The northern of two floating islands bearing the scars of a Dredgion crash.","translation":"Północna z dwóch latających wysp noszących ślady katastrofy Dredgionu.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_BlackShardZone_02_body","source":"Fractured Northern Crash Site","translation":"Spękane Północne Miejsce Katastrofy","status":"draft"}
-{"id":"String_STR_Subzone_AR4_DestroyedDebris_01_Desc_body","source":"A powerful impact split the floating island that once housed the fortress into two. This is the northern island.","translation":"Potężne uderzenie rozdzieliło na dwie części latającą wyspę, na której stała niegdyś twierdza. To jej północna część.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_DestroyedDebris_01_body","source":"La Miren Fortress Northern Remnants","translation":"Północne Szczątki Twierdzy La Miren","status":"draft"}
-{"id":"String_STR_Subzone_AR4_DestroyedDebris_02_Desc_body","source":"A powerful impact split the floating island that once housed the fortress into two. This is the southern island.","translation":"Potężne uderzenie rozdzieliło na dwie części latającą wyspę, na której stała niegdyś twierdza. To jej południowa część.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_DestroyedDebris_02_body","source":"La Miren Fortress Southern Remnants","translation":"Południowe Szczątki Twierdzy La Miren","status":"draft"}
-{"id":"String_STR_Subzone_AR4_PrimumLanding_Desc_body","source":"A <QK>northern camp</> base located in the south of Chaotic Upper Reshanta.","translation":"Baza <QK>północnego obozu</> położona na południu Chaotic Upper Reshanta.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_PrimumLanding_body","source":"Krotan Fortress","translation":"Twierdza Krotan","status":"draft"}
-{"id":"String_STR_Subzone_AR4_SulfurTreeIsland_Desc_body","source":"A sky island covered in twisted thorn trees that are corrupted by Drana. Its symbolic position at the center of the upper layer has earned it the name of <QK>Red Thorn Crown Isle</>.","translation":"Latająca wyspa porośnięta poskręcanymi, skażonymi Draną cierniowymi drzewami. Jej położenie w centrum górnej warstwy przyniosło jej miano <QK>Wyspy Korony Czerwonych Cierni</>.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_SulfurTreeIsland_body","source":"Red Thorn Crown Isle","translation":"Wyspa Korony Czerwonych Cierni","status":"draft"}
-{"id":"String_STR_Subzone_AR4_TeminonLanding_Desc_body","source":"A <QK>southern camp</> base located in the south of Chaotic Upper Reshanta.","translation":"Baza <QK>południowego obozu</> położona na południu Chaotic Upper Reshanta.","status":"draft"}
-{"id":"String_STR_Subzone_AR4_TeminonLanding_body","source":"Dukysas Fortress","translation":"Twierdza Dukysas","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedCamp_Desc_body","source":"A base built with the remnants of the old ruins, located at the entrance to Uruthumheim from Moslan Forest.","translation":"Baza wzniesiona z pozostałości dawnych ruin, położona przy wejściu do Uruthumheim od strony Lasu Moslan.","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedCamp_body","source":"Abandoned Site","translation":"Opuszczone Miejsce","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedCampsite_Desc_body","source":"A campsite used by the Shulak, until they abandoned it as the Blades increased their presence in the area. It is now home to surviving members of legions destroyed by the Blades.","translation":"Obozowisko używane przez Shulaków, porzucone, gdy Ostrza zwiększyły swoją obecność w okolicy. Teraz mieszkają tu ocalali członkowie legionów zniszczonych przez Ostrza.","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedCampsite_body","source":"Abandoned Campsite","translation":"Opuszczony Obóz","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedRuins_01_body","source":"Abandoned Ruins","translation":"Opuszczone Ruiny","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedWindBreezeOffice_Desc_body","source":"An outpost briefly used by the Dawn Legion in the past.\nIt is currently abandoned and no longer in use.","translation":"Posterunek niegdyś przez krótki czas używany przez Legion Świtu.\nObecnie jest opuszczony i nieużywany.","status":"draft"}
-{"id":"String_STR_Subzone_AbandonedWindBreezeOffice_body","source":"Abandoned Wind Breeze Office","translation":"Opuszczona Placówka Wietrznego Powiewu","status":"draft"}
-{"id":"String_STR_Subzone_AgaironMine_body","source":"Agairon Quarry","translation":"Kamieniołom Agairon","status":"draft"}
-{"id":"String_STR_Subzone_AlertGuardPost_Desc_body","source":"A place where the soldiers of the Zumion Temple gathered during the battle against Meslamtaeda and the Balaur. Now destroyed, the area contains only ruins and the roaming, vengeful spirits of ancient Daeva warriors who died in the war. Notos Legionnaires have gathered to investigate the site and keep watch for any threatening spirits.","translation":"Miejsce, w którym żołnierze Zumion Temple zbierali się podczas walki z Meslamtaedą i Balaurami. Zostało zniszczone; pozostały tu tylko ruiny oraz mściwe duchy dawnych wojowników daewów poległych na wojnie. Legioniści Notos zgromadzili się tu, by zbadać teren i wypatrywać niebezpiecznych duchów.","status":"draft"}
-{"id":"String_STR_Subzone_AlertGuardPost_body","source":"Alert Observation Post","translation":"Posterunek Obserwacyjny","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaCanyon_CanyonTheivesDen_Desc_body","source":"A group of bandits have set up camp at the bottom of Altamia Canyon after the illusionary enchantment that protected Zumion Village and the canyon was removed. Aware of the patrol schedule of the Notos Legion, they time their raids on Zumion Village carefully.","translation":"Grupa bandytów rozbiła obóz u podnóża Kanionu Altamia po usunięciu iluzorycznego zaklęcia chroniącego Wioskę Zumion i kanion. Znając harmonogram patroli Legionu Notos, starannie planują napady na Wioskę Zumion.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighlandSouthern_CanyonPlateauCamp_Desc_body","source":"A campsite located on the edge of the Southern Altamia Highland, where Notos Legion guards are stationed.","translation":"Obozowisko na skraju Południowa Wyżyna Altamia, w którym stacjonują strażnicy Legionu Notos.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighlandSouthern_CanyonPlateauCamp_body","source":"Highland's End Campsite","translation":"Obóz na Krańcu Wyżyny","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_BeastHunteCampsite_Desc_body","source":"A rest area for hunters. They hunt the nearby beasts and animals to make a living. Some hunters also trade fresh beast bones and skins here.","translation":"Miejsce odpoczynku łowców, którzy utrzymują się z polowania na okoliczne bestie i zwierzęta. Niektórzy sprzedają tu również świeże kości i skóry.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_BeastHunteCampsite_body","source":"Beast Hunter Campsite","translation":"Obóz Łowców Bestii","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Eastern_Desc_body","source":"The elevated areas of the western highlands and canyon region surrounding Zumion Village. Includes the former site of Zumion Temple and the area contaminated by the poison of Meslamtaeda.","translation":"Wyżynne tereny na zachodzie i kanion otaczający Wioskę Zumion. Obejmują dawną lokalizację Zumion Temple oraz obszar skażony trucizną Meslamtaedy.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Eastern_body","source":"Eastern Altamia Highland","translation":"Wschodnia Wyżyna Altamia","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Southern_Desc_body","source":"A plateau in the highland and canyon region of eastern Verteron, including the former site of Zumion Temple and the area contaminated by the poison of Meslamtaeda.","translation":"Płaskowyż w wyżynnym i kanionowym regionie wschodniego Verteron, obejmujący dawną lokalizację Zumion Temple oraz obszar skażony trucizną Meslamtaedy.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Southern_body","source":"Southern Altamia Highland","translation":"Południowa Wyżyna Altamia","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Western_Desc_body","source":"The elevated areas of the western highlands and canyon region surrounding Zumion Village. Rock Tomb Hill and vast grasslands stretch across the area.","translation":"Wyżynne tereny na zachodzie i kanion otaczający Wioskę Zumion. Rozciągają się tu Rock Tomb Hill i rozległe łąki.","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_Western_body","source":"Western Altamia Highland","translation":"Zachodnia Wyżyna Altamia","status":"draft"}
-{"id":"String_STR_Subzone_AltamiaHighland_body","source":"Altamia Highland","translation":"Wyżyna Altamia","status":"draft"}
-{"id":"String_STR_Subzone_Altamiacanyon_Desc_body","source":"A canyon in eastern Verteron. Legend has it that the canyon's intricate and majestic terrain was formed under the influence of Etheria and the Spirit King. The area is monitored closely by the Notos Legion.","translation":"Kanion we wschodnim Verteron. Według legendy jego zawiły i majestatyczny krajobraz powstał pod wpływem Etherii i Króla Duchów. Teren jest pilnie obserwowany przez Legion Notos.","status":"draft"}
-{"id":"String_STR_Subzone_Altamiacanyon_body","source":"Altamia Canyon","translation":"Kanion Altamia","status":"draft"}
-{"id":"String_STR_Subzone_AltarofPurification_body","source":"Purifying Altar","translation":"Ołtarz Oczyszczenia","status":"draft"}
-{"id":"String_STR_Subzone_AltgardFortressRuin_Q1_body","source":"Fortress Soul Absorber","translation":"Pochłaniacz Dusz Twierdzy","status":"draft"}
-{"id":"String_STR_Subzone_AltgardFortressRuin_body","source":"Altgard Fortress Ruins","translation":"Ruiny Twierdzy Altgard","status":"draft"}
-{"id":"String_STR_Subzone_AmuntasHideout_Desc_body","source":"The hideout of Ritualist Amunta who was exiled from Black Claw Village. In the past, there were many crates of supplies for the Daybreak Society, but now they have been looted and are empty.","translation":"Kryjówka rytualisty Amunty wygnanego z Wioski Czarnego Pazura. Niegdyś stały tu liczne skrzynie z zaopatrzeniem Towarzystwa Świtu, lecz zostały splądrowane i są puste.","status":"draft"}
-{"id":"String_STR_Subzone_AmuntasHideout_body","source":"Amunta's Hideout","translation":"Kryjówka Amunty","status":"draft"}
-{"id":"String_STR_Subzone_AnathePlains_body","source":"Anathe Plains","translation":"Równiny Anathe","status":"draft"}
-{"id":"String_STR_Subzone_AncientCityRuA_Desc_body","source":"A Garzykan fort located in the northwest of Chaotic Middle Reshanta.\n\nIn the aftermath of the Last War, the space comprising Reshanta began to warp, causing a number of the floating islands that had been part of the Ancient City of Ru—located on the upper layer of Reshanta—to be sucked downward by the gravitational pull of the Latesran Roots, until they formed a new, middle layer.\n\nThis displacement largely destroyed Garzykan Observatory, and it now comprises three floating islands connected by bridges with a massive wall encircling their outer perimeter.","translation":"Twierdza Garzykanów położona w północno-zachodniej części Chaotycznej Środkowej Reshanty.\n\nPo Ostatniej Wojnie przestrzeń Reshanty zaczęła się wypaczać. Przyciąganie korzeni Latesran ściągnęło w dół część latających wysp należących do Ancient City of Ru na górnej warstwie Reshanty, tworząc nową, środkową warstwę.\n\nW wyniku tego przemieszczenia Garzykan Observatory zostało w dużej mierze zniszczone. Obecnie składa się z trzech latających wysp połączonych mostami i otoczonych potężnym murem.","status":"draft"}
-{"id":"String_STR_Subzone_AncientCityRuB_Desc_body","source":"An underground temple located in the center of the Chaotic Middle Reshanta.\n\nIn the aftermath of the Last War, the space comprising Reshanta began to warp, causing a number of the floating islands that had been part of the Ancient City of Ru—located on the upper layer of Reshanta—to be sucked downward by the gravitational pull of the Latesran Roots, until they formed a new, middle layer.\n\nThis displacement largely destroyed the Underground Temple, resulting in its current exposed state that renders its name somewhat meaningless.","translation":"Podziemna świątynia w samym centrum Chaotycznej Środkowej Reshanty.\n\nPo Ostatniej Wojnie przestrzeń Reshanty zaczęła się wypaczać. Przyciąganie korzeni Latesran ściągnęło w dół część latających wysp należących do Ancient City of Ru na górnej warstwie Reshanty, tworząc nową, środkową warstwę.\n\nW wyniku tego przemieszczenia Underground Temple zostało w dużej mierze zniszczone i jest teraz odsłonięte, przez co jego nazwa nieco straciła sens.","status":"draft"}
-{"id":"String_STR_Subzone_AncientCityRuC_Desc_body","source":"A Garzykan fort located in the southeast of Chaotic Middle Reshanta.\n\nIn the aftermath of the Last War, the space comprising Reshanta began to warp, causing a number of the floating islands that had been part of the Ancient City of Ru—located on the upper layer of Reshanta—to be sucked downward by the gravitational pull of the Latesran Roots, until they formed a new, middle layer.\n\nThis displacement largely destroyed Garzykan Fortress, and it now comprises three floating islands connected by bridges with a massive wall encircling their outer perimeter.","translation":"Twierdza Garzykanów położona w południowo-wschodniej części Chaotycznej Środkowej Reshanty.\n\nPo Ostatniej Wojnie przestrzeń Reshanty zaczęła się wypaczać. Przyciąganie korzeni Latesran ściągnęło w dół część latających wysp należących do Ancient City of Ru na górnej warstwie Reshanty, tworząc nową, środkową warstwę.\n\nW wyniku tego przemieszczenia Garzykan Fortress zostało w dużej mierze zniszczone. Obecnie składa się z trzech latających wysp połączonych mostami i otoczonych potężnym murem.","status":"draft"}
-{"id":"String_STR_Subzone_AncientSands_body","source":"Ancient Sand Hill","translation":"Starożytne Wzgórze Piasków","status":"draft"}
-{"id":"String_STR_Subzone_AncientZumionTempleSite_Desc_body","source":"The site of a temple was built to honor Zumion, the first Daeva, when AION was whole and Elysea and Asmodae were one. It was blessed by AION and flourished as a holy place for many years, but fell into ruin after the war.","translation":"Świątynię wzniesiono ku czci Zumiona, pierwszego daewy, gdy AION był jeszcze cały, a Elysea i Asmodae stanowiły jedność. Pobłogosławione przez AION miejsce przez wiele lat rozkwitało jako święte, lecz po wojnie popadło w ruinę.","status":"draft"}
-{"id":"String_STR_Subzone_AncientZumionTempleSite_body","source":"Ancient Zumion Temple Site","translation":"Miejsce Starożytnej Świątyni Zumion","status":"draft"}
-{"id":"String_STR_Subzone_ArdusShrineEntrance_body","source":"Ardus Shrine Entrance","translation":"Wejście do Świątyni Ardus","status":"draft"}
-{"id":"String_STR_Subzone_ArtifactDungeon_body","source":"Abyss Corridor","translation":"Korytarz Otchłani","status":"draft"}
-{"id":"String_STR_Subzone_AstinCompanyCamp_Desc_body","source":"A base of the Astin Mercenaries, operating in Tolbas Forest. Though comprised only of humans, they pride themselves on skills that they feel put them on par with any company of Daeva. They are often hired by the Wind Breeze Merchants.","translation":"Baza Astin Mercenaries działających w Lesie Tolbas. Choć w ich szeregach są wyłącznie ludzie, szczycą się umiejętnościami, które ich zdaniem dorównują każdej kompanii daewów. Często wynajmują ich Wind Breeze Merchants.","status":"draft"}
-{"id":"String_STR_Subzone_AstinCompanyCamp_body","source":"Astin Mercenaries Base","translation":"Baza Najemników Astin","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_1_body","source":"Sky Plains","translation":"Podniebne Równiny","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_2_body","source":"Boulder Islands","translation":"Wyspy Głazów","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_3_body","source":"Thamon Island","translation":"Wyspa Thamon","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_4_body","source":"Spirit Altar","translation":"Ołtarz Duchów","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_5_body","source":"Vakron Sky Island","translation":"Podniebna Wyspa Vakron","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_6_body","source":"Tiere's Nest","translation":"Gniazdo Tiere's","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_7_body","source":"Thamon's Area","translation":"Obszar Thamon's","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_8_body","source":"Islands Windstream","translation":"Strumień wiatru na wyspach","status":"draft"}
-{"id":"String_STR_Subzone_BakronIsland_9_body","source":"Islands Windstream","translation":"Strumień wiatru na wyspach","status":"draft"}
-{"id":"String_STR_Subzone_BalaurBattleBase_CalderonHill_body","source":"Calderon Hill Balaur Base","translation":"Baza Balaurów na Wzgórzu Calderon","status":"draft"}
-{"id":"String_STR_Subzone_BarracksWarehouse_body","source":"Barracks Storage","translation":"Magazyn Koszar","status":"draft"}
-{"id":"String_STR_Subzone_BasfeltRuins_Desc_body","source":"This place was once a village of loggers and hunters until it was largely destroyed by the Balaur. Now it is overgrown bush, and the terrain where the Balaur bombardment was concentrated is pitted and twisted, leaving only the shattered ruins of Zikel's Temple.","translation":"Dawniej znajdowała się tu osada drwali i łowców, lecz Balaurzy w większości ją zniszczyli. Teren zarósł krzewami, a miejsce najcięższego bombardowania jest podziurawione i wypaczone; pozostały jedynie roztrzaskane ruiny Świątyni Zikela.","status":"draft"}
-{"id":"String_STR_Subzone_BasfeltRuins_body","source":"Basfelt Ruins","translation":"Ruiny Basfelt","status":"draft"}
-{"id":"String_STR_Subzone_BasfeltWaterfall_Desc_body","source":"A small base naturally formed around a waterfall as more and more people move in and out of the area. Refugees, grave robbers and relic seekers travelling to and from the Basfelt Ruins.","translation":"Niewielka baza, która powstała przy wodospadzie, gdy coraz więcej osób zaczęło przewijać się przez okolicę. Zatrzymują się tu uchodźcy, rabusie grobów i poszukiwacze reliktów podróżujący do Ruin Basfelt i z powrotem.","status":"draft"}
-{"id":"String_STR_Subzone_BasfeltWaterfall_body","source":"Basfelt Waterfall","translation":"Wodospad Basfelt","status":"draft"}
-{"id":"String_STR_Subzone_BeachOutpost_Desc_body","source":"A temporary camp built by the Dawn Legion on the coastal side of Cantas Valley. Dawn legionnaires searching for the Odyle in Cantas Valley built this camp to facilitate investigating the coastal cave.","translation":"Tymczasowy obóz zbudowany przez Legion Świtu na wybrzeżu Doliny Cantas. Legioniści poszukujący Odyle w Dolinie Cantas założyli go, by ułatwić badanie nadmorskiej jaskini.","status":"draft"}
-{"id":"String_STR_Subzone_BeachOutpost_body","source":"Coastal Camp","translation":"Obóz Nadbrzeżny","status":"draft"}
-{"id":"String_STR_Subzone_BellnithsCampsite_Desc_body","source":"A temporary campsite once used by the Dawn Legion while assisting with the restoration of the Barrier Tower.\nIt is no longer in use, as the Legion is no longer involved in the restoration.","translation":"Tymczasowe obozowisko, z którego Legion Świtu korzystał podczas pomocy przy odbudowie Wieży Barierowej.\nNie jest już używane, ponieważ Legion nie uczestniczy w odbudowie.","status":"draft"}
-{"id":"String_STR_Subzone_BellnithsCampsite_body","source":"Marsh Legion Campsite","translation":"Obóz Legionu na Mokradłach","status":"draft"}
-{"id":"String_STR_Subzone_BlackClawVillage_Desc_body","source":"The village of the Black Claw Tribe, Mau minions of the Balaur. As soon as the Black Claw Tribe experienced the power of Fafnite, they disavowed their ancestors and swore allegiance to the Balaur in pursuit of ever-greater power.","translation":"Wioska plemienia Black Claw, Mau służących Balaurům. Gdy plemię poznało moc Fafnitu, wyrzekło się przodków i przysięgło wierność Balaurům, pragnąc zdobywać coraz większą potęgę.","status":"draft"}
-{"id":"String_STR_Subzone_BlackClawVillage_Q1_body","source":"Black Claw Commander Quarters","translation":"Kwatera Dowódcy Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Subzone_BlackClawVillage_body","source":"Black Claw Village","translation":"Wioska Czarnego Pazura","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_A_body","source":"Black Fragments Area - Kration Conflict Zone","translation":"Obszar Czarnych Fragmentów — Strefa konfliktu Kration","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_B_body","source":"Black Fragments Area - Lonely Island","translation":"Obszar Czarnych Fragmentów — Samotna Wyspa","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_C_body","source":"Black Fragments Area - Kibelium Fragment","translation":"Obszar Czarnych Fragmentów – Fragment Kibelium","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_D_body","source":"Black Fragments Area - Abandoned Island","translation":"Obszar Czarnych Fragmentów — Opuszczona Wyspa","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_Desc_body","source":"An area of floating rocks or remains of fortresses destroyed in the Last War. It is the closest area to the eastern camp base and is relatively easy to access from the base by gliding.","translation":"Obszar pływających skał i pozostałości twierdz zniszczonych podczas Ostatniej Wojny. Leży najbliżej bazy wschodniego obozu i można do niego łatwo dolecieć lotnią.","status":"draft"}
-{"id":"String_STR_Subzone_BlackShardZone_body","source":"Black Fragments Area","translation":"Obszar Czarnych Fragmentów","status":"draft"}
-{"id":"String_STR_Subzone_BloodBladeCamp_body","source":"Blades Campsite","translation":"Obóz Ostrzy","status":"draft"}
-{"id":"String_STR_Subzone_BlueSandDesert_body","source":"Blue Sand Desert","translation":"Błękitna Pustynia","status":"draft"}
+{"id": "String_STR_RULE_DESC_FE_DILEMMA_body", "source": "+ Gather on the platform with the exact number of players shown.\n+ Platforms with higher numbers award more points.\n+ Players who fail to match the required number on a platform lose points.\n+ Collect Odyle Drops to earn bonus points.", "translation": "+ Zbierz się na platformie w liczbie wskazanej na jej oznaczeniu.\n+ Platformy z wyższymi numerami dają więcej punktów.\n+ Gracze, którzy nie dopasują liczby osób, tracą punkty.\n+ Zbieraj krople Odyle, aby zdobywać dodatkowe punkty.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_HIGHHIGH_body", "source": "+ You have been transformed into a Gravi and dropped into a special realm of moving platforms.\n+ Use your jumping ability to climb ever higher and reach the greatest height possible.\n+ Your rank is determined by the checkpoints you reach and the remaining distance to the next checkpoint.\n+ Reach the first checkpoint to become eligible for rewards.\n+ Keyboard controls are recommended.", "translation": "+ Zmieniono cię w Gravi i przeniesiono do specjalnej krainy ruchomych platform.\n+ Wykorzystuj skoki, by wspinać się coraz wyżej i osiągnąć jak największą wysokość.\n+ O randze decydują osiągnięte punkty kontrolne i odległość od kolejnego.\n+ Dotrzyj do pierwszego punktu kontrolnego, aby móc otrzymać nagrody.\n+ Zalecamy sterowanie klawiaturą.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_INVASION_body", "source": "Dimensional Invasion rules are not explained.", "translation": "Zasady Inwazji Wymiarowej nie zostały opisane.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_JUMPJUMP_body", "source": "+ Dodge the lasers and collect the festival balloons!\n+ Earn points for every balloon you collect.\n+ Watch out! Touching a laser will cost you points.", "translation": "+ Unikaj laserów i zbieraj festiwalowe balony!\n+ Otrzymujesz punkty za każdy zebrany balon.\n+ Uważaj! Dotknięcie lasera odejmuje punkty.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_LUGGI_body", "source": "+ Players are transformed into either a Shugo or a Lugi.\n+ Lugi earn points by collecting Odyle Drops, but must avoid being discovered by any Shugo!\n+ Shugo must find the disguised Lugi to earn a large number of points.", "translation": "+ Gracze zostają przemienieni w Shugo albo Lugi.\n+ Lugi zdobywają punkty, zbierając krople Odyle, ale nie mogą dać się wykryć żadnemu Shugo!\n+ Shugo muszą odnaleźć przebranych Lugi, by zdobyć wiele punktów.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_ODBUBBLE_body", "source": "+ How many points can you earn with your flying skills?\n+ Use your flying skills to collect as many Odyle Drops as possible before time runs out.\n+ Fly through acceleration rings to boost your speed and restore your Flight Power.", "translation": "+ Ile punktów zdobędziesz dzięki umiejętnościom latania?\n+ Zbieraj jak najwięcej kropli Odyle, zanim upłynie czas.\n+ Przelatuj przez pierścienie przyspieszenia, aby zwiększyć prędkość i odnowić Moc Lotu.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_PANG_body", "source": "+ Destroy the falling Pangs.\n+ Jump to evade the Rotan whenever it appears.\n+ Once the game begins, your camera will be locked to a fixed point of view.", "translation": "+ Zniszcz spadające Pangi.\n+ Gdy pojawi się Rotan, skacz, aby uniknąć trafienia.\n+ Po rozpoczęciu gry kamera zostanie zablokowana w stałym położeniu.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_RACING_body", "source": "+ Mount your pets and race to the finish line as quickly as possible!\n+ Avoid obstacles in your path and outpace your opponents to take the lead.\n+ Collect items along the track to gain powerful boosts!", "translation": "+ Wsiądź na wierzchowca i jak najszybciej dotrzyj do mety!\n+ Omijaj przeszkody i wyprzedzaj rywali, aby objąć prowadzenie.\n+ Zbieraj przedmioty na trasie, by otrzymać potężne premie!", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_SPECTER_body", "source": "+ Evade the wraiths and collect Odyle Drops.\n+ Getting caught by a wraith will transform you into one, preventing you from collecting Odyle Drops.\n+ However, you can break free from wraith form by turning another Daeva into a wraith.", "translation": "+ Unikaj upiorów i zbieraj krople Odyle.\n+ Schwytanie przez upiora przemieni cię w jednego z nich i uniemożliwi zbieranie kropli Odyle.\n+ Możesz jednak uwolnić się od tej postaci, przemieniając innego daewę w upiora.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_SPIRIT_body", "source": "Dimensional Invasion rules are not explained.", "translation": "Zasady Inwazji Wymiarowej nie zostały opisane.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_STICKERSHOOTER_body", "source": "Sticker Shooter Rule Explanation", "translation": "Zasady Strzelanki Naklejkowej", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_TRAPBOARD_body", "source": "+ Test your memory skills.\n+ Memorize the colors and paths of the tiles while they are briefly revealed, then locate them again.\n+ Your ranking is based on your total score across 8 rounds.", "translation": "+ Sprawdź swoją pamięć.\n+ Zapamiętaj kolory i układ pól, gdy zostaną na chwilę odsłonięte, a potem odnajdź je ponownie.\n+ O miejscu w rankingu decyduje łączny wynik z 8 rund.", "status": "draft"}
+{"id": "String_STR_RULE_DESC_FE_TREASURE_body", "source": "+ Find as many treasure chests as possible within the time limit.\n+ Earn points by collecting the treasures inside each chest.\n+ Watch for light beams that indicate nearby treasure chest locations.", "translation": "+ W wyznaczonym czasie znajdź jak najwięcej skrzyń ze skarbami.\n+ Zdobywaj punkty, zbierając skarby z każdej skrzyni.\n+ Wypatruj wiązek światła wskazujących pobliskie skrzynie ze skarbami.", "status": "draft"}
+{"id": "String_STR_Ranger_Skill017_Trap_body", "source": "Explosion Trap", "translation": "Pułapka wybuchowa", "status": "draft"}
+{"id": "String_STR_Ranger_Skill018_Trap_body", "source": "Ensnaring Trap", "translation": "Pułapka więżąca", "status": "draft"}
+{"id": "String_STR_SEALDUNGEON_CLEAR_body", "source": "Sealed Dungeon Complete", "translation": "Zapieczętowany loch ukończony", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_SUPPRESSION_INFO_body", "source": "Raid Target", "translation": "Cel rajdu", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_ARENA_SINGLE_body", "source": "Arena of Solitude", "translation": "Arena Samotności", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_ARENA_STRATEGY_body", "source": "Arena of Tactics", "translation": "Arena Taktyki", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_ARENA_TEAM_body", "source": "Arena of Cooperation", "translation": "Arena Współpracy", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_AWAKEN_body", "source": "Ascension Trial", "translation": "Próba Wniebowstąpienia", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_BOSSCHALLENGE_body", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_CONQUEROR_body", "source": "Conqueror", "translation": "Zdobywca", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_PARTYCHALLENGE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_RIFT_body", "source": "Spacetime Rift", "translation": "Szczelina Czasoprzestrzenna", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_SEASONMISSION_body", "source": "Season Mission", "translation": "Misja sezonowa", "status": "draft"}
+{"id": "String_STR_SEASONCONTENTS_TYPE_SUPPRESSION_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_STR_SEP_SLASH_ANGLE_body", "source": "<{0}/{1}>", "translation": "<{0}/{1}>", "status": "draft"}
+{"id": "String_STR_SEP_SLASH_PAREN_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_STR_SEP_SLASH_SPACE_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_STR_SEP_SLASH_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_STR_SKILINFO_FIRSTCHAINSKILL_CONDSKILL_body", "source": "Conditional Skill", "translation": "Umiejętność warunkowa", "status": "draft"}
+{"id": "String_STR_SKILLINFO_ACTIVE_body", "source": "Active", "translation": "Aktywna", "status": "draft"}
+{"id": "String_STR_SKILLINFO_CHAINSKILL_body", "source": "Chain Skill ({0}%)", "translation": "Umiejętność łańcuchowa ({0}%)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_LEVEL_1_body", "source": "I", "translation": "I", "status": "draft"}
+{"id": "String_STR_SKILLINFO_LEVEL_3_body", "source": "III", "translation": "III", "status": "draft"}
+{"id": "String_STR_SKILLINFO_NAME_body", "source": "{0} {1}", "translation": "{0} {1}", "status": "technical"}
+{"id": "String_STR_SKILLINFO_PASSIVE_body", "source": "Passive", "translation": "Pasywna", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_ENEMY_TYPE1_body", "source": "{1} Player(s) {0} the Caster (Hostile)", "translation": "{1} graczy {0} względem rzucającego (wrogi)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_ENEMY_TYPE2_body", "source": "{1} Player(s) {0} the Target (Hostile)", "translation": "{1} graczy {0} względem cel (wrogi)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_ENEMY_TYPE3_body", "source": "{1}-{2} Players {0} the Caster (Hostile)", "translation": "{1}-{2} graczy {0} względem rzucającego (wrogi)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_ENEMY_TYPE4_body", "source": "{1}-{2} Players {0} the Target (Hostile)", "translation": "{1}-{2} graczy {0} względem cel (wrogi)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_FRIENDLY_TYPE1_body", "source": "{1} Player(s) {0} the Caster (Friendly)", "translation": "{1} graczy {0} względem rzucającego (przyjazny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_FRIENDLY_TYPE2_body", "source": "{1} Player(s) {0} the Target (Friendly)", "translation": "{1} graczy {0} względem cel (przyjazny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_FRIENDLY_TYPE3_body", "source": "{1}-{2} Players {0} the Caster (Friendly)", "translation": "{1}-{2} graczy {0} względem rzucającego (przyjazny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_FRIENDLY_TYPE4_body", "source": "{1}-{2} Players {0} the Target (Friendly)", "translation": "{1}-{2} graczy {0} względem cel (przyjazny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_PARTY_TYPE1_body", "source": "{1} Player(s) {0} the Caster (Party Members)", "translation": "{1} członków drużyny {0} względem rzucającego (członek drużyny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_PARTY_TYPE2_body", "source": "{1} Player(s) {0} the Target (Party Member)", "translation": "{1} członków drużyny {0} względem cel (członek drużyny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_PARTY_TYPE3_body", "source": "{1}-{2} Players {0} the Caster (Party Members)", "translation": "{1}-{2} członków drużyny {0} względem rzucającego (członek drużyny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_AOE_PARTY_TYPE4_body", "source": "{1}-{2} Players {0} the Target (Party Member)", "translation": "{1}-{2} członków drużyny {0} względem cel (członek drużyny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_ENEMY_body", "source": "Single Target (Hostile)", "translation": "Pojedynczy cel (wróg)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_FRIENDLY_body", "source": "Single Target (Friendly)", "translation": "Pojedynczy cel (sojusznik)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_PARTY_body", "source": "Single Target (Party Member)", "translation": "Pojedynczy cel (członek drużyny)", "status": "draft"}
+{"id": "String_STR_SKILLINFO_TARGETTYPE_SELF_body", "source": "Caster", "translation": "Rzucający", "status": "draft"}
+{"id": "String_STR_SKILL_CASTINGTIME_IMMEDIATELY_body", "source": "Instant Cast", "translation": "Natychmiastowe rzucenie", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_ATTACK_body", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_BUFF_body", "source": "Buff", "translation": "Premia", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_DARK_body", "source": "Dark", "translation": "Mrok", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_DEBUFF_body", "source": "Debuff", "translation": "Osłabienie", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_EARTH_body", "source": "Earth", "translation": "Ziemia", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_FIRE_body", "source": "Fire", "translation": "Ogień", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_HEAL_body", "source": "Regen", "translation": "Regeneracja", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_HOLY_body", "source": "Divine", "translation": "Boska", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_MAGIC_body", "source": "Magic", "translation": "Magia", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_PYSIC_body", "source": "Physical", "translation": "Fizyczna", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_SPAWN_body", "source": "Summon", "translation": "Przywołanie", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_WATER_body", "source": "Water", "translation": "Woda", "status": "draft"}
+{"id": "String_STR_SKILL_CATEGORY_TYPE_WIND_body", "source": "Wind", "translation": "Wiatr", "status": "draft"}
+{"id": "String_STR_SKILL_ChainSkill_body", "source": "Chain Skill", "translation": "Umiejętność łańcuchowa", "status": "draft"}
+{"id": "String_STR_SKILL_ConditionSkill_body", "source": "Conditional Skill", "translation": "Umiejętność warunkowa", "status": "draft"}
+{"id": "String_STR_SKILL_FirstChainSkill_body", "source": "Opening Skill", "translation": "Umiejętność otwierająca", "status": "draft"}
+{"id": "String_STR_SKILL_SKILLINFO_RANGETYPE_AROUND_body", "source": "near", "translation": "w pobliżu", "status": "draft"}
+{"id": "String_STR_SKILL_SKILLINFO_RANGETYPE_FORWARD_body", "source": "in front of", "translation": "przed", "status": "draft"}
+{"id": "String_STR_SKILL_SKillPassiveType_body", "source": "PASSIVE", "translation": "BIERNA", "status": "draft"}
+{"id": "String_STR_SKILL_SkillActiveType_body", "source": "ACTIVE", "translation": "AKTYWNA", "status": "draft"}
+{"id": "String_STR_SKILL_TARGET_TYPE_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_STR_SKILL_Tooltip_TimeSettingDisable_body", "source": "The skill will be used automatically immediately after the cooldown ends.", "translation": "Umiejętność zostanie użyta automatycznie, gdy tylko zakończy się czas odnowienia.", "status": "draft"}
+{"id": "String_STR_SKILL_Tooltip_TimeSettingEnable_body", "source": "Once the cooldown ends, the skill will be automatically used after a set time.\nQuick slot auto-use must be enabled for the set time to apply.", "translation": "Po zakończeniu czasu odnowienia umiejętność zostanie użyta automatycznie po określonym czasie.\nAby ustawić ten czas, włącz automatyczne używanie na szybkim slocie.", "status": "draft"}
+{"id": "String_STR_STAT_NAME_PLUS_body", "source": "{0}+{1}", "translation": "{0}+{1}", "status": "technical"}
+{"id": "String_STR_STAT_PLUS_ENCHANT_body", "source": "{0}(+{1})", "translation": "{0}(+{1})", "status": "technical"}
+{"id": "String_STR_STEAM_INIT_FAILED_body", "source": "Failed to reset Steam account linking. Please check Steam's status and restart the game.", "translation": "Nie udało się zresetować powiązania konta Steam. Sprawdź status Steam i uruchom grę ponownie.", "status": "draft"}
+{"id": "String_STR_STORAGE_ACCESSORY_body", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "String_STR_STORAGE_ARMOR_body", "source": "Armor", "translation": "Zbroje", "status": "draft"}
+{"id": "String_STR_STORAGE_CONVERSION_body", "source": "Substance Morph Material", "translation": "Materiał do transmutacji substancji", "status": "draft"}
+{"id": "String_STR_STORAGE_ENCHANTSTONE_body", "source": "Enhance Stone", "translation": "Kamień wzmocnienia", "status": "draft"}
+{"id": "String_STR_STORAGE_FOOD_body", "source": "Food", "translation": "Jedzenie", "status": "draft"}
+{"id": "String_STR_STORAGE_MAGICSTONE_body", "source": "Manastone", "translation": "Kamień many", "status": "draft"}
+{"id": "String_STR_STORAGE_MATERIAL_body", "source": "Crafting Materials", "translation": "Materiały rzemieślnicze", "status": "draft"}
+{"id": "String_STR_STORAGE_POTION_body", "source": "Potions", "translation": "Mikstury", "status": "draft"}
+{"id": "String_STR_STORAGE_REFUND_body", "source": "Valuables", "translation": "Kosztowności", "status": "draft"}
+{"id": "String_STR_STORAGE_SCROLL_body", "source": "Scrolls", "translation": "Zwoje", "status": "draft"}
+{"id": "String_STR_STORAGE_WEAPON_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_STR_SUB_CATEGORY_FASHIONACCESSORY_body", "source": "Props", "translation": "Przedmioty", "status": "draft"}
+{"id": "String_STR_SUB_CATEGORY_accessory_body", "source": "Accessories", "translation": "Akcesoria", "status": "draft"}
+{"id": "String_STR_SUB_CATEGORY_armor_body", "source": "Armor", "translation": "Zbroje", "status": "draft"}
+{"id": "String_STR_SUB_CATEGORY_weapon_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_STR_SUB_DRAGONGUARDCAPTAIN_body", "source": "Balaur Guardian Lord", "translation": "Władca Strażników Balaurów", "status": "draft"}
+{"id": "String_STR_SUB_M_Awaken_006_01_Owlapri_01_body", "source": "Anguish Wings", "translation": "Skrzydła Udręki", "status": "draft"}
+{"id": "String_STR_SUB_M_Dungeon_Awaken_005_01_Nua_01_V01_001_body", "source": "Soul Reaper", "translation": "Żniwiarz Dusz", "status": "draft"}
+{"id": "String_STR_SUB_M_L0_Layer1_Bargot_01_body", "source": "Daeva Janitor", "translation": "Czyściciel Daevy", "status": "draft"}
+{"id": "String_STR_SUB_M_NahidDisposalPlant_Bargot_01_body", "source": "Waste Disposer", "translation": "Utylizator odpadów", "status": "draft"}
+{"id": "String_STR_SUB_M_Rakut_body", "source": "Daeva Slaughterer", "translation": "Rzeźnik Daevy", "status": "draft"}
+{"id": "String_STR_SUB_M_RootCellar_Owltros_01_body", "source": "Root Mythical Bird", "translation": "Mityczny Ptak Korzenia", "status": "draft"}
+{"id": "String_STR_SUB_M_Seal_Light_068_Boss_01_body", "source": "Creion", "translation": "Creion", "status": "draft"}
+{"id": "String_STR_SUB_M_Seal_Light_069_GraveUn_02_001_body", "source": "Fallen Life Daeva", "translation": "Upadła Daewa Życia", "status": "draft"}
+{"id": "String_STR_SUB_M_StrigikAltar_Owlac_01_body", "source": "Aullaeu Guardian", "translation": "Strażnik Aullaeu", "status": "draft"}
+{"id": "String_STR_SUB_M_StrigikAltar_Owlapri_01_body", "source": "Scarlotus Sacrifice", "translation": "Ofiara Scarlotusa", "status": "draft"}
+{"id": "String_STR_SUPPRESSION_OUT_BODY_body", "source": "You are about to leave the Subjugation.\nOnce you leave, you may not rejoin.\nProceed?", "translation": "Za chwilę opuścisz Podbój.\nPo wyjściu nie będzie można do niego wrócić.\nKontynuować?", "status": "draft"}
+{"id": "String_STR_Scan_TargetFilter_Def_0_body", "source": "Hunting", "translation": "Polowanie", "status": "draft"}
+{"id": "String_STR_Scan_TargetFilter_Def_1_body", "source": "PvP", "translation": "PvP", "status": "draft"}
+{"id": "String_STR_Scan_TargetFilter_Def_2_body", "source": "Gathering", "translation": "Zbieractwo", "status": "draft"}
+{"id": "String_STR_Scan_Target_AttackingMe_body", "source": "Targets Attacking Me", "translation": "Cele atakujące mnie", "status": "draft"}
+{"id": "String_STR_Scan_Target_BossMonster_body", "source": "Boss Monsters", "translation": "Potwory-bossy", "status": "draft"}
+{"id": "String_STR_Scan_Target_ENEMY_PLAYER_body", "source": "Hostile Players", "translation": "Wrodzy gracze", "status": "draft"}
+{"id": "String_STR_Scan_Target_FRIENDLY_PLAYER_body", "source": "Friendly Players", "translation": "Sojuszniczy gracze", "status": "draft"}
+{"id": "String_STR_Scan_Target_Gather_body", "source": "Gatherable Material", "translation": "Surowiec do zebrania", "status": "draft"}
+{"id": "String_STR_Scan_Target_MYPARTY_body", "source": "My Party Members", "translation": "Członkowie mojej drużyny", "status": "draft"}
+{"id": "String_STR_Scan_Target_MyLegion_body", "source": "My Legion Members", "translation": "Członkowie mojego Legionu", "status": "draft"}
+{"id": "String_STR_Scan_Target_NormalMonster_body", "source": "Normal Monsters", "translation": "Zwykłe potwory", "status": "draft"}
+{"id": "String_STR_SealDungeon_Out_Body_body", "source": "You are about to leave the Sealed Dungeon.\nDungeon progress will be reset.\nProceed?", "translation": "Za chwilę opuścisz Zapieczętowany loch.\nPostępy w lochu zostaną zresetowane.\nKontynuować?", "status": "draft"}
+{"id": "String_STR_Seal_Stone_Num_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_A_Atk1_body", "source": "Guardian Centurion Tribulation", "translation": "Udręka Centuriona Strażników", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_A_Atk2_body", "source": "Guardian Tribunus Tribulation", "translation": "Udręka Tribunusa Strażników", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_A_Atk3_body", "source": "Guardian High Commander Tribulation", "translation": "Udręka Wielkiego Dowódcy Strażników", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_A_Atk4_body", "source": "Guardian Decanus Tribulation", "translation": "Udręka Dekanusa Strażników", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_A_Atk5_body", "source": "Guardian Praetorian Captain Tribulation", "translation": "Udręka Kapitana Pretorianów Strażników", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_D_Atk1_body", "source": "Archon Centurion Tribulation", "translation": "Udręka Centuriona Archontów", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_D_Atk2_body", "source": "Archon Tribunus Tribulation", "translation": "Udręka Tribunusa Archontów", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_D_Atk3_body", "source": "Archon High Commander Tribulation", "translation": "Udręka Wielkiego Dowódcy Archontów", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_D_Atk4_body", "source": "Archon Decanus Tribulation", "translation": "Udręka Dekanusa Archontów", "status": "draft"}
+{"id": "String_STR_Set_Equip_Abyss_D_Atk5_body", "source": "Archon Praetorian Captain Tribulation", "translation": "Udręka Kapitana Pretorianów Archontów", "status": "draft"}
+{"id": "String_STR_SleetOutpost_Subzone_body", "source": "Sleet Outpost", "translation": "Posterunek Śnieżycy", "status": "draft"}
+{"id": "String_STR_SnowbreathOutpost_Subzone_body", "source": "Frostwind Forward Base", "translation": "Wysunięta Baza Mroźnego Wiatru", "status": "draft"}
+{"id": "String_STR_SnowshadeHideout_Subzone_body", "source": "Snowshade Hideout", "translation": "Kryjówka Śnieżnego Cienia", "status": "draft"}
+{"id": "String_STR_SocialAction_TargetPc_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_STR_SubZone_FE_Dilemma_body", "source": "Shugo's Dilemma", "translation": "Dylemat Shugo", "status": "draft"}
+{"id": "String_STR_SubZone_FE_Pang_body", "source": "Nyerk Shooter", "translation": "Strzelanka Nyerk", "status": "draft"}
+{"id": "String_STR_Sub_AR1_RiftBoss_01_body", "source": "Rift Echo", "translation": "Echo Szczeliny", "status": "draft"}
+{"id": "String_STR_Sub_AR1_RiftBoss_02_body", "source": "Conqueror of the Rift", "translation": "Zdobywca Szczeliny", "status": "draft"}
+{"id": "String_STR_Sub_AR4_30_Legion_body", "source": "30th Division", "translation": "30. Dywizja", "status": "draft"}
+{"id": "String_STR_Sub_AR4_34_Legion_body", "source": "34th Division", "translation": "34. Dywizja", "status": "draft"}
+{"id": "String_STR_Sub_AR4_38_Legion_body", "source": "38th Division", "translation": "38. Dywizja", "status": "draft"}
+{"id": "String_STR_Sub_DawnLegion_Guard_body", "source": "Dawn Legion", "translation": "Legion Świtu", "status": "draft"}
+{"id": "String_STR_Sub_E_D1_MorheimEnterAgitPortal_01_body", "source": "Morheim Hall Teleportation Portal", "translation": "Portal teleportacyjny do Sali Morheim", "status": "draft"}
+{"id": "String_STR_Sub_E_D1_MorheimEnterPortal_01_body", "source": "Morheim Teleportation Portal", "translation": "Portal teleportacyjny Morheim", "status": "draft"}
+{"id": "String_STR_Sub_E_D2_AltgardEnterAgitPortal_01_body", "source": "Altgard Hall Teleportation Portal", "translation": "Portal teleportacyjny do Sali Altgard", "status": "draft"}
+{"id": "String_STR_Sub_E_D2_AltgardEnterPortal_01_body", "source": "Altgard Teleportation Portal", "translation": "Portal teleportacyjny Altgard", "status": "draft"}
+{"id": "String_STR_Sub_E_L1_VerteronToEltnen_AgitPortal_body", "source": "Eltnen Hall Teleportation Portal", "translation": "Portal teleportacyjny do Sali Eltnen", "status": "draft"}
+{"id": "String_STR_Sub_E_L1_VerteronToEltnen_Portal_body", "source": "Eltnen Teleportation Portal", "translation": "Portal teleportacyjny Eltnen", "status": "draft"}
+{"id": "String_STR_Sub_E_L2_EltnenToVerteron_AgitPortal_body", "source": "Verteron Hall Teleportation Portal", "translation": "Portal teleportacyjny do Sali Verteron", "status": "draft"}
+{"id": "String_STR_Sub_E_L2_EltnenToVerteron_Portal_body", "source": "Verteron Teleportation Portal", "translation": "Portal teleportacyjny Verteron", "status": "draft"}
+{"id": "String_STR_Sub_M_AncientCenturion_Light_body", "source": "Ancient Elyos Centurion", "translation": "Starożytny Centurion Elyos", "status": "draft"}
+{"id": "String_STR_Sub_M_Awaken_002_01_TasinB_body", "source": "Fallen Tyrant", "translation": "Upadły Tyran", "status": "draft"}
+{"id": "String_STR_Sub_M_Awaken_004_DarkLeda_01_body", "source": "Contained Calamity", "translation": "Uwięziona Katastrofa", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_AbyssalHornCave_Ferk_01_V02_body", "source": "Returned Exile", "translation": "Powracający Wygnańcy", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_AbyssalHornCave_KalnifElite_01_V02_001_body", "source": "Orphaned Watchdog", "translation": "Osierocony Strażnik", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_AbyssalHornCave_Lycan_04_V01_001_body", "source": "Grand Necromancer", "translation": "Wielki Nekromanta", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_BakronIsland_Barkon_01_body", "source": "Boulder Lord", "translation": "Władca Głazów", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_BakronIsland_Tamon_01_body", "source": "Island Warden", "translation": "Strażnik Wyspy", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_BakronIsland_Tie_01_body", "source": "Spirit Predator", "translation": "Drapieżnik Duchów", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_CradleNihility_Bakarma_01_V01_001_body", "source": "Untranscended", "translation": "Nieprzemieniony", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_DeusCenter_Atiel_01_body", "source": "Divine Test Subject", "translation": "Boski Obiekt Testowy", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_DeusCenter_Gelcos_01_body", "source": "Deus Research Base Guard Troopers Captain", "translation": "Kapitan strażników Bazy Badawczej Deus", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_DeusCenter_Nazmun_01_body", "source": "Deus Research Base Lab Director", "translation": "Dyrektor laboratorium Bazy Badawczej Deus", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_MirrorHeart_EvSpirit_02_V01_001_body", "source": "Robstin's Afterimage", "translation": "Powidok Robstina", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_MirrorHeart_WraPrst_01_V01_001_body", "source": "Rotan's Afterimage", "translation": "Powidok Rotana", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_MusphelHolyGrail_AltKnife_07_V01_01_body", "source": "Chalice Guardian", "translation": "Strażnik Kielicha", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_MusphelHolyGrail_Ramu_01_V01_01_body", "source": "Underground Scourge", "translation": "Podziemna Plaga", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_PhantomsHall_Hiladr_01_V01_001_body", "source": "Shattered Mirror", "translation": "Rozbite Zwierciadło", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_PhantomsHall_Protect_01_V01_001_body", "source": "Illusion Cavaliers", "translation": "Rycerze Iluzji", "status": "draft"}
+{"id": "String_STR_Sub_M_PD_PhantomsHall__DarkLeda_02_V01_001_body", "source": "Refraction of Reda", "translation": "Załamanie Redy", "status": "draft"}
+{"id": "String_STR_Sub_N_Actor_body", "source": "Performer", "translation": "Wykonawca", "status": "draft"}
+{"id": "String_STR_Sub_N_Adventurer_body", "source": "Adventurer", "translation": "Podróżnik", "status": "draft"}
+{"id": "String_STR_Sub_N_ArchonOfDestruction_body", "source": "Destruction Archons", "translation": "Archonci Zniszczenia", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackClawApothecary_body", "source": "Black Claw Apothecary", "translation": "Aptekarz Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackClawPatrol_body", "source": "Black Claw Patrol Watcher", "translation": "Obserwator patrolu Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackClawSentry_body", "source": "Black Claw Scout", "translation": "Zwiadowca Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackClawShaman_body", "source": "Black Claw Shaman", "translation": "Szaman Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackClaw_body", "source": "Black Claw Mau", "translation": "Mau Czarnego Pazura", "status": "draft"}
+{"id": "String_STR_Sub_N_BlackCloudTraders_body", "source": "Black Cloud Merchants", "translation": "Kupcy Czarnej Chmury", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_Dragon01_Daeva_1_body", "source": "Daeva Search Party", "translation": "Oddział Poszukiwawczy Daevów", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_FQ_Benvolimong_01_body", "source": "Host", "translation": "Gospodarz", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_FQ_Benvolimong_body", "source": "Romi's Friend", "translation": "Przyjaciel Romi", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_FQ_Julykiki_body", "source": "Bride", "translation": "Panna młoda", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_FQ_Romirung_01_body", "source": "Groom", "translation": "Pan młody", "status": "draft"}
+{"id": "String_STR_Sub_N_D1_FQ_Romirung_body", "source": "Groom-to-Be", "translation": "Przyszły pan młody", "status": "draft"}
+{"id": "String_STR_Sub_N_DawnCabal_01_body", "source": "Fallen Daybreak Society Member", "translation": "Upadły członek Towarzystwa Świtu", "status": "draft"}
+{"id": "String_STR_Sub_N_DawnCabal_body", "source": "Daybreak Society", "translation": "Stowarzyszenie Świtu", "status": "draft"}
+{"id": "String_STR_Sub_N_Digger_body", "source": "Graverobber", "translation": "Rabuś grobów", "status": "draft"}
+{"id": "String_STR_Sub_N_Embezzlement_body", "source": "Wind Breeze Merchants Embezzler", "translation": "Defraudant Kupców Wietrznej Bryzy", "status": "draft"}
+{"id": "String_STR_Sub_N_Fugitive_body", "source": "Fugitive", "translation": "Zbieg", "status": "draft"}
+{"id": "String_STR_Sub_N_Galond_body", "source": "Mercenary Commander", "translation": "Dowódca najemników", "status": "draft"}
+{"id": "String_STR_Sub_N_Galondmercenary_body", "source": "Garlond Mercenaries", "translation": "Najemnicy Garlonda", "status": "draft"}
+{"id": "String_STR_Sub_N_Grisilla_body", "source": "Manifestation of the Sacred Tree", "translation": "Ucieleśnienie Świętego Drzewa", "status": "draft"}
+{"id": "String_STR_Sub_N_Hilsroter_01_body", "source": "Marauders Commander", "translation": "Dowódca rabusiów", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Garba_01_body", "source": "Crematorium Manager", "translation": "Zarządca krematorium", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Goregon_02_body", "source": "Gambler", "translation": "Hazardzista", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Marten_01_body", "source": "Frightened Refugee", "translation": "Przerażony uchodźca", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Revin_01_body", "source": "Refugee Child", "translation": "Dziecko uchodźcy", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Temer_01_body", "source": "Nervous-Looking Daeva", "translation": "Zdenerwowany daewa", "status": "draft"}
+{"id": "String_STR_Sub_N_L1_Ullis_02_body", "source": "Legion Trainee", "translation": "Adept Legionu", "status": "draft"}
+{"id": "String_STR_Sub_N_LagtaLegion_body", "source": "Lagta Brigade", "translation": "Brygada Lagty", "status": "draft"}
+{"id": "String_STR_Sub_N_MuMuGuard_body", "source": "Mumu Sentinel", "translation": "Wartownik Mumu", "status": "draft"}
+{"id": "String_STR_Sub_N_MuMuSupervisor_body", "source": "Mumu Overseer", "translation": "Nadzorca Mumu", "status": "draft"}
+{"id": "String_STR_Sub_N_Nornir_body", "source": "Nornir", "translation": "Nornir", "status": "draft"}
+{"id": "String_STR_Sub_N_OwlamusInferior_body", "source": "Aulamus's Minion", "translation": "Sługa Aulamusa", "status": "draft"}
+{"id": "String_STR_Sub_N_PD_Common_M_ShulackB_01_001_body", "source": "Shuliman Expedition", "translation": "Wyprawa Shuliman", "status": "draft"}
+{"id": "String_STR_Sub_N_PD_MusphelHolyGrail_GhostF_01_body", "source": "Daeva of Flame", "translation": "Daewa Płomienia", "status": "draft"}
+{"id": "String_STR_Sub_N_Pedlar_body", "source": "Vagabond Merchant", "translation": "Wędrowny kupiec", "status": "draft"}
+{"id": "String_STR_Sub_N_RuinsManager_body", "source": "Ruins Administrator", "translation": "Zarządca ruin", "status": "draft"}
+{"id": "String_STR_Sub_N_SlaveWorker_body", "source": "Laborer", "translation": "Robotnik", "status": "draft"}
+{"id": "String_STR_Sub_N_SteelHammer_body", "source": "Steel Hammer Merchants", "translation": "Kupcy Stalowego Młota", "status": "draft"}
+{"id": "String_STR_Sub_N_Vendor_body", "source": "Street Vendor", "translation": "Uliczny sprzedawca", "status": "draft"}
+{"id": "String_STR_Sub_NortosLegion_Guard_body", "source": "Notos Legion Guard Troopers", "translation": "Strażnicy Legionu Notos", "status": "draft"}
+{"id": "String_STR_Sub_TreasureHunter_body", "source": "Treasure Hunter", "translation": "Łowca skarbów", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_BlackShardZone_body", "source": "Eroded Black Fragments Area", "translation": "Obszar Erodowanych Czarnych Fragmentów", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_DestroyedDebris_body", "source": "Abandoned Devastated Remnants", "translation": "Opuszczone Zniszczone Szczątki", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_PrimumLanding_body", "source": "Rift Eastern Root Base", "translation": "Baza Wschodniego Korzenia Szczeliny", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_RootsofReshanta_body", "source": "Submerged Reshanta's Root", "translation": "Zatopiony Korzeń Reshanty", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_SulfurTreeIsland_body", "source": "Warped Sulfur Tree Island", "translation": "Wypaczona Wyspa Siarkowego Drzewa", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_TeminonLanding_body", "source": "Rift Western Root Base", "translation": "Baza Zachodniego Korzenia Szczeliny", "status": "draft"}
+{"id": "String_STR_Subzone_AB1_WingsofSielArchipelago_body", "source": "Distorted Archipelago of Siel's Wings", "translation": "Wypaczony Archipelag Skrzydeł Siel", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_BlackShardZone_Desc_body", "source": "The southernmost region of Chaotic Middle Reshanta. Corroded metal wreckage scattered around the site denotes the presence of a fortress in the past.", "translation": "Najbardziej na południe wysunięty obszar Chaotycznej Środkowej Reshanty. Rozrzucone tu skorodowane metalowe szczątki wskazują, że niegdyś znajdowała się tu twierdza.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_BlackShardZone_body", "source": "Eroded Fragment Area", "translation": "Obszar Erodowanych Fragmentów", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_DestroyedDebris_Desc_body", "source": "The northernmost region of Chaotic Middle Reshanta. The broken remains of giant mechanical soldiers used in the Last War lie abandoned here.", "translation": "Najbardziej na północ wysunięty obszar Chaotycznej Środkowej Reshanty. Leżą tu porzucone szczątki wielkich mechanicznych żołnierzy używanych podczas Ostatniej Wojny.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_DestroyedDebris_body", "source": "Steel Titan's Grave", "translation": "Grób Stalowego Tytana", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_PrimumLanding_Desc_body", "source": "An <QK>eastern camp</> base located in the east of Chaotic Middle Reshanta.", "translation": "Baza <QK>wschodniego obozu</> położona we wschodniej części Chaotycznej Środkowej Reshanty.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_PrimumLanding_body", "source": "Latesran Eastern Ridge", "translation": "Wschodnia Grań Latesran", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_RootsofReshanta_Desc_body", "source": "A floating island located in the very center of Chaotic Middle Reshanta.", "translation": "Latająca wyspa położona w samym centrum Chaotycznej Środkowej Reshanty.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_RootsofReshanta_body", "source": "Corroded Heart", "translation": "Skorodowane Serce", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_SulfurTreeIsland_Desc_body", "source": "An area filled with dangerous creatures that have adapted to the thick sulfur contaminating the swamp.", "translation": "Obszar zamieszkany przez niebezpieczne stworzenia, które przystosowały się do gęstej siarki zanieczyszczającej mokradła.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_SulfurTreeIsland_body", "source": "Contaminated Marsh", "translation": "Skażone Mokradła", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_TeminonLanding_Desc_body", "source": "A <QK>western camp</> base located in the west of Chaotic Middle Reshanta.", "translation": "Baza <QK>zachodniego obozu</> położona w zachodniej części Chaotycznej Środkowej Reshanty.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_TeminonLanding_body", "source": "Latesran Western Ridge", "translation": "Zachodnia Grań Latesran", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_WingsofSielArchipelago_Desc_body", "source": "An area of old trees that twisted and mutated in order to survive in the Middle Abyss, where Odyle energy is scarce.", "translation": "Obszar starych drzew, które poskręcały się i zmutowały, by przetrwać w Środkowej Otchłani, gdzie brakuje energii Odyle.", "status": "draft"}
+{"id": "String_STR_Subzone_AR3_WingsofSielArchipelago_body", "source": "Distorted Old Growth Forest", "translation": "Wypaczony Starodrzew", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_BlackShardZone_01_Desc_body", "source": "The southern of two floating islands bearing the scars of a Dredgion crash.", "translation": "Południowa z dwóch latających wysp noszących ślady katastrofy Dredgionu.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_BlackShardZone_01_body", "source": "Fractured Southern Crash Site", "translation": "Spękane Południowe Miejsce Katastrofy", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_BlackShardZone_02_Desc_body", "source": "The northern of two floating islands bearing the scars of a Dredgion crash.", "translation": "Północna z dwóch latających wysp noszących ślady katastrofy Dredgionu.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_BlackShardZone_02_body", "source": "Fractured Northern Crash Site", "translation": "Spękane Północne Miejsce Katastrofy", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_DestroyedDebris_01_Desc_body", "source": "A powerful impact split the floating island that once housed the fortress into two. This is the northern island.", "translation": "Potężne uderzenie rozdzieliło na dwie części latającą wyspę, na której stała niegdyś twierdza. To jej północna część.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_DestroyedDebris_01_body", "source": "La Miren Fortress Northern Remnants", "translation": "Północne Szczątki Twierdzy La Miren", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_DestroyedDebris_02_Desc_body", "source": "A powerful impact split the floating island that once housed the fortress into two. This is the southern island.", "translation": "Potężne uderzenie rozdzieliło na dwie części latającą wyspę, na której stała niegdyś twierdza. To jej południowa część.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_DestroyedDebris_02_body", "source": "La Miren Fortress Southern Remnants", "translation": "Południowe Szczątki Twierdzy La Miren", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_PrimumLanding_Desc_body", "source": "A <QK>northern camp</> base located in the south of Chaotic Upper Reshanta.", "translation": "Baza <QK>północnego obozu</> położona na południu Chaotycznej Górnej Reshanty.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_PrimumLanding_body", "source": "Krotan Fortress", "translation": "Twierdza Krotan", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_SulfurTreeIsland_Desc_body", "source": "A sky island covered in twisted thorn trees that are corrupted by Drana. Its symbolic position at the center of the upper layer has earned it the name of <QK>Red Thorn Crown Isle</>.", "translation": "Latająca wyspa porośnięta poskręcanymi, skażonymi Draną cierniowymi drzewami. Jej położenie w centrum górnej warstwy przyniosło jej miano <QK>Wyspy Korony Czerwonych Cierni</>.", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_SulfurTreeIsland_body", "source": "Red Thorn Crown Isle", "translation": "Wyspa Korony Czerwonych Cierni", "status": "draft"}
+{"id": "String_STR_Subzone_AR4_TeminonLanding_Desc_body", "source": "A <QK>southern camp</> base located in the south of Chaotic Upper Reshanta.", "translation": "Baza <QK>południowego obozu</> położona na południu Chaotycznej Górnej Reshanty.", "status": "draft"}

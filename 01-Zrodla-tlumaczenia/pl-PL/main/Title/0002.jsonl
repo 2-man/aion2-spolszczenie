@@ -71,12 +71,12 @@
 {"id": "Title_D_Achievement_065_desc", "source": "Just Getting Started", "translation": "Dopiero się rozkręcam", "status": "draft"}
 {"id": "Title_D_Achievement_065_desc_long", "source": "Death such as this will not break my will.", "translation": "Taka śmierć nie złamie mojej woli.", "status": "draft"}
 {"id": "Title_D_Achievement_066_desc", "source": "Evading the Grim Reaper", "translation": "Unikając kostuchy", "status": "draft"}
-{"id": "Title_D_Achievement_066_desc_long", "source": "Steeled your will, undeterred by Elyos attacks.", "translation": "Hartowano wolę, nie zważając na ataki Elyos.", "status": "draft"}
-{"id": "Title_D_Achievement_067_desc", "source": "Novice Elyos Hunter", "translation": "Początkujący łowca Elyos", "status": "draft"}
+{"id": "Title_D_Achievement_066_desc_long", "source": "Steeled your will, undeterred by Elyos attacks.", "translation": "Hartowano wolę, nie zważając na ataki Elyosów.", "status": "draft"}
+{"id": "Title_D_Achievement_067_desc", "source": "Novice Elyos Hunter", "translation": "Początkujący łowca Elyosów", "status": "draft"}
 {"id": "Title_D_Achievement_067_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
-{"id": "Title_D_Achievement_068_desc", "source": "Intermediate Elyos Hunter", "translation": "Doświadczony łowca Elyos", "status": "draft"}
+{"id": "Title_D_Achievement_068_desc", "source": "Intermediate Elyos Hunter", "translation": "Doświadczony łowca Elyosów", "status": "draft"}
 {"id": "Title_D_Achievement_068_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
-{"id": "Title_D_Achievement_069_desc", "source": "Veteran Elyos Hunter", "translation": "Weteran łowów na Elyos", "status": "draft"}
+{"id": "Title_D_Achievement_069_desc", "source": "Veteran Elyos Hunter", "translation": "Weteran łowów na Elyosów", "status": "draft"}
 {"id": "Title_D_Achievement_069_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
 {"id": "Title_D_Achievement_070_desc", "source": "Deathbringer", "translation": "Siewca śmierci", "status": "draft"}
 {"id": "Title_D_Achievement_070_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
@@ -84,10 +84,10 @@
 {"id": "Title_D_Achievement_071_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
 {"id": "Title_D_Achievement_072_desc", "source": "Treading on White Wings", "translation": "Depcząc Białe Skrzydła", "status": "draft"}
 {"id": "Title_D_Achievement_072_desc_long", "source": "Gathered those with the red mark.", "translation": "Zebrano tych, którzy noszą czerwony znak.", "status": "draft"}
-{"id": "Title_D_Achievement_073_desc", "source": "Altgard Cartographer", "translation": "Kartograf Altgard", "status": "draft"}
-{"id": "Title_D_Achievement_073_desc_long", "source": "Found every village within Altgard.", "translation": "Odkryto wszystkie wioski w Altgard.", "status": "draft"}
-{"id": "Title_D_Achievement_074_desc", "source": "Verteron Cartographer", "translation": "Kartograf Verteron", "status": "draft"}
-{"id": "Title_D_Achievement_074_desc_long", "source": "Found every village within Verteron.", "translation": "Odkryto wszystkie wioski w Verteron.", "status": "draft"}
+{"id": "Title_D_Achievement_073_desc", "source": "Altgard Cartographer", "translation": "Kartograf Altgardu", "status": "draft"}
+{"id": "Title_D_Achievement_073_desc_long", "source": "Found every village within Altgard.", "translation": "Odkryto wszystkie wioski w Altgardzie.", "status": "draft"}
+{"id": "Title_D_Achievement_074_desc", "source": "Verteron Cartographer", "translation": "Kartograf Verteronu", "status": "draft"}
+{"id": "Title_D_Achievement_074_desc_long", "source": "Found every village within Verteron.", "translation": "Odkryto wszystkie wioski w Verteronie.", "status": "draft"}
 {"id": "Title_D_Achievement_075_desc", "source": "Reshanta Cartographer", "translation": "Kartograf Reshanty", "status": "draft"}
 {"id": "Title_D_Achievement_075_desc_long", "source": "Found every base within Reshanta.", "translation": "Odkryto wszystkie bazy w Reshancie.", "status": "draft"}
 {"id": "Title_D_Achievement_076_desc", "source": "It's Okay to Be Imperfect", "translation": "Niedoskonałość jest w porządku", "status": "draft"}
@@ -103,7 +103,7 @@
 {"id": "Title_D_Achievement_081_desc", "source": "Nice to Meet You", "translation": "Miło cię poznać", "status": "draft"}
 {"id": "Title_D_Achievement_081_desc_long", "source": "Became familiar with Elysea.", "translation": "Zapoznano się z Elyseą.", "status": "draft"}
 {"id": "Title_D_Achievement_082_desc", "source": "Teleportation Specialist", "translation": "Specjalista teleportacji", "status": "draft"}
-{"id": "Title_D_Achievement_082_desc_long", "source": "Bound with all Kibelisks in Altgard.", "translation": "Powiązano się ze wszystkimi Kibeliskami w Altgard.", "status": "draft"}
+{"id": "Title_D_Achievement_082_desc_long", "source": "Bound with all Kibelisks in Altgard.", "translation": "Powiązano się ze wszystkimi Kibeliskami w Altgardzie.", "status": "draft"}
 {"id": "Title_D_Achievement_083_desc", "source": "Odyle Drops Keep Fallin' on My Head", "translation": "Odyle wciąż spadają mi na głowę", "status": "draft"}
 {"id": "Title_D_Achievement_083_desc_long", "source": "But that doesn't mean my Flight Power will soon be turning red.", "translation": "Lecz to nie znaczy, że zaraz skończy mi się moc lotu.", "status": "draft"}
 {"id": "Title_D_Achievement_084_desc", "source": "Lady of the Lake", "translation": "Pani jeziora", "status": "draft"}
@@ -113,7 +113,7 @@
 {"id": "Title_D_Achievement_086_desc", "source": "Mysterious Racer", "translation": "Tajemniczy rajdowiec", "status": "draft"}
 {"id": "Title_D_Achievement_086_desc_long", "source": "Rollin' around at the speed of sound. Got places to go, gotta follow my rainbow.", "translation": "Mknę z prędkością dźwięku. Mam dokąd jechać, podążam za swoją tęczą.", "status": "draft"}
 {"id": "Title_D_Achievement_087_desc", "source": "Standing on My Own Two Feet", "translation": "Stoję na własnych nogach", "status": "draft"}
-{"id": "Title_D_Achievement_087_desc_long", "source": "Didn't you ask for help here last time?", "translation": "Czy ostatnim razem nie prosiłeś tu o pomoc?", "status": "draft"}
+{"id": "Title_D_Achievement_087_desc_long", "source": "Didn't you ask for help here last time?", "translation": "Czy ostatnio nie proszono tu o pomoc?", "status": "draft"}
 {"id": "Title_D_Achievement_088_desc", "source": "Ruuuuun!!", "translation": "Uciekaaaaj!!", "status": "draft"}
 {"id": "Title_D_Achievement_088_desc_long", "source": "If you cannot tame a Lugi, then you must become a Lugi.", "translation": "Jeśli nie możesz oswoić Lugi, musisz stać się Lugi.", "status": "draft"}
 {"id": "Title_D_Achievement_089_desc", "source": "Catch Me If You Can", "translation": "Złap mnie, jeśli potrafisz", "status": "draft"}
@@ -126,14 +126,14 @@
 {"id": "Title_D_Achievement_092_desc_long", "source": "Became a regular at the festival.", "translation": "Stań się stałym bywalcem festiwalu.", "status": "draft"}
 {"id": "Title_D_Achievement_093_desc", "source": "Shugo Festival Expert", "translation": "Ekspert Festiwalu Shugo", "status": "draft"}
 {"id": "Title_D_Achievement_093_desc_long", "source": "Became a celebrity at the festival.", "translation": "Stań się gwiazdą festiwalu.", "status": "draft"}
-{"id": "Title_D_Achievement_094_desc", "source": "Altgard Seal Breaker", "translation": "Niszczyciel pieczęci Altgard", "status": "draft"}
-{"id": "Title_D_Achievement_094_desc_long", "source": "Cleared numerous Sealed Dungeons in Altgard.", "translation": "Ukończono wiele Zapieczętowanych Lochów w Altgard.", "status": "draft"}
-{"id": "Title_D_Achievement_095_desc", "source": "Verteron Seal Breaker", "translation": "Niszczyciel pieczęci Verteron", "status": "draft"}
-{"id": "Title_D_Achievement_095_desc_long", "source": "Cleared numerous Sealed Dungeons in Verteron.", "translation": "Ukończono wiele Zapieczętowanych Lochów w Verteron.", "status": "draft"}
+{"id": "Title_D_Achievement_094_desc", "source": "Altgard Seal Breaker", "translation": "Niszczyciel pieczęci Altgardu", "status": "draft"}
+{"id": "Title_D_Achievement_094_desc_long", "source": "Cleared numerous Sealed Dungeons in Altgard.", "translation": "Ukończono wiele Zapieczętowanych Lochów w Altgardzie.", "status": "draft"}
+{"id": "Title_D_Achievement_095_desc", "source": "Verteron Seal Breaker", "translation": "Niszczyciel pieczęci Verteronu", "status": "draft"}
+{"id": "Title_D_Achievement_095_desc_long", "source": "Cleared numerous Sealed Dungeons in Verteron.", "translation": "Ukończono wiele Zapieczętowanych Lochów w Verteronie.", "status": "draft"}
 {"id": "Title_D_Achievement_096_desc", "source": "Knock Knock Who's There", "translation": "Puk, puk, kto tam", "status": "draft"}
-{"id": "Title_D_Achievement_096_desc_long", "source": "Resolved the troubles of numerous strongholds across Altgard.", "translation": "Rozwiązano problemy wielu twierdz w Altgard.", "status": "draft"}
+{"id": "Title_D_Achievement_096_desc_long", "source": "Resolved the troubles of numerous strongholds across Altgard.", "translation": "Rozwiązano problemy wielu twierdz w Altgardzie.", "status": "draft"}
 {"id": "Title_D_Achievement_097_desc", "source": "Housekeeping Open Up", "translation": "Służba, otwierać", "status": "draft"}
-{"id": "Title_D_Achievement_097_desc_long", "source": "Resolved the troubles of numerous strongholds across Verteron.", "translation": "Rozwiązano problemy wielu twierdz w Verteron.", "status": "draft"}
+{"id": "Title_D_Achievement_097_desc_long", "source": "Resolved the troubles of numerous strongholds across Verteron.", "translation": "Rozwiązano problemy wielu twierdz w Verteronie.", "status": "draft"}
 {"id": "Title_D_Achievement_100_desc", "source": "Krao Cave Sightseer", "translation": "Odkrywca Jaskini Krao", "status": "draft"}
 {"id": "Title_D_Achievement_100_desc_long", "source": "Cleared Krao Cave Expedition for the first time.", "translation": "Po raz pierwszy ukończono ekspedycję do Jaskini Krao.", "status": "draft"}
 {"id": "Title_D_Achievement_101_desc", "source": "Krao Cave Tour Guide", "translation": "Przewodnik Jaskini Krao", "status": "draft"}
@@ -187,7 +187,7 @@
 {"id": "Title_D_Achievement_137_desc", "source": "Fashion Forward", "translation": "Wyznaczający trendy", "status": "draft"}
 {"id": "Title_D_Achievement_137_desc_long", "source": "Obtained 300 Skins and pulled them off.", "translation": "Zdobyto 300 skórek i świetnie się w nich prezentowano.", "status": "draft"}
 {"id": "Title_D_Achievement_138_desc", "source": "Empty Closet", "translation": "Pusta szafa", "status": "draft"}
-{"id": "Title_D_Achievement_138_desc_long", "source": "Obtained over 700 Skins but it's still not enough.", "translation": "Zdobyto ponad 700 skórek, ale to wciąż za mało.", "status": "draft"}
+{"id": "Title_D_Achievement_138_desc_long", "source": "Obtained over 700 Skins but it's still not enough.", "translation": "Zdobyto ponad 700 wyglądów, ale to wciąż za mało.", "status": "draft"}
 {"id": "Title_D_Achievement_139_desc", "source": "Shaking Off the World's Shackles", "translation": "Zrzucając kajdany świata", "status": "draft"}
 {"id": "Title_D_Achievement_139_desc_long", "source": "Obtained 12 Wings.", "translation": "Zdobyto 12 skrzydeł.", "status": "draft"}
 {"id": "Title_D_Achievement_140_desc", "source": "Dominator of Dimensions", "translation": "Władca wymiarów", "status": "draft"}

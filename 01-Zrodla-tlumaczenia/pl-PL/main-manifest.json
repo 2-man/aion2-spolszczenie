@@ -2,9 +2,9 @@
   "table": "main",
   "namespace": "AION2",
   "culture": "en-US",
-  "inputSha256": "ffd9a6321165addbfa2cfc3d3a4d58e1a42d0ba6efe5714898f533188045e98f",
-  "records": 152774,
-  "decodedJsonSha256": "6e56b8496b80bc056e972cfb01c04df260895970511ad6d1d74b81b0350c83c5",
+  "inputSha256": "694a7d39e6bbe27c85dafa127d3feaca2a4a7a3c502ccf7385078b9c74dc6a3f",
+  "records": 153042,
+  "decodedJsonSha256": "20f52036d35ba20f6419a3f90de4cf58e0a7c86736e08cc3db2f6e340d08dc91",
   "batches": [
     {
       "file": "main/AchievementString/0001.jsonl",
@@ -308,7 +308,7 @@
     },
     {
       "file": "main/AchievementString/0061.jsonl",
-      "count": 86,
+      "count": 126,
       "category": "AchievementString"
     },
     {
@@ -493,7 +493,7 @@
     },
     {
       "file": "main/EnvObjData/0028.jsonl",
-      "count": 62,
+      "count": 68,
       "category": "EnvObjData"
     },
     {
@@ -583,7 +583,7 @@
     },
     {
       "file": "main/Message/0010.jsonl",
-      "count": 160,
+      "count": 161,
       "category": "Message"
     },
     {
@@ -1523,7 +1523,7 @@
     },
     {
       "file": "main/SkillAbnormalString/0034.jsonl",
-      "count": 208,
+      "count": 214,
       "category": "SkillAbnormalString"
     },
     {
@@ -1983,7 +1983,7 @@
     },
     {
       "file": "main/SkillString/0091.jsonl",
-      "count": 224,
+      "count": 226,
       "category": "SkillString"
     },
     {
@@ -2043,7 +2043,12 @@
     },
     {
       "file": "main/Skin/0012.jsonl",
-      "count": 176,
+      "count": 250,
+      "category": "Skin"
+    },
+    {
+      "file": "main/Skin/0013.jsonl",
+      "count": 28,
       "category": "Skin"
     },
     {
@@ -2058,7 +2063,7 @@
     },
     {
       "file": "main/SkinSet/0001.jsonl",
-      "count": 238,
+      "count": 246,
       "category": "SkinSet"
     },
     {
@@ -2218,7 +2223,7 @@
     },
     {
       "file": "main/String_screen/0001.jsonl",
-      "count": 129,
+      "count": 132,
       "category": "String_screen"
     },
     {
@@ -3078,7 +3083,7 @@
     },
     {
       "file": "main/String_str/0162.jsonl",
-      "count": 152,
+      "count": 226,
       "category": "String_str"
     },
     {
@@ -3298,7 +3303,7 @@
     },
     {
       "file": "main/String_ui/0038.jsonl",
-      "count": 110,
+      "count": 134,
       "category": "String_ui"
     },
     {
@@ -3398,7 +3403,7 @@
     },
     {
       "file": "main/Wing/0001.jsonl",
-      "count": 80,
+      "count": 82,
       "category": "Wing"
     }
   ]

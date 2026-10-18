@@ -81,7 +81,7 @@
 {"id": "EnvObjData_E_D2_FQ7_1_Monolith_01_desc", "source": "Destroyed Barrierstone", "translation": "Zniszczony kamień bariery", "status": "draft"}
 {"id": "EnvObjData_E_D2_FQ7_1_SearchEffect_01_desc", "source": "Adelina's Hand", "translation": "Dłoń Adeliny", "status": "draft"}
 {"id": "EnvObjData_E_D2_FQ7_1_WoodenBarrel_01_desc", "source": "Barrel", "translation": "Beczka", "status": "draft"}
-{"id": "EnvObjData_E_D2_FQ7_1_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Zużyta skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D2_FQ7_1_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_D2_FQ7_1_WoodenStool_01_desc", "source": "Chair", "translation": "Krzesło", "status": "draft"}
 {"id": "EnvObjData_E_D2_FQ7_1_WoodenStool_02_desc", "source": "Chair", "translation": "Krzesło", "status": "draft"}
 {"id": "EnvObjData_E_D2_FQ7_1_WoodenTable_01_desc", "source": "Table", "translation": "Stół", "status": "draft"}
@@ -100,7 +100,7 @@
 {"id": "EnvObjData_E_D2_H1_Garrison_BoxPile_01_1_desc", "source": "Loot", "translation": "Łup", "status": "draft"}
 {"id": "EnvObjData_E_D2_H1_Garrison_BoxPile_01_3_desc", "source": "Loot", "translation": "Łup", "status": "draft"}
 {"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_01_desc", "source": "Snow-Buried Corpse", "translation": "Zwłoki zagrzebane w śniegu", "status": "draft"}
-{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_02_desc", "source": "Decaying Corpse", "translation": "Podniebna wyspa placówki Sanctum", "status": "draft"}
+{"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_02_desc", "source": "Decaying Corpse", "translation": "Rozkładające się zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_02_03_desc", "source": "Resident Corpse", "translation": "Zwłoki mieszkańca", "status": "draft"}
 {"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_07_01_desc", "source": "Mysterious Corpse", "translation": "Tajemnicze zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_D2_H1_Garrison_DeadBody_07_02_desc", "source": "Foul-Smelling Corpse", "translation": "Cuchnące zwłoki", "status": "draft"}
@@ -148,7 +148,7 @@
 {"id": "EnvObjData_E_D2_HQ002_DeadVillager_02_desc", "source": "Collapsed Vigilante", "translation": "Poległy strażnik", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ002_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ002_Fafnium_02_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
-{"id": "EnvObjData_E_D2_HQ002_Monolith_01_desc", "source": "Destroyed Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ002_Monolith_01_desc", "source": "Destroyed Barrierstone", "translation": "Zniszczony kamień bariery", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ003_Cart_01_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ003_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ003_SearchEffect_01_desc", "source": "Tied Rope", "translation": "Przywiązana lina", "status": "draft"}
@@ -214,7 +214,7 @@
 {"id": "EnvObjData_E_D2_HQ_DrakanScroll_01_desc", "source": "Scattered Scroll", "translation": "Rozrzucony zwój", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_Fafnium_01_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_Fafnium_02_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
-{"id": "EnvObjData_E_D2_HQ_FateDeadBody_03_desc", "source": "Fate Archon Corpse", "translation": "Zwłoki Archonta Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_FateDeadBody_03_desc", "source": "Fate Archon Corpse", "translation": "Zwłoki Archonta Losu", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_Fragment_01_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_Fragment_02_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_KrallRecord_01_desc", "source": "Operational Records", "translation": "Zapisy operacyjne", "status": "draft"}
@@ -231,7 +231,7 @@
 {"id": "EnvObjData_E_D2_HQ_RuinPile_01_desc", "source": "Pile of Stones", "translation": "Stos kamieni", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_SupplyBox_01_desc", "source": "Supplies", "translation": "Zaopatrzenie", "status": "draft"}
 {"id": "EnvObjData_E_D2_HQ_TowerFragment_01_desc", "source": "Destroyed Barrierstone Fragment", "translation": "Fragment zniszczonego kamienia bariery", "status": "draft"}
-{"id": "EnvObjData_E_D2_HQ_WoodenBox_01_desc", "source": "Fate Archon Supply Chest", "translation": "Skrzynia z zaopatrzeniem Archonta Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_D2_HQ_WoodenBox_01_desc", "source": "Fate Archon Supply Chest", "translation": "Skrzynia z zaopatrzeniem Archonta Losu", "status": "draft"}
 {"id": "EnvObjData_E_D2_HiddenCube_Ground_Key_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
 {"id": "EnvObjData_E_D2_HiddenCube_Ground_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
 {"id": "EnvObjData_E_D2_HiddenCube_Water_Key_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
@@ -240,9 +240,9 @@
 {"id": "EnvObjData_E_D2_Human01_Exit_01_desc", "source": "Ice Canyon Campsite Gate", "translation": "Brama obozowiska w Lodowym Kanionie", "status": "draft"}
 {"id": "EnvObjData_E_D2_Human02_Entrance_01_desc", "source": "Ashen Campsite Door", "translation": "Drzwi obozowiska w Popielatym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_D2_Human02_Exit_01_desc", "source": "Ashen Campsite Door", "translation": "Drzwi obozowiska w Popielatym Lesie", "status": "draft"}
-{"id":"EnvObjData_E_D2_HunterHideout_TeleportArtifact_desc","source":"Hunter's Hideout","translation":"Kryjówka łowcy","status":"draft"}
+{"id": "EnvObjData_E_D2_HunterHideout_TeleportArtifact_desc", "source": "Hunter's Hideout", "translation": "Kryjówka łowcy", "status": "draft"}
 {"id": "EnvObjData_E_D2_IOKStage_Fromise9_01_desc", "source": "fromis_9 Stage", "translation": "Scena fromis_9", "status": "draft"}
-{"id":"EnvObjData_E_D2_KromedeIsland_TeleportArtifact_desc","source":"Kromede's Island","translation":"Wyspa Kromedy","status":"draft"}
+{"id": "EnvObjData_E_D2_KromedeIsland_TeleportArtifact_desc", "source": "Kromede's Island", "translation": "Wyspa Kromedy", "status": "draft"}
 {"id": "EnvObjData_E_D2_LootedBox_001_desc", "source": "Retrieve loot", "translation": "Odzyskaj łup", "status": "draft"}
 {"id": "EnvObjData_E_D2_LostDaeva_001_desc", "source": "Vanished Daeva", "translation": "Zaginiona Daeva", "status": "draft"}
 {"id": "EnvObjData_E_D2_MauRelic_001_desc", "source": "Silvermane Mau's Relic", "translation": "Relikt Mau Srebrnej Grzywy", "status": "draft"}

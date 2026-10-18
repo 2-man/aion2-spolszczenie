@@ -1,250 +1,250 @@
-{"id":"String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_TITLE_body","source":"Manage Appearance","translation":"Zarządzanie wyglądem","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_APPLY_BUTTON_APPLY_body","source":"Apply","translation":"Zastosuj","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_APPLY_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_BUTTON_CALCULATE_body","source":"Settlement","translation":"Rozliczenie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_COUNT_body","source":"{0} time(s)","translation":"{0} raz(y)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_CUMULATIVE_FEE_body","source":"Total Settlement","translation":"Łączna kwota rozliczenia","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_01_body","source":"Some of the profit will be paid to you\nwhen other users purchase an appearance that you registered in the Style Shop.","translation":"Część zysku zostanie ci wypłacona,\ngdy inni użytkownicy kupią wygląd, który zarejestrowałeś w Sklepie stylów.","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_02_A_body","source":"There is profit to be settled.","translation":"Zysk jest gotowy do rozliczenia.","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_02_B_body","source":"<warning>There is no profit to be settled.</>","translation":"<warning>Brak zysku do rozliczenia.</>","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_TITLE_body","source":"Profit Settlement Status","translation":"Stan rozliczenia zysku","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_POPUP_PROFITS_UNSETTLED_FEE_body","source":"Not Settled","translation":"Nierozliczone","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_ARMOR_TOOLTIP_body","source":"Undergarments and outfit presets are previews only and will not be applied in-game.","translation":"Bielizna i zestawy stroju służą wyłącznie do podglądu i nie zostaną zastosowane w grze.","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_BASIC_body","source":"Default Voice","translation":"Domyślny głos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_CUTE_body","source":"Cute Voice","translation":"Uroczy głos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_NASTY_body","source":"Vicious Voice","translation":"Głos pełen złości","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_STRONG_body","source":"Strong Voice","translation":"Silny głos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_TITLE_body","source":"Voice","translation":"Głos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_PREVIEW_VOICE_TOOLTIP_body","source":"Selected voice will be applied in game.","translation":"Wybrany głos zostanie zastosowany w grze.","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_ENTIRE_MENU_BMI_body","source":"Build","translation":"Budowa ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_ENTIRE_MENU_HEIGHT_body","source":"Height","translation":"Wzrost","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_HEAD_body","source":"Head","translation":"Głowa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_MENU_VEIN_body","source":"Vein Intensity","translation":"Widoczność żył","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_UPPER_BODY_body","source":"Upper Body","translation":"Górna część ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_body","source":"Proportion","translation":"Proporcje","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_LEG_INTENSITY_body","source":"Leg Muscle Definition","translation":"Zarys mięśni nóg","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_SIZE_BUTT_body","source":"Hip Size","translation":"Rozmiar bioder","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_SIZE_PELVIS_body","source":"Pelvis Size","translation":"Rozmiar miednicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_CALFMUSCLE_body","source":"Calf Thickness","translation":"Grubość łydek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_LEG_body","source":"Leg Thickness","translation":"Grubość nóg","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_QUADRICEPS_body","source":"Thigh Thickness","translation":"Grubość ud","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_UPDOWN_BUTT_body","source":"Hip Height","translation":"Wysokość bioder","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_WIDTH_FOOT_body","source":"Foot Width","translation":"Szerokość stopy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_LENGTH_MENU_LENGTH_CALF_body","source":"Calf Length","translation":"Długość łydki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_LENGTH_MENU_LENGTH_THIGH_body","source":"Thigh Length","translation":"Długość uda","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_body","source":"Lower Body","translation":"Dolna część ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_ARM_INTENSITY_body","source":"Arm Muscle Definition","translation":"Zarys mięśni ramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_LENGTH_FINGER_body","source":"Finger Length","translation":"Długość palców","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_BREAST_body","source":"Chest Position","translation":"Położenie klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_LR_BREAST_body","source":"Chest Position (Left, Right)","translation":"Położenie klatki piersiowej (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_UPDOWN_BREAST_body","source":"Chest Position (Top, Bottom)","translation":"Położenie klatki piersiowej (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_ABDOMINAL_body","source":"Belly Protrusion","translation":"Wypukłość brzucha","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BICEPS_body","source":"Biceps Thickness","translation":"Grubość bicepsów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BREAST_FEMALE_body","source":"Chest Size","translation":"Rozmiar klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BREAST_MALE_body","source":"Chest Muscle","translation":"Mięśnie klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_DELTOID_body","source":"Shoulder Size","translation":"Rozmiar barków","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_HAND_body","source":"Hand Size","translation":"Rozmiar dłoni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_SPINE_body","source":"Rib Cage Size","translation":"Rozmiar klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_TRICEPS_body","source":"Triceps Thickness","translation":"Grubość tricepsów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_ARM_body","source":"Overall Arm Thickness","translation":"Ogólna grubość ramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FINGER_body","source":"Finger Thickness","translation":"Grubość palców","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FOREARM_FEMALE_body","source":"Lower Arm Thickness","translation":"Grubość przedramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FOREARM_body","source":"Forearm Thickness","translation":"Grubość przedramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_UPPERARM_body","source":"Upper Arm Thickness","translation":"Grubość ramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_UPVOLUME_BREAST_body","source":"Upper Chest Volume","translation":"Objętość górnej części klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_VELLY_INTENSITY_body","source":"Abdominal Definition","translation":"Zarys mięśni brzucha","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_LAT_body","source":"Back Muscle","translation":"Mięśnie pleców","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_TRAPEZIUS_body","source":"Trapezius Size","translation":"Rozmiar mięśnia czworobocznego","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_WAIST_body","source":"Waist Circumference","translation":"Obwód talii","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_LOWERARM_body","source":"Lower Arm Length","translation":"Długość przedramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_SPINE_body","source":"Rib Cage Length","translation":"Długość klatki piersiowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_UPPERARM_body","source":"Upper Arm Length","translation":"Długość ramion","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_WAIST_body","source":"Waist Length","translation":"Długość talii","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_FEMALE_body","source":"Female","translation":"Kobieta","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_MALE_body","source":"Male","translation":"Mężczyzna","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_body","source":"Gender","translation":"Płeć","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_CHOOSE_body","source":"Select Skin Color","translation":"Wybierz kolor skóry","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_SUB_body","source":"Additional Color","translation":"Dodatkowy kolor","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_body","source":"Skin Color","translation":"Kolor skóry","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_BODY_body","source":"Body Skin Gloss","translation":"Połysk skóry ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_FACE_body","source":"Face Skin Gloss","translation":"Połysk skóry twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_RADIO_BUTTON_BOTH_body","source":"All Skin Gloss","translation":"Połysk całej skóry","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_RADIO_BUTTON_EACH_body","source":"Individual Face/Body","translation":"Osobno: twarz i ciało","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_body","source":"Custom Skin Gloss","translation":"Własny połysk skóry","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_body","source":"All Skin Gloss","translation":"Połysk całej skóry","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_FRAME_MENU_BODY_THICKNESS_body","source":"Width","translation":"Szerokość","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_HEAD_SIZE_body","source":"Head Size","translation":"Rozmiar głowy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_NECK_LENGTH_body","source":"Neck Length","translation":"Długość szyi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_NECK_THICKNESS_body","source":"Neck Thickness","translation":"Grubość szyi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_BODY_SETTING_body","source":"Body Shape","translation":"Kształt ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_FACE_SHAPE_body","source":"Face Shape","translation":"Kształt twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_EYE_body","source":"Eye Makeup","translation":"Makijaż oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_FACE_body","source":"Face Makeup","translation":"Makijaż twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_HAIR_body","source":"Hair","translation":"Włosy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_LIP_body","source":"Lip Makeup","translation":"Makijaż ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_body","source":"Hair / Makeup","translation":"Włosy / makijaż","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HEAD_TYPE_body","source":"Facial Features","translation":"Rysy twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_FRECKLE_body","source":"Freckle","translation":"Piegi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_MOLE_body","source":"Mole","translation":"Pieprzyk","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_TATTOO_body","source":"Tattoo","translation":"Tatuaż","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_body","source":"Customize","translation":"Dostosuj","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYEBROW_DEPTH_body","source":"Brow Bone Depth","translation":"Głębokość łuku brwiowego","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYEBROW_UP_DOWN_body","source":"Brow Bone Height","translation":"Wysokość łuku brwiowego","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYE_body","source":"Eyes","translation":"Oczy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_MOUTH_body","source":"Mouth","translation":"Usta","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_NOSE_body","source":"Nose","translation":"Nos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_CHIN_EAR_body","source":"Chin / Ears","translation":"Podbródek / uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_CHEEK_body","source":"Cheekbones","translation":"Kości policzkowe","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_CHIN_body","source":"Chin","translation":"Podbródek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_EAR_LOCATION_body","source":"Ear Position","translation":"Położenie uszu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_EAR_body","source":"Ears","translation":"Uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_FOREHEAD_body","source":"Forehead","translation":"Czoło","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_HEADSHAPE_body","source":"Face Shape","translation":"Kształt twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_PUFF_body","source":"Cheeks","translation":"Policzki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_CHEEK_PUFF_body","source":"Cheek","translation":"Policzek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_EARLOBES_body","source":"Earlobe Length","translation":"Długość płatka ucha","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_FWD_BWD_body","source":"Ear Position (Front, Back)","translation":"Położenie uszu (przód, tył)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_LOCATION_body","source":"Ear Position (Top, Bottom)","translation":"Położenie uszu (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_ROTATION_body","source":"Rotate Ears","translation":"Obróć uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_BUTTON_NORMAL_body","source":"Standard Ears","translation":"Zwykłe uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_BUTTON_POINTED_body","source":"Pointy Ears","translation":"Spiczaste uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_body","source":"Change Ear Shape","translation":"Zmień kształt uszu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SIZE_body","source":"Size","translation":"Rozmiar","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_body","source":"Ears","translation":"Uszy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_RADIO_BUTTON_EACH_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_body","source":"Custom Iris","translation":"Własny kształt tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_LEFT_body","source":"Basic Iris Shape","translation":"Podstawowy kształt tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_RIGHT_body","source":"Right Iris Shape","translation":"Kształt prawej tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_body","source":"Basic Iris Shape","translation":"Podstawowy kształt tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_LEFT_body","source":"Basic Iris Size","translation":"Podstawowy rozmiar tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_RIGHT_body","source":"Right Iris Size","translation":"Rozmiar prawej tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_body","source":"Basic Iris Size","translation":"Podstawowy rozmiar tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_LEFT_body","source":"Basic Pupil Color","translation":"Podstawowy kolor źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_RIGHT_body","source":"Right Pupil Color","translation":"Kolor prawej źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_body","source":"Basic Pupil Color","translation":"Podstawowy kolor źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_LEFT_body","source":"Default Eyeshine","translation":"Domyślny blask oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_RIGHT_body","source":"Right Eyeshine","translation":"Blask prawego oka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_body","source":"Default Eyeshine","translation":"Domyślny blask oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_RADIO_BUTTON_EACH_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_LEFT_body","source":"Basic Pupil Shape","translation":"Podstawowy kształt źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_RIGHT_body","source":"Right Pupil Shape","translation":"Kształt prawej źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_body","source":"Basic Pupil Shape","translation":"Podstawowy kształt źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_LEFT_body","source":"Basic Pupil Size","translation":"Podstawowy rozmiar źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_RIGHT_body","source":"Right Pupil Size","translation":"Rozmiar prawej źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_body","source":"Basic Pupil Size","translation":"Podstawowy rozmiar źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_body","source":"Custom Pupils","translation":"Własne źrenice","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_LEFT_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_RIGHT_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_LEFT_body","source":"Basic Sclera Vein Color","translation":"Podstawowy kolor żyłek twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_RIGHT_body","source":"Right Sclera Vein Color","translation":"Kolor żyłek prawej twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_body","source":"Basic Sclera Vein Color","translation":"Podstawowy kolor żyłek twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_LEFT_body","source":"Basic Sclera Vein Intensity","translation":"Widoczność żyłek twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_RIGHT_body","source":"Right Sclera Vein Intensity","translation":"Widoczność żyłek prawej twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_body","source":"Basic Sclera Vein Intensity","translation":"Widoczność żyłek twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_body","source":"Custom Sclera","translation":"Własna twardówka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_body","source":"Eyeballs","translation":"Gałki oczne","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_IRIS_body","source":"Iris","translation":"Tęczówka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_PUPIL_body","source":"Pupil","translation":"Źrenica","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_SCLERA_body","source":"Sclera","translation":"Twardówka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_body","source":"Eyebrows","translation":"Brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_DETAIL_body","source":"Eyebrow","translation":"Brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_BONE_POSITION_body","source":"Brow Bone Position","translation":"Położenie łuku brwiowego","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_COLOR_FOUNDATION_body","source":"Eyebrow","translation":"Brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_COLOR_body","source":"Eyebrow Color","translation":"Kolor brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_DIST_body","source":"Eyebrow Distance","translation":"Odległość między brwiami","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_HEIGHT_body","source":"Eyebrow Length","translation":"Długość brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_INTENSITY_body","source":"Eyebrow Intensity","translation":"Intensywność brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_POSITION_body","source":"Eyebrow Position","translation":"Położenie brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_ROUGHNESS_body","source":"Eyebrow Gloss","translation":"Połysk brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_SHAPE_body","source":"Eyebrow Shape","translation":"Kształt brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_SIZE_body","source":"Eyebrow Size","translation":"Rozmiar brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_TAIL_ROTATE_body","source":"Eyebrow Angle","translation":"Kąt brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_UP_DOWN_body","source":"Eyebrow Position","translation":"Położenie brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_WEIGHT_body","source":"Eyebrow Thickness","translation":"Grubość brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_COLOR_body","source":"Color","translation":"Kolor","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_INTENSITY_body","source":"Intensity","translation":"Intensywność","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_ROUGHNESS_body","source":"Eyebrow Gloss","translation":"Połysk brwi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_ANGLE_body","source":"Eyelash Angle","translation":"Kąt rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_BOTTOM_body","source":"Lower Eyelash Color","translation":"Kolor dolnych rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_RADIO_BUTTON_EACH_body","source":"Two-Tone","translation":"Dwukolorowe","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_body","source":"Eyelash Color Area","translation":"Obszar koloru rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_TOP_body","source":"Default Eyelash Color","translation":"Domyślny kolor rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_body","source":"Default Eyelash Color","translation":"Domyślny kolor rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_DOWN_HEIGHT_body","source":"Lower Eyelash Intensity","translation":"Intensywność dolnych rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_BOTH_body","source":"Both Sides","translation":"Obie strony","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_DOWN_body","source":"Lower","translation":"Dolne","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_UP_body","source":"Upper","translation":"Górne","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_LENGTH_body","source":"Eyelash Length","translation":"Długość rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_SHAPE_body","source":"Eyelash Shape","translation":"Kształt rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_UP_HEIGHT_body","source":"Upper Eyelash Intensity","translation":"Intensywność górnych rzęs","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_EYE_body","source":"Eye Details","translation":"Szczegóły oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_POSITION_body","source":"Eye Position","translation":"Położenie oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_SIZE_body","source":"Eye Size","translation":"Rozmiar oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_IRIS_body","source":"Iris","translation":"Tęczówka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_PUPIL_body","source":"Pupil","translation":"Źrenica","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_SCLERA_body","source":"Sclera","translation":"Twardówka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_body","source":"Eyeballs","translation":"Gałki oczne","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYELASH_DETAIL_body","source":"Eyelash","translation":"Rzęsa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYELASH_body","source":"Eyelashes","translation":"Rzęsy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_OUTLINE_body","source":"Shape","translation":"Kształt","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_PERSON_body","source":"Eye Shape","translation":"Kształt oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_BOTH_body","source":"Both Sides","translation":"Obie strony","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_LEFT_body","source":"Left","translation":"Lewe","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_RIGHT_body","source":"Right","translation":"Prawe","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_LOCATION_body","source":"Applied Position","translation":"Położenie zastosowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_LEFT_body","source":"Default Sclera Color","translation":"Domyślny kolor twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_RADIO_BUTTON_EACH_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_body","source":"Sclera Color Area","translation":"Obszar koloru twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RIGHT_body","source":"Right Sclera Color","translation":"Kolor prawej twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_body","source":"Default Sclera Color","translation":"Domyślny kolor twardówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_LEFT_body","source":"Default Center Color","translation":"Domyślny kolor środka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RADIO_BUTTON_EACH_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RANGE_body","source":"Iris Center Color Area","translation":"Obszar koloru środka tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RIGHT_body","source":"Right Center Color","translation":"Kolor środka prawej tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_body","source":"Default Center Color","translation":"Domyślny kolor środka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_LEFT_body","source":"Default Border Color","translation":"Domyślny kolor obwódki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_RADIO_BUTTON_BOTH_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_RADIO_BUTTON_EACH_body","source":"Asymmetrical","translation":"Asymetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_body","source":"Iris Border Color Area","translation":"Obszar koloru obwódki tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RIGHT_body","source":"Right Border Color","translation":"Kolor prawej obwódki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_body","source":"Default Border Color","translation":"Domyślny kolor obwódki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EYE_GLOW_COLOR_BRIGHTNESS_body","source":"Brightness","translation":"Jasność","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_SHAPE_body","source":"Iris Shape","translation":"Kształt tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_SIZE_body","source":"Iris Size","translation":"Rozmiar tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_TEXTURE_body","source":"Iris Shape","translation":"Kształt tęczówki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_COLOR_body","source":"Pupil Color","translation":"Kolor źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_EMISSIVE_COLOR_body","source":"Eyeshine Color","translation":"Kolor blasku oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_EMISSIVE_body","source":"Eyeshine","translation":"Blask oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_SIZE_body","source":"Pupil Size","translation":"Rozmiar źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TEXTURE_body","source":"Pupil Shape","translation":"Kształt źrenicy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_ROTATE_body","source":"Rotate Pattern","translation":"Obróć wzór","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_SIZE_body","source":"Pattern Size","translation":"Rozmiar wzoru","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_body","source":"Pattern","translation":"Wzór","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_BROW_LOWER_UP_DOWN_body","source":"Lower Eyelid Position","translation":"Położenie dolnej powieki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_BROW_UPPER_UP_DOWN_body","source":"Upper Eyelid Position","translation":"Położenie górnej powieki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_DEPTH_body","source":"Eye Depth","translation":"Głębokość oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_DOUBLEEYELID_SHAPE_body","source":"Double Eyelid Shape","translation":"Kształt podwójnej powieki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_GAP_body","source":"Eye Spacing","translation":"Rozstaw oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_HEAD_IN_OUT_body","source":"Inner Eye Corner Width","translation":"Szerokość wewnętrznych kącików oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_HEAD_UP_DOWN_body","source":"Inner Eye Corner Height","translation":"Wysokość wewnętrznych kącików oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_POSITION_body","source":"Eye Position","translation":"Położenie oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_ROTATE_IN_OUT_body","source":"Rotate Eyes","translation":"Obróć oczy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_SIZE_UP_DOWN_body","source":"Eye Size","translation":"Rozmiar oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_TAIL_IN_OUT_body","source":"Outer Eye Corner Width","translation":"Szerokość zewnętrznych kącików oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_TAIL_body","source":"Outer Eye Corner Height","translation":"Wysokość zewnętrznych kącików oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_VERTICAL_body","source":"Eye Position","translation":"Położenie oczu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_body","source":"Eyes","translation":"Oczy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_APPLEZONE_HEIGHT_body","source":"Lower Cheekbone Protrusion","translation":"Wypukłość dolnej części kości policzkowych","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_CHEEKBONE_UP_DOWN_body","source":"Cheekbone Height","translation":"Wysokość kości policzkowych","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_CHEEK_body","source":"Cheekbone Protrusion","translation":"Wypukłość kości policzkowych","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_FOREHEAD_body","source":"Forehead Protrusion","translation":"Wypukłość czoła","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_HEADSHAPE_MIDFACE_UPDOWN_body","source":"Midface Height","translation":"Wysokość środkowej części twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_HEADSHAPE_body","source":"Face Type","translation":"Typ twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_body","source":"Shape","translation":"Kształt","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FOREHEAD_CHEEK_body","source":"Forehead / Cheekbone","translation":"Czoło / kości policzkowe","status":"draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_SUB_02_REFRESHMENT_body", "source": "Get new information", "translation": "Pobierz nowe informacje", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_APPERANCE_MANAGEMENT_TITLE_body", "source": "Manage Appearance", "translation": "Zarządzanie wyglądem", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_APPLY_BUTTON_APPLY_body", "source": "Apply", "translation": "Zastosuj", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_APPLY_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_BUTTON_CALCULATE_body", "source": "Settlement", "translation": "Rozliczenie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_COUNT_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_CUMULATIVE_FEE_body", "source": "Total Settlement", "translation": "Łączna kwota rozliczenia", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_01_body", "source": "Some of the profit will be paid to you\nwhen other users purchase an appearance that you registered in the Style Shop.", "translation": "Część zysku zostanie ci wypłacona,\ngdy inni użytkownicy kupią wygląd, który zarejestrowałeś w Sklepie stylów.", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_02_A_body", "source": "There is profit to be settled.", "translation": "Zysk jest gotowy do rozliczenia.", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_SUBTITLE_02_B_body", "source": "<warning>There is no profit to be settled.</>", "translation": "<warning>Brak zysku do rozliczenia.</>", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_TITLE_body", "source": "Profit Settlement Status", "translation": "Stan rozliczenia zysku", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_POPUP_PROFITS_UNSETTLED_FEE_body", "source": "Not Settled", "translation": "Nierozliczone", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_ARMOR_TOOLTIP_body", "source": "Undergarments and outfit presets are previews only and will not be applied in-game.", "translation": "Bielizna i zestawy stroju służą wyłącznie do podglądu i nie zostaną zastosowane w grze.", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_BASIC_body", "source": "Default Voice", "translation": "Domyślny głos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_CUTE_body", "source": "Cute Voice", "translation": "Uroczy głos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_NASTY_body", "source": "Vicious Voice", "translation": "Głos pełen złości", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_STRONG_body", "source": "Strong Voice", "translation": "Silny głos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_TITLE_body", "source": "Voice", "translation": "Głos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_PREVIEW_VOICE_TOOLTIP_body", "source": "Selected voice will be applied in game.", "translation": "Wybrany głos zostanie zastosowany w grze.", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_ENTIRE_MENU_BMI_body", "source": "Build", "translation": "Budowa ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_ENTIRE_MENU_HEIGHT_body", "source": "Height", "translation": "Wzrost", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_HEAD_body", "source": "Head", "translation": "Głowa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_MENU_VEIN_body", "source": "Vein Intensity", "translation": "Widoczność żył", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_UPPER_BODY_body", "source": "Upper Body", "translation": "Górna część ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LENGTH_THICK_body", "source": "Proportion", "translation": "Proporcje", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_LEG_INTENSITY_body", "source": "Leg Muscle Definition", "translation": "Zarys mięśni nóg", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_SIZE_BUTT_body", "source": "Hip Size", "translation": "Rozmiar bioder", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_SIZE_PELVIS_body", "source": "Pelvis Size", "translation": "Rozmiar miednicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_CALFMUSCLE_body", "source": "Calf Thickness", "translation": "Grubość łydek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_LEG_body", "source": "Leg Thickness", "translation": "Grubość nóg", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_THICK_QUADRICEPS_body", "source": "Thigh Thickness", "translation": "Grubość ud", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_UPDOWN_BUTT_body", "source": "Hip Height", "translation": "Wysokość bioder", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_DETAIL_MENU_WIDTH_FOOT_body", "source": "Foot Width", "translation": "Szerokość stopy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_LENGTH_MENU_LENGTH_CALF_body", "source": "Calf Length", "translation": "Długość łydki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_CATEGORY_LENGTH_MENU_LENGTH_THIGH_body", "source": "Thigh Length", "translation": "Długość uda", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_LOWER_BODY_body", "source": "Lower Body", "translation": "Dolna część ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_ARM_INTENSITY_body", "source": "Arm Muscle Definition", "translation": "Zarys mięśni ramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_LENGTH_FINGER_body", "source": "Finger Length", "translation": "Długość palców", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_BREAST_body", "source": "Chest Position", "translation": "Położenie klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_LR_BREAST_body", "source": "Chest Position (Left, Right)", "translation": "Położenie klatki piersiowej (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_POS_UPDOWN_BREAST_body", "source": "Chest Position (Top, Bottom)", "translation": "Położenie klatki piersiowej (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_ABDOMINAL_body", "source": "Belly Protrusion", "translation": "Wypukłość brzucha", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BICEPS_body", "source": "Biceps Thickness", "translation": "Grubość bicepsów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BREAST_FEMALE_body", "source": "Chest Size", "translation": "Rozmiar klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_BREAST_MALE_body", "source": "Chest Muscle", "translation": "Mięśnie klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_DELTOID_body", "source": "Shoulder Size", "translation": "Rozmiar barków", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_HAND_body", "source": "Hand Size", "translation": "Rozmiar dłoni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_SPINE_body", "source": "Rib Cage Size", "translation": "Rozmiar klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_SIZE_TRICEPS_body", "source": "Triceps Thickness", "translation": "Grubość tricepsów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_ARM_body", "source": "Overall Arm Thickness", "translation": "Ogólna grubość ramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FINGER_body", "source": "Finger Thickness", "translation": "Grubość palców", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FOREARM_FEMALE_body", "source": "Lower Arm Thickness", "translation": "Grubość przedramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_FOREARM_body", "source": "Forearm Thickness", "translation": "Grubość przedramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_THICK_UPPERARM_body", "source": "Upper Arm Thickness", "translation": "Grubość ramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_UPVOLUME_BREAST_body", "source": "Upper Chest Volume", "translation": "Objętość górnej części klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_VELLY_INTENSITY_body", "source": "Abdominal Definition", "translation": "Zarys mięśni brzucha", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_LAT_body", "source": "Back Muscle", "translation": "Mięśnie pleców", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_TRAPEZIUS_body", "source": "Trapezius Size", "translation": "Rozmiar mięśnia czworobocznego", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_DETAIL_MENU_WIDTH_WAIST_body", "source": "Waist Circumference", "translation": "Obwód talii", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_LOWERARM_body", "source": "Lower Arm Length", "translation": "Długość przedramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_SPINE_body", "source": "Rib Cage Length", "translation": "Długość klatki piersiowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_UPPERARM_body", "source": "Upper Arm Length", "translation": "Długość ramion", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_HOR_TAB_UPPER_BODY_CATEGORY_LENGTH_MENU_LENGTH_WAIST_body", "source": "Waist Length", "translation": "Długość talii", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_FEMALE_body", "source": "Female", "translation": "Kobieta", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_MALE_body", "source": "Male", "translation": "Mężczyzna", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_GENDER_body", "source": "Gender", "translation": "Płeć", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_CHOOSE_body", "source": "Select Skin Color", "translation": "Wybierz kolor skóry", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_SUB_body", "source": "Additional Color", "translation": "Dodatkowy kolor", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_COLOR_body", "source": "Skin Color", "translation": "Kolor skóry", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_BODY_body", "source": "Body Skin Gloss", "translation": "Połysk skóry ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_FACE_body", "source": "Face Skin Gloss", "translation": "Połysk skóry twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_RADIO_BUTTON_BOTH_body", "source": "All Skin Gloss", "translation": "Połysk całej skóry", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_RADIO_BUTTON_EACH_body", "source": "Individual Face/Body", "translation": "Osobno: twarz i ciało", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_RANGE_body", "source": "Custom Skin Gloss", "translation": "Własny połysk skóry", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_MENU_SKIN_GLOSSNESS_body", "source": "All Skin Gloss", "translation": "Połysk całej skóry", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_FRAME_MENU_BODY_THICKNESS_body", "source": "Width", "translation": "Szerokość", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_HEAD_SIZE_body", "source": "Head Size", "translation": "Rozmiar głowy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_NECK_LENGTH_body", "source": "Neck Length", "translation": "Długość szyi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_SUBTITLE_UPPER_BODY_MENU_NECK_THICKNESS_body", "source": "Neck Thickness", "translation": "Grubość szyi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_BODY_SETTING_body", "source": "Body Shape", "translation": "Kształt ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_FACE_SHAPE_body", "source": "Face Shape", "translation": "Kształt twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_EYE_body", "source": "Eye Makeup", "translation": "Makijaż oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_FACE_body", "source": "Face Makeup", "translation": "Makijaż twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_HAIR_body", "source": "Hair", "translation": "Włosy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_LIP_body", "source": "Lip Makeup", "translation": "Makijaż ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HAIR_MAKEUP_body", "source": "Hair / Makeup", "translation": "Włosy / makijaż", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_BASIC_DETAIL_TAB_HEAD_TYPE_body", "source": "Facial Features", "translation": "Rysy twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_FRECKLE_body", "source": "Freckle", "translation": "Piegi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_MOLE_body", "source": "Mole", "translation": "Pieprzyk", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_DETAIL_TATTOO_body", "source": "Tattoo", "translation": "Tatuaż", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_DECORATION_body", "source": "Customize", "translation": "Dostosuj", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYEBROW_DEPTH_body", "source": "Brow Bone Depth", "translation": "Głębokość łuku brwiowego", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYEBROW_UP_DOWN_body", "source": "Brow Bone Height", "translation": "Wysokość łuku brwiowego", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_EYE_body", "source": "Eyes", "translation": "Oczy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_MOUTH_body", "source": "Mouth", "translation": "Usta", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_DROPBOX_TITLE_FACE_EYE_NOSE_MOUTH_DETAIL_TAB_NOSE_body", "source": "Nose", "translation": "Nos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_CHIN_EAR_body", "source": "Chin / Ears", "translation": "Podbródek / uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_CHEEK_body", "source": "Cheekbones", "translation": "Kości policzkowe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_CHIN_body", "source": "Chin", "translation": "Podbródek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_EAR_LOCATION_body", "source": "Ear Position", "translation": "Położenie uszu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_EAR_body", "source": "Ears", "translation": "Uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_FOREHEAD_body", "source": "Forehead", "translation": "Czoło", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_HEADSHAPE_body", "source": "Face Shape", "translation": "Kształt twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_DETAIL_PUFF_body", "source": "Cheeks", "translation": "Policzki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_CHEEK_PUFF_body", "source": "Cheek", "translation": "Policzek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_EARLOBES_body", "source": "Earlobe Length", "translation": "Długość płatka ucha", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_FWD_BWD_body", "source": "Ear Position (Front, Back)", "translation": "Położenie uszu (przód, tył)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_LOCATION_body", "source": "Ear Position (Top, Bottom)", "translation": "Położenie uszu (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_ROTATION_body", "source": "Rotate Ears", "translation": "Obróć uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_BUTTON_NORMAL_body", "source": "Standard Ears", "translation": "Zwykłe uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_BUTTON_POINTED_body", "source": "Pointy Ears", "translation": "Spiczaste uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SHAPE_CHANGE_body", "source": "Change Ear Shape", "translation": "Zmień kształt uszu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_SUBTITLE_EAR_DETAIL_MENU_EAR_SIZE_body", "source": "Size", "translation": "Rozmiar", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EAR_body", "source": "Ears", "translation": "Uszy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_RADIO_BUTTON_EACH_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_RANGE_body", "source": "Custom Iris", "translation": "Własny kształt tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_LEFT_body", "source": "Basic Iris Shape", "translation": "Podstawowy kształt tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_RIGHT_body", "source": "Right Iris Shape", "translation": "Kształt prawej tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SHAPE_body", "source": "Basic Iris Shape", "translation": "Podstawowy kształt tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_LEFT_body", "source": "Basic Iris Size", "translation": "Podstawowy rozmiar tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_RIGHT_body", "source": "Right Iris Size", "translation": "Rozmiar prawej tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_IRIS_SIZE_body", "source": "Basic Iris Size", "translation": "Podstawowy rozmiar tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_LEFT_body", "source": "Basic Pupil Color", "translation": "Podstawowy kolor źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_RIGHT_body", "source": "Right Pupil Color", "translation": "Kolor prawej źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_COLOR_body", "source": "Basic Pupil Color", "translation": "Podstawowy kolor źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_LEFT_body", "source": "Default Eyeshine", "translation": "Domyślny blask oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_RIGHT_body", "source": "Right Eyeshine", "translation": "Blask prawego oka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_EMISSIVE_body", "source": "Default Eyeshine", "translation": "Domyślny blask oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_RADIO_BUTTON_EACH_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_LEFT_body", "source": "Basic Pupil Shape", "translation": "Podstawowy kształt źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_RIGHT_body", "source": "Right Pupil Shape", "translation": "Kształt prawej źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SHAPE_body", "source": "Basic Pupil Shape", "translation": "Podstawowy kształt źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_LEFT_body", "source": "Basic Pupil Size", "translation": "Podstawowy rozmiar źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_RIGHT_body", "source": "Right Pupil Size", "translation": "Rozmiar prawej źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_SIZE_body", "source": "Basic Pupil Size", "translation": "Podstawowy rozmiar źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_PUPIL_body", "source": "Custom Pupils", "translation": "Własne źrenice", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_LEFT_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_RIGHT_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_LEFT_body", "source": "Basic Sclera Vein Color", "translation": "Podstawowy kolor żyłek twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_RIGHT_body", "source": "Right Sclera Vein Color", "translation": "Kolor żyłek prawej twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_COLOR_body", "source": "Basic Sclera Vein Color", "translation": "Podstawowy kolor żyłek twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_LEFT_body", "source": "Basic Sclera Vein Intensity", "translation": "Intensywność żyłek twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_RIGHT_body", "source": "Right Sclera Vein Intensity", "translation": "Intensywność żyłek prawej twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_SHAPE_STRONG_body", "source": "Basic Sclera Vein Intensity", "translation": "Intensywność żyłek twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_DETAIL_MENU_SCLERA_body", "source": "Custom Sclera", "translation": "Własna twardówka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBALL_body", "source": "Eyeballs", "translation": "Gałki oczne", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_IRIS_body", "source": "Iris", "translation": "Tęczówka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_PUPIL_body", "source": "Pupil", "translation": "Źrenica", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_SCLERA_body", "source": "Sclera", "translation": "Twardówka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYEBROW_body", "source": "Eyebrows", "translation": "Brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_DETAIL_body", "source": "Eyebrow", "translation": "Brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_BONE_POSITION_body", "source": "Brow Bone Position", "translation": "Położenie łuku brwiowego", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_COLOR_FOUNDATION_body", "source": "Eyebrow", "translation": "Brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_COLOR_body", "source": "Eyebrow Color", "translation": "Kolor brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_DIST_body", "source": "Eyebrow Distance", "translation": "Odległość między brwiami", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_HEIGHT_body", "source": "Eyebrow Length", "translation": "Długość brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_INTENSITY_body", "source": "Eyebrow Intensity", "translation": "Intensywność brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_POSITION_body", "source": "Eyebrow Position", "translation": "Położenie brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_ROUGHNESS_body", "source": "Eyebrow Gloss", "translation": "Połysk brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_SHAPE_body", "source": "Eyebrow Shape", "translation": "Kształt brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_SIZE_body", "source": "Eyebrow Size", "translation": "Rozmiar brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_TAIL_ROTATE_body", "source": "Eyebrow Angle", "translation": "Kąt brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_UP_DOWN_body", "source": "Eyebrow Position", "translation": "Położenie brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_BROW_MENU_WEIGHT_body", "source": "Eyebrow Thickness", "translation": "Grubość brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_COLOR_body", "source": "Color", "translation": "Kolor", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_INTENSITY_body", "source": "Intensity", "translation": "Intensywność", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYEBROW_PENCIL_MENU_ROUGHNESS_body", "source": "Eyebrow Gloss", "translation": "Połysk brwi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_ANGLE_body", "source": "Eyelash Angle", "translation": "Kąt rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_BOTTOM_body", "source": "Lower Eyelash Color", "translation": "Kolor dolnych rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_RADIO_BUTTON_EACH_body", "source": "Two-Tone", "translation": "Dwukolorowe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_RANGE_body", "source": "Eyelash Color Area", "translation": "Obszar koloru rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_TOP_body", "source": "Default Eyelash Color", "translation": "Domyślny kolor rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_COLOR_body", "source": "Default Eyelash Color", "translation": "Domyślny kolor rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_DOWN_HEIGHT_body", "source": "Lower Eyelash Intensity", "translation": "Intensywność dolnych rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_BOTH_body", "source": "Both Sides", "translation": "Obie strony", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_DOWN_body", "source": "Lower", "translation": "Dolne", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_EYELASH_COLOR_BUTTON_UP_body", "source": "Upper", "translation": "Górne", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_LENGTH_body", "source": "Eyelash Length", "translation": "Długość rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_SHAPE_body", "source": "Eyelash Shape", "translation": "Kształt rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_BROW_SUBTITLE_EYELASH_MENU_UP_HEIGHT_body", "source": "Upper Eyelash Intensity", "translation": "Intensywność górnych rzęs", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_EYE_body", "source": "Eye Details", "translation": "Szczegóły oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_POSITION_body", "source": "Eye Position", "translation": "Położenie oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_DETAIL_SIZE_body", "source": "Eye Size", "translation": "Rozmiar oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_IRIS_body", "source": "Iris", "translation": "Tęczówka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_PUPIL_body", "source": "Pupil", "translation": "Źrenica", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_DETAIL_SCLERA_body", "source": "Sclera", "translation": "Twardówka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYEBALL_body", "source": "Eyeballs", "translation": "Gałki oczne", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYELASH_DETAIL_body", "source": "Eyelash", "translation": "Rzęsa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_EYELASH_body", "source": "Eyelashes", "translation": "Rzęsy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_OUTLINE_body", "source": "Shape", "translation": "Kształt", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_PERSON_body", "source": "Eye Shape", "translation": "Kształt oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_BOTH_body", "source": "Both Sides", "translation": "Obie strony", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_LEFT_body", "source": "Left", "translation": "Lewe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_BUTTON_RIGHT_body", "source": "Right", "translation": "Prawe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_LOCATION_body", "source": "Applied Position", "translation": "Położenie zastosowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_LEFT_body", "source": "Default Sclera Color", "translation": "Domyślny kolor twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_RADIO_BUTTON_EACH_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RANGE_body", "source": "Sclera Color Area", "translation": "Obszar koloru twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_RIGHT_body", "source": "Right Sclera Color", "translation": "Kolor prawej twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_EYEBALL_COLOR_WHITE_body", "source": "Default Sclera Color", "translation": "Domyślny kolor twardówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_LEFT_body", "source": "Default Center Color", "translation": "Domyślny kolor środka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RADIO_BUTTON_EACH_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RANGE_body", "source": "Iris Center Color Area", "translation": "Obszar koloru środka tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_RIGHT_body", "source": "Right Center Color", "translation": "Kolor środka prawej tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_COLOR_body", "source": "Default Center Color", "translation": "Domyślny kolor środka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_LEFT_body", "source": "Default Border Color", "translation": "Domyślny kolor obwódki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_RADIO_BUTTON_BOTH_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_RADIO_BUTTON_EACH_body", "source": "Asymmetrical", "translation": "Asymetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RANGE_body", "source": "Iris Border Color Area", "translation": "Obszar koloru obwódki tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_RIGHT_body", "source": "Right Border Color", "translation": "Kolor prawej obwódki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EDGE_COLOR_body", "source": "Default Border Color", "translation": "Domyślny kolor obwódki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_EYE_GLOW_COLOR_BRIGHTNESS_body", "source": "Brightness", "translation": "Jasność", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_SHAPE_body", "source": "Iris Shape", "translation": "Kształt tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_SIZE_body", "source": "Iris Size", "translation": "Rozmiar tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_IRIS_TEXTURE_body", "source": "Iris Shape", "translation": "Kształt tęczówki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_COLOR_body", "source": "Pupil Color", "translation": "Kolor źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_EMISSIVE_COLOR_body", "source": "Eyeshine Color", "translation": "Kolor blasku oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_EMISSIVE_body", "source": "Eyeshine", "translation": "Blask oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_SIZE_body", "source": "Pupil Size", "translation": "Rozmiar źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TEXTURE_body", "source": "Pupil Shape", "translation": "Kształt źrenicy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_ROTATE_body", "source": "Rotate Pattern", "translation": "Obróć wzór", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_SIZE_body", "source": "Pattern Size", "translation": "Rozmiar wzoru", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYEBALL_MENU_PUPIL_TYPE_body", "source": "Pattern", "translation": "Wzór", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_BROW_LOWER_UP_DOWN_body", "source": "Lower Eyelid Position", "translation": "Położenie dolnej powieki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_BROW_UPPER_UP_DOWN_body", "source": "Upper Eyelid Position", "translation": "Położenie górnej powieki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_DEPTH_body", "source": "Eye Depth", "translation": "Głębokość oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_DOUBLEEYELID_SHAPE_body", "source": "Double Eyelid Shape", "translation": "Kształt podwójnej powieki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_GAP_body", "source": "Eye Spacing", "translation": "Rozstaw oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_HEAD_IN_OUT_body", "source": "Inner Eye Corner Width", "translation": "Szerokość wewnętrznych kącików oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_HEAD_UP_DOWN_body", "source": "Inner Eye Corner Height", "translation": "Wysokość wewnętrznych kącików oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_POSITION_body", "source": "Eye Position", "translation": "Położenie oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_ROTATE_IN_OUT_body", "source": "Rotate Eyes", "translation": "Obróć oczy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_SIZE_UP_DOWN_body", "source": "Eye Size", "translation": "Rozmiar oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_TAIL_IN_OUT_body", "source": "Outer Eye Corner Width", "translation": "Szerokość zewnętrznych kącików oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_TAIL_body", "source": "Outer Eye Corner Height", "translation": "Wysokość zewnętrznych kącików oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_SUBTITLE_EYE_DETAIL_MENU_EYE_VERTICAL_body", "source": "Eye Position", "translation": "Położenie oczu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_EYE_body", "source": "Eyes", "translation": "Oczy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_APPLEZONE_HEIGHT_body", "source": "Lower Cheekbone Protrusion", "translation": "Wypukłość dolnej części kości policzkowych", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_CHEEKBONE_UP_DOWN_body", "source": "Cheekbone Height", "translation": "Wysokość kości policzkowych", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_CHEEK_body", "source": "Cheekbone Protrusion", "translation": "Wypukłość kości policzkowych", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_FOREHEAD_body", "source": "Forehead Protrusion", "translation": "Wypukłość czoła", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_HEADSHAPE_MIDFACE_UPDOWN_body", "source": "Midface Height", "translation": "Wysokość środkowej części twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_SUBTITLE_FACE_DETAIL_MENU_HEADSHAPE_body", "source": "Face Type", "translation": "Typ twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FACE_body", "source": "Shape", "translation": "Kształt", "status": "draft"}

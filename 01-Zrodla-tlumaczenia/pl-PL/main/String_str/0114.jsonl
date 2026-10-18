@@ -1,3 +1,73 @@
+{"id": "String_STR_M_L2_bf_LP_Kalgolem_01_V01_001_body", "source": "Dull Kalgolem", "translation": "Tępy Kalgolem", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Kalgolem_01_V02_001_body", "source": "Rigid Kalgolem", "translation": "Sztywny Kalgolem", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Lepisma_01_001_body", "source": "Coastal Slink", "translation": "Nadmorski Slink", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Lepisma_01_V01_001_body", "source": "Coastal Young Slink", "translation": "Młody nadbrzeżny Slink", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Muta_01_001_body", "source": "Wilds Sylphen", "translation": "Dziki Sylfen", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_PlundererArc_01_body", "source": "Wilds Thieves Watcher", "translation": "Obserwator złodziei dziczy", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_PlundererSoldier_01_body", "source": "Wilds Thieves Reaver", "translation": "Łupieżca złodziei dziczy", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_PlundererSoldier_02_body", "source": "Wilds Thieves Patrol", "translation": "Patrol złodziei dziczy", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Possa_01_body", "source": "Wilds Fossa", "translation": "Dzika Fossa", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Scorpion_01_001_body", "source": "Highland Scorpion", "translation": "Górski skorpion", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Starturtle_01_001_body", "source": "Coastal Starturtle", "translation": "Nadmorski Starturtle", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Torba_01_CV01_body", "source": "Highland Torba", "translation": "Górska Torba", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Trogas_01_CV01_body", "source": "Coastal Trogas", "translation": "Nadbrzeżny Trogas", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_Tuka_01_body", "source": "Highland Tuka", "translation": "Górski Tuka", "status": "draft"}
+{"id": "String_STR_M_L2_bf_LP_bee_01_V01_001_body", "source": "Highland Worker Bee", "translation": "Górska pszczoła robotnica", "status": "draft"}
+{"id": "String_STR_M_Lagta_01_V01_Skill12_Summon_body", "source": "Abyss Predator", "translation": "Drapieżnik Otchłani", "status": "draft"}
+{"id": "String_STR_M_LakeGuard_01_body", "source": "Lake Guardian", "translation": "Strażnik jeziora", "status": "draft"}
+{"id": "String_STR_M_LavaLump_01_002_body", "source": "Lava Glob", "translation": "Kula lawy", "status": "draft"}
+{"id": "String_STR_M_LavaLump_01_body", "source": "Lava Glob (Specimen)", "translation": "Lawowy glut (okaz)", "status": "draft"}
+{"id": "String_STR_M_LavaLump_02_body", "source": "Giant Lava Glob", "translation": "Wielki lawowy glut", "status": "draft"}
+{"id": "String_STR_M_LepharistBoard_01_body", "source": "Lepharist Aerial Platform", "translation": "Platforma powietrzna Lepharystów", "status": "draft"}
+{"id": "String_STR_M_Lepharist_M_03_V01_WeaponAtk_01_body", "source": "Nazmun's Weapon", "translation": "Broń Nazmuna", "status": "draft"}
+{"id": "String_STR_M_Lepisma_01_V01_body", "source": "Young Slink (Specimen)", "translation": "Młody Slink (okaz)", "status": "draft"}
+{"id": "String_STR_M_Lepisma_01_body", "source": "Slink (Specimen)", "translation": "Slink (okaz)", "status": "draft"}
+{"id": "String_STR_M_LifeStone_01_body", "source": "Guardstone of Life", "translation": "Kamień strażniczy życia", "status": "draft"}
+{"id": "String_STR_M_Lufilini_01_V01_body", "source": "Decomposed Lupyllini (Specimen)", "translation": "Rozkładający się Lupyllini (okaz)", "status": "draft"}
+{"id": "String_STR_M_Lufilini_01_body", "source": "Modified Lupyllini", "translation": "Zmodyfikowany Lupyllini", "status": "draft"}
+{"id": "String_STR_M_Lufilini_02_body", "source": "Lupyllini (Specimen)", "translation": "Lupyllini (okaz)", "status": "draft"}
+{"id": "String_STR_M_M_CreionAddict_body", "source": "Addicted Creion", "translation": "Uzależniony Creion", "status": "draft"}
+{"id": "String_STR_M_M_D1_Daeva04_SpiritArc_01_01_body", "source": "Legionnaire's Soul", "translation": "Dusza legionisty", "status": "draft"}
+{"id": "String_STR_M_M_DracoWar_body", "source": "Draconute Sentry", "translation": "Wartownik drakonuta", "status": "draft"}
+{"id": "String_STR_M_M_DragonChaser_body", "source": "Draconute Chaser", "translation": "Tropiciel Draconute", "status": "draft"}
+{"id": "String_STR_M_M_GhostDeava_01_body", "source": "Furious Daeva Warrior Revenant", "translation": "Rozwścieczony upiór-wojownik daeva", "status": "draft"}
+{"id": "String_STR_M_M_GhostDeava_body", "source": "Daeva Warrior Revenant", "translation": "Widmowiec wojownika Daeva", "status": "draft"}
+{"id": "String_STR_M_M_KalakarHenchman_body", "source": "Kalakhar's Minion", "translation": "Sługa Kalakhara", "status": "draft"}
+{"id": "String_STR_M_M_L2_D2_Shulack_01_body", "source": "Shulak Gatherer", "translation": "Zbieracz Shulak", "status": "draft"}
+{"id": "String_STR_M_M_L2_D2_Shulack_02_body", "source": "Shulak Tinkerer", "translation": "Majsterkowicz Shulaków", "status": "draft"}
+{"id": "String_STR_M_M_L2_D2_Sura_01_body", "source": "Defender Sura", "translation": "Obrońca Sura", "status": "draft"}
+{"id": "String_STR_M_M_Mesmerized_body", "source": "Insane Daeva", "translation": "Obłąkany Daeva", "status": "draft"}
+{"id": "String_STR_M_M_Mukaka_body", "source": "Black Claw Chief Muqaka", "translation": "Wódz Black Claw Muqaka", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_03_body", "source": "Blades Assault Captain", "translation": "Kapitan szturmowców Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_04_body", "source": "Blades Search Party Captain", "translation": "Kapitan oddziału poszukiwawczego Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_05_body", "source": "Blades Overseer", "translation": "Nadzorca Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_06_body", "source": "Blades Sentry", "translation": "Czujka Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_07_body", "source": "Blades Guard", "translation": "Strażnik Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_08_body", "source": "Blades Sentinel", "translation": "Wartownik Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_09_body", "source": "Blades Warrior", "translation": "Wojownik Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_10_body", "source": "Blades Combatant", "translation": "Wojownik Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_11_body", "source": "Blades Storage Guard", "translation": "Strażnik magazynu Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AltKnife_12_body", "source": "Blades Tracker", "translation": "Tropiciel Ostrzy", "status": "draft"}
+{"id": "String_STR_M_M_Q_AstinFighter_01_body", "source": "Astin's Minion", "translation": "Sługa Astina", "status": "draft"}
+{"id": "String_STR_M_M_Q_AstinFighter_02_body", "source": "Astin Mercenaries Watcher", "translation": "Obserwator najemników Astin", "status": "draft"}
+{"id": "String_STR_M_M_Q_Bandit_01_body", "source": "Thieves Watcher", "translation": "Obserwator złodziei", "status": "draft"}
+{"id": "String_STR_M_M_Q_Bandit_02_body", "source": "Thieves Marauder", "translation": "Maruder złodziei", "status": "draft"}
+{"id": "String_STR_M_M_Q_Bandit_03_body", "source": "Thieves Captain", "translation": "Kapitan złodziei", "status": "draft"}
+{"id": "String_STR_M_M_Q_BlackClaw_01_body", "source": "Black Claw Guard Troopers Warshaman", "translation": "Szaman bojowy straży Black Claw", "status": "draft"}
+{"id": "String_STR_M_M_Q_BlackClaw_02_body", "source": "Black Claw Guard Troopers Watcher", "translation": "Obserwator straży Black Claw", "status": "draft"}
+{"id": "String_STR_M_M_Q_BlackClaw_03_body", "source": "Black Claw Patrol", "translation": "Patrol Black Claw", "status": "draft"}
+{"id": "String_STR_M_M_Q_Brigands_01_body", "source": "Bandit Warrior", "translation": "Wojownik bandytów", "status": "draft"}
+{"id": "String_STR_M_M_Q_Brigands_02_body", "source": "Bandit Captain", "translation": "Kapitan bandytów", "status": "draft"}
+{"id": "String_STR_M_M_Q_Busca_body", "source": "Vusgard", "translation": "Vusgard", "status": "draft"}
+{"id": "String_STR_M_M_Q_Daeva_01_body", "source": "Jewel Consumed Daeva", "translation": "Daeva pochłonięty przez klejnot", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDaeva_04_body", "source": "Fate Archon Skirmisher", "translation": "Archont Losu, Harcownik", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDaeva_05_body", "source": "Fate Archon Judge", "translation": "Archont Losu, Sędzia", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDaeva_06_body", "source": "Fate Archon Sentry", "translation": "Czujka Archontów Losu", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDaeva_07_body", "source": "Fate Archon Overseer", "translation": "Archont Losu, Nadzorca", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDeavaElite_01_body", "source": "Conclave Officer", "translation": "Oficer Konklawe", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDeavaGuard_01_body", "source": "Conclave Guard", "translation": "Strażnik konklawe", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDeava_01_body", "source": "Fate Archon Decimator", "translation": "Archont Losu, Pogromca", "status": "draft"}
+{"id": "String_STR_M_M_Q_DestDeava_03_body", "source": "Fate Archon Executor", "translation": "Archont Losu, Egzekutor", "status": "draft"}
 {"id": "String_STR_M_M_Q_Devouredghost_body", "source": "Servant of the Jewel", "translation": "Sługa Klejnotu", "status": "draft"}
 {"id": "String_STR_M_M_Q_DracoWar_01_body", "source": "Draconute Scout", "translation": "Zwiadowca Draconute", "status": "draft"}
 {"id": "String_STR_M_M_Q_DracoWar_02_body", "source": "Draconute Defender", "translation": "Obrońca Draconute", "status": "draft"}
@@ -89,7 +159,7 @@
 {"id": "String_STR_M_M_Q_Mumu_05_body", "source": "Mumu Warden", "translation": "Dozorca Mumu", "status": "draft"}
 {"id": "String_STR_M_M_Q_Mumu_06_body", "source": "Mumu Watcher", "translation": "Obserwator Mumu", "status": "draft"}
 {"id": "String_STR_M_M_Q_Mumu_07_body", "source": "Munihelle Mumu", "translation": "Mumu z Munihelle", "status": "draft"}
-{"id": "String_STR_M_M_Q_MysteryDestDeava_01_body", "source": "Mysterious Fate Archon", "translation": "Tajemniczy archont Przeznaczenia", "status": "draft"}
+{"id": "String_STR_M_M_Q_MysteryDestDeava_01_body", "source": "Mysterious Fate Archon", "translation": "Tajemniczy archont Losu", "status": "draft"}
 {"id": "String_STR_M_M_Q_NagaElite_01_body", "source": "Nagarant Cave Guardian", "translation": "Strażnik jaskini Nagarant", "status": "draft"}
 {"id": "String_STR_M_M_Q_NagaElite_02_body", "source": "Nagarant Cave Patrol", "translation": "Patrol jaskini Nagarant", "status": "draft"}
 {"id": "String_STR_M_M_Q_NagaElite_03_body", "source": "Nagarant Chaser", "translation": "Tropiciel Nagarant", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_M_OwlSoldier_03_body", "source": "Aullaeu Mercenary (Specimen)", "translation": "Najemnik Aullaeu (okaz)", "status": "draft"}
 {"id": "String_STR_M_OwlSoldier_04_body", "source": "Aullaeu Guard (Specimen)", "translation": "Strażnik Aullaeu (okaz)", "status": "draft"}
 {"id": "String_STR_M_OwlSoldier_05_body", "source": "Aullaeu Patrol (Specimen)", "translation": "Patrol Aullaeu (okaz)", "status": "draft"}
-{"id": "String_STR_M_OwlSoldier_06_body", "source": "Aullaeu Chaser (Specimen)", "translation": "Tropiciel Aullaeu (okaz)", "status": "draft"}
-{"id": "String_STR_M_OwlSoldier_07_body", "source": "Trafficker Cutter (Specimen)", "translation": "Rębajło przemytników (okaz)", "status": "draft"}
-{"id": "String_STR_M_OwlSoldier_08_body", "source": "Delirious Aullaeu Guardian", "translation": "Majaczący strażnik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_OwlSoldier_09_body", "source": "Mutated Aullaeu Guardian", "translation": "Zmutowany strażnik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_OwlSoldier_Tracker_body", "source": "Aullaeu Chaser", "translation": "Tropiciel Aullaeu", "status": "draft"}
-{"id": "String_STR_M_OwlTotemSmall_01_body", "source": "Healing Totem", "translation": "Totem leczenia", "status": "draft"}
-{"id": "String_STR_M_OwlTotemSmall_02_body", "source": "Blazing Totem", "translation": "Płonący totem", "status": "draft"}
-{"id": "String_STR_M_OwlTotemSmall_Normal_01_body", "source": "Surveillance Healing Totem", "translation": "Totem leczniczy obserwacyjny", "status": "draft"}
-{"id": "String_STR_M_OwlTotemSmall_Normal_02_body", "source": "Surveillance Blazing Totem", "translation": "Płonący totem obserwacyjny", "status": "draft"}
-{"id": "String_STR_M_OwlTotem_03_body", "source": "Aullaeu Airborne Totem (Specimen)", "translation": "Powietrzny totem Aullaeu (okaz)", "status": "draft"}
-{"id": "String_STR_M_Owlamus_01_V01_body", "source": "Aulamus Vary (Specimen)", "translation": "Aulamus Vary (okaz)", "status": "draft"}
-{"id": "String_STR_M_Owlamus_01_body", "source": "Aulamus (Specimen)", "translation": "Aulamus (okaz)", "status": "draft"}
-{"id": "String_STR_M_OwlapriTotemSmall_01_body", "source": "Blazing Totem", "translation": "Płonący totem", "status": "draft"}
-{"id": "String_STR_M_OwlapriTotemSmall_02_body", "source": "Attack Totem", "translation": "Totem ataku", "status": "draft"}
-{"id": "String_STR_M_Owlapri_01_body", "source": "Aulvicar (Specimen)", "translation": "Aulvicar (okaz)", "status": "draft"}
-{"id": "String_STR_M_OwllauMagician_01_body", "source": "Aullaeu Mage", "translation": "Mag Aullaeu", "status": "draft"}
-{"id": "String_STR_M_Owlmag_04_body", "source": "Delirious Aullaeu Priest", "translation": "Majaczący kapłan Aullaeu", "status": "draft"}
-{"id": "String_STR_M_Owltros_01_V01_body", "source": "Divine Auldor (Specimen)", "translation": "Boski Auldor (okaz)", "status": "draft"}
-{"id": "String_STR_M_Owltros_02_body", "source": "Aultross's Doppelganger", "translation": "Sobowtór Aultrossa", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_AddShulack_01_001_body", "source": "Addicted Shulak Laborer", "translation": "Uzależniony robotnik Shulak", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_AddShulack_02_001_body", "source": "Addicted Shulak Miner", "translation": "Uzależniony górnik Shulak", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_AddShulack_03_001_body", "source": "Addicted Shulak Cart Worker", "translation": "Uzależniony woźnica Shulak", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_AddShulack_04_001_body", "source": "Addicted Shulak Sentinel", "translation": "Uzależniony wartownik Shulak", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_AddShulack_05_001_body", "source": "Addicted Shulak Overseer", "translation": "Uzależniony nadzorca Shulak", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Board_04_001_body", "source": "Abyssal Depth Moving Platform", "translation": "Ruchoma platforma Głębin Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Duduka_01_002_body", "source": "Abyssal Horn Duduka Worker", "translation": "Robotnik Duduka z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Duduka_02_002_body", "source": "Abyssal Horn Duduka Slinger", "translation": "Miotacz Duduka z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Ferk_01_V02_body", "source": "Gargaum", "translation": "Gargaum", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_KalnifElite_01_V02_001_body", "source": "Kapu", "translation": "Kapu", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lufilini_01_V01_001_body", "source": "Abyssal Horn Lupyllini", "translation": "Lupyllini z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_LycanTotem_01_001_body", "source": "Sealed Mau Totem", "translation": "Zapieczętowany totem Mau", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_01_001_body", "source": "Abyssal Horn Mau Brawler", "translation": "Zabijaka Mau z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_02_001_body", "source": "Abyssal Horn Mau Healer", "translation": "Uzdrowiciel Mau z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_03_001_body", "source": "Abyssal Horn Mau Sentry", "translation": "Wartownik Mau z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_04_001_body", "source": "Abyssal Horn Mau Totem Shaman", "translation": "Szaman totemów Mau z rogiem Otchłani", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_04_V01_001_body", "source": "Dhakan", "translation": "Dhakan", "status": "draft"}
-{"id": "String_STR_M_PD_AbyssalHornCave_Lycan_05_001_body", "source": "Fullmoon Ritual Supervisor", "translation": "Nadzorca rytuału pełni księżyca", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_NagaElite_01_V01_001_body", "source": "Siliator of Deceit", "translation": "Siliator Podstępu", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_NagaElite_02_V01_body", "source": "Ruthilis of Pain", "translation": "Ruthilis Bólu", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_NagaElite_03_001_body", "source": "Arkanis Elite Priest", "translation": "Elitarny kapłan Arkanis", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_NagaElite_04_001_body", "source": "Arkanis Elite Guardian", "translation": "Elitarny strażnik Arkanis", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_Thalythra_01_body", "source": "Talisra of the Void", "translation": "Talisra Pustki", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_Trap_01_V01_001_body", "source": "Void Wave", "translation": "Fala Pustki", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_Trap_01_V02_001_body", "source": "Corrosion Wave", "translation": "Fala korozji", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_Turret_06_001_body", "source": "Spinning Magnetic Field", "translation": "Wirujące pole magnetyczne", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_WaterEle_01_001_body", "source": "Shattered Water Spirit", "translation": "Roztrzaskany duch wody", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_WaterEle_02_001_body", "source": "Whispering Water Spirit", "translation": "Szepczący duch wody", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_WaterEle_03_001_body", "source": "Enraged Water Spirit", "translation": "Rozwścieczony duch wody", "status": "draft"}
-{"id": "String_STR_M_PD_Arkanis_WaterEle_04_body", "source": "Void Water Spirit", "translation": "Wodny duch Pustki", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_AirTrap_01_001_body", "source": "Floating Tourmaline", "translation": "Unoszący się turmalin", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Barkon_01_body", "source": "Vakron", "translation": "Vakron", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Bee_01_001_body", "source": "Ferocious Queen Bee", "translation": "Zajadła królowa pszczół", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Bee_01_002_body", "source": "Giant Honeybee", "translation": "Wielka pszczoła miodna", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Coradon_01_V01_body", "source": "Forest Coradon", "translation": "Leśny Coradon", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_DranaFairy_01_body", "source": "Corrupted Fairy", "translation": "Splugawiona wróżka", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_EarthEleOd_01_body", "source": "Odyle Stone Spirit", "translation": "Kamienny duch Odyle", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_EarthEle_01_body", "source": "Rock Spirit", "translation": "Duch skały", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_EarthEle_02_body", "source": "Earth Spirit", "translation": "Duch Ziemi", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_EarthEle_03_body", "source": "Enraged Rock Spirit", "translation": "Rozwścieczony duch skały", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_EarthEle_04_body", "source": "Enraged Earth Spirit", "translation": "Rozwścieczony duch ziemi", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_FogTotem_01_001_body", "source": "Fog Spiritstone", "translation": "Kamień ducha mgły", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_ForestGuardianArcher_01_body", "source": "Island Guardian Ranger", "translation": "Łowca strażników wyspy", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Kalgolem_01_body", "source": "Eroded Kalgolem", "translation": "Zwietrzały Kalgolem", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_PollutedGrass_01_001_body", "source": "Sweet Poison Flower", "translation": "Słodki jadowity kwiat", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Tamon_01_body", "source": "Thamon", "translation": "Thamon", "status": "draft"}
-{"id": "String_STR_M_PD_BakronIsland_Tie_01_body", "source": "Tiere", "translation": "Tiere", "status": "draft"}
-{"id": "String_STR_M_PD_BeritraA_01_V01_001_body", "source": "Manager Nasium", "translation": "Zarządca Nasium", "status": "draft"}
-{"id": "String_STR_M_PD_BeritraA_02_V01_001_body", "source": "Dratona Tamer", "translation": "Pogromca Dratony", "status": "draft"}
-{"id": "String_STR_M_PD_BeritraC_05_V01_001_body", "source": "Dratona Handler", "translation": "Treser Dratony", "status": "draft"}
-{"id": "String_STR_M_PD_BeritraC_06_V01_001_body", "source": "Hatched Dratona Larva", "translation": "Wykluta larwa Dratony", "status": "draft"}

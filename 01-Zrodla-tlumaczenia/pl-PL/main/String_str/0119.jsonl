@@ -1,3 +1,73 @@
+{"id": "String_STR_M_Summon_DeathFog_01_001_body", "source": "Iscariel's Flame", "translation": "Płomień Iscariela", "status": "draft"}
+{"id": "String_STR_M_Summon_Slime_01_body", "source": "Divided Slime", "translation": "Podzielony szlam", "status": "draft"}
+{"id": "String_STR_M_Summon_ferk_01_V01_004_body", "source": "Condensed Energy", "translation": "Skondensowana energia", "status": "draft"}
+{"id": "String_STR_M_Summon_ferk_01_V02_001_body", "source": "Condensed Energy", "translation": "Skondensowana energia", "status": "draft"}
+{"id": "String_STR_M_SuraArc_01_body", "source": "Abandoned Sura Ranger", "translation": "Zwiadowca porzuconych Surów", "status": "draft"}
+{"id": "String_STR_M_SuraMag_01_body", "source": "Mutated Sura Mage", "translation": "Zmutowany mag Sura", "status": "draft"}
+{"id": "String_STR_M_SuraMag_02_body", "source": "Mutated Sura Shaman", "translation": "Zmutowany szaman Sura", "status": "draft"}
+{"id": "String_STR_M_SuraPhantomArcher_01_body", "source": "Sura Ranger", "translation": "Łowca Sura", "status": "draft"}
+{"id": "String_STR_M_SuraPhantomWar_01_body", "source": "Sura Warrior", "translation": "Wojownik Sura", "status": "draft"}
+{"id": "String_STR_M_SuraPriest_01_body", "source": "Sura Priest", "translation": "Kapłan Sura", "status": "draft"}
+{"id": "String_STR_M_SuraSquadLear_01_body", "source": "Sura Squad Commander", "translation": "Dowódca oddziału Sura", "status": "draft"}
+{"id": "String_STR_M_SuraWar_01_body", "source": "Abandoned Initial Sura Warrior (Specimen)", "translation": "Opuszczony początkowy wojownik Sura (okaz)", "status": "draft"}
+{"id": "String_STR_M_SuraWar_02_body", "source": "Mutated Sura", "translation": "Zmutowany Sura", "status": "draft"}
+{"id": "String_STR_M_SuraWar_03_body", "source": "Damaged Mutated Sura A (Specimen)", "translation": "Uszkodzony zmutowany Sura A (okaz)", "status": "draft"}
+{"id": "String_STR_M_SuraWar_04_body", "source": "Mutated Sura Assault Trooper", "translation": "Zmutowany żołnierz szturmowy Sura", "status": "draft"}
+{"id": "String_STR_M_SuraWar_05_body", "source": "Mutated Sura Shieldbearer", "translation": "Zmutowany tarczownik Sura", "status": "draft"}
+{"id": "String_STR_M_SuraWar_06_body", "source": "Addicted Sura", "translation": "Uzależniony Sura", "status": "draft"}
+{"id": "String_STR_M_SuraWar_07_body", "source": "Addicted Sura Assault Trooper", "translation": "Żołnierz szturmowy uzależnionych Sura", "status": "draft"}
+{"id": "String_STR_M_Swarm_01_body", "source": "Creeper", "translation": "Pełzacz", "status": "draft"}
+{"id": "String_STR_M_Tasin_01_body", "source": "Tassin (Specimen)", "translation": "Tassin (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tasin_02_body", "source": "Rampaging Tassin (Bound)", "translation": "Szarżujący Tassin (Przypisane)", "status": "draft"}
+{"id": "String_STR_M_Tayga_01_body", "source": "Tamed Tayga (Specimen)", "translation": "Oswojona Tayga (okaz)", "status": "draft"}
+{"id": "String_STR_M_Test_Desperion_01_body", "source": "Desperion (Specimen)", "translation": "Desperion (okaz)", "status": "draft"}
+{"id": "String_STR_M_Test_Galaxia_01_body", "source": "Galaxia (Test Specimen)", "translation": "Galaxia (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_GiantMaster_01_body", "source": "GiantMaster (Test Specimen)", "translation": "Wielki mistrz (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Giant_Katan_01_body", "source": "Giant_Katan (Test Specimen)", "translation": "Wielki Katan (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Half_01_body", "source": "Half (Test Specimen)", "translation": "Half (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Hallate_01_body", "source": "Hallate (Test Specimen)", "translation": "Hallate (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Kernon_01_body", "source": "Kernon (Test Specimen)", "translation": "Kernon (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Kiritz_01_body", "source": "Kiritz (Test Specimen)", "translation": "Kiritz (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Korim_01_body", "source": "Korim (Test Specimen)", "translation": "Korim (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Lilith_01_body", "source": "Lilith (Test Specimen)", "translation": "Lilith (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Mardil_01_body", "source": "Mardil (Test Specimen)", "translation": "Mardil (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Medusa_01_body", "source": "Medusa (Test Specimen)", "translation": "Meduza (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Mirror_02_body", "source": "Mirror (Test Specimen)", "translation": "Lustro (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Pan_Dryad_01_body", "source": "Pan Dryad (Test Specimen)", "translation": "Driada Pan (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Parts_01_body", "source": "Left Pauldrons", "translation": "Lewy naramiennik", "status": "draft"}
+{"id": "String_STR_M_Test_Parts_02_body", "source": "Right Shoulder Pauldrons", "translation": "Prawy naramiennik", "status": "draft"}
+{"id": "String_STR_M_Test_QueenTiminiel_01_body", "source": "Queen Timiniel (Test Specimen)", "translation": "Królowa Timiniel (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Queen_Ant_01_body", "source": "Queen Ant (Test Specimen)", "translation": "Królowa mrówek (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Ramdal_01_body", "source": "Ramdal (Test Specimen)", "translation": "Ramdal (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_SIegeGolem_01_body", "source": "Sizgolem (Test Specimen)", "translation": "Sizgolem (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Saban_01_body", "source": "Saban (Test Specimen)", "translation": "Saban (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Sarca_01_body", "source": "Sarkha (Test Specimen)", "translation": "Sarkha (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Shuriel_01_body", "source": "Shuriel (Test Specimen)", "translation": "Shuriel (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Tauti_01_body", "source": "Taouti (Test Specimen)", "translation": "Taouti (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Timitris_01_body", "source": "Timitris (Test Specimen)", "translation": "Timitris (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Turekorcmatura_01_body", "source": "Turecorkmatura (Test Specimen)", "translation": "Turecorkmatura (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_ValeMaster_01_body", "source": "Veil Master (Test Specimen)", "translation": "Mistrz zasłony (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Veritas_01_body", "source": "Veritas (Test Specimen)", "translation": "Veritas (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Test_Void_Boss_01_body", "source": "Void Boss (Test Specimen)", "translation": "Boss Pustki (okaz testowy)", "status": "draft"}
+{"id": "String_STR_M_Tie_01_001_Summon_body", "source": "Detoxifying Rafflesia", "translation": "Odtruwająca Rafflesia", "status": "draft"}
+{"id": "String_STR_M_Tie_01_001_body", "source": "Gluttonous Tiere", "translation": "Żarłoczny Tiere", "status": "draft"}
+{"id": "String_STR_M_Tog_01_V01_body", "source": "Young Tog (Specimen)", "translation": "Młody Tog (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tog_01_V02_body", "source": "Young Tog Vary (Specimen)", "translation": "Młody Tog Vary (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tog_01_body", "source": "Tog (Specimen)", "translation": "Tog (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tog_V01_01_body", "source": "Tog Vary 1 (Specimen)", "translation": "Tog Vary 1 (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tornado_01_body", "source": "Tornado (Specimen)", "translation": "Tornado (okaz)", "status": "draft"}
+{"id": "String_STR_M_Tornado_body", "source": "Vortex", "translation": "Wir", "status": "draft"}
+{"id": "String_STR_M_TraDummy_01_body", "source": "Training Scarecrow (Specimen)", "translation": "Treningowy strach na wróble (okaz)", "status": "draft"}
+{"id": "String_STR_M_TraDummy_body", "source": "Training Scarecrow", "translation": "Treningowy strach na wróble", "status": "draft"}
+{"id": "String_STR_M_Trap_01_body", "source": "Bomb Type Gimmick (Specimen)", "translation": "Pułapka-bomba (okaz)", "status": "draft"}
+{"id": "String_STR_M_Turret_01_body", "source": "Projectile Gimmick (Linear Type) (Specimen)", "translation": "Pułapka pociskowa (liniowa) (okaz)", "status": "draft"}
+{"id": "String_STR_M_Turret_02_body", "source": "Projectile Gimmick(Targeted) (Specimen)", "translation": "Pułapka pociskowa (namierzana) (okaz)", "status": "draft"}
+{"id": "String_STR_M_Turret_03_body", "source": "Guided Missile Gimmick (Specimen)", "translation": "Pułapka z pociskiem naprowadzanym (okaz)", "status": "draft"}
+{"id": "String_STR_M_Turret_05_body", "source": "Spinning Turren (Specimen)", "translation": "Wirujący Turren (okaz)", "status": "draft"}
+{"id": "String_STR_M_Ulgorn_01_body", "source": "Mutated Ulgorn (Specimen)", "translation": "Zmutowany Ulgorn (okaz)", "status": "draft"}
+{"id": "String_STR_M_UrsussElite_01_body", "source": "Elite Ursus (Specimen)", "translation": "Elitarny Ursus (okaz)", "status": "draft"}
+{"id": "String_STR_M_Ursuss_01_V01_body", "source": "Young Ursus (Specimen)", "translation": "Młody Ursus (okaz)", "status": "draft"}
+{"id": "String_STR_M_Ursuss_01_body", "source": "Ursus (Specimen)", "translation": "Ursus (okaz)", "status": "draft"}
 {"id": "String_STR_M_Varg_01_body", "source": "Varg Warrior (Specimen)", "translation": "Wojownik Varg (okaz)", "status": "draft"}
 {"id": "String_STR_M_Varg_03_body", "source": "Varg Berserker (Specimen)", "translation": "Berserker Varg (okaz)", "status": "draft"}
 {"id": "String_STR_M_Vessel_Dredgion_01_body", "source": "Dredgion", "translation": "Dredgion", "status": "draft"}
@@ -162,7 +232,7 @@
 {"id": "String_STR_MapEvent_D1_FE_Defence01_Desc_1_body", "source": "Defend the Shugo Merchant brothers from the thieves", "translation": "Obroń braci kupców Shugo przed złodziejami", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_FE_Defence01_Desc_2_body", "source": "Defend the Shugo Merchant brothers from the thieves", "translation": "Obroń braci kupców Shugo przed złodziejami", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_FE_Defence01_Desc_3_body", "source": "Defend the Shugo Merchant brothers from the thieves", "translation": "Obroń braci kupców Shugo przed złodziejami", "status": "draft"}
-{"id":"String_STR_MapEvent_D1_FE_Defence01_Title_1_body","source":"Defend Shugo Merchants","translation":"Obroń kupców Shugo","status":"draft"}
+{"id": "String_STR_MapEvent_D1_FE_Defence01_Title_1_body", "source": "Defend Shugo Merchants", "translation": "Obroń kupców Shugo", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_FE_Egia_01_Desc_1_body", "source": "Neutralize Drakan Forces and Transporter", "translation": "Unieszkodliw oddziały Drakan i transporter", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_FE_Egia_01_Desc_2_body", "source": "Annihilate the Drakan Special Transporter and Combat Engineer Unit", "translation": "Zniszcz specjalny transporter Drakan i oddział saperów", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_FE_Egia_01_Desc_3_body", "source": "Defeat Drakan Commander", "translation": "Pokonaj dowódcę Drakan", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_MapEvent_D1_HQ008_Desc_0_body", "source": "Follow Nemon to the Eastern Altar entrance", "translation": "Podążaj za Nemonem do wejścia do Wschodniego Ołtarza", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_HQ008_Desc_1_body", "source": "Go deeper into the Altar", "translation": "Wejdź głębiej do ołtarza", "status": "draft"}
 {"id": "String_STR_MapEvent_D1_HQ008_Desc_2_body", "source": "Examine the Nornir Corpse", "translation": "Zbadaj zwłoki Nornira", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_3_body", "source": "Learn what's going on", "translation": "Dowiedz się, co się dzieje", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_4_body", "source": "Defeat Blades", "translation": "Pokonaj Ostrza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_5_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_6_body", "source": "Witness Gohok's end", "translation": "Bądź świadkiem końca Gohoka", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_7_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvisa", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Desc_8_body", "source": "Follow Nemon to leave the Eastern Altar", "translation": "Podążaj za Nemonem, by opuścić Wschodni Ołtarz", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Title_1_body", "source": "Find the Nornir inside the Eastern Altar", "translation": "Znajdź Nornira wewnątrz Wschodniego Ołtarza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ008_Title_2_body", "source": "Talk to Ulgorn via Selvis", "translation": "Porozmawiaj z Ulgornem przez Selvisa", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_1_body", "source": "Destroy Fafnium to disable the Patrol Device", "translation": "Zniszcz fafnium, aby wyłączyć urządzenie patrolowe", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_2_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_3_body", "source": "Defeat the nearby Blades", "translation": "Pokonaj pobliskie Ostrza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_4_body", "source": "Ignite the Bomb Ignition Device", "translation": "Uruchom zapalnik bomby", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_5_body", "source": "Go to the safe zone", "translation": "Udaj się do bezpiecznej strefy", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_6_body", "source": "Assess the situation after the explosion", "translation": "Oceń sytuację po eksplozji", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_7_body", "source": "Split up with Nemon and go", "translation": "Rozdziel się z Nemonem i ruszaj", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Desc_8_body", "source": "Go to Nemon", "translation": "Udaj się do Nemona", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_HQ010_Title_1_body", "source": "Capture a Blood Blades member", "translation": "Pojmaj członka Krwawych Ostrzy", "status": "draft"}
-{"id":"String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_1_body","source":"Fafnite Storage","translation":"Magazyn Fafnite","status":"draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_2_body", "source": "Search the Fafnite Storage", "translation": "Przeszukaj magazyn Fafnite", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_3_body", "source": "Search the Fafnite Storage", "translation": "Przeszukaj magazyn Fafnite", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_4_body", "source": "Defeat the swarming Balaur Soldiers", "translation": "Pokonaj nacierających żołnierzy Balaurów", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_5_body", "source": "Defeat the Lagta Brigade Sentinel", "translation": "Pokonaj wartownika Brygady Lagta", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_6_body", "source": "Escape from Lagta Fortress", "translation": "Ucieknij z fortecy Lagta", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_LF_FafniteStorage_01_Desc_7_body", "source": "Escape From the Fafnite Storage", "translation": "Ucieknij z magazynu Fafnite", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_02_Desc_1_body", "source": "Enter the Hidden Cave", "translation": "Wejdź do Hidden Cave", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_02_Desc_2_body", "source": "Talk to Menrik", "translation": "Porozmawiaj z Menrikiem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_02_Step_1_body", "source": "Return to the Hidden Cave and join Menrik", "translation": "Wróć do Hidden Cave i dołącz do Menrika", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_02_Step_2_body", "source": "Return to the Hidden Cave and join Menrik", "translation": "Wróć do Hidden Cave i dołącz do Menrika", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_1_body", "source": "Enter the Hidden Cave", "translation": "Wejdź do Hidden Cave", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_2_body", "source": "Talk to Menrik", "translation": "Porozmawiaj z Menrikiem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_3_1_body", "source": "Talk to the survivor Kiara", "translation": "Porozmawiaj z ocalałą Kiarą", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_3_2_body", "source": "Talk to the survivor Skadin", "translation": "Porozmawiaj z ocalałym Skadinem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_3_3_body", "source": "Talk to the survivor Lind", "translation": "Porozmawiaj z ocalałym Lindem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Desc_4_body", "source": "Talk to Menrik", "translation": "Porozmawiaj z Menrikiem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Step_1_body", "source": "Find out what is currently happening in the Hidden Cave", "translation": "Dowiedz się, co dzieje się w Hidden Cave", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Step_2_body", "source": "Find out what is currently happening in the Hidden Cave", "translation": "Dowiedz się, co dzieje się w Hidden Cave", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Step_3_body", "source": "Get information about Dranactus Underkeep", "translation": "Zdobądź informacje o Podziemiach Dranactusa", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_Layer_HQ005_Step_4_body", "source": "Report about the Underkeep", "translation": "Złóż raport o Podziemiach", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_01_Desc_1_body", "source": "Go to the center of the altar", "translation": "Udaj się do centrum ołtarza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_01_Desc_2_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_01_Title_0_body", "source": "Check if Hystan's body is safe", "translation": "Sprawdź, czy ciało Hystana jest bezpieczne", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_01_Title_1_body", "source": "Check the High Priest's memories", "translation": "Sprawdź wspomnienia arcykapłana", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_01_Title_2_body", "source": "Learn About the Reason for the Failure", "translation": "Poznaj przyczynę niepowodzenia", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_02_Desc_1_body", "source": "Go to the center of the altar", "translation": "Udaj się do centrum ołtarza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_02_Desc_2_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_02_Title_1_body", "source": "Go to see the High Priest's memories", "translation": "Udaj się obejrzeć wspomnienia arcykapłana", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_02_Title_2_body", "source": "Discuss Hystan's Memory", "translation": "Omów wspomnienie Hystana", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_03_Desc_1_body", "source": "Go to the center of the altar", "translation": "Udaj się do centrum ołtarza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_03_Desc_2_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_03_Title_1_body", "source": "Awaken the High Priest's body", "translation": "Przebudź ciało arcykapłana", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_NornirsAltar_03_Title_2_body", "source": "Discuss the Core", "translation": "Omów rdzeń", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_1_body", "source": "Prepare to restore the Spirit Altar", "translation": "Przygotuj się do odnowienia Ołtarza Duchów", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_2_body", "source": "Gather Materials Needed for the Altar Restoration", "translation": "Zbierz materiały potrzebne do odnowienia ołtarza", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_3_body", "source": "Break Spiritstones to collect Purifying Lights", "translation": "Rozbij Kamienie Duchów, aby zebrać Oczyszczające Światła", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_4_body", "source": "Defeat the Black Spirit", "translation": "Pokonaj Czarnego Ducha", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_5_body", "source": "Defeat the Rampaging Ancient Spirit", "translation": "Pokonaj szalejącego starożytnego ducha", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_6_body", "source": "Eliminate nearby threats", "translation": "Wyeliminuj pobliskie zagrożenia", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_7_body", "source": "Talk to Hallina", "translation": "Porozmawiaj z Halliną", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_8_body", "source": "Hear about the Purifying Light", "translation": "Dowiedz się o Oczyszczającym Świetle", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PF_OldPurifyingAltar_Desc_9_body", "source": "Discuss what to do", "translation": "Omów dalsze działania", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Desc_1_body", "source": "Enter the prison cell", "translation": "Wejdź do celi więziennej", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Desc_2_body", "source": "Talk to Blades Captive", "translation": "Porozmawiaj z jeńcem Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Desc_3_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Title_1_body", "source": "Interrogate Blades Captive", "translation": "Przesłuchaj jeńca Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Title_2_body", "source": "Hear the Background of the Ishalgen Request", "translation": "Poznaj tło prośby z Ishalgen", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_PrisonCamp_Title_3_body", "source": "Discuss the information you heard", "translation": "Omów zdobyte informacje", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_1_body", "source": "Eavesdrop on the Blades with Nemon", "translation": "Podsłuchaj Ostrza razem z Nemonem", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_2_body", "source": "Defeat the Blades in the yard", "translation": "Pokonaj Ostrza na dziedzińcu", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_3_body", "source": "Collect information", "translation": "Zbierz informacje", "status": "draft"}
-{"id": "String_STR_MapEvent_D1_StorageYard_01_Desc_4_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}

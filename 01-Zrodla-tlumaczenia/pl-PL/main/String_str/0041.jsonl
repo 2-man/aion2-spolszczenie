@@ -1,5 +1,45 @@
-{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_006A_S_body", "source": "True Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Prawdziwego Smoka", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_007A_S_body", "source": "White Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Białego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_008A_S_body", "source": "Zvein Ring", "translation": "Pierścień Zvein", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_009A_S_body", "source": "Egetis Ring", "translation": "Pierścień Egetis", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_010A_S_body", "source": "Superbia Ring", "translation": "Pierścień Superbia", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_011A_S_body", "source": "Meltlim Ring", "translation": "Pierścień Meltlim", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_012A_S_body", "source": "Nihogg Ring", "translation": "Pierścień Nihogg", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_013A_S_body", "source": "K'tima Ring", "translation": "Pierścień K'tima", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_014A_S_body", "source": "Mino Ring", "translation": "Pierścień Mino", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_015A_S_body", "source": "Lamphus Ring", "translation": "Pierścień Lamphus", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_016A_S_body", "source": "Verenom Ring", "translation": "Pierścień Verenom", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_017A_S_body", "source": "Vigor Ring", "translation": "Pierścień Vigor", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_018A_S_body", "source": "Zvein Ring", "translation": "Pierścień Zvein", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_019A_S_body", "source": "Egetis Ring", "translation": "Pierścień Egetis", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_020A_S_body", "source": "Superbia Ring", "translation": "Pierścień Superbia", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_021A_S_body", "source": "Meltlim Ring", "translation": "Pierścień Meltlim", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_022A_S_body", "source": "Nihogg Ring", "translation": "Pierścień Nihogg", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_023A_S_body", "source": "K'tima Ring", "translation": "Pierścień K'tima", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_024A_S_body", "source": "Mino Ring", "translation": "Pierścień Mino", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_DROPBOSS_025A_S_body", "source": "Lamphus Ring", "translation": "Pierścień Lamphus", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_QUEST_001A_B_body", "source": "Drifter Ring", "translation": "Pierścień Wędrowca", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_L_QUEST_002A_B_body", "source": "Pilgrim Ring", "translation": "Pierścień Pielgrzyma", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_R_CRAFTCOMBO_001A_S_body", "source": "Splendent Sapphire Ring", "translation": "Lśniący pierścień szafirowy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_R_CRAFT_001A_S_body", "source": "Expert's Sapphire Ring", "translation": "Szafirowy pierścień eksperta", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_R_QUEST_005A_B_body", "source": "Facade Ring", "translation": "Pierścień Maski", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_R_QUEST_007A_B_body", "source": "Wind Breeze Ring", "translation": "Pierścień Bryzy Wiatru", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTCOMBO_001A_S_body", "source": "Artisan's Splendent Sapphire Ring", "translation": "Lśniący pierścień szafirowy rzemieślnika", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTCOMBO_002A_S_body", "source": "Artisan's Splendent Sapphire Ring", "translation": "Lśniący pierścień szafirowy rzemieślnika", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_001A_S_body", "source": "Splendent True Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Prawdziwego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_002A_S_body", "source": "Splendent White Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Białego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_003A_S_body", "source": "Splendent Wise Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Mądrego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_004A_S_body", "source": "Splendent Celestial Dragon Lord Ring", "translation": "Pierścień Lśniącego Niebiańskiego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_005A_S_body", "source": "Splendent True Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Prawdziwego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_006A_S_body", "source": "Splendent White Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Białego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_007A_S_body", "source": "Splendent Wise Dragon Lord Ring", "translation": "Pierścień Lśniącego Smoczego Władcy Mądrego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_008A_S_body", "source": "Splendent Celestial Dragon Lord Ring", "translation": "Pierścień Lśniącego Niebiańskiego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_009A_S_body", "source": "Splendent Obsidian Dragon Lord Ring", "translation": "Pierścień Lśniącego Obsydianowego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONICCOMBO_010A_S_body", "source": "Splendent Obsidian Dragon Lord Ring", "translation": "Pierścień Lśniącego Obsydianowego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_001A_S_body", "source": "True Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Prawdziwego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_002A_S_body", "source": "White Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Białego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_003A_S_body", "source": "Wise Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Mądrego Smoka", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_005A_S_body", "source": "Celestial Dragon Lord Ring", "translation": "Pierścień Niebiańskiego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_006A_S_body", "source": "True Dragon Lord Ring", "translation": "Pierścień Prawdziwego Smoczego Władcy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_007A_S_body", "source": "White Dragon Lord Ring", "translation": "Pierścień Białego Smoczego Władcy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_008A_S_body", "source": "Wise Dragon Lord Ring", "translation": "Pierścień Smoczego Władcy Mądrego Smoka", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_009A_S_body", "source": "Celestial Dragon Lord Ring", "translation": "Pierścień Niebiańskiego Smoczego Władcy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_ACC_RING_L_U_CRAFTDRACONIC_010A_S_body", "source": "Obsidian Dragon Lord Ring", "translation": "Pierścień Obsydianowego Smoczego Władcy", "status": "draft"}
@@ -64,14 +104,14 @@
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPABYSS_008A_S_body", "source": "Courage Boots", "translation": "Buty Odwagi", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPABYSS_009A_S_body", "source": "Fallen Ancient God Boots", "translation": "Buty Upadłego Starożytnego Boga", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPABYSS_010A_S_body", "source": "Conquering Boots", "translation": "Buty Zdobywcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_001A_S_body", "source": "Guardian Lord Nahma Boots", "translation": "Buty Lorda Obrońcy Nahmy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_001A_S_body", "source": "Guardian Lord Nahma Boots", "translation": "Buty Władcy Strażników Nahmy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_002A_S_body", "source": "Dartan Boots", "translation": "Buty Dartan", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_003A_S_body", "source": "Gartua Boots", "translation": "Buty Gartua", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_004A_S_body", "source": "Kaira Boots", "translation": "Buty Kaira", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_005A_S_body", "source": "Argo Boots", "translation": "Buty Argo", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_006A_S_body", "source": "Kashapa Boots", "translation": "Buty Kashapa", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_007A_S_body", "source": "High Commander Lagta Boots", "translation": "Buty Wysokiego Dowódcy Lagty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_008A_S_body", "source": "Guardian Lord Nahma Boots", "translation": "Buty Lorda Obrońcy Nahmy", "status": "draft"}
+{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_008A_S_body", "source": "Guardian Lord Nahma Boots", "translation": "Buty Władcy Strażników Nahmy", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_009A_S_body", "source": "Dartan Boots", "translation": "Buty Dartan", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_010A_S_body", "source": "Gartua Boots", "translation": "Buty Gartua", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_A_U_DROPBOSS_011A_S_body", "source": "Kaira Boots", "translation": "Buty Kaira", "status": "draft"}
@@ -208,43 +248,3 @@
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_CRAFTDRACONIC_011A_S_body", "source": "Crimson Dragon Lord Boots", "translation": "Buty Smoczego Władcy Karmazynowego Smoka", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_004A_S_body", "source": "Accursed Boots", "translation": "Przeklęte buty", "status": "draft"}
 {"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_005A_S_body", "source": "Accursed Boots", "translation": "Przeklęte buty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_006A_S_body", "source": "Minasara Boots", "translation": "Buty Minasary", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_007A_S_body", "source": "Sarvakha Boots", "translation": "Buty Sarvakhi", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_008A_S_body", "source": "Minasara Boots", "translation": "Buty Minasary", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROPBOSS_009A_S_body", "source": "Sarvakha Boots", "translation": "Buty Sarvakhi", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_001A_S_body", "source": "Fantasy Boots", "translation": "Buty Fantazji", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_002A_S_body", "source": "Spectral Boots", "translation": "Widmowe buty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_006A_S_body", "source": "Fantasy Boots", "translation": "Buty Fantazji", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_007A_S_body", "source": "Spectral Boots", "translation": "Widmowe buty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_011A_S_body", "source": "Sorrow Boots", "translation": "Buty Żalu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_DROP_012A_S_body", "source": "Sorrow Boots", "translation": "Buty Żalu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_SHOPABYSS_002A_S_body", "source": "Archon Decanus Boots", "translation": "Buty Dekana Archonów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_SHOPABYSS_003A_S_body", "source": "Archon Centurion Boots", "translation": "Buty Centuriona Archonów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_D_U_SHOPABYSS_004A_S_body", "source": "Archon Tribunus Boots", "translation": "Buty Tribuna Archonów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_CRAFT_001A_S_body", "source": "Orichalcum Boots", "translation": "Buty z Orichalcum", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_DROP_003A_S_body", "source": "Forgotten Boots", "translation": "Zapomniane buty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_DROP_004A_S_body", "source": "Riverside Boots", "translation": "Buty Nadrzeczne", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_DROP_007A_S_body", "source": "Forgotten Boots", "translation": "Zapomniane buty", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_DROP_008A_S_body", "source": "Riverside Boots", "translation": "Buty Nadrzeczne", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_001A_B_body", "source": "Elyos Gladiator's Boots", "translation": "Buty gladiatora Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_002A_B_body", "source": "Elyos Templar's Boots", "translation": "Buty templariusza Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_003A_B_body", "source": "Elyos Assassin's Boots", "translation": "Buty zabójcy Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_004A_B_body", "source": "Elyos Ranger's Boots", "translation": "Buty łowcy Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_005A_B_body", "source": "Elyos Sorcerer's Boots", "translation": "Buty czarownika Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_006A_B_body", "source": "Elyos Spiritmaster's Boots", "translation": "Buty zaklinacza duchów Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_007A_B_body", "source": "Elyos Cleric's Boots", "translation": "Buty kapłana Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_008A_B_body", "source": "Elyos Chanter's Boots", "translation": "Buty pieśniarza Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_LOBBY_009A_B_body", "source": "Elyos Brawler's Boots", "translation": "Buty zapaśnika Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_QUEST_001A_B_body", "source": "Twilight Boots", "translation": "Buty Zmierzchu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_QUEST_002A_B_body", "source": "Dawn Boots", "translation": "Buty Świtu", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_QUEST_003A_B_body", "source": "Facade Boots", "translation": "Buty Maski", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_C_TUTORIAL_001A_B_body", "source": "Elyos Origin Boots", "translation": "Buty Początkowe Elyosów", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONICCOMBO_001A_S_body", "source": "Splendent Noble Dragon Lord Boots", "translation": "Buty Lśniącego Szlachetnego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONICCOMBO_002A_S_body", "source": "Splendent Genesis Dragon Lord Boots", "translation": "Buty Lśniącego Smoczego Władcy Genezy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONICCOMBO_003A_S_body", "source": "Splendent Noble Dragon Lord Boots", "translation": "Buty Lśniącego Szlachetnego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONICCOMBO_004A_S_body", "source": "Splendent Genesis Dragon Lord Boots", "translation": "Buty Lśniącego Smoczego Władcy Genezy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONIC_001A_S_body", "source": "Noble Dragon Lord Boots", "translation": "Buty Szlachetnego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONIC_002A_S_body", "source": "Genesis Dragon Lord Boots", "translation": "Buty Smoczego Władcy Genezy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONIC_003A_S_body", "source": "Noble Dragon Lord Boots", "translation": "Buty Szlachetnego Smoczego Władcy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_CRAFTDRACONIC_004A_S_body", "source": "Genesis Dragon Lord Boots", "translation": "Buty Smoczego Władcy Genezy", "status": "draft"}
-{"id": "String_STR_ITEM_EQUIP_AR_BOOTS_L_E_SHOPABYSS_001A_S_body", "source": "Guardian High Commander Boots", "translation": "Buty Wysokiego Dowódcy Strażników", "status": "draft"}

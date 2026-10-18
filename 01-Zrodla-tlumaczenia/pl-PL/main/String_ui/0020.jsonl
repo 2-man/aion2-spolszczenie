@@ -1,250 +1,250 @@
-{"id":"String_UI_OBJECT_TOOLTIP_RIFT_CONDITION_INTERACT_COUNT_body","source":"{0} time(s)","translation":"{0} raz(y)","status":"draft"}
-{"id":"String_UI_OBJECT_TOOLTIP_RIFT_CONDITION_LEVEL_LIMIT_body","source":"Lv. {0} or higher","translation":"Poz. {0} lub wyższy","status":"draft"}
-{"id":"String_UI_ODENERGYCUBE_POPUP_TAB_FINALBOSS_REWARD_body","source":"Final Boss Rewards","translation":"Nagrody za końcowego bossa","status":"draft"}
-{"id":"String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_01_body","source":"Mini-Boss Rewards 1","translation":"Nagrody za minibossa 1","status":"draft"}
-{"id":"String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_02_body","source":"Mini-Boss Rewards 2","translation":"Nagrody za minibossa 2","status":"draft"}
-{"id":"String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_03_body","source":"Mini-Boss Rewards 3","translation":"Nagrody za minibossa 3","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATEPOPUP_ACCOUNT_SUBMSG_body","source":"{0} Activation(s) per Account ({1}/{2})","translation":"Aktywacje na konto: {0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATEPOPUP_CHARACTER_SUBMSG_body","source":"Activated individually per Character","translation":"Aktywowane oddzielnie dla każdej postaci","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATEPOPUP_MSG_body","source":"Activate {0}?","translation":"Aktywować {0}?","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATEPOPUP_SERVER_SUBMSG_body","source":"{0} Activation(s) per Server ({1}/{2})","translation":"Aktywacje na serwer: {0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATEPOPUP_SUBMSG_body","source":"Activate Growth Support to complete missions and claim rewards.","translation":"Aktywuj Wsparcie rozwoju, aby wykonywać misje i odbierać nagrody.","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVATE_TAG_body","source":"Active","translation":"Aktywne","status":"draft"}
-{"id":"String_UI_ONBOARDING_ACTIVE_body","source":"Activating...","translation":"Aktywowanie...","status":"draft"}
-{"id":"String_UI_ONBOARDING_BUTTON_ACTIVE_body","source":"Activate","translation":"Aktywuj","status":"draft"}
-{"id":"String_UI_ONBOARDING_BUTTON_ALL_GET_REWARD_body","source":"Collect All Rewards","translation":"Odbierz wszystkie nagrody","status":"draft"}
-{"id":"String_UI_ONBOARDING_BUTTON_RECEIVE_STEP_REWARD_body","source":"Collect Cumulative Rewards","translation":"Odbierz nagrody łączne","status":"draft"}
-{"id":"String_UI_ONBOARDING_BUTTON_REWARD_body","source":"Collect Rewards","translation":"Odbierz nagrody","status":"draft"}
-{"id":"String_UI_ONBOARDING_BUY_PERIOD_body","source":"Activation available between {0} and {1}","translation":"Aktywacja dostępna od {0} do {1}","status":"draft"}
-{"id":"String_UI_ONBOARDING_COMBATPOWER_RANGE_MAX_body","source":"Below {0}","translation":"Poniżej {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_COMBATPOWER_RANGE_MIN_body","source":"{0} or more","translation":"{0} lub więcej","status":"draft"}
-{"id":"String_UI_ONBOARDING_COMBATPOWER_RANGE_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_ONBOARDING_ENDDATE_body","source":"Ends {0}","translation":"Kończy się {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_FEATURED_MARK_body","source":"FEATURED!","translation":"WYRÓŻNIONE!","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_D_S4_1_body","source":"Exciting First Step","translation":"Ekscytujący pierwszy krok","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_D_S4_2_body","source":"Taking Flight (+Sprout Badge)","translation":"Wzbij się w powietrze (+Odznaka kiełka)","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_D_S4_3_body","source":"New World Explorer","translation":"Odkrywca nowego świata","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_D_S4_4_body","source":"Slow But Steady","translation":"Powoli, ale wytrwale","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_1_TEST_body","source":"NoPremium/Server/CP/none","translation":"Bez Premium/Serwer/Moc bojowa/brak","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_1_body","source":"Exciting First Step","translation":"Ekscytujący pierwszy krok","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_2_TEST_body","source":"NotFeatured/PremiumCurrency/Account/iLv/Lv/Quest/all","translation":"Nie-wyróżnione/Waluta premium/Konto/poziom przedmiotu/poziom/zadanie/wszystko","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_2_body","source":"Taking Flight (+Sprout Badge)","translation":"Wzbij się w powietrze (+Odznaka kiełka)","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_3_TEST_body","source":"Premium Subscription/Character/MiniLv/return","translation":"Subskrypcja premium/Postać/Minipoziom/powrót","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_3_body","source":"New World Explorer","translation":"Odkrywca nowego świata","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_4_TEST_body","source":"PremiumCurrency/Server/MaxCP/none","translation":"Waluta premium/Serwer/Maks. moc bojowa/brak","status":"draft"}
-{"id":"String_UI_ONBOARDING_GROUP_L_S4_4_body","source":"Slow But Steady","translation":"Powoli, ale wytrwale","status":"draft"}
-{"id":"String_UI_ONBOARDING_ITEMLEVEL_RANGE_MAX_body","source":"Below {0}","translation":"Poniżej {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_ITEMLEVEL_RANGE_MIN_body","source":"{0} or more","translation":"{0} lub więcej","status":"draft"}
-{"id":"String_UI_ONBOARDING_ITEMLEVEL_RANGE_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_ONBOARDING_LEVEL_body","source":"Requires Character Level {0}","translation":"Wymagany poziom postaci: {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_LIMIT_ACCOUNT_body","source":"{0} Activation(s) per Account ({1}/{2})","translation":"Aktywacje na konto: {0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_LIMIT_CHARACTER_body","source":"Activation per Character","translation":"Aktywacja na postać","status":"draft"}
-{"id":"String_UI_ONBOARDING_LIMIT_DATE_body","source":"Valid for {0} days","translation":"Ważne przez {0} dni","status":"draft"}
-{"id":"String_UI_ONBOARDING_LIMIT_SERVER_body","source":"{0} Activation(s) per Server ({1}/{2})","translation":"Aktywacje na serwer: {0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_MISSION_REWARD_TITLE_body","source":"{0} Rewards","translation":"Nagrody: {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_MISSION_body","source":"{0} ({1}/{2})","translation":"{0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_PERIOD_body","source":"Usage Period: {0} - {1}","translation":"Okres korzystania: {0} - {1}","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_ACTIVATE_body","source":"Premium Rewards Active","translation":"Aktywne nagrody premium","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_DESC_body","source":"You cannot obtain premium rewards of a Pass you have not activated.","translation":"Nie możesz otrzymać nagród premium z przepustki, której nie aktywowano.","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_HAVE_COST_body","source":"Funds","translation":"Dostępne środki","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_NEED_COST_body","source":"Amount Due","translation":"Do zapłaty","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_TITLE_body","source":"Activate premium rewards for {0}?","translation":"Aktywować nagrody premium za {0}?","status":"draft"}
-{"id":"String_UI_ONBOARDING_PREMIUM_BTN_ITEM_body","source":"Activate Premium","translation":"Aktywuj premium","status":"draft"}
-{"id":"String_UI_ONBOARDING_PROGRESSREWARD_COUNT_body","source":"({0}/{1})","translation":"({0}/{1})","status":"draft"}
-{"id":"String_UI_ONBOARDING_QUEST_body","source":"{0} Quest Complete","translation":"Ukończ zadanie: {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_REQUIRE_CONDITION_body","source":"Activation Requirements","translation":"Wymagania aktywacji","status":"draft"}
-{"id":"String_UI_ONBOARDING_STEP_REWARD_TITLE_body","source":"{0} Step Rewards","translation":"Nagrody za etap {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_TAB_UNLOCK_body","source":"Unlocks upon completing {0}","translation":"Odblokowuje się po ukończeniu {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_TAB_body","source":"{0} ({1}/{2})","translation":"{0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_ONBOARDING_TOOLTIP_DESC_body","source":"<Growth Support>\nGrowth Support is a progression system that grants rewards through missions.\nYou can obtain various items that help with character growth.\n\n<Activation>\nEach Growth Support has specific conditions required for activation\n(e.g. Combat Power, quest completion, etc.).\nWhen the conditions are met, you can activate it by using a dedicated activation item.\nItem ownership is determined based on your inventory, and items stored in Storage are not included.\nActivation conditions may vary depending on each Growth Support.\n\n<Rewards>\nRewards consist of mission completion rewards and cumulative rewards.\nMission rewards can be claimed immediately upon completing a mission. Additional cumulative rewards can be claimed after completing a certain amount of missions.\nRewards can only be claimed by the character that activated the feature.","translation":"<Wsparcie rozwoju>\nWsparcie rozwoju to system postępów, w którym zdobywa się nagrody za wykonywanie misji.\nMożesz zdobyć różne przedmioty ułatwiające rozwój postaci.\n\n<Aktywacja>\nKażde Wsparcie rozwoju ma określone warunki aktywacji\n(np. moc bojowa, ukończenie zadania itp.).\nPo spełnieniu warunków możesz je aktywować za pomocą specjalnego przedmiotu aktywacyjnego.\nPosiadanie przedmiotu jest sprawdzane w ekwipunku; przedmioty w magazynie nie są uwzględniane.\nWarunki aktywacji mogą się różnić w zależności od Wsparcia rozwoju.\n\n<Nagrody>\nNagrody obejmują nagrody za ukończenie misji i nagrody łączne.\nNagrody za misje można odebrać od razu po ich ukończeniu. Dodatkowe nagrody łączne można odebrać po wykonaniu określonej liczby misji.\nNagrody może odebrać wyłącznie postać, która aktywowała tę funkcję.","status":"draft"}
-{"id":"String_UI_ONBOARDING_UNLOCK_COMBATPOWER_body","source":"Below {0}","translation":"Poniżej {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_UNLOCK_ITEMLEVEL_body","source":"Below {0}","translation":"Poniżej {0}","status":"draft"}
-{"id":"String_UI_ONBOARDING_UNLOCK_NEWUSER_body","source":"New","translation":"Nowe","status":"draft"}
-{"id":"String_UI_ONBOARDING_UNLOCK_RETURNUSER_body","source":"Returning","translation":"Powracający","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_CONFIRM_body","source":"Need to additionally download [{0}] data. Do you want to download?","translation":"Aby skorzystać z tej funkcji, należy pobrać dodatkowe dane [{0}]. Czy chcesz je pobrać?","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_SUBTEXT_body","source":"(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)","translation":"(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_body","source":"[Remaining package size] Additional data required. Would you like to download?\n(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)","translation":"[Pozostały rozmiar pakietu] Wymagane są dodatkowe dane. Czy chcesz je pobrać?\n(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_SUBTEXT_body","source":"(The previous download will be temporarily paused while this data download takes priority. When this download is complete, the previous download will resume.)\n(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)","translation":"(Poprzednie pobieranie zostanie tymczasowo wstrzymane, aby najpierw pobrać te dane. Po zakończeniu tego pobierania poprzednie zostanie wznowione.)\n(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_WIFI_body","source":"The current network: [Wi-Fi].\nUse [Wi-Fi] to download?","translation":"Bieżąca sieć: [Wi-Fi].\nUżyć [Wi-Fi] do pobrania danych?","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE__body","source":"Need to download [{0}] data to use this content or function. Would you like to download?","translation":"Aby skorzystać z tej funkcji, należy pobrać dane [{0}]. Czy chcesz je pobrać?","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NETWORK_CHANGED_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_NETWORK_CHANGED_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_SAME_PACKAGE_DOWNLOAD_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_PACKAGEDOWNLOAD_POPUP_SAME_PACKAGE_DOWNLOAD_body","source":"Data is being downloaded for using this content or function.\nPlease complete the download first.","translation":"Trwa pobieranie danych potrzebnych do skorzystania z tej funkcji.\nNajpierw dokończ pobieranie.","status":"draft"}
-{"id":"String_UI_PANTHEON_AGIT_POPUP_EXIT_body","source":"Leave Pantheon?","translation":"Opuścić Panteon?","status":"draft"}
-{"id":"String_UI_PANTHEON_POPUP_TELEPORT_body","source":"Go to the Pantheon?","translation":"Przejść do Panteonu?","status":"draft"}
-{"id":"String_UI_PANTHEON_SELECT_GET_ROUTE_NOTHING_body","source":"No source information available.","translation":"Brak informacji o źródle.","status":"draft"}
-{"id":"String_UI_PANTHEON_SELECT_GET_ROUTE_body","source":"Source Information","translation":"Informacje o źródle","status":"draft"}
-{"id":"String_UI_PANTHEON_TAB_TOOLTIP_ALL_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_PANTHEON_TAB_TOOLTIP_FRAME_body","source":"Artwork","translation":"Grafika","status":"draft"}
-{"id":"String_UI_PANTHEON_TAB_TOOLTIP_LARGE_body","source":"Colossus","translation":"Kolosi","status":"draft"}
-{"id":"String_UI_PANTHEON_TAB_TOOLTIP_SMALL_body","source":"Statue","translation":"Posąg","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_RANKING_DESC_body","source":"Rank {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_CLASS_body","source":"Class Rank Rewards","translation":"Nagrody za miejsce w rankingu klasy","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_GRADE_body","source":"Grade Rewards","translation":"Nagrody za rangę","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_NONE_body","source":"No Rewards Obtainable","translation":"Brak dostępnych nagród","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_TITLE_body","source":"Expected Season Rewards","translation":"Przewidywane nagrody sezonowe","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_SCORE_TITLE_body","source":"Best Record","translation":"Najlepszy wynik","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_INFO_SEASON_END_TIME_body","source":"Season resets in","translation":"Reset sezonu za","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_DESC_body","source":"Ranks are determined based on the greatest amount of Rank Points achieved during the season, regardless of Dungeon type.\nIn the case of matching scores, the higher rank will be granted to the player with the highest accumulated Rank Points.\nRanks and point record are reset with every new season.\nRank points are determined by the difficulty of the cleared dungeon and the Rank Score earned. Rank Score is calculated based on dungeon clear time, monsters killed, number of deaths, and Kibelisk binding. However, monster kills are not counted after the final boss appears.\nIf there are any changes to party members after entering the dungeon, Rank Points cannot be earned.","translation":"Miejsca w rankingu są ustalane na podstawie największej liczby punktów rankingowych zdobytych w sezonie, niezależnie od rodzaju lochu.\nPrzy takim samym wyniku wyższą rangę otrzyma gracz z większą łączną liczbą punktów rankingowych.\nRangi i zapisane wyniki są resetowane z początkiem każdego sezonu.\nPunkty rankingowe zależą od poziomu trudności ukończonego lochu i zdobytego wyniku rankingowego. Wynik rankingowy oblicza się na podstawie czasu ukończenia lochu, liczby zabitych potworów, zgonów i związania Kibelisku. Zabójstwa potworów nie są jednak wliczane po pojawieniu się końcowego bossa.\nPo wejściu do lochu zmiana członków drużyny uniemożliwia zdobywanie punktów rankingowych.","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_CLEAR_TIME_body","source":"Time taken","translation":"Czas","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_DUNGEON_body","source":"Dungeon","translation":"Loch","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_LEVEL_body","source":"Stage","translation":"Etap","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_SCORE_body","source":"Rank Points","translation":"Punkty rankingowe","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_POPUP_RECORD_TITLE_body","source":"Highest Rank Points Recorded","translation":"Najwyższy zapisany wynik rankingowy","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_BTN_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_CLEAR_RANK_body","source":"Clear Rank","translation":"Ranga za ukończenie","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_DESC_UNLOCK_LEVEL_body","source":"Unlocked next stage following first clear as {0} rank.","translation":"Po pierwszym ukończeniu na randze {0} odblokowano kolejny etap.","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_LEVEL_TITLE_body","source":"Challenge Level","translation":"Poziom wyzwania","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_GET_FAIL_NOCONTRIBUTE_body","source":"Cannot acquire due to insufficient contribution","translation":"Nie można zdobyć punktów z powodu zbyt małego wkładu","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_GET_FAIL_PARTYCHANGE_body","source":"Cannot acquire due to party member change","translation":"Nie można zdobyć punktów z powodu zmiany członka drużyny","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_TITLE_body","source":"Rank Points","translation":"Punkty rankingowe","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_SCORE_BONUS_TITLE_body","source":"Bonus Score","translation":"Wynik bonusowy","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_SCORE_BOSS_TITLE_body","source":"Unique Monster Defeated","translation":"Pokonany potwór unikatowy","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_SCORE_MONSTER_TITLE_body","source":"Monster Defeated","translation":"Pokonany potwór","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_SCORE_TIME_TITLE_body","source":"Time Score","translation":"Wynik za czas","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_SCORE_TOTAL_TITLE_body","source":"Rank Score","translation":"Wynik rankingowy","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_RESULT_TIME_TITLE_body","source":"Time taken","translation":"Czas","status":"draft"}
-{"id":"String_UI_PARTYCHALLENGE_TAB_RANKING_body","source":"Rank","translation":"Ranga","status":"draft"}
-{"id":"String_UI_PARTYDUNGEONLEVEL_AFFIX_INFO_TITLE_body","source":"Level {0}","translation":"Poziom {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CHALLENGE_TAB_DUNGEON_body","source":"Dungeon","translation":"Loch","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CHALLENGE_TAB_RANKING_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CHALLENGE_TITLE_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CHARACTER_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CHECKBOX_ENTRANCE_body","source":"Open","translation":"Otwórz","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CLEAR_EASY_TO_NORMAL_NOT_CLEAR_body","source":"Must complete {0} on Exploration difficulty","translation":"Ukończ {0} na poziomie trudności Eksploracja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CLEAR_TICKET_TITLE_body","source":"Final Boss Kill Count","translation":"Liczba pokonanych końcowych bossów","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CONQUER_DIFFICULTY_ADVANCED_body","source":"Hard","translation":"Trudny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_CONQUER_DIFFICULTY_NORMAL_body","source":"Normal","translation":"Normalny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_ADDTICKET_BUTTON_MOVE_body","source":"Go","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_ADDTICKET_TITLE_body","source":"Odyle energy can be <system_point>purchased</> from the shop.\n<system_point>Move</> to the shop?","translation":"Energię Odyle można <system_point>kupić</> w sklepie.\n<system_point>Przejść</> do sklepu?","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_CEILLING_ITEM_RESET_BUTTON_CHANGE_body","source":"Change","translation":"Zmień","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_INVITE_POPUP_TITLE_body","source":"Invite","translation":"Zaproś","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_INVITE_TITLE_body","source":"Enter the name of character to invite to the room.","translation":"Wpisz nazwę postaci, którą chcesz zaprosić do pokoju.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_MAP_TRANSFER_BUTTON_WITHDRAW_body","source":"Go","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_MAP_TRANSFER_TITLE_body","source":"Would you like to leave the <system_point>dungeon</>?\nLeaving the dungeon will cause you to <system_point>leave</> the party.","translation":"Czy chcesz opuścić <system_point>loch</>?\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_NOT_SELECT_REWARD_BUTTON_EXIT_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_NOT_SELECT_REWARD_body","source":"Rewards have not been <system_point>obtained</>.\nLeaving the dungeon will cause you to <system_point>leave</> the party, and <system_point>rewards</> will be unobtainable.\nLeave the <system_point>dungeon</>?","translation":"Nagrody nie zostały <system_point>odebrane</>.\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny, a <system_point>nagród</> nie będzie można odebrać.\nOpuścić <system_point>loch</>?","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_NOT_UNCLAIMED_REWARD_body","source":"Rewards have not been <system_point>obtained</>.\nLeaving the dungeon will cause you to <system_point>leave</> the party, and <system_point>rewards</> will be unobtainable.\n<system_point>Leave the dungeon</>?\n\nRemaining Unobtained Cube Count: {0}","translation":"Nagrody nie zostały <system_point>odebrane</>.\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny, a <system_point>nagród</> nie będzie można odebrać.\n<system_point>Opuścić loch</>?\n\nPozostała liczba nieodebranych kostek: {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_LEAVE_DUNGEON_body","source":"Season has concluded. Leaving the dungeon.","translation":"Sezon dobiegł końca. Opuszczanie lochu.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_UI_CLOSE_body","source":"Season has concluded. Closing Expedition UI.","translation":"Sezon dobiegł końca. Zamykanie interfejsu ekspedycji.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_SHORTAGE_PEOPLE_BUTTON_MOVE_body","source":"Go","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIALOGUE_SHORTAGE_PEOPLE_TITLE_body","source":"Go to the <system_point>{0}</>\ndungeon?","translation":"Przejść do lochu\n<system_point>{0}</>?","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIFFICULTY_CONQUER_ADVANCED_body","source":"Conquest [Hard]","translation":"Podbój [Trudny]","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIFFICULTY_CONQUER_body","source":"Conquest","translation":"Podbój","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIFFICULTY_EXPLORER_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DIFFICULTY_TITLE_body","source":"Difficulty","translation":"Poziom trudności","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_RECOMMEND_MEMBER_RANGE_body","source":"{0}-{1} Player(s)","translation":"{0}-{1} graczy","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_RECOMMEND_MEMBER_SINGLE_body","source":"{0} Player(s)","translation":"{0} graczy","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_CLASS_ALL_body","source":"ALL","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MAX_body","source":"- Lv. {0}","translation":"- Poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MIN_MAX_body","source":"Lv. {0} - Lv. {1}","translation":"Poz. {0} - poz. {1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MIN_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_MAX_MEMBER_VALUE_body","source":"{0} Player(s)","translation":"{0} graczy","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLIP_COOLTIME_body","source":"Re-entry Cooldown","translation":"Czas odnowienia ponownego wejścia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_ITEM_LEVEL_body","source":"Item Level","translation":"Poziom przedmiotu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_LEVEL_body","source":"Character Level","translation":"Poziom postaci","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_MEMBER_body","source":"Recommended Party Size","translation":"Zalecana liczebność drużyny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_LIST_APPLICATION_body","source":"Participating","translation":"Uczestniczy","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_DUNGEON_TAP_APPLICATION_body","source":"Participating","translation":"Uczestniczy","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ENTERANCE_TICKET_CLEAR_TITLE_body","source":"Reward Count","translation":"Liczba nagród","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ENTERANCE_TICKET_TITLE_body","source":"Attempt Count","translation":"Liczba prób","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ENTRANCE_CONDITION_TITLE_body","source":"Entry Requirements","translation":"Wymagania wejścia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ENTRY_CONDITIONS_CLEAR_body","source":"Incomplete","translation":"Nieukończono","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ENTRY_CONDITIONS_NOT_CLEAR_body","source":"Complete","translation":"Ukończono","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_INSTANT_ENTRY_POPUP_CREATE_ROOM_TITLE_body","source":"No rooms available for immediate entry.\n<system_point>Create</> a new room?","translation":"Brak wolnych pokoi do natychmiastowego wejścia.\n<system_point>Utworzyć</> nowy pokój?","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_KILLBOSSNPC_TICKET_TITLE_body","source":"Attempt Count","translation":"Liczba prób","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_NOT_UNCLAIMED_ODENERGY_CUBE_body","source":"Remaining Unobtained Cube Count","translation":"Pozostała liczba nieodebranych kostek","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ODENERGY_CUBE_BOSSKILL_TITLE_body","source":"Defeated Boss","translation":"Pokonany boss","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ODENERGY_CUBE_DUNGEON_TITLE_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ODENERGY_CUBE_TITLE_body","source":"Odyle Energy Cube","translation":"Kostka energii Odyle","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_TITLE_body","source":"Condensed Cube Energy","translation":"Skondensowana energia kostki","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_TOOLTIP_body","source":"Guaranteed reward available after meeting condensed cube energy conditions.\nDungeons can be entered after collecting the guaranteed reward.","translation":"Gwarantowana nagroda będzie dostępna po spełnieniu warunków skondensowania energii kostki.\nDo lochu można wejść po odebraniu gwarantowanej nagrody.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_OD_CUBE_SUBSCRIBE_CEILLING_COUNT_body","source":"{0} / <system_point>{1}</>","translation":"{0} / <system_point>{1}</>","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ONBOARDING_ENTRANCE_NONE_body","source":"No accessible dungeon available.","translation":"Brak dostępnych lochów.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_INFO_01_body","source":"{0} | {1}","translation":"{0} | {1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_INFO_body","source":"{0} [{1}] | {2}","translation":"{0} [{1}] | {2}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_body","source":"{0} sent you an invite.","translation":"{0} wysyła zaproszenie.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_BUTTON_ACCEPT_body","source":"Accept","translation":"Akceptuj","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_BUTTON_REFUSE_body","source":"Decline","translation":"Odrzuć","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_TITLE_body","source":"{0} has requested to join the dungeon.","translation":"{0} prosi o dołączenie do lochu.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_EXIT_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_RETRY_body","source":"Challenge Again","translation":"Podejmij wyzwanie ponownie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_START_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_MEMBER_INFO_body","source":"Lv. {0} {1}","translation":"Poz. {0} {1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PANEL_JOIN_TITLE_body","source":"{0} ({1}/{2})","translation":"{0} ({1}/{2})","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_AFFIX_GUIDE_NONE_body","source":"No effects applied on this stage.","translation":"Na tym etapie nie działają żadne efekty.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_AFFIX_INFO_TITLE_body","source":"Effect Info","translation":"Informacje o efekcie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_FULL_SCHEDULE_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_GRADE_INFO_TEXT_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_GRADE_INFO_TITLE_body","source":"Stage","translation":"Etap","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_MYROOM_GRADE_INFO_body","source":"{0} [Stage {1}]","translation":"{0} [Etap {1}]","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_AFFIX_TITLE_body","source":"Effect Info","translation":"Informacje o efekcie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_AFFIX_DESC_body","source":"Effect Description","translation":"Opis efektu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_AFFIX_GRADE_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_GRADE_AFFIX_body","source":"Stage Effects","translation":"Efekty etapu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SCHEDULE_REMAIN_FINISH_body","source":"{0} Until the Event Ends","translation":"{0} do końca wydarzenia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SCREENMSG_TITLE_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_END_DESC_body","source":"Please wait for the next season.","translation":"Poczekaj na następny sezon.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_END_TITLE_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_DESC_body","source":"New season has begun.","translation":"Rozpoczął się nowy sezon.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_TIME_body","source":"Next season in","translation":"Do następnego sezonu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_TITLE_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_LEVEL_CONDITON_TOOLTIP_body","source":"Reached Level {0}","translation":"Osiągnięto poziom {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTY_BUTTON_PRIVATE_body","source":"Private","translation":"Prywatny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_PARTY_BUTTON_PUBLIC_body","source":"Public","translation":"Publiczny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ADDTICKET_GUIDE_body","source":"Recharging <system_point>{0}</>.\n<system_point>Select</> an item to recharge.","translation":"Uzużywanie <system_point>{0}</>.\n<system_point>Wybierz</> przedmiot do uzupełnienia.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ADDTICKET_TITLE_body","source":"Recharge {0}","translation":"Uzupełnij {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_CHECK_RETRY_body","source":"{0} has requested to Challenge Again.","translation":"{0} prosi o ponowne podjęcie wyzwania.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_CUBE_COLLECT_TOOLTIP_body","source":"Guaranteed rewards can be claimed if you have the claimed the required amount of Cube Rewards.\nThe dungeon can be entered after collecting the guaranteed reward.","translation":"Gwarantowane nagrody można odebrać po uzyskaniu wymaganej liczby nagród z kostek.\nDo lochu można wejść po odebraniu gwarantowanej nagrody.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_CUBE_BUTTON_SELECT_body","source":"Select","translation":"Wybierz","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_CUBE_CEILINGPOINT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_CUBE_TITLE_body","source":"Select Guaranteed Reward Item","translation":"Wybierz przedmiot gwarantowanej nagrody","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_BUTTON_OPEN_body","source":"Open","translation":"Otwórz","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_BUTTON_USE_body","source":"Use","translation":"Użyj","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_CEILLING_ITEM_COUNT_body","source":"Stored Count","translation":"Liczba w magazynie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_CEILLING_ITEM_body","source":"Guaranteed Reward","translation":"Gwarantowana nagroda","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GET_ITEM_TITLE_body","source":"Obtained Items","translation":"Zdobyte przedmioty","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GUIDE_MAX_body","source":"Energy condensation available up to {0} time(s).","translation":"Można skondensować energię maksymalnie {0} raz(y).","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GUIDE_MIN_body","source":"Energy condensation must be set to at least 1 time.","translation":"Należy ustawić co najmniej 1 skondensowanie energii.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_DECUCT_COUNT_body","source":"Lost Energy Amount","translation":"Utracona energia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_FINAL_BOSS_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS1_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS2_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS3_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_TOOLTIP_body","source":"Rewards Info Tooltip","translation":"Podpowiedź: informacje o nagrodach","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_body","source":"Rewards Info","translation":"Informacje o nagrodach","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_USE_COUNT_body","source":"Use Amount","translation":"Liczba użyć","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_body","source":"Energy Collected","translation":"Zebrana energia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TITLE_body","source":"Odyle Energy Cube","translation":"Kostka energii Odyle","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TOOLTIP_body","source":"Defeated bosses will have their portrait displayed and have their rewards applied to the cube.\nSpend owned energy to receive rewards.\nIf the energy condensation count increases, more rewards will be obtainable along with increased energy consumption.","translation":"Portrety pokonanych bossów zostaną wyświetlone, a ich nagrody trafią do kostki.\nWydaj posiadaną energię, aby odebrać nagrody.\nZwiększenie liczby skondensowań energii pozwoli odebrać więcej nagród, ale zużyje więcej energii.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_BUTTON_CREATE_body","source":"Create","translation":"Utwórz","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_BUTTON_ROLE_RECRUIT_ALL_body","source":"Assign Role","translation":"Przypisz rolę","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_GRADE_COMBOBOX_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_DEFAULT_body","source":"Leaving now.","translation":"Wychodzę.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_HINTTEXT_body","source":"Enter the room name. (2-32 characters)","translation":"Wpisz nazwę pokoju. (2–32 znaki)","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_body","source":"Room Name","translation":"Nazwa pokoju","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_GRADE_body","source":"Stage","translation":"Etap","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_RADIOBUTTON_APPROVE_body","source":"By Approval","translation":"Za zgodą","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_RADIOBUTTON_IMMEDIATELY_body","source":"Instant Join","translation":"Natychmiastowe dołączenie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_body","source":"Participation","translation":"Udział","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_RADIOBUTTON_PRIVATE_body","source":"Private","translation":"Prywatny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_RADIOBUTTON_PUBLIC_body","source":"Public","translation":"Publiczny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_body","source":"Visibility","translation":"Widoczność","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_TRIBALISTIC_body","source":"Same Faction","translation":"Ta sama frakcja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_body","source":"Faction","translation":"Frakcja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_ROLE_RECRUIT_body","source":"Role Recruitment","translation":"Rekrutacja do roli","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_TITLE_body","source":"Room Settings","translation":"Ustawienia pokoju","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_SUBTITLE_TRIALOPTION_body","source":"Ordeal Settings","translation":"Ustawienia próby","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_SUBTITLE_TRIALPOINT_body","source":"Final Difficulty: Lv. {0}","translation":"Końcowy poziom trudności: poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TAB_ROOM_body","source":"Room Settings","translation":"Ustawienia pokoju","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TAB_TRIAL_body","source":"Ordeal Settings","translation":"Ustawienia próby","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TITLE_body","source":"Ordeal Room Settings","translation":"Ustawienia pokoju próby","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TRIALSETTING_TRIALTOTAL_POINT_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TRIALSETTING_TRIALTOTAL_body","source":"Final Difficulty","translation":"Końcowy poziom trudności","status":"draft"}
+{"id": "String_UI_NUMPAD_KEY_7_body", "source": "7", "translation": "7", "status": "draft"}
+{"id": "String_UI_NUMPAD_KEY_8_body", "source": "8", "translation": "8", "status": "draft"}
+{"id": "String_UI_NUMPAD_KEY_9_body", "source": "9", "translation": "9", "status": "draft"}
+{"id": "String_UI_NUMPAD_TEXT_AMOUNT_body", "source": "Quantity", "translation": "Ilość", "status": "draft"}
+{"id": "String_UI_NUMPAD_TITLE_body", "source": "Enter Quantity", "translation": "Wprowadź ilość", "status": "draft"}
+{"id": "String_UI_OBJECT_TOOLTIP_RIFT_CONDITION_INTERACT_COUNT_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_OBJECT_TOOLTIP_RIFT_CONDITION_LEVEL_LIMIT_body", "source": "Lv. {0} or higher", "translation": "Poz. {0} lub wyższy", "status": "draft"}
+{"id": "String_UI_ODENERGYCUBE_POPUP_TAB_FINALBOSS_REWARD_body", "source": "Final Boss Rewards", "translation": "Nagrody za końcowego bossa", "status": "draft"}
+{"id": "String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_01_body", "source": "Mini-Boss Rewards 1", "translation": "Nagrody za minibossa 1", "status": "draft"}
+{"id": "String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_02_body", "source": "Mini-Boss Rewards 2", "translation": "Nagrody za minibossa 2", "status": "draft"}
+{"id": "String_UI_ODENERGYCUBE_POPUP_TAB_MIDDLEBOSS_REWARD_03_body", "source": "Mini-Boss Rewards 3", "translation": "Nagrody za minibossa 3", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATEPOPUP_ACCOUNT_SUBMSG_body", "source": "{0} Activation(s) per Account ({1}/{2})", "translation": "Aktywacje na konto: {0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATEPOPUP_CHARACTER_SUBMSG_body", "source": "Activated individually per Character", "translation": "Aktywowane oddzielnie dla każdej postaci", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATEPOPUP_MSG_body", "source": "Activate {0}?", "translation": "Aktywować {0}?", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATEPOPUP_SERVER_SUBMSG_body", "source": "{0} Activation(s) per Server ({1}/{2})", "translation": "Aktywacje na serwer: {0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATEPOPUP_SUBMSG_body", "source": "Activate Growth Support to complete missions and claim rewards.", "translation": "Aktywuj Wsparcie rozwoju, aby wykonywać misje i odbierać nagrody.", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVATE_TAG_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ACTIVE_body", "source": "Activating...", "translation": "Aktywowanie...", "status": "draft"}
+{"id": "String_UI_ONBOARDING_BUTTON_ACTIVE_body", "source": "Activate", "translation": "Aktywuj", "status": "draft"}
+{"id": "String_UI_ONBOARDING_BUTTON_ALL_GET_REWARD_body", "source": "Collect All Rewards", "translation": "Odbierz wszystkie nagrody", "status": "draft"}
+{"id": "String_UI_ONBOARDING_BUTTON_RECEIVE_STEP_REWARD_body", "source": "Collect Cumulative Rewards", "translation": "Odbierz nagrody łączne", "status": "draft"}
+{"id": "String_UI_ONBOARDING_BUTTON_REWARD_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
+{"id": "String_UI_ONBOARDING_BUY_PERIOD_body", "source": "Activation available between {0} and {1}", "translation": "Aktywacja dostępna od {0} do {1}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_COMBATPOWER_RANGE_MAX_body", "source": "Below {0}", "translation": "Poniżej {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_COMBATPOWER_RANGE_MIN_body", "source": "{0} or more", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_ONBOARDING_COMBATPOWER_RANGE_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ENDDATE_body", "source": "Ends {0}", "translation": "Kończy się {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_FEATURED_MARK_body", "source": "FEATURED!", "translation": "WYRÓŻNIONE!", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_D_S4_1_body", "source": "Exciting First Step", "translation": "Ekscytujący pierwszy krok", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_D_S4_2_body", "source": "Taking Flight (+Sprout Badge)", "translation": "Wzbij się w powietrze (+Odznaka kiełka)", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_D_S4_3_body", "source": "New World Explorer", "translation": "Odkrywca nowego świata", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_D_S4_4_body", "source": "Slow But Steady", "translation": "Powoli, ale wytrwale", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_1_TEST_body", "source": "NoPremium/Server/CP/none", "translation": "Bez Premium/Serwer/Moc bojowa/brak", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_1_body", "source": "Exciting First Step", "translation": "Ekscytujący pierwszy krok", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_2_TEST_body", "source": "NotFeatured/PremiumCurrency/Account/iLv/Lv/Quest/all", "translation": "Nie-wyróżnione/Waluta premium/Konto/poziom przedmiotu/poziom/zadanie/wszystko", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_2_body", "source": "Taking Flight (+Sprout Badge)", "translation": "Wzbij się w powietrze (+Odznaka kiełka)", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_3_TEST_body", "source": "Premium Subscription/Character/MiniLv/return", "translation": "Subskrypcja premium/Postać/Minipoziom/powrót", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_3_body", "source": "New World Explorer", "translation": "Odkrywca nowego świata", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_4_TEST_body", "source": "PremiumCurrency/Server/MaxCP/none", "translation": "Waluta premium/Serwer/Maks. moc bojowa/brak", "status": "draft"}
+{"id": "String_UI_ONBOARDING_GROUP_L_S4_4_body", "source": "Slow But Steady", "translation": "Powoli, ale wytrwale", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ITEMLEVEL_RANGE_MAX_body", "source": "Below {0}", "translation": "Poniżej {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ITEMLEVEL_RANGE_MIN_body", "source": "{0} or more", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_ONBOARDING_ITEMLEVEL_RANGE_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_LEVEL_body", "source": "Requires Character Level {0}", "translation": "Wymagany poziom postaci: {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_LIMIT_ACCOUNT_body", "source": "{0} Activation(s) per Account ({1}/{2})", "translation": "Aktywacje na konto: {0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_LIMIT_CHARACTER_body", "source": "Activation per Character", "translation": "Aktywacja na postać", "status": "draft"}
+{"id": "String_UI_ONBOARDING_LIMIT_DATE_body", "source": "Valid for {0} days", "translation": "Ważne przez {0} dni", "status": "draft"}
+{"id": "String_UI_ONBOARDING_LIMIT_SERVER_body", "source": "{0} Activation(s) per Server ({1}/{2})", "translation": "Aktywacje na serwer: {0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_MISSION_REWARD_TITLE_body", "source": "{0} Rewards", "translation": "Nagrody: {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_MISSION_body", "source": "{0} ({1}/{2})", "translation": "{0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PERIOD_body", "source": "Usage Period: {0} - {1}", "translation": "Okres korzystania: {0} - {1}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_ACTIVATE_body", "source": "Premium Rewards Active", "translation": "Aktywne nagrody premium", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_DESC_body", "source": "You cannot obtain premium rewards of a Pass you have not activated.", "translation": "Nie możesz otrzymać nagród premium z przepustki, której nie aktywowano.", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_HAVE_COST_body", "source": "Funds", "translation": "Dostępne środki", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_NEED_COST_body", "source": "Amount Due", "translation": "Do zapłaty", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_ACTIVE_POPUP_TITLE_body", "source": "Activate premium rewards for {0}?", "translation": "Aktywować nagrody premium za {0}?", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PREMIUM_BTN_ITEM_body", "source": "Activate Premium", "translation": "Aktywuj premium", "status": "draft"}
+{"id": "String_UI_ONBOARDING_PROGRESSREWARD_COUNT_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_QUEST_body", "source": "{0} Quest Complete", "translation": "Ukończ zadanie: {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_REQUIRE_CONDITION_body", "source": "Activation Requirements", "translation": "Wymagania aktywacji", "status": "draft"}
+{"id": "String_UI_ONBOARDING_STEP_REWARD_TITLE_body", "source": "{0} Step Rewards", "translation": "Nagrody za etap {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_TAB_UNLOCK_body", "source": "Unlocks upon completing {0}", "translation": "Odblokowuje się po ukończeniu {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_TAB_body", "source": "{0} ({1}/{2})", "translation": "{0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_ONBOARDING_TOOLTIP_DESC_body", "source": "<Growth Support>\nGrowth Support is a progression system that grants rewards through missions.\nYou can obtain various items that help with character growth.\n\n<Activation>\nEach Growth Support has specific conditions required for activation\n(e.g. Combat Power, quest completion, etc.).\nWhen the conditions are met, you can activate it by using a dedicated activation item.\nItem ownership is determined based on your inventory, and items stored in Storage are not included.\nActivation conditions may vary depending on each Growth Support.\n\n<Rewards>\nRewards consist of mission completion rewards and cumulative rewards.\nMission rewards can be claimed immediately upon completing a mission. Additional cumulative rewards can be claimed after completing a certain amount of missions.\nRewards can only be claimed by the character that activated the feature.", "translation": "<Wsparcie rozwoju>\nWsparcie rozwoju to system postępów, w którym zdobywa się nagrody za wykonywanie misji.\nMożesz zdobyć różne przedmioty ułatwiające rozwój postaci.\n\n<Aktywacja>\nKażde Wsparcie rozwoju ma określone warunki aktywacji\n(np. moc bojowa, ukończenie zadania itp.).\nPo spełnieniu warunków możesz je aktywować za pomocą specjalnego przedmiotu aktywacyjnego.\nPosiadanie przedmiotu jest sprawdzane w ekwipunku; przedmioty w magazynie nie są uwzględniane.\nWarunki aktywacji mogą się różnić w zależności od Wsparcia rozwoju.\n\n<Nagrody>\nNagrody obejmują nagrody za ukończenie misji i nagrody łączne.\nNagrody za misje można odebrać od razu po ich ukończeniu. Dodatkowe nagrody łączne można odebrać po wykonaniu określonej liczby misji.\nNagrody może odebrać wyłącznie postać, która aktywowała tę funkcję.", "status": "draft"}
+{"id": "String_UI_ONBOARDING_UNLOCK_COMBATPOWER_body", "source": "Below {0}", "translation": "Poniżej {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_UNLOCK_ITEMLEVEL_body", "source": "Below {0}", "translation": "Poniżej {0}", "status": "draft"}
+{"id": "String_UI_ONBOARDING_UNLOCK_NEWUSER_body", "source": "New", "translation": "Nowe", "status": "draft"}
+{"id": "String_UI_ONBOARDING_UNLOCK_RETURNUSER_body", "source": "Returning", "translation": "Powracający", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_CONFIRM_body", "source": "Need to additionally download [{0}] data. Do you want to download?", "translation": "Aby skorzystać z tej funkcji, należy pobrać dodatkowe dane [{0}]. Czy chcesz je pobrać?", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_SUBTEXT_body", "source": "(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)", "translation": "(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_DOWNLOAD_body", "source": "[Remaining package size] Additional data required. Would you like to download?\n(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)", "translation": "[Pozostały rozmiar pakietu] Wymagane są dodatkowe dane. Czy chcesz je pobrać?\n(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_SUBTEXT_body", "source": "(The previous download will be temporarily paused while this data download takes priority. When this download is complete, the previous download will resume.)\n(The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.)", "translation": "(Poprzednie pobieranie zostanie tymczasowo wstrzymane, aby najpierw pobrać te dane. Po zakończeniu tego pobierania poprzednie zostanie wznowione.)\n(Podczas pobierania można normalnie grać, z wyjątkiem niektórych elementów i funkcji. Pobrane dane pozostaną na urządzeniu po wyjściu z gry, a pobieranie będzie kontynuowane przy następnym uruchomieniu.)", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE_WIFI_body", "source": "The current network: [Wi-Fi].\nUse [Wi-Fi] to download?", "translation": "Bieżąca sieć: [Wi-Fi].\nUżyć [Wi-Fi] do pobrania danych?", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NEED_NEW_PACKAGE__body", "source": "Need to download [{0}] data to use this content or function. Would you like to download?", "translation": "Aby skorzystać z tej funkcji, należy pobrać dane [{0}]. Czy chcesz je pobrać?", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NETWORK_CHANGED_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_NETWORK_CHANGED_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_SAME_PACKAGE_DOWNLOAD_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_PACKAGEDOWNLOAD_POPUP_SAME_PACKAGE_DOWNLOAD_body", "source": "Data is being downloaded for using this content or function.\nPlease complete the download first.", "translation": "Trwa pobieranie danych potrzebnych do skorzystania z tej funkcji.\nNajpierw dokończ pobieranie.", "status": "draft"}
+{"id": "String_UI_PANTHEON_AGIT_POPUP_EXIT_body", "source": "Leave Pantheon?", "translation": "Opuścić Panteon?", "status": "draft"}
+{"id": "String_UI_PANTHEON_POPUP_TELEPORT_body", "source": "Go to the Pantheon?", "translation": "Przejść do Panteonu?", "status": "draft"}
+{"id": "String_UI_PANTHEON_SELECT_GET_ROUTE_NOTHING_body", "source": "No source information available.", "translation": "Brak informacji o źródle.", "status": "draft"}
+{"id": "String_UI_PANTHEON_SELECT_GET_ROUTE_body", "source": "Source Information", "translation": "Informacje o źródle", "status": "draft"}
+{"id": "String_UI_PANTHEON_TAB_TOOLTIP_ALL_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_PANTHEON_TAB_TOOLTIP_FRAME_body", "source": "Artwork", "translation": "Grafika", "status": "draft"}
+{"id": "String_UI_PANTHEON_TAB_TOOLTIP_LARGE_body", "source": "Colossus", "translation": "Kolosi", "status": "draft"}
+{"id": "String_UI_PANTHEON_TAB_TOOLTIP_SMALL_body", "source": "Statue", "translation": "Posąg", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_RANKING_DESC_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_CLASS_body", "source": "Class Rank Rewards", "translation": "Nagrody za miejsce w rankingu klasy", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_GRADE_body", "source": "Grade Rewards", "translation": "Nagrody za rangę", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_NONE_body", "source": "No Rewards Obtainable", "translation": "Brak dostępnych nagród", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_REWARD_SEASON_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_SCORE_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_INFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_DESC_body", "source": "Ranks are determined based on the greatest amount of Rank Points achieved during the season, regardless of Dungeon type.\nIn the case of matching scores, the higher rank will be granted to the player with the highest accumulated Rank Points.\nRanks and point record are reset with every new season.\nRank points are determined by the difficulty of the cleared dungeon and the Rank Score earned. Rank Score is calculated based on dungeon clear time, monsters killed, number of deaths, and Kibelisk binding. However, monster kills are not counted after the final boss appears.\nIf there are any changes to party members after entering the dungeon, Rank Points cannot be earned.", "translation": "Miejsca w rankingu są ustalane na podstawie największej liczby punktów rankingowych zdobytych w sezonie, niezależnie od rodzaju lochu.\nPrzy takim samym wyniku wyższe miejsce zajmie gracz z większą łączną liczbą punktów rankingowych.\nRangi i zapisane wyniki są resetowane z początkiem każdego sezonu.\nPunkty rankingowe zależą od poziomu trudności ukończonego lochu i zdobytego wyniku rankingowego. Wynik rankingowy oblicza się na podstawie czasu ukończenia lochu, liczby zabitych potworów, zgonów i związania Kibelisku. Zabójstwa potworów nie są jednak wliczane po pojawieniu się końcowego bossa.\nPo wejściu do lochu zmiana członków drużyny uniemożliwia zdobywanie punktów rankingowych.", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_CLEAR_TIME_body", "source": "Time taken", "translation": "Czas", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_DUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_LEVEL_body", "source": "Stage", "translation": "Etap", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_HEADER_SCORE_body", "source": "Rank Points", "translation": "Punkty rankingowe", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_POPUP_RECORD_TITLE_body", "source": "Highest Rank Points Recorded", "translation": "Najwyższy zapisany wynik rankingowy", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_BTN_CLOSE_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_CLEAR_RANK_body", "source": "Clear Rank", "translation": "Ranga za ukończenie", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_DESC_UNLOCK_LEVEL_body", "source": "Unlocked next stage following first clear as {0} rank.", "translation": "Po pierwszym ukończeniu na randze {0} odblokowano kolejny etap.", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_LEVEL_TITLE_body", "source": "Challenge Level", "translation": "Poziom wyzwania", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_GET_FAIL_NOCONTRIBUTE_body", "source": "Cannot acquire due to insufficient contribution", "translation": "Nie można zdobyć punktów z powodu zbyt małego wkładu", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_GET_FAIL_PARTYCHANGE_body", "source": "Cannot acquire due to party member change", "translation": "Nie można zdobyć punktów z powodu zmiany członka drużyny", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_RANKING_POINT_TITLE_body", "source": "Rank Points", "translation": "Punkty rankingowe", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_SCORE_BONUS_TITLE_body", "source": "Bonus Score", "translation": "Wynik bonusowy", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_SCORE_BOSS_TITLE_body", "source": "Unique Monster Defeated", "translation": "Pokonany potwór unikatowy", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_SCORE_MONSTER_TITLE_body", "source": "Monster Defeated", "translation": "Pokonany potwór", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_SCORE_TIME_TITLE_body", "source": "Time Score", "translation": "Wynik za czas", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_SCORE_TOTAL_TITLE_body", "source": "Rank Score", "translation": "Wynik rankingowy", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_RESULT_TIME_TITLE_body", "source": "Time taken", "translation": "Czas", "status": "draft"}
+{"id": "String_UI_PARTYCHALLENGE_TAB_RANKING_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEONLEVEL_AFFIX_INFO_TITLE_body", "source": "Level {0}", "translation": "Poziom {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CHALLENGE_TAB_DUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CHALLENGE_TAB_RANKING_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CHALLENGE_TITLE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CHARACTER_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CHECKBOX_ENTRANCE_body", "source": "Open", "translation": "Otwórz", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CLEAR_EASY_TO_NORMAL_NOT_CLEAR_body", "source": "Must complete {0} on Exploration difficulty", "translation": "Ukończ {0} na poziomie trudności Eksploracja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CLEAR_TICKET_TITLE_body", "source": "Final Boss Kill Count", "translation": "Liczba pokonanych końcowych bossów", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CONQUER_DIFFICULTY_ADVANCED_body", "source": "Hard", "translation": "Trudny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_CONQUER_DIFFICULTY_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_ADDTICKET_BUTTON_MOVE_body", "source": "Go", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_ADDTICKET_TITLE_body", "source": "Odyle energy can be <system_point>purchased</> from the shop.\n<system_point>Move</> to the shop?", "translation": "Energię Odyle można <system_point>kupić</> w sklepie.\n<system_point>Przejść</> do sklepu?", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_CEILLING_ITEM_RESET_BUTTON_CHANGE_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_INVITE_POPUP_TITLE_body", "source": "Invite", "translation": "Zaproś", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_INVITE_TITLE_body", "source": "Enter the name of character to invite to the room.", "translation": "Wpisz nazwę postaci, którą chcesz zaprosić do pokoju.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_MAP_TRANSFER_BUTTON_WITHDRAW_body", "source": "Go", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_MAP_TRANSFER_TITLE_body", "source": "Would you like to leave the <system_point>dungeon</>?\nLeaving the dungeon will cause you to <system_point>leave</> the party.", "translation": "Czy chcesz opuścić <system_point>loch</>?\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_NOT_SELECT_REWARD_BUTTON_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_NOT_SELECT_REWARD_body", "source": "Rewards have not been <system_point>obtained</>.\nLeaving the dungeon will cause you to <system_point>leave</> the party, and <system_point>rewards</> will be unobtainable.\nLeave the <system_point>dungeon</>?", "translation": "Nagrody nie zostały <system_point>odebrane</>.\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny, a <system_point>nagród</> nie będzie można odebrać.\nOpuścić <system_point>loch</>?", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_NOT_UNCLAIMED_REWARD_body", "source": "Rewards have not been <system_point>obtained</>.\nLeaving the dungeon will cause you to <system_point>leave</> the party, and <system_point>rewards</> will be unobtainable.\n<system_point>Leave the dungeon</>?\n\nRemaining Unobtained Cube Count: {0}", "translation": "Nagrody nie zostały <system_point>odebrane</>.\nOpuszczenie lochu spowoduje <system_point>opuszczenie</> drużyny, a <system_point>nagród</> nie będzie można odebrać.\n<system_point>Opuścić loch</>?\n\nPozostała liczba nieodebranych kostek: {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_LEAVE_DUNGEON_body", "source": "Season has concluded. Leaving the dungeon.", "translation": "Sezon dobiegł końca. Opuszczanie lochu.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_UI_CLOSE_body", "source": "Season has concluded. Closing Expedition UI.", "translation": "Sezon dobiegł końca. Zamykanie interfejsu ekspedycji.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_SHORTAGE_PEOPLE_BUTTON_MOVE_body", "source": "Go", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIALOGUE_SHORTAGE_PEOPLE_TITLE_body", "source": "Go to the <system_point>{0}</>\ndungeon?", "translation": "Przejść do lochu\n<system_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIFFICULTY_CONQUER_ADVANCED_body", "source": "Conquest [Hard]", "translation": "Podbój [Trudny]", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIFFICULTY_CONQUER_body", "source": "Conquest", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIFFICULTY_EXPLORER_body", "source": "Exploration", "translation": "Eksploracja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DIFFICULTY_TITLE_body", "source": "Difficulty", "translation": "Poziom trudności", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_RECOMMEND_MEMBER_RANGE_body", "source": "{0}-{1} Player(s)", "translation": "{0}-{1} graczy", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_RECOMMEND_MEMBER_SINGLE_body", "source": "{0} Player(s)", "translation": "{0} graczy", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_CLASS_ALL_body", "source": "ALL", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MAX_body", "source": "- Lv. {0}", "translation": "- Poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MIN_MAX_body", "source": "Lv. {0} - Lv. {1}", "translation": "Poz. {0} - poz. {1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_ENTRY_LEVEL_MIN_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_SUBTITEL_DUNGEON_INFO_MAX_MEMBER_VALUE_body", "source": "{0} Player(s)", "translation": "{0} graczy", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLIP_COOLTIME_body", "source": "Re-entry Cooldown", "translation": "Czas odnowienia ponownego wejścia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_ITEM_LEVEL_body", "source": "Item Level", "translation": "Poziom przedmiotu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_LEVEL_body", "source": "Character Level", "translation": "Poziom postaci", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_INFO_TOOLTIP_MEMBER_body", "source": "Recommended Party Size", "translation": "Zalecana liczebność drużyny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_LIST_APPLICATION_body", "source": "Participating", "translation": "Uczestniczy", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_DUNGEON_TAP_APPLICATION_body", "source": "Participating", "translation": "Uczestniczy", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ENTERANCE_TICKET_CLEAR_TITLE_body", "source": "Reward Count", "translation": "Liczba nagród", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ENTERANCE_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba prób", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ENTRANCE_CONDITION_TITLE_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ENTRY_CONDITIONS_CLEAR_body", "source": "Incomplete", "translation": "Nieukończono", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ENTRY_CONDITIONS_NOT_CLEAR_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_INSTANT_ENTRY_POPUP_CREATE_ROOM_TITLE_body", "source": "No rooms available for immediate entry.\n<system_point>Create</> a new room?", "translation": "Brak wolnych pokoi do natychmiastowego wejścia.\n<system_point>Utworzyć</> nowy pokój?", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_KILLBOSSNPC_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba prób", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_NOT_UNCLAIMED_ODENERGY_CUBE_body", "source": "Remaining Unobtained Cube Count", "translation": "Pozostała liczba nieodebranych kostek", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ODENERGY_CUBE_BOSSKILL_TITLE_body", "source": "Defeated Boss", "translation": "Pokonany boss", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ODENERGY_CUBE_DUNGEON_TITLE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ODENERGY_CUBE_TITLE_body", "source": "Odyle Energy Cube", "translation": "Kostka energii Odyle", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_TITLE_body", "source": "Condensed Cube Energy", "translation": "Skondensowana energia kostki", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_OD_CUBE_CEILLING_TOOLTIP_body", "source": "Guaranteed reward available after meeting condensed cube energy conditions.\nDungeons can be entered after collecting the guaranteed reward.", "translation": "Gwarantowana nagroda będzie dostępna po spełnieniu warunków skondensowania energii kostki.\nDo lochu można wejść po odebraniu gwarantowanej nagrody.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_OD_CUBE_SUBSCRIBE_CEILLING_COUNT_body", "source": "{0} / <system_point>{1}</>", "translation": "{0} / <system_point>{1}</>", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ONBOARDING_ENTRANCE_NONE_body", "source": "No accessible dungeon available.", "translation": "Brak dostępnych lochów.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_INFO_01_body", "source": "{0} | {1}", "translation": "{0} | {1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_INFO_body", "source": "{0} [{1}] | {2}", "translation": "{0} [{1}] | {2}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_INVITE_TITLE_body", "source": "{0} sent you an invite.", "translation": "{0} wysyła zaproszenie.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_BUTTON_ACCEPT_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_BUTTON_REFUSE_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_APPLICATION_TITLE_body", "source": "{0} has requested to join the dungeon.", "translation": "{0} prosi o dołączenie do lochu.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_RETRY_body", "source": "Challenge Again", "translation": "Podejmij wyzwanie ponownie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_BUTTON_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_MEMBER_INFO_body", "source": "Lv. {0} {1}", "translation": "Poz. {0} {1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PANEL_JOIN_TITLE_body", "source": "{0} ({1}/{2})", "translation": "{0} ({1}/{2})", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_AFFIX_GUIDE_NONE_body", "source": "No effects applied on this stage.", "translation": "Na tym etapie nie działają żadne efekty.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_AFFIX_INFO_TITLE_body", "source": "Effect Info", "translation": "Informacje o efekcie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_FULL_SCHEDULE_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_GRADE_INFO_TEXT_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_GRADE_INFO_TITLE_body", "source": "Stage", "translation": "Etap", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_MYROOM_GRADE_INFO_body", "source": "{0} [Stage {1}]", "translation": "{0} [Etap {1}]", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_AFFIX_TITLE_body", "source": "Effect Info", "translation": "Informacje o efekcie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_AFFIX_DESC_body", "source": "Effect Description", "translation": "Opis efektu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_AFFIX_GRADE_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_POPUP_TAB_GRADE_AFFIX_body", "source": "Stage Effects", "translation": "Efekty etapu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SCHEDULE_REMAIN_FINISH_body", "source": "{0} Until the Event Ends", "translation": "{0} do końca wydarzenia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SCREENMSG_TITLE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_END_DESC_body", "source": "Please wait for the next season.", "translation": "Poczekaj na następny sezon.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_END_TITLE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_DESC_body", "source": "New season has begun.", "translation": "Rozpoczął się nowy sezon.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_TIME_body", "source": "Next season in", "translation": "Do następnego sezonu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYCHALLENGE_SEASON_START_TITLE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTYDUNGEONCHALLENGE_LEVEL_CONDITON_TOOLTIP_body", "source": "Reached Level {0}", "translation": "Osiągnięto poziom {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTY_BUTTON_PRIVATE_body", "source": "Private", "translation": "Prywatny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_PARTY_BUTTON_PUBLIC_body", "source": "Public", "translation": "Publiczny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ADDTICKET_GUIDE_body", "source": "Recharging <system_point>{0}</>.\n<system_point>Select</> an item to recharge.", "translation": "Uzupełnianie <system_point>{0}</>.\n<system_point>Wybierz</> przedmiot do uzupełnienia.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ADDTICKET_TITLE_body", "source": "Recharge {0}", "translation": "Uzupełnij {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_CHECK_RETRY_body", "source": "{0} has requested to Challenge Again.", "translation": "{0} prosi o ponowne podjęcie wyzwania.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_CUBE_COLLECT_TOOLTIP_body", "source": "Guaranteed rewards can be claimed if you have the claimed the required amount of Cube Rewards.\nThe dungeon can be entered after collecting the guaranteed reward.", "translation": "Gwarantowane nagrody można odebrać po uzyskaniu wymaganej liczby nagród z kostek.\nDo lochu można wejść po odebraniu gwarantowanej nagrody.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_CUBE_BUTTON_SELECT_body", "source": "Select", "translation": "Wybierz", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_CUBE_CEILINGPOINT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_CUBE_TITLE_body", "source": "Select Guaranteed Reward Item", "translation": "Wybierz przedmiot gwarantowanej nagrody", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_BUTTON_OPEN_body", "source": "Open", "translation": "Otwórz", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_BUTTON_USE_body", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_CEILLING_ITEM_COUNT_body", "source": "Stored Count", "translation": "Liczba w magazynie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_CEILLING_ITEM_body", "source": "Guaranteed Reward", "translation": "Gwarantowana nagroda", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GET_ITEM_TITLE_body", "source": "Obtained Items", "translation": "Zdobyte przedmioty", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GUIDE_MAX_body", "source": "Energy condensation available up to {0} time(s).", "translation": "Można skondensować energię maksymalnie {0} raz(y).", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_GUIDE_MIN_body", "source": "Energy condensation must be set to at least 1 time.", "translation": "Należy ustawić co najmniej 1 skondensowanie energii.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_DECUCT_COUNT_body", "source": "Lost Energy Amount", "translation": "Utracona energia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_FINAL_BOSS_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS1_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS2_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_BUTTON_MIDDLE_BOSS3_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_TOOLTIP_body", "source": "Rewards Info Tooltip", "translation": "Podpowiedź: informacje o nagrodach", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_REWARD_INFO_body", "source": "Rewards Info", "translation": "Informacje o nagrodach", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_USE_COUNT_body", "source": "Use Amount", "translation": "Liczba użyć", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TICKET_body", "source": "Energy Collected", "translation": "Zebrana energia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TITLE_body", "source": "Odyle Energy Cube", "translation": "Kostka energii Odyle", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_OD_ENERGY_CUBE_TOOLTIP_body", "source": "Defeated bosses will have their portrait displayed and have their rewards applied to the cube.\nSpend owned energy to receive rewards.\nIf the energy condensation count increases, more rewards will be obtainable along with increased energy consumption.", "translation": "Portrety pokonanych bossów zostaną wyświetlone, a ich nagrody trafią do kostki.\nWydaj posiadaną energię, aby odebrać nagrody.\nZwiększenie liczby skondensowań energii pozwoli odebrać więcej nagród, ale zużyje więcej energii.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_BUTTON_CREATE_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_BUTTON_ROLE_RECRUIT_ALL_body", "source": "Assign Role", "translation": "Przypisz rolę", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_GRADE_COMBOBOX_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_DEFAULT_body", "source": "Leaving now.", "translation": "Wychodzę.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_HINTTEXT_body", "source": "Enter the room name. (2-32 characters)", "translation": "Wpisz nazwę pokoju. (2–32 znaki)", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_INTRODUCE_body", "source": "Room Name", "translation": "Nazwa pokoju", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_GRADE_body", "source": "Stage", "translation": "Etap", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_RADIOBUTTON_APPROVE_body", "source": "By Approval", "translation": "Za zgodą", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_RADIOBUTTON_IMMEDIATELY_body", "source": "Instant Join", "translation": "Natychmiastowe dołączenie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_JOIN_body", "source": "Participation", "translation": "Udział", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_RADIOBUTTON_PRIVATE_body", "source": "Private", "translation": "Prywatny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_RADIOBUTTON_PUBLIC_body", "source": "Public", "translation": "Publiczny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_PUBLIC_SETTING_body", "source": "Visibility", "translation": "Widoczność", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_TRIBALISTIC_body", "source": "Same Faction", "translation": "Ta sama frakcja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_RACE_SETTING_body", "source": "Faction", "translation": "Frakcja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_SUBTITLE_ROLE_RECRUIT_body", "source": "Role Recruitment", "translation": "Rekrutacja do roli", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_SETTING_TITLE_body", "source": "Room Settings", "translation": "Ustawienia pokoju", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_SUBTITLE_TRIALOPTION_body", "source": "Ordeal Settings", "translation": "Ustawienia próby", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_SUBTITLE_TRIALPOINT_body", "source": "Final Difficulty: Lv. {0}", "translation": "Końcowy poziom trudności: poz. {0}", "status": "draft"}

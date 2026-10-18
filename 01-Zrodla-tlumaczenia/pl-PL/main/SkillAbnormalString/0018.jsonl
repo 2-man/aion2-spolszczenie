@@ -223,9 +223,9 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_effect", "source": "Explodes and destroys Shields of Judgment upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Sądu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_name", "source": "Sword of Judgment", "translation": "Miecz osądu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_18089252_desc_summary", "source": "Explodes and destroys Shields of Judgment upon expiring", "translation": "Po wygaśnięciu wybucha i niszczy Tarcze Sądu", "status": "draft"}
-{"id":"SkillAbnormalString_SkillAbnormalString_180900102_desc_effect","source":"-<desc_point>{abe:1809001021:value02:divide100abs}%</> Impact-type Resist","translation":"-<desc_point>{abe:1809001021:value02:divide100abs}%</> Odporności na efekty uderzeniowe","status":"draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180900102_desc_effect", "source": "-<desc_point>{abe:1809001021:value02:divide100abs}%</> Impact-type Resist", "translation": "-<desc_point>{abe:1809001021:value02:divide100abs}%</> Odporności na efekty uderzeniowe", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_180900102_desc_name", "source": "Rushing Smash", "translation": "Pędzące Uderzenie", "status": "draft"}
-{"id":"SkillAbnormalString_SkillAbnormalString_180900102_desc_summary","source":"Reduces Impact-type Resist","translation":"Zmniejsza odporność na efekty uderzeniowe","status":"draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_180900102_desc_summary", "source": "Reduces Impact-type Resist", "translation": "Zmniejsza odporność na efekty uderzeniowe", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_effect", "source": "Becomes unable to act and immune to Askran's damage.", "translation": "Uniemożliwia działanie i zapewnia odporność na obrażenia Askrana.", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_name", "source": "Petrify", "translation": "Skamienienie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_18090016_desc_summary", "source": "Incapacitated, immune to Askran's damage", "translation": "Unieruchomienie, odporność na obrażenia Askrana", "status": "draft"}

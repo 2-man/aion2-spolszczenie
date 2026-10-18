@@ -35,7 +35,7 @@
 {"id": "CutsceneSubtitle_S2150_Renben_09_cv_text", "source": "Release my apparition at the Impetusium.", "translation": "Uwolnij moje widmo w Impetusium.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_10_cv_text", "source": "I... must atone for my sins.", "translation": "M-Muszę odpokutować za swoje grzechy.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_11_cv_text", "source": "I witnessed the high priest massacre Daeva", "translation": "Widziałem, jak Najwyższy Kapłan mordował Daevów", "status": "draft"}
-{"id": "CutsceneSubtitle_S2150_Renben_12_cv_text", "source": "and burn down Moslan Forest.", "translation": "i podpalał Moslan Forest.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2150_Renben_12_cv_text", "source": "and burn down Moslan Forest.", "translation": "i podpalał Las Moslan.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_13_cv_text", "source": "All this from a distance, hidden...", "translation": "Wszystkiemu przyglądałem się z ukrycia...", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_14_cv_text", "source": "Like a coward.", "translation": "Jak tchórz.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_15_cv_text", "source": "Please. Promise me.", "translation": "Proszę. Obiecaj mi.", "status": "draft"}
@@ -43,12 +43,12 @@
 {"id": "CutsceneSubtitle_S2150_Renben_17_cv_text", "source": "There is only one path for me.", "translation": "Jest dla mnie tylko jedna droga.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_18_cv_text", "source": "Only the high priest knows where to find the Core of Zikel.", "translation": "Tylko Najwyższy Kapłan wie, gdzie znaleźć Rdzeń Zikela.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_19_cv_text", "source": "But there are important clues I can give you...", "translation": "Mogę jednak przekazać ci ważne wskazówki...", "status": "draft"}
-{"id": "CutsceneSubtitle_S2150_Renben_20_cv_text", "source": "I have a hideout in the Basfelt Ruins.", "translation": "Mam kryjówkę w Basfelt Ruins.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2150_Renben_20_cv_text", "source": "I have a hideout in the Basfelt Ruins.", "translation": "Mam kryjówkę w Ruinach Basfelt.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2150_Renben_21_cv_text", "source": "Search... through my papers there.", "translation": "Poszukaj... moich dokumentów.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2170_Nemon_01_cv_text", "source": "Ugh!", "translation": "Ugh!", "status": "draft"}
-{"id": "CutsceneSubtitle_S2170_Ulgorn_01_cv_text", "source": "This looks different from the one at Zikel's Sanctum.", "translation": "Ten wygląda inaczej niż ten z Zikel's Sanctum.", "status": "draft"}
-{"id": "CutsceneSubtitle_S2171_DstrArchon_01_cv_text", "source": "Destruction...", "translation": "Archonci...", "status": "draft"}
-{"id": "CutsceneSubtitle_S2171_DstrArchon_02_cv_text", "source": "Archons...", "translation": "Zniszczenia...", "status": "draft"}
+{"id": "CutsceneSubtitle_S2170_Ulgorn_01_cv_text", "source": "This looks different from the one at Zikel's Sanctum.", "translation": "Ten wygląda inaczej niż ten z Sanktuarium Zikela.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2171_DstrArchon_01_cv_text", "source": "Destruction...", "translation": "Zniszczenia...", "status": "draft"}
+{"id": "CutsceneSubtitle_S2171_DstrArchon_02_cv_text", "source": "Archons...", "translation": "Archonci...", "status": "draft"}
 {"id": "CutsceneSubtitle_S2171_DstrArchon_03_cv_text", "source": "Honor the Blood Oath!", "translation": "Dochowajcie Krwawej Przysięgi!", "status": "draft"}
 {"id": "CutsceneSubtitle_S2171_Ulgorn_01_cv_text", "source": "A Guardian Archon?", "translation": "Archont Strażnik?", "status": "draft"}
 {"id": "CutsceneSubtitle_S2173_Gerod_01_cv_text", "source": "Perfect.", "translation": "Doskonale.", "status": "draft"}
@@ -82,7 +82,7 @@
 {"id": "CutsceneSubtitle_S2174_Nemon_02_cv_text", "source": "The only way forward is to get rid of you.", "translation": "Jedyna droga naprzód prowadzi przez ciebie.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2174_Nemon_03_cv_text", "source": "This ends here, Gerod!", "translation": "To koniec, Gerod!", "status": "draft"}
 {"id": "CutsceneSubtitle_S2180_Nemon_01_cv_text", "source": "So much dust...", "translation": "Tyle kurzu...", "status": "draft"}
-{"id": "CutsceneSubtitle_S2180_Nemon_02_cv_text", "source": "We're flirting with danger here.", "translation": "Igrasz tu z niebezpieczeństwem.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2180_Nemon_02_cv_text", "source": "We're flirting with danger here.", "translation": "Igramy tu z niebezpieczeństwem.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2180_Snotra_01_cv_text", "source": "Look at the size of it!", "translation": "Ależ to wielkie!", "status": "draft"}
 {"id": "CutsceneSubtitle_S2180_Snotra_02_cv_text", "source": "Get back.", "translation": "Cofnij się.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2180_Snotra_03_cv_text", "source": "It solidified! It worked!", "translation": "Zestaliło się! Udało się!", "status": "draft"}
@@ -182,7 +182,7 @@
 {"id": "CutsceneSubtitle_S2245_Nemon_05_cv_text", "source": "The Bulwark stands at the end of Morheim.", "translation": "Wał Obronny znajduje się na krańcu Morheim.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2245_Nemon_06_cv_text", "source": "So, will you accompany me there?", "translation": "Wyruszysz tam ze mną?", "status": "draft"}
 {"id": "CutsceneSubtitle_S2245_Nemon_07_cv_text", "source": "It's funny.", "translation": "To zabawne.", "status": "draft"}
-{"id": "CutsceneSubtitle_S2245_Nemon_09_cv_text", "source": "I will reshape this world.", "translation": "Odrodzę ten świat.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2245_Nemon_09_cv_text", "source": "I will reshape this world.", "translation": "Ukształtuję ten świat na nowo.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2245_Nemon_10_cv_text", "source": "Both inside and outside the Bulwark,", "translation": "Zarówno za Wałem Obronnym, jak i przed nim,", "status": "draft"}
 {"id": "CutsceneSubtitle_S2245_Nemon_11_cv_text", "source": "I will change everything.", "translation": "zmienię wszystko.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2271_Hugo_01_cv_text", "source": "Damn it, find the Red Fafnite first!", "translation": "Cholera, najpierw znajdź Czerwonego Fafnita!", "status": "draft"}
@@ -237,7 +237,7 @@
 {"id": "CutsceneSubtitle_S2323_Walter_03_cv_text", "source": "Valter!", "translation": "Valter!", "status": "draft"}
 {"id": "CutsceneSubtitle_S2324_Kromede_01_cv_text", "source": "Valter, enough.", "translation": "Valter, wystarczy.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2324_Kromede_02_cv_text", "source": "You know me? Hah... the price of fame.", "translation": "Znasz mnie? Ha... cena sławy.", "status": "draft"}
-{"id": "CutsceneSubtitle_S2324_Kromede_03_cv_text", "source": "Looking for the Nornir, right? Try Patamor Village.", "translation": "Szukasz Nornir, prawda? Spróbuj w Patamor Village.", "status": "draft"}
+{"id": "CutsceneSubtitle_S2324_Kromede_03_cv_text", "source": "Looking for the Nornir, right? Try Patamor Village.", "translation": "Szukasz Nornir, prawda? Spróbuj w Wiosce Patamor.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2324_Kromede_04_cv_text", "source": "Consider this thanks for the help. You're welcome.", "translation": "Potraktuj to jako podziękowanie za pomoc. Nie ma za co.", "status": "draft"}
 {"id": "CutsceneSubtitle_S2324_Nemon_01_cv_text", "source": "Kromede...", "translation": "Kromede...", "status": "draft"}
 {"id": "CutsceneSubtitle_S2324_Nemon_02_cv_text", "source": "What are you doing here?", "translation": "Co tu robisz?", "status": "draft"}

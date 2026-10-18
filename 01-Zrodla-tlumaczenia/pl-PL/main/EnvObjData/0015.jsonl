@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_01_desc", "source": "Left Altar Purification Device", "translation": "Urządzenie oczyszczające lewego ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_02_desc", "source": "Central Altar Purification Device", "translation": "Urządzenie oczyszczające centralnego ołtarza", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_03_desc", "source": "Right Altar Purification Device", "translation": "Urządzenie oczyszczające prawego ołtarza", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_BalaurBox_01_desc", "source": "Balaur General Goods Chest", "translation": "Skrzynia z towarami Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_Body_01_desc", "source": "Unidentified Corpse", "translation": "Niezidentyfikowane zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_Body_02_desc", "source": "Unidentified Corpse", "translation": "Niezidentyfikowane zwłoki", "status": "draft"}
@@ -8,11 +11,11 @@
 {"id": "EnvObjData_E_L1_HQ_DeadPilgrim_01_desc", "source": "Pilgrim Corpse", "translation": "Zwłoki pielgrzyma", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_DeadPilgrim_02_desc", "source": "Pilgrim Corpse", "translation": "Zwłoki pielgrzyma", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_DeadShugo_01_desc", "source": "Shugo Corpse", "translation": "Zwłoki Shugo", "status": "draft"}
-{"id":"EnvObjData_E_L1_HQ_EtheriaCrackAttack_01_desc","source":"Etheria Rift","translation":"Szczelina Etherii","status":"draft"}
-{"id":"EnvObjData_E_L1_HQ_EtheriaCrack_1_desc","source":"Rift Fissure","translation":"Szczelina Szczeliny","status":"draft"}
-{"id":"EnvObjData_E_L1_HQ_EtheriaCrack_2_desc","source":"Rift Fissure","translation":"Szczelina Szczeliny","status":"draft"}
-{"id":"EnvObjData_E_L1_HQ_EtheriaCrack_3_desc","source":"Rift Fissure","translation":"Szczelina Szczeliny","status":"draft"}
-{"id": "EnvObjData_E_L1_HQ_GodFragment_01_desc", "source": "Empyrean Trace: Verteron", "translation": "Ślad Empiriana: Verteron", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_EtheriaCrackAttack_01_desc", "source": "Etheria Rift", "translation": "Szczelina Etherii", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_EtheriaCrack_1_desc", "source": "Rift Fissure", "translation": "Szczelina Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_EtheriaCrack_2_desc", "source": "Rift Fissure", "translation": "Szczelina Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_EtheriaCrack_3_desc", "source": "Rift Fissure", "translation": "Szczelina Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_L1_HQ_GodFragment_01_desc", "source": "Empyrean Trace: Verteron", "translation": "Szlak Empyreum: Verteron", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_IllusionSource_01_desc", "source": "Illusion Tree's Essence", "translation": "Esencja Drzewa Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_IllusionStatue_01_desc", "source": "Eastern Illusion God's Barrierstone", "translation": "Wschodni Kamień Bariery Boga Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_IllusionStatue_02_desc", "source": "Western Illusion God's Barrierstone", "translation": "Zachodni Kamień Bariery Boga Iluzji", "status": "draft"}
@@ -50,13 +53,13 @@
 {"id": "EnvObjData_E_L1_KaisinelBook_01_desc", "source": "Worn Book", "translation": "Podniszczona księga", "status": "draft"}
 {"id": "EnvObjData_E_L1_KaisinelBook_02_desc", "source": "Dusty Book", "translation": "Zakurzona księga", "status": "draft"}
 {"id": "EnvObjData_E_L1_KaisinelBook_03_desc", "source": "Dirty Book", "translation": "Brudna księga", "status": "draft"}
-{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Air_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinel", "status": "draft"}
-{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Ground_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinel", "status": "draft"}
-{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Water_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinel", "status": "draft"}
+{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Air_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinela", "status": "draft"}
+{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Ground_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinela", "status": "draft"}
+{"id": "EnvObjData_E_L1_Kaisinel_Fragment_Water_desc", "source": "Fragment of Kaisinel", "translation": "Fragment Kaisinela", "status": "draft"}
 {"id": "EnvObjData_E_L1_KobGuide_01_desc", "source": "Shift Instructions", "translation": "Instrukcje zmiany", "status": "draft"}
 {"id": "EnvObjData_E_L1_KoboldDairay_001_desc", "source": "Kobold Diary", "translation": "Pamiętnik kobolda", "status": "draft"}
 {"id": "EnvObjData_E_L1_KoboldShoesBag_001_desc", "source": "Kobold's Supply Chest", "translation": "Skrzynia z zaopatrzeniem koboldów", "status": "draft"}
-{"id":"EnvObjData_E_L1_KrakaFootPath_TeleportArtifact_001_desc","source":"Kraka Footpath Campsite","translation":"Obóz przy ścieżce Kraka","status":"draft"}
+{"id": "EnvObjData_E_L1_KrakaFootPath_TeleportArtifact_001_desc", "source": "Kraka Footpath Campsite", "translation": "Obóz przy ścieżce Kraka", "status": "draft"}
 {"id": "EnvObjData_E_L1_KrakaFootPath_TeleportArtifact_002_desc", "source": "Kraka Uphill Path", "translation": "Pod górę Kraka", "status": "draft"}
 {"id": "EnvObjData_E_L1_KrakaFootPath_TeleportArtifact_003_desc", "source": "Nahid Brigade Fortress Hill", "translation": "Wzgórze twierdzy brygady Nahidów", "status": "draft"}
 {"id": "EnvObjData_E_L1_KrakaFootPath_TeleportArtifact_039_desc", "source": "Kraka Footpath Wastewater Downstream", "translation": "Dolny bieg ścieków przy ścieżce Kraka", "status": "draft"}
@@ -100,11 +103,11 @@
 {"id": "EnvObjData_E_L1_OwllauVillage_BrokenWagon_01_001_desc", "source": "Remnants of the Broken Cart", "translation": "Pozostałości rozbitego wozu", "status": "draft"}
 {"id": "EnvObjData_E_L1_OwllauVillage_IshtarTotem_01_desc", "source": "Ishtar Totem", "translation": "Totem Ishtar", "status": "draft"}
 {"id": "EnvObjData_E_L1_OwllauVillage_StrigikTotem_02_001_desc", "source": "Prop: Censer Totem", "translation": "Rekwizyt: totem kadzielny", "status": "draft"}
-{"id":"EnvObjData_E_L1_OwllauVillage_TeleportArtifact_001_desc","source":"Abandoned Wind Breeze Office","translation":"Opuszczona placówka Wiatroświstu","status":"draft"}
+{"id": "EnvObjData_E_L1_OwllauVillage_TeleportArtifact_001_desc", "source": "Abandoned Wind Breeze Office", "translation": "Opuszczona placówka Wiatroświstu", "status": "draft"}
 {"id": "EnvObjData_E_L1_OwllauVillage_TeleportArtifact_002_desc", "source": "Aullaeu Village Sky Island", "translation": "Podniebna wyspa wioski Aullaeu", "status": "draft"}
 {"id": "EnvObjData_E_L1_OwllauVillage_TeleportArtifact_003_desc", "source": "Aullaeu Village Valley", "translation": "Dolina wioski Aullaeu", "status": "draft"}
-{"id":"EnvObjData_E_L1_OwllauVillage_TeleportArtifact_044_desc","source":"Forest of Exiles","translation":"Las Wygnańców","status":"draft"}
-{"id": "EnvObjData_E_L1_OwllauVillage_WoodPrisonDoor_01_V01_001_desc", "source": "Prison Holding a Shugo", "translation": "Więzienie z Shugo", "status": "draft"}
+{"id": "EnvObjData_E_L1_OwllauVillage_TeleportArtifact_044_desc", "source": "Forest of Exiles", "translation": "Las Wygnańców", "status": "draft"}
+{"id": "EnvObjData_E_L1_OwllauVillage_WoodPrisonDoor_01_V01_001_desc", "source": "Prison Holding a Shugo", "translation": "Więzienie z uwięzionym Shugo", "status": "draft"}
 {"id": "EnvObjData_E_L1_PaperPiece_001_desc", "source": "Torn Document Scraps", "translation": "Podarte skrawki dokumentów", "status": "draft"}
 {"id": "EnvObjData_E_L1_PaperPile_001_desc", "source": "Blood-Stained Book", "translation": "Księga splamiona krwią", "status": "draft"}
 {"id": "EnvObjData_E_L1_PaperPile_002_desc", "source": "Kochi's Neglected Letter", "translation": "Zaniedbany list Kochiego", "status": "draft"}
@@ -117,7 +120,7 @@
 {"id": "EnvObjData_E_L1_Q_Spirit_01_desc", "source": "Rift Aura", "translation": "Aura szczeliny", "status": "draft"}
 {"id": "EnvObjData_E_L1_RedForest_DraTotemBig_01_001_desc", "source": "Balaur Large Totem", "translation": "Wielki totem Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_L1_RedForest_DraTotemD_01_001_desc", "source": "Deactivated Large Balaur Totem", "translation": "Nieaktywny wielki totem Balaurów", "status": "draft"}
-{"id":"EnvObjData_E_L1_RedForest_TeleportArtifact_001_desc","source":"Scarlet Forest Observation Site","translation":"Punkt obserwacyjny w Szkarłatnym Lesie","status":"draft"}
+{"id": "EnvObjData_E_L1_RedForest_TeleportArtifact_001_desc", "source": "Scarlet Forest Observation Site", "translation": "Punkt obserwacyjny w Szkarłatnym Lesie", "status": "draft"}
 {"id": "EnvObjData_E_L1_RedForest_TeleportArtifact_002_desc", "source": "Red Maple Forest", "translation": "Las Czerwonych Klonów", "status": "draft"}
 {"id": "EnvObjData_E_L1_RemodOdCollector_01_desc", "source": "Modified Odyle Collector", "translation": "Zmodyfikowany zbieracz Odylu", "status": "draft"}
 {"id": "EnvObjData_E_L1_RiftPortal_001_desc", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
@@ -143,7 +146,7 @@
 {"id": "EnvObjData_E_L1_SetUp_01_desc", "source": "Install the Modified Odyle Collector", "translation": "Zainstaluj zmodyfikowany zbieracz Odylu", "status": "draft"}
 {"id": "EnvObjData_E_L1_ShugoBeast_002_desc", "source": "Frightened Lugi", "translation": "Przestraszony Lugi", "status": "draft"}
 {"id": "EnvObjData_E_L1_SoulCrystal_01_desc", "source": "Soul Crystal", "translation": "Kryształ duszy", "status": "draft"}
-{"id":"EnvObjData_E_L1_SouthernAlamiaHighland_TeleportArtifact_001_desc","source":"Beast Hunter Campsite","translation":"Obóz łowców bestii","status":"draft"}
+{"id": "EnvObjData_E_L1_SouthernAlamiaHighland_TeleportArtifact_001_desc", "source": "Beast Hunter Campsite", "translation": "Obóz łowców bestii", "status": "draft"}
 {"id": "EnvObjData_E_L1_SouthernAlamiaHighland_TeleportArtifact_002_desc", "source": "Southern Altamia Coastal Cliffs", "translation": "Przybrzeżne klify na południu Altamii", "status": "draft"}
 {"id": "EnvObjData_E_L1_SpellTrace_001_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
 {"id": "EnvObjData_E_L1_Spracherwerb_001_desc", "source": "Language Artifact", "translation": "Artefakt języka", "status": "draft"}
@@ -160,7 +163,7 @@
 {"id": "EnvObjData_E_L1_TF_EliteBeastA_SecretStrage_01_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
 {"id": "EnvObjData_E_L1_TF_EliteBeastA_SecretStrage_02_desc", "source": "Hidden Supplies", "translation": "Ukryte zapasy", "status": "draft"}
 {"id": "EnvObjData_E_L1_TF_EliteBeastA_feather_01_desc", "source": "Aullaeu Wing", "translation": "Skrzydło Aullaeu", "status": "draft"}
-{"id":"EnvObjData_E_L1_TeleportArtifact_Verteron_Nahid_1_desc","source":"Nahid Disposal Plant","translation":"Zakład utylizacji Nahid","status":"draft"}
+{"id": "EnvObjData_E_L1_TeleportArtifact_Verteron_Nahid_1_desc", "source": "Nahid Disposal Plant", "translation": "Zakład utylizacji Nahid", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_Cart_01_desc", "source": "Konutin Worker's Cart", "translation": "Wózek robotnika Konutina", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_LayerEnterDoor_001_desc", "source": "Kochi's Quarters Door", "translation": "Drzwi kwatery Kochiego", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_LayerEnterDoor_002_desc", "source": "Night Dew Cave Door", "translation": "Drzwi Jaskini Nocnej Rosy", "status": "draft"}
@@ -174,13 +177,13 @@
 {"id": "EnvObjData_E_L1_TolbasForest_StrigikPot_01_desc", "source": "Aullaeu Jar", "translation": "Dzban Aullaeu", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_StrigikStone_01_desc", "source": "Aullaeu Hexing Stone", "translation": "Kamień klątw Aullaeu", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_StrigikTotem_01_desc", "source": "Aullaeu Totem", "translation": "Totem Aullaeu", "status": "draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_001_desc","source":"Wind Breeze Merchants HQ","translation":"Siedziba kupców Wiatroświstu","status":"draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_002_desc","source":"Astin Mercenaries Base","translation":"Baza najemników Astin","status":"draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_003_desc","source":"Aullaeu Village Border","translation":"Granica wioski Aullaeu","status":"draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_004_desc","source":"Southern Shugo Station","translation":"Południowa stacja Szugo","status":"draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_005_desc","source":"Eastern Shugo Station","translation":"Wschodnia stacja Szugo","status":"draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_001_desc", "source": "Wind Breeze Merchants HQ", "translation": "Siedziba kupców Wiatroświstu", "status": "draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_002_desc", "source": "Astin Mercenaries Base", "translation": "Baza najemników Astin", "status": "draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_003_desc", "source": "Aullaeu Village Border", "translation": "Granica wioski Aullaeu", "status": "draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_004_desc", "source": "Southern Shugo Station", "translation": "Południowa stacja Szugo", "status": "draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_005_desc", "source": "Eastern Shugo Station", "translation": "Wschodnia stacja Szugo", "status": "draft"}
 {"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_006_desc", "source": "Tolbas Forest Outskirts", "translation": "Obrzeża Lasu Tolbas", "status": "draft"}
-{"id":"EnvObjData_E_L1_TolbasForest_TeleportArtifact_045_desc","source":"Aullaeu Funeral Island","translation":"Wyspa pogrzebowa Aullaeu","status":"draft"}
+{"id": "EnvObjData_E_L1_TolbasForest_TeleportArtifact_045_desc", "source": "Aullaeu Funeral Island", "translation": "Wyspa pogrzebowa Aullaeu", "status": "draft"}
 {"id": "EnvObjData_E_L1_TowerFragment_003_desc", "source": "Barrier Tower Fragment", "translation": "Fragment Wieży Bariery", "status": "draft"}
 {"id": "EnvObjData_E_L1_Twinkle_001_desc", "source": "Command Post Door Key", "translation": "Klucz do drzwi stanowiska dowodzenia", "status": "draft"}
 {"id": "EnvObjData_E_L1_Twinkle_02_desc", "source": "Check on the Fossa", "translation": "Sprawdź, co z Fossą", "status": "draft"}
@@ -201,7 +204,7 @@
 {"id": "EnvObjData_E_L1_VerteronFotress_LayerEnterDoor_002_desc", "source": "Illusion Oratory Door", "translation": "Drzwi kaplicy iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronFotress_LayerExitDoor_001_desc", "source": "Krall Command Post Door", "translation": "Drzwi posterunku dowodzenia Krallów", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronFotress_LayerExitDoor_002_desc", "source": "Illusion Oratory Door", "translation": "Drzwi kaplicy iluzji", "status": "draft"}
-{"id":"EnvObjData_E_L1_VerteronFotress_TeleportArtifact_001_desc","source":"Collapsed Pillar","translation":"Zawalony filar","status":"draft"}
+{"id": "EnvObjData_E_L1_VerteronFotress_TeleportArtifact_001_desc", "source": "Collapsed Pillar", "translation": "Zawalony filar", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronFotress_TeleportArtifact_002_desc", "source": "Verteron Fortress Valley", "translation": "Dolina twierdzy Verteron", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronFotress_TeleportArtifact_042_desc", "source": "Illusion Oratory Entrance", "translation": "Wejście do Oratorium Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronToEltnen_AgitPortal_desc", "source": "Hall Teleportation Portal", "translation": "Portal teleportacyjny do sali", "status": "draft"}
@@ -209,9 +212,9 @@
 {"id": "EnvObjData_E_L1_VerteronToEltnen_Portal_desc", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
 {"id": "EnvObjData_E_L1_VerteronToEltnen_Portal_interact_desc", "source": "Traveling to Eltnen...", "translation": "Podróż do Eltnen...", "status": "draft"}
 {"id": "EnvObjData_E_L1_Verteron_MonoLith_desc", "source": "Verteron Monolith", "translation": "Monolit Verteron", "status": "draft"}
-{"id": "EnvObjData_E_L1_Verteron_fragment_Air_desc", "source": "Empyrean Trace: Verteron", "translation": "Ślad Empiriana: Verteron", "status": "draft"}
-{"id": "EnvObjData_E_L1_Verteron_fragment_Ground_desc", "source": "Empyrean Trace: Verteron", "translation": "Ślad Empiriana: Verteron", "status": "draft"}
-{"id": "EnvObjData_E_L1_Verteron_fragment_Water_desc", "source": "Empyrean Trace: Verteron", "translation": "Ślad Empiriana: Verteron", "status": "draft"}
+{"id": "EnvObjData_E_L1_Verteron_fragment_Air_desc", "source": "Empyrean Trace: Verteron", "translation": "Szlak Empyreum: Verteron", "status": "draft"}
+{"id": "EnvObjData_E_L1_Verteron_fragment_Ground_desc", "source": "Empyrean Trace: Verteron", "translation": "Szlak Empyreum: Verteron", "status": "draft"}
+{"id": "EnvObjData_E_L1_Verteron_fragment_Water_desc", "source": "Empyrean Trace: Verteron", "translation": "Szlak Empyreum: Verteron", "status": "draft"}
 {"id": "EnvObjData_E_L1_Wagonwheel_01_desc", "source": "Broken Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
 {"id": "EnvObjData_E_L1_WaterCrack_01_desc", "source": "Etheria Rift Fissure", "translation": "Szczelina rozłamu Etherii", "status": "draft"}
 {"id": "EnvObjData_E_L1_Weisel_Fragment_Air_desc", "source": "Fragment of Vaizel", "translation": "Fragment Vaizela", "status": "draft"}
@@ -222,7 +225,7 @@
 {"id": "EnvObjData_E_L1_WoodenBarrel_03_desc", "source": "Wine Barrel", "translation": "Beczka wina", "status": "draft"}
 {"id": "EnvObjData_E_L1_ZuminVillage_LayerEnterDoor_001_desc", "source": "Blessing Room Door", "translation": "Drzwi sali błogosławieństwa", "status": "draft"}
 {"id": "EnvObjData_E_L1_ZuminVillage_LayerExitDoor_001_desc", "source": "Blessing Room Door", "translation": "Drzwi sali błogosławieństwa", "status": "draft"}
-{"id":"EnvObjData_E_L1_ZuminVillage_TeleportArtifact_001_desc","source":"Zumion Village","translation":"Wioska Zumionów","status":"draft"}
+{"id": "EnvObjData_E_L1_ZuminVillage_TeleportArtifact_001_desc", "source": "Zumion Village", "translation": "Wioska Zumionów", "status": "draft"}
 {"id": "EnvObjData_E_L1_ZumionMono_001_desc", "source": "Healing Monolith: Declaration of Resistance", "translation": "Monolit Leczenia: Deklaracja Oporu", "status": "draft"}
 {"id": "EnvObjData_E_L1_ZumionMono_002_desc", "source": "Healing Monolith: Oath of the Seal", "translation": "Monolit Leczenia: Przysięga Pieczęci", "status": "draft"}
 {"id": "EnvObjData_E_L1_ZumionMono_003_desc", "source": "Healing Monolith: Sacrifice", "translation": "Monolit Leczenia: Ofiara", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_L2_DQ7_2_BoxPile_02_desc", "source": "Chest", "translation": "Skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ7_2_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ7_2_Chair_01_desc", "source": "Wooden Chair", "translation": "Drewniane krzesło", "status": "draft"}
-{"id": "EnvObjData_E_L2_DQ7_2_Document_01_desc", "source": "Cooperation Agreement", "translation": "Umowa o współpracy", "status": "draft"}
-{"id": "EnvObjData_E_L2_DQ7_2_Document_02_desc", "source": "Guidelines for Regulating Water Supply", "translation": "Wytyczne regulacji dostaw wody", "status": "draft"}
-{"id": "EnvObjData_E_L2_DQ7_2_GrainSack_01_desc", "source": "Sack", "translation": "Worek", "status": "draft"}

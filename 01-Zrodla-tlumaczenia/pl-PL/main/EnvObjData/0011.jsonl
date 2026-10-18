@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_Dungeon_D_0010_Message_001_desc", "source": "Suspicious Letter", "translation": "Podejrzany list", "status": "draft"}
+{"id": "EnvObjData_E_Dungeon_D_0010_Message_001_interact_desc", "source": "Reading the Letter...", "translation": "Czytanie listu...", "status": "draft"}
+{"id": "EnvObjData_E_Dungeon_D_0010_PaperPile_001_desc", "source": "Suspicious Letter", "translation": "Podejrzany list", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0010_PaperPile_001_interact_desc", "source": "Reading the Note...", "translation": "Czytanie notatki...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0011_EnterPortal_001_desc", "source": "Veil of Blood", "translation": "Zasłona Krwi", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0011_EnterPortal_001_interact_desc", "source": "Inspecting the Veil...", "translation": "Badanie Zasłony...", "status": "draft"}
@@ -51,7 +54,7 @@
 {"id": "EnvObjData_E_Dungeon_D_0020_Statue_03_desc", "source": "Frozen Fate Archon", "translation": "Zamarznięty Archont Losu", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0020_Statue_03_interact_desc", "source": "Inspecting...", "translation": "Badanie...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0020_Wall_01_desc", "source": "Frozen Door", "translation": "Zamarznięte drzwi", "status": "draft"}
-{"id":"EnvObjData_E_Dungeon_D_0021_EnterPortal_001_desc","source":"Floating Temple of Arkanis","translation":"Pływająca Świątynia Arkanis","status":"draft"}
+{"id": "EnvObjData_E_Dungeon_D_0021_EnterPortal_001_desc", "source": "Floating Temple of Arkanis", "translation": "Pływająca Świątynia Arkanis", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0021_EnterPortal_001_interact_desc", "source": "Entering Floating Temple of Arkanis...", "translation": "Wchodzenie do Pływającej Świątyni Arkanis...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0021_Tombstone_001_desc", "source": "Artificial Tombstone", "translation": "Sztuczny nagrobek", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0021_Tombstone_001_interact_desc", "source": "Reading monument inscription...", "translation": "Odczytywanie inskrypcji na pomniku...", "status": "draft"}
@@ -60,7 +63,7 @@
 {"id": "EnvObjData_E_Dungeon_D_0022_FireDoor_01_001_desc", "source": "Judgment Corridor Door", "translation": "Drzwi Korytarza Sądu", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0022_FireDoor_01_001_interact_desc", "source": "Unlocking the Door...", "translation": "Otwieranie zamka drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0022_Mirror_01_001_desc", "source": "Mirror of Desire", "translation": "Lustro Pragnień", "status": "draft"}
-{"id": "EnvObjData_E_Dungeon_D_0026_DeadDestDaeva_02_01_desc", "source": "Fate Archon Corpse", "translation": "Zwłoki Archonta Przeznaczenia", "status": "draft"}
+{"id": "EnvObjData_E_Dungeon_D_0026_DeadDestDaeva_02_01_desc", "source": "Fate Archon Corpse", "translation": "Zwłoki Archonta Losu", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0026_DeadDestDaeva_02_01_interact_desc", "source": "Examining the Fate Archon Corpse...", "translation": "Badanie zwłok Archonta Losu...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0026_Device_01_V01_01_desc", "source": "Broken Device", "translation": "Uszkodzone urządzenie", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0026_Device_01_V01_01_interact_desc", "source": "Examining the Broken Device...", "translation": "Badanie uszkodzonego urządzenia...", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_FE_Jump_OdBubble_04_desc", "source": "Shugo Festival Balloon 4", "translation": "Balon festiwalowy Shugów 4", "status": "draft"}
 {"id": "EnvObjData_E_FE_Jump_OdBubble_05_desc", "source": "Shugo Festival Balloon 5", "translation": "Balon festiwalowy Shugów 5", "status": "draft"}
 {"id": "EnvObjData_E_FE_Jump_OdBubble_06_desc", "source": "Shugo Festival Balloon 6", "translation": "Balon festiwalowy Shugów 6", "status": "draft"}
-{"id": "EnvObjData_E_FE_Masq_AllBubble_01_desc", "source": "Drop for Everyone", "translation": "Łup dla wszystkich", "status": "draft"}
-{"id": "EnvObjData_E_FE_Masq_OdBubble_01_desc", "source": "Green Odyle Drop", "translation": "Zielona kropla Odylu", "status": "draft"}
-{"id": "EnvObjData_E_FE_Masq_OdBubble_02_desc", "source": "Golden Odyle Drop", "translation": "Złota kropla Odylu", "status": "draft"}

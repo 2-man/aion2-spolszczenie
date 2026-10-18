@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_L1_FQ_SearchEffect_05_desc", "source": "Release", "translation": "Uwolnij", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_SearchEffect_06_desc", "source": "Release", "translation": "Uwolnij", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_SearchEffect_07_desc", "source": "Plant the Flowers", "translation": "Posadź kwiaty", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_SearchEffect_08_desc", "source": "Make Teina disappear", "translation": "Spraw, by Teina zniknęła", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_SpellTrace_01_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_SpiritBrazier_01_desc", "source": "Brazier of Hope", "translation": "Koksownik Nadziei", "status": "draft"}
@@ -60,7 +63,7 @@
 {"id": "EnvObjData_E_L1_GT_R3_Ins_PrisonDoor_02_001_desc", "source": "Supply Storage Door", "translation": "Drzwi magazynu zaopatrzenia", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R3_Ins_WoodenBarrel01_attack_desc", "source": "Water Jug", "translation": "Dzban na wodę", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_BossSpawn_BookStand_01_desc", "source": "Tyrkes's Sorcery Portal", "translation": "Portal magii Tyrkesa", "status": "draft"}
-{"id":"EnvObjData_E_L1_GT_R5_Ins_Cart_02_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_L1_GT_R5_Ins_Cart_02_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_InA_to_InC_BibleBlood_01_desc", "source": "Dark Sorcery Grimoire", "translation": "Grimuar czarnej magii", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_InA_to_OutA_DiaryOld_01_desc", "source": "Daeva Historical Text", "translation": "Tekst historyczny Daevów", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_InB_to_M_BrokenWoodenBarrel_01_desc", "source": "Alcohol in Oak Barrel", "translation": "Alkohol w dębowej beczce", "status": "draft"}
@@ -73,7 +76,7 @@
 {"id": "EnvObjData_E_L1_GT_R5_Ins_Start_SpellTrace_01_B2_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_Start_SpellTrace_01_C1_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
 {"id": "EnvObjData_E_L1_GT_R5_Ins_Start_SpellTrace_01_C2_desc", "source": "Trace of Sorcery", "translation": "Ślad magii", "status": "draft"}
-{"id":"EnvObjData_E_L1_GardenOfMiraju_TeleportArtifact_001_desc","source":"Pilgrim's Rest","translation":"Odpoczynek pielgrzyma","status":"draft"}
+{"id": "EnvObjData_E_L1_GardenOfMiraju_TeleportArtifact_001_desc", "source": "Pilgrim's Rest", "translation": "Odpoczynek pielgrzyma", "status": "draft"}
 {"id": "EnvObjData_E_L1_GardenOfMiraju_TeleportArtifact_002_desc", "source": "Garden of the Illusion God West Observatory", "translation": "Zachodnie Obserwatorium w Ogrodzie Boga Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_GardenOfMiraju_TeleportArtifact_003_desc", "source": "Garden of the Illusion God East Observatory", "translation": "Wschodnie Obserwatorium w Ogrodzie Boga Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_Garrison_BalaurBox_01_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_L1_HQ010_DeadShugo_01_desc", "source": "Shugo Corpse", "translation": "Zwłoki Shugo", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_006_Feathers_01_desc", "source": "Scattered Feathers", "translation": "Rozrzucone pióra", "status": "draft"}
 {"id": "EnvObjData_E_L1_HQ_006_Feathers_02_desc", "source": "Remaining Feathers", "translation": "Pozostałe pióra", "status": "draft"}
-{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_01_desc", "source": "Left Altar Purification Device", "translation": "Urządzenie oczyszczające lewego ołtarza", "status": "draft"}
-{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_02_desc", "source": "Central Altar Purification Device", "translation": "Urządzenie oczyszczające centralnego ołtarza", "status": "draft"}
-{"id": "EnvObjData_E_L1_HQ_AlterPurifingDevice_03_desc", "source": "Right Altar Purification Device", "translation": "Urządzenie oczyszczające prawego ołtarza", "status": "draft"}

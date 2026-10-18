@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_003_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_003_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_004_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_004_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_005_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Dark_061_Memorial_005_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_Memorial_006_desc", "source": "Barrierstone", "translation": "Kamień bariery", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_Memorial_006_interact_desc", "source": "Removing the door's barrier...", "translation": "Usuwanie bariery drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_StoneDoor_07_01_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
@@ -12,7 +18,7 @@
 {"id": "EnvObjData_E_Seal_Dark_061_StoneDoor_07_05_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_StoneDoor_07_06_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_061_StoneDoor_07_06_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
-{"id":"EnvObjData_E_Seal_Dark_062_Cart_02_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_Seal_Dark_062_Cart_02_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_062_Cart_02_interact_desc", "source": "Inspecting broken cart...", "translation": "Badanie rozbitego wozu...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_062_EnterPortal_001_desc", "source": "Abandoned Kromede Base Entrance", "translation": "Wejście do opuszczonej bazy Kromede", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Dark_062_EnterPortal_001_interact_desc", "source": "Entering Abandoned Kromede Base...", "translation": "Wchodzenie do opuszczonej bazy Kromede...", "status": "draft"}
@@ -242,9 +248,3 @@
 {"id": "EnvObjData_E_Seal_Light_062_IllusionOrbOld_L_001_desc", "source": "Orb", "translation": "Kula", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_062_IllusionOrb_L_001_desc", "source": "Orb", "translation": "Kula", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_062_Message_001_desc", "source": "Life Daeva's Message", "translation": "Wiadomość Daevy Życia", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Message_001_interact_desc", "source": "Checking the Life Daeva's Message...", "translation": "Sprawdzanie wiadomości Daevy Życia...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Message_002_desc", "source": "Life Daeva's Message", "translation": "Wiadomość Daevy Życia", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Message_002_interact_desc", "source": "Checking the Campsite Secret...", "translation": "Sprawdzanie sekretu obozowiska...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_002_desc", "source": "Light of the Rift", "translation": "Światło Szczeliny", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_002_interact_desc", "source": "Traveling to the Next Area...", "translation": "Podróż do następnego obszaru...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_003_desc", "source": "Light of the Rift", "translation": "Światło Szczeliny", "status": "draft"}

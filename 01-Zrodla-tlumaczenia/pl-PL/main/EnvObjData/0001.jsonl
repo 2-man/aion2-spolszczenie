@@ -68,7 +68,7 @@
 {"id": "EnvObjData_Basic_CarasCorpse_01_desc", "source": "Karas Corpse", "translation": "Zwłoki Karas", "status": "draft"}
 {"id": "EnvObjData_Basic_CarasCorpse_02_desc", "source": "Karas Corpse 2", "translation": "Zwłoki Karas 2", "status": "draft"}
 {"id": "EnvObjData_Basic_Cart_01_desc", "source": "Mumu Worker Cart", "translation": "Wózek robotnika Mumu", "status": "draft"}
-{"id":"EnvObjData_Basic_Cart_02_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_Basic_Cart_02_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_Basic_Cart_03_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
 {"id": "EnvObjData_Basic_ChristmasBox_01_desc", "source": "Holiday Gift Box (Small)", "translation": "Małe świąteczne pudełko z prezentem", "status": "draft"}
 {"id": "EnvObjData_Basic_ChristmasBox_02_desc", "source": "Holiday Gift Box (Medium)", "translation": "Średnie świąteczne pudełko z prezentem", "status": "draft"}
@@ -156,7 +156,7 @@
 {"id": "EnvObjData_Basic_DredgionTrash_01_desc", "source": "Dredgion Remnants", "translation": "Szczątki Dredgionu", "status": "draft"}
 {"id": "EnvObjData_Basic_DredgionTrash_02_desc", "source": "Dredgion Remnants 02", "translation": "Szczątki Dredgionu 02", "status": "draft"}
 {"id": "EnvObjData_Basic_DredgionTrash_03_desc", "source": "Dredgion Remnants 03", "translation": "Szczątki Dredgionu 03", "status": "draft"}
-{"id": "EnvObjData_Basic_DungeonKibel_01_desc", "source": "Dungeon Kibelisk", "translation": "Kibelisk lochowy", "status": "draft"}
+{"id": "EnvObjData_Basic_DungeonKibel_01_desc", "source": "Dungeon Kibelisk", "translation": "Kibelisk lochu", "status": "draft"}
 {"id": "EnvObjData_Basic_DungeonTreasureBox_01_desc", "source": "Party Dungeon Rewards Chest Common", "translation": "Zwykła skrzynia z nagrodami za loch drużynowy", "status": "draft"}
 {"id": "EnvObjData_Basic_DungeonTreasureBox_02_desc", "source": "Party Dungeon Reward Chest Advanced", "translation": "Ulepszona skrzynia z nagrodami za loch drużynowy", "status": "draft"}
 {"id": "EnvObjData_Basic_DynamicGround_Cylinder_01_desc", "source": "Collapsing Floor Mechanism_Cylinder", "translation": "Mechanizm zapadającej się podłogi (cylinder)", "status": "draft"}

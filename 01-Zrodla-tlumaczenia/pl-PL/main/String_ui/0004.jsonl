@@ -1,3 +1,4 @@
+{"id": "String_UI_BUFFGROUP_DAEVANION4_TITLE_body", "source": "Daevanion Triniel Effects", "translation": "Efekty Daevanionu Triniela", "status": "draft"}
 {"id": "String_UI_BUFFGROUP_DAEVANION5_DESC_body", "source": "Daevanion Ariel Activation Effects", "translation": "Efekty aktywacji Daevanionu Ariel", "status": "draft"}
 {"id": "String_UI_BUFFGROUP_DAEVANION5_TITLE_body", "source": "Daevanion Ariel Effects", "translation": "Efekty Daevanionu Ariel", "status": "draft"}
 {"id": "String_UI_BUFFGROUP_DAEVANION6_DESC_body", "source": "Daevanion Azphel Activation Effects", "translation": "Efekty aktywacji Daevanionu Azphela", "status": "draft"}
@@ -247,4 +248,3 @@
 {"id": "String_UI_COIN_SHOP_CATEGORY_RUNE_body", "source": "Rune", "translation": "Runy", "status": "draft"}
 {"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_ACCESSORY_body", "source": "Skin: Accessory", "translation": "Skórka: akcesorium", "status": "draft"}
 {"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_ARMOR_body", "source": "Skin: Armor", "translation": "Skórka: zbroja", "status": "draft"}
-{"id": "String_UI_COIN_SHOP_CATEGORY_SKIN_WEAPON_body", "source": "Skin: Weapon", "translation": "Skórka: broń", "status": "draft"}

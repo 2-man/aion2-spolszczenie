@@ -18,8 +18,8 @@
 {"id": "EnvObjData_E_D1_Dragon02_PowerUnit_02_interact_desc", "source": "Cutting off power...", "translation": "Odłączanie zasilania...", "status": "draft"}
 {"id": "EnvObjData_E_D1_Dragon02_PowerUnit_03_desc", "source": "Power Tower Control Device", "translation": "Urządzenie sterujące Wieżą Mocy", "status": "draft"}
 {"id": "EnvObjData_E_D1_Dragon02_PowerUnit_03_interact_desc", "source": "Cutting off power...", "translation": "Odłączanie zasilania...", "status": "draft"}
-{"id":"EnvObjData_E_D1_Dragon03_Entrance_01_desc","source":"Barahta Extermination Unit Outpost","translation":"Posterunek Oddziału Eksterminacji Barahty","status":"draft"}
-{"id":"EnvObjData_E_D1_Dragon03_Exit_01_desc","source":"Barahta Extermination Unit Outpost","translation":"Posterunek Oddziału Eksterminacji Barahty","status":"draft"}
+{"id": "EnvObjData_E_D1_Dragon03_Entrance_01_desc", "source": "Barahta Extermination Unit Outpost", "translation": "Posterunek Oddziału Eksterminacji Barahty", "status": "draft"}
+{"id": "EnvObjData_E_D1_Dragon03_Exit_01_desc", "source": "Barahta Extermination Unit Outpost", "translation": "Posterunek Oddziału Eksterminacji Barahty", "status": "draft"}
 {"id": "EnvObjData_E_D1_Dragon04_DaevaTank_01_01_desc", "source": "Illuminated Test Tube", "translation": "Podświetlona probówka", "status": "draft"}
 {"id": "EnvObjData_E_D1_Dragon04_DracoPrisonDoor_01_01_desc", "source": "Drana Storage Door", "translation": "Drzwi magazynu Drany", "status": "draft"}
 {"id": "EnvObjData_E_D1_Dragon04_DranaStorage_01_01_desc", "source": "Small Drana Repository", "translation": "Mały zbiornik Drany", "status": "draft"}
@@ -53,8 +53,8 @@
 {"id": "EnvObjData_E_D1_EGC_MediumFafnium_D_03_1_desc", "source": "Destroyed Fafnium", "translation": "Zniszczone Fafnium", "status": "draft"}
 {"id": "EnvObjData_E_D1_EGC_PowerUnit_01_desc", "source": "Balaur Control Device", "translation": "Urządzenie sterujące Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_D1_EarthEnergy_001_desc", "source": "Vines Corroded by Poison Blood", "translation": "Pnącza przeżarte zatrutą krwią", "status": "draft"}
-{"id":"EnvObjData_E_D1_ElimsShelter_TeleportArtifact_001_desc","source":"Elim's Rest","translation":"Odpoczynek Elimów","status":"draft"}
-{"id":"EnvObjData_E_D1_EndStall_TeleportArtifact_001_desc","source":"Outskirts Stall","translation":"Stoisko na obrzeżach","status":"draft"}
+{"id": "EnvObjData_E_D1_ElimsShelter_TeleportArtifact_001_desc", "source": "Elim's Rest", "translation": "Odpoczynek Elimów", "status": "draft"}
+{"id": "EnvObjData_E_D1_EndStall_TeleportArtifact_001_desc", "source": "Outskirts Stall", "translation": "Stoisko na obrzeżach", "status": "draft"}
 {"id": "EnvObjData_E_D1_EtheriaMeteorite_001_desc", "source": "Etheria Meteor", "translation": "Meteoryt Etherii", "status": "draft"}
 {"id": "EnvObjData_E_D1_EtheriaRiftRemain_01_desc", "source": "Etheria Rift Fissure", "translation": "Szczelina rozłamu Etherii", "status": "draft"}
 {"id": "EnvObjData_E_D1_Event_FortunePouch_01_CV1_desc", "source": "Red Fortune Pouch", "translation": "Czerwony woreczek szczęścia", "status": "draft"}
@@ -117,7 +117,7 @@
 {"id": "EnvObjData_E_D1_FQ_CLB01Object_02_desc", "source": "fromis_9 Light Stick", "translation": "Lightstick fromis_9", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_CLB01Object_03_desc", "source": "fromis_9 Wings", "translation": "Skrzydła fromis_9", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_CarasCorpse_01_desc", "source": "Karas Corpse", "translation": "Zwłoki Karas", "status": "draft"}
-{"id":"EnvObjData_E_D1_FQ_Cart_02_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_D1_FQ_Cart_02_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_Cart_03_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_Chair_01_desc", "source": "Wooden Chair", "translation": "Drewniane krzesło", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_ClosedStoneCoffin_01_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
@@ -145,7 +145,7 @@
 {"id": "EnvObjData_E_D1_FQ_DrakanCorpse_01_V01_desc", "source": "Drakan Corpse", "translation": "Zwłoki Drakana", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_DrakanCorpse_02_V01_desc", "source": "Drakan Corpse", "translation": "Zwłoki Drakana", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_DranaStorage_01_desc", "source": "Drakana Repository", "translation": "Zbiornik Drakany", "status": "draft"}
-{"id":"EnvObjData_E_D1_FQ_DranaStorage_02_desc","source":"Drana Repository","translation":"Zbiornik Drany","status":"draft"}
+{"id": "EnvObjData_E_D1_FQ_DranaStorage_02_desc", "source": "Drana Repository", "translation": "Zbiornik Drany", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_DredgionTrash_01_desc", "source": "Dredgion Remnants", "translation": "Szczątki Dredgionu", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_DredgionTrash_02_desc", "source": "Dredgion Remnants", "translation": "Szczątki Dredgionu", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_DredgionTrash_03_desc", "source": "Dredgion Remnants", "translation": "Szczątki Dredgionu", "status": "draft"}
@@ -213,9 +213,9 @@
 {"id": "EnvObjData_E_D1_FQ_Projector_02_desc", "source": "Illusion Projector", "translation": "Projektor iluzji", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_PuzzleFloor_01_01_desc", "source": "Magic Platform", "translation": "Platforma magiczna", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_PuzzleFloor_01_02_desc", "source": "Magic Platform", "translation": "Platforma magiczna", "status": "draft"}
-{"id": "EnvObjData_E_D1_FQ_PuzzleFloor_01_03_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_E_D1_FQ_PuzzleFloor_01_03_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_PuzzleFloor_01_04_desc", "source": "Video Projector", "translation": "Projektor wideo", "status": "draft"}
-{"id": "EnvObjData_E_D1_FQ_PuzzleFloor_02_01_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_E_D1_FQ_PuzzleFloor_02_01_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_RelicBox_01_001_desc", "source": "High-Quality Chest", "translation": "Skrzynia wysokiej jakości", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_Root_01_desc", "source": "Contaminated Tree Root", "translation": "Skażony korzeń drzewa", "status": "draft"}
 {"id": "EnvObjData_E_D1_FQ_Root_02_desc", "source": "Contaminated Tree", "translation": "Skażone drzewo", "status": "draft"}

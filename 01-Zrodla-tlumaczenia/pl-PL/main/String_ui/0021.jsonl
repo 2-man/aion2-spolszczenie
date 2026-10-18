@@ -1,250 +1,250 @@
-{"id":"String_UI_PARTYDUNGEON_RAID_DIALOGUE_MAP_TRANSFER_TITLE_body","source":"Would you like to leave the <system_point>Sanctuary</>?\nLeaving the sanctuary will cause you to <system_point>leave</> the lobby, party, and force.","translation":"Czy chcesz opuścić <system_point>Sanktuarium</>?\nOpuszczenie sanktuarium spowoduje <system_point>opuszczenie</> poczekalni, drużyny i sojuszu.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_RAID_DIFFICULTY_ADVANCED_body","source":"Hard","translation":"Trudny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_RAID_DIFFICULTY_NORMAL_body","source":"Normal","translation":"Normalny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_RETRY_ROOM_ACCEPT_POPUP_body","source":"Would you like to challenge {0} {1} again with the current party members?\nUpon confirmation, you will leave the dungeon. You will not be able to receive any unacquired rewards.\nIn the event that all members accept, you will automatically enter the dungeon.","translation":"Czy chcesz ponownie podjąć wyzwanie {0} {1} z obecnymi członkami drużyny?\nPo potwierdzeniu opuścisz loch. Nie będzie można odebrać nieodebranych nagród.\nJeśli wszyscy członkowie zaakceptują, automatycznie wejdziesz do lochu.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_RETRY_ROOM_INVITE_POPUP_body","source":"Would you like to challenge {0} {1} again with the current party members?\nUpon confirmation, party members will be asked if they wish to Challenge Again,\nand those who accept will be moved to a new Waiting Room.\nIn the event that all members accept, you will automatically enter the dungeon.","translation":"Czy chcesz ponownie podjąć wyzwanie {0} {1} z obecnymi członkami drużyny?\nPo potwierdzeniu członkowie drużyny otrzymają pytanie, czy chcą ponownie podjąć wyzwanie,\na osoby, które zaakceptują, zostaną przeniesione do nowej poczekalni.\nJeśli wszyscy członkowie zaakceptują, automatycznie wejdziesz do lochu.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_REWARD_FINAL_BOSS_TITLE_body","source":"Basic Rewards","translation":"Nagrody podstawowe","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_REWARD_MIDDLE_BOSS_TITLE_body","source":"Mini-Boss Rewards","translation":"Nagrody za minibossa","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_REWARD_TITLE_body","source":"Obtainable Rewards","translation":"Dostępne nagrody","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROLE_SELECT_POPUP_BUTTON_JOIN_body","source":"Join","translation":"Dołącz","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROLE_SELECT_POPUP_TITLE_body","source":"Role Select","translation":"Wybór roli","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOMLIST_SERVERNAME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_APPLICATION_INFO_TITLE_body","source":"Info on Room You Requested to Join ({0} / {1})","translation":"Informacje o pokoju, do którego wysłano prośbę o dołączenie ({0} / {1})","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_BRINGUPMYPOST_TOOLTIP_body","source":"Pin Room\nEnsures the room appears at the top of the waiting list.","translation":"Przypnij pokój\nPokój będzie wyświetlany na górze listy poczekalni.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_body","source":"Season has concluded. Leaving the waiting room.","translation":"Sezon dobiegł końca. Opuszczanie poczekalni.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_ENTRUST_body","source":"Reassign","translation":"Przekaż przywództwo","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_INFO_body","source":"View Info","translation":"Wyświetl informacje","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_KICKOUT_body","source":"Kick","translation":"Wyrzuć","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_BTN_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_FORCE_LEADER_ROOM_CREATE_body","source":"Would you like to invite players currently in the Force to the room?\nIf canceled, a room is created without inviting them.","translation":"Czy chcesz zaprosić do pokoju graczy, którzy są obecnie w sojuszu?\nPo anulowaniu pokój zostanie utworzony bez zapraszania tych graczy.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_PARTY_LEADER_ROOM_CREATE_body","source":"Would you like to invite players currently in the Party to the room?\nIf canceled, a room is created without inviting them.","translation":"Czy chcesz zaprosić do pokoju graczy, którzy są obecnie w drużynie?\nPo anulowaniu pokój zostanie utworzony bez zapraszania tych graczy.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_MEMBER_POSITION_EDIT_GUIDE_body","source":"Drag the slot to replace it with another.","translation":"Przeciągnij miejsce, aby zamienić je z innym.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_MEMBER_STATE_NOTREADY_body","source":"Preparing...","translation":"Przygotowanie...","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_ROOM_MEMBER_STATE_READY_body","source":"Good to go.","translation":"Gotowy.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_SCREEN_MSG_TITLE_BOSS_KILL_body","source":"Boss Defeated","translation":"Pokonano bossa","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_SEARCH_BAR_GUIDE_body","source":"Enter the room name.","translation":"Wpisz nazwę pokoju.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_SUBTITLE_CLEAR_CUBE_REWARD_body","source":"Cube Reward","translation":"Nagroda z kostki","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_SUBTITLE_CLEAR_REWARD_body","source":"Obtainable Rewards","translation":"Dostępne nagrody","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TAB_CONQUER_body","source":"Conquest","translation":"Podbój","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TAB_EXPLORER_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TAB_PARTYCHALLENGE_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TAB_PARTYDUNGEON_body","source":"Expedition","translation":"Ekspedycja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_CONSUME_TICKET_body","source":"Energy Consumed","translation":"Zużyta energia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_OWN_TICKET_body","source":"Energy Collected","translation":"Zebrana energia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TITLE_body","source":"Odyle Energy Info","translation":"Informacje o energii Odyle","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_GUIDE_TEXT_body","source":"Basic energy will be consumed first when using Odyle Energy.","translation":"Podczas używania energii Odyle najpierw zużywana jest energia podstawowa.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_ITEM_CHARGE_TICKET_body","source":"Charged Energy","translation":"Naładowana energia","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_DAILY_body","source":"Daily recharge in","translation":"Do codziennego doładowania","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_RECHARGE_TITLE_body","source":"Auto Recharge","translation":"Automatyczne doładowanie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_REMAIN_TIME_body","source":"Default recharge in","translation":"Do domyślnego doładowania","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_TIME_body","source":"Time recharge in","translation":"Do doładowania","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_WEEKLY_body","source":"Weekly recharge in","translation":"Do tygodniowego doładowania","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_body","source":"Basic Energy","translation":"Energia podstawowa","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TICKET_TOOLTIP_TITLE_body","source":"Odyle Energy Info","translation":"Informacje o energii Odyle","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TITLE_body","source":"Expedition","translation":"Ekspedycja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_DUNGEON_INFO_body","source":"Dungeon Info","translation":"Informacje o lochu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_ROOM_INFO_body","source":"Party Room Info","translation":"Informacje o pokoju drużyny","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_ROOM_LEADER_INFO_body","source":"{0} ({1} / {2})","translation":"{0} ({1} / {2})","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_CURRENT_CLEAR_NOT_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_CURRENT_CLEAR_body","source":"Cleared Level: Lv. {0}","translation":"Ukończony poziom: poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_FILTER_TRIALPOINT_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_FILTER_TRIALPOINT_body","source":"Ordeal Difficulty","translation":"Poziom trudności próby","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_OPTION_TITLE_body","source":"Ordeal Features","translation":"Modyfikatory próby","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_DESC_body","source":"Obtain all rewards for lower levels upon clear.\nRewards reset every week.","translation":"Odbierz wszystkie nagrody za niższe poziomy po ukończeniu.\nNagrody resetują się co tydzień.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_POINT_TITLE_body","source":"Difficulty Cleared","translation":"Ukończony poziom trudności","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_POINT_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_REWARD_TITLE_body","source":"Rewards","translation":"Nagrody","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_TITLE_body","source":"Clear Rewards","translation":"Nagrody za ukończenie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_ROOM_POINT_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_TOP_REWARD_body","source":"Best Weekly Rewards","translation":"Najlepsze nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_TRIAL_body","source":"Ordeal","translation":"Próba","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_UNCLAIMED_TICKET_TITLE_body","source":"Remaining Unobtained Cube Count","translation":"Pozostała liczba nieodebranych kostek","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_APPLICATION_body","source":"Requested to Join","translation":"Prośba o dołączenie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_APPLICATION_CANCEL_body","source":"Cancel Request","translation":"Anuluj prośbę","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_APPLICATION_body","source":"Request to Join","translation":"Poproś o dołączenie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_body","source":"Instant Join","translation":"Dołącz natychmiast","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_GETOUT_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_INSTANT_ENTRY_body","source":"Quick Join","translation":"Szybkie dołączenie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_INTRUSION_body","source":"Intrude","translation":"Dołącz do trwającego lochu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_READY_CANCEL_body","source":"Cancel Ready","translation":"Anuluj gotowość","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_REENTRY_body","source":"Re-enter","translation":"Wejdź ponownie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ROOM_CREATE_body","source":"Create Room","translation":"Utwórz pokój","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ROOM_SETTING_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_START_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_CHANGE_ROOM_ENTER_APPLICATION_body","source":"Request","translation":"Prośba","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_CHANGE_ROOM_body","source":"Change","translation":"Zmień","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_INTRUSION_body","source":"Intrude","translation":"Dołącz do trwającego lochu","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_CHANGE_ROOM_ENTER_APPLICATION_body","source":"You are currently participating in <system_point>{0}</>'s dungeon room.\nWould you like to <system_point>request to join</> <system_point>{1}</>'s dungeon room instead?\nThis will <system_point>remove</> you from the current room.","translation":"Obecnie uczestniczysz w pokoju lochu gracza <system_point>{0}</>.\nCzy chcesz zamiast tego <system_point>poprosić o dołączenie</> do pokoju lochu gracza <system_point>{1}</>?\nSpowoduje to <system_point>usunięcie</> Cię z obecnego pokoju.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_CHANGE_ROOM_body","source":"You are currently participating in <system_point>{0}</>'s dungeon room.\nWould you like to <system_point>instantly join</> <system_point>{1}</>'s dungeon room instead?\nThis will <system_point>remove</> you from the current room.","translation":"Obecnie uczestniczysz w pokoju lochu gracza <system_point>{0}</>.\nCzy chcesz zamiast tego <system_point>dołączyć natychmiast</> do pokoju lochu gracza <system_point>{1}</>?\nSpowoduje to <system_point>usunięcie</> Cię z obecnego pokoju.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_INTRUSION_body","source":"Would you like to <system_point>intrude</> into\nthe <system_point>{0}</> dungeon?","translation":"Czy chcesz <system_point>dołączyć do trwającego lochu</>?\n<system_point>{0}</>","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_ALL_body","source":"All","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_MY_ROLE_body","source":"My Role","translation":"Moja rola","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_PROGRESS_body","source":"Active","translation":"Aktywne","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_RACE_body","source":"My Faction","translation":"Moja frakcja","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_WAIT_body","source":"Waiting","translation":"Oczekujące","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_MY_ROOM_body","source":"My Room","translation":"Mój pokój","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_ONBOARDING_FILTER_NONE_body","source":"No active or waiting list available.","translation":"Brak aktywnych pokoi ani list oczekujących.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_ONBOARDING_WAITING_LIST_NONE_body","source":"No waiting list available.","translation":"Brak list oczekujących.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_PROGRESS_body","source":"Active","translation":"Aktywne","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_DEALER_body","source":"DPS","translation":"DPS","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_HEALER_body","source":"Healer","translation":"Uzdrowiciel","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_ROLE_body","source":"[Roles]\nTank: Protect others from enemies.\nClasses: Templar, Gladiator\n\nDPS: Deal massive damage to enemies.\nClasses: Gladiator, Assassin, Ranger, Sorcerer, Spiritmaster, Chanter\n\nHealer: Restore HP of party members.\nClasses: Cleric, Chanter\n\nGladiator and Chanter can choose roles.","translation":"[Role]\nTank: Chroń innych przed wrogami.\nKlasy: Templariusz, Gladiator\n\nDPS: Zadają wrogom duże obrażenia.\nKlasy: Gladiator, Asasyn, Łowca, Czarownik, Zaklinacz duchów, Zaklinacz\n\nUzdrowiciel: Przywracają PŻ członkom drużyny.\nKlasy: Kapłan, Zaklinacz\n\nGladiator i Zaklinacz mogą wybrać rolę.","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_TANKER_body","source":"Tank","translation":"Tank","status":"draft"}
-{"id":"String_UI_PARTYDUNGEON_WAITING_LIST_WAIT_body","source":"Waiting","translation":"Oczekujące","status":"draft"}
-{"id":"String_UI_PARTY_BUTTON_FORCE_TRANSITION_body","source":"Change to Force","translation":"Zmień w sojusz","status":"draft"}
-{"id":"String_UI_PARTY_BUTTON_PARTY_RECRUITMENT_CANCEL_body","source":"End Recruitment","translation":"Zakończ rekrutację","status":"draft"}
-{"id":"String_UI_PARTY_BUTTON_PARTY_RECRUITMENT_body","source":"Party Recruitment","translation":"Rekrutacja do drużyny","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_FORCE_SWITCH_BUTTON_SWITCH_body","source":"Change","translation":"Zmień","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_ENTRUST_BUTTON_ENTRUST_body","source":"Reassign","translation":"Przekaż przywództwo","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_ENTRUST_MESSAGE_ENTRUST_body","source":"Are you sure you wish to <system_point>reassign</> Party leadership to {0}?","translation":"Na pewno <system_point>przekazać</> przywództwo drużyny graczowi {0}?","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_INVITE_BUTTON_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_INVITE_HINTTEXT_INPUT_NAME_body","source":"Enter the character name.","translation":"Wpisz nazwę postaci.","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_INVITE_MESSAGE_INPUT_NAME_body","source":"Enter name of character to invite to the party.","translation":"Wpisz nazwę postaci, którą chcesz zaprosić do drużyny.","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_BUTTON_KICKOUT_body","source":"Kick","translation":"Wyrzuć","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_MESSAGE_KICKOUT_VOTE_APPLY_body","source":"<system_point>Kick</> {0} from the party?\nIf activated, a kick vote will start and determine whether the player is removed.","translation":"<system_point>Wyrzucić</> {0} z drużyny?\nPo aktywowaniu rozpocznie się głosowanie, które zdecyduje o usunięciu gracza.","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_MESSAGE_KICKOUT_body","source":"Are you sure you wish to <system_point>kick</> {0} from the Party?","translation":"Na pewno <system_point>wyrzucić</> {0} z drużyny?","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_LEAVE_BUTTON_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_PARTY_LEAVE_MESSAGE_LEAVE_body","source":"Are you sure you wish to <system_point>leave</> the Party?","translation":"Na pewno <system_point>opuścić</> drużynę?","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_RECRUITMENT_CHAT_body","source":"Would you like to join this Party?","translation":"Czy chcesz dołączyć do tej drużyny?","status":"draft"}
-{"id":"String_UI_PARTY_DIALOGUE_RECRUITMENT_OFF_body","source":"Would you like to end Party Recruitment?","translation":"Czy chcesz zakończyć rekrutację do drużyny?","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_HUD_HIGH_END_ITEM_RULE_CALCULATE_body","source":"Bid","translation":"Licytuj","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_HUD_HIGH_END_ITEM_RULE_DICE_body","source":"Dice","translation":"Rzut kością","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_DROP_BOX_EPIC_body","source":"Heroic Item or Higher","translation":"Przedmiot bohaterski lub wyższy","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_DROP_BOX_MYTHIC_body","source":"Mythic Item or Higher","translation":"Przedmiot mityczny lub wyższy","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_DROP_BOX_UNIQUE_body","source":"Unique Item or Higher","translation":"Przedmiot unikatowy lub wyższy","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_CALCULATE_body","source":"Bid","translation":"Licytuj","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_DICE_body","source":"Roll Dice","translation":"Rzuć kością","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_GRADE_body","source":"Item Grade","translation":"Ranga przedmiotu","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_NORMAL_body","source":"Default","translation":"Domyślne","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_body","source":"Advanced Distribution - Dice Roll","translation":"Zaawansowany podział – rzut kością","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_FORCE_LEADER_body","source":"Force Leader","translation":"Lider sojuszu","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_FREE_body","source":"Any","translation":"Dowolny","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_LEADER_body","source":"Party Leader","translation":"Lider drużyny","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_RANDOM_body","source":"Random","translation":"Losowo","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_SEQUENTIAL_body","source":"Sequential","translation":"Kolejno","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_body","source":"Acquisition Method","translation":"Metoda podziału łupów","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_SETTING_BUTTON_PARTY_body","source":"Party","translation":"Drużyna","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP_MENU_SETTING_SELECT_body","source":"Select Category","translation":"Wybierz kategorię","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_POPUP__MENU_SETTING_BUTTON_FORCE_body","source":"Force","translation":"Sojusz","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_TRANSITION_DIALOGUE_BUTTON_TRANSITION_body","source":"Change","translation":"Zmień","status":"draft"}
-{"id":"String_UI_PARTY_FORCE_TRANSITION_DIALOGUE_TITLE_body","source":"Once changed to a Force, you cannot change back to a Party.\nAre you sure you wish to <system_point>change</> to a Force?","translation":"Po zmianie na sojusz nie będzie można wrócić do drużyny.\nNa pewno <system_point>zmienić</> w sojusz?","status":"draft"}
-{"id":"String_UI_PARTY_HUD_SLOT_EMPTY_body","source":"EMPTY","translation":"PUSTE","status":"draft"}
-{"id":"String_UI_PARTY_HUD_SLOT_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
-{"id":"String_UI_PARTY_HUD_SLOT_INVITING_REMAIN_TIME_body","source":"{0}s","translation":"{0}s","status":"draft"}
-{"id":"String_UI_PARTY_HUD_SLOT_INVITING_TEXT_body","source":"Inviting...","translation":"Wysyłanie zaproszenia...","status":"draft"}
-{"id":"String_UI_PARTY_HUD_SLOT_INVITING_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_PARTY_HUD_TOOLTIP_INFO_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_PARTY_LIST_BUTTON_INFO_body","source":"Info","translation":"Informacje","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_NUMBER_body","source":"Play Count x{0}, Odyle Energy Cube Kina Gain {1}%","translation":"Liczba rozgrywek x{0}, przychód Kina z kostki energii Odyle: {1}%","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_REWARD_body","source":"Kina Reward from defeating all bosses","translation":"Kina za pokonanie wszystkich bossów","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TITLE_body","source":"Weekly Cumulative Play Reward Adjustment","translation":"Tygodniowa korekta łącznych nagród za rozgrywkę","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_01_VALUE_01_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_01_body","source":"Total Play Count","translation":"Łączna liczba rozgrywek","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_02_VALUE_01_body","source":"{0}%","translation":"{0}%","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_02_body","source":"Kina Recieved","translation":"Otrzymane Kina","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_TITLE_body","source":"Cumulative Play Reward Adjustment","translation":"Korekta łącznych nagród za rozgrywkę","status":"draft"}
-{"id":"String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_body","source":"Play counts for each game mode are accumulated weekly on a per-server basis.\nOnce a server's cumulative play count exceeds certain thresholds, the amount of Kina obtainable from Odyle Energy Cubes is reduced.\nThe further the cumulative play count exceeds these thresholds, the greater the reduction in Kina rewards.","translation":"Liczba rozgrywek w każdym trybie jest sumowana co tydzień osobno na każdym serwerze.\nPo przekroczeniu określonych progów łącznej liczby rozgrywek na serwerze zmniejsza się liczba Kina otrzymywanych z kostek energii Odyle.\nIm bardziej łączna liczba rozgrywek przekracza te progi, tym większe jest zmniejszenie nagród w Kina.","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_INVITE_MESSAGE_body","source":"{0} sent you a Party invite.","translation":"{0} wysyła zaproszenie do drużyny.","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_BUTTON_CREATE_body","source":"Create","translation":"Utwórz","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_MANUAL_body","source":"Any","translation":"Dowolny","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_RANDOM_body","source":"Random","translation":"Losowo","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_SEQUENTIAL_body","source":"Sequential","translation":"Kolejno","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_TITLE_body","source":"Acquisition Method","translation":"Metoda podziału łupów","status":"draft"}
-{"id":"String_UI_PARTY_POPUP_PARTY_SETTING_body","source":"Create Party / Force","translation":"Utwórz drużynę / sojusz","status":"draft"}
-{"id":"String_UI_PARTY_REQUEST_RECEIVE_AUTOREJECT_MSG_body","source":"Automatically declining in {0}s","translation":"Automatyczne odrzucenie za {0}s","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_ENTRUST_body","source":"Reassign","translation":"Przekaż przywództwo","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_INVITE_CANCEL_body","source":"Cancel Invitation","translation":"Anuluj zaproszenie","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_KICKOUT_VOTE_body","source":"Kick Vote","translation":"Głosowanie nad wyrzuceniem","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_KICKOUT_body","source":"Kick","translation":"Wyrzuć","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
-{"id":"String_UI_PARTY_TAB_MY_PARTY_body","source":"My Party","translation":"Moja drużyna","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_CREATE_ONBOARDING_PARTY_NONE_body","source":"No Parties Created","translation":"Nie utworzono drużyny","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_CREATE_body","source":"Create Party","translation":"Utwórz drużynę","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_LIST_BUTTON_INVITE_body","source":"Invite","translation":"Zaproś","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_LIST_BUTTON_WHISPER_body","source":"Whisper","translation":"Szept","status":"draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TAB_ROOM_body", "source": "Room Settings", "translation": "Ustawienia pokoju", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TAB_TRIAL_body", "source": "Ordeal Settings", "translation": "Ustawienia próby", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TITLE_body", "source": "Ordeal Room Settings", "translation": "Ustawienia pokoju próby", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TRIALSETTING_TRIALTOTAL_POINT_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_POPUP_ROOM_TRIAL_SETTING_TRIALSETTING_TRIALTOTAL_body", "source": "Final Difficulty", "translation": "Końcowy poziom trudności", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_RAID_DIALOGUE_MAP_TRANSFER_TITLE_body", "source": "Would you like to leave the <system_point>Sanctuary</>?\nLeaving the sanctuary will cause you to <system_point>leave</> the lobby, party, and force.", "translation": "Czy chcesz opuścić <system_point>Sanktuarium</>?\nOpuszczenie sanktuarium spowoduje <system_point>opuszczenie</> poczekalni, drużyny i sojuszu.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_RAID_DIFFICULTY_ADVANCED_body", "source": "Hard", "translation": "Trudny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_RAID_DIFFICULTY_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_RETRY_ROOM_ACCEPT_POPUP_body", "source": "Would you like to challenge {0} {1} again with the current party members?\nUpon confirmation, you will leave the dungeon. You will not be able to receive any unacquired rewards.\nIn the event that all members accept, you will automatically enter the dungeon.", "translation": "Czy chcesz ponownie podjąć wyzwanie {0} {1} z obecnymi członkami drużyny?\nPo potwierdzeniu opuścisz loch. Nie będzie można odebrać nieodebranych nagród.\nJeśli wszyscy członkowie zaakceptują, automatycznie wejdziesz do lochu.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_RETRY_ROOM_INVITE_POPUP_body", "source": "Would you like to challenge {0} {1} again with the current party members?\nUpon confirmation, party members will be asked if they wish to Challenge Again,\nand those who accept will be moved to a new Waiting Room.\nIn the event that all members accept, you will automatically enter the dungeon.", "translation": "Czy chcesz ponownie podjąć wyzwanie {0} {1} z obecnymi członkami drużyny?\nPo potwierdzeniu członkowie drużyny otrzymają pytanie, czy chcą ponownie podjąć wyzwanie,\na osoby, które zaakceptują, zostaną przeniesione do nowej poczekalni.\nJeśli wszyscy członkowie zaakceptują, automatycznie wejdziesz do lochu.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_REWARD_FINAL_BOSS_TITLE_body", "source": "Basic Rewards", "translation": "Nagrody podstawowe", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_REWARD_MIDDLE_BOSS_TITLE_body", "source": "Mini-Boss Rewards", "translation": "Nagrody za minibossa", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_REWARD_TITLE_body", "source": "Obtainable Rewards", "translation": "Dostępne nagrody", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROLE_SELECT_POPUP_BUTTON_JOIN_body", "source": "Join", "translation": "Dołącz", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROLE_SELECT_POPUP_TITLE_body", "source": "Role Select", "translation": "Wybór roli", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOMLIST_SERVERNAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_APPLICATION_INFO_TITLE_body", "source": "Info on Room You Requested to Join ({0} / {1})", "translation": "Informacje o pokoju, do którego wysłano prośbę o dołączenie ({0} / {1})", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_BRINGUPMYPOST_TOOLTIP_body", "source": "Pin Room\nEnsures the room appears at the top of the waiting list.", "translation": "Przypnij pokój\nPokój będzie wyświetlany na górze listy poczekalni.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_DIALOGUE_PARTYCHALLENGE_SEASON_OFF_body", "source": "Season has concluded. Leaving the waiting room.", "translation": "Sezon dobiegł końca. Opuszczanie poczekalni.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_ENTRUST_body", "source": "Reassign", "translation": "Przekaż przywództwo", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_INFO_body", "source": "View Info", "translation": "Wyświetl informacje", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INFORMATION_BUTTON_KICKOUT_body", "source": "Kick", "translation": "Wyrzuć", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_BTN_INVITE_body", "source": "Invite", "translation": "Zaproś", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_FORCE_LEADER_ROOM_CREATE_body", "source": "Would you like to invite players currently in the Force to the room?\nIf canceled, a room is created without inviting them.", "translation": "Czy chcesz zaprosić do pokoju graczy, którzy są obecnie w sojuszu?\nPo anulowaniu pokój zostanie utworzony bez zapraszania tych graczy.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_INVITE_POPUP_PARTY_LEADER_ROOM_CREATE_body", "source": "Would you like to invite players currently in the Party to the room?\nIf canceled, a room is created without inviting them.", "translation": "Czy chcesz zaprosić do pokoju graczy, którzy są obecnie w drużynie?\nPo anulowaniu pokój zostanie utworzony bez zapraszania tych graczy.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_MEMBER_POSITION_EDIT_GUIDE_body", "source": "Drag the slot to replace it with another.", "translation": "Przeciągnij miejsce, aby zamienić je z innym.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_MEMBER_STATE_NOTREADY_body", "source": "Preparing...", "translation": "Przygotowanie...", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_ROOM_MEMBER_STATE_READY_body", "source": "Good to go.", "translation": "Gotowy.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_SCREEN_MSG_TITLE_BOSS_KILL_body", "source": "Boss Defeated", "translation": "Pokonano bossa", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_SEARCH_BAR_GUIDE_body", "source": "Enter the room name.", "translation": "Wpisz nazwę pokoju.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_SUBTITLE_CLEAR_CUBE_REWARD_body", "source": "Cube Reward", "translation": "Nagroda z kostki", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_SUBTITLE_CLEAR_REWARD_body", "source": "Obtainable Rewards", "translation": "Dostępne nagrody", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TAB_CONQUER_body", "source": "Conquest", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TAB_EXPLORER_body", "source": "Exploration", "translation": "Eksploracja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TAB_PARTYCHALLENGE_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TAB_PARTYDUNGEON_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_CONSUME_TICKET_body", "source": "Energy Consumed", "translation": "Zużyta energia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_OWN_TICKET_body", "source": "Energy Collected", "translation": "Zebrana energia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TITLE_body", "source": "Odyle Energy Info", "translation": "Informacje o energii Odyle", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_GUIDE_TEXT_body", "source": "Basic energy will be consumed first when using Odyle Energy.", "translation": "Podczas używania energii Odyle najpierw zużywana jest energia podstawowa.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_ITEM_CHARGE_TICKET_body", "source": "Charged Energy", "translation": "Naładowana energia", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_DAILY_body", "source": "Daily recharge in", "translation": "Do codziennego doładowania", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_RECHARGE_TITLE_body", "source": "Auto Recharge", "translation": "Automatyczne doładowanie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_REMAIN_TIME_body", "source": "Default recharge in", "translation": "Do domyślnego doładowania", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_TIME_body", "source": "Time recharge in", "translation": "Do doładowania", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_WEEKLY_body", "source": "Weekly recharge in", "translation": "Do tygodniowego doładowania", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_RECHARGE_TICKET_body", "source": "Basic Energy", "translation": "Energia podstawowa", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TICKET_TOOLTIP_TITLE_body", "source": "Odyle Energy Info", "translation": "Informacje o energii Odyle", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TITLE_body", "source": "Expedition", "translation": "Ekspedycja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_DUNGEON_INFO_body", "source": "Dungeon Info", "translation": "Informacje o lochu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_ROOM_INFO_body", "source": "Party Room Info", "translation": "Informacje o pokoju drużyny", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TOOLTIP_RECRUIT_TITLE_ROOM_LEADER_INFO_body", "source": "{0} ({1} / {2})", "translation": "{0} ({1} / {2})", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_CURRENT_CLEAR_NOT_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_CURRENT_CLEAR_body", "source": "Cleared Level: Lv. {0}", "translation": "Ukończony poziom: poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_FILTER_TRIALPOINT_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_FILTER_TRIALPOINT_body", "source": "Ordeal Difficulty", "translation": "Poziom trudności próby", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_OPTION_TITLE_body", "source": "Ordeal Features", "translation": "Modyfikatory próby", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_DESC_body", "source": "Obtain all rewards for lower levels upon clear.\nRewards reset every week.", "translation": "Odbierz wszystkie nagrody za niższe poziomy po ukończeniu.\nNagrody resetują się co tydzień.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_POINT_TITLE_body", "source": "Difficulty Cleared", "translation": "Ukończony poziom trudności", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_POINT_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_REWARD_TITLE_body", "source": "Rewards", "translation": "Nagrody", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_REWARD_LIST_TITLE_body", "source": "Clear Rewards", "translation": "Nagrody za ukończenie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_ROOM_POINT_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_TOP_REWARD_body", "source": "Best Weekly Rewards", "translation": "Najlepsze nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_TRIAL_body", "source": "Ordeal", "translation": "Próba", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_UNCLAIMED_TICKET_TITLE_body", "source": "Remaining Unobtained Cube Count", "translation": "Pozostała liczba nieodebranych kostek", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_APPLICATION_body", "source": "Requested to Join", "translation": "Prośba o dołączenie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_APPLICATION_CANCEL_body", "source": "Cancel Request", "translation": "Anuluj prośbę", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_APPLICATION_body", "source": "Request to Join", "translation": "Poproś o dołączenie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ENTER_body", "source": "Instant Join", "translation": "Dołącz natychmiast", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_GETOUT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_INSTANT_ENTRY_body", "source": "Quick Join", "translation": "Szybkie dołączenie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_INTRUSION_body", "source": "Intrude", "translation": "Dołącz do trwającego lochu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_READY_CANCEL_body", "source": "Cancel Ready", "translation": "Anuluj gotowość", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_REENTRY_body", "source": "Re-enter", "translation": "Wejdź ponownie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ROOM_CREATE_body", "source": "Create Room", "translation": "Utwórz pokój", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_ROOM_SETTING_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_BUTTON_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_CHANGE_ROOM_ENTER_APPLICATION_body", "source": "Request", "translation": "Prośba", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_CHANGE_ROOM_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_BUTTON_INTRUSION_body", "source": "Intrude", "translation": "Dołącz do trwającego lochu", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_CHANGE_ROOM_ENTER_APPLICATION_body", "source": "You are currently participating in <system_point>{0}</>'s dungeon room.\nWould you like to <system_point>request to join</> <system_point>{1}</>'s dungeon room instead?\nThis will <system_point>remove</> you from the current room.", "translation": "Obecnie uczestniczysz w pokoju lochu gracza <system_point>{0}</>.\nCzy chcesz zamiast tego <system_point>poprosić o dołączenie</> do pokoju lochu gracza <system_point>{1}</>?\nSpowoduje to <system_point>usunięcie</> Cię z obecnego pokoju.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_CHANGE_ROOM_body", "source": "You are currently participating in <system_point>{0}</>'s dungeon room.\nWould you like to <system_point>instantly join</> <system_point>{1}</>'s dungeon room instead?\nThis will <system_point>remove</> you from the current room.", "translation": "Obecnie uczestniczysz w pokoju lochu gracza <system_point>{0}</>.\nCzy chcesz zamiast tego <system_point>dołączyć natychmiast</> do pokoju lochu gracza <system_point>{1}</>?\nSpowoduje to <system_point>usunięcie</> Cię z obecnego pokoju.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_DIALOGUE_TITLE_INTRUSION_body", "source": "Would you like to <system_point>intrude</> into\nthe <system_point>{0}</> dungeon?", "translation": "Czy chcesz <system_point>dołączyć do</>\nlochu <system_point>{0}</>?", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_MY_ROLE_body", "source": "My Role", "translation": "Moja rola", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_PROGRESS_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_RACE_body", "source": "My Faction", "translation": "Moja frakcja", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_FILTER_BUTTON_WAIT_body", "source": "Waiting", "translation": "Oczekujące", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_MY_ROOM_body", "source": "My Room", "translation": "Mój pokój", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_ONBOARDING_FILTER_NONE_body", "source": "No active or waiting list available.", "translation": "Brak aktywnych pokoi ani list oczekujących.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_ONBOARDING_WAITING_LIST_NONE_body", "source": "No waiting list available.", "translation": "Brak list oczekujących.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_PROGRESS_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_DEALER_body", "source": "DPS", "translation": "DPS", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_HEALER_body", "source": "Healer", "translation": "Uzdrowiciel", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_ROLE_body", "source": "[Roles]\nTank: Protect others from enemies.\nClasses: Templar, Gladiator\n\nDPS: Deal massive damage to enemies.\nClasses: Gladiator, Assassin, Ranger, Sorcerer, Spiritmaster, Chanter\n\nHealer: Restore HP of party members.\nClasses: Cleric, Chanter\n\nGladiator and Chanter can choose roles.", "translation": "[Role]\nTank: Chroń innych przed wrogami.\nKlasy: Templariusz, Gladiator\n\nDPS: Zadają wrogom duże obrażenia.\nKlasy: Gladiator, Asasyn, Łowca, Czarownik, Zaklinacz duchów, Zaklinacz\n\nUzdrowiciel: Przywracają PŻ członkom drużyny.\nKlasy: Kapłan, Zaklinacz\n\nGladiator i Zaklinacz mogą wybrać rolę.", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_TOOLIP_TANKER_body", "source": "Tank", "translation": "Tank", "status": "draft"}
+{"id": "String_UI_PARTYDUNGEON_WAITING_LIST_WAIT_body", "source": "Waiting", "translation": "Oczekujące", "status": "draft"}
+{"id": "String_UI_PARTY_BUTTON_FORCE_TRANSITION_body", "source": "Change to Force", "translation": "Zmień w sojusz", "status": "draft"}
+{"id": "String_UI_PARTY_BUTTON_PARTY_RECRUITMENT_CANCEL_body", "source": "End Recruitment", "translation": "Zakończ rekrutację", "status": "draft"}
+{"id": "String_UI_PARTY_BUTTON_PARTY_RECRUITMENT_body", "source": "Party Recruitment", "translation": "Rekrutacja do drużyny", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_FORCE_SWITCH_BUTTON_SWITCH_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_ENTRUST_BUTTON_ENTRUST_body", "source": "Reassign", "translation": "Przekaż przywództwo", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_ENTRUST_MESSAGE_ENTRUST_body", "source": "Are you sure you wish to <system_point>reassign</> Party leadership to {0}?", "translation": "Na pewno <system_point>przekazać</> przywództwo drużyny graczowi {0}?", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_INVITE_BUTTON_INVITE_body", "source": "Invite", "translation": "Zaproś", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_INVITE_HINTTEXT_INPUT_NAME_body", "source": "Enter the character name.", "translation": "Wpisz nazwę postaci.", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_INVITE_MESSAGE_INPUT_NAME_body", "source": "Enter name of character to invite to the party.", "translation": "Wpisz nazwę postaci, którą chcesz zaprosić do drużyny.", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_BUTTON_KICKOUT_body", "source": "Kick", "translation": "Wyrzuć", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_MESSAGE_KICKOUT_VOTE_APPLY_body", "source": "<system_point>Kick</> {0} from the party?\nIf activated, a kick vote will start and determine whether the player is removed.", "translation": "<system_point>Wyrzucić</> {0} z drużyny?\nPo aktywowaniu rozpocznie się głosowanie, które zdecyduje o usunięciu gracza.", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_KICKOUT_MESSAGE_KICKOUT_body", "source": "Are you sure you wish to <system_point>kick</> {0} from the Party?", "translation": "Na pewno <system_point>wyrzucić</> {0} z drużyny?", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_LEAVE_BUTTON_LEAVE_body", "source": "Leave", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_PARTY_LEAVE_MESSAGE_LEAVE_body", "source": "Are you sure you wish to <system_point>leave</> the Party?", "translation": "Na pewno <system_point>opuścić</> drużynę?", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_RECRUITMENT_CHAT_body", "source": "Would you like to join this Party?", "translation": "Czy chcesz dołączyć do tej drużyny?", "status": "draft"}
+{"id": "String_UI_PARTY_DIALOGUE_RECRUITMENT_OFF_body", "source": "Would you like to end Party Recruitment?", "translation": "Czy chcesz zakończyć rekrutację do drużyny?", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_HUD_HIGH_END_ITEM_RULE_CALCULATE_body", "source": "Bid", "translation": "Licytuj", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_HUD_HIGH_END_ITEM_RULE_DICE_body", "source": "Dice", "translation": "Rzut kością", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_DROP_BOX_EPIC_body", "source": "Heroic Item or Higher", "translation": "Przedmiot bohaterski lub wyższy", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_DROP_BOX_MYTHIC_body", "source": "Mythic Item or Higher", "translation": "Przedmiot mityczny lub wyższy", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_DROP_BOX_UNIQUE_body", "source": "Unique Item or Higher", "translation": "Przedmiot unikatowy lub wyższy", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_CALCULATE_body", "source": "Bid", "translation": "Licytuj", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_DICE_body", "source": "Roll Dice", "translation": "Rzuć kością", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_GRADE_body", "source": "Item Grade", "translation": "Jakość przedmiotu", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_NORMAL_body", "source": "Default", "translation": "Domyślne", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_HIGH_END_ITEM_RULE_body", "source": "Advanced Distribution - Dice Roll", "translation": "Zaawansowany podział – rzut kością", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_FORCE_LEADER_body", "source": "Force Leader", "translation": "Lider sojuszu", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_FREE_body", "source": "Any", "translation": "Dowolny", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_LEADER_body", "source": "Party Leader", "translation": "Lider drużyny", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_RANDOM_body", "source": "Random", "translation": "Losowo", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_BUTTON_SEQUENTIAL_body", "source": "Sequential", "translation": "Kolejno", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_PRIORITY_RULE_body", "source": "Acquisition Method", "translation": "Metoda podziału łupów", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_SETTING_BUTTON_PARTY_body", "source": "Party", "translation": "Drużyna", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP_MENU_SETTING_SELECT_body", "source": "Select Category", "translation": "Wybierz kategorię", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_POPUP__MENU_SETTING_BUTTON_FORCE_body", "source": "Force", "translation": "Sojusz", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_TRANSITION_DIALOGUE_BUTTON_TRANSITION_body", "source": "Change", "translation": "Zmień", "status": "draft"}
+{"id": "String_UI_PARTY_FORCE_TRANSITION_DIALOGUE_TITLE_body", "source": "Once changed to a Force, you cannot change back to a Party.\nAre you sure you wish to <system_point>change</> to a Force?", "translation": "Po zmianie na sojusz nie będzie można wrócić do drużyny.\nNa pewno <system_point>zmienić</> w sojusz?", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_SLOT_EMPTY_body", "source": "EMPTY", "translation": "PUSTE", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_SLOT_INVITE_body", "source": "Invite", "translation": "Zaproś", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_SLOT_INVITING_REMAIN_TIME_body", "source": "{0}s", "translation": "{0}s", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_SLOT_INVITING_TEXT_body", "source": "Inviting...", "translation": "Wysyłanie zaproszenia...", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_SLOT_INVITING_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_PARTY_HUD_TOOLTIP_INFO_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_PARTY_LIST_BUTTON_INFO_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_NUMBER_body", "source": "Play Count x{0}, Odyle Energy Cube Kina Gain {1}%", "translation": "Liczba rozgrywek x{0}, przychód Kina z kostki energii Odyle: {1}%", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_REWARD_body", "source": "Kina Reward from defeating all bosses", "translation": "Kina za pokonanie wszystkich bossów", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TITLE_body", "source": "Weekly Cumulative Play Reward Adjustment", "translation": "Tygodniowa korekta łącznych nagród za rozgrywkę", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_01_VALUE_01_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_01_body", "source": "Total Play Count", "translation": "Łączna liczba rozgrywek", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_02_VALUE_01_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_CATEGORY_02_body", "source": "Kina Recieved", "translation": "Otrzymane Kina", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_TITLE_body", "source": "Cumulative Play Reward Adjustment", "translation": "Korekta łącznych nagród za rozgrywkę", "status": "draft"}
+{"id": "String_UI_PARTY_ODENERGYCUBE_KINA_LIMIT_TOOLTIP_body", "source": "Play counts for each game mode are accumulated weekly on a per-server basis.\nOnce a server's cumulative play count exceeds certain thresholds, the amount of Kina obtainable from Odyle Energy Cubes is reduced.\nThe further the cumulative play count exceeds these thresholds, the greater the reduction in Kina rewards.", "translation": "Liczba rozgrywek w każdym trybie jest sumowana co tydzień osobno na każdym serwerze.\nPo przekroczeniu określonych progów łącznej liczby rozgrywek na serwerze zmniejsza się ilość Kina, jaką można zdobyć z Kostek energii Odyle.\nIm bardziej łączna liczba rozgrywek przekracza te progi, tym większe jest ograniczenie nagród w postaci Kina.", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_INVITE_MESSAGE_body", "source": "{0} sent you a Party invite.", "translation": "{0} wysyła zaproszenie do drużyny.", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_BUTTON_CREATE_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_MANUAL_body", "source": "Any", "translation": "Dowolny", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_RANDOM_body", "source": "Random", "translation": "Losowo", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_RADIOBUTTON_SEQUENTIAL_body", "source": "Sequential", "translation": "Kolejno", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_DISTRIBUTION_TITLE_body", "source": "Acquisition Method", "translation": "Metoda podziału łupów", "status": "draft"}
+{"id": "String_UI_PARTY_POPUP_PARTY_SETTING_body", "source": "Create Party / Force", "translation": "Utwórz drużynę / sojusz", "status": "draft"}
+{"id": "String_UI_PARTY_REQUEST_RECEIVE_AUTOREJECT_MSG_body", "source": "Automatically declining in {0}s", "translation": "Automatyczne odrzucenie za {0}s", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_ENTRUST_body", "source": "Reassign", "translation": "Przekaż przywództwo", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_INVITE_CANCEL_body", "source": "Cancel Invitation", "translation": "Anuluj zaproszenie", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_KICKOUT_VOTE_body", "source": "Kick Vote", "translation": "Głosowanie nad wyrzuceniem", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_KICKOUT_body", "source": "Kick", "translation": "Wyrzuć", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_LIST_BUTTON_LEAVE_body", "source": "Leave", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_MY_PARTY_body", "source": "My Party", "translation": "Moja drużyna", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_CREATE_ONBOARDING_PARTY_NONE_body", "source": "No Parties Created", "translation": "Nie utworzono drużyny", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_CREATE_body", "source": "Create Party", "translation": "Utwórz drużynę", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_LIST_BUTTON_INVITE_body", "source": "Invite", "translation": "Zaproś", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_LIST_BUTTON_WHISPER_body", "source": "Whisper", "translation": "Szept", "status": "draft"}
 {"id": "String_UI_PARTY_TAB_PARTY_INVITE_LIST_TEXT_LOCATION_OFFLINE_body", "source": "Offline", "translation": "Poza siecią", "status": "draft"}
 {"id": "String_UI_PARTY_TAB_PARTY_INVITE_LIST_TEXT_ONLINE_body", "source": "Online", "translation": "W sieci", "status": "draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_ALL_ONBOARDING_NONE_body","source":"No target to invite.","translation":"Brak celu do zaproszenia.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_GUIDE_TEXT_body","source":"Only currently online friends are displayed.","translation":"Wyświetlani są tylko znajomi, którzy są obecnie online.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_ONBOARDING_NONE_body","source":"No friends available to invite.","translation":"Brak znajomych do zaproszenia.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_body","source":"Friends","translation":"Znajomi","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_GUIDE_TEXT_body","source":"Only currently online Legion members are displayed.","translation":"Wyświetlani są tylko członkowie legionu, którzy są obecnie online.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_ONBOARDING_NONE_body","source":"No Legion member available to invite.","translation":"Brak członków legionu do zaproszenia.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_body","source":"Legion Member","translation":"Członek legionu","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_GUIDE_TEXT_body","source":"Shows up to {0} player(s) you were recently in a Party with.","translation":"Pokazuje maksymalnie {0} graczy, z którymi ostatnio byłeś(-aś) w drużynie.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_ONBOARDING_NONE_body","source":"No recent party history available.","translation":"Brak historii ostatnich drużyn.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_PARTY_body","source":"Recent Party","translation":"Ostatnia drużyna","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_GUIDE_BUTTON_REFRESH_body","source":"Refresh","translation":"Odśwież","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_GUIDE_TEXT_body","source":"Recommend up to {0} people within close range.","translation":"Zaproponuj maksymalnie {0} graczy w pobliżu.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_ONBOARDING_NONE_body","source":"No target to recommend.","translation":"Brak graczy do polecenia.","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_body","source":"Recommend","translation":"Poleć","status":"draft"}
-{"id":"String_UI_PARTY_TAB_PARTY_INVITE_body","source":"Invite to Party","translation":"Zaproś do drużyny","status":"draft"}
-{"id":"String_UI_PARTY_TITLE_PARTY_body","source":"Party Settings","translation":"Ustawienia drużyny","status":"draft"}
-{"id":"String_UI_PATCH_COPYRIGHT_body","source":"ⓒ NC Corporation. All Rights Reserved.","translation":"ⓒ NC Corporation. Wszelkie prawa zastrzeżone.","status":"draft"}
-{"id":"String_UI_PATCH_DOWNLOADING_body","source":"Downloading files ({0}/{1})","translation":"Pobieranie plików ({0}/{1})","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_BUTTON_CHANGE_ACCOUNT_body","source":"Change Google Payment Account","translation":"Zmień konto płatności Google","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_LOGIN_CANCEL_body","source":"Registration canceled.","translation":"Rejestracja anulowana.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_LOGIN_COMMON_ERROR_body","source":"Unable to complete account registration due to failed login.","translation":"Nie udało się zarejestrować konta z powodu nieudanego logowania.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_LOGIN_ERROR_body","source":"Invalid Account information.","translation":"Nieprawidłowe informacje o koncie.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_LOGIN_FOR_PURCHASE_body","source":"Log in to Google Store to purchase cash products.","translation":"Zaloguj się do Sklepu Google, aby kupować produkty za gotówkę.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_PURCHASE_CANCEL_body","source":"Payment canceled.","translation":"Płatność anulowana.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_PURCHASE_COMMON_ERROR_body","source":"Unable to complete purchase due to failed login.","translation":"Nie udało się sfinalizować zakupu z powodu nieudanego logowania.","status":"draft"}
-{"id":"String_UI_PAYMENT_AUTH_POPUP_PURCHASE_ERROR_body","source":"No purchase history available.","translation":"Brak historii zakupów.","status":"draft"}
-{"id":"String_UI_PAYMENT_ERROR_XSOLLA_CUSTOMER_SUPPORT_body","source":"An error has occurred with the Xsolla payment provider.\nThe payment system is currently unavailable, so please use another payment method or try again later.\nIf the issue persists, please contact <a href=\"https://help.xsolla.com\">Xsolla Customer Support</>.","translation":"Wystąpił błąd dostawcy płatności Xsolla.\nSystem płatności jest obecnie niedostępny. Użyj innej metody płatności lub spróbuj ponownie później.\nJeśli problem nie ustąpi, skontaktuj się z <a href=\"https://help.xsolla.com\">obsługą klienta Xsolla</>.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_LOGIN_KICK_BY_SERVER_ERROR_CLIENT_CLOSE_SUBTEXT_body","source":"Cannot complete processing an incomplete order. The game will now close.","translation":"Nie można dokończyć przetwarzania nieukończonego zamówienia. Gra zostanie teraz zamknięta.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_NOT_ALLOWED_PURCHASE_FOR_PURPLE_RUNNING_body","source":"You cannot make purchases while streaming via PURPLE On.","translation":"Nie możesz dokonywać zakupów podczas transmisji przez PURPLE On.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_PENDING_ORDER_REPAYMENT_COMPLETE_CLIENT_CLOSE_SUBTEXT_body","source":"Payment for the incomplete order has been completed.\nThe game will now close to apply your payment information. Please restart the game.","translation":"Płatność za nieukończone zamówienie została zrealizowana.\nGra zostanie teraz zamknięta, aby zastosować informacje o płatności. Uruchom grę ponownie.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_REFUND_SANCTION_COMMON_ERROR_body","source":"Failed to process the incomplete order.","translation":"Nie udało się przetworzyć nieukończonego zamówienia.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_REFUND_SANCTION_ERROR_body","source":"Cannot complete processing an incomplete order.\nPlease check your network status and device info again.","translation":"Nie można dokończyć przetwarzania nieukończonego zamówienia.\nSprawdź ponownie stan sieci i informacje o urządzeniu.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_REFUND_SANCTION_FAILED_ACCESS_TOKEN_body","source":"Logging in to Google payment account due to incomplete orders.","translation":"Logowanie do konta płatności Google z powodu nieukończonych zamówień.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_REFUND_SANCTION_LIMIT_EXCEEDED_body","source":"Cannot complete the incomplete order due to exceeding the \"User Payment Limit.\"","translation":"Nie można dokończyć nieukończonego zamówienia z powodu przekroczenia „Limitu płatności użytkownika”.","status":"draft"}
-{"id":"String_UI_PAYMENT_POPUP_REFUND_SANCTION_LIMIT_NOT_CONFIGURED_body","source":"Cannot complete the incomplete order because the \"User Payment Limit\" is not set.","translation":"Nie można dokończyć nieukończonego zamówienia, ponieważ „Limit płatności użytkownika” nie został ustawiony.","status":"draft"}
-{"id":"String_UI_PAYMENT_REFUND_RESTRICTION_LOGOUT_body","source":"This account has a confirmed refund history.","translation":"Na tym koncie potwierdzono historię zwrotów.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DATE_body","source":"Delivery Deadline\n{0} - {1}","translation":"Termin dostawy\n{0} - {1}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_BTN_CANCEL_body","source":"Close","translation":"Zamknij","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_BTN_OK_body","source":"Delivery","translation":"Dostarcz","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_COMPLETE_body","source":"Delivery Complete","translation":"Dostawa ukończona","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_CONDITION_body","source":"Delivery Status","translation":"Status dostawy","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_COUNT_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_HAVE_COUNT_body","source":"Owned {0}","translation":"Posiadane: {0}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_LIST_GUIDE_body","source":"Select item to deliver from below list.","translation":"Wybierz przedmiot do dostarczenia z poniższej listy.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_LIST_body","source":"Delivery List","translation":"Lista dostaw","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_BTN_OK_body","source":"Delivery","translation":"Dostarcz","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_GUIDE_body","source":"Items will be destroyed upon delivery.","translation":"Przedmioty zostaną zniszczone po dostarczeniu.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_COUNT_SLOT_body","source":"{0} Unit(s)<ref style=\"AbyssCollection_Storage_Count\" attr=\"color\">({1})</>","translation":"{0} szt.<ref style=\"AbyssCollection_Storage_Count\" attr=\"color\">({1})</>","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_COUNT_body","source":"{0} Unit(s) in Storage","translation":"{0} szt. w magazynie","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_body","source":"Items stored in the Storage will also be delivered.\nQuantity of already stored items will be shown in parenthesis.\nProceed with the delivery?","translation":"Przedmioty przechowywane w magazynie również zostaną dostarczone.\nLiczba już przechowywanych przedmiotów będzie podana w nawiasie.\nKontynuować dostawę?","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_TITLE_body","source":"Deliver the items?","translation":"Dostarczyć przedmioty?","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_GUIDE_COUNTING_body","source":"Deliver {0} of the above items","translation":"Dostarcz {0} z powyższych przedmiotów","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_DELIVERY_COMPLETE_body","source":"Delivery Complete","translation":"Dostawa ukończona","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_ITEM_COUNT_body","source":"Owned {0}","translation":"Posiadane: {0}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_ITEM_ENCHANT_body","source":"+{0}","translation":"+{0}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_ITEM_SELECT_COUNT_body","source":"{0} Unit(s)","translation":"{0} szt.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_PROGRESS_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_PROGRESS_PERCENT_body","source":"{0}%","translation":"{0}%","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_LIST_TITLE_body","source":"Supply Request","translation":"Zlecenie zaopatrzeniowe","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_NONE_ERROR_body","source":"No ongoing supply requests.","translation":"Brak aktywnych zleceń zaopatrzeniowych.","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_REWARD_body","source":"Rewards","translation":"Nagrody","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_01_body","source":"Not Started","translation":"Nie rozpoczęto","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_02_body","source":"Active","translation":"Aktywne","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_03_body","source":"Complete","translation":"Ukończono","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_STATUS_BOARD_TITLE_body","source":"Overall Delivery Status","translation":"Ogólny status dostawy","status":"draft"}
-{"id":"String_UI_PERIOD_COLLECTION_TITLE_body","source":"Abyss Supply Request","translation":"Zlecenie zaopatrzeniowe Otchłani","status":"draft"}
-{"id":"String_UI_PET_LOOTING_BUY_SHOP_INFO_body","source":"The pet Auto-Loot function is unlocked after purchasing a Pet Auto-Loot Voucher from the Wind Breeze Merchants.","translation":"Funkcja automatycznego zbierania przez zwierzaka odblokowuje się po zakupie talonu Autozbierania zwierzaka u Wind Breeze Merchants.","status":"draft"}
-{"id":"String_UI_PET_LOOTING_BUY_TICKET_GOTO_SHOP_BUTTION_MOVE_body","source":"Move","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_PET_LOOTING_BUY_TICKET_GOTO_SHOP_body","source":"The item can be <system_point>purchased</> from the Wind Breeze Merchants.\n<system_point>Move</> to the shop?","translation":"Przedmiot można <system_point>kupić</> u Wind Breeze Merchants.\n<system_point>Przejść</> do sklepu?","status":"draft"}
-{"id":"String_UI_PET_LOOTING_OFF_TIME_RUNNING_body","source":"Pet Auto-Loot duration will decrease even when the feature is turned off.","translation":"Czas działania automatycznego zbierania przez zwierzaka zmniejsza się także po wyłączeniu tej funkcji.","status":"draft"}
-{"id":"String_UI_PET_LOOTING_OFF_body","source":"OFF","translation":"WYŁ.","status":"draft"}
-{"id":"String_UI_PET_LOOTING_ON_body","source":"ON","translation":"WŁ.","status":"draft"}
-{"id":"String_UI_PET_LOOTING_REMAIN_TIME_body","source":"Usage Time Left {0}","translation":"Pozostały czas użytkowania: {0}","status":"draft"}
-{"id":"String_UI_PET_LOOTING_body","source":"Pet Auto-Loot","translation":"Automatyczne zbieranie przez zwierzaka","status":"draft"}
-{"id":"String_UI_POPUP_CONFIDENTIAL_TITLE_body","source":"Confidential","translation":"Poufne","status":"draft"}
-{"id":"String_UI_POPUP_GET_FOUNDERS_PACK_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_POPUP_GET_FOUNDERS_PACK_CAUTION_body","source":"<ref style=\"insufficient\" attr=\"color\">This product includes items whose benefits are granted immediately upon use.</>\n<ref style=\"insufficient\" attr=\"color\">Withdrawal of purchase (refund) is restricted if benefits have been granted through item use,</>\n<ref style=\"insufficient\" attr=\"color\">or if the withdrawal period has expired.</>","translation":"<ref style=\"insufficient\" attr=\"color\">Ten produkt zawiera przedmioty, których korzyści są przyznawane natychmiast po użyciu.</>\n<ref style=\"insufficient\" attr=\"color\">Zwrot zakupu jest ograniczony, jeśli korzyści zostały przyznane po użyciu przedmiotu,</>\n<ref style=\"insufficient\" attr=\"color\">lub upłynął termin na odstąpienie od zakupu.</>","status":"draft"}
-{"id":"String_UI_POPUP_GET_FOUNDERS_PACK_DESC_body","source":"I acknowledge and agree to all precautions regarding item usage.","translation":"Potwierdzam, że zapoznałem(-am) się ze wszystkimi ostrzeżeniami dotyczącymi użycia przedmiotu.","status":"draft"}
-{"id":"String_UI_POPUP_GET_FOUNDERS_PACK_GET_body","source":"Claim","translation":"Odbierz","status":"draft"}
-{"id":"String_UI_POPUP_GET_FOUNDERS_PACK_NOTICE_body","source":"<warning>Refunds are unavailable if 7 days have passed since purchase or if the item has already been used.</>","translation":"<warning>Zwrot nie przysługuje, jeśli od zakupu minęło 7 dni lub przedmiot został już użyty.</>","status":"draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_ALL_ONBOARDING_NONE_body", "source": "No target to invite.", "translation": "Brak celu do zaproszenia.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_GUIDE_TEXT_body", "source": "Only currently online friends are displayed.", "translation": "Wyświetlani są tylko znajomi, którzy są obecnie online.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_ONBOARDING_NONE_body", "source": "No friends available to invite.", "translation": "Brak znajomych do zaproszenia.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_FRIEND_body", "source": "Friends", "translation": "Znajomi", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_GUIDE_TEXT_body", "source": "Only currently online Legion members are displayed.", "translation": "Wyświetlani są tylko członkowie legionu, którzy są obecnie online.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_ONBOARDING_NONE_body", "source": "No Legion member available to invite.", "translation": "Brak członków legionu do zaproszenia.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_LEGION_body", "source": "Legion Member", "translation": "Członek legionu", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_GUIDE_TEXT_body", "source": "Shows up to {0} player(s) you were recently in a Party with.", "translation": "Pokazuje maksymalnie {0} graczy, z którymi ostatnio byłeś(-aś) w drużynie.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_ONBOARDING_NONE_body", "source": "No recent party history available.", "translation": "Brak historii ostatnich drużyn.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECENT_PARTY_body", "source": "Recent Party", "translation": "Ostatnia drużyna", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_GUIDE_BUTTON_REFRESH_body", "source": "Refresh", "translation": "Odśwież", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_GUIDE_TEXT_body", "source": "Recommend up to {0} people within close range.", "translation": "Zaproponuj maksymalnie {0} graczy w pobliżu.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_ONBOARDING_NONE_body", "source": "No target to recommend.", "translation": "Brak graczy do polecenia.", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_SUBTAB_RECOMMEND_body", "source": "Recommend", "translation": "Poleć", "status": "draft"}
+{"id": "String_UI_PARTY_TAB_PARTY_INVITE_body", "source": "Invite to Party", "translation": "Zaproś do drużyny", "status": "draft"}
+{"id": "String_UI_PARTY_TITLE_PARTY_body", "source": "Party Settings", "translation": "Ustawienia drużyny", "status": "draft"}
+{"id": "String_UI_PATCH_COPYRIGHT_body", "source": "ⓒ NC Corporation. All Rights Reserved.", "translation": "ⓒ NC Corporation. Wszelkie prawa zastrzeżone.", "status": "draft"}
+{"id": "String_UI_PATCH_DOWNLOADING_body", "source": "Downloading files ({0}/{1})", "translation": "Pobieranie plików ({0}/{1})", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_BUTTON_CHANGE_ACCOUNT_body", "source": "Change Google Payment Account", "translation": "Zmień konto płatności Google", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_LOGIN_CANCEL_body", "source": "Registration canceled.", "translation": "Rejestracja anulowana.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_LOGIN_COMMON_ERROR_body", "source": "Unable to complete account registration due to failed login.", "translation": "Nie udało się zarejestrować konta z powodu nieudanego logowania.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_LOGIN_ERROR_body", "source": "Invalid Account information.", "translation": "Nieprawidłowe informacje o koncie.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_LOGIN_FOR_PURCHASE_body", "source": "Log in to Google Store to purchase cash products.", "translation": "Zaloguj się do Sklepu Google, aby kupować produkty za gotówkę.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_PURCHASE_CANCEL_body", "source": "Payment canceled.", "translation": "Płatność anulowana.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_PURCHASE_COMMON_ERROR_body", "source": "Unable to complete purchase due to failed login.", "translation": "Nie udało się sfinalizować zakupu z powodu nieudanego logowania.", "status": "draft"}
+{"id": "String_UI_PAYMENT_AUTH_POPUP_PURCHASE_ERROR_body", "source": "No purchase history available.", "translation": "Brak historii zakupów.", "status": "draft"}
+{"id": "String_UI_PAYMENT_ERROR_XSOLLA_CUSTOMER_SUPPORT_body", "source": "An error has occurred with the Xsolla payment provider.\nThe payment system is currently unavailable, so please use another payment method or try again later.\nIf the issue persists, please contact <a href=\"https://help.xsolla.com\">Xsolla Customer Support</>.", "translation": "Wystąpił błąd dostawcy płatności Xsolla.\nSystem płatności jest obecnie niedostępny. Użyj innej metody płatności lub spróbuj ponownie później.\nJeśli problem nie ustąpi, skontaktuj się z <a href=\"https://help.xsolla.com\">obsługą klienta Xsolla</>.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_LOGIN_KICK_BY_SERVER_ERROR_CLIENT_CLOSE_SUBTEXT_body", "source": "Cannot complete processing an incomplete order. The game will now close.", "translation": "Nie można dokończyć przetwarzania nieukończonego zamówienia. Gra zostanie teraz zamknięta.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_NOT_ALLOWED_PURCHASE_FOR_PURPLE_RUNNING_body", "source": "You cannot make purchases while streaming via PURPLE On.", "translation": "Nie możesz dokonywać zakupów podczas transmisji przez PURPLE On.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_PENDING_ORDER_REPAYMENT_COMPLETE_CLIENT_CLOSE_SUBTEXT_body", "source": "Payment for the incomplete order has been completed.\nThe game will now close to apply your payment information. Please restart the game.", "translation": "Płatność za nieukończone zamówienie została zrealizowana.\nGra zostanie teraz zamknięta, aby zastosować informacje o płatności. Uruchom grę ponownie.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_REFUND_SANCTION_COMMON_ERROR_body", "source": "Failed to process the incomplete order.", "translation": "Nie udało się przetworzyć nieukończonego zamówienia.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_REFUND_SANCTION_ERROR_body", "source": "Cannot complete processing an incomplete order.\nPlease check your network status and device info again.", "translation": "Nie można dokończyć przetwarzania nieukończonego zamówienia.\nSprawdź ponownie stan sieci i informacje o urządzeniu.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_REFUND_SANCTION_FAILED_ACCESS_TOKEN_body", "source": "Logging in to Google payment account due to incomplete orders.", "translation": "Logowanie do konta płatności Google z powodu nieukończonych zamówień.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_REFUND_SANCTION_LIMIT_EXCEEDED_body", "source": "Cannot complete the incomplete order due to exceeding the \"User Payment Limit.\"", "translation": "Nie można dokończyć nieukończonego zamówienia z powodu przekroczenia „Limitu płatności użytkownika”.", "status": "draft"}
+{"id": "String_UI_PAYMENT_POPUP_REFUND_SANCTION_LIMIT_NOT_CONFIGURED_body", "source": "Cannot complete the incomplete order because the \"User Payment Limit\" is not set.", "translation": "Nie można dokończyć nieukończonego zamówienia, ponieważ „Limit płatności użytkownika” nie został ustawiony.", "status": "draft"}
+{"id": "String_UI_PAYMENT_REFUND_RESTRICTION_LOGOUT_body", "source": "This account has a confirmed refund history.", "translation": "Na tym koncie potwierdzono historię zwrotów.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DATE_body", "source": "Delivery Deadline\n{0} - {1}", "translation": "Termin dostawy\n{0} - {1}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_BTN_CANCEL_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_BTN_OK_body", "source": "Delivery", "translation": "Dostarcz", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_COMPLETE_body", "source": "Delivery Complete", "translation": "Dostawa ukończona", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_CONDITION_body", "source": "Delivery Status", "translation": "Status dostawy", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_COUNT_MAX_body", "source": "MAX", "translation": "MAKS.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_HAVE_COUNT_body", "source": "Owned {0}", "translation": "Posiadane: {0}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_LIST_GUIDE_body", "source": "Select item to deliver from below list.", "translation": "Wybierz przedmiot do dostarczenia z poniższej listy.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_LIST_body", "source": "Delivery List", "translation": "Lista dostaw", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_BTN_OK_body", "source": "Delivery", "translation": "Dostarcz", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_GUIDE_body", "source": "Items will be destroyed upon delivery.", "translation": "Przedmioty zostaną zniszczone po dostarczeniu.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_COUNT_SLOT_body", "source": "{0} Unit(s)<ref style=\"AbyssCollection_Storage_Count\" attr=\"color\">({1})</>", "translation": "{0} szt.<ref style=\"AbyssCollection_Storage_Count\" attr=\"color\">({1})</>", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_COUNT_body", "source": "{0} Unit(s) in Storage", "translation": "{0} szt. w magazynie", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_STORGE_body", "source": "Items stored in the Storage will also be delivered.\nQuantity of already stored items will be shown in parenthesis.\nProceed with the delivery?", "translation": "Przedmioty przechowywane w magazynie również zostaną dostarczone.\nLiczba już przechowywanych przedmiotów będzie podana w nawiasie.\nKontynuować dostawę?", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_DELIVERY_POPUP_TITLE_body", "source": "Deliver the items?", "translation": "Dostarczyć przedmioty?", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_GUIDE_COUNTING_body", "source": "Deliver {0} of the above items", "translation": "Dostarcz {0} z powyższych przedmiotów", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_DELIVERY_COMPLETE_body", "source": "Delivery Complete", "translation": "Dostawa ukończona", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_ITEM_COUNT_body", "source": "Owned {0}", "translation": "Posiadane: {0}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_ITEM_ENCHANT_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_ITEM_SELECT_COUNT_body", "source": "{0} Unit(s)", "translation": "{0} szt.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_PROGRESS_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_PROGRESS_PERCENT_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_LIST_TITLE_body", "source": "Supply Request", "translation": "Zlecenie zaopatrzeniowe", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_NONE_ERROR_body", "source": "No ongoing supply requests.", "translation": "Brak aktywnych zleceń zaopatrzeniowych.", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_REWARD_body", "source": "Rewards", "translation": "Nagrody", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_01_body", "source": "Not Started", "translation": "Nie rozpoczęto", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_02_body", "source": "Active", "translation": "Aktywne", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_STATUS_BOARD_GAGE_03_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_STATUS_BOARD_TITLE_body", "source": "Overall Delivery Status", "translation": "Ogólny status dostawy", "status": "draft"}
+{"id": "String_UI_PERIOD_COLLECTION_TITLE_body", "source": "Abyss Supply Request", "translation": "Zlecenie zaopatrzeniowe Otchłani", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_BUY_SHOP_INFO_body", "source": "The pet Auto-Loot function is unlocked after purchasing a Pet Auto-Loot Voucher from the Wind Breeze Merchants.", "translation": "Funkcja automatycznego zbierania przez zwierzaka odblokowuje się po zakupie talonu Autozbierania zwierzaka u Wind Breeze Merchants.", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_BUY_TICKET_GOTO_SHOP_BUTTION_MOVE_body", "source": "Move", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_BUY_TICKET_GOTO_SHOP_body", "source": "The item can be <system_point>purchased</> from the Wind Breeze Merchants.\n<system_point>Move</> to the shop?", "translation": "Przedmiot można <system_point>kupić</> u Wind Breeze Merchants.\n<system_point>Przejść</> do sklepu?", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_OFF_TIME_RUNNING_body", "source": "Pet Auto-Loot duration will decrease even when the feature is turned off.", "translation": "Czas działania automatycznego zbierania przez zwierzaka zmniejsza się także po wyłączeniu tej funkcji.", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_REMAIN_TIME_body", "source": "Usage Time Left {0}", "translation": "Pozostały czas użytkowania: {0}", "status": "draft"}
+{"id": "String_UI_PET_LOOTING_body", "source": "Pet Auto-Loot", "translation": "Automatyczne zbieranie przez zwierzaka", "status": "draft"}
+{"id": "String_UI_POPUP_CONFIDENTIAL_TITLE_body", "source": "Confidential", "translation": "Poufne", "status": "draft"}

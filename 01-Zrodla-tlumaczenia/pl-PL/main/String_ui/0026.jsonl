@@ -1,250 +1,250 @@
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_OD_body","source":"Auto Flight During Odyle Extraction","translation":"Automatyczny lot podczas pozyskiwania Odyli","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_body","source":"Use Virtual Pad","translation":"Użyj wirtualnego pada","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_body","source":"Controls","translation":"Sterowanie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_AUTOLOOTING_body","source":"Using Loot Button","translation":"Korzystanie z przycisku Łup","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON1_body","source":"All","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON2_body","source":"Selected","translation":"Wybrane","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON3_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_DESC_body","source":"Sets the gear grades to obtain when pressing the Loot button.","translation":"Ustaw jakość ekwipunku zdobywanego po naciśnięciu przycisku Łup.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE1_DESC_body","source":"Set whether to obtain Common Gear or not.","translation":"Ustaw, czy zdobywać zwykły ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE1_body","source":"Common","translation":"Zwykły","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE2_DESC_body","source":"Set whether to obtain Rare Gear or not.","translation":"Ustaw, czy zdobywać rzadki ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE2_body","source":"Rare","translation":"Rzadki","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE3_DESC_body","source":"Set whether to obtain Epic Gear or not.","translation":"Ustaw, czy zdobywać epicki ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE3_body","source":"Epic","translation":"Epicki","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE4_DESC_body","source":"Set whether to obtain Unique Gear or not.","translation":"Ustaw, czy zdobywać unikatowy ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE4_body","source":"Unique","translation":"Unikatowy","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE5_DESC_body","source":"Set whether to obtain Heroic Gear or not.","translation":"Ustaw, czy zdobywać heroiczny ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE5_body","source":"Heroic","translation":"Heroiczny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE6_DESC_body","source":"Set whether to obtain Mythic Gear or not.","translation":"Ustaw, czy zdobywać mityczny ekwipunek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE6_body","source":"Mythic","translation":"Mityczny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_body","source":"Obtaining Gear","translation":"Zdobywanie ekwipunku","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_COMMON_DESC_body","source":"Set whether to obtain Common Consumables.","translation":"Ustaw, czy zdobywać zwykłe przedmioty użytkowe.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_COMMON_body","source":"Common Consumables","translation":"Zwykłe przedmioty użytkowe","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_CRAFT_DESC_body","source":"Set whether to obtain Crafting Materials.","translation":"Ustaw, czy zdobywać materiały rzemieślnicze.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_CRAFT_body","source":"Crafting Materials","translation":"Materiały rzemieślnicze","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_POTION_DESC_body","source":"Set whether to obtain Potions.","translation":"Ustaw, czy zdobywać mikstury.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_POTION_body","source":"Potions","translation":"Mikstury","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_SEALSTONE_DESC_body","source":"Set whether to obtain Power Shards.","translation":"Ustaw, czy zdobywać Odłamki Mocy.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_SEALSTONE_body","source":"Power Shards","translation":"Odłamki Mocy","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON1_body","source":"All","translation":"Wszystkie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON2_body","source":"Selected","translation":"Wybrane","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON3_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_DESC_body","source":"Sets the item type to obtain when pressing the Loot button.","translation":"Ustaw typ przedmiotów zdobywanych po naciśnięciu przycisku Łup.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_body","source":"Obtaining Item","translation":"Zdobywane przedmioty","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_BUTTON1_body","source":"Closest First","translation":"Najpierw najbliższe","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_BUTTON2_body","source":"Highest Grade First","translation":"Najpierw najwyższej jakości","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_DESC_body","source":"Sets the looting priority when pressing the Loot button.","translation":"Ustaw priorytet zbierania łupów.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_body","source":"Loot Priority","translation":"Priorytet łupu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_body","source":"Obtain","translation":"Zdobądź","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTORECEIVEPARTYLEADERSCAN_DESC_body","source":"Automatically receives the party leader's scan list.","translation":"Automatycznie odbieraj listę skanowania lidera drużyny.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTORECEIVEPARTYLEADERSCAN_body","source":"Receive Party Leader's Scan List","translation":"Odbieraj listę skanowania lidera drużyny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_DESC_body","source":"Enables the use of auto scan.","translation":"Włącza automatyczne skanowanie.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON1_body","source":"3 seconds","translation":"3 s","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON2_body","source":"5 seconds","translation":"5 s","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON3_body","source":"10 seconds","translation":"10 s","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_DESC_body","source":"Sets the auto scan's frequency.","translation":"Ustaw częstotliwość automatycznego skanowania.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_body","source":"Scan Frequency","translation":"Częstotliwość skanowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_body","source":"Auto Scan","translation":"Automatyczne skanowanie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSHAREPARTYLEADERSCAN_DESC_body","source":"Automatically shares the scan list when you are the party leader.","translation":"Automatycznie udostępniaj listę skanowania, gdy jesteś liderem drużyny.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSHAREPARTYLEADERSCAN_body","source":"Share Party Leader's Scan List","translation":"Udostępniaj listę skanowania lidera drużyny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_BUTTON1_body","source":"Priority","translation":"Priorytet","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_BUTTON2_body","source":"Distance","translation":"Odległość","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_DESC_body","source":"Sets the scan selection criteria.","translation":"Ustaw kryteria wyboru celów skanowania.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_body","source":"Scan Criteria","translation":"Kryteria skanowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_CHECKBUTTON_SCANONLY_GATHERABLE_body","source":"Gathered Material Below My Proficiency Level","translation":"Zebrane surowce poniżej mojego poziomu biegłości","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_DESC_body","source":"Scans only Gathered Material below my Proficiency Level.","translation":"Skanuje tylko zebrane surowce poniżej mojego poziomu biegłości.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_body","source":"Only Scan for Gathered Material Below My Proficiency Level","translation":"Skanuj tylko zebrane surowce poniżej mojego poziomu biegłości","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_RANK_body","source":"Rank","translation":"Ranga","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_SETTING_body","source":"Priority Settings","translation":"Ustawienia priorytetu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_TARGET_body","source":"Scan Target","translation":"Cel skanowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_body","source":"Scan Target Filter and Priority","translation":"Filtr i priorytet celów skanowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_GATHERFILTER_DESC_body","source":"Specifies scanning preferences for each type of gathered material.","translation":"Określa preferencje skanowania dla każdego rodzaju zebranego surowca.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_GATHERFILTER_body","source":"Gathered Material Scan Settings","translation":"Ustawienia skanowania zebranych surowców","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_USEDAEVASENSE_REFRESHSCAN_DESC_body","source":"Renews the normal scan list when using Daeva Sense with the Scan button.","translation":"Odświeża zwykłą listę skanowania po użyciu Zmysłu daeva przyciskiem Skanuj.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_USEDAEVASENSE_REFRESHSCAN_body","source":"Renew Existing Scan List When Using Daeva Sense","translation":"Odśwież istniejącą listę skanowania przy użyciu Zmysłu daeva","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_ATTACKTARGET_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_RANK_body","source":"Priority","translation":"Priorytet","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_SETTING_body","source":"Priority Settings","translation":"Ustawienia priorytetu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_DESC_body","source":"Selects targets based on monster search distance criteria and target selection search range. If all priorities are deselected, normal monsters within range are targeted.\n*For [Scan Numbers], if the selection is set to 'By Priority,' it prioritizes targets with the smallest scan numbers.\nIf set to 'By Distance,' it chooses targets with scan numbers meeting the 'monster search distance criteria' within range.","translation":"Wybiera cele według odległości wyszukiwania potworów oraz zasięgu wyboru celu. Jeśli nie zaznaczono żadnego priorytetu, wybierane są zwykłe potwory w zasięgu.\n*Dla [numerów skanowania], wybór „Według priorytetu” daje pierwszeństwo celom o najniższych numerach skanowania.\nWybór „Według odległości” wskazuje cele, których numery skanowania spełniają kryteria odległości wyszukiwania potworów w zasięgu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_body","source":"Target Search in Auto Mode","translation":"Wyszukiwanie celu w trybie automatycznym","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPARTY_TARGET_DESC_body","source":"Automatically shares the current target with party members when you are the party leader.","translation":"Automatycznie udostępnia obecny cel członkom drużyny, gdy jesteś jej liderem.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPARTY_TARGET_body","source":"Automatic Share of Party Leader's Attack Target","translation":"Automatyczne udostępnianie celu ataku lidera drużyny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_BUTTON1_body","source":"Closest First","translation":"Najpierw najbliższe","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_BUTTON2_body","source":"Farthest First","translation":"Najpierw najdalsze","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_body","source":"By Monster Search Distance","translation":"Według odległości wyszukiwania potworów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_ATTACK_DESC_body","source":"Automatically searches for targets when the Basic Attack button is pressed.","translation":"Automatycznie wyszukuje cele po naciśnięciu przycisku ataku podstawowego.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_ATTACK_body","source":"Target Auto-Search During Basic Attacks","translation":"Automatyczne wyszukiwanie celu podczas ataku podstawowego","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_SKILL_DESC_body","source":"Automatically searches for targets when the Skill button is pressed.","translation":"Automatycznie wyszukuje cele po naciśnięciu przycisku umiejętności.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_SKILL_body","source":"Target Auto-Search During Skill Attacks","translation":"Automatyczne wyszukiwanie celu podczas używania umiejętności","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_COMBAT_TARGET_DESC_body","source":"Selects targets based on search distance and target selection within the search range. If all priorities are deselected, normal monsters within range are targeted.\n*For [Scan Numbers], if the selection is set to 'By Priority,' it prioritizes targets with the smallest scan numbers.\nIf set to 'By Distance,' it chooses targets with scan numbers meeting the 'search distance criteria' within range.","translation":"Wybiera cele według odległości wyszukiwania i zasięgu ich wyboru. Jeśli nie zaznaczono żadnego priorytetu, wybierane są zwykłe potwory w zasięgu.\n*Dla [numerów skanowania], wybór „Według priorytetu” daje pierwszeństwo celom o najniższych numerach skanowania.\nWybór „Według odległości” wskazuje cele, których numery skanowania spełniają kryteria odległości wyszukiwania w zasięgu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_COMBAT_TARGET_body","source":"Manual Combat Target Search","translation":"Ręczne wyszukiwanie celu w walce","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DESC_body","source":"※ Targets will be selected when using the TAB key and targeted skills.\n※ Target scanning will only scan hostile targets.\n※ Scan direction priority and detailed target scanning settings will affect scanning priority.","translation":"※ Cele będą wybierane po użyciu klawisza TAB i umiejętności wymagających celu.\n※ Skanowane są tylko wrogie cele.\n※ Priorytet kierunku skanowania i szczegółowe ustawienia celów wpływają na kolejność skanowania.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT1_body","source":"Priority","translation":"Priorytet","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT2_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT3_body","source":"Priority Settings","translation":"Ustawienia priorytetu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE1_body","source":"Priority","translation":"Priorytet","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE2_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE3_body","source":"Priority Settings","translation":"Ustawienia priorytetu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_body","source":"Scanning Target Detailed Settings","translation":"Szczegółowe ustawienia skanowania celów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON1_body","source":"Front of Character","translation":"Przed postacią","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON2_body","source":"Front of Camera","translation":"Przed kamerą","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON3_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON1_body","source":"Front of Character","translation":"Przed postacią","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON2_body","source":"Front of Camera","translation":"Przed kamerą","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON3_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_DESC_body","source":"Set the default direction used when scanning for targets with the [Change Target] key and targeted skills.","translation":"Ustaw domyślny kierunek skanowania celów klawiszem [Zmień cel] i umiejętnościami wymagającymi celu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_body","source":"Preferred Search Direction","translation":"Preferowany kierunek wyszukiwania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON1_body","source":"Priority Ranking","translation":"Ranking priorytetów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON2_body","source":"Closest First","translation":"Najpierw najbliższe","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON3_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_body","source":"Target Scanning Detailed Settings","translation":"Szczegółowe ustawienia skanowania celów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORIT_DESC_body","source":"Set the order in which targets are scanned.","translation":"Ustaw kolejność skanowania celów.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_BUTTON1_body","source":"Closest First","translation":"Najpierw najbliższe","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_BUTTON2_body","source":"Farthest First","translation":"Najpierw najdalsze","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_body","source":"By Search Distance","translation":"Według odległości wyszukiwania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON1_body","source":"20M","translation":"20 m","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON2_body","source":"30M","translation":"30 m","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON3_body","source":"40M","translation":"40 m","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON4_body","source":"50M","translation":"50 m","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_body","source":"Search Range","translation":"Zasięg wyszukiwania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_BUTTON1_body","source":"OFF Only During Ground Click Movement","translation":"Wyłącz tylko podczas ruchu po kliknięciu ziemi","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_DESC_body","source":"Keeps your attack state active while moving.","translation":"Utrzymuje aktywny stan ataku podczas ruchu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_body","source":"Maintain Attack State in Motion","translation":"Utrzymuj stan ataku podczas ruchu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPAUTOCOMBAT_MOVE_DESC_body","source":"Keeps Auto Combat active while moving.","translation":"Utrzymuje aktywny tryb automatycznej walki podczas ruchu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPAUTOCOMBAT_MOVE_body","source":"Auto Combat Movement","translation":"Ruch w trybie automatycznej walki","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPTARGET_GROUND_DESC_body","source":"Prevents target from being deselected when you tap on the ground.","translation":"Nie odznacza celu po kliknięciu ziemi.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPTARGET_GROUND_body","source":"Lock Target After Ground Tap","translation":"Blokada celu po kliknięciu ziemi","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_BUTTON1_body","source":"Exclude Party and Legion","translation":"Wyklucz Drużynę i Legion","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_DESC_body","source":"Monsters that have already been attacked by other players are excluded as targets.","translation":"Potwory zaatakowane już przez innych graczy są wykluczane z celów.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_body","source":"Fair Play Mode","translation":"Tryb fair play","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_BUTTON1_body","source":"Priority","translation":"Priorytet","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_BUTTON2_body","source":"Distance","translation":"Odległość","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_body","source":"By Target Selection","translation":"Według wyboru celu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_TAB_DISTANCE_BUTTON2_body","source":"Farthest Target First","translation":"Najpierw najdalszy cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_TARGETSEARCH_body","source":"Target Scanning","translation":"Skanowanie celów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_body","source":"Target Scanning","translation":"Skanowanie celów","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_SUB_SLIDEOPTION_TEXT_body","source":"px","translation":"px","status":"draft"}
-{"id":"String_UI_SETTING_TAB_BATTLE_body","source":"Combat","translation":"Walka","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_1_body","source":"Hostile Target","translation":"Wrogi cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_2_body","source":"Friendly Target, Neutral Target","translation":"Przyjazny lub neutralny cel","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_body","source":"Select Aimable Target","translation":"Wybierz cel możliwy do namierzenia","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMHEIGHT_body","source":"Adjust Aim Position","translation":"Dostosuj pozycję celownika","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMQUICKSLOTCONTROL_body","source":"Maintain Aimed Target After Long-Pressing Quick Slot","translation":"Utrzymuj namierzony cel po przytrzymaniu szybkiego slotu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMTARGETDISTANCE_body","source":"Display Distance to Aimed Target","translation":"Pokaż odległość do namierzonego celu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIM_DESC_body","source":"Set Display Aim Settings.","translation":"Ustaw opcje wyświetlania celownika.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIM_body","source":"Display Aim","translation":"Wyświetlanie celownika","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AION2_DESC_body","source":"Cursor is hidden by default.\nHowever, pressing [Alt] or opening the UI will display the cursor.\nCharacter is moveable only by keyboard.\nCharacter camera can be rotated just by moving the mouse without the need of clicking.\nSkills can be used with mouse buttons.","translation":"Kursor jest domyślnie ukryty.\nPo naciśnięciu [Alt] lub otwarciu interfejsu kursor zostaje wyświetlony.\nPostacią można poruszać wyłącznie za pomocą klawiatury.\nKamerę postaci można obracać ruchem myszy, bez klikania.\nUmiejętności można aktywować przyciskami myszy.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AION2_body","source":"AION 2","translation":"AION 2","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_CLASSIC_DESC_body","source":"Cursor is always active.\nRotate camera through mouse click and drag.\nSkills using mouse buttons are unavailable.\nMovement and manual target using mouse is available.\nDouble clicking after targeting will move the character towards the target.","translation":"Kursor jest zawsze aktywny.\nObracaj kamerę, klikając i przeciągając myszą.\nUmiejętności aktywowane przyciskami myszy są niedostępne.\nMyszą można się poruszać i ręcznie wybierać cele.\nDwukrotne kliknięcie wybranego celu powoduje, że postać rusza w jego kierunku.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_CLASSIC_body","source":"AION 1","translation":"AION 1","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_1_body","source":"Interact After Auto Move","translation":"Interakcja po automatycznym ruchu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_2_body","source":"Auto Move","translation":"Automatyczny ruch","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_3_body","source":"Do Not Use Auto Move","translation":"Nie używaj automatycznego ruchu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_DESC_body","source":"Able to change auto move to the quest objective and interaction settings.","translation":"Umożliwia zmianę ustawień automatycznego ruchu do celu zadania i interakcji.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_body","source":"Quest Auto Move Permission Settings","translation":"Ustawienia zezwolenia na automatyczny ruch do zadania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLREUSE_DESC_body","source":"Activated only when a target is being tracked.\nIf Basic Attack is used while a target is selected, the Basic Attack skill will be used repeatedly.","translation":"Aktywuje się tylko podczas śledzenia celu.\nJeśli po wybraniu celu użyjesz ataku podstawowego, będzie on powtarzany.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLREUSE_body","source":"Use Basic Attack Repeatedly","translation":"Używaj wielokrotnie ataku podstawowego","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLTRACE_DESC_body","source":"If target is trackable upon skill activation, automatically pursue the target until the skill range requirement is met.","translation":"Jeśli cel można namierzyć po aktywowaniu umiejętności, postać automatycznie podejdzie do niego na jej zasięg.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLTRACE_body","source":"Pursue Targets with Skill Activation","translation":"Podążaj za celem po aktywowaniu umiejętności","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_body","source":"General Control Mode Settings","translation":"Ogólne ustawienia sterowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_DESC_MOBILE_body","source":"Setting Control Mode.","translation":"Ustawienia trybu sterowania.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_DESC_body","source":"Sets the control mode.\n\n[AION 2]\nSuitable for users that like action RPG-style combat controls.\nAiming (with a reticle) is possible, and the mouse pointer is deactivated by default.\nWhen pressing [Alt] or opening a window in the UI, the mouse pointer is displayed to operate the UI.\nThe camera can be rotated just by moving the mouse without the need of clicking.\nCharacter movement can be controlled only by keyboard.\n\n[AION 1]\nProvides a control scheme similar to that of the original AION.\nThe mouse pointer is always activated.\nThe camera can be rotated by clicking and dragging the mouse.\nTarget selection and movement controls are done with the mouse.","translation":"Ustawianie trybu sterowania.\n\n[AION 2]\nOdpowiedni dla osób preferujących sterowanie w stylu gier akcji RPG.\nMożna celować za pomocą celownika, a kursor myszy jest domyślnie wyłączony.\nNaciśnięcie [Alt] lub otwarcie okna interfejsu wyświetla kursor myszy, aby można było obsługiwać interfejs.\nKamerę można obracać samym ruchem myszy, bez klikania.\nPostacią można sterować wyłącznie za pomocą klawiatury.\n\n[AION 1]\nOferuje schemat sterowania podobny do oryginalnego AION.\nKursor myszy jest zawsze aktywny.\nKamerę można obracać, klikając i przeciągając myszą.\nWybieranie celów i poruszanie się odbywa się za pomocą myszy.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKKEY_DESC_body","source":"Use mouse clicks as a quickslot or UI shortcut.","translation":"Używaj kliknięć myszy jako skrótu do szybkiego slotu lub interfejsu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKKEY_body","source":"Activate Mouse Click Shortcut","translation":"Aktywuj skróty kliknięć myszy","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKTARGET_DESC_body","source":"Use the mouse click to set the aimed target as the main target.","translation":"Kliknięciem myszy ustaw namierzony cel jako główny cel.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKTARGET_body","source":"Select Target with Mouse Click","translation":"Wybieraj cel kliknięciem myszy","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEOVERTARGETDISTANCE_body","source":"Display Distance to Target on Mouseover","translation":"Pokaż odległość do celu po najechaniu kursorem","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEOVER_body","source":"Attack Target on Mouseover","translation":"Atakuj cel po najechaniu kursorem","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINTMOVETARGET_body","source":"Maintain Target After Ground Tap","translation":"Zachowaj wybrany cel po kliknięciu ziemi","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINTMOVE_body","source":"Click Ground to Move","translation":"Kliknij ziemię, aby się poruszyć","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINT_DESC_body","source":"Display Cursor Settings.\nCamera rotation controls will change based on cursor display settings.","translation":"Ustawienia wyświetlania kursora.\nSterowanie obrotem kamery zależy od ustawień wyświetlania kursora.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINT_body","source":"Display Cursor","translation":"Wyświetlanie kursora","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_AXISMOVEMENT_body","source":"Facing Front of Camera","translation":"Przodem do kamery","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_DESC_body","source":"Set Character Movement Option. (WIP)","translation":"Ustaw opcję ruchu postaci. (WIP)","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_FREEMOVEMENT_body","source":"Facing Movement Direction","translation":"W kierunku ruchu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_body","source":"Character Movement Option","translation":"Opcja ruchu postaci","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_PC_body","source":"[PC] Control Mode","translation":"[PC] Tryb sterowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SELFSKILLFINDTARGET_DESC_body","source":"When no main target is selected, the skill will automatically designate the hit target as the main target.","translation":"Gdy nie wybrano głównego celu, umiejętność automatycznie ustawi trafiony cel jako główny.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SELFSKILLFINDTARGET_body","source":"Set the Auto Target when there is a Hit Target","translation":"Ustaw automatyczny wybór celu po trafieniu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_2_body","source":"ON","translation":"WŁ.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_DESC_body","source":"Allows for a main target to be automatically selected when a skill requiring a target is used.","translation":"Umożliwia automatyczne wybranie głównego celu podczas używania umiejętności wymagającej celu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_body","source":"Auto Target Upon Skill Use","translation":"Automatyczny wybór celu przy użyciu umiejętności","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_VIRTUALPAD_FLYSPRINT_DESC_body","source":"Choose whether to use Sprint during Flight when using the Virtual Pad","translation":"Wybierz, czy używać Sprintu podczas lotu na wirtualnym padzie.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_VIRTUALPAD_FLYSPRINT_body","source":"Uses Sprint during Flight when using the Virtual Pad","translation":"Używa Sprintu podczas lotu na wirtualnym padzie.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_body","source":"Control Mode","translation":"Tryb sterowania","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_body","source":"Controls","translation":"Sterowanie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_CONTROL_body","source":"Controls","translation":"Sterowanie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_BUTTON_DOWNLOAD_body","source":"Download","translation":"Pobierz","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_BUTTON_PAUSE_body","source":"Pause","translation":"Wstrzymaj","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_DOWNLOAD_body","source":"Downloading Files","translation":"Pobieranie plików","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_INSTALL_body","source":"Installing package","translation":"Instalowanie pakietu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_PAUSE_body","source":"Pause","translation":"Wstrzymaj","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_STATE_COMPLETE_body","source":"Selection Complete","translation":"Wybór zakończony","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_PACKAGE_STATE_IMCOMPLETE_body","source":"Not Installed","translation":"Nie zainstalowano","status":"draft"}
-{"id":"String_UI_SETTING_TAB_DATA_body","source":"Data","translation":"Dane","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_APPLE_body","source":"Apple Login","translation":"Logowanie przez Apple","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_CHANGE_body","source":"Log in as different account","translation":"Zaloguj się na inne konto","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_FACEBOOK_body","source":"Facebook Login","translation":"Logowanie przez Facebooka","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_GOOGLE_body","source":"Google Login","translation":"Logowanie przez Google","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINE_body","source":"Line Login","translation":"Logowanie przez LINE","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_NOW_body","source":"Account Linking","translation":"Łączenie konta","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_OTHER_body","source":"The account contains saved info.\nPlease select another account.","translation":"Konto zawiera zapisane informacje.\nWybierz inne konto.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_POPUP_body","source":"Select an account to link.","translation":"Wybierz konto do połączenia.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_body","source":"Account Linking","translation":"Łączenie konta","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_NC_body","source":"Login with ID or Email","translation":"Zaloguj się za pomocą identyfikatora lub adresu e-mail","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_PHONE_body","source":"Login with Phone Number","translation":"Zaloguj się za pomocą numeru telefonu","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_RESET_POPUP_body","source":"Resetting the account deletes all game data.\nDo you want to reset the account?","translation":"Zresetowanie konta usunie wszystkie dane gry.\nCzy chcesz zresetować konto?","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_RESET_body","source":"Reset Account","translation":"Zresetuj konto","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_VK_body","source":"VK Login","translation":"Logowanie przez VK","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_X_body","source":"X Login","translation":"Logowanie przez X","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_body","source":"Current Account","translation":"Bieżące konto","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_HINTTEXT_body","source":"Please enter the coupon code.","translation":"Wpisz kod kuponu.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_body","source":"Enter Coupon","translation":"Wpisz kupon","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_CS_body","source":"Customer Center","translation":"Centrum obsługi klienta","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GPGS_FAIL_POPUP_body","source":"Failed to connect to Google Play Games Services.","translation":"Nie udało się połączyć z usługami Google Play Games.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GPGS_body","source":"Google Play Integration","translation":"Integracja z Google Play","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GUEST_body","source":"Guest","translation":"Gość","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LEAVE_body","source":"Delete","translation":"Usuń","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LOGOUT_POPUP_body","source":"Do you want to log out?","translation":"Czy chcesz się wylogować?","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LOGOUT_body","source":"Logout","translation":"Wyloguj","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_NAME_body","source":"Character Name","translation":"Nazwa postaci","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PRIVACY_POLICY_JP_body","source":"Legal Notation","translation":"Informacje prawne","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PRIVACY_POLICY_body","source":"Privacy Policy","translation":"Polityka prywatności","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PROBABILITY_INFO_body","source":"NC Probability Info","translation":"Informacje o prawdopodobieństwie NC","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_SERVER_body","source":"Select Server","translation":"Wybierz serwer","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_VERSION_body","source":"Version Info","translation":"Informacje o wersji","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_body","source":"Account","translation":"Konto","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_LANGUAGE_body","source":"Language","translation":"Język","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_LANGUAGE_body","source":"Language","translation":"Język","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_CANCEL_DESC_body","source":"Cancel voice pack download?","translation":"Anulować pobieranie pakietu głosowego?","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_DESC_body","source":"Download selected {0} voice pack(s)?","translation":"Pobrać wybrane pakiety głosowe ({0})?","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_REMOVAL_DESC_body","source":"Are you sure you would like to delete the {0} voice pack?\nDeleted voice packs will no longer be updated by future game updates.","translation":"Czy na pewno chcesz usunąć pakiet głosowy {0}?\nUsunięte pakiety głosowe nie będą aktualizowane wraz z przyszłymi aktualizacjami gry.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_COMINGSOON_body","source":"Coming soon","translation":"Wkrótce","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_DOWNLOAD_body","source":"{0}% downloaded","translation":"Pobrano {0}% danych","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_NONE_body","source":"Uninstalled","translation":"Odinstalowano","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_REMOBAL_body","source":"Removing","translation":"Usuwanie","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_USE_body","source":"Active","translation":"Aktywny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_body","source":"Voice","translation":"Głos","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_VOICE_body","source":"Voice","translation":"Głos","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_body","source":"Language","translation":"Język","status":"draft"}
-{"id":"String_UI_SETTING_TAB_ETC_body","source":"Miscellaneous","translation":"Różne","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_DUEL_AUTOREJECT_DESC_body","source":"Automatically declines duel requests.","translation":"Automatycznie odrzuca prośby o pojedynek.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_DUEL_AUTOREJECT_body","source":"Auto Decline Duel Requests","translation":"Automatyczne odrzucanie pojedynków","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_EXCHANGE_AUTOREJECT_DESC_body","source":"Automatically declines personal trade requests.","translation":"Automatycznie odrzuca prośby o wymianę osobistą.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_EXCHANGE_AUTOREJECT_body","source":"Auto Decline Personal Trade","translation":"Automatyczne odrzucanie wymian osobistych","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_INFO_CHARACTER_INFO_DESC_body","source":"Sets the visibility of your information to other players.","translation":"Ustaw widoczność swoich informacji dla innych graczy.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_INFO_CHARACTER_INFO_body","source":"Keep My Info Hidden","translation":"Ukrywaj moje informacje","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ADVANCED_RIFTEVENT_CHARACTERSYMBOL_DESC_body","source":"Participating player nameplates will display as Tier icons within Spacetime Rift Domination. Setting this to ON simplifies the displayed information, allowing an optimized play environment.","translation":"W trybie Domination w Szczelinie Czasoprzestrzennej tabliczki graczy będą wyświetlane jako ikony rangi. Włączenie tej opcji upraszcza wyświetlane informacje i zapewnia lepsze warunki gry.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ADVANCED_RIFTEVENT_CHARACTERSYMBOL_body","source":"[Domination] Display as Tier Icon","translation":"[Domination] Wyświetlaj ikonę rangi","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_DESC_body","source":"Controls the loading screen color during teleportation.","translation":"Steruje kolorem ekranu ładowania podczas teleportacji.","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_OPTION_DARK_body","source":"Dark","translation":"Ciemny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_OPTION_LIGHT_body","source":"Bright","translation":"Jasny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_body","source":"Teleport Effect Color","translation":"Kolor efektu teleportacji","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_HIGH_body","source":"High","translation":"Wysoki","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_LOW_body","source":"Low","translation":"Niski","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_MEDIUM_body","source":"Normal","translation":"Normalny","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_VERY_HIGH_body","source":"Very High","translation":"Bardzo wysoki","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_VERY_LOW_body","source":"Very Low","translation":"Bardzo niski","status":"draft"}
-{"id":"String_UI_SETTING_TAB_GRAPHIC_SUBTAB_CAMERA_CAMERAROTATEPAD_DESC_body","source":"You can rotate the camera using the joystick displayed on the screen.\nHolding the joystick in a direction will rotate the camera continuously.\nIf you turn off the setting, you can drag the screen to rotate the camera.","translation":"Kamerę można obracać za pomocą joysticka wyświetlanego na ekranie.\nPrzytrzymanie joysticka w wybranym kierunku obraca kamerę w sposób ciągły.\nPo wyłączeniu tej opcji kamerę można obracać, przeciągając palcem po ekranie.","status":"draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_HOLDING_BUTTON3_body", "source": "1.5 seconds", "translation": "1,5 sekundy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_HOLDING_BUTTON4_body", "source": "2 seconds", "translation": "2 sekundy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_HOLDING_DESC_body", "source": "When using the virtual pad to move, Allows the Change Target button to be used at the new location for a certain amount of time.", "translation": "Podczas ruchu wirtualnym padem umożliwia użycie przycisku Zmień cel w nowym miejscu przez określony czas.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_HOLDING_body", "source": "Virtual Pad Movement Hold Time", "translation": "Czas utrzymania ruchu wirtualnym padem", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_OD_DESC_body", "source": "Automatically flies towards Odyle after approaching from the ground.", "translation": "Automatycznie leci w stronę Odyle po zbliżeniu się do niej drogą lądową.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_OD_body", "source": "Auto Flight During Odyle Extraction", "translation": "Automatyczny lot podczas pozyskiwania Odyli", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_VIRTUALPAD_body", "source": "Use Virtual Pad", "translation": "Użyj wirtualnego pada", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_CONTROL_body", "source": "Controls", "translation": "Sterowanie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_AUTOLOOTING_body", "source": "Using Loot Button", "translation": "Użycie przycisku Zbierz", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON1_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON2_body", "source": "Selected", "translation": "Wybrane", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_BUTTON3_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_DESC_body", "source": "Sets the gear grades to obtain when pressing the Loot button.", "translation": "Ustaw jakość ekwipunku zdobywanego po naciśnięciu przycisku Zbierz.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE1_DESC_body", "source": "Set whether to obtain Common Gear or not.", "translation": "Ustaw, czy zdobywać zwykły ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE1_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE2_DESC_body", "source": "Set whether to obtain Rare Gear or not.", "translation": "Ustaw, czy zdobywać rzadki ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE2_body", "source": "Rare", "translation": "Rzadki", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE3_DESC_body", "source": "Set whether to obtain Epic Gear or not.", "translation": "Ustaw, czy zdobywać epicki ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE3_body", "source": "Epic", "translation": "Epicki", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE4_DESC_body", "source": "Set whether to obtain Unique Gear or not.", "translation": "Ustaw, czy zdobywać unikatowy ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE4_body", "source": "Unique", "translation": "Unikatowy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE5_DESC_body", "source": "Set whether to obtain Heroic Gear or not.", "translation": "Ustaw, czy zdobywać heroiczny ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE5_body", "source": "Heroic", "translation": "Heroiczny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE6_DESC_body", "source": "Set whether to obtain Mythic Gear or not.", "translation": "Ustaw, czy zdobywać mityczny ekwipunek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_GRADE6_body", "source": "Mythic", "translation": "Mityczny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEMCOLLECT_body", "source": "Obtaining Gear", "translation": "Zdobywanie ekwipunku", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_COMMON_DESC_body", "source": "Set whether to obtain Common Consumables.", "translation": "Ustaw, czy zdobywać zwykłe przedmioty użytkowe.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_COMMON_body", "source": "Common Consumables", "translation": "Zwykłe przedmioty użytkowe", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_CRAFT_DESC_body", "source": "Set whether to obtain Crafting Materials.", "translation": "Ustaw, czy zdobywać materiały rzemieślnicze.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_CRAFT_body", "source": "Crafting Materials", "translation": "Materiały rzemieślnicze", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_POTION_DESC_body", "source": "Set whether to obtain Potions.", "translation": "Ustaw, czy zdobywać mikstury.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_POTION_body", "source": "Potions", "translation": "Mikstury", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_SEALSTONE_DESC_body", "source": "Set whether to obtain Power Shards.", "translation": "Ustaw, czy zdobywać Odłamki Mocy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_SEALSTONE_body", "source": "Power Shards", "translation": "Odłamki Mocy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON1_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON2_body", "source": "Selected", "translation": "Wybrane", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_BUTTON3_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_DESC_body", "source": "Sets the item type to obtain when pressing the Loot button.", "translation": "Ustaw typ przedmiotów zdobywanych po naciśnięciu przycisku Zbierz.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_ITEM_TYPE_body", "source": "Obtaining Item", "translation": "Zdobywane przedmioty", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_BUTTON1_body", "source": "Closest First", "translation": "Najpierw najbliższe", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_BUTTON2_body", "source": "Highest Grade First", "translation": "Najpierw najwyższej jakości", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_DESC_body", "source": "Sets the looting priority when pressing the Loot button.", "translation": "Ustaw priorytet zbierania łupów.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_PRIORITY_body", "source": "Loot Priority", "translation": "Priorytet łupu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_LOOTING_body", "source": "Obtain", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTORECEIVEPARTYLEADERSCAN_DESC_body", "source": "Automatically receives the party leader's scan list.", "translation": "Automatycznie odbieraj listę skanowania lidera drużyny.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTORECEIVEPARTYLEADERSCAN_body", "source": "Receive Party Leader's Scan List", "translation": "Odbieraj listę skanowania lidera drużyny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_DESC_body", "source": "Enables the use of auto scan.", "translation": "Włącza automatyczne skanowanie.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON1_body", "source": "3 seconds", "translation": "3 s", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON2_body", "source": "5 seconds", "translation": "5 s", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_BUTTON3_body", "source": "10 seconds", "translation": "10 s", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_DESC_body", "source": "Sets the auto scan's frequency.", "translation": "Ustaw częstotliwość automatycznego skanowania.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_PERIOD_body", "source": "Scan Frequency", "translation": "Częstotliwość skanowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSCAN_body", "source": "Auto Scan", "translation": "Automatyczne skanowanie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSHAREPARTYLEADERSCAN_DESC_body", "source": "Automatically shares the scan list when you are the party leader.", "translation": "Automatycznie udostępniaj listę skanowania, gdy jesteś liderem drużyny.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_AUTOSHAREPARTYLEADERSCAN_body", "source": "Share Party Leader's Scan List", "translation": "Udostępniaj listę skanowania lidera drużyny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_BUTTON1_body", "source": "Priority", "translation": "Priorytet", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_BUTTON2_body", "source": "Distance", "translation": "Odległość", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_DESC_body", "source": "Sets the scan selection criteria.", "translation": "Ustaw kryteria wyboru celów skanowania.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANSELECT_body", "source": "Scan Criteria", "translation": "Kryteria skanowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_CHECKBUTTON_SCANONLY_GATHERABLE_body", "source": "Gathered Material Below My Proficiency Level", "translation": "Surowce do zebrania poniżej mojego poziomu biegłości", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_DESC_body", "source": "Scans only Gathered Material below my Proficiency Level.", "translation": "Skanuje tylko surowce do zebrania poniżej mojego poziomu biegłości.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_ADDFILTER_body", "source": "Only Scan for Gathered Material Below My Proficiency Level", "translation": "Skanuj tylko surowce do zebrania poniżej mojego poziomu biegłości", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_RANK_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_SETTING_body", "source": "Priority Settings", "translation": "Ustawienia priorytetu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_CATEGORY_TARGET_body", "source": "Scan Target", "translation": "Cel skanowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_FILTER_body", "source": "Scan Target Filter and Priority", "translation": "Filtr i priorytet celów skanowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_GATHERFILTER_DESC_body", "source": "Specifies scanning preferences for each type of gathered material.", "translation": "Określa preferencje skanowania dla każdego rodzaju zebranego surowca.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_SCANTARGET_GATHERFILTER_body", "source": "Gathered Material Scan Settings", "translation": "Ustawienia skanowania surowców do zebrania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_USEDAEVASENSE_REFRESHSCAN_DESC_body", "source": "Renews the normal scan list when using Daeva Sense with the Scan button.", "translation": "Odświeża zwykłą listę skanowania po użyciu Zmysłu daeva przyciskiem Skanuj.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_SCAN_USEDAEVASENSE_REFRESHSCAN_body", "source": "Renew Existing Scan List When Using Daeva Sense", "translation": "Odśwież istniejącą listę skanowania przy użyciu Zmysłu daeva", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_ATTACKTARGET_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_RANK_body", "source": "Priority", "translation": "Priorytet", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_CATEGORY_SETTING_body", "source": "Priority Settings", "translation": "Ustawienia priorytetu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_DESC_body", "source": "Selects targets based on monster search distance criteria and target selection search range. If all priorities are deselected, normal monsters within range are targeted.\n*For [Scan Numbers], if the selection is set to 'By Priority,' it prioritizes targets with the smallest scan numbers.\nIf set to 'By Distance,' it chooses targets with scan numbers meeting the 'monster search distance criteria' within range.", "translation": "Wybiera cele według odległości wyszukiwania potworów oraz zasięgu wyboru celu. Jeśli nie zaznaczono żadnego priorytetu, wybierane są zwykłe potwory w zasięgu.\n*Dla [numerów skanowania], wybór „Według priorytetu” daje pierwszeństwo celom o najniższych numerach skanowania.\nWybór „Według odległości” wskazuje cele, których numery skanowania spełniają kryteria odległości wyszukiwania potworów w zasięgu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOCOMBAT_TARGET_body", "source": "Target Search in Auto Mode", "translation": "Wyszukiwanie celu w trybie automatycznym", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPARTY_TARGET_DESC_body", "source": "Automatically shares the current target with party members when you are the party leader.", "translation": "Automatycznie udostępnia obecny cel członkom drużyny, gdy jesteś jej liderem.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPARTY_TARGET_body", "source": "Automatic Share of Party Leader's Attack Target", "translation": "Automatyczne udostępnianie celu ataku lidera drużyny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_BUTTON1_body", "source": "Closest First", "translation": "Najpierw najbliższe", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_BUTTON2_body", "source": "Farthest First", "translation": "Najpierw najdalsze", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOPLAY_DISTANCE_body", "source": "By Monster Search Distance", "translation": "Według odległości wyszukiwania potworów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_ATTACK_DESC_body", "source": "Automatically searches for targets when the Basic Attack button is pressed.", "translation": "Automatycznie wyszukuje cele po naciśnięciu przycisku ataku podstawowego.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_ATTACK_body", "source": "Target Auto-Search During Basic Attacks", "translation": "Automatyczne wyszukiwanie celu podczas ataku podstawowego", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_SKILL_DESC_body", "source": "Automatically searches for targets when the Skill button is pressed.", "translation": "Automatycznie wyszukuje cele po naciśnięciu przycisku umiejętności.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_AUTOTARGET_SKILL_body", "source": "Target Auto-Search During Skill Attacks", "translation": "Automatyczne wyszukiwanie celu podczas używania umiejętności", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_COMBAT_TARGET_DESC_body", "source": "Selects targets based on search distance and target selection within the search range. If all priorities are deselected, normal monsters within range are targeted.\n*For [Scan Numbers], if the selection is set to 'By Priority,' it prioritizes targets with the smallest scan numbers.\nIf set to 'By Distance,' it chooses targets with scan numbers meeting the 'search distance criteria' within range.", "translation": "Wybiera cele według odległości wyszukiwania i zasięgu ich wyboru. Jeśli nie zaznaczono żadnego priorytetu, wybierane są zwykłe potwory w zasięgu.\n*Dla [numerów skanowania], wybór „Według priorytetu” daje pierwszeństwo celom o najniższych numerach skanowania.\nWybór „Według odległości” wskazuje cele, których numery skanowania spełniają kryteria odległości wyszukiwania w zasięgu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_COMBAT_TARGET_body", "source": "Manual Combat Target Search", "translation": "Ręczne wyszukiwanie celu w walce", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DESC_body", "source": "※ Targets will be selected when using the TAB key and targeted skills.\n※ Target scanning will only scan hostile targets.\n※ Scan direction priority and detailed target scanning settings will affect scanning priority.", "translation": "※ Cele będą wybierane po użyciu klawisza TAB i umiejętności wymagających celu.\n※ Skanowane są tylko wrogie cele.\n※ Priorytet kierunku skanowania i szczegółowe ustawienia celów wpływają na kolejność skanowania.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT1_body", "source": "Priority", "translation": "Priorytet", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT2_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_SORT3_body", "source": "Priority Settings", "translation": "Ustawienia priorytetu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE1_body", "source": "Priority", "translation": "Priorytet", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE2_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_TYPE3_body", "source": "Priority Settings", "translation": "Ustawienia priorytetu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DETAILPRIORITY_body", "source": "Scanning Target Detailed Settings", "translation": "Szczegółowe ustawienia skanowania celów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON1_body", "source": "Front of Character", "translation": "Przed postacią", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON2_body", "source": "Front of Camera", "translation": "Przed kamerą", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTIONE_BUTTON3_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON1_body", "source": "Front of Character", "translation": "Przed postacią", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON2_body", "source": "Front of Camera", "translation": "Przed kamerą", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_BUTTON3_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_DESC_body", "source": "Set the default direction used when scanning for targets with the [Change Target] key and targeted skills.", "translation": "Ustaw domyślny kierunek skanowania celów klawiszem [Zmień cel] i umiejętnościami wymagającymi celu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_DIRECTION_body", "source": "Preferred Search Direction", "translation": "Preferowany kierunek wyszukiwania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON1_body", "source": "Priority Ranking", "translation": "Ranking priorytetów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON2_body", "source": "Closest First", "translation": "Najpierw najbliższe", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_BUTTON3_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORITY_body", "source": "Target Scanning Detailed Settings", "translation": "Szczegółowe ustawienia skanowania celów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DETECT_PRIORIT_DESC_body", "source": "Set the order in which targets are scanned.", "translation": "Ustaw kolejność skanowania celów.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_BUTTON1_body", "source": "Closest First", "translation": "Najpierw najbliższe", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_BUTTON2_body", "source": "Farthest First", "translation": "Najpierw najdalsze", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_DISTANCE_body", "source": "By Search Distance", "translation": "Według odległości wyszukiwania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON1_body", "source": "20M", "translation": "20 m", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON2_body", "source": "30M", "translation": "30 m", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON3_body", "source": "40M", "translation": "40 m", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_BUTTON4_body", "source": "50M", "translation": "50 m", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_FINDTARGET_RADIUS_body", "source": "Search Range", "translation": "Zasięg wyszukiwania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_BUTTON1_body", "source": "OFF Only During Ground Click Movement", "translation": "Wyłącz tylko podczas ruchu po kliknięciu ziemi", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_DESC_body", "source": "Keeps your attack state active while moving.", "translation": "Utrzymuje aktywny stan ataku podczas ruchu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPATTACK_MOVE_body", "source": "Maintain Attack State in Motion", "translation": "Utrzymuj stan ataku podczas ruchu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPAUTOCOMBAT_MOVE_DESC_body", "source": "Keeps Auto Combat active while moving.", "translation": "Utrzymuje aktywny tryb automatycznej walki podczas ruchu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPAUTOCOMBAT_MOVE_body", "source": "Auto Combat Movement", "translation": "Ruch w trybie automatycznej walki", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPTARGET_GROUND_DESC_body", "source": "Prevents target from being deselected when you tap on the ground.", "translation": "Nie odznacza celu po kliknięciu ziemi.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_KEEPTARGET_GROUND_body", "source": "Lock Target After Ground Tap", "translation": "Blokada celu po kliknięciu ziemi", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_BUTTON1_body", "source": "Exclude Party and Legion", "translation": "Wyklucz Drużynę i Legion", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_DESC_body", "source": "Monsters that have already been attacked by other players are excluded as targets.", "translation": "Potwory zaatakowane już przez innych graczy są wykluczane z celów.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_MANNERMODE_body", "source": "Fair Play Mode", "translation": "Tryb fair play", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_BUTTON1_body", "source": "Priority", "translation": "Priorytet", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_BUTTON2_body", "source": "Distance", "translation": "Odległość", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_PRIORITY_body", "source": "By Target Selection", "translation": "Według wyboru celu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_TAB_DISTANCE_BUTTON2_body", "source": "Farthest Target First", "translation": "Najpierw najdalszy cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_TARGETSEARCH_body", "source": "Target Scanning", "translation": "Skanowanie celów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUBTAB_TARGETSEARCH_body", "source": "Target Scanning", "translation": "Skanowanie celów", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_SUB_SLIDEOPTION_TEXT_body", "source": "px", "translation": "px", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_BATTLE_body", "source": "Combat", "translation": "Walka", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_1_body", "source": "Hostile Target", "translation": "Wrogi cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_2_body", "source": "Friendly Target, Neutral Target", "translation": "Przyjazny lub neutralny cel", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMFILTER_body", "source": "Select Aimable Target", "translation": "Wybierz cel możliwy do namierzenia", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMHEIGHT_body", "source": "Adjust Aim Position", "translation": "Dostosuj pozycję celownika", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMQUICKSLOTCONTROL_body", "source": "Maintain Aimed Target After Long-Pressing Quick Slot", "translation": "Utrzymuj namierzony cel po przytrzymaniu szybkiego slotu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIMTARGETDISTANCE_body", "source": "Display Distance to Aimed Target", "translation": "Pokaż odległość do namierzonego celu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIM_DESC_body", "source": "Set Display Aim Settings.", "translation": "Ustaw opcje wyświetlania celownika.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AIM_body", "source": "Display Aim", "translation": "Wyświetlanie celownika", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AION2_DESC_body", "source": "Cursor is hidden by default.\nHowever, pressing [Alt] or opening the UI will display the cursor.\nCharacter is moveable only by keyboard.\nCharacter camera can be rotated just by moving the mouse without the need of clicking.\nSkills can be used with mouse buttons.", "translation": "Kursor jest domyślnie ukryty.\nPo naciśnięciu [Alt] lub otwarciu interfejsu kursor zostaje wyświetlony.\nPostacią można poruszać wyłącznie za pomocą klawiatury.\nKamerę postaci można obracać ruchem myszy, bez klikania.\nUmiejętności można aktywować przyciskami myszy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_AION2_body", "source": "AION 2", "translation": "AION 2", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_CLASSIC_DESC_body", "source": "Cursor is always active.\nRotate camera through mouse click and drag.\nSkills using mouse buttons are unavailable.\nMovement and manual target using mouse is available.\nDouble clicking after targeting will move the character towards the target.", "translation": "Kursor jest zawsze aktywny.\nObracaj kamerę, klikając i przeciągając myszą.\nUmiejętności aktywowane przyciskami myszy są niedostępne.\nMyszą można się poruszać i ręcznie wybierać cele.\nDwukrotne kliknięcie wybranego celu powoduje, że postać rusza w jego kierunku.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_CLASSIC_body", "source": "AION 1", "translation": "AION 1", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_1_body", "source": "Interact After Auto Move", "translation": "Interakcja po automatycznym ruchu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_2_body", "source": "Auto Move", "translation": "Automatyczny ruch", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_3_body", "source": "Do Not Use Auto Move", "translation": "Nie używaj automatycznego ruchu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_DESC_body", "source": "Able to change auto move to the quest objective and interaction settings.", "translation": "Umożliwia zmianę ustawień automatycznego ruchu do celu zadania i interakcji.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_QUESTTRACE_body", "source": "Quest Auto Move Permission Settings", "translation": "Ustawienia zezwolenia na automatyczny ruch do zadania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLREUSE_DESC_body", "source": "Activated only when a target is being tracked.\nIf Basic Attack is used while a target is selected, the Basic Attack skill will be used repeatedly.", "translation": "Aktywuje się tylko podczas śledzenia celu.\nJeśli po wybraniu celu użyjesz ataku podstawowego, będzie on powtarzany.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLREUSE_body", "source": "Use Basic Attack Repeatedly", "translation": "Używaj wielokrotnie ataku podstawowego", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLTRACE_DESC_body", "source": "If target is trackable upon skill activation, automatically pursue the target until the skill range requirement is met.", "translation": "Jeśli cel można namierzyć po aktywowaniu umiejętności, postać automatycznie podejdzie do niego na jej zasięg.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_SKILLTRACE_body", "source": "Pursue Targets with Skill Activation", "translation": "Podążaj za celem po aktywowaniu umiejętności", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_COMMON_body", "source": "General Control Mode Settings", "translation": "Ogólne ustawienia sterowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_DESC_MOBILE_body", "source": "Setting Control Mode.", "translation": "Ustawienia trybu sterowania.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_DESC_body", "source": "Sets the control mode.\n\n[AION 2]\nSuitable for users that like action RPG-style combat controls.\nAiming (with a reticle) is possible, and the mouse pointer is deactivated by default.\nWhen pressing [Alt] or opening a window in the UI, the mouse pointer is displayed to operate the UI.\nThe camera can be rotated just by moving the mouse without the need of clicking.\nCharacter movement can be controlled only by keyboard.\n\n[AION 1]\nProvides a control scheme similar to that of the original AION.\nThe mouse pointer is always activated.\nThe camera can be rotated by clicking and dragging the mouse.\nTarget selection and movement controls are done with the mouse.", "translation": "Ustawianie trybu sterowania.\n\n[AION 2]\nOdpowiedni dla osób preferujących sterowanie w stylu gier akcji RPG.\nMożna celować za pomocą celownika, a kursor myszy jest domyślnie wyłączony.\nNaciśnięcie [Alt] lub otwarcie okna interfejsu wyświetla kursor myszy, aby można było obsługiwać interfejs.\nKamerę można obracać samym ruchem myszy, bez klikania.\nPostacią można sterować wyłącznie za pomocą klawiatury.\n\n[AION 1]\nOferuje schemat sterowania podobny do oryginalnego AION.\nKursor myszy jest zawsze aktywny.\nKamerę można obracać, klikając i przeciągając myszą.\nWybieranie celów i poruszanie się odbywa się za pomocą myszy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKKEY_DESC_body", "source": "Use mouse clicks as a quickslot or UI shortcut.", "translation": "Używaj kliknięć myszy jako skrótu do szybkiego slotu lub interfejsu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKKEY_body", "source": "Activate Mouse Click Shortcut", "translation": "Aktywuj skróty kliknięć myszy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKTARGET_DESC_body", "source": "Use the mouse click to set the aimed target as the main target.", "translation": "Kliknięciem myszy ustaw namierzony cel jako główny cel.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSECLICKTARGET_body", "source": "Select Target with Mouse Click", "translation": "Wybieraj cel kliknięciem myszy", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEOVERTARGETDISTANCE_body", "source": "Display Distance to Target on Mouseover", "translation": "Pokaż odległość do celu po najechaniu kursorem", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEOVER_body", "source": "Attack Target on Mouseover", "translation": "Atakuj cel po najechaniu kursorem", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINTMOVETARGET_body", "source": "Maintain Target After Ground Tap", "translation": "Zachowaj wybrany cel po kliknięciu ziemi", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINTMOVE_body", "source": "Click Ground to Move", "translation": "Kliknij ziemię, aby się poruszyć", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINT_DESC_body", "source": "Display Cursor Settings.\nCamera rotation controls will change based on cursor display settings.", "translation": "Ustawienia wyświetlania kursora.\nSterowanie obrotem kamery zależy od ustawień wyświetlania kursora.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOUSEPOINT_body", "source": "Display Cursor", "translation": "Wyświetlanie kursora", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_AXISMOVEMENT_body", "source": "Facing Front of Camera", "translation": "Przodem do kamery", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_DESC_body", "source": "Set Character Movement Option. (WIP)", "translation": "Ustaw opcję ruchu postaci. (WIP)", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_FREEMOVEMENT_body", "source": "Facing Movement Direction", "translation": "W kierunku ruchu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_MOVETYPE_body", "source": "Character Movement Option", "translation": "Opcja ruchu postaci", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_PC_body", "source": "[PC] Control Mode", "translation": "[PC] Tryb sterowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SELFSKILLFINDTARGET_DESC_body", "source": "When no main target is selected, the skill will automatically designate the hit target as the main target.", "translation": "Gdy nie wybrano głównego celu, umiejętność automatycznie ustawi trafiony cel jako główny.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SELFSKILLFINDTARGET_body", "source": "Set the Auto Target when there is a Hit Target", "translation": "Ustaw automatyczny wybór celu po trafieniu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_2_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_DESC_body", "source": "Allows for a main target to be automatically selected when a skill requiring a target is used.", "translation": "Umożliwia automatyczne wybranie głównego celu podczas używania umiejętności wymagającej celu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_SKILLFINDTARGET_body", "source": "Auto Target Upon Skill Use", "translation": "Automatyczny wybór celu przy użyciu umiejętności", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_VIRTUALPAD_FLYSPRINT_DESC_body", "source": "Choose whether to use Sprint during Flight when using the Virtual Pad", "translation": "Wybierz, czy używać Sprintu podczas lotu na wirtualnym padzie.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_VIRTUALPAD_FLYSPRINT_body", "source": "Uses Sprint during Flight when using the Virtual Pad", "translation": "Używa Sprintu podczas lotu na wirtualnym padzie.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_MODE_body", "source": "Control Mode", "translation": "Tryb sterowania", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_SUBTAB_CONTROL_body", "source": "Controls", "translation": "Sterowanie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_CONTROL_body", "source": "Controls", "translation": "Sterowanie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_BUTTON_DOWNLOAD_body", "source": "Download", "translation": "Pobierz", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_BUTTON_PAUSE_body", "source": "Pause", "translation": "Wstrzymaj", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_DOWNLOAD_body", "source": "Downloading Files", "translation": "Pobieranie plików", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_INSTALL_body", "source": "Installing package", "translation": "Instalowanie pakietu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_PROCESS_PAUSE_body", "source": "Pause", "translation": "Wstrzymaj", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_STATE_COMPLETE_body", "source": "Selection Complete", "translation": "Wybór zakończony", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_PACKAGE_STATE_IMCOMPLETE_body", "source": "Not Installed", "translation": "Nie zainstalowano", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_DATA_body", "source": "Data", "translation": "Dane", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_APPLE_body", "source": "Apple Login", "translation": "Logowanie przez Apple", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_CHANGE_body", "source": "Log in as different account", "translation": "Zaloguj się na inne konto", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_FACEBOOK_body", "source": "Facebook Login", "translation": "Logowanie przez Facebooka", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_GOOGLE_body", "source": "Google Login", "translation": "Logowanie przez Google", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINE_body", "source": "Line Login", "translation": "Logowanie przez LINE", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_NOW_body", "source": "Account Linking", "translation": "Łączenie konta", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_OTHER_body", "source": "The account contains saved info.\nPlease select another account.", "translation": "Konto zawiera zapisane informacje.\nWybierz inne konto.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_POPUP_body", "source": "Select an account to link.", "translation": "Wybierz konto do połączenia.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_LINK_body", "source": "Account Linking", "translation": "Łączenie konta", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_NC_body", "source": "Login with ID or Email", "translation": "Zaloguj się za pomocą identyfikatora lub adresu e-mail", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_PHONE_body", "source": "Login with Phone Number", "translation": "Zaloguj się za pomocą numeru telefonu", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_RESET_POPUP_body", "source": "Resetting the account deletes all game data.\nDo you want to reset the account?", "translation": "Zresetowanie konta usunie wszystkie dane gry.\nCzy chcesz zresetować konto?", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_RESET_body", "source": "Reset Account", "translation": "Zresetuj konto", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_VK_body", "source": "VK Login", "translation": "Logowanie przez VK", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_X_body", "source": "X Login", "translation": "Logowanie przez X", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_ACCOUNT_body", "source": "Current Account", "translation": "Bieżące konto", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_HINTTEXT_body", "source": "Please enter the coupon code.", "translation": "Wpisz kod kuponu.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_COUPON_body", "source": "Enter Coupon", "translation": "Wpisz kupon", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_CS_body", "source": "Customer Center", "translation": "Centrum obsługi klienta", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GPGS_FAIL_POPUP_body", "source": "Failed to connect to Google Play Games Services.", "translation": "Nie udało się połączyć z usługami Google Play Games.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GPGS_body", "source": "Google Play Integration", "translation": "Integracja z Google Play", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_GUEST_body", "source": "Guest", "translation": "Gość", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LEAVE_body", "source": "Delete", "translation": "Usuń", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LOGOUT_POPUP_body", "source": "Do you want to log out?", "translation": "Czy chcesz się wylogować?", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_LOGOUT_body", "source": "Logout", "translation": "Wyloguj", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_NAME_body", "source": "Character Name", "translation": "Nazwa postaci", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PRIVACY_POLICY_JP_body", "source": "Legal Notation", "translation": "Informacje prawne", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PRIVACY_POLICY_body", "source": "Privacy Policy", "translation": "Polityka prywatności", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_PROBABILITY_INFO_body", "source": "NC Probability Info", "translation": "Informacje o prawdopodobieństwie NC", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_SERVER_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_VERSION_body", "source": "Version Info", "translation": "Informacje o wersji", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_ACCOUNT_body", "source": "Account", "translation": "Konto", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_LANGUAGE_body", "source": "Language", "translation": "Język", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_LANGUAGE_body", "source": "Language", "translation": "Język", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_CANCEL_DESC_body", "source": "Cancel voice pack download?", "translation": "Anulować pobieranie pakietu głosowego?", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_DESC_body", "source": "Download selected {0} voice pack(s)?", "translation": "Pobrać wybrane pakiety głosowe ({0})?", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_DOWNLOAD_REMOVAL_DESC_body", "source": "Are you sure you would like to delete the {0} voice pack?\nDeleted voice packs will no longer be updated by future game updates.", "translation": "Czy na pewno chcesz usunąć pakiet głosowy {0}?\nUsunięte pakiety głosowe nie będą aktualizowane wraz z przyszłymi aktualizacjami gry.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_COMINGSOON_body", "source": "Coming soon", "translation": "Wkrótce", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_DOWNLOAD_body", "source": "{0}% downloaded", "translation": "Pobrano {0}% danych", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_NONE_body", "source": "Uninstalled", "translation": "Nie zainstalowano", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_REMOBAL_body", "source": "Removing", "translation": "Usuwanie", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_STATE_USE_body", "source": "Active", "translation": "Aktywny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_POPUP_VOICE_body", "source": "Voice", "translation": "Głos", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_VOICE_body", "source": "Voice", "translation": "Głos", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_SUBTAB_LANGUAGE_body", "source": "Language", "translation": "Język", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_ETC_body", "source": "Miscellaneous", "translation": "Różne", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_DUEL_AUTOREJECT_DESC_body", "source": "Automatically declines duel requests.", "translation": "Automatycznie odrzuca prośby o pojedynek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_DUEL_AUTOREJECT_body", "source": "Auto Decline Duel Requests", "translation": "Automatyczne odrzucanie pojedynków", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_EXCHANGE_AUTOREJECT_DESC_body", "source": "Automatically declines personal trade requests.", "translation": "Automatycznie odrzuca prośby o wymianę osobistą.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_CONVENIENCE_EXCHANGE_AUTOREJECT_body", "source": "Auto Decline Personal Trade", "translation": "Automatyczne odrzucanie wymian osobistych", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_INFO_CHARACTER_INFO_DESC_body", "source": "Sets the visibility of your information to other players.", "translation": "Ustaw widoczność swoich informacji dla innych graczy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GAMEPLAY_SUBTAB_INFO_CHARACTER_INFO_body", "source": "Keep My Info Hidden", "translation": "Ukrywaj moje informacje", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ADVANCED_RIFTEVENT_CHARACTERSYMBOL_DESC_body", "source": "Participating player nameplates will display as Tier icons within Spacetime Rift Domination. Setting this to ON simplifies the displayed information, allowing an optimized play environment.", "translation": "W trybie Dominacji w Szczelinie czasoprzestrzennej tabliczki graczy będą wyświetlane jako ikony rangi. Włączenie tej opcji upraszcza wyświetlane informacje i zapewnia lepsze warunki gry.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ADVANCED_RIFTEVENT_CHARACTERSYMBOL_body", "source": "Spacetime Rift: Domination", "translation": "Szczelina Czasoprzestrzenna: Dominacja", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_DESC_body", "source": "Controls the loading screen color during teleportation.", "translation": "Steruje kolorem ekranu ładowania podczas teleportacji.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_OPTION_DARK_body", "source": "Dark", "translation": "Ciemny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_OPTION_LIGHT_body", "source": "Bright", "translation": "Jasny", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_ETC_TELEPORT_COLOR_body", "source": "Teleport Effect Color", "translation": "Kolor efektu teleportacji", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_GRAPHIC_OPTION_COMMON_HIGH_body", "source": "High", "translation": "Wysoki", "status": "draft"}

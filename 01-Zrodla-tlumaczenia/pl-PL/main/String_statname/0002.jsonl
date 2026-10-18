@@ -9,8 +9,8 @@
 {"id": "String_StatName_Justice_body", "source": "Justice [Nezekan]", "translation": "Sprawiedliwość [Nezekan]", "status": "draft"}
 {"id": "String_StatName_KnockdownAccuracy_body", "source": "Knockdown Chance", "translation": "Szansa na powalenie", "status": "draft"}
 {"id": "String_StatName_KnockdownResist_body", "source": "Knockdown Resist", "translation": "Odporność na powalenie", "status": "draft"}
-{"id": "String_StatName_KnockdownTimeDecrease_body", "source": "Knockdown duration reduction", "translation": "Skrócenie czasu powalenie", "status": "draft"}
-{"id": "String_StatName_KnockdownTimeIncrease_body", "source": "Knockdown duration increase", "translation": "Wydłużenie czasu powalenie", "status": "draft"}
+{"id": "String_StatName_KnockdownTimeDecrease_body", "source": "Knockdown duration reduction", "translation": "Skrócenie czasu powalenia", "status": "draft"}
+{"id": "String_StatName_KnockdownTimeIncrease_body", "source": "Knockdown duration increase", "translation": "Wydłużenie czasu powalenia", "status": "draft"}
 {"id": "String_StatName_Life_body", "source": "Life [Yustiel]", "translation": "Życie [Yustiel]", "status": "draft"}
 {"id": "String_StatName_Light_body", "source": "Light [Ariel]", "translation": "Światło [Ariel]", "status": "draft"}
 {"id": "String_StatName_LimitAccuracy_body", "source": "[Amplify] Accuracy", "translation": "[Premia] Celność", "status": "draft"}
@@ -31,8 +31,8 @@
 {"id": "String_StatName_LimitWeaponBlock_body", "source": "[Amplify] Parry", "translation": "[Premia] Parowanie", "status": "draft"}
 {"id": "String_StatName_MPMax_body", "source": "MP", "translation": "PM", "status": "draft"}
 {"id": "String_StatName_MPRegen_body", "source": "Natural MP Regen", "translation": "Naturalna regeneracja PM", "status": "draft"}
-{"id": "String_StatName_MPUseDecrease_body", "source": "MP Cost Reduction", "translation": "PM kosztu redukcji", "status": "draft"}
-{"id": "String_StatName_MPUseIncrease_body", "source": "MP Cost", "translation": "PM kosztu", "status": "draft"}
+{"id": "String_StatName_MPUseDecrease_body", "source": "MP Cost Reduction", "translation": "Redukcja kosztu PM", "status": "draft"}
+{"id": "String_StatName_MPUseIncrease_body", "source": "MP Cost", "translation": "Koszt PM", "status": "draft"}
 {"id": "String_StatName_MaceDamageRatio_body", "source": "Mace Attack increase", "translation": "Zwiększenie ataku buławą", "status": "draft"}
 {"id": "String_StatName_MagicAccuracy_body", "source": "Magic Chance Bonus", "translation": "Premia do szansy trafienia magią", "status": "draft"}
 {"id": "String_StatName_MagicArmorDefenseRatio_body", "source": "Armor Magic Defense increase", "translation": "Zwiększenie obrony magicznej pancerza", "status": "draft"}
@@ -91,8 +91,8 @@
 {"id": "String_StatName_PantsDefenseRatio_body", "source": "Legs Defense increase", "translation": "Zwiększenie obrony spodni", "status": "draft"}
 {"id": "String_StatName_ParalysisAccuracy_body", "source": "Paralyze Chance", "translation": "Szansa na paraliż", "status": "draft"}
 {"id": "String_StatName_ParalysisResist_body", "source": "Paralyze Resist", "translation": "Odporność na paraliż", "status": "draft"}
-{"id": "String_StatName_ParalysisTimeDecrease_body", "source": "Paralyze duration reduction", "translation": "Skrócenie czasu paraliż", "status": "draft"}
-{"id": "String_StatName_ParalysisTimeIncrease_body", "source": "Paralyze duration increase", "translation": "Wydłużenie czasu paraliż", "status": "draft"}
+{"id": "String_StatName_ParalysisTimeDecrease_body", "source": "Paralyze duration reduction", "translation": "Skrócenie czasu paraliżu", "status": "draft"}
+{"id": "String_StatName_ParalysisTimeIncrease_body", "source": "Paralyze duration increase", "translation": "Wydłużenie czasu paraliżu", "status": "draft"}
 {"id": "String_StatName_PerfectResist_body", "source": "Perfect Resist", "translation": "Odporność na perfekcyjne trafienia", "status": "draft"}
 {"id": "String_StatName_Perfect_body", "source": "Perfect Chance", "translation": "Szansa na perfekcyjne trafienie", "status": "draft"}
 {"id": "String_StatName_PhysicAccuracy_body", "source": "Physical Accuracy Bonus", "translation": "Premia do celności fizycznej", "status": "draft"}
@@ -115,17 +115,17 @@
 {"id": "String_StatName_PhysicSkillDefense_body", "source": "Physical Skill Defense", "translation": "Obrona przed umiejętnościami fizycznymi", "status": "draft"}
 {"id": "String_StatName_PhysicSkillEvasion_body", "source": "Physical Skill Evasion", "translation": "Uniki przed umiejętnościami fizycznymi", "status": "draft"}
 {"id": "String_StatName_PhysicWeaponAccuracy_body", "source": "Physical Accuracy", "translation": "Celność fizyczna", "status": "draft"}
-{"id": "String_StatName_PhysicWeaponDamage_body", "source": "Max Physical Attack", "translation": "maksymalny atak fizyczny", "status": "draft"}
+{"id": "String_StatName_PhysicWeaponDamage_body", "source": "Max Physical Attack", "translation": "Maksymalny atak fizyczny", "status": "draft"}
 {"id": "String_StatName_PhysicWeaponFixingDamage_body", "source": "Physical Attack", "translation": "Atak fizyczny", "status": "draft"}
-{"id": "String_StatName_PhysicWeaponMinDamage_body", "source": "Min Physical Attack", "translation": "minimalny atak fizyczny", "status": "draft"}
+{"id": "String_StatName_PhysicWeaponMinDamage_body", "source": "Min Physical Attack", "translation": "Minimalny atak fizyczny", "status": "draft"}
 {"id": "String_StatName_PoisonAccuracy_body", "source": "Poison Chance", "translation": "Szansa na zatrucie", "status": "draft"}
 {"id": "String_StatName_PoisonResist_body", "source": "Poison Resist", "translation": "Odporność na zatrucie", "status": "draft"}
-{"id": "String_StatName_PoisonTimeDecrease_body", "source": "Poison duration reduction", "translation": "Skrócenie czasu zatrucie", "status": "draft"}
-{"id": "String_StatName_PoisonTimeIncrease_body", "source": "Poison duration increase", "translation": "Wydłużenie czasu zatrucie", "status": "draft"}
+{"id": "String_StatName_PoisonTimeDecrease_body", "source": "Poison duration reduction", "translation": "Skrócenie czasu zatrucia", "status": "draft"}
+{"id": "String_StatName_PoisonTimeIncrease_body", "source": "Poison duration increase", "translation": "Wydłużenie czasu zatrucia", "status": "draft"}
 {"id": "String_StatName_PolymorphAccuracy_body", "source": "Polymorph Chance", "translation": "Szansa na przemianę", "status": "draft"}
 {"id": "String_StatName_PolymorphResist_body", "source": "Polymorph Resist", "translation": "Odporność na przemianę", "status": "draft"}
-{"id": "String_StatName_PolymorphTimeDecrease_body", "source": "Polymorph duration reduction", "translation": "Skrócenie czasu przemianę", "status": "draft"}
-{"id": "String_StatName_PolymorphTimeIncrease_body", "source": "Polymorph duration increase", "translation": "Wydłużenie czasu przemianę", "status": "draft"}
+{"id": "String_StatName_PolymorphTimeDecrease_body", "source": "Polymorph duration reduction", "translation": "Skrócenie czasu przemiany", "status": "draft"}
+{"id": "String_StatName_PolymorphTimeIncrease_body", "source": "Polymorph duration increase", "translation": "Wydłużenie czasu przemiany", "status": "draft"}
 {"id": "String_StatName_ProxyMPUseDecrease_body", "source": "Illusion MP Consumed reduction", "translation": "Zmniejszenie zużycia PM przez iluzję", "status": "draft"}
 {"id": "String_StatName_PureMaxDamage_body", "source": "Max Guaranteed Damage", "translation": "Maksymalne gwarantowane obrażenia", "status": "draft"}
 {"id": "String_StatName_PureMinDamage_body", "source": "Min Guaranteed Damage", "translation": "Minimalne gwarantowane obrażenia", "status": "draft"}

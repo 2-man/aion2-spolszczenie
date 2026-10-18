@@ -1,250 +1,250 @@
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_LOCKED_SLOT_body","source":"Unlock Insight Lv. {0}","translation":"Odblokuj wnikliwość poz. {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_EFFECT_body","source":"Properties","translation":"Właściwości","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_COMMON_body","source":"Common","translation":"Wspólne","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_EPIC_body","source":"Heroic","translation":"Bohaterskie","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_LEGEND_body","source":"Epic","translation":"Epickie","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_NO_SELECT_body","source":"None","translation":"Brak","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_RARE_body","source":"Rare","translation":"Rzadkie","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_UNIQUE_body","source":"Unique","translation":"Unikatowe","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_MAX_VALUE_body","source":"Max Value","translation":"Maks. wartość","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_MIN_VALUE_body","source":"Min Value","translation":"Min. wartość","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SLOT_OPTION_SELECTED_body","source":"Applying...","translation":"Stosowanie...","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SLOT_body","source":"Slot {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SOULCRYSTAL_CONSUME_OPTION_body","source":"Use Soul Crystal","translation":"Użyj kryształu duszy","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_TOOLTIP_body","source":"<Title_List_CurCount>Auto-Analysis</>\nAutomatically analyzes the genus until a property at or above the selected minimum grade appears.\nAuto-Analysis will end when one or more of the set conditions have been met.\n\n<Title_List_CurCount>Property Grade</>\nSelect the target property grade. Analysis continues automatically until a property of the selected grade or higher appears.\nThe available grade range depends on the Genus Insight level.\n\n<Title_List_CurCount>Min/Max Value</>\nShows the minimum and maximum values possible for the selected property grade.\nThe minimum and maximum values vary depending on the selected grade.\n\n<Title_List_CurCount>Soul Crystal Use Options</>\nSets whether to use universal Soul Crystals.\nUncheck this option to only use Genus-specific Soul Crystals for Auto-Analysis.\nThese settings are saved on a per character basis.","translation":"<Title_List_CurCount>Automatyczna analiza</>\nAutomatycznie analizuje rodzaj, aż pojawi się właściwość o co najmniej wybranej minimalnej klasie.\nAnaliza automatyczna zakończy się po spełnieniu co najmniej jednego z ustawionych warunków.\n\n<Title_List_CurCount>Klasa właściwości</>\nWybierz docelową klasę właściwości. Analiza będzie kontynuowana automatycznie, aż pojawi się właściwość wybranej lub wyższej klasy.\nDostępny zakres klas zależy od poziomu wnikliwości rodzaju.\n\n<Title_List_CurCount>Wartość min./maks.</>\nPokazuje minimalną i maksymalną wartość możliwą dla wybranej klasy właściwości.\nMinimalna i maksymalna wartość zależą od wybranej klasy.\n\n<Title_List_CurCount>Opcje użycia kryształów dusz</>\nOkreśla, czy używać uniwersalnych kryształów dusz.\nOdznacz tę opcję, aby podczas analizy automatycznej używać wyłącznie kryształów dusz danego rodzaju.\nUstawienia są zapisywane osobno dla każdej postaci.","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_UI_NAME_body","source":"Set Auto Analysis Target for {0} Genus","translation":"Ustaw cel automatycznej analizy dla rodzaju {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_TAB_EFFECT_body","source":"All Applied Effects","translation":"Wszystkie zastosowane efekty","status":"draft"}
-{"id":"String_UI_VEHICLE_CREATURE_TAB_INFO_body","source":"Insight Info","translation":"Informacje o wnikliwości","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_AUTO_SELECT_BTN_body","source":"Register All","translation":"Zarejestruj wszystkie","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_GUIDE_body","source":"You will obtain a pet soul crystal upon crystallizing.","translation":"Podczas krystalizacji otrzymasz kryształ duszy wierzchowca.","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_HAVE_body","source":"Owned Soul Crystal","translation":"Posiadane kryształy dusz","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_MATERIAL_NOTENOUGH_body","source":"No souls owned.","translation":"Nie masz dusz.","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_RESULT_OK_BTN_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_RESULT_TITLE_body","source":"Crystallization Complete","translation":"Krystalizacja ukończona","status":"draft"}
-{"id":"String_UI_VEHICLE_CRYSTAL_START_BTN_body","source":"Crystallize","translation":"Krystalizuj","status":"draft"}
-{"id":"String_UI_VEHICLE_INFO_EQUIP_STAT_body","source":"Equipped Effect","translation":"Założony efekt","status":"draft"}
-{"id":"String_UI_VEHICLE_INFO_SPEED_body","source":"Mount Speed","translation":"Szybkość wierzchowca","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_CANCEL_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_CREAETURE_EXP_body","source":"EXP","translation":"PD","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_CREAETURE_GUIDE_body","source":"Pet Insight Level-ups grant additional Genus Insight EXP for that pet's genus.","translation":"Awans poziomu wnikliwości wierzchowca zapewnia dodatkowe PD wnikliwości rodzaju danego wierzchowca.","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_LEVEL_MAX_body","source":"Lv. {0} (MAX)","translation":"Poz. {0} (MAKS.)","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_MATERIAL_EXP_body","source":"EXP","translation":"PD","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_MATERIAL_SELECT_GUIDE_body","source":"Select a soul to use as material from the list on the left.","translation":"Wybierz z listy po lewej duszę, która ma posłużyć jako materiał.","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_MAX_LEVEL_BTN_body","source":"Max Level","translation":"Maksymalny poziom","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_NEXT_LEVEL_BTN_body","source":"Next Level","translation":"Następny poziom","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_SAME_BTN_body","source":"Identical Soul","translation":"Identyczna dusza","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_START_POPUP_CANCLE_BTN_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_START_POPUP_DESC_body","source":"You will exceed max EXP after analysis.\nExcess EXP will lost.\nAre you sure you wish to proceed with pet analysis?","translation":"Po analizie przekroczysz maksymalną liczbę PD.\nNadmiarowe PD zostaną utracone.\nCzy na pewno chcesz kontynuować analizę wierzchowca?","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_START_POPUP_OK_BTN_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_VEHICLE_LEVELUP_TITLE_body","source":"Pet Insight","translation":"Wnikliwość wierzchowca","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_BTN_EQUIP_body","source":"Equip","translation":"Załóż","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_BTN_GET_body","source":"Obtain","translation":"Zdobądź","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_COLLECTION_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_COLLECTION_REWARD_GET_body","source":"GET","translation":"ZDOBĄDŹ","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_COLLECTION_TITLE_body","source":"Collection Status","translation":"Stan kolekcji","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_EQUIP_body","source":"Equipped","translation":"Założone","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_CREAETURE_EXP_body","source":"({0}/{1})","translation":"({0}/{1})","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_CREAETURE_LEVEL_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_CREAETURE_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_EQUIP_OPTION_body","source":"Equipped Effect","translation":"Założony efekt","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_EXP_body","source":"({0}/{1})","translation":"({0}/{1})","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_HAVE_OPTION_body","source":"Owned Effect","translation":"Posiadany efekt","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_LEVEL_BTN_GROW_body","source":"Analysis","translation":"Analiza","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_LEVEL_DESC_body","source":"Unlocked at Insight Level {0}","translation":"Odblokowuje się na poziomie wnikliwości {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_LEVEL_GUIDE_body","source":"Obtaining a pet's soul deepens your insight into that pet.","translation":"Zdobycie duszy wierzchowca pogłębia twoją wiedzę o tym wierzchowcu.","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_LEVEL_REWARD_LATER_DESC_body","source":"Unlocked at Insight Level {0}\n<insufficient>Rewards to be added later</>","translation":"Odblokowuje się na poziomie wnikliwości {0}\n<insufficient>Nagrody zostaną dodane później</>","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_NEW_body","source":"N","translation":"N","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_POLYMORPH_body","source":"Transform","translation":"Przekształć","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_REWARD_LATER_body","source":"<insufficient>To Be Added</>","translation":"<insufficient>Do dodania</>","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_RIDE_GLIDE_body","source":"Mount Glide","translation":"Szybowanie wierzchowcem","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_INFO_RIDE_body","source":"Mount","translation":"Wierzchowiec","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_NEED_SOUL_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_NOTENOUGH_body","source":"No pets match the conditions.","translation":"Nie znaleziono wierzchowców spełniających warunki.","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_RIDEON_body","source":"Mounting","translation":"Dosjadanie","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_TAB_GET_ROUTE_body","source":"Source","translation":"Źródło","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_TAB_HAVE_OPTION_NONE_body","source":"No currently active effect.","translation":"Brak aktywnego efektu.","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_TAB_HAVE_OPTION_body","source":"All Owned Effects","translation":"Wszystkie posiadane efekty","status":"draft"}
-{"id":"String_UI_VEHICLE_LIST_TAB_INFO_body","source":"Pet Info","translation":"Informacje o wierzchowcu","status":"draft"}
-{"id":"String_UI_VEHICLE_SELECT_GET_ROUTE_NOTHING_body","source":"No source information available.","translation":"Brak informacji o źródle.","status":"draft"}
-{"id":"String_UI_VEHICLE_TAB_CREATURE_body","source":"Genus Insight","translation":"Wnikliwość rodzaju","status":"draft"}
-{"id":"String_UI_VEHICLE_TAB_CRYSTAL_body","source":"Crystallize","translation":"Krystalizuj","status":"draft"}
-{"id":"String_UI_VEHICLE_TAB_VEHICLE_body","source":"Pets","translation":"Wierzchowce","status":"draft"}
-{"id":"String_UI_VEHICLE_TITLE_body","source":"Pets","translation":"Wierzchowce","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_BTN_ENTER_body","source":"Challenge Again","translation":"Podejmij wyzwanie ponownie","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_BTN_EXIT_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_CLEAR_WAVE_LEVEL_ONLYONE_body","source":"Complete","translation":"Ukończono","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_CLEAR_WAVE_LEVEL_body","source":"Stage {0} Complete","translation":"Etap {0} ukończony","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_LAST_WAVE_LEVEL_ONLYONE_body","source":"Complete","translation":"Ukończono","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_LAST_WAVE_LEVEL_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_POINT_BASIC_body","source":"Basic Score","translation":"Wynik podstawowy","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_POINT_TIME_BOUNS_body","source":"Clear Time Bonus","translation":"Premia za czas ukończenia","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_POINT_TOTAL_body","source":"Final Score","translation":"Wynik końcowy","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_REWARD_NONE_body","source":"No rewards obtained.","translation":"Nie zdobyto nagród.","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_REWARD_TITLE_body","source":"Obtained Rewards","translation":"Zdobyte nagrody","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_RESULT_TIME_TITLE_body","source":"Time Taken","translation":"Czas","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_SCREENMSG_START_WAVE_LEVEL_ONLYONE_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_WAVEDUNGEON_SCREENMSG_START_WAVE_LEVEL_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_WING_BUTTON_CHANGE_body","source":"Equip","translation":"Załóż","status":"draft"}
-{"id":"String_UI_WING_BUTTON_ENCHANT_body","source":"Enhance","translation":"Ulepsz","status":"draft"}
-{"id":"String_UI_WING_BUTTON_SKIN_CHANGE_body","source":"Equip Skin","translation":"Załóż wygląd","status":"draft"}
-{"id":"String_UI_WING_BUTTON_SKIN_REMOVE_body","source":"Equip Skin","translation":"Załóż wygląd","status":"draft"}
-{"id":"String_UI_WING_CATEGORY_EFFECT_body","source":"All Applied Effects","translation":"Wszystkie zastosowane efekty","status":"draft"}
-{"id":"String_UI_WING_CATEGORY_GET_ROUTE_body","source":"Source","translation":"Źródło","status":"draft"}
-{"id":"String_UI_WING_CATEGORY_KIND_LIST_APPLY_body","source":"Equipped","translation":"Założone","status":"draft"}
-{"id":"String_UI_WING_CATEGORY_KIND_body","source":"Wings Info","translation":"Informacje o skrzydłach","status":"draft"}
-{"id":"String_UI_WING_EFFECT_BADY_NONE_body","source":"No owned effects.","translation":"Nie masz żadnych efektów.","status":"draft"}
-{"id":"String_UI_WING_EFFECT_BADY_TITLE_body","source":"All Owned Effects","translation":"Wszystkie posiadane efekty","status":"draft"}
-{"id":"String_UI_WING_EFFECT_EQUIP_BADY_NONE_body","source":"No equipped effect.","translation":"Brak założonego efektu.","status":"draft"}
-{"id":"String_UI_WING_EFFECT_EQUIP_BADY_TITLE_body","source":"Equipped Effect","translation":"Założony efekt","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_BUTTON_ENCHANT_body","source":"Enhance","translation":"Ulepsz","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_BUTTON_END_body","source":"End","translation":"Zakończ","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_BUTTON_PROB_ADD_body","source":"+","translation":"+","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_BUTTON_PROB_MINUS_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_COST_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_COST_body","source":"Materials","translation":"Materiały","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_EFFECT_body","source":"Owned Effect","translation":"Posiadany efekt","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_MAX_LEVEL_body","source":"Reached Max Enhance Level.","translation":"Osiągnięto maksymalny poziom ulepszenia.","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_NO_LEVEL_body","source":"These wings cannot be enhanced.","translation":"Tych skrzydeł nie można ulepszyć.","status":"draft"}
-{"id":"String_UI_WING_ENCHANT_SUCCESS_PROB_body","source":"Success Chance","translation":"Szansa powodzenia","status":"draft"}
-{"id":"String_UI_WING_INFO_EFFECT_NONE_body","source":"No owned effects.","translation":"Nie masz żadnych efektów.","status":"draft"}
-{"id":"String_UI_WING_INFO_EFFECT_body","source":"Owned Effect","translation":"Posiadany efekt","status":"draft"}
-{"id":"String_UI_WING_INFO_EQUIP_EFFECT_NONE_body","source":"No equipped effect.","translation":"Brak założonego efektu.","status":"draft"}
-{"id":"String_UI_WING_INFO_EQUIP_EFFECT_body","source":"Equipped Effect","translation":"Założony efekt","status":"draft"}
-{"id":"String_UI_WING_INFO_GET_ROUTE_body","source":"Source Information","translation":"Informacje o źródle","status":"draft"}
-{"id":"String_UI_WING_INFO_LEVEL_body","source":"+{0}","translation":"+{0}","status":"draft"}
-{"id":"String_UI_WING_LIST_LEVEL_body","source":"+{0}","translation":"+{0}","status":"draft"}
-{"id":"String_UI_WING_LIST_SKIN_APPLY_body","source":"Equipped Skin","translation":"Założony wygląd","status":"draft"}
-{"id":"String_UI_WING_TITLE_body","source":"Wings","translation":"Skrzydła","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_CLOSED_body","source":"Unavailable","translation":"Niedostępne","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_EXPIRATION_body","source":"Usage Time Expired","translation":"Czas użytkowania upłynął","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_OPEN_body","source":"Corridor Usage Time {0}","translation":"Pozostały czas korzystania z korytarza: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_ARTIFACT_OCCUPIED_body","source":"Captured","translation":"Zajęty","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_ARTIFACT_UNOCCUPIED_body","source":"Not Captured","translation":"Niezajęty","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_DEAFTMAPPIN_BOOKMARK_INFO_body","source":"You may temporarily save one Map Pin at a time.\nIf a new Map Pin is shared with you while you already have one Map Pin temporarily saved, the temporarily saved Map Pin will be replaced with the new Map Pin.\nYour temporarily saved Map Pin is deleted upon closing the game.","translation":"Możesz tymczasowo zapisać jeden znacznik mapy naraz.\nJeśli otrzymasz nowy znacznik mapy, gdy masz już zapisany tymczasowo inny, zastąpi on poprzedni.\nTymczasowy znacznik mapy zostanie usunięty po zamknięciu gry.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EVENT_SCHEDULE_DESC_body","source":"You can view information on scheduled events.","translation":"Możesz wyświetlić informacje o zaplanowanych wydarzeniach.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EVENT_SCHEDULE_TITLE_body","source":"Event","translation":"Wydarzenie","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_STATE_RESPAWN_REMAIN_TIME_body","source":"Time Left","translation":"Pozostały czas","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_STATE_SPAWN_body","source":"Spawned","translation":"Pojawił się","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_TAB_body","source":"Field Boss","translation":"Boss terenowy","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_OCCUPATIONTERRITORY_PROCESS_body","source":"Stronghold Progress","translation":"Postępy w zajmowaniu twierdzy","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_OCCUPATIONTERRITORY_TAB_body","source":"Stronghold","translation":"Twierdza","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_SEAL_PROCESS_body","source":"Sealed Dungeon Progress","translation":"Postępy w zapieczętowanym lochu","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_EXPLORATION_SEAL_TAB_body","source":"Sealed Dungeon","translation":"Zapieczętowany loch","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_ABYSSARTIFACT_body","source":"Abyss Artifact","translation":"Artefakt Otchłani","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_BOSS_body","source":"Boss","translation":"Boss","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_DUNGEON_body","source":"Dungeon","translation":"Loch","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_ENTERDUNGEONCORRIDOR_body","source":"Base Abyss Corridor","translation":"Podstawowy korytarz Otchłani","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_FIELD_EVENT_body","source":"Event","translation":"Wydarzenie","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_FIELD_EXPLORATION_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_MATCHING_body","source":"Arena","translation":"Arena","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_MONOLITH_body","source":"Monolith","translation":"Monolit","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_MOVEMAPCONDITION_body","source":"Teleportation Portal","translation":"Portal teleportacyjny","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_RIFT_body","source":"Spacetime Rift","translation":"Szczelina czasoprzestrzenna","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_SPRINTJUMP_body","source":"Updraft","translation":"Prąd wstępujący","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_CONTENT_body","source":"Content","translation":"Zawartość","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_ETC_ABYSS_RANK_DEATH_ALERT_body","source":"Show location of high-ranked player deaths in the Abyss","translation":"Pokaż miejsce śmierci graczy o wysokiej randze w Otchłani","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_ETC_QUEST_AREA_VISIBLE_body","source":"Always display quest areas on the world map","translation":"Zawsze wyświetlaj obszary zadań na mapie świata","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_ETC_body","source":"Miscellaneous","translation":"Pozostałe","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_MOVEMAPCONDITON_body","source":"Teleportation Portal","translation":"Portal teleportacyjny","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_QUEST_ASCENSION_body","source":"Ascension Quest","translation":"Zadanie wstąpienia","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_QUEST_DISTRICT_body","source":"Regional Quest","translation":"Zadanie regionalne","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_QUEST_DUTY_body","source":"Duty Quest","translation":"Zadanie służbowe","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_QUEST_HERO_body","source":"Hero Quest","translation":"Zadanie bohaterskie","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_QUEST_body","source":"Quest","translation":"Zadanie","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_REGION_BATTLEFIELD_body","source":"Hunting Ground","translation":"Teren łowiecki","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_REGION_VILLAGE_body","source":"Village","translation":"Wioska","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_REGION_body","source":"Regions","translation":"Regiony","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_RIFTEVENT_body","source":"Domination","translation":"Dominacja","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_TITLE_body","source":"Filter Settings","translation":"Ustawienia filtrów","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_ABYSSPORTAL_body","source":"Abyss Teleport Tower","translation":"Wieża teleportacyjna Otchłani","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_ADDABNORMAL_body","source":"Event NPC","translation":"NPC wydarzenia","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_ALCHEMY_body","source":"Alchemy Table","translation":"Stół alchemiczny","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_BLACKSMITH_body","source":"Blacksmithing Table","translation":"Stół kowalski","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_COOK_body","source":"Cooking Table","translation":"Stół kucharski","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_EXPRESTORE_body","source":"Soul Healer","translation":"Uzdrowiciel dusz","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_JEWELCRAFT_body","source":"Handicrafting Table","translation":"Stół rzemieślniczy","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_MAPPIN_body","source":"Map Pin","translation":"Znacznik mapy","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITHFRAGMENT_COMPLETE_body","source":"Empyrean Trace - Collection Complete","translation":"Ślad Empirian — kolekcja ukończona","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITHFRAGMENT_INCOMPLETE_body","source":"Empyrean Trace","translation":"Ślad Empirian","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITH_body","source":"Monolith","translation":"Monolit","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_SHOP_body","source":"Merchant","translation":"Kupiec","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_SKINEXTRACTION_body","source":"Skin Extractor","translation":"Ekstraktor wyglądu","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_STORAGE_body","source":"Storage Manager","translation":"Zarządca składu","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_TAILOR_body","source":"Armorsmithing Table","translation":"Stół płatnerski","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_TELEPORT_ARTIFACT_body","source":"Kibelisk","translation":"Kibelisk","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_WORLDMARKER_body","source":"World Marker","translation":"Znacznik świata","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_FILTER_UTILITY_body","source":"Convenience Feature","translation":"Udogodnienie","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_CORRECT_NAME_DESC_LONG_body","source":"Enter the new map pin name.","translation":"Wprowadź nazwę nowego znacznika mapy.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_CORRECT_NAME_DESC_body","source":"Enter map pin name.","translation":"Wprowadź nazwę znacznika mapy.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_DEFAULT_NAME_body","source":"Map Pin_{0}","translation":"Znacznik mapy_{0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_INFO_body","source":"You can place up to 30 Map Pins. When all 30 Map Pins are placed, you must remove an existing Map Pin before adding a new one.","translation":"Możesz umieścić maksymalnie 30 znaczników mapy. Po umieszczeniu wszystkich 30 usuń jeden z istniejących znaczników, zanim dodasz kolejny.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_NAME_DESC_LONG_body","source":"Enter the new map pin name.","translation":"Wprowadź nazwę nowego znacznika mapy.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_NAME_DESC_body","source":"Enter map pin name.","translation":"Wprowadź nazwę znacznika mapy.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_TITLE_DRAFT_body","source":"Save Draft","translation":"Zapisz wersję roboczą","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_TITLE_body","source":"Map Pin","translation":"Znacznik mapy","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_PIN_ANNOUNCE_NO_PIN_body","source":"No Map Pins are currently placed.","translation":"Nie umieszczono żadnych znaczników mapy.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_PIN_ANNOUNCE_SETUP_body","source":"Place a Map Pin by selecting the desired location on the Map.","translation":"Umieść znacznik mapy, wybierając odpowiednie miejsce na mapie.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_EMPTY_body","source":"No Favorites List","translation":"Brak listy ulubionych","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_INFO_body","source":"You can register {0} Kibelisks per field. When all {0} are registered, you must remove one from your favorites before adding a new one.","translation":"Możesz zarejestrować {0} kibelisków na każdym terenie. Po zarejestrowaniu wszystkich {0} usuń jeden z ulubionych, zanim dodasz kolejny.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_TITLE_body","source":"Favorites","translation":"Ulubione","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_EMPTY_body","source":"No Kibelisk available to display.","translation":"Brak kibelisków do wyświetlenia.","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_NUMBER_body","source":"{0}. {1}","translation":"{0}. {1}","status":"draft"}
-{"id":"String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_TITLE_body","source":"Complete List","translation":"Pełna lista","status":"draft"}
-{"id":"String_UI_WORLDMAP_MOVEMAPCONDTION_QUEST_TITLE_body","source":"Quest Requirements","translation":"Wymagania zadania","status":"draft"}
-{"id":"String_UI_WORLDMAP_MOVEMAPCONDTION_QUEST_body","source":"Step \"{1}\" of \"{0}\" Complete","translation":"Ukończono krok „{1}” zadania „{0}”","status":"draft"}
-{"id":"String_UI_WORLDMAP_PARTY_1_body","source":"P","translation":"P","status":"draft"}
-{"id":"String_UI_WORLDMAP_PARTY_2_body","source":"P","translation":"P","status":"draft"}
-{"id":"String_UI_WORLDMAP_PARTY_3_body","source":"P","translation":"P","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_BUFF_EMPTY_body","source":"No artifacts currently occupied.","translation":"Obecnie nie zajęto żadnych artefaktów.","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_DESC_body","source":"Occupying {0} artifact(s). Level {0} effect activated.","translation":"Zajęte artefakty: {0}. Aktywowano efekt poziomu {0}.","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_EMPTY_DESC_body","source":"No artifacts currently occupied.","translation":"Obecnie nie zajęto żadnych artefaktów.","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_EMPTY_TITLE_body","source":"Active Effect: None","translation":"Aktywny efekt: brak","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_TITLE_body","source":"Active Effect: Level {0}","translation":"Aktywny efekt: poziom {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_ABNORMAL_DESC_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_TITLE_body","source":"Effect per Level Info","translation":"Informacje o efektach na poszczególnych poziomach","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_BALANCE_body","source":"Even","translation":"Parzysty","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_IMBALANCE_body","source":"{0} Dominant","translation":"Dominacja {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_TITLE_body","source":"Faction Status:","translation":"Status frakcji:","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_TITLE_body","source":"Artifact Occupation Status","translation":"Status zajęcia artefaktu","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MAP_SELECT_TITLE_body","source":"Change Map","translation":"Zmień mapę","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_AGGRO_TYPE_AGGRESIVEMONSTER_body","source":"Aggressive","translation":"Agresywny","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_AGGRO_TYPE_NOTAGGRESIVEMONSTER_body","source":"Non-aggressive","translation":"Nieagresywny","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_GUIDE_LEVELSCALE_body","source":"※Monster levels will be <Worldmap_Monster_LevelScale>synced</> to the player's level.","translation":"※ Poziomy potworów zostaną <Worldmap_Monster_LevelScale>dostosowane</> do poziomu gracza.","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_LABEL_body","source":"Spawn Monster","translation":"Pojawienie się potwora","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_LIST_NO_ITEM_body","source":"No loot available.","translation":"Brak dostępnych łupów.","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_MONSTER_REWARD_TITLE_body","source":"Loot Highlights","translation":"Wyróżnione łupy","status":"draft"}
-{"id":"String_UI_WORLDMAP_POPUP_TELEPORT_body","source":"Teleport to {0} region?","translation":"Teleportować się do regionu {0}?","status":"draft"}
-{"id":"String_UI_WORLDMAP_REGIONTAP_REGIONEXPLORE_body","source":"Region Exploration","translation":"Eksploracja regionu","status":"draft"}
-{"id":"String_UI_WORLDMAP_REGIONTAP_REGIONINFO_body","source":"Region Info","translation":"Informacje o regionie","status":"draft"}
-{"id":"String_UI_WORLDMAP_REGIONTAP_REGIONINTRO_body","source":"Region Introduction","translation":"Opis regionu","status":"draft"}
-{"id":"String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_ACQUIRED_body","source":"Buffed","translation":"Wzmocniony","status":"draft"}
-{"id":"String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_LIST_body","source":"Buff List","translation":"Lista wzmocnień","status":"draft"}
-{"id":"String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_NOTACQUIRED_body","source":"Not Buffed","translation":"Bez wzmocnienia","status":"draft"}
-{"id":"String_UI_WORLDMAP_TAB_ADVENTURE_LIST_EMPTY_body","source":"No exploration sites have been discovered yet.","translation":"Nie odkryto jeszcze żadnych miejsc eksploracji.","status":"draft"}
-{"id":"String_UI_WORLDMAP_TAB_ADVENTURE_MEMO_TITLE_body","source":"Exploration Record","translation":"Dziennik eksploracji","status":"draft"}
-{"id":"String_UI_WORLDMAP_TAB_FIELDNAMED_LIST_EMPTY_body","source":"No Field Monsters available to display.","translation":"Brak potworów terenowych do wyświetlenia.","status":"draft"}
-{"id":"String_UI_WORLDMAP_TITLE_DARK_body","source":"Asmodae","translation":"Asmodae","status":"draft"}
-{"id":"String_UI_WORLDMAP_TITLE_LIGHT_body","source":"Elysea","translation":"Elysea","status":"draft"}
-{"id":"String_UI_WORLDMAP_TITLE_MAP_body","source":"Map: {0}","translation":"Mapa: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TITLE_NONE_body","source":"Abyss","translation":"Otchłań","status":"draft"}
-{"id":"String_UI_WORLDMAP_TITLE_WORLDMAP_body","source":"Atreia","translation":"Atreia","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_CURRENT_EMPTY_body","source":"Current Level Effect: None","translation":"Efekt bieżącego poziomu: brak","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_CURRENT_body","source":"Current Level Effect: {0}","translation":"Efekt bieżącego poziomu: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_NEXT_MAXLEVEL_body","source":"Next Level Effect: Maximum level reached.","translation":"Efekt następnego poziomu: osiągnięto maksymalny poziom.","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_NEXT_body","source":"Next Level Effect: {0}","translation":"Efekt następnego poziomu: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_TITLE_body","source":"Artifact Occupation Effect","translation":"Efekt zajęcia artefaktu","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DRAGON_body","source":"Balaur","translation":"Balaur","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_CLOSED_body","source":"Unavailable","translation":"Niedostępne","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_EXPIRATION_body","source":"Unavailable","translation":"Niedostępne","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_TIME_body","source":"Usage time left {0}","translation":"Pozostały czas użytkowania: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_TITLE_body","source":"{0} Entrance Created","translation":"Utworzono wejście {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_OCCUPYABLE_body","source":"Can Be Captured","translation":"Można zająć","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_DESC_body","source":"Currently Occupied {0}","translation":"Aktualnie zajęte: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_OCCUPATION_TIME_body","source":"Time Left Until Occupation Release: {0}","translation":"Czas do zwolnienia zajęcia: {0}","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_TITLE_body","source":"Artifact Occupation Status","translation":"Status zajęcia artefaktu","status":"draft"}
-{"id":"String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_UNOCCUPIED_body","source":"Cannot Be Captured","translation":"Nie można zająć","status":"draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE04_body", "source": "Unique", "translation": "Unikatowa", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE05_body", "source": "Heroic", "translation": "Heroiczna", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_GRADE06_body", "source": "Mythic", "translation": "Mityczna", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST01_body", "source": "Properties", "translation": "Właściwości", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST02_body", "source": "Value", "translation": "Wartość", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_LIST03_body", "source": "Obtain Probability", "translation": "Szansa na zdobycie", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT01_body", "source": "Slot 1", "translation": "Miejsce 1", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT02_body", "source": "Slot 2", "translation": "Miejsce 2", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT03_body", "source": "Slot 3", "translation": "Miejsce 3", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT04_body", "source": "Slot 4", "translation": "Miejsce 4", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT05_body", "source": "Slot 5", "translation": "Miejsce 5", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT06_body", "source": "Slot 6", "translation": "Miejsce 6", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT07_body", "source": "Slot 7", "translation": "Miejsce 7", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT08_body", "source": "Slot 8", "translation": "Miejsce 8", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_SLOT09_body", "source": "Slot 9", "translation": "Miejsce 9", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_POPUP_TITLE_body", "source": "{0} Genus Insight Acquirable Properties", "translation": "Możliwe do zdobycia właściwości Wnikliwości rodzaju {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_OPTION_TITLE_body", "source": "Analysis Effect", "translation": "Efekt analizy", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_SLOT_LOCK_body", "source": "Unlock Insight {0}", "translation": "Odblokuj wnikliwość {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREAETURE_SLOT_OPEN_body", "source": "Analyzable", "translation": "Można analizować", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_START_body", "source": "Auto Analysis", "translation": "Automatyczna analiza", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_STOP_body", "source": "Stop Auto Analysis", "translation": "Zatrzymaj automatyczną analizę", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_BUTTON_body", "source": "Auto Analysis", "translation": "Automatyczna analiza", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_LOCKED_OPTION_LIST_body", "source": "This slot is locked.", "translation": "To miejsce jest zablokowane.", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_LOCKED_SLOT_body", "source": "Unlock Insight Lv. {0}", "translation": "Odblokuj wnikliwość poz. {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_EFFECT_body", "source": "Properties", "translation": "Właściwości", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_COMMON_body", "source": "Common", "translation": "Wspólne", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_EPIC_body", "source": "Heroic", "translation": "Bohaterskie", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_LEGEND_body", "source": "Epic", "translation": "Epickie", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_NO_SELECT_body", "source": "None", "translation": "Brak", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_RARE_body", "source": "Rare", "translation": "Rzadkie", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_GRADE_UNIQUE_body", "source": "Unique", "translation": "Unikatowe", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_MAX_VALUE_body", "source": "Max Value", "translation": "Maks. wartość", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_OPTION_STATUS_MIN_VALUE_body", "source": "Min Value", "translation": "Min. wartość", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SLOT_OPTION_SELECTED_body", "source": "Applying...", "translation": "Stosowanie...", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SLOT_body", "source": "Slot {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_SOULCRYSTAL_CONSUME_OPTION_body", "source": "Use Soul Crystal", "translation": "Użyj kryształu duszy", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_TOOLTIP_body", "source": "<Title_List_CurCount>Auto-Analysis</>\nAutomatically analyzes the genus until a property at or above the selected minimum grade appears.\nAuto-Analysis will end when one or more of the set conditions have been met.\n\n<Title_List_CurCount>Property Grade</>\nSelect the target property grade. Analysis continues automatically until a property of the selected grade or higher appears.\nThe available grade range depends on the Genus Insight level.\n\n<Title_List_CurCount>Min/Max Value</>\nShows the minimum and maximum values possible for the selected property grade.\nThe minimum and maximum values vary depending on the selected grade.\n\n<Title_List_CurCount>Soul Crystal Use Options</>\nSets whether to use universal Soul Crystals.\nUncheck this option to only use Genus-specific Soul Crystals for Auto-Analysis.\nThese settings are saved on a per character basis.", "translation": "<Title_List_CurCount>Automatyczna analiza</>\nAutomatycznie analizuje rodzaj, aż pojawi się właściwość o co najmniej wybranej minimalnej jakości.\nAnaliza automatyczna zakończy się po spełnieniu co najmniej jednego z ustawionych warunków.\n\n<Title_List_CurCount>Jakość właściwości</>\nWybierz docelową jakość właściwości. Analiza będzie kontynuowana automatycznie, aż pojawi się właściwość wybranej lub wyższej jakości.\nDostępny zakres jakości zależy od poziomu wnikliwości rodzaju.\n\n<Title_List_CurCount>Wartość min./maks.</>\nPokazuje minimalną i maksymalną wartość możliwą dla wybranej jakości właściwości.\nMinimalna i maksymalna wartość zależą od wybranej jakości.\n\n<Title_List_CurCount>Opcje użycia kryształów dusz</>\nOkreśla, czy używać uniwersalnych kryształów dusz.\nOdznacz tę opcję, aby podczas analizy automatycznej używać wyłącznie kryształów dusz danego rodzaju.\nUstawienia są zapisywane osobno dla każdej postaci.", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_AUTO_ANALYSIS_UI_NAME_body", "source": "Set Auto Analysis Target for {0} Genus", "translation": "Ustaw cel automatycznej analizy dla rodzaju {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_TAB_EFFECT_body", "source": "All Applied Effects", "translation": "Wszystkie zastosowane efekty", "status": "draft"}
+{"id": "String_UI_VEHICLE_CREATURE_TAB_INFO_body", "source": "Insight Info", "translation": "Informacje o wnikliwości", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_AUTO_SELECT_BTN_body", "source": "Register All", "translation": "Zarejestruj wszystkie", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_GUIDE_body", "source": "You will obtain a pet soul crystal upon crystallizing.", "translation": "Podczas krystalizacji otrzymasz kryształ duszy wierzchowca.", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_HAVE_body", "source": "Owned Soul Crystal", "translation": "Posiadane kryształy dusz", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_MATERIAL_NOTENOUGH_body", "source": "No souls owned.", "translation": "Nie masz dusz.", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_RESULT_OK_BTN_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_RESULT_TITLE_body", "source": "Crystallization Complete", "translation": "Krystalizacja ukończona", "status": "draft"}
+{"id": "String_UI_VEHICLE_CRYSTAL_START_BTN_body", "source": "Crystallize", "translation": "Krystalizuj", "status": "draft"}
+{"id": "String_UI_VEHICLE_INFO_EQUIP_STAT_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_VEHICLE_INFO_SPEED_body", "source": "Mount Speed", "translation": "Szybkość wierzchowca", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_CANCEL_BTN_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_CREAETURE_EXP_body", "source": "EXP", "translation": "PD", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_CREAETURE_GUIDE_body", "source": "Pet Insight Level-ups grant additional Genus Insight EXP for that pet's genus.", "translation": "Awans poziomu wnikliwości wierzchowca zapewnia dodatkowe PD wnikliwości rodzaju danego wierzchowca.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_LEVEL_MAX_body", "source": "Lv. {0} (MAX)", "translation": "Poz. {0} (MAKS.)", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_MATERIAL_EXP_body", "source": "EXP", "translation": "PD", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_MATERIAL_SELECT_GUIDE_body", "source": "Select a soul to use as material from the list on the left.", "translation": "Wybierz z listy po lewej duszę, która ma posłużyć jako materiał.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_MAX_LEVEL_BTN_body", "source": "Max Level", "translation": "Maksymalny poziom", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_NEXT_LEVEL_BTN_body", "source": "Next Level", "translation": "Następny poziom", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_SAME_BTN_body", "source": "Identical Soul", "translation": "Identyczna dusza", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_START_POPUP_CANCLE_BTN_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_START_POPUP_DESC_body", "source": "You will exceed max EXP after analysis.\nExcess EXP will lost.\nAre you sure you wish to proceed with pet analysis?", "translation": "Po analizie przekroczysz maksymalną liczbę PD.\nNadmiarowe PD zostaną utracone.\nCzy na pewno chcesz kontynuować analizę wierzchowca?", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_START_POPUP_OK_BTN_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_VEHICLE_LEVELUP_TITLE_body", "source": "Pet Insight", "translation": "Wnikliwość wierzchowca", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_BTN_EQUIP_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_BTN_GET_body", "source": "Obtain", "translation": "Zdobądź", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_COLLECTION_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_COLLECTION_REWARD_GET_body", "source": "GET", "translation": "ZDOBĄDŹ", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_COLLECTION_TITLE_body", "source": "Collection Status", "translation": "Stan kolekcji", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_EQUIP_body", "source": "Equipped", "translation": "Założone", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_CREAETURE_EXP_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_CREAETURE_LEVEL_MAX_body", "source": "MAX", "translation": "MAKS.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_CREAETURE_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_EQUIP_OPTION_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_EXP_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_HAVE_OPTION_body", "source": "Owned Effect", "translation": "Posiadany efekt", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_LEVEL_BTN_GROW_body", "source": "Analysis", "translation": "Analiza", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_LEVEL_DESC_body", "source": "Unlocked at Insight Level {0}", "translation": "Odblokowuje się na poziomie wnikliwości {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_LEVEL_GUIDE_body", "source": "Obtaining a pet's soul deepens your insight into that pet.", "translation": "Zdobycie duszy wierzchowca pogłębia twoją wnikliwość na jego temat.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_LEVEL_REWARD_LATER_DESC_body", "source": "Unlocked at Insight Level {0}\n<insufficient>Rewards to be added later</>", "translation": "Odblokowuje się na poziomie wnikliwości {0}\n<insufficient>Nagrody zostaną dodane później</>", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_NEW_body", "source": "N", "translation": "N", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_POLYMORPH_body", "source": "Transform", "translation": "Przekształć", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_REWARD_LATER_body", "source": "<insufficient>To Be Added</>", "translation": "<insufficient>Do dodania</>", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_RIDE_GLIDE_body", "source": "Mount Glide", "translation": "Szybowanie wierzchowcem", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_INFO_RIDE_body", "source": "Mount", "translation": "Wierzchowiec", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_NEED_SOUL_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_NOTENOUGH_body", "source": "No pets match the conditions.", "translation": "Nie znaleziono wierzchowców spełniających warunki.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_RIDEON_body", "source": "Mounting", "translation": "Wsiadanie", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_TAB_GET_ROUTE_body", "source": "Source", "translation": "Źródło", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_TAB_HAVE_OPTION_NONE_body", "source": "No currently active effect.", "translation": "Brak aktywnego efektu.", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_TAB_HAVE_OPTION_body", "source": "All Owned Effects", "translation": "Wszystkie posiadane efekty", "status": "draft"}
+{"id": "String_UI_VEHICLE_LIST_TAB_INFO_body", "source": "Pet Info", "translation": "Informacje o wierzchowcu", "status": "draft"}
+{"id": "String_UI_VEHICLE_SELECT_GET_ROUTE_NOTHING_body", "source": "No source information available.", "translation": "Brak informacji o źródle.", "status": "draft"}
+{"id": "String_UI_VEHICLE_TAB_CREATURE_body", "source": "Genus Insight", "translation": "Wnikliwość rodzaju", "status": "draft"}
+{"id": "String_UI_VEHICLE_TAB_CRYSTAL_body", "source": "Crystallize", "translation": "Krystalizuj", "status": "draft"}
+{"id": "String_UI_VEHICLE_TAB_VEHICLE_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
+{"id": "String_UI_VEHICLE_TITLE_body", "source": "Pets", "translation": "Wierzchowce", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_BTN_ENTER_body", "source": "Challenge Again", "translation": "Podejmij wyzwanie ponownie", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_BTN_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_CLEAR_WAVE_LEVEL_ONLYONE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_CLEAR_WAVE_LEVEL_body", "source": "Stage {0} Complete", "translation": "Etap {0} ukończony", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_LAST_WAVE_LEVEL_ONLYONE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_LAST_WAVE_LEVEL_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_POINT_BASIC_body", "source": "Basic Score", "translation": "Wynik podstawowy", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_POINT_TIME_BOUNS_body", "source": "Clear Time Bonus", "translation": "Premia za czas ukończenia", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_POINT_TOTAL_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_REWARD_NONE_body", "source": "No rewards obtained.", "translation": "Nie zdobyto nagród.", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_REWARD_TITLE_body", "source": "Obtained Rewards", "translation": "Zdobyte nagrody", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_RESULT_TIME_TITLE_body", "source": "Time Taken", "translation": "Czas", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_SCREENMSG_START_WAVE_LEVEL_ONLYONE_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_WAVEDUNGEON_SCREENMSG_START_WAVE_LEVEL_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_WING_BUTTON_CHANGE_body", "source": "Equip", "translation": "Załóż", "status": "draft"}
+{"id": "String_UI_WING_BUTTON_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_WING_BUTTON_SKIN_CHANGE_body", "source": "Equip Skin", "translation": "Załóż wygląd", "status": "draft"}
+{"id": "String_UI_WING_BUTTON_SKIN_REMOVE_body", "source": "Equip Skin", "translation": "Załóż wygląd", "status": "draft"}
+{"id": "String_UI_WING_CATEGORY_EFFECT_body", "source": "All Applied Effects", "translation": "Wszystkie zastosowane efekty", "status": "draft"}
+{"id": "String_UI_WING_CATEGORY_GET_ROUTE_body", "source": "Source", "translation": "Źródło", "status": "draft"}
+{"id": "String_UI_WING_CATEGORY_KIND_LIST_APPLY_body", "source": "Equipped", "translation": "Założone", "status": "draft"}
+{"id": "String_UI_WING_CATEGORY_KIND_body", "source": "Wings Info", "translation": "Informacje o skrzydłach", "status": "draft"}
+{"id": "String_UI_WING_EFFECT_BADY_NONE_body", "source": "No owned effects.", "translation": "Nie masz żadnych efektów.", "status": "draft"}
+{"id": "String_UI_WING_EFFECT_BADY_TITLE_body", "source": "All Owned Effects", "translation": "Wszystkie posiadane efekty", "status": "draft"}
+{"id": "String_UI_WING_EFFECT_EQUIP_BADY_NONE_body", "source": "No equipped effect.", "translation": "Brak założonego efektu.", "status": "draft"}
+{"id": "String_UI_WING_EFFECT_EQUIP_BADY_TITLE_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_BUTTON_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_BUTTON_END_body", "source": "End", "translation": "Zakończ", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_BUTTON_PROB_ADD_body", "source": "+", "translation": "+", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_BUTTON_PROB_MINUS_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_COST_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_COST_body", "source": "Materials", "translation": "Materiały", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_EFFECT_body", "source": "Owned Effect", "translation": "Posiadany efekt", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_MAX_LEVEL_body", "source": "Reached Max Enhance Level.", "translation": "Osiągnięto maksymalny poziom ulepszenia.", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_NO_LEVEL_body", "source": "These wings cannot be enhanced.", "translation": "Tych skrzydeł nie można ulepszyć.", "status": "draft"}
+{"id": "String_UI_WING_ENCHANT_SUCCESS_PROB_body", "source": "Success Chance", "translation": "Szansa powodzenia", "status": "draft"}
+{"id": "String_UI_WING_INFO_EFFECT_NONE_body", "source": "No owned effects.", "translation": "Nie masz żadnych efektów.", "status": "draft"}
+{"id": "String_UI_WING_INFO_EFFECT_body", "source": "Owned Effect", "translation": "Posiadany efekt", "status": "draft"}
+{"id": "String_UI_WING_INFO_EQUIP_EFFECT_NONE_body", "source": "No equipped effect.", "translation": "Brak założonego efektu.", "status": "draft"}
+{"id": "String_UI_WING_INFO_EQUIP_EFFECT_body", "source": "Equipped Effect", "translation": "Założony efekt", "status": "draft"}
+{"id": "String_UI_WING_INFO_GET_ROUTE_body", "source": "Source Information", "translation": "Informacje o źródle", "status": "draft"}
+{"id": "String_UI_WING_INFO_LEVEL_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_WING_LIST_LEVEL_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
+{"id": "String_UI_WING_LIST_SKIN_APPLY_body", "source": "Equipped Skin", "translation": "Założony wygląd", "status": "draft"}
+{"id": "String_UI_WING_TITLE_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_CLOSED_body", "source": "Unavailable", "translation": "Niedostępne", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_EXPIRATION_body", "source": "Usage Time Expired", "translation": "Czas użytkowania upłynął", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_ARTIFACT_CORRIDOR_OPEN_body", "source": "Corridor Usage Time {0}", "translation": "Pozostały czas korzystania z korytarza: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_ARTIFACT_OCCUPIED_body", "source": "Captured", "translation": "Zajęty", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_ARTIFACT_UNOCCUPIED_body", "source": "Not Captured", "translation": "Niezajęty", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_DEAFTMAPPIN_BOOKMARK_INFO_body", "source": "You may temporarily save one Map Pin at a time.\nIf a new Map Pin is shared with you while you already have one Map Pin temporarily saved, the temporarily saved Map Pin will be replaced with the new Map Pin.\nYour temporarily saved Map Pin is deleted upon closing the game.", "translation": "Możesz tymczasowo zapisać jeden znacznik mapy naraz.\nJeśli otrzymasz nowy znacznik mapy, gdy masz już zapisany tymczasowo inny, zastąpi on poprzedni.\nTymczasowy znacznik mapy zostanie usunięty po zamknięciu gry.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EVENT_SCHEDULE_DESC_body", "source": "You can view information on scheduled events.", "translation": "Możesz wyświetlić informacje o zaplanowanych wydarzeniach.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EVENT_SCHEDULE_TITLE_body", "source": "Event", "translation": "Wydarzenie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_STATE_RESPAWN_REMAIN_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_STATE_SPAWN_body", "source": "Spawned", "translation": "Pojawił się", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_NAMED_TAB_body", "source": "Field Boss", "translation": "Boss terenowy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_OCCUPATIONTERRITORY_PROCESS_body", "source": "Stronghold Progress", "translation": "Postępy w zajmowaniu twierdzy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_OCCUPATIONTERRITORY_TAB_body", "source": "Stronghold", "translation": "Twierdza", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_SEAL_PROCESS_body", "source": "Sealed Dungeon Progress", "translation": "Postępy w zapieczętowanym lochu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_EXPLORATION_SEAL_TAB_body", "source": "Sealed Dungeon", "translation": "Zapieczętowany loch", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_ABYSSARTIFACT_body", "source": "Abyss Artifact", "translation": "Artefakt Otchłani", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_BOSS_body", "source": "Boss", "translation": "Boss", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_DUNGEON_body", "source": "Dungeon", "translation": "Loch", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_ENTERDUNGEONCORRIDOR_body", "source": "Base Abyss Corridor", "translation": "Podstawowy korytarz Otchłani", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_FIELD_EVENT_body", "source": "Event", "translation": "Wydarzenie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_FIELD_EXPLORATION_body", "source": "Exploration", "translation": "Eksploracja", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_MATCHING_body", "source": "Arena", "translation": "Arena", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_MONOLITH_body", "source": "Monolith", "translation": "Monolit", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_MOVEMAPCONDITION_body", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_RIFT_body", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_SPRINTJUMP_body", "source": "Updraft", "translation": "Prąd wstępujący", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_CONTENT_body", "source": "Content", "translation": "Zawartość", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_ETC_ABYSS_RANK_DEATH_ALERT_body", "source": "Show location of high-ranked player deaths in the Abyss", "translation": "Pokaż miejsce śmierci graczy o wysokiej randze w Otchłani", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_ETC_QUEST_AREA_VISIBLE_body", "source": "Always display quest areas on the world map", "translation": "Zawsze wyświetlaj obszary zadań na mapie świata", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_ETC_body", "source": "Miscellaneous", "translation": "Pozostałe", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_MOVEMAPCONDITON_body", "source": "Teleportation Portal", "translation": "Portal teleportacyjny", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_QUEST_ASCENSION_body", "source": "Ascension Quest", "translation": "Zadanie wstąpienia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_QUEST_DISTRICT_body", "source": "Regional Quest", "translation": "Zadanie regionalne", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_QUEST_DUTY_body", "source": "Duty Quest", "translation": "Zadanie służbowe", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_QUEST_HERO_body", "source": "Hero Quest", "translation": "Zadanie bohaterskie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_QUEST_body", "source": "Quest", "translation": "Zadanie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_REGION_BATTLEFIELD_body", "source": "Hunting Ground", "translation": "Teren łowiecki", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_REGION_VILLAGE_body", "source": "Village", "translation": "Wioska", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_REGION_body", "source": "Regions", "translation": "Regiony", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_RIFTEVENT_body", "source": "Domination", "translation": "Dominacja", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_TITLE_body", "source": "Filter Settings", "translation": "Ustawienia filtrów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_ABYSSPORTAL_body", "source": "Abyss Teleport Tower", "translation": "Wieża teleportacyjna Otchłani", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_ADDABNORMAL_body", "source": "Event NPC", "translation": "NPC wydarzenia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_ALCHEMY_body", "source": "Alchemy Table", "translation": "Stół alchemiczny", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_BLACKSMITH_body", "source": "Blacksmithing Table", "translation": "Stół kowalski", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_COOK_body", "source": "Cooking Table", "translation": "Stół kucharski", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_EXPRESTORE_body", "source": "Soul Healer", "translation": "Uzdrowiciel dusz", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_JEWELCRAFT_body", "source": "Handicrafting Table", "translation": "Stół rzemieślniczy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_MAPPIN_body", "source": "Map Pin", "translation": "Znacznik mapy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITHFRAGMENT_COMPLETE_body", "source": "Empyrean Trace - Collection Complete", "translation": "Ślad Empirian — kolekcja ukończona", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITHFRAGMENT_INCOMPLETE_body", "source": "Empyrean Trace", "translation": "Ślad Empirian", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_MONOLITH_body", "source": "Monolith", "translation": "Monolit", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_SHOP_body", "source": "Merchant", "translation": "Kupiec", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_SKINEXTRACTION_body", "source": "Skin Extractor", "translation": "Ekstraktor wyglądu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_STORAGE_body", "source": "Storage Manager", "translation": "Zarządca składu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_TAILOR_body", "source": "Armorsmithing Table", "translation": "Stół płatnerski", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_TELEPORT_ARTIFACT_body", "source": "Kibelisk", "translation": "Kibelisk", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_WORLDMARKER_body", "source": "World Marker", "translation": "Znacznik świata", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_FILTER_UTILITY_body", "source": "Convenience Feature", "translation": "Udogodnienie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_CORRECT_NAME_DESC_LONG_body", "source": "Enter the new map pin name.", "translation": "Wprowadź nazwę nowego znacznika mapy.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_CORRECT_NAME_DESC_body", "source": "Enter map pin name.", "translation": "Wprowadź nazwę znacznika mapy.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_DEFAULT_NAME_body", "source": "Map Pin_{0}", "translation": "Znacznik mapy_{0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_INFO_body", "source": "You can place up to 30 Map Pins. When all 30 Map Pins are placed, you must remove an existing Map Pin before adding a new one.", "translation": "Możesz umieścić maksymalnie 30 znaczników mapy. Po umieszczeniu wszystkich 30 usuń jeden z istniejących znaczników, zanim dodasz kolejny.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_NAME_DESC_LONG_body", "source": "Enter the new map pin name.", "translation": "Wprowadź nazwę nowego znacznika mapy.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_NAME_DESC_body", "source": "Enter map pin name.", "translation": "Wprowadź nazwę znacznika mapy.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_TITLE_DRAFT_body", "source": "Save Draft", "translation": "Zapisz wersję roboczą", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_MAPPIN_BOOKMARK_TITLE_body", "source": "Map Pin", "translation": "Znacznik mapy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_PIN_ANNOUNCE_NO_PIN_body", "source": "No Map Pins are currently placed.", "translation": "Nie umieszczono żadnych znaczników mapy.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_PIN_ANNOUNCE_SETUP_body", "source": "Place a Map Pin by selecting the desired location on the Map.", "translation": "Umieść znacznik mapy, wybierając odpowiednie miejsce na mapie.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_EMPTY_body", "source": "No Favorites List", "translation": "Brak listy ulubionych", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_INFO_body", "source": "You can register {0} Kibelisks per field. When all {0} are registered, you must remove one from your favorites before adding a new one.", "translation": "Możesz zarejestrować {0} kibelisków na każdym terenie. Po zarejestrowaniu wszystkich {0} usuń jeden z ulubionych, zanim dodasz kolejny.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_BOOKMARK_TITLE_body", "source": "Favorites", "translation": "Ulubione", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_EMPTY_body", "source": "No Kibelisk available to display.", "translation": "Brak kibelisków do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_NUMBER_body", "source": "{0}. {1}", "translation": "{0}. {1}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_LIST_TELEPORTARTIFACT_TITLE_body", "source": "Complete List", "translation": "Pełna lista", "status": "draft"}
+{"id": "String_UI_WORLDMAP_MOVEMAPCONDTION_QUEST_TITLE_body", "source": "Quest Requirements", "translation": "Wymagania zadania", "status": "draft"}
+{"id": "String_UI_WORLDMAP_MOVEMAPCONDTION_QUEST_body", "source": "Step \"{1}\" of \"{0}\" Complete", "translation": "Ukończono krok „{1}” zadania „{0}”", "status": "draft"}
+{"id": "String_UI_WORLDMAP_PARTY_1_body", "source": "P", "translation": "P", "status": "draft"}
+{"id": "String_UI_WORLDMAP_PARTY_2_body", "source": "P", "translation": "P", "status": "draft"}
+{"id": "String_UI_WORLDMAP_PARTY_3_body", "source": "P", "translation": "P", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_BUFF_EMPTY_body", "source": "No artifacts currently occupied.", "translation": "Obecnie nie zajęto żadnych artefaktów.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_DESC_body", "source": "Occupying {0} artifact(s). Level {0} effect activated.", "translation": "Zajęte artefakty: {0}. Aktywowano efekt poziomu {0}.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_EMPTY_DESC_body", "source": "No artifacts currently occupied.", "translation": "Obecnie nie zajęto żadnych artefaktów.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_EMPTY_TITLE_body", "source": "Active Effect: None", "translation": "Aktywny efekt: brak", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_CURRENT_TITLE_body", "source": "Active Effect: Level {0}", "translation": "Aktywny efekt: poziom {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_ABNORMAL_DESC_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_DETAIL_TITLE_body", "source": "Effect per Level Info", "translation": "Informacje o efektach na poszczególnych poziomach", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_BALANCE_body", "source": "Even", "translation": "Parzysty", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_IMBALANCE_body", "source": "{0} Dominant", "translation": "Dominacja {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_FORCE_TITLE_body", "source": "Faction Status:", "translation": "Status frakcji:", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_ABYSSARTIFACT_EFFECT_TITLE_body", "source": "Artifact Occupation Status", "translation": "Status zajęcia artefaktu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MAP_SELECT_TITLE_body", "source": "Change Map", "translation": "Zmień mapę", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_AGGRO_TYPE_AGGRESIVEMONSTER_body", "source": "Aggressive", "translation": "Agresywny", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_AGGRO_TYPE_NOTAGGRESIVEMONSTER_body", "source": "Non-aggressive", "translation": "Nieagresywny", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_GUIDE_LEVELSCALE_body", "source": "※Monster levels will be <Worldmap_Monster_LevelScale>synced</> to the player's level.", "translation": "※ Poziomy potworów zostaną <Worldmap_Monster_LevelScale>dostosowane</> do poziomu gracza.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_LABEL_body", "source": "Spawn Monster", "translation": "Pojawienie się potwora", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_LIST_NO_ITEM_body", "source": "No loot available.", "translation": "Brak dostępnych łupów.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_MONSTER_REWARD_TITLE_body", "source": "Loot Highlights", "translation": "Wyróżnione łupy", "status": "draft"}
+{"id": "String_UI_WORLDMAP_POPUP_TELEPORT_body", "source": "Teleport to {0} region?", "translation": "Teleportować się do regionu {0}?", "status": "draft"}
+{"id": "String_UI_WORLDMAP_REGIONTAP_REGIONEXPLORE_body", "source": "Region Exploration", "translation": "Eksploracja regionu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_REGIONTAP_REGIONINFO_body", "source": "Region Info", "translation": "Informacje o regionie", "status": "draft"}
+{"id": "String_UI_WORLDMAP_REGIONTAP_REGIONINTRO_body", "source": "Region Introduction", "translation": "Opis regionu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_ACQUIRED_body", "source": "Buffed", "translation": "Wzmocniony", "status": "draft"}
+{"id": "String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_LIST_body", "source": "Buff List", "translation": "Lista wzmocnień", "status": "draft"}

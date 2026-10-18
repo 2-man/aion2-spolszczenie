@@ -1,3 +1,73 @@
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_5_Desc_6_body", "source": "Examine the Old Records", "translation": "Zbadaj stare zapiski", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_5_Desc_7_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_5_Desc_8_body", "source": "Go to where the Records are", "translation": "Udaj się tam, gdzie znajdują się zapiski", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Desc_1_body", "source": "Talk to Tefra", "translation": "Porozmawiaj z Tefrą", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Desc_2_body", "source": "Subdue the addicted Creion", "translation": "Obezwładnij uzależnionego Creiona", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Desc_3_body", "source": "Subdue the addicted Shulak", "translation": "Obezwładnij uzależnionego Shulaka", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Desc_4_body", "source": "Operate the brazier", "translation": "Uruchom palenisko", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Desc_5_body", "source": "Talk to Snotra", "translation": "Porozmawiaj ze Snotrą", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP6_6_Title_body", "source": "Check on the workcamp's condition", "translation": "Sprawdź stan obozu pracy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_10_body", "source": "Open the door and go inside", "translation": "Otwórz drzwi i wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_11_body", "source": "Defeat Conclave Officer", "translation": "Pokonaj oficera Konklawe", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_12_body", "source": "Report the situation to Nemon", "translation": "Poinformuj Nemon o sytuacji.", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_13_body", "source": "Investigate the Fafnium", "translation": "Zbadaj fafnium", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_14_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_15_body", "source": "Look around the area", "translation": "Rozejrzyj się po okolicy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_16_body", "source": "Check the torn journal", "translation": "Sprawdź podarty dziennik", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_17_body", "source": "Talk to Nemon about the discovered journal", "translation": "Porozmawiaj z Nemon o odnalezionym dzienniku", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_18_body", "source": "Destroy the Fafnium", "translation": "Zniszcz fafnium", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_1_body", "source": "Be granted entry by the Conclave Watcher", "translation": "Uzyskaj pozwolenie na wejście od Obserwatora Konklawe", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_2_body", "source": "Go through the door", "translation": "Przejdź przez drzwi", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_3_body", "source": "Gather information on the true Fate Archons", "translation": "Zbierz informacje o prawdziwych archontach Losu", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_4_body", "source": "Talk to the Novice Trainee nearby", "translation": "Porozmawiaj z pobliskim początkującym adeptem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_5_body", "source": "Head deeper inside toward the true Fate Archons", "translation": "Udaj się głębiej, w stronę prawdziwych archontów Losu", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_6_body", "source": "Explain to the guard", "translation": "Wyjaśnij strażnikowi", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_7_body", "source": "Defeat the swarming Conclave Guards", "translation": "Pokonaj atakujących chmarą strażników Konklawe", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_8_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvisa", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_2_Desc_9_body", "source": "Go through the door", "translation": "Przejdź przez drzwi", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_1_body", "source": "Check the situation of the shelter", "translation": "Sprawdź sytuację w schronieniu", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_2_body", "source": "Defeat the Mysterious Daeva", "translation": "Pokonaj tajemniczego daeva", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_3_body", "source": "Talk to the collapsed Cedra", "translation": "Porozmawiaj z powaloną Cedrą", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_4_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvisa", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_5_body", "source": "Examine the clues in the area", "translation": "Zbadaj wskazówki w okolicy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_District_EP7_4_Desc_6_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_1_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_2_body", "source": "Talk to the Spice Krus", "translation": "Porozmawiaj z Przyprawowym Krusem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_3_body", "source": "Subdue the Spice Krus", "translation": "Obezwładnij Przyprawowego Krusa", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_4_1_body", "source": "Get fromis_9's Albums", "translation": "Zdobądź albumy fromis_9", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_4_2_body", "source": "Get fromis_9's Light Stick", "translation": "Zdobądź lightstick fromis_9", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_4_3_body", "source": "Get fromis_9's Wings", "translation": "Zdobądź skrzydła fromis_9", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_4_body", "source": "Find fromis_9's props", "translation": "Znajdź rekwizyty fromis_9", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Desc_5_body", "source": "Listen to the Spice Krus's conversation", "translation": "Podsłuchaj rozmowę Przyprawowego Krusa", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_1_Title_body", "source": "Recover fromis_9's props", "translation": "Odzyskaj rekwizyty fromis_9", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Desc_1_body", "source": "Head toward the backstage", "translation": "Udaj się za kulisy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Desc_2_body", "source": "Talk to Song Hayoung", "translation": "Porozmawiaj z Song Hayoung", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Desc_3_body", "source": "Go to the seating area and cheer with the audience (/applaud)", "translation": "Udaj się na widownię i dopinguj razem z publicznością (/applaud)", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Desc_4_body", "source": "Confirm the footage has ended", "translation": "Potwierdź zakończenie nagrania", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Desc_5_body", "source": "Head toward the backstage", "translation": "Udaj się za kulisy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D1_Event1_2_Title_body", "source": "Deliver the props", "translation": "Dostarcz rekwizyty", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_1_Desc_1_body", "source": "Wake up the drunken Moreuk", "translation": "Obudź pijanego Moreuka", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_1_Desc_3_body", "source": "Destroy nearby objects to make a loud noise", "translation": "Zniszcz pobliskie przedmioty, aby narobić hałasu", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_1_Desc_4_body", "source": "Talk to Moreuk", "translation": "Porozmawiaj z Moreukiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_1_Desc_5_body", "source": "Talk to the Villager", "translation": "Porozmawiaj z wieśniakiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_1_Title_body", "source": "Find Moreuk's whereabouts", "translation": "Ustal, gdzie jest Moreuk", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_1_body", "source": "Defeat the Balaur near Adelina", "translation": "Pokonaj Balaura w pobliżu Adeliny", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_2_body", "source": "Check on Adelina", "translation": "Sprawdź, co z Adeliną", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_3_body", "source": "Check the object in Adelina's Hand", "translation": "Sprawdź przedmiot w dłoni Adeliny", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_4_body", "source": "Talk to Moreuk", "translation": "Porozmawiaj z Moreukiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_6_body", "source": "Talk to Gottfried", "translation": "Porozmawiaj z Gottfriedem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_7_body", "source": "Follow Gottfried to the Village", "translation": "Podążaj za Gottfriedem do wioski", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Desc_8_body", "source": "Defeat the swarming Balaur", "translation": "Pokonaj atakujących chmarą Balaurów", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_1_2_Title_body", "source": "Assess the situation near the Barrierstone", "translation": "Oceń sytuację przy Kamieniu Bariery", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_10_body", "source": "Remove the Weakened Mark of Curse", "translation": "Usuń osłabiony Znak Klątwy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_11_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_12_body", "source": "Help Urd to activate the Purifying Magic Circle", "translation": "Pomóż Urd aktywować magiczny krąg oczyszczający", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_13_1_body", "source": "Talk to Skuld's Apparition", "translation": "Porozmawiaj ze zjawą Skuld", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_13_2_body", "source": "Talk to Verdandi's apparition", "translation": "Porozmawiaj ze zjawą Verdandi", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_13_3_body", "source": "Talk to Elvida's apparition", "translation": "Porozmawiaj ze zjawą Elvidy", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_15_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_1_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_2_body", "source": "Check Skuld's Letter", "translation": "Sprawdź list Skuld", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_3_body", "source": "Talk to Urd", "translation": "Porozmawiaj z Urd", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_4_body", "source": "Operate Purifying Brazier", "translation": "Uruchom palenisko oczyszczające", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP7_2_Desc_5_body", "source": "Activate the Magic Circle in the middle", "translation": "Aktywuj krąg magiczny pośrodku", "status": "draft"}
@@ -33,9 +103,9 @@
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_3_body", "source": "Stop the destruction inside", "translation": "Powstrzymaj zniszczenia wewnątrz", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_4_1_body", "source": "Examine the Tattered Paper Scraps", "translation": "Zbadaj podarte skrawki papieru", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_4_2_body", "source": "Check inside the broken chest", "translation": "Zajrzyj do uszkodzonej skrzyni", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_5_body", "source": "Defeat the Fate Archons in the passage", "translation": "Pokonaj archontów Przeznaczenia w przejściu", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_5_body", "source": "Defeat the Fate Archons in the passage", "translation": "Pokonaj archontów Losu w przejściu", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_6_body", "source": "Open the door and go inside", "translation": "Otwórz drzwi i wejdź do środka", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_7_body", "source": "Defeat the Fate Archons inside", "translation": "Pokonaj archontów Przeznaczenia w środku", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_7_body", "source": "Defeat the Fate Archons inside", "translation": "Pokonaj archontów Losu w środku", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_8_body", "source": "Examine the mysterious documents", "translation": "Zbadaj tajemnicze dokumenty", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_9_1_body", "source": "Investigate the Scattered Flyers", "translation": "Zbadaj rozrzucone ulotki", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_1_Desc_9_2_body", "source": "Examine the old tome", "translation": "Zbadaj stary tom", "status": "draft"}
@@ -68,14 +138,14 @@
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_2_Title_body", "source": "Investigate the area inside the Coastal Cave", "translation": "Zbadaj obszar wewnątrz Nadbrzeżnej Jaskini", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_10_body", "source": "Interrogate the subdued Robzev", "translation": "Przesłuchaj obezwładnionego Robzeva", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_11_body", "source": "Talk to Milora here", "translation": "Porozmawiaj tutaj z Milorą", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_1_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_1_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_2_body", "source": "Enter the inner room", "translation": "Wejdź do wewnętrznej sali", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_3_body", "source": "Subdue Milora's minions", "translation": "Obezwładnij sługi Milory", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_4_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_4_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_5_1_body", "source": "Examine the blood-stained supply chest", "translation": "Zbadaj poplamioną krwią skrzynię z zaopatrzeniem", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_5_2_body", "source": "Investigate the scattered propaganda leaflets", "translation": "Zbadaj rozrzucone ulotki propagandowe", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_5_3_body", "source": "Examine the crumpled letter", "translation": "Zbadaj zmięty list", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_6_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemonem", "status": "draft"}
+{"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_6_body", "source": "Talk to Nemon", "translation": "Porozmawiaj z Nemon", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_7_body", "source": "Hold down Nikolai", "translation": "Przytrzymaj Nikołaja", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_8_body", "source": "Head to the inner room", "translation": "Udaj się do wewnętrznej sali", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_D2_District_EP8_3_Desc_9_body", "source": "Subdue Robzev", "translation": "Obezwładnij Robzeva", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Desc_1_body", "source": "Place the Fafnite Piles", "translation": "Ułóż stosy Fafnite", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Desc_2_body", "source": "Destroy the Fafnite Pile", "translation": "Zniszcz stos Fafnite", "status": "draft"}
 {"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_1_body", "source": "Talk to Ione", "translation": "Porozmawiaj z Ione", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_2_body", "source": "Go to the experiment site", "translation": "Udaj się na miejsce eksperymentu", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_3_body", "source": "Place the experiment materials", "translation": "Rozłóż materiały eksperymentalne", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_4_body", "source": "Talk to Phernos", "translation": "Porozmawiaj z Phernosem", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_5_body", "source": "Watch the reenactment of Scarlotus", "translation": "Obejrzyj rekonstrukcję Scarlotusa", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_6_body", "source": "Defeat the Fossa-Shaped Specter", "translation": "Pokonaj widmo w kształcie Fossy", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_7_body", "source": "Defeat the Fossa-Shaped Specter", "translation": "Pokonaj widmo w kształcie Fossy", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_8_body", "source": "Interrupt Scarlotus", "translation": "Przerwij Scarlotusowi", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_1_Title_9_body", "source": "Talk to Ione", "translation": "Porozmawiaj z Ione", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_10_body", "source": "Go to the Destroyed Abyss Gate entrance", "translation": "Udaj się do wejścia do Zniszczonej Bramy Otchłani", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_1_body", "source": "Confirm the operation details", "translation": "Potwierdź szczegóły operacji", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_2_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_3_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_4_body", "source": "Defeat the Drakan around the Egia", "translation": "Pokonaj Drakanów wokół Egii", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_5_body", "source": "Go to the place where the supplies were piled up", "translation": "Udaj się tam, gdzie zgromadzono zapasy", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_6_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_7_1_body", "source": "Read the Egia User Manual", "translation": "Przeczytaj instrukcję obsługi Egii", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_8_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_9_1_body", "source": "Damage the Egia by the water", "translation": "Uszkodź Egię przy wodzie", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_9_2_body", "source": "Damage the Egia in the inner area", "translation": "Uszkodź Egię w wewnętrznej części", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Desc_9_3_body", "source": "Damage the Egia in the pond", "translation": "Uszkodź Egię w stawie", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Title_1_body", "source": "Carry out the operation with Nania", "translation": "Przeprowadź operację z Nanią", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_2_Title_9_body", "source": "Destroy the activated Egia", "translation": "Zniszcz aktywowaną Egię", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_10_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_11_body", "source": "Talk to Bao", "translation": "Porozmawiaj z Bao", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_12_body", "source": "Go to the entrance of Astin's hideout", "translation": "Udaj się do wejścia do kryjówki Astina", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_1_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_2_body", "source": "Go inside the hideout with Luteros", "translation": "Wejdź do kryjówki z Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_3_body", "source": "Urge Astin to surrender", "translation": "Nakłoń Astina do poddania się", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_4_body", "source": "Subdue Astin's minions", "translation": "Obezwładnij sługi Astina", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_5_body", "source": "Subdue Astin's remaining minions", "translation": "Obezwładnij pozostałych sług Astina", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_6_body", "source": "Track Astin, who ran away", "translation": "Wytrop Astina, który uciekł", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_7_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_8_body", "source": "Destroy the Rock Pile Blocking the Path", "translation": "Zniszcz stos skał blokujący przejście", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Desc_9_body", "source": "Follow Luteros", "translation": "Podążaj za Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_3_Title_1_body", "source": "Capture Astin at the hideout that Bao mentioned", "translation": "Pojmaj Astina w kryjówce wskazanej przez Bao", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Desc_1_body", "source": "Talk to Kizeri", "translation": "Porozmawiaj z Kizeri", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Desc_2_body", "source": "Go inside with Luteros", "translation": "Wejdź do środka z Luteros", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Desc_3_body", "source": "Defeat the Twisted Illusion Remnant", "translation": "Pokonaj pozostałość spaczonej iluzji", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Desc_4_body", "source": "Talk to Phernos", "translation": "Porozmawiaj z Phernosem", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Desc_5_body", "source": "Talk to Phernos", "translation": "Porozmawiaj z Phernosem", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_4_Title_1_body", "source": "Check out the ghost mentioned by the Shugo", "translation": "Sprawdź ducha wspomnianego przez Shugo", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_1_body", "source": "Transform into a Kobold", "translation": "Przemień się w kobolda", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_2_body", "source": "Go to Belenis's last location", "translation": "Udaj się do ostatniego miejsca, w którym widziano Belenis", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_3_body", "source": "Talk to the Kobold", "translation": "Porozmawiaj z koboldem", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_4_body", "source": "Find other Kobolds", "translation": "Znajdź pozostałe koboldy", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_5_body", "source": "Talk to the Kobold", "translation": "Porozmawiaj z koboldem", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Desc_6_body", "source": "Go to the Southern Gate", "translation": "Udaj się do Bramy Południowej", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_1_Title_1_body", "source": "Find the location of the missing Illusion Daeva", "translation": "Ustal, gdzie znajduje się zaginiony daeva iluzji", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_1_body", "source": "Enter the Abandoned Drakan Prison", "translation": "Wejdź do Opuszczonego Więzienia Drakan", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_2_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_3_body", "source": "Defeat the Krall patrolling the passage", "translation": "Pokonaj Krall patrolujących przejście", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_4_body", "source": "Defeat all the Krall inside", "translation": "Pokonaj wszystkich Krall w środku", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_5_body", "source": "Open the door that the sound came from", "translation": "Otwórz drzwi, zza których dochodzi dźwięk", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_6_body", "source": "Talk to Belenis", "translation": "Porozmawiaj z Belenis", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_7_1_body", "source": "Find the books about Kaisinel", "translation": "Znajdź księgi o Kaisinel", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_7_body", "source": "Retrieve the Tomes of Illusion", "translation": "Odzyskaj Tomy Iluzji", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_5_2_Title_8_body", "source": "Talk to Belenis", "translation": "Porozmawiaj z Belenis", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_6_Title_1_body", "source": "Go inside the Storage", "translation": "Wejdź do magazynu", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_6_Title_2_body", "source": "Defeat Tog", "translation": "Pokonaj Toga", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP3_6_Title_3_body", "source": "Take care of the supplies", "translation": "Zajmij się zapasami", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_1_body", "source": "Enter Kochi's Quarters", "translation": "Wejdź do kwatery Kochi", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_2_body", "source": "Approach Bao", "translation": "Podejdź do Bao", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_3_body", "source": "Talk to Bao", "translation": "Porozmawiaj z Bao", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_4_body", "source": "Approach Kochi", "translation": "Podejdź do Kochi", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_5_body", "source": "Talk to Kochi", "translation": "Porozmawiaj z Kochi", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_6_1_body", "source": "Investigate in the direction Dodo escaped", "translation": "Zbadaj kierunek, w którym uciekł Dodo", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_6_2_body", "source": "Check Kochi's Meeting Minutes", "translation": "Sprawdź protokół ze spotkania Kochi", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_6_3_body", "source": "Check the Dropped Scraps of Paper", "translation": "Sprawdź upuszczone skrawki papieru", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Desc_7_body", "source": "Talk to Bao", "translation": "Porozmawiaj z Bao", "status": "draft"}
-{"id": "String_STR_MapEvent_FQ_L1_District_EP4_1_1_Title_1_body", "source": "Rescue the hostage safely", "translation": "Bezpiecznie uratuj zakładnika", "status": "draft"}

@@ -1,3 +1,27 @@
+{"id": "String_UI_SHOP_SELL_TIME_OUT_body", "source": "Sale Ended", "translation": "Sprzedaż zakończona", "status": "draft"}
+{"id": "String_UI_SHOP_SERVERTRANSFER_ITEM_LEVEL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SHOP_SERVERTRANSFER_LEVEL_VALUE_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SHOP_SHOP_MILEAGE_POINT_body", "source": "{0} Earned", "translation": "Zdobyto: {0}", "status": "draft"}
+{"id": "String_UI_SHOP_SOLDOUT_body", "source": "Sold Out", "translation": "Wyprzedane", "status": "draft"}
+{"id": "String_UI_SHOP_STEPUP_GOODS_LIST_body", "source": "Linked Products List", "translation": "Lista powiązanych produktów", "status": "draft"}
+{"id": "String_UI_SHOP_STEPUP_NEED_GOODS_GET_body", "source": "Available for purchase after claiming previous item from storage.", "translation": "Można kupić po odebraniu poprzedniego przedmiotu z magazynu.", "status": "draft"}
+{"id": "String_UI_SHOP_TITLE_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_BTN_ALLGET_body", "source": "Collect All", "translation": "Odbierz wszystko", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_BTN_GET_body", "source": "Collect", "translation": "Odbierz", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_COUNT_body", "source": "{0} in total", "translation": "Łącznie: {0}", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_GUIDE_body", "source": "<warning>Refunds are unavailable for items purchased 7 days ago and items that have already been collected.</>", "translation": "<warning>Nie można zwrócić przedmiotów kupionych ponad 7 dni temu ani przedmiotów, które zostały już odebrane.</>", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_INSTANT_RECEIVE_SKIN_body", "source": "Would you like to claim the purchased skin immediately?\nIf not, it may be claimed later through Storage.", "translation": "Czy chcesz od razu odebrać zakupioną skórkę?\nW przeciwnym razie możesz odebrać ją później z magazynu.", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_INSTANT_RECEIVE_body", "source": "Would you like to activate the subscription immediately?\nIf not, the subscription may be activated at a later time through Shop Storage.", "translation": "Czy chcesz od razu aktywować subskrypcję?\nW przeciwnym razie możesz aktywować ją później z magazynu sklepu.", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_LIST_PRODUCT_body", "source": "Products", "translation": "Produkty", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_LIST_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_NONE_body", "source": "No purchase history available.", "translation": "Brak historii zakupów.", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_NOTICE_body", "source": "Refunds are unavailable for items purchased 7 days ago and items that have already been redeemed.", "translation": "Nie można zwrócić przedmiotów kupionych ponad 7 dni temu ani przedmiotów, które zostały już odebrane.", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_ALL_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">Refunds are restricted when you receive an item with a remaining refund period</>,\n<ref style=\"insufficient\" attr=\"color\">and Google Play items are not eligible for refunds.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Po odebraniu przedmiotu, dla którego nadal obowiązuje okres zwrotu, możliwość zwrotu zostanie ograniczona</>,\n<ref style=\"insufficient\" attr=\"color\">a przedmioty z Google Play nie podlegają zwrotowi.</>", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_BTN_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_GPP_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">As a Google Play item, it is not eligible for refunds.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Tego przedmiotu z Google Play nie można zwrócić.</>", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">Refunds are restricted when you receive an item with a remaining refund period.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Po odebraniu przedmiotu, dla którego nadal obowiązuje okres zwrotu, możliwość zwrotu zostanie ograniczona.</>", "status": "draft"}
+{"id": "String_UI_SHOP_WAREHOUSE_SUBSCRIBE_GUIDE_body", "source": "Membership products cannot be collected all at once. Items must be collected individually.", "translation": "Produktów członkowskich nie można odebrać zbiorczo. Każdy przedmiot należy odebrać osobno.", "status": "draft"}
 {"id": "String_UI_SHOP_WAREHOUSE_WITHDRAW_EXPIRED_body", "source": "Expired", "translation": "Wygasło", "status": "draft"}
 {"id": "String_UI_SHOP_WAREHOUSE_WITHDRAW_PERIOD_body", "source": "Refund Period: {0}", "translation": "Okres zwrotu: {0}", "status": "draft"}
 {"id": "String_UI_SHUGOFESTA_INFO_POPUP_ENTRY_MEMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
@@ -83,7 +107,7 @@
 {"id": "String_UI_SKILL_AUTO_SETTING_RATIO_BUTTON_LESS_body", "source": "or less", "translation": "lub mniej", "status": "draft"}
 {"id": "String_UI_SKILL_AUTO_SETTING_RATIO_BUTTON_MORE_body", "source": "or more", "translation": "lub więcej", "status": "draft"}
 {"id": "String_UI_SKILL_AUTO_SETTING_body", "source": "Combat Support", "translation": "Wsparcie w walce", "status": "draft"}
-{"id":"String_UI_SKILL_AUTO_body","source":"Auto","translation":"Automatycznie","status":"draft"}
+{"id": "String_UI_SKILL_AUTO_body", "source": "Auto", "translation": "Automatycznie", "status": "draft"}
 {"id": "String_UI_SKILL_CHAINSKILL_TITLE_body", "source": "Chain Skill/Conditional Skill", "translation": "Umiejętność łańcuchowa / warunkowa", "status": "draft"}
 {"id": "String_UI_SKILL_CONTEXT_INFO_GUIDE_body", "source": "Skills are shown in quickslots based on ascending priority if they have been acquired, are not on cooldown, and whose conditions have been met (for Conditional Skills).\n\nPriority is ascending from row 3 to 0.", "translation": "Zdobyte umiejętności, które nie są odnawiane, są wyświetlane na szybkich slotach według rosnącego priorytetu. W przypadku umiejętności warunkowych muszą być także spełnione ich warunki.\n\nPriorytet rośnie od wiersza 3 do 0.", "status": "draft"}
 {"id": "String_UI_SKILL_DIALOGUE_FULL_CONTEXT_SLOT_RESET_TITLE_body", "source": "Would you like to revert the skills to default positions?\n(The current preset positions will be reset. Stigma skills must be set again.)", "translation": "Czy przywrócić domyślne położenie umiejętności?\n(Zostaną zresetowane pozycje bieżącego zestawu. Umiejętności stygmatów trzeba będzie ustawić ponownie.)", "status": "draft"}
@@ -124,7 +148,7 @@
 {"id": "String_UI_SKILL_POPUP_STIGMA_ACTIVATION_CONFIRM_body", "source": "You own <desc_point>{0}</>.\nWould you like to register it?", "translation": "Posiadasz <desc_point>{0}</>.\nCzy chcesz go zarejestrować?", "status": "draft"}
 {"id": "String_UI_SKILL_QUICKSLOT_MACRO_POPUP_TITLE_body", "source": "Macro Icon Settings", "translation": "Ustawienia ikony makra", "status": "draft"}
 {"id": "String_UI_SKILL_QUICKSLOT_MACRO_TITLE_body", "source": "QUICK SLOT MACRO", "translation": "MAKRO SZYBKIEGO SLOTU", "status": "draft"}
-{"id":"String_UI_SKILL_SETTING_AUTO_body","source":"AUTO","translation":"AUTOMATYCZNIE","status":"draft"}
+{"id": "String_UI_SKILL_SETTING_AUTO_body", "source": "AUTO", "translation": "AUTOMATYCZNIE", "status": "draft"}
 {"id": "String_UI_SKILL_SETTING_MACRO_ADD_body", "source": "Add Macro", "translation": "Dodaj makro", "status": "draft"}
 {"id": "String_UI_SKILL_SETTING_MACRO_DELAY_body", "source": "Delay", "translation": "Opóźnienie", "status": "draft"}
 {"id": "String_UI_SKILL_SETTING_MACRO_DESC_body", "source": "1. Setup\n- Use the Add Macro button to add steps.\n- A delay can be set for each step.\n\n2. How to Use\n- PC: Hotkeys can be configured in Settings > Key Settings > General > Macro. The macro executes while the assigned hotkey is held down.\n- All: If manual input occurs during macro execution, manual input always takes precedence.\n\n3. Warning\n- If you set a mouse operation-related button as a hotkey, that hotkey will not function in AION 1 Control Mode.\n- Macros will continuously attempt to advance to the next step. As such, step order is not guaranteed.", "translation": "1. Konfiguracja\n- Użyj przycisku Dodaj makro, aby dodać kroki.\n- Dla każdego kroku można ustawić opóźnienie.\n\n2. Sposób użycia\n- PC: Skróty klawiszowe można skonfigurować w Ustawienia > Ustawienia klawiszy > Ogólne > Makro. Makro działa, gdy przypisany klawisz jest wciśnięty.\n- Wszystkie: Jeśli podczas działania makra użyjesz sterowania ręcznego, ma ono zawsze pierwszeństwo.\n\n3. Ostrzeżenie\n- Jeśli jako skrót ustawisz przycisk powiązany z obsługą myszy, nie będzie on działać w trybie sterowania AION 1.\n- Makra nieustannie próbują przejść do następnego kroku, dlatego kolejność kroków nie jest gwarantowana.", "status": "draft"}
@@ -224,27 +248,3 @@
 {"id": "String_UI_SKIN_BUFF_TAB_DEF_body", "source": "Defense", "translation": "Obrona", "status": "draft"}
 {"id": "String_UI_SKIN_BUFF_TAB_MAG_ATT_body", "source": "Magic Attack", "translation": "Atak magiczny", "status": "draft"}
 {"id": "String_UI_SKIN_BUFF_TAB_PHY_ATT_body", "source": "Physical Attack", "translation": "Atak fizyczny", "status": "draft"}
-{"id": "String_UI_SKIN_BUFF_TAB_UTILITY_body", "source": "Utility", "translation": "Użytkowe", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_EFFECT_body", "source": "Collection Effect", "translation": "Efekt kolekcji", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_COMMON_body", "source": "Common", "translation": "Zwykła", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_EPIC_body", "source": "Heroic", "translation": "Heroiczna", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_GUIDE_body", "source": "Gain Collection Points when obtaining the skin for the first time.", "translation": "Przy pierwszym zdobyciu skórki otrzymasz punkty kolekcji.", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_LEGEND_body", "source": "Epic", "translation": "Epicka", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_RARE_body", "source": "Rare", "translation": "Rzadka", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_TITLE_body", "source": "Points Gained by Skin Grade", "translation": "Punkty za rangę skórki", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_INFO_UNIQUE_body", "source": "Unique", "translation": "Unikatowa", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_POINT_GUIDE_BUTTON_body", "source": "Points Gained", "translation": "Zdobyte punkty", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_POINT_body", "source": "{0} pts.", "translation": "{0} pkt", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_0_body", "source": "0", "translation": "0", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_VALUE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_RATE_STAT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_RATE_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_GUIDE_body", "source": "{1} per {0} pt(s)", "translation": "{1} na każde {0} pkt", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_STATE_INFO_body", "source": "Stats increase per Collection Point", "translation": "Statystyki rosną za każdy punkt kolekcji", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_STATE_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
-{"id": "String_UI_SKIN_COLLECTION_WEAPON_GUIDE_body", "source": "The weapon skins of another class are not added to total collection points.", "translation": "Skórki broni innych klas nie są wliczane do łącznej liczby punktów kolekcji.", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_AUTOREGISTERBUTTON_body", "source": "Auto Register", "translation": "Zarejestruj automatycznie", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_CHECK_RESULT_body", "source": "Please check the results.", "translation": "Sprawdź wyniki.", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_COMBINEBUTTON_body", "source": "Combine", "translation": "Połącz", "status": "draft"}
-{"id": "String_UI_SKIN_COMBINE_COMBINENTIMESBUTTON_body", "source": "Combine X {0}", "translation": "Połącz × {0}", "status": "draft"}

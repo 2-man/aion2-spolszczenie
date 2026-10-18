@@ -1,250 +1,250 @@
-{"id":"String_UI_ARENA_HUD_REMAIN_DEATH_body","source":"D","translation":"D","status":"draft"}
-{"id":"String_UI_ARENA_HUD_REMAIN_KILL_body","source":"K","translation":"K","status":"draft"}
-{"id":"String_UI_ARENA_HUD_REMAIN_TIME_TIME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARENA_HUD_REMAIN_TIME_TITLE_body","source":"Time Left","translation":"Pozostały czas","status":"draft"}
-{"id":"String_UI_ARENA_HUD_RESULT_ASSIST_body","source":"Assist","translation":"Asysta","status":"draft"}
-{"id":"String_UI_ARENA_HUD_RESULT_DEATH_body","source":"Death","translation":"Śmierć","status":"draft"}
-{"id":"String_UI_ARENA_HUD_RESULT_KILL_body","source":"Kill","translation":"Zabójstwo","status":"draft"}
-{"id":"String_UI_ARENA_HUD_RESULT_TEAM_BLUE_body","source":"Team BLUE","translation":"Drużyna niebieskich","status":"draft"}
-{"id":"String_UI_ARENA_HUD_RESULT_TEAM_RED_body","source":"Team RED","translation":"Drużyna czerwonych","status":"draft"}
-{"id":"String_UI_ARENA_HUD_TEAM_MEMBER_SCREEN_WATCH_body","source":"Spectate party members by clicking their UI icon.","translation":"Obserwuj członków drużyny, klikając ich ikonę interfejsu.","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_AVAILABLE_TIME_ALWAYS_body","source":"Always Available","translation":"Zawsze dostępne","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_AVAILABLE_TIME_DAY_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_AVAILABLE_TIME_START_END_TIME_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_AVAILABLE_TITLE_body","source":"Matchmaking Time","translation":"Czas dobierania","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_CANCEL_PENALTY_body","source":"Unable to participate in matchmaking for a period of time due to repetitive cancellation.","translation":"Wielokrotne anulowanie dobierania uniemożliwia udział w kolejnych rozgrywkach przez pewien czas.","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_BUTTON_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_COMPLETE_ENTER_WAITING_TIME_body","source":"{0}s","translation":"{0}s","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body","source":"Entering the arena shortly.","translation":"Wkrótce wejdziesz na arenę.","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_WAITING_TIME_body","source":"{0}s","translation":"{0}s","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_TITLE_body","source":"Matchmaking Complete","translation":"Dobieranie zakończone","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_COMPLETE_POPUP_WARNING_body","source":"Cancelling matchmaking repeatedly once it has already completed\nmay result in arena entry being restricted.","translation":"Wielokrotne anulowanie dobierania, które już się zakończyło,\nmoże skutkować ograniczeniem dostępu do areny.","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_POPUP_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_POPUP_ELAPSED_TIME_TEXT_body","source":"Elapsed Time","translation":"Czas, który upłynął","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_POPUP_ELAPSED_TIME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARENA_MATCHING_POPUP_TITLE_body","source":"Matchmaking in progress","translation":"Trwa dobieranie","status":"draft"}
-{"id":"String_UI_ARENA_NEXT_SEASON_START_UNDETERMINED_body","source":"Next season start is not yet determined.","translation":"Termin rozpoczęcia następnego sezonu nie jest jeszcze znany.","status":"draft"}
-{"id":"String_UI_ARENA_NEXT_SEASON_START_body","source":"The next season will begin on {0}.","translation":"Następny sezon rozpocznie się {0}.","status":"draft"}
-{"id":"String_UI_ARENA_PARTY_MATCHING_INFO_body","source":"When queuing as a party,\nmatchmaking is only available for full 5-player parties, and matches are made exclusively between 5-player parties.","translation":"Dobieranie w drużynie jest dostępne wyłącznie dla pełnych, 5-osobowych drużyn,\na mecze odbywają się tylko między takimi drużynami.","status":"draft"}
-{"id":"String_UI_ARENA_QUIT_GAME_PENALTY_body","source":"You have been restricted from matchmaking for a period of time due to repetitive match abandonment.","translation":"Wielokrotne opuszczanie meczów uniemożliwia dobieranie przez pewien czas.","status":"draft"}
-{"id":"String_UI_ARENA_QUIT_GAME_POPUP_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_ARENA_QUIT_GAME_POPUP_BUTTON_QUIT_body","source":"Abandon","translation":"Opuść","status":"draft"}
-{"id":"String_UI_ARENA_QUIT_GAME_POPUP_DESC_body","source":"Abandoning in the middle of a match will result in a defeat, and an even greater loss of RP.\nRepeatedly abandoning matches will result in being temporarily suspended entering Arena.","translation":"Opuszczenie meczu w jego trakcie oznacza porażkę i większą utratę RP.\nWielokrotne opuszczanie meczów spowoduje czasowe zawieszenie dostępu do areny.","status":"draft"}
-{"id":"String_UI_ARENA_QUIT_GAME_POPUP_TITLE_body","source":"Abandon","translation":"Opuść","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_ALL_RANK_body","source":"Rank: Rank {0}","translation":"Miejsce: {0}","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_CLASS_RANK_WITHIN_body","source":"{0} Rank: Within Rank {1}","translation":"Miejsce {0}: w pierwszej {1}","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_CLASS_RANK_body","source":"{0} Rank: Rank {1}","translation":"Miejsce {0}: {1}","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RANK_PERCENT_body","source":"Rank within Top {0}%","translation":"Miejsce w pierwszych {0}%","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RANK_body","source":"Within Rank {0}","translation":"Miejsce w rankingu: {0} lub wyższe","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RP_body","source":"Over {0} RP","translation":"Powyżej {0} RP","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_GRADE_UP_CONDITION_body","source":"{0} Promotion Condition","translation":"Warunek awansu: {0}","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_LOSE_body","source":"Defeat","translation":"Porażka","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_CHANGE_body","source":"Changes","translation":"Zmiany","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_CHARACTER_body","source":"Character","translation":"Postać","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_CLASS_body","source":"Class","translation":"Klasa","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_CURRENT_GRADE_body","source":"Current Tier","translation":"Obecny poziom","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_LEVEL_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_RANKING_POINT_body","source":"Rank Points","translation":"Punkty rankingowe","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_CATEGORY_RANK_body","source":"Rank","translation":"Miejsce","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_MY_RANK_body","source":"My Rank","translation":"Moje miejsce","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_ONBOARDING_NO_INFO_body","source":"No rank information available.","translation":"Brak informacji o miejscu w rankingu.","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_PAGE_SEARCH_BAR_GUIDE_body","source":"Enter a search keyword.","translation":"Wpisz szukaną frazę.","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_QUIT_GAME_body","source":"Interrupted","translation":"Przerwano","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RANK_PERCENT_body","source":"(Top {0}%)","translation":"(pierwsze {0}%)","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RANK_WITHIN_body","source":"(Within Rank {0})","translation":"(miejsce w rankingu: {0} lub wyższe)","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RANK_body","source":"(Rank {0})","translation":"(miejsce {0})","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RECORD_body","source":"Arena Record","translation":"Wyniki na arenie","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RENEWAL_body","source":"Promotion and demotion take effect when ranks are updated.","translation":"Awans i spadek rangi obowiązują po aktualizacji rankingu.","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_RP_body","source":"{0} RP","translation":"{0} RP","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_SERIAL_WIN_body","source":"Consecutive Wins","translation":"Zwycięstwa z rzędu","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_TIE_body","source":"Draw","translation":"Remis","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_TITLE_body","source":"My Rank","translation":"Moje miejsce","status":"draft"}
-{"id":"String_UI_ARENA_RANKING_WIN_body","source":"Victory","translation":"Zwycięstwo","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_DATE_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_NO_RECORD_body","source":"No recent match history.","translation":"Brak historii ostatnich meczów.","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_RESULT_DRAW_body","source":"Draw","translation":"Remis","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_RESULT_LOSE_body","source":"Defeat","translation":"Porażka","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_RESULT_TIE_body","source":"Draw","translation":"Remis","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_RESULT_WIN_body","source":"Victory","translation":"Zwycięstwo","status":"draft"}
-{"id":"String_UI_ARENA_RECENT_GAMES_TITLE_body","source":"Last 10 Matches","translation":"Ostatnie 10 meczów","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_BUTTON_REENTER_body","source":"Re-enter","translation":"Wejdź ponownie","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_DESC_body","source":"{0} match is still in progress.\nWould you like to rejoin?","translation":"Mecz {0} wciąż trwa.\nCzy chcesz do niego wrócić?","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_REMAIN_TIME_body","source":"Time Left: <Quit_TimeCount>{0}</>","translation":"Pozostały czas: <Quit_TimeCount>{0}</>","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_TITLE_body","source":"Re-enter","translation":"Wejdź ponownie","status":"draft"}
-{"id":"String_UI_ARENA_REENTER_POPUP_WARNING_body","source":"If you decline, the match result will be registered as a defeat.","translation":"Odmowa oznacza zarejestrowanie porażki.","status":"draft"}
-{"id":"String_UI_ARENA_RESPAWN_TIME_body","source":"{0}s","translation":"{0}s","status":"draft"}
-{"id":"String_UI_ARENA_RESPAWN_TITLE_body","source":"Respawn","translation":"Odrodzenie","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_DRAW_body","source":"Draw","translation":"Remis","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_EXIT_BUTTON_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_LOSE_body","source":"Defeat","translation":"Porażka","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_RANKING_RANK_PERCENT_body","source":"(Top {0}%)","translation":"(pierwsze {0}%)","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_RANKING_RANK_WITHIN_body","source":"(Within Rank {0})","translation":"(miejsce w rankingu: {0} lub wyższe)","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_RANKING_RANK_body","source":"(Rank {0})","translation":"(miejsce {0})","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_RANKING_RP_body","source":"RP","translation":"RP","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_REWARD_JOIN_body","source":"Participation Reward","translation":"Nagroda za udział","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_REWARD_WIN_body","source":"Victory Reward","translation":"Nagroda za zwycięstwo","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_TIE_body","source":"Draw","translation":"Remis","status":"draft"}
-{"id":"String_UI_ARENA_RESULT_WIN_body","source":"Victory","translation":"Zwycięstwo","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_JOIN_body","source":"Participation Reward","translation":"Nagroda za udział","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_DESC_body","source":"* Season End Rewards will be sent to your cube when the next Season begins.","translation":"* Nagrody za koniec sezonu zostaną wysłane do ekwipunku po rozpoczęciu kolejnego sezonu.","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_BUFF_body","source":"Buffs (Lasts until end of next season)","translation":"Premie (aktywne do końca następnego sezonu)","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_ITEM_body","source":"Item","translation":"Przedmiot","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_MAX_body","source":"Rank {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_MIN_TO_MAX_body","source":"Rank {0}-{1}","translation":"Miejsca {0}-{1}","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_PERCENT_MAX_body","source":"Top {0}%","translation":"Pierwsze {0}%","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_body","source":"Class Rank Rewards","translation":"Nagrody za miejsce w rankingu klasy","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_COMMON_body","source":"Tier Rewards","translation":"Nagrody za poziom","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_POPUP_TITLE_body","source":"Season End Rewards","translation":"Nagrody za koniec sezonu","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_SEASON_body","source":"Season End Rewards","translation":"Nagrody za koniec sezonu","status":"draft"}
-{"id":"String_UI_ARENA_REWARD_WIN_body","source":"Victory Reward","translation":"Nagroda za zwycięstwo","status":"draft"}
-{"id":"String_UI_ARENA_SEASON_DATE_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_ARENA_SEASON_END_body","source":"Season has ended.","translation":"Sezon się zakończył.","status":"draft"}
-{"id":"String_UI_ARENA_SEASON_TITLE_body","source":"Season","translation":"Sezon","status":"draft"}
-{"id":"String_UI_ARENA_SINGLE_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body","source":"Participation Reward {0}/{1}","translation":"Nagroda za udział {0}/{1}","status":"draft"}
-{"id":"String_UI_ARENA_SINGLE_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body","source":"Victory Reward {0}/{1}","translation":"Nagroda za zwycięstwo {0}/{1}","status":"draft"}
-{"id":"String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_LOADING_COMPLETE_body","source":"Loading Complete","translation":"Wczytywanie zakończone","status":"draft"}
-{"id":"String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_LOADING_body","source":"Loading","translation":"Wczytywanie","status":"draft"}
-{"id":"String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_RP_body","source":"RP","translation":"RP","status":"draft"}
-{"id":"String_UI_ARENA_STANDBY_SCENE_TEAM_BLUE_body","source":"BLUE","translation":"NIEBIESCY","status":"draft"}
-{"id":"String_UI_ARENA_STANDBY_SCENE_TEAM_RED_body","source":"RED","translation":"CZERWONI","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body","source":"Participation Reward {0}/{1}","translation":"Nagroda za udział {0}/{1}","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body","source":"Victory Reward {0}/{1}","translation":"Nagroda za zwycięstwo {0}/{1}","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_CARMODE_INFO_GUIDE_body","source":"Push the Shard Catalyst into the enemy camp within the time limit in order to win. If neither team is able to push the Shard Catalyst into the enemy camp, the team that pushed it farthest wins.","translation":"Aby wygrać, przepchnij Odłamek Shard Catalyst do obozu wroga przed upływem czasu. Jeśli żadna drużyna tego nie dokona, wygra ta, która przepchnęła go dalej.","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_CARMODE_body","source":"Odyle Shard Cradle","translation":"Kołyska Odłamka Odyle","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_CTFMODE_INFO_GUIDE_body","source":"Earn 1 point by capturing the enemy flag while protecting your own. The first team to reach 2 points wins.\nDetailed rules can be found in the Guidebook on the official site.","translation":"Zdobądź 1 punkt, przejmując flagę wroga i broniąc własnej. Wygrywa pierwsza drużyna, która zdobędzie 2 punkty.\nSzczegółowe zasady znajdziesz w poradniku na oficjalnej stronie.","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_CTFMODE_body","source":"Stormslumber Snowfield","translation":"Śnieżne Pole Burzowego Snu","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_DOMMODE_INFO_GUIDE_body","source":"Earn points by driving enemies out of the Bases and occupying them. The first team to reach 1500 points wins.\nDetailed rules can be found in the Guidebook on the official site.","translation":"Zdobywaj punkty, wypierając wrogów z baz i zajmując je. Wygrywa pierwsza drużyna, która zdobędzie 1500 punktów.\nSzczegółowe zasady znajdziesz w poradniku na oficjalnej stronie.","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_DOMMODE_body","source":"Sandstorm Temple","translation":"Świątynia Piaskowej Burzy","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_MODE_body","source":"Currently Available Mode","translation":"Dostępny tryb","status":"draft"}
-{"id":"String_UI_ARENA_STRATEGY_QUIT_GAME_POPUP_DESC_body","source":"Abandoning matches counts as a defeat.\nRepeatedly abandoning matches will result in being restricted from entering Arena for a fixed period.","translation":"Opuszczenie meczu oznacza porażkę.\nWielokrotne opuszczanie meczów spowoduje czasowe ograniczenie dostępu do areny.","status":"draft"}
-{"id":"String_UI_ARENA_TAB_RANKING_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_ARENA_TAB_SHOP_body","source":"Trade Shop","translation":"Sklep wymiany","status":"draft"}
-{"id":"String_UI_ARENA_TEAM_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body","source":"Participation Reward {0}/{1}","translation":"Nagroda za udział {0}/{1}","status":"draft"}
-{"id":"String_UI_ARENA_TEAM_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body","source":"Victory Reward {0}/{1}","translation":"Nagroda za zwycięstwo {0}/{1}","status":"draft"}
-{"id":"String_UI_ARTIFACTDUNGEON_HUD_ABYSSPOINT_COUNT_body","source":"Abyss Points Acquired: <AbyssArtifact_Point>{0}</>","translation":"Zdobyte punkty Otchłani: <AbyssArtifact_Point>{0}</>","status":"draft"}
-{"id":"String_UI_ARTIFACTDUNGEON_HUD_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARTIFACTDUNGEON_HUD_TIME_EXPIRED_body","source":"Time Expired","translation":"Czas minął","status":"draft"}
-{"id":"String_UI_ARTIFACTDUNGEON_HUD_TIME_body","source":"Time Left {0}","translation":"Pozostały czas {0}","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_ARTIFACT_RESET_body","source":"All artifacts have had occupation states reset.","translation":"Zresetowano stan zajęcia wszystkich artefaktów.","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_END_REWARD_ABYSSPOINT_body","source":"{0} Abyss Points","translation":"{0} pkt Otchłani","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_END_REWARD_TITLE_body","source":"Rewards","translation":"Nagrody","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_ALLY_COUNT_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_CORRIDOR_CLOSED_body","source":"Unavailable","translation":"Niedostępne","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_CORRIDOR_EXPIRATION_body","source":"Usage Time Expired","translation":"Czas użytkowania wygasł","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_CORRIDOR_OPEN_body","source":"Passage Usage Time {0}","translation":"Czas przejścia: {0}","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_ENEMY_COUNT_body","source":"{1}","translation":"{1}","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_EVENT_PREPARE_body","source":"Preparing...","translation":"Przygotowanie...","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_EVENT_TITLE_body","source":"Artifact Siege","translation":"Oblężenie artefaktu","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_HUD_PROGRESS_TIME_TEXT_body","source":"Time Left: {0}:{1}","translation":"Pozostały czas: {0}:{1}","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_NEXT_TIME_TITLE_body","source":"Next Siege in","translation":"Do następnego oblężenia","status":"draft"}
-{"id":"String_UI_ARTIFACTWAR_NEXT_TIME_WAIT_body","source":"Waiting","translation":"Oczekiwanie","status":"draft"}
-{"id":"String_UI_ATTENDANCE_CHECK_COMPLETED_body","source":"Collect","translation":"Odbierz","status":"draft"}
-{"id":"String_UI_ATTENDANCE_COMPLETED_body","source":"Attendance Logged","translation":"Zalogowano obecność","status":"draft"}
-{"id":"String_UI_ATTENDANCE_DATE_body","source":"Attendance Period: {0} to {1}","translation":"Okres obecności: od {0} do {1}","status":"draft"}
-{"id":"String_UI_ATTENDANCE_DAYS_body","source":"{0}d","translation":"{0} dni","status":"draft"}
-{"id":"String_UI_ATTENDANCE_NOTICE_02_body","source":"Applied per server","translation":"Obowiązuje na serwerze","status":"draft"}
-{"id":"String_UI_ATTENDANCE_NOTICE_body","source":"Resets daily at {0}","translation":"Reset codziennie o {0}","status":"draft"}
-{"id":"String_UI_ATTENDANCE_REWARD_COMPLETED_body","source":"Complete","translation":"Ukończono","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_001_body","source":"Prelude to Adventure","translation":"Przedświt przygody","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_002_body","source":"Dummy Data","translation":"Dane testowe","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_003_body","source":"Record of First Journey","translation":"Zapis pierwszej podróży","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_004_body","source":"Atreian Winter","translation":"Atreiańska zima","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_005_body","source":"Holiday Eve Gift","translation":"Prezent w przeddzień święta","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_006_body","source":"Merry Daeva Holiday!","translation":"Wesołych świąt, daevie!","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_007_body","source":"Happy New Year","translation":"Szczęśliwego Nowego Roku","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_008_body","source":"Year of the Red Horse","translation":"Rok Czerwonego Konia","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_009_body","source":"Record of Second Journey","translation":"Zapis drugiej podróży","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_010_body","source":"A New Leap","translation":"Nowy krok naprzód","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_011_body","source":"Red Horse Festival","translation":"Święto Czerwonego Konia","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_012_body","source":"Sparkling New Year Story","translation":"Iskrząca się opowieść noworoczna","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_013_body","source":"100th Day Party","translation":"Święto setnego dnia","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_014_body","source":"Reaching for Tomorrow","translation":"Sięgając ku jutru","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_015_body","source":"Flapping Wings","translation":"Trzepot skrzydeł","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_016_body","source":"Will of Atreia","translation":"Wola Atrei","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_017_body","source":"A Warm Journey Together","translation":"Wspólna, ciepła podróż","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_018_body","source":"Invitation to a Season in Bloom","translation":"Zaproszenie na kwitnącą porę roku","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_019_body","source":"Step by Step Together","translation":"Krok po kroku, razem","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_020_body","source":"A New Adventure Begins","translation":"Rozpoczyna się nowa przygoda","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_021_body","source":"A Breath of Fresh Air","translation":"Powiew świeżości","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_022_body","source":"Atreia Summer","translation":"Lato w Atrei","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_023_body","source":"Dazzling Summer Break","translation":"Olśniewające letnie wakacje","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_G_001_body","source":"Launch Celebration Shugo Check-In","translation":"Świętowanie startu: codzienna wizyta Shugo","status":"draft"}
-{"id":"String_UI_ATTENDANCE_TITLE_G_002_body","source":"Daily Attendance","translation":"Codzienna obecność","status":"draft"}
-{"id":"String_UI_ATTNEDANCE_GET_REWARD_body","source":"Collect Rewards","translation":"Odbierz nagrody","status":"draft"}
-{"id":"String_UI_AUTODECOMPOSE_OFF_body","source":"OFF","translation":"WYŁ.","status":"draft"}
-{"id":"String_UI_AUTODECOMPOSE_ON_body","source":"ON","translation":"WŁ.","status":"draft"}
-{"id":"String_UI_AUTOMOVE_PANNEL_SPEED_FLY_body","source":"Flight Speed","translation":"Prędkość lotu","status":"draft"}
-{"id":"String_UI_AUTOMOVE_PANNEL_SPEED_SPRINT_body","source":"Move Speed","translation":"Szybkość ruchu","status":"draft"}
-{"id":"String_UI_AUTOMOVE_POPUP_TRANSITION_TO_FLY_DESC_body","source":"Cannot reach via the ground.\nWould you like to switch to flight?","translation":"Nie da się tam dotrzeć pieszo.\nCzy chcesz wzbić się w powietrze?","status":"draft"}
-{"id":"String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_BUY_body","source":"Purchase Settings","translation":"Ustawienia zakupu","status":"draft"}
-{"id":"String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_SELL_body","source":"Sale Settings","translation":"Ustawienia sprzedaży","status":"draft"}
-{"id":"String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_body","source":"Quick Register Settings","translation":"Ustawienia szybkiej rejestracji","status":"draft"}
-{"id":"String_UI_AUTOREGISTER_DETAIL_SETTING_CRAFT_COMPONENT_OPTION_TITLE_body","source":"Exclude Crafting Material Gear","translation":"Wyklucz sprzęt będący materiałem rzemieślniczym","status":"draft"}
-{"id":"String_UI_AUTOREGISTER_EXCLUDE_PERIOD_COLLECITON_body","source":"Exclude Supply Request Gear","translation":"Wyklucz sprzęt do zleceń zaopatrzeniowych","status":"draft"}
-{"id":"String_UI_AUTOREGISTER_IFNO_DESC_body","source":"Auto Extract only works on items from drops, Odyle Energy Cubes, and Monster Cubes (Shugo Festival, Dimensional Invasion).\n\nIf there is insufficient Kina to Auto Extract, it will automatically stop.\n\nWhen Exclude Supply Request Gear is checked, gear from incomplete Supply Requests will be excluded.","translation":"Automatyczne pozyskiwanie działa tylko na przedmiotach z łupów, kostkach energii Odyle i kostkach potworów (Święto Shugo, Inwazja wymiarów).\n\nJeśli brakuje Kina na automatyczne pozyskiwanie, proces zatrzyma się.\n\nPo zaznaczeniu opcji wykluczania sprzętu do zleceń zaopatrzeniowych pomijany będzie sprzęt z nieukończonych zleceń.","status":"draft"}
-{"id":"String_UI_AUTOREGISTER_SETTING_FILTER_body","source":"Item Category","translation":"Kategoria przedmiotu","status":"draft"}
-{"id":"String_UI_AUTOREGISTER_SETTING_GRADE_body","source":"Item Grade","translation":"Ranga przedmiotu","status":"draft"}
-{"id":"String_UI_AUTOSETTING_TITLE_body","source":"Auto Combat Settings","translation":"Ustawienia automatycznej walki","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_DESPAIR_body","source":"Insane","translation":"Obłędny","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_DOOM_body","source":"Doom","translation":"Zagłada","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_EASY_body","source":"Easy","translation":"Łatwy","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_EXTREME_body","source":"Extreme","translation":"Ekstremalny","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_HARD_body","source":"Hard","translation":"Trudny","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_HELL_body","source":"Hell","translation":"Piekielny","status":"draft"}
-{"id":"String_UI_AWAKEN_DIFFICULTY_NORMAL_body","source":"Normal","translation":"Normalny","status":"draft"}
-{"id":"String_UI_AWAKEN_ENTER_FAIL_BY_SEASON_body","source":"Cannot enter as the season has ended.","translation":"Nie można wejść, ponieważ sezon się zakończył.","status":"draft"}
-{"id":"String_UI_AWAKEN_ERROR_BY_SEASON_PERIOD_body","source":"Dungeon has changed.\nPlease try again.","translation":"Loch uległ zmianie.\nSpróbuj ponownie.","status":"draft"}
-{"id":"String_UI_AWAKEN_ERROR_BY_SEASON_body","source":"Season has ended.","translation":"Sezon się zakończył.","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_BONUS_BOSSDEBUFF_TITLE_body","source":"Extra Objective: Boss Dungeon Debuff received","translation":"Dodatkowy cel: otrzymano osłabienie lochu bossa","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_BONUS_PCBUFF_1_body","source":"Clear the 1st room within {0}","translation":"Ukończ pierwszą salę w czasie {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_BONUS_PCBUFF_2_body","source":"Clear the 2nd room within {0}","translation":"Ukończ drugą salę w czasie {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_BONUS_PCBUFF_3_body","source":"Clear the 3rd room within {0}","translation":"Ukończ trzecią salę w czasie {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_BONUS_PCBUFF_TITLE_body","source":"Extra Objective: Ascension Trial Trait received","translation":"Dodatkowy cel: otrzymano cechę Próby Wstąpienia","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_DEATHLIMIT_body","source":"Remaining Deaths: {0}","translation":"Pozostałe śmierci: {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_HUD_TIMELIMIT_body","source":"Time","translation":"Czas","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_BTN_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_CONTENTS_TICKET_TITLE_body","source":"Attempt Count","translation":"Liczba prób","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_DEATHLIMIT_COUNT_body","source":"{0} time(s)","translation":"{0} razy","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_DEATHLIMIT_TITLE_body","source":"Death Limit","translation":"Limit śmierci","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_DIFFICULTY_TITLE_body","source":"Difficulty","translation":"Poziom trudności","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_DUNGEONDEBUFF_TITLE_body","source":"Dungeon Debuffs","translation":"Osłabienia lochu","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_DUNGEONDEBUFF_TOOLTIP_body","source":"Debuffs applied to the entire dungeon from start to finish.","translation":"Osłabienia działające w całym lochu od początku do końca.","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_ENTER_CONDITION_body","source":"Entry Requirements","translation":"Wymagania wejścia","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_POINT_DESC_body","source":"Ranks are determined based on the highest points recorded during the season.\nIn the case of matching scores, the higher rank will be granted to the player with the highest accumulated Rank Points.\nRanks and point record are reset with every new season.","translation":"Ranga zależy od najwyższego wyniku uzyskanego w sezonie.\nPrzy takim samym wyniku wyższą rangę otrzyma gracz z większą łączną liczbą punktów rankingowych.\nRangi i wyniki są resetowane z początkiem każdego sezonu.","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_POINT_TITLE_body","source":"Best Record","translation":"Najlepszy wynik","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_RANKING_DESC_body","source":"Rank {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_REQUIRED_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_REWARD_SEASON_NONE_body","source":"No Rewards Obtainable","translation":"Brak dostępnych nagród","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_REWARD_SEASON_TITLE_body","source":"Expected Season Rewards","translation":"Przewidywane nagrody sezonowe","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_REWARD_TITLE_body","source":"Max Rewards","translation":"Maksymalne nagrody","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_SEASON_END_TIME_body","source":"Season resets in","translation":"Reset sezonu za","status":"draft"}
-{"id":"String_UI_AWAKEN_INFO_TIMELIMIT_TITLE_body","source":"Time Limit","translation":"Limit czasu","status":"draft"}
-{"id":"String_UI_AWAKEN_POPUP_REWARD_DESC_body","source":"Rewards will be issued depending on the final score upon completion.","translation":"Po ukończeniu nagrody zostaną przyznane na podstawie końcowego wyniku.","status":"draft"}
-{"id":"String_UI_AWAKEN_POPUP_REWARD_HEADER_POINT_body","source":"Final Score","translation":"Wynik końcowy","status":"draft"}
-{"id":"String_UI_AWAKEN_POPUP_REWARD_HEADER_REWARD_body","source":"Rewards","translation":"Nagrody","status":"draft"}
-{"id":"String_UI_AWAKEN_POPUP_REWARD_POINT_body","source":"{0} or more","translation":"Co najmniej {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_POPUP_REWARD_TITLE_body","source":"Clear Rewards","translation":"Nagrody za ukończenie","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_BTN_EXIT_body","source":"Exit","translation":"Wyjdź","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_CLEARPOINT_TITLE_body","source":"Clear Points","translation":"Punkty za ukończenie","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_CLEAR_body","source":"Ascension Trial Complete","translation":"Próba Wstąpienia ukończona","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_DEATHCOUNT_TITLE_body","source":"Deaths","translation":"Zgony","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_FAIL_body","source":"Ascension Trial Failed","translation":"Próba Wstąpienia nieudana","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_LEFTTIME_TITLE_body","source":"Time Left","translation":"Pozostały czas","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_MAPDIF_CLEAR_body","source":"{0} Complete","translation":"Ukończono: {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_MAPDIF_FAIL_body","source":"{0} Failed","translation":"Niepowodzenie: {0}","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_RANKINGPOINT_TITLE_body","source":"Rank Points","translation":"Punkty rankingowe","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_REWARD_NONE_body","source":"No rewards obtained.","translation":"Nie zdobyto nagród.","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_REWARD_TITLE_body","source":"Obtained Rewards","translation":"Zdobyte nagrody","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_TIMEBONUS_TITLE_body","source":"Difficulty Bonus","translation":"Premia za poziom trudności","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_TIMEBONUS_body","source":"x{0}","translation":"x{0}","status":"draft"}
-{"id":"String_UI_AWAKEN_RESULT_TOTALPOINT_TITLE_body","source":"Final Score","translation":"Wynik końcowy","status":"draft"}
-{"id":"String_UI_AWAKEN_SCREENMSG_START_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_AWAKEN_TAB_DUNGEON_body","source":"Ascension Trial","translation":"Próba Wstąpienia","status":"draft"}
-{"id":"String_UI_AWAKEN_TAB_RANKING_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_AWAKEN_TITLE_body","source":"Ascension Trial","translation":"Próba Wstąpienia","status":"draft"}
-{"id":"String_UI_Action_Key_body","source":"[{0}]","translation":"[{0}]","status":"draft"}
-{"id":"String_UI_BATTLEPASSGROUP_BUY_PERIOD_body","source":"Subscription Period: {0} - {1}","translation":"Okres subskrypcji: {0} - {1}","status":"draft"}
-{"id":"String_UI_BATTLEPASSGROUP_DARK_S1_1_body","source":"Ishalgen Mercenary","translation":"Najemnik z Ishalgen","status":"draft"}
-{"id":"String_UI_BATTLEPASSGROUP_DARK_S1_2_body","source":"Planet's Call","translation":"Zew planety","status":"draft"}
+{"id": "String_UI_ARENA_HUD_REMAIN_DEATH_body", "source": "D", "translation": "D", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_REMAIN_KILL_body", "source": "K", "translation": "K", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_REMAIN_TIME_TIME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_REMAIN_TIME_TITLE_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_RESULT_ASSIST_body", "source": "Assist", "translation": "Asysta", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_RESULT_DEATH_body", "source": "Death", "translation": "Śmierć", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_RESULT_KILL_body", "source": "Kill", "translation": "Zabójstwo", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_RESULT_TEAM_BLUE_body", "source": "Team BLUE", "translation": "Drużyna niebieskich", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_RESULT_TEAM_RED_body", "source": "Team RED", "translation": "Drużyna czerwonych", "status": "draft"}
+{"id": "String_UI_ARENA_HUD_TEAM_MEMBER_SCREEN_WATCH_body", "source": "Spectate party members by clicking their UI icon.", "translation": "Obserwuj członków drużyny, klikając ich ikonę interfejsu.", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_AVAILABLE_TIME_ALWAYS_body", "source": "Always Available", "translation": "Zawsze dostępne", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_AVAILABLE_TIME_DAY_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_AVAILABLE_TIME_START_END_TIME_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_AVAILABLE_TITLE_body", "source": "Matchmaking Time", "translation": "Czas dobierania", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_CANCEL_PENALTY_body", "source": "Unable to participate in matchmaking for a period of time due to repetitive cancellation.", "translation": "Wielokrotne anulowanie dobierania uniemożliwia udział w kolejnych rozgrywkach przez pewien czas.", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_BUTTON_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_COMPLETE_ENTER_WAITING_TIME_body", "source": "{0}s", "translation": "{0}s", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body", "source": "Entering the arena shortly.", "translation": "Wkrótce wejdziesz na arenę.", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_READY_WAITING_TIME_body", "source": "{0}s", "translation": "{0}s", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_TITLE_body", "source": "Matchmaking Complete", "translation": "Dobieranie zakończone", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_COMPLETE_POPUP_WARNING_body", "source": "Cancelling matchmaking repeatedly once it has already completed\nmay result in arena entry being restricted.", "translation": "Wielokrotne anulowanie dobierania, które już się zakończyło,\nmoże skutkować ograniczeniem dostępu do areny.", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_POPUP_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_POPUP_ELAPSED_TIME_TEXT_body", "source": "Elapsed Time", "translation": "Czas, który upłynął", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_POPUP_ELAPSED_TIME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARENA_MATCHING_POPUP_TITLE_body", "source": "Matchmaking in progress", "translation": "Trwa dobieranie", "status": "draft"}
+{"id": "String_UI_ARENA_NEXT_SEASON_START_UNDETERMINED_body", "source": "Next season start is not yet determined.", "translation": "Termin rozpoczęcia następnego sezonu nie jest jeszcze znany.", "status": "draft"}
+{"id": "String_UI_ARENA_NEXT_SEASON_START_body", "source": "The next season will begin on {0}.", "translation": "Następny sezon rozpocznie się {0}.", "status": "draft"}
+{"id": "String_UI_ARENA_PARTY_MATCHING_INFO_body", "source": "When queuing as a party,\nmatchmaking is only available for full 5-player parties, and matches are made exclusively between 5-player parties.", "translation": "Dobieranie w drużynie jest dostępne wyłącznie dla pełnych, 5-osobowych drużyn,\na mecze odbywają się tylko między takimi drużynami.", "status": "draft"}
+{"id": "String_UI_ARENA_QUIT_GAME_PENALTY_body", "source": "You have been restricted from matchmaking for a period of time due to repetitive match abandonment.", "translation": "Wielokrotne opuszczanie meczów uniemożliwia dobieranie przez pewien czas.", "status": "draft"}
+{"id": "String_UI_ARENA_QUIT_GAME_POPUP_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARENA_QUIT_GAME_POPUP_BUTTON_QUIT_body", "source": "Abandon", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_ARENA_QUIT_GAME_POPUP_DESC_body", "source": "Abandoning in the middle of a match will result in a defeat, and an even greater loss of RP.\nRepeatedly abandoning matches will result in being temporarily suspended entering Arena.", "translation": "Opuszczenie meczu w jego trakcie oznacza porażkę i większą utratę RP.\nWielokrotne opuszczanie meczów spowoduje czasowe zawieszenie dostępu do areny.", "status": "draft"}
+{"id": "String_UI_ARENA_QUIT_GAME_POPUP_TITLE_body", "source": "Abandon", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_ALL_RANK_body", "source": "Rank: Rank {0}", "translation": "Miejsce: {0}", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_CLASS_RANK_WITHIN_body", "source": "{0} Rank: Within Rank {1}", "translation": "Miejsce {0}: wśród {1} najlepszych", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_CLASS_RANK_body", "source": "{0} Rank: Rank {1}", "translation": "Miejsce {0}: {1}", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RANK_PERCENT_body", "source": "Rank within Top {0}%", "translation": "Miejsce wśród {0}% najlepszych", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RANK_body", "source": "Within Rank {0}", "translation": "Miejsce w rankingu: {0} lub wyższe", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_GRADE_UP_CONDITION_RP_body", "source": "Over {0} RP", "translation": "Powyżej {0} RP", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_GRADE_UP_CONDITION_body", "source": "{0} Promotion Condition", "translation": "Warunek awansu: {0}", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_CHANGE_body", "source": "Changes", "translation": "Zmiany", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_CHARACTER_body", "source": "Character", "translation": "Postać", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_CLASS_body", "source": "Class", "translation": "Klasa", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_CURRENT_GRADE_body", "source": "Current Tier", "translation": "Obecny poziom", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_RANKING_POINT_body", "source": "Rank Points", "translation": "Punkty rankingowe", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_CATEGORY_RANK_body", "source": "Rank", "translation": "Miejsce", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_MY_RANK_body", "source": "My Rank", "translation": "Moje miejsce", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_ONBOARDING_NO_INFO_body", "source": "No rank information available.", "translation": "Brak informacji o miejscu w rankingu.", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_PAGE_SEARCH_BAR_GUIDE_body", "source": "Enter a search keyword.", "translation": "Wpisz szukaną frazę.", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_QUIT_GAME_body", "source": "Interrupted", "translation": "Przerwano", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RANK_PERCENT_body", "source": "(Top {0}%)", "translation": "(wśród {0}% najlepszych)", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RANK_WITHIN_body", "source": "(Within Rank {0})", "translation": "(miejsce w rankingu: {0} lub wyższe)", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RANK_body", "source": "(Rank {0})", "translation": "(miejsce {0})", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RECORD_body", "source": "Arena Record", "translation": "Wyniki na arenie", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RENEWAL_body", "source": "Promotion and demotion take effect when ranks are updated.", "translation": "Awans i spadek rangi obowiązują po aktualizacji rankingu.", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_RP_body", "source": "{0} RP", "translation": "{0} RP", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_SERIAL_WIN_body", "source": "Consecutive Wins", "translation": "Zwycięstwa z rzędu", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_TIE_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_TITLE_body", "source": "My Rank", "translation": "Moje miejsce", "status": "draft"}
+{"id": "String_UI_ARENA_RANKING_WIN_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_DATE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_NO_RECORD_body", "source": "No recent match history.", "translation": "Brak historii ostatnich meczów.", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_RESULT_DRAW_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_RESULT_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_RESULT_TIE_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_RESULT_WIN_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
+{"id": "String_UI_ARENA_RECENT_GAMES_TITLE_body", "source": "Last 10 Matches", "translation": "Ostatnie 10 meczów", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_BUTTON_REENTER_body", "source": "Re-enter", "translation": "Wejdź ponownie", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_DESC_body", "source": "{0} match is still in progress.\nWould you like to rejoin?", "translation": "Mecz {0} wciąż trwa.\nCzy chcesz do niego wrócić?", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_REMAIN_TIME_body", "source": "Time Left: <Quit_TimeCount>{0}</>", "translation": "Pozostały czas: <Quit_TimeCount>{0}</>", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_TITLE_body", "source": "Re-enter", "translation": "Wejdź ponownie", "status": "draft"}
+{"id": "String_UI_ARENA_REENTER_POPUP_WARNING_body", "source": "If you decline, the match result will be registered as a defeat.", "translation": "Odmowa oznacza zarejestrowanie porażki.", "status": "draft"}
+{"id": "String_UI_ARENA_RESPAWN_TIME_body", "source": "{0}s", "translation": "{0}s", "status": "draft"}
+{"id": "String_UI_ARENA_RESPAWN_TITLE_body", "source": "Respawn", "translation": "Odrodzenie", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_DRAW_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_EXIT_BUTTON_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_RANKING_RANK_PERCENT_body", "source": "(Top {0}%)", "translation": "(wśród {0}% najlepszych)", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_RANKING_RANK_WITHIN_body", "source": "(Within Rank {0})", "translation": "(miejsce w rankingu: {0} lub wyższe)", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_RANKING_RANK_body", "source": "(Rank {0})", "translation": "(miejsce {0})", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_RANKING_RP_body", "source": "RP", "translation": "RP", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_REWARD_JOIN_body", "source": "Participation Reward", "translation": "Nagroda za udział", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_REWARD_WIN_body", "source": "Victory Reward", "translation": "Nagroda za zwycięstwo", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_TIE_body", "source": "Draw", "translation": "Remis", "status": "draft"}
+{"id": "String_UI_ARENA_RESULT_WIN_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_JOIN_body", "source": "Participation Reward", "translation": "Nagroda za udział", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_DESC_body", "source": "* Season End Rewards will be sent to your cube when the next Season begins.", "translation": "* Nagrody za koniec sezonu zostaną wysłane do ekwipunku po rozpoczęciu kolejnego sezonu.", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_BUFF_body", "source": "Buffs (Lasts until end of next season)", "translation": "Premie (aktywne do końca następnego sezonu)", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_ITEM_body", "source": "Item", "translation": "Przedmiot", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_MAX_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_MIN_TO_MAX_body", "source": "Rank {0}-{1}", "translation": "Miejsca {0}-{1}", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_RANK_PERCENT_MAX_body", "source": "Top {0}%", "translation": "Najlepsze {0}%", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_CLASS_body", "source": "Class Rank Rewards", "translation": "Nagrody za miejsce w rankingu klasy", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TAB_REWARD_COMMON_body", "source": "Tier Rewards", "translation": "Nagrody za poziom", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_POPUP_TITLE_body", "source": "Season End Rewards", "translation": "Nagrody za koniec sezonu", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_SEASON_body", "source": "Season End Rewards", "translation": "Nagrody za koniec sezonu", "status": "draft"}
+{"id": "String_UI_ARENA_REWARD_WIN_body", "source": "Victory Reward", "translation": "Nagroda za zwycięstwo", "status": "draft"}
+{"id": "String_UI_ARENA_SEASON_DATE_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_ARENA_SEASON_END_body", "source": "Season has ended.", "translation": "Sezon się zakończył.", "status": "draft"}
+{"id": "String_UI_ARENA_SEASON_TITLE_body", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "String_UI_ARENA_SINGLE_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body", "source": "Participation Reward {0}/{1}", "translation": "Nagroda za udział {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_SINGLE_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body", "source": "Victory Reward {0}/{1}", "translation": "Nagroda za zwycięstwo {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_LOADING_COMPLETE_body", "source": "Loading Complete", "translation": "Wczytywanie zakończone", "status": "draft"}
+{"id": "String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_LOADING_body", "source": "Loading", "translation": "Wczytywanie", "status": "draft"}
+{"id": "String_UI_ARENA_STANDBY_SCENE_MEMBER_LIST_RP_body", "source": "RP", "translation": "RP", "status": "draft"}
+{"id": "String_UI_ARENA_STANDBY_SCENE_TEAM_BLUE_body", "source": "BLUE", "translation": "NIEBIESCY", "status": "draft"}
+{"id": "String_UI_ARENA_STANDBY_SCENE_TEAM_RED_body", "source": "RED", "translation": "CZERWONI", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body", "source": "Participation Reward {0}/{1}", "translation": "Nagroda za udział {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body", "source": "Victory Reward {0}/{1}", "translation": "Nagroda za zwycięstwo {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_CARMODE_INFO_GUIDE_body", "source": "Push the Shard Catalyst into the enemy camp within the time limit in order to win. If neither team is able to push the Shard Catalyst into the enemy camp, the team that pushed it farthest wins.", "translation": "Aby wygrać, przepchnij Katalizator Odłamków do obozu wroga przed upływem czasu. Jeśli żadna drużyna nie zdoła go tam przepchnąć, wygra ta, która przepchnęła go dalej.", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_CARMODE_body", "source": "Odyle Shard Cradle", "translation": "Kołyska Odłamka Odyle", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_CTFMODE_INFO_GUIDE_body", "source": "Earn 1 point by capturing the enemy flag while protecting your own. The first team to reach 2 points wins.\nDetailed rules can be found in the Guidebook on the official site.", "translation": "Zdobądź 1 punkt, przejmując flagę wroga i broniąc własnej. Wygrywa pierwsza drużyna, która zdobędzie 2 punkty.\nSzczegółowe zasady znajdziesz w poradniku na oficjalnej stronie.", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_CTFMODE_body", "source": "Stormslumber Snowfield", "translation": "Śnieżne Pole Burzowego Snu", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_DOMMODE_INFO_GUIDE_body", "source": "Earn points by driving enemies out of the Bases and occupying them. The first team to reach 1500 points wins.\nDetailed rules can be found in the Guidebook on the official site.", "translation": "Zdobywaj punkty, wypierając wrogów z baz i zajmując je. Wygrywa pierwsza drużyna, która zdobędzie 1500 punktów.\nSzczegółowe zasady znajdziesz w poradniku na oficjalnej stronie.", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_DOMMODE_body", "source": "Sandstorm Temple", "translation": "Świątynia Piaskowej Burzy", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_MODE_body", "source": "Currently Available Mode", "translation": "Dostępny tryb", "status": "draft"}
+{"id": "String_UI_ARENA_STRATEGY_QUIT_GAME_POPUP_DESC_body", "source": "Abandoning matches counts as a defeat.\nRepeatedly abandoning matches will result in being restricted from entering Arena for a fixed period.", "translation": "Opuszczenie meczu oznacza porażkę.\nWielokrotne opuszczanie meczów spowoduje czasowe ograniczenie dostępu do areny.", "status": "draft"}
+{"id": "String_UI_ARENA_TAB_RANKING_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_ARENA_TAB_SHOP_body", "source": "Trade Shop", "translation": "Sklep wymiany", "status": "draft"}
+{"id": "String_UI_ARENA_TEAM_EXCEEDED_MAX_JOIN_REWARDS_NUMBER_body", "source": "Participation Reward {0}/{1}", "translation": "Nagroda za udział {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARENA_TEAM_EXCEEDED_MAX_VICTORY_REWARDS_NUMBER_body", "source": "Victory Reward {0}/{1}", "translation": "Nagroda za zwycięstwo {0}/{1}", "status": "draft"}
+{"id": "String_UI_ARTIFACTDUNGEON_HUD_ABYSSPOINT_COUNT_body", "source": "Abyss Points Acquired: <AbyssArtifact_Point>{0}</>", "translation": "Zdobyte punkty Otchłani: <AbyssArtifact_Point>{0}</>", "status": "draft"}
+{"id": "String_UI_ARTIFACTDUNGEON_HUD_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARTIFACTDUNGEON_HUD_TIME_EXPIRED_body", "source": "Time Expired", "translation": "Czas minął", "status": "draft"}
+{"id": "String_UI_ARTIFACTDUNGEON_HUD_TIME_body", "source": "Time Left {0}", "translation": "Pozostały czas {0}", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_ARTIFACT_RESET_body", "source": "All artifacts have had occupation states reset.", "translation": "Zresetowano stan zajęcia wszystkich artefaktów.", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_END_REWARD_ABYSSPOINT_body", "source": "{0} Abyss Points", "translation": "{0} pkt Otchłani", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_END_REWARD_TITLE_body", "source": "Rewards", "translation": "Nagrody", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_ALLY_COUNT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_CORRIDOR_CLOSED_body", "source": "Unavailable", "translation": "Niedostępne", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_CORRIDOR_EXPIRATION_body", "source": "Usage Time Expired", "translation": "Czas użytkowania wygasł", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_CORRIDOR_OPEN_body", "source": "Passage Usage Time {0}", "translation": "Czas przejścia: {0}", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_ENEMY_COUNT_body", "source": "{1}", "translation": "{1}", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_EVENT_PREPARE_body", "source": "Preparing...", "translation": "Przygotowanie...", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_EVENT_TITLE_body", "source": "Artifact Siege", "translation": "Oblężenie artefaktu", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_HUD_PROGRESS_TIME_TEXT_body", "source": "Time Left: {0}:{1}", "translation": "Pozostały czas: {0}:{1}", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_NEXT_TIME_TITLE_body", "source": "Next Siege in", "translation": "Do następnego oblężenia", "status": "draft"}
+{"id": "String_UI_ARTIFACTWAR_NEXT_TIME_WAIT_body", "source": "Waiting", "translation": "Oczekiwanie", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_CHECK_COMPLETED_body", "source": "Collect", "translation": "Odbierz", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_COMPLETED_body", "source": "Attendance Logged", "translation": "Zalogowano obecność", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_DATE_body", "source": "Attendance Period: {0} to {1}", "translation": "Okres obecności: od {0} do {1}", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_DAYS_body", "source": "{0}d", "translation": "{0} dni", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_NOTICE_02_body", "source": "Applied per server", "translation": "Obowiązuje na serwerze", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_NOTICE_body", "source": "Resets daily at {0}", "translation": "Reset codziennie o {0}", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_REWARD_COMPLETED_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_001_body", "source": "Prelude to Adventure", "translation": "Przedświt przygody", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_002_body", "source": "Dummy Data", "translation": "Dane testowe", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_003_body", "source": "Record of First Journey", "translation": "Zapis pierwszej podróży", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_004_body", "source": "Atreian Winter", "translation": "Atreiańska zima", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_005_body", "source": "Holiday Eve Gift", "translation": "Prezent w przeddzień święta", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_006_body", "source": "Merry Daeva Holiday!", "translation": "Wesołych świąt, daevie!", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_007_body", "source": "Happy New Year", "translation": "Szczęśliwego Nowego Roku", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_008_body", "source": "Year of the Red Horse", "translation": "Rok Czerwonego Konia", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_009_body", "source": "Record of Second Journey", "translation": "Zapis drugiej podróży", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_010_body", "source": "A New Leap", "translation": "Nowy krok naprzód", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_011_body", "source": "Red Horse Festival", "translation": "Święto Czerwonego Konia", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_012_body", "source": "Sparkling New Year Story", "translation": "Iskrząca się opowieść noworoczna", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_013_body", "source": "100th Day Party", "translation": "Święto setnego dnia", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_014_body", "source": "Reaching for Tomorrow", "translation": "Sięgając ku jutru", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_015_body", "source": "Flapping Wings", "translation": "Trzepot skrzydeł", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_016_body", "source": "Will of Atreia", "translation": "Wola Atrei", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_017_body", "source": "A Warm Journey Together", "translation": "Wspólna, ciepła podróż", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_018_body", "source": "Invitation to a Season in Bloom", "translation": "Zaproszenie na kwitnącą porę roku", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_019_body", "source": "Step by Step Together", "translation": "Krok po kroku, razem", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_020_body", "source": "A New Adventure Begins", "translation": "Rozpoczyna się nowa przygoda", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_021_body", "source": "A Breath of Fresh Air", "translation": "Powiew świeżości", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_022_body", "source": "Atreia Summer", "translation": "Lato w Atrei", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_023_body", "source": "Dazzling Summer Break", "translation": "Olśniewające letnie wakacje", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_027_body", "source": "Trick or Treat", "translation": "Cukierek albo psikus", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_G_001_body", "source": "Launch Celebration Shugo Check-In", "translation": "Świętowanie startu: codzienna wizyta Shugo", "status": "draft"}
+{"id": "String_UI_ATTENDANCE_TITLE_G_002_body", "source": "Daily Attendance", "translation": "Codzienna obecność", "status": "draft"}
+{"id": "String_UI_ATTNEDANCE_GET_REWARD_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
+{"id": "String_UI_AUTODECOMPOSE_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_AUTODECOMPOSE_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_AUTOMOVE_PANNEL_SPEED_FLY_body", "source": "Flight Speed", "translation": "Prędkość lotu", "status": "draft"}
+{"id": "String_UI_AUTOMOVE_PANNEL_SPEED_SPRINT_body", "source": "Move Speed", "translation": "Szybkość ruchu", "status": "draft"}
+{"id": "String_UI_AUTOMOVE_POPUP_TRANSITION_TO_FLY_DESC_body", "source": "Cannot reach via the ground.\nWould you like to switch to flight?", "translation": "Nie da się tam dotrzeć pieszo.\nCzy chcesz wzbić się w powietrze?", "status": "draft"}
+{"id": "String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_BUY_body", "source": "Purchase Settings", "translation": "Ustawienia zakupu", "status": "draft"}
+{"id": "String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_SELL_body", "source": "Sale Settings", "translation": "Ustawienia sprzedaży", "status": "draft"}
+{"id": "String_UI_AUTOREGISTERSETTING_NPCSHOP_TITLE_body", "source": "Quick Register Settings", "translation": "Ustawienia szybkiej rejestracji", "status": "draft"}
+{"id": "String_UI_AUTOREGISTER_DETAIL_SETTING_CRAFT_COMPONENT_OPTION_TITLE_body", "source": "Exclude Crafting Material Gear", "translation": "Wyklucz sprzęt będący materiałem rzemieślniczym", "status": "draft"}
+{"id": "String_UI_AUTOREGISTER_EXCLUDE_PERIOD_COLLECITON_body", "source": "Exclude Supply Request Gear", "translation": "Wyklucz sprzęt do zleceń zaopatrzeniowych", "status": "draft"}
+{"id": "String_UI_AUTOREGISTER_IFNO_DESC_body", "source": "Auto Extract only works on items from drops, Odyle Energy Cubes, and Monster Cubes (Shugo Festival, Dimensional Invasion).\n\nIf there is insufficient Kina to Auto Extract, it will automatically stop.\n\nWhen Exclude Supply Request Gear is checked, gear from incomplete Supply Requests will be excluded.", "translation": "Automatyczne pozyskiwanie działa tylko na przedmiotach z łupów, kostkach energii Odyle i kostkach potworów (Święto Shugo, Inwazja wymiarów).\n\nJeśli brakuje Kina na automatyczne pozyskiwanie, proces zatrzyma się.\n\nPo zaznaczeniu opcji wykluczania sprzętu do zleceń zaopatrzeniowych pomijany będzie sprzęt z nieukończonych zleceń.", "status": "draft"}
+{"id": "String_UI_AUTOREGISTER_SETTING_FILTER_body", "source": "Item Category", "translation": "Kategoria przedmiotu", "status": "draft"}
+{"id": "String_UI_AUTOREGISTER_SETTING_GRADE_body", "source": "Item Grade", "translation": "Jakość przedmiotu", "status": "draft"}
+{"id": "String_UI_AUTOSETTING_TITLE_body", "source": "Auto Combat Settings", "translation": "Ustawienia automatycznej walki", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_DESPAIR_body", "source": "Insane", "translation": "Obłędny", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_DOOM_body", "source": "Doom", "translation": "Zagłada", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_EASY_body", "source": "Easy", "translation": "Łatwy", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_EXTREME_body", "source": "Extreme", "translation": "Ekstremalny", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_HARD_body", "source": "Hard", "translation": "Trudny", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_HELL_body", "source": "Hell", "translation": "Piekielny", "status": "draft"}
+{"id": "String_UI_AWAKEN_DIFFICULTY_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_AWAKEN_ENTER_FAIL_BY_SEASON_body", "source": "Cannot enter as the season has ended.", "translation": "Nie można wejść, ponieważ sezon się zakończył.", "status": "draft"}
+{"id": "String_UI_AWAKEN_ERROR_BY_SEASON_PERIOD_body", "source": "Dungeon has changed.\nPlease try again.", "translation": "Loch uległ zmianie.\nSpróbuj ponownie.", "status": "draft"}
+{"id": "String_UI_AWAKEN_ERROR_BY_SEASON_body", "source": "Season has ended.", "translation": "Sezon się zakończył.", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_BONUS_BOSSDEBUFF_TITLE_body", "source": "Extra Objective: Boss Dungeon Debuff received", "translation": "Dodatkowy cel: otrzymano osłabienie lochu bossa", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_BONUS_PCBUFF_1_body", "source": "Clear the 1st room within {0}", "translation": "Ukończ pierwszą salę w czasie {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_BONUS_PCBUFF_2_body", "source": "Clear the 2nd room within {0}", "translation": "Ukończ drugą salę w czasie {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_BONUS_PCBUFF_3_body", "source": "Clear the 3rd room within {0}", "translation": "Ukończ trzecią salę w czasie {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_BONUS_PCBUFF_TITLE_body", "source": "Extra Objective: Ascension Trial Trait received", "translation": "Dodatkowy cel: otrzymano cechę Próby Wstąpienia", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_DEATHLIMIT_body", "source": "Remaining Deaths: {0}", "translation": "Pozostałe zgony: {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_HUD_TIMELIMIT_body", "source": "Time", "translation": "Czas", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_BTN_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_CONTENTS_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba prób", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_DEATHLIMIT_COUNT_body", "source": "{0} time(s)", "translation": "{0} razy", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_DEATHLIMIT_TITLE_body", "source": "Death Limit", "translation": "Limit śmierci", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_DIFFICULTY_TITLE_body", "source": "Difficulty", "translation": "Poziom trudności", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_DUNGEONDEBUFF_TITLE_body", "source": "Dungeon Debuffs", "translation": "Osłabienia lochu", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_DUNGEONDEBUFF_TOOLTIP_body", "source": "Debuffs applied to the entire dungeon from start to finish.", "translation": "Osłabienia działające w całym lochu od początku do końca.", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_ENTER_CONDITION_body", "source": "Entry Requirements", "translation": "Warunki wejścia", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_POINT_DESC_body", "source": "Ranks are determined based on the highest points recorded during the season.\nIn the case of matching scores, the higher rank will be granted to the player with the highest accumulated Rank Points.\nRanks and point record are reset with every new season.", "translation": "Ranga zależy od najwyższego wyniku uzyskanego w sezonie.\nPrzy takim samym wyniku wyższą rangę otrzyma gracz z większą łączną liczbą punktów rankingowych.\nRangi i wyniki są resetowane z początkiem każdego sezonu.", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_POINT_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_RANKING_DESC_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_REQUIRED_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_REWARD_SEASON_NONE_body", "source": "No Rewards Obtainable", "translation": "Brak dostępnych nagród", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_REWARD_SEASON_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_REWARD_TITLE_body", "source": "Max Rewards", "translation": "Maksymalne nagrody", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
+{"id": "String_UI_AWAKEN_INFO_TIMELIMIT_TITLE_body", "source": "Time Limit", "translation": "Limit czasu", "status": "draft"}
+{"id": "String_UI_AWAKEN_POPUP_REWARD_DESC_body", "source": "Rewards will be issued depending on the final score upon completion.", "translation": "Po ukończeniu nagrody zostaną przyznane na podstawie końcowego wyniku.", "status": "draft"}
+{"id": "String_UI_AWAKEN_POPUP_REWARD_HEADER_POINT_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
+{"id": "String_UI_AWAKEN_POPUP_REWARD_HEADER_REWARD_body", "source": "Rewards", "translation": "Nagrody", "status": "draft"}
+{"id": "String_UI_AWAKEN_POPUP_REWARD_POINT_body", "source": "{0} or more", "translation": "Co najmniej {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_POPUP_REWARD_TITLE_body", "source": "Clear Rewards", "translation": "Nagrody za ukończenie", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_BTN_EXIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_CLEARPOINT_TITLE_body", "source": "Clear Points", "translation": "Punkty za ukończenie", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_CLEAR_body", "source": "Ascension Trial Complete", "translation": "Próba Wstąpienia ukończona", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_DEATHCOUNT_TITLE_body", "source": "Deaths", "translation": "Zgony", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_FAIL_body", "source": "Ascension Trial Failed", "translation": "Próba Wstąpienia nieudana", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_LEFTTIME_TITLE_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_MAPDIF_CLEAR_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_MAPDIF_FAIL_body", "source": "{0} Failed", "translation": "Niepowodzenie: {0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_RANKINGPOINT_TITLE_body", "source": "Rank Points", "translation": "Punkty rankingowe", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_REWARD_NONE_body", "source": "No rewards obtained.", "translation": "Nie zdobyto nagród.", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_REWARD_TITLE_body", "source": "Obtained Rewards", "translation": "Zdobyte nagrody", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_TIMEBONUS_TITLE_body", "source": "Difficulty Bonus", "translation": "Premia za poziom trudności", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_TIMEBONUS_body", "source": "x{0}", "translation": "x{0}", "status": "draft"}
+{"id": "String_UI_AWAKEN_RESULT_TOTALPOINT_TITLE_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
+{"id": "String_UI_AWAKEN_SCREENMSG_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_AWAKEN_TAB_DUNGEON_body", "source": "Ascension Trial", "translation": "Próba Wstąpienia", "status": "draft"}
+{"id": "String_UI_AWAKEN_TAB_RANKING_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_AWAKEN_TITLE_body", "source": "Ascension Trial", "translation": "Próba Wstąpienia", "status": "draft"}
+{"id": "String_UI_Action_Key_body", "source": "[{0}]", "translation": "[{0}]", "status": "draft"}
+{"id": "String_UI_BATTLEPASSGROUP_BUY_PERIOD_body", "source": "Subscription Period: {0} - {1}", "translation": "Okres subskrypcji: {0} - {1}", "status": "draft"}
+{"id": "String_UI_BATTLEPASSGROUP_DARK_S1_1_body", "source": "Ishalgen Mercenary", "translation": "Najemnik z Ishalgen", "status": "draft"}

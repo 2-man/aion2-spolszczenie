@@ -1,18 +1,18 @@
-{"id":"String_CONTENTS_TICKET_EROSIONPURIFIER_CLEAR_body","source":"[Sanctuary] Corroded Decontamination Facility Final Boss Kill Count","translation":"[Sanktuarium] Liczba pokonanych bossów końcowych w Skorodowanym Ośrodku Oczyszczania","status":"draft"}
-{"id":"String_CONTENTS_TICKET_EROSIONPURIFIER_body","source":"[Sanctuary] Corroded Decontamination Facility Attempt Count","translation":"[Sanktuarium] Liczba podejść do Skorodowanego Ośrodka Oczyszczania","status":"draft"}
-{"id":"String_CONTENTS_TICKET_MUSPHELHOLYGRAIL_CLEAR_body","source":"[Sanctuary] Chalice of Muspel Final Boss Kill Count","translation":"[Sanktuarium] Liczba pokonanych bossów końcowych w Kielichu Muspela","status":"draft"}
-{"id":"String_CONTENTS_TICKET_MUSPHELHOLYGRAIL_body","source":"[Sanctuary] Chalice of Muspel Attempt Count","translation":"[Sanktuarium] Liczba podejść do Kielicha Muspela","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_HARD_CLEAR_body","source":"[Transcendence] Final Boss Kill Count","translation":"[Transcendencja] Liczba pokonanych bossów końcowych","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_HARD_body","source":"[Transcendence] Transcendent Dungeon Reward Count","translation":"[Transcendencja] Liczba nagród z lochów transcendencji","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL1_body","source":"[Conquest] Krao Cave, Draupnir Reward Count","translation":"[Podbój] Nagrody z Jaskini Krao i Draupnir","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL2_body","source":"[Conquest] Urugugu Canyon, Vakron Sky Island Reward Count","translation":"[Podbój] Nagrody z Kanionu Urugugu i Podniebnej Wyspy Vakron","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL3_body","source":"[Conquest] Fire Temple, Ferocious Horn Den Reward Count","translation":"[Podbój] Nagrody ze Świątyni Ognia i Siedziby Groźnego Rogu","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL_CLEAR_body","source":"[Conquest] Final Boss Kill Count","translation":"[Podbój] Liczba pokonanych bossów końcowych","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL_body","source":"[Conquest] Conquest Dungeon Reward Count","translation":"[Podbój] Liczba nagród z lochów podboju","status":"draft"}
-{"id":"String_CONTENTS_TICKET_PARTY_DUNGEON_TRIAL_CLEAR_body","source":"[Ordeal] Final Boss Kill Count","translation":"[Próba] Liczba pokonanych bossów końcowych","status":"draft"}
-{"id":"String_CONTENTS_TICKET_REFORGEDABYSS_CLEAR_body","source":"[Sanctuary] Abyssal Forge Final Boss Kill Count","translation":"[Sanktuarium] Liczba pokonanych bossów końcowych w Kuźni Otchłani","status":"draft"}
-{"id":"String_CONTENTS_TICKET_REFORGEDABYSS_body","source":"[Sanctuary] Abyssal Forge Attempt Count","translation":"[Sanktuarium] Liczba podejść do Kuźni Otchłani","status":"draft"}
-{"id":"String_Contents_Race_Dark_body","source":"Eastern Camp","translation":"Obóz Wschodni","status":"draft"}
-{"id":"String_Contents_Race_Light_body","source":"Western Camp","translation":"Obóz Zachodni","status":"draft"}
-{"id":"String_Contents_Ticket_Party_Dungeon_Unclaimed_01_body","source":"[Conquest/Transcendence] Remaining Unobtained Cube Count","translation":"[Podbój/Transcendencja] Liczba nieodebranych kostek","status":"draft"}
-{"id":"String_Contents_Ticket_Party_Dungeon_Unclaimed_02_body","source":"[Conquest/Transcendence] Remaining Unobtained Cube Count","translation":"[Podbój/Transcendencja] Liczba nieodebranych kostek","status":"draft"}
+{"id": "String_CONTENTS_TICKET_EROSIONPURIFIER_CLEAR_body", "source": "[Sanctuary] Corroded Decontamination Facility Final Boss Kill Count", "translation": "[Sanktuarium] Liczba pokonanych bossów końcowych w Skorodowanym Ośrodku Oczyszczania", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_EROSIONPURIFIER_body", "source": "[Sanctuary] Corroded Decontamination Facility Attempt Count", "translation": "[Sanktuarium] Liczba podejść do Skorodowanego Ośrodka Oczyszczania", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_MUSPHELHOLYGRAIL_CLEAR_body", "source": "[Sanctuary] Chalice of Muspel Final Boss Kill Count", "translation": "[Sanktuarium] Liczba pokonanych bossów końcowych w Kielichu Muspela", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_MUSPHELHOLYGRAIL_body", "source": "[Sanctuary] Chalice of Muspel Attempt Count", "translation": "[Sanktuarium] Liczba podejść do Kielicha Muspela", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_HARD_CLEAR_body", "source": "[Transcendence] Final Boss Kill Count", "translation": "[Transcendencja] Liczba pokonanych bossów końcowych", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_HARD_body", "source": "[Transcendence] Transcendent Dungeon Reward Count", "translation": "[Transcendencja] Liczba nagród z lochów transcendencji", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL1_body", "source": "[Conquest] Krao Cave, Draupnir Reward Count", "translation": "[Podbój] Liczba nagród z Jaskini Krao i Draupnir", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL2_body", "source": "[Conquest] Urugugu Canyon, Vakron Sky Island Reward Count", "translation": "[Podbój] Liczba nagród z Kanionu Urugugu i Podniebnej Wyspy Vakron", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL3_body", "source": "[Conquest] Fire Temple, Ferocious Horn Den Reward Count", "translation": "[Podbój] Liczba nagród ze Świątyni Ognia i Siedziby Groźnego Rogu", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL_CLEAR_body", "source": "[Conquest] Final Boss Kill Count", "translation": "[Podbój] Liczba pokonanych bossów końcowych", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_NORMAL_body", "source": "[Conquest] Conquest Dungeon Reward Count", "translation": "[Podbój] Liczba nagród z lochów podboju", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_PARTY_DUNGEON_TRIAL_CLEAR_body", "source": "[Ordeal] Final Boss Kill Count", "translation": "[Próba] Liczba pokonanych bossów końcowych", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_REFORGEDABYSS_CLEAR_body", "source": "[Sanctuary] Abyssal Forge Final Boss Kill Count", "translation": "[Sanktuarium] Liczba pokonanych bossów końcowych w Kuźni Otchłani", "status": "draft"}
+{"id": "String_CONTENTS_TICKET_REFORGEDABYSS_body", "source": "[Sanctuary] Abyssal Forge Attempt Count", "translation": "[Sanktuarium] Liczba podejść do Kuźni Otchłani", "status": "draft"}
+{"id": "String_Contents_Race_Dark_body", "source": "Eastern Camp", "translation": "Obóz Wschodni", "status": "draft"}
+{"id": "String_Contents_Race_Light_body", "source": "Western Camp", "translation": "Obóz Zachodni", "status": "draft"}
+{"id": "String_Contents_Ticket_Party_Dungeon_Unclaimed_01_body", "source": "[Conquest/Transcendence] Remaining Unobtained Cube Count", "translation": "[Podbój/Transcendencja] Pozostała liczba nieodebranych kostek", "status": "draft"}
+{"id": "String_Contents_Ticket_Party_Dungeon_Unclaimed_02_body", "source": "[Conquest/Transcendence] Remaining Unobtained Cube Count", "translation": "[Podbój/Transcendencja] Pozostała liczba nieodebranych kostek", "status": "draft"}

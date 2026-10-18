@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_Seal_Verteron_060_DiaryOld_002_interact_desc", "source": "Examining the Book...", "translation": "Badanie księgi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_EnterPortal_001_desc", "source": "Collapsed Fortress Cellar Entrance", "translation": "Wejście do Piwnicy Zawalanej Twierdzy", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_EnterPortal_001_interact_desc", "source": "Entering the Collapsed Fortress Cellar...", "translation": "Wchodzenie do Piwnicy Zawalanej Twierdzy...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_001_desc", "source": "Pile of Worn Papers", "translation": "Stos podniszczonych papierów", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_001_interact_desc", "source": "Examining Paper...", "translation": "Badanie papieru...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_002_desc", "source": "Pile of Worn Papers", "translation": "Stos podniszczonych papierów", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_002_interact_desc", "source": "Examining Paper...", "translation": "Badanie papieru...", "status": "draft"}
 {"id": "EnvObjData_E_StrigikAltar_Door_001_desc", "source": "Altar Door", "translation": "Drzwi ołtarza", "status": "draft"}
 {"id": "EnvObjData_E_StrigikAltar_Door_001_interact_desc", "source": "Opening the Altar Door...", "translation": "Otwieranie drzwi ołtarza...", "status": "draft"}
@@ -10,7 +16,7 @@
 {"id": "EnvObjData_E_StrigikAltar_EnterPortal_001_desc", "source": "Aullaeu Altar Entrance", "translation": "Wejście do Ołtarza Aullaeu", "status": "draft"}
 {"id": "EnvObjData_E_StrigikAltar_EnterPortal_001_interact_desc", "source": "Entering the Aullaeu Altar...", "translation": "Wchodzenie do Ołtarza Aullaeu...", "status": "draft"}
 {"id": "EnvObjData_E_StrigikAltar_StoneWall_001_desc", "source": "Stone Wall", "translation": "Kamienny mur", "status": "draft"}
-{"id": "EnvObjData_E_TreasureBoxLower01_002_desc", "source": "Hidden Cube", "translation": "Ukryty sześcian", "status": "draft"}
+{"id": "EnvObjData_E_TreasureBoxLower01_002_desc", "source": "Hidden Cube", "translation": "Ukryta kostka", "status": "draft"}
 {"id": "EnvObjData_E_TreasureBoxLower01_004_desc", "source": "Haystack", "translation": "Stóg siana", "status": "draft"}
 {"id": "EnvObjData_E_TreasureBoxLower01_004_interact_desc", "source": "Processing the Haystack...", "translation": "Przeszukiwanie stogu siana...", "status": "draft"}
 {"id": "EnvObjData_E_TreasureBoxLower01_005_desc", "source": "Stone Tomb", "translation": "Kamienny grobowiec", "status": "draft"}
@@ -172,7 +178,7 @@
 {"id": "EnvObjData_Test_Basic_Bakron_Rock_02_desc", "source": "Vakron Cracked Rock", "translation": "Popękana skała Vakrona", "status": "draft"}
 {"id": "EnvObjData_Test_CommonPortal_01_001_desc", "source": "Basic Portal", "translation": "Podstawowy portal", "status": "draft"}
 {"id": "EnvObjData_Test_CommonPortal_03_001_desc", "source": "Etheria Rift Entrance", "translation": "Wejście do Szczeliny Etherii", "status": "draft"}
-{"id":"EnvObjData_Test_Contents_Trigger_desc","source":"Contents Trigger Actor","translation":"Obiekt wyzwalający zawartość","status":"draft"}
+{"id": "EnvObjData_Test_Contents_Trigger_desc", "source": "Contents Trigger Actor", "translation": "Obiekt wyzwalający zawartość", "status": "draft"}
 {"id": "EnvObjData_Test_Corpse_001_desc", "source": "Unidentified Corpse", "translation": "Niezidentyfikowane zwłoki", "status": "draft"}
 {"id": "EnvObjData_Test_DaevaSense_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
 {"id": "EnvObjData_Test_DaevaSense_002_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
@@ -225,8 +231,8 @@
 {"id": "EnvObjData_Test_Overlap_SpringboardJump_01_desc", "source": "Jump Platform", "translation": "Platforma do skakania", "status": "draft"}
 {"id": "EnvObjData_Test_Overlap_relationship_01_desc", "source": "Blood Orb - Asmodian", "translation": "Kula Krwi – Asmodian", "status": "draft"}
 {"id": "EnvObjData_Test_Overlap_relationship_02_desc", "source": "Blood Orb - Elyos", "translation": "Kula Krwi – Elyos", "status": "draft"}
-{"id": "EnvObjData_Test_P_Kisk_D_1_001_desc", "source": "Asmodian Party Kisk", "translation": "Kisk drużyny Asmodian", "status": "draft"}
-{"id": "EnvObjData_Test_P_Kisk_L_1_001_desc", "source": "Elyos Party Kisk", "translation": "Kisk drużyny Elyos", "status": "draft"}
+{"id": "EnvObjData_Test_P_Kisk_D_1_001_desc", "source": "Asmodian Party Kisk", "translation": "Kisk drużynowy Asmodianów", "status": "draft"}
+{"id": "EnvObjData_Test_P_Kisk_L_1_001_desc", "source": "Elyos Party Kisk", "translation": "Kisk drużynowy Elyosów", "status": "draft"}
 {"id": "EnvObjData_Test_Phase_01_desc", "source": "Interaction Phase Change", "translation": "Interaction Phase Change", "status": "technical"}
 {"id": "EnvObjData_Test_Phase_02_desc", "source": "Change hit Phase", "translation": "Change hit Phase", "status": "technical"}
 {"id": "EnvObjData_Test_Portal_Rift_Entrance_Common_001_desc", "source": "Spacetime Rift(Abyss-Inter-entrance)", "translation": "Szczelina czasoprzestrzenna (wejście międzyobszarowe Otchłani)", "status": "draft"}
@@ -236,15 +242,9 @@
 {"id": "EnvObjData_Test_Prop_001_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
 {"id": "EnvObjData_Test_PuzzleFloorWrong_01_desc", "source": "Floor Puzzle – Incorrect", "translation": "Zagadka podłogowa – błędna odpowiedź", "status": "draft"}
 {"id": "EnvObjData_Test_PuzzleFloor_01_V01_desc", "source": "Floor Puzzle - Blue_Keep", "translation": "Zagadka podłogowa – niebieska (zachowaj)", "status": "draft"}
-{"id": "EnvObjData_Test_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Zagadka podłogowa – niebieska", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_Test_PuzzleFloor_02_V01_desc", "source": "Floor Puzzle - Red_Keep", "translation": "Zagadka podłogowa – czerwona (zachowaj)", "status": "draft"}
-{"id": "EnvObjData_Test_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Zagadka podłogowa – czerwona", "status": "draft"}
+{"id": "EnvObjData_Test_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_Test_Quest_dummy_5_001_desc", "source": "Shugo Luggage (Temporary)", "translation": "Bagaż Shugo (tymczasowy)", "status": "draft"}
 {"id": "EnvObjData_Test_Reward_Direct_Ownership_01_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
 {"id": "EnvObjData_Test_Reward_Direct_Ownership_02_desc", "source": "Stronghold Chest", "translation": "Skrzynia w twierdzy", "status": "draft"}
-{"id": "EnvObjData_Test_RiftPortal_001_desc", "source": "[Test] Spacetime Rift", "translation": "[Test] Spacetime Rift", "status": "technical"}
-{"id": "EnvObjData_Test_RiftPortal_001_interact_desc", "source": "Traveling to Altgard...", "translation": "Podróż do Altgard...", "status": "draft"}
-{"id": "EnvObjData_Test_SocialAction_001_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
-{"id": "EnvObjData_Test_SocialAction_002_desc", "source": "Crowd NPC Occupation Test", "translation": "Crowd NPC Occupation Test", "status": "technical"}
-{"id": "EnvObjData_Test_SocialAction_003_desc", "source": "Transparent Env(Crowd NPC Test)", "translation": "Transparent Env(Crowd NPC Test)", "status": "technical"}
-{"id": "EnvObjData_Test_SocialAction_02_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}

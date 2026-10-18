@@ -1,250 +1,250 @@
-{"id":"String_UI_Item_Enchant_Detail_SuccessProb_DESC_body","source":"+{0} >> +{1} Success Chance","translation":"+{0} >> +{1} Szansa powodzenia","status":"draft"}
-{"id":"String_UI_Item_Enchant_Detail_SuccessProb_TITLE_body","source":"Detailed Success Chance","translation":"Szczegółowa szansa powodzenia","status":"draft"}
-{"id":"String_UI_Item_Enchant_Detail_SuccessProb_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_COUNT_FILTERED_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_FILTERED_NA_body","source":"No items matching the conditions exist.","translation":"Brak przedmiotów spełniających te warunki.","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_FILTEROPTION_AND_body","source":"·","translation":"·","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_FILTEROPTON_DISTRICTS_body","source":"Region: {0} Type(s)","translation":"Region: {0} typ(y)","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_MONSTER_ELITE_body","source":"ELITE","translation":"ELITA","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_MONSTER_HERO_body","source":"HERO","translation":"BOHATER","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_MONSTER_LEGEND_body","source":"LEGEND","translation":"LEGENDA","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_RICH_COUNT_body","source":"<ref style=\"Journal_CollectList_CurCount\" attr=\"color\">{0}</>/{1}","translation":"<ref style=\"Journal_CollectList_CurCount\" attr=\"color\">{0}</>/{1}","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_ARTIFACT_body","source":"You have not acquired this relic.","translation":"Nie zdobyto tego reliktu.","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_MONSTER_body","source":"You have not defeated this monster.","translation":"Nie pokonano tego potwora.","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_PERSON_body","source":"You have not met this character.","translation":"Nie spotkano tej postaci.","status":"draft"}
-{"id":"String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_RECORD_body","source":"You have not obtained this record.","translation":"Nie zdobyto tego zapisu.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMMON_TITLE_body","source":"Journal","translation":"Dziennik","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_ARTIFACT_body","source":"Can be achieved by clearing Sealed Dungeons and completing quests to obtain Relics. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, oczyszczając zapieczętowane lochy i wykonując zadania, aby zdobyć relikty. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_DUNGEON_body","source":"Can be achieved by clearing Dungeons in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, oczyszczając lochy w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_EXPLORE_body","source":"Can be achieved by occupying strongholds in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, zajmując warownie w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_MONSTER_body","source":"Can be achieved by defeating certain Unique Monsters in dungeons, excluding sealed dungeons, and Field Unique Monsters in the current region. Check the Journal's Collection tab for more details. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, pokonując wybrane unikatowe potwory w lochach (z wyjątkiem zapieczętowanych lochów) oraz unikatowe potwory w terenie bieżącego regionu. Więcej informacji znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_PERSON_body","source":"Can be achieved by encountering key characters in the current region. Check detailed information in the Journal Collection tab. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, spotykając ważne postacie w bieżącym regionie. Szczegóły znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_QUEST_body","source":"Can be achieved by completing Hero Quests and Regional Quests in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, wykonując zadania bohaterskie i regionalne w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_RECORD_body","source":"Can be achieved by viewing or acquiring various records in the current region. Check detailed information in the Journal Collection tab. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.","translation":"Możesz to osiągnąć, przeglądając lub zdobywając różne zapisy w bieżącym regionie. Szczegóły znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.","status":"draft"}
-{"id":"String_UI_JOURNAL_COMPLETION_GUIDE_REGION_body","source":"The region achievement rate is calculated by adding the completion rates for quests, dungeons, territories, characters, monsters, relics, and records in the region.\nRegion achievement rewards can be claimed upon 100% completion of all achievements.","translation":"Postęp osiągnięć regionu to suma postępów zadań, lochów, terytoriów, postaci, potworów, reliktów i zapisów w tym regionie.\nNagrody za osiągnięcia regionu można odebrać po ukończeniu wszystkich osiągnięć w 100%.","status":"draft"}
-{"id":"String_UI_JOURNAL_HERO_EPISODE_body","source":"EPISODE {0}","translation":"EPIZOD {0}","status":"draft"}
-{"id":"String_UI_JOURNAL_HERO_QUEST_LEVEL_COND_DESC_body","source":"Must reach Lv. <insufficient>{0}</>","translation":"Wymagany poziom: <insufficient>{0}</>","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_ASCENSION_LOCK_body","source":"Locked","translation":"Zablokowane","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_BUTTON_SETUP_body","source":"Settings","translation":"Ustawienia","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_DISTRICT_ALL_CHECKBOX_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_DISTRICT_body","source":"Regional","translation":"Regionalne","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_ALL_RADIO_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_LOCK_RADIO_body","source":"Locked","translation":"Zablokowane","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_UNLOCK_RADIO_body","source":"Open","translation":"Odblokowane","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_body","source":"Open Status","translation":"Stan odblokowania","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_body","source":"Filter Settings","translation":"Ustawienia filtrowania","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_COLLECTION_LIST_LOCK_body","source":"Locked","translation":"Zablokowane","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_DUTY_SUBTAB_QUEST_body","source":"Mission","translation":"Misja","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_DUTY_SUBTAB_SCROLL_body","source":"Command","translation":"Rozkaz","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_ACCEPT_body","source":"Accept","translation":"Przyjmij","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_AUTOMOVING_body","source":"Go","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_COMPLETE_body","source":"Complete","translation":"Ukończ","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_GIVEUP_body","source":"Give Up","translation":"Porzuć","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_MOVING_body","source":"Go","translation":"Przejdź","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_BUTTON_TELEPORT_body","source":"Teleport","translation":"Teleportuj","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_NORMAL_body","source":"Additional Rewards","translation":"Dodatkowe nagrody","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_RANDOM_body","source":"Random Reward: Randomly receive 1 to 5","translation":"Nagroda losowa: otrzymasz losowo od 1 do 5 przedmiotów","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_SELECT_body","source":"Select Reward: Select 1","translation":"Wybierz nagrodę: wybierz 1 przedmiot","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_body","source":"Basic Rewards","translation":"Podstawowe nagrody","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_ADVENTURE_body","source":"Exploration","translation":"Eksploracja","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_ASCENSION_body","source":"Ascension","translation":"Wniebowstąpienie","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_COLLECTION_body","source":"Collection","translation":"Kolekcja","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_HERO_body","source":"Episode","translation":"Epizod","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_JOURNAL_body","source":"Journal","translation":"Dziennik","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_MISSION_body","source":"Duty","translation":"Służbowe","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_SUB_body","source":"Regional","translation":"Regionalne","status":"draft"}
-{"id":"String_UI_JOURNAL_MENU_QUEST_TAB_TUTORIAL_body","source":"Training","translation":"Szkolenie","status":"draft"}
-{"id":"String_UI_JOURNAL_QUEST_EPISODE_body","source":"EP. {0}","translation":"EP. {0}","status":"draft"}
-{"id":"String_UI_JOURNAL_QUEST_RECOMMENDED_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_KEYSETTING_body","source":"Key Settings","translation":"Ustawienia klawiszy","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_MENU_BASIC_body","source":"Default","translation":"Domyślne","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_MENU_CONTENT_body","source":"Content","translation":"Zawartość","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_MENU_body","source":"Menu","translation":"Menu","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_CAMERA_body","source":"Camera","translation":"Kamera","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_EQUIPPRESET_body","source":"Gear Preset","translation":"Zestaw ekwipunku","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_EQUIP_ALLPRESET_body","source":"Batch Preset","translation":"Zestawienie zestawów","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_FLY_body","source":"Flight Controls","translation":"Sterowanie lotem","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_MODE_body","source":"Switch Control Mode","translation":"Zmień tryb sterowania","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_MOVE_JUMP_body","source":"Jump/Glide/Defiance Controls","translation":"Sterowanie skokiem / lotem / unikami","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_MOVE_body","source":"Movement Controls","translation":"Sterowanie ruchem","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_PLAY_body","source":"Gameplay","translation":"Rozgrywka","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_QUEST_body","source":"Quest Tracker","translation":"Śledzenie zadań","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_SKILLPRESET_body","source":"Skill Preset","translation":"Zestaw umiejętności","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_TARGET_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_VEHICLE_body","source":"Mount","translation":"Wierzchowiec","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_PLAY_body","source":"General","translation":"Ogólne","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_GOODS_body","source":"Consumables","translation":"Przedmioty użytkowe","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_POLYMORPHSKILL_body","source":"Unique Transformation Skill","translation":"Unikatowa umiejętność przemiany","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_SKILL_body","source":"Skill","translation":"Umiejętność","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_STIGMA_body","source":"Stigma","translation":"Stygmat","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_body","source":"Quickslot","translation":"Szybki slot","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_APPLY_body","source":"Apply Marker","translation":"Zastosuj znacznik","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_BASIC_body","source":"Default Settings","translation":"Ustawienia domyślne","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_IMAGE_body","source":"Image Marker","translation":"Znacznik graficzny","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_NUM_body","source":"Number Marker","translation":"Znacznik numeryczny","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_SELECT_body","source":"Select Marker","translation":"Wybierz znacznik","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_body","source":"Marker","translation":"Znacznik","status":"draft"}
-{"id":"String_UI_KEYMAPPING_CAUTION_body","source":"Restricted in AION 1 Control Mode.","translation":"Ograniczone w trybie sterowania AION 1.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_DESELECT_body","source":"Deselect","translation":"Odznacz","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_MOVE_body","source":"Go to List","translation":"Przejdź do listy","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_OPTION_CHANGE_body","source":"ON/OFF Settings","translation":"Ustawienia WŁ./WYŁ.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_SELECT_body","source":"Select List","translation":"Wybierz z listy","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_MENU_MOVE_body","source":"To Menu","translation":"Do menu","status":"draft"}
-{"id":"String_UI_KEYMAPPING_GAMEPAD_GUIDE_SHOW_CURSOR_body","source":"Activate Mouse Cursor","translation":"Włącz kursor myszy","status":"draft"}
-{"id":"String_UI_KEYMAPPING_MSGBOX_OVERLAP_CAUTION_body","source":"Already in use for <ref style=\"KeySetting_Previous\" attr=\"color\">[{0}]</>.","translation":"Jest już przypisany do <ref style=\"KeySetting_Previous\" attr=\"color\">[{0}]</>.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_MSGBOX_OVERLAP_CONFIRM_body","source":"Confirm change?","translation":"Potwierdzić zmianę?","status":"draft"}
-{"id":"String_UI_KEYMAPPING_MSGBOX_OVERLAP_KEY_body","source":"[{0}]","translation":"[{0}]","status":"draft"}
-{"id":"String_UI_KEYMAPPING_MSGBOX_RESET_ALL_CONFIRM_body","source":"This will <system_point>reset</> the items on the current page to their default values.\nAre you sure you wish to <system_point>proceed</>?","translation":"Spowoduje to <system_point>przywrócenie</> domyślnych wartości elementów na bieżącej stronie.\nCzy na pewno chcesz <system_point>kontynuować</>?","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_1_DESC_body","source":"When set to ON, Shugo Festival skill hotkeys can be separated from quickslot hotkeys","translation":"Po włączeniu tej opcji klawisze skrótów umiejętności Festiwalu Shugo będą oddzielone od klawiszy szybkiego slotu.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_1_body","source":"Separate Special Skill Hotkey","translation":"Oddzielny skrót umiejętności specjalnej","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_2_DESC_body","source":"When set to ON, Shugo Festival skill hotkeys can be separated from quickslot hotkeys","translation":"Po włączeniu tej opcji klawisze skrótów umiejętności Festiwalu Shugo będą oddzielone od klawiszy szybkiego slotu.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_2_body","source":"Separate Special Skill Hotkey","translation":"Oddzielny skrót umiejętności specjalnej","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_SHOCKRELEASE_DESC_body","source":"When set to ON, Defiance can be triggered through a hotkey different to that of Jump.","translation":"Po włączeniu tej opcji Unik będzie można aktywować osobnym klawiszem, niezależnym od skoku.","status":"draft"}
-{"id":"String_UI_KEYMAPPING_SETTING_SHOCKRELEASE_body","source":"Separate Defiance Hotkey","translation":"Oddzielny klawisz uniku","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_BTN_AGAINST_body","source":"No","translation":"Nie","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_BTN_AGREE_body","source":"Yes","translation":"Tak","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_BTN_START_body","source":"Proceed","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_DESC_PROGRESS_body","source":"Kick vote for {0} is in progress.\n<system_point>{1}The player will be removed upon receiving </> \"Yes\" votes.","translation":"Trwa głosowanie nad usunięciem gracza {0}.\n<system_point>{1}Gracz zostanie usunięty po otrzymaniu </> wymaganej liczby głosów twierdzących.","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_DESC_body","source":"Select reason(s) for kicking {0} to start the vote.\nThe player will be removed upon receiving <system_point>{1}</> or more \"Yes\" votes.\nThe initiator automatically votes \"Yes\".","translation":"Wybierz powód usunięcia gracza {0}, aby rozpocząć głosowanie.\nGracz zostanie usunięty po otrzymaniu co najmniej <system_point>{1}</> głosów twierdzących.\nInicjator automatycznie głosuje za usunięciem.","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_END_body","source":"Vote Ended","translation":"Głosowanie zakończone","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_WARNING_body","source":"Failure to vote within the time limit will be counted as a <system_point>\"No\"</> vote.","translation":"Brak głosu przed upływem limitu czasu zostanie uznany za głos <system_point>„Nie”</>.","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_body","source":"Voting ends in {0}s","translation":"Koniec głosowania za {0} s","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_REASON_DESC_LEADER_body","source":"Select reason(s) for kicking (Max {0}).","translation":"Wybierz powód usunięcia (maks. {0}).","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_REASON_DESC_MEMBER_body","source":"Reason","translation":"Powód","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_POPUP_TITLE_body","source":"Kick Vote","translation":"Głosowanie nad usunięciem","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_REASON_01_body","source":"Inactive (AFK)","translation":"Bezczynność (AFK)","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_REASON_02_body","source":"Gameplay sabotage","translation":"Szkodzenie drużynie","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_REASON_03_body","source":"Inappropriate communication (swearwords, insults, etc.)","translation":"Niewłaściwa komunikacja (wulgaryzmy, obelgi itp.)","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_REASON_04_body","source":"Other","translation":"Inne","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_START_MESSAGE_BTN_PARTICIPATE_body","source":"Vote","translation":"Głosuj","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_START_MESSAGE_PROGRESS_TIME_body","source":"Automatically ends in {0}s","translation":"Koniec automatycznie za {0} s","status":"draft"}
-{"id":"String_UI_KICKOUT_VOTE_START_MESSAGE_body","source":"Kick vote for {0} has begun.","translation":"Rozpoczęto głosowanie nad usunięciem gracza {0}.","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_FULL_body","source":"At Capacity","translation":"Brak miejsc","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_IMMEDIATELY_body","source":"Open","translation":"Otwarty nabór","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_CANCEL_body","source":"Cancel Request","translation":"Anuluj zgłoszenie","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_REQUEST_body","source":"Applied","translation":"Zgłoszono","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_body","source":"Apply to Join","translation":"Złóż podanie o dołączenie","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_PASSWORD_body","source":"Join with Password","translation":"Dołącz za pomocą hasła","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_COMMANDER_body","source":"High Commander","translation":"Głównodowodzący","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_COUNT_body","source":"Members","translation":"Członkowie","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_INTROMSG_body","source":"Introduction","translation":"Opis","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_JOINSTATUS_body","source":"Apply / Cancel","translation":"Zgłoszenie / anulowanie","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_LEVEL_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_NAME_body","source":"Name","translation":"Nazwa","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_RANKING_body","source":"Rank","translation":"Ranga","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_ONBOARDING_RECOMMEND_NONE_body","source":"No recommended Legion available.","translation":"Brak polecanych Legionów.","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_SEARCH_HINTTEXT_body","source":"Enter the Legion name to search for.","translation":"Wpisz nazwę Legionu, aby wyszukać.","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_TEXT_INFO1_body","source":"You can apply to join up to 3 Legions.","translation":"Możesz zgłosić chęć dołączenia do maksymalnie 3 Legionów.","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_TEXT_INFO2_body","source":"The 100 most recently established Legions can be found through search.","translation":"Wyszukiwarka pokazuje 100 ostatnio założonych Legionów.","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_LEGIONLIST_TEXT_POINT_body","source":"Owned Reputation Points","translation":"Posiadane punkty reputacji","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_TAB_JOINEDLIST_body","source":"Applications","translation":"Zgłoszenia","status":"draft"}
-{"id":"String_UI_LEGIONJOIN_TAB_LIST_body","source":"List","translation":"Lista","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_LEVEL_EFFECT_body","source":"Legion Lv. Perks","translation":"Korzyści zależne od poziomu Legionu","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_EFFECT_body","source":"Pantheon Effects","translation":"Efekty Panteonu","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_FRAME_body","source":"Artwork","translation":"Dzieło sztuki","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_LARGE_body","source":"Colossus","translation":"Kolos","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_REMAIN_TIME_body","source":"Time Left","translation":"Pozostały czas","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_SMALL_body","source":"Statue","translation":"Posąg","status":"draft"}
-{"id":"String_UI_LEGION_AGIT_PANTHEON_body","source":"Pantheon","translation":"Panteon","status":"draft"}
-{"id":"String_UI_LEGION_AUTHORITY_SETTING_BUTTON_RESET_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_LEGION_AUTHORITY_SETTING_BUTTON_SAVE_body","source":"Save","translation":"Zapisz","status":"draft"}
-{"id":"String_UI_LEGION_AUTHORITY_SETTING_body","source":"Authority Settings","translation":"Ustawienia uprawnień","status":"draft"}
-{"id":"String_UI_LEGION_BUTTON_BENEFIT_body","source":"View Legion Benefits","translation":"Wyświetl korzyści Legionu","status":"draft"}
-{"id":"String_UI_LEGION_BUTTON_MY_PANTHEON_body","source":"View My Pantheon","translation":"Wyświetl mój Panteon","status":"draft"}
-{"id":"String_UI_LEGION_ENTRY_BUTTON_ESTABLISH_body","source":"Create","translation":"Utwórz","status":"draft"}
-{"id":"String_UI_LEGION_ENTRY_BUTTON_JOIN_body","source":"Join","translation":"Dołącz","status":"draft"}
-{"id":"String_UI_LEGION_ENTRY_ESTABLISH_DESC_body","source":"Create a Legion and lead the members.","translation":"Załóż Legion i stań na jego czele.","status":"draft"}
-{"id":"String_UI_LEGION_ENTRY_JOIN_DESC_body","source":"Join a Legion and become an honorable member.","translation":"Dołącz do Legionu i zostań jego zaszczytnym członkiem.","status":"draft"}
-{"id":"String_UI_LEGION_ENTRY_TITLE_body","source":"Legion","translation":"Legion","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_BUTTON_CHANGEEMBLEM_body","source":"Change Crest","translation":"Zmień herb","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_BUTTON_ESTABLISH_body","source":"Create Legion","translation":"Utwórz Legion","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_CS_BUTTON_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_CS_NOTICE_body","source":"You may change Legion name and introduction as long as they comply with the Operations Policy.","translation":"Możesz zmienić nazwę i opis Legionu, o ile są zgodne z regulaminem.","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_INTROMSG_HINTTEXT_body","source":"Up to 48 characters","translation":"Maks. 48 znaków","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_INTROMSG_body","source":"Introduction","translation":"Opis","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_IMMEDIATELY_body","source":"Open","translation":"Otwarty nabór","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_NEEDACCEPTANCE_body","source":"By Approval","translation":"Za zgodą","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_NEEDPASSWORD_body","source":"Join with Password","translation":"Dołącz za pomocą hasła","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_body","source":"Application Settings","translation":"Ustawienia zgłoszeń","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_GUIDETEXT1_body","source":"Once set, the Legion name cannot be changed.","translation":"Po ustawieniu nazwy Legionu nie można jej zmienić.","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_GLOBAL_body","source":"1-12 characters, with no spaces or special characters","translation":"1–12 znaków, bez spacji i znaków specjalnych","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_TW_body","source":"1-12 English or Traditional Chinese characters, with no spaces or special characters","translation":"1–12 znaków angielskich lub chińskich tradycyjnych, bez spacji i znaków specjalnych","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_body","source":"1-12 English or Korean characters, with no spaces or special characters","translation":"1–12 znaków angielskich lub koreańskich, bez spacji i znaków specjalnych","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_body","source":"Legion Name","translation":"Nazwa Legionu","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_SUBTITLE_POINT_body","source":"Owned Reputation Points","translation":"Posiadane punkty reputacji","status":"draft"}
-{"id":"String_UI_LEGION_ESTABLISH_TITLE_body","source":"Create Legion","translation":"Utwórz Legion","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AGIT_RENTAL_COMINGUP_body","source":"{0} days left until Hall rental period expires.","translation":"Do wygaśnięcia najmu Sali pozostało {0} dni.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AGIT_RENTAL_EXPIRED_body","source":"Hall rental period expired.","translation":"Okres najmu Sali wygasł.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AGIT_RENTAL_body","source":"Hall rental period extended. ({0} days remaining)","translation":"Przedłużono okres najmu Sali. (Pozostało {0} dni)","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AUTHORITY_CHANGE_body","source":"{0} has been <Legion_HistoryResult1>appointed</> as {1}.","translation":"{0} został <Legion_HistoryResult1>mianowany</> na stanowisko {1}.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AUTHORITY_DEGRADE_body","source":"{0} <Legion_HistoryResult1>reassigned</> the High Commander authority to {1}.","translation":"{0} <Legion_HistoryResult1>przekazał</> uprawnienia Głównodowodzącego graczowi {1}.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_AUTHORITY_OPTION_body","source":"{0} permission set to {1}.","translation":"Uprawnienie {0} ustawiono na {1}.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_BUTTON_HISTORY_body","source":"History","translation":"Historia","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_ESTABLISH_body","source":"Legion formed.","translation":"Utworzono Legion.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_INTRODUCE_body","source":"Introduction changed.","translation":"Zmieniono opis.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_JOIN_OPTION_ACCEPTANCE_body","source":"Approval","translation":"Za zgodą","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_JOIN_OPTION_IMMEDIATELY_body","source":"Immediate","translation":"Natychmiastowo","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_JOIN_OPTION_PASSWORD_body","source":"Password","translation":"Hasło","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_JOIN_OPTION_body","source":"Legion <Legion_HistoryChange>recruitment method</> has been changed from {0} to {1}.","translation":"Metodę <Legion_HistoryChange>naboru</> w Legionie zmieniono z {0} na {1}.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_DESC_JOIN_body","source":"Joined","translation":"Dołączył","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_DESC_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_GRADE_MASTER_body","source":"High Commander","translation":"Głównodowodzący","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_GRADE_MEMBER_body","source":"Soldier","translation":"Żołnierz","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_GRADE_OFFICER_body","source":"Elite Officer","translation":"Oficer elitarny","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_JOIN_LEAVE_body","source":"{0} {1}.","translation":"{0} {1}.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_MEMBER_KICKOUT_body","source":"{0} has been <Legion_HistoryResult2>kicked</>.","translation":"{0} został <Legion_HistoryResult2>usunięty</>.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_NOTICE_body","source":"Announcement changed.","translation":"Zmieniono ogłoszenie.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_POPUP_NO_RECORD_body","source":"No record history available.","translation":"Brak historii zapisów.","status":"draft"}
-{"id":"String_UI_LEGION_HISTORY_POPUP_TITLE_body","source":"Record","translation":"Zapis","status":"draft"}
-{"id":"String_UI_LEGION_INFO_LEGIONMEMBER_COUNT_body","source":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2} Player(s)","translation":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy","status":"draft"}
-{"id":"String_UI_LEGION_INFO_LEGIONMEMBER_body","source":"Members","translation":"Członkowie","status":"draft"}
-{"id":"String_UI_LEGION_INFO_LEGIONNAME_body","source":"Legion Name","translation":"Nazwa Legionu","status":"draft"}
-{"id":"String_UI_LEGION_INFO_LEGIONRANK_body","source":"Rank","translation":"Ranga","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_GUILDPOINT_body","source":"Owned Reputation Points","translation":"Posiadane punkty reputacji","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_JOINED_TIME_body","source":"Time of Application","translation":"Czas złożenia podania","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_LATEST_ACCESS_DATE_body","source":"Recent Connection Duration","translation":"Ostatnie połączenie","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_LEVEL_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_NAME_body","source":"Name","translation":"Nazwa","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_SETTING_body","source":"Reject / Approve","translation":"Odrzuć / zatwierdź","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_LIST_BUTTON_ACCEPT_body","source":"Approve","translation":"Zatwierdź","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_LIST_BUTTON_DENY_body","source":"Decline","translation":"Odrzuć","status":"draft"}
+{"id": "String_UI_ITEM_USE_MULTI_POPUP_GUIDE_body", "source": "Use the selected number of items at once.", "translation": "Użyj jednocześnie wybraną liczbę przedmiotów.", "status": "draft"}
+{"id": "String_UI_ITEM_USE_MULTI_POPUP_TITLE_body", "source": "Bulk Use", "translation": "Użyj seriami", "status": "draft"}
+{"id": "String_UI_Item_Enchant_Detail_SuccessProb_DESC_body", "source": "+{0} >> +{1} Success Chance", "translation": "+{0} >> +{1} Szansa powodzenia", "status": "draft"}
+{"id": "String_UI_Item_Enchant_Detail_SuccessProb_TITLE_body", "source": "Detailed Success Chance", "translation": "Szczegółowa szansa powodzenia", "status": "draft"}
+{"id": "String_UI_Item_Enchant_Detail_SuccessProb_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_COUNT_FILTERED_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_FILTERED_NA_body", "source": "No items matching the conditions exist.", "translation": "Brak przedmiotów spełniających te warunki.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_FILTEROPTION_AND_body", "source": "·", "translation": "·", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_FILTEROPTON_DISTRICTS_body", "source": "Region: {0} Type(s)", "translation": "Region: {0} typ(y)", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_MONSTER_ELITE_body", "source": "ELITE", "translation": "ELITA", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_MONSTER_HERO_body", "source": "HERO", "translation": "BOHATER", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_MONSTER_LEGEND_body", "source": "LEGEND", "translation": "LEGENDA", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_RICH_COUNT_body", "source": "<ref style=\"Journal_CollectList_CurCount\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"Journal_CollectList_CurCount\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_ARTIFACT_body", "source": "You have not acquired this relic.", "translation": "Nie zdobyto tego reliktu.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_MONSTER_body", "source": "You have not defeated this monster.", "translation": "Nie pokonano tego potwora.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_PERSON_body", "source": "You have not met this character.", "translation": "Nie spotkano tej postaci.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COLLECTION_UNLOCK_TEXT_RECORD_body", "source": "You have not obtained this record.", "translation": "Nie zdobyto tego zapisu.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMMON_TITLE_body", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_ARTIFACT_body", "source": "Can be achieved by clearing Sealed Dungeons and completing quests to obtain Relics. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, oczyszczając zapieczętowane lochy i wykonując zadania, aby zdobyć relikty. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_DUNGEON_body", "source": "Can be achieved by clearing Dungeons in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, oczyszczając lochy w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_EXPLORE_body", "source": "Can be achieved by occupying strongholds in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, zajmując warownie w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_MONSTER_body", "source": "Can be achieved by defeating certain Unique Monsters in dungeons, excluding sealed dungeons, and Field Unique Monsters in the current region. Check the Journal's Collection tab for more details. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, pokonując wybrane unikatowe potwory w lochach (z wyjątkiem zapieczętowanych lochów) oraz unikatowe potwory w terenie bieżącego regionu. Więcej informacji znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_PERSON_body", "source": "Can be achieved by encountering key characters in the current region. Check detailed information in the Journal Collection tab. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, spotykając ważne postacie w bieżącym regionie. Szczegóły znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_QUEST_body", "source": "Can be achieved by completing Hero Quests and Regional Quests in the current region. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, wykonując zadania bohaterskie i regionalne w bieżącym regionie. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_RECORD_body", "source": "Can be achieved by viewing or acquiring various records in the current region. Check detailed information in the Journal Collection tab. Once you complete each stage (30%/60%/100%), click the reward button to claim your rewards.", "translation": "Możesz to osiągnąć, przeglądając lub zdobywając różne zapisy w bieżącym regionie. Szczegóły znajdziesz na karcie Kolekcja w Dzienniku. Po ukończeniu każdego etapu (30%/60%/100%) kliknij przycisk nagrody, aby ją odebrać.", "status": "draft"}
+{"id": "String_UI_JOURNAL_COMPLETION_GUIDE_REGION_body", "source": "The region achievement rate is calculated by adding the completion rates for quests, dungeons, territories, characters, monsters, relics, and records in the region.\nRegion achievement rewards can be claimed upon 100% completion of all achievements.", "translation": "Postęp osiągnięć regionu to suma postępów zadań, lochów, terytoriów, postaci, potworów, reliktów i zapisów w tym regionie.\nNagrody za osiągnięcia regionu można odebrać po ukończeniu wszystkich osiągnięć w 100%.", "status": "draft"}
+{"id": "String_UI_JOURNAL_HERO_EPISODE_body", "source": "EPISODE {0}", "translation": "EPIZOD {0}", "status": "draft"}
+{"id": "String_UI_JOURNAL_HERO_QUEST_LEVEL_COND_DESC_body", "source": "Must reach Lv. <insufficient>{0}</>", "translation": "Wymagany poziom: <insufficient>{0}</>", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_ASCENSION_LOCK_body", "source": "Locked", "translation": "Zablokowane", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_BUTTON_SETUP_body", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_DISTRICT_ALL_CHECKBOX_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_DISTRICT_body", "source": "Regional", "translation": "Regionalne", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_ALL_RADIO_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_LOCK_RADIO_body", "source": "Locked", "translation": "Zablokowane", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_UNLOCK_RADIO_body", "source": "Open", "translation": "Odblokowane", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_LOCKSTATUS_body", "source": "Open Status", "translation": "Stan odblokowania", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_FILTEROPTION_body", "source": "Filter Settings", "translation": "Ustawienia filtrowania", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_COLLECTION_LIST_LOCK_body", "source": "Locked", "translation": "Zablokowane", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_DUTY_SUBTAB_QUEST_body", "source": "Mission", "translation": "Misja", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_DUTY_SUBTAB_SCROLL_body", "source": "Command", "translation": "Rozkaz", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_ACCEPT_body", "source": "Accept", "translation": "Przyjmij", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_AUTOMOVING_body", "source": "Go", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_COMPLETE_body", "source": "Complete", "translation": "Ukończ", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_GIVEUP_body", "source": "Give Up", "translation": "Porzuć", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_MOVING_body", "source": "Go", "translation": "Przejdź", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_BUTTON_TELEPORT_body", "source": "Teleport", "translation": "Teleportuj", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_NORMAL_body", "source": "Additional Rewards", "translation": "Dodatkowe nagrody", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_RANDOM_body", "source": "Random Reward: Randomly receive 1 to 5", "translation": "Nagroda losowa: otrzymasz losowo od 1 do 5 przedmiotów", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_SELECT_body", "source": "Select Reward: Select 1", "translation": "Wybierz nagrodę: wybierz 1 przedmiot", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_LABEL_REWARD_body", "source": "Basic Rewards", "translation": "Podstawowe nagrody", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_ADVENTURE_body", "source": "Exploration", "translation": "Eksploracja", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_ASCENSION_body", "source": "Ascension", "translation": "Wniebowstąpienie", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_COLLECTION_body", "source": "Collection", "translation": "Kolekcja", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_HERO_body", "source": "Episode", "translation": "Epizod", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_JOURNAL_body", "source": "Journal", "translation": "Dziennik", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_MISSION_body", "source": "Duty", "translation": "Służbowe", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_SUB_body", "source": "Regional", "translation": "Regionalne", "status": "draft"}
+{"id": "String_UI_JOURNAL_MENU_QUEST_TAB_TUTORIAL_body", "source": "Training", "translation": "Szkolenie", "status": "draft"}
+{"id": "String_UI_JOURNAL_QUEST_EPISODE_body", "source": "EP. {0}", "translation": "Odc. {0}", "status": "draft"}
+{"id": "String_UI_JOURNAL_QUEST_RECOMMENDED_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_KEYSETTING_body", "source": "Key Settings", "translation": "Ustawienia klawiszy", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_MENU_BASIC_body", "source": "Default", "translation": "Domyślne", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_MENU_CONTENT_body", "source": "Content", "translation": "Zawartość", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_MENU_body", "source": "Menu", "translation": "Menu", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_CAMERA_body", "source": "Camera", "translation": "Kamera", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_EQUIPPRESET_body", "source": "Gear Preset", "translation": "Zestaw ekwipunku", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_EQUIP_ALLPRESET_body", "source": "Batch Preset", "translation": "Zestawienie zestawów", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_FLY_body", "source": "Flight Controls", "translation": "Sterowanie lotem", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_MODE_body", "source": "Switch Control Mode", "translation": "Zmień tryb sterowania", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_MOVE_JUMP_body", "source": "Jump/Glide/Defiance Controls", "translation": "Sterowanie skokiem / lotem / unikami", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_MOVE_body", "source": "Movement Controls", "translation": "Sterowanie ruchem", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_PLAY_body", "source": "Gameplay", "translation": "Rozgrywka", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_QUEST_body", "source": "Quest Tracker", "translation": "Śledzenie zadań", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_SKILLPRESET_body", "source": "Skill Preset", "translation": "Zestaw umiejętności", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_TARGET_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_VEHICLE_body", "source": "Mount", "translation": "Wierzchowiec", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_PLAY_body", "source": "General", "translation": "Ogólne", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_GOODS_body", "source": "Consumables", "translation": "Przedmioty użytkowe", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_POLYMORPHSKILL_body", "source": "Unique Transformation Skill", "translation": "Unikatowa umiejętność przemiany", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_SKILL_body", "source": "Skill", "translation": "Umiejętność", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_STIGMA_body", "source": "Stigma", "translation": "Stygmat", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_QUICKSLOT_body", "source": "Quickslot", "translation": "Szybki slot", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_APPLY_body", "source": "Apply Marker", "translation": "Zastosuj znacznik", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_BASIC_body", "source": "Default Settings", "translation": "Ustawienia domyślne", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_IMAGE_body", "source": "Image Marker", "translation": "Znacznik graficzny", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_NUM_body", "source": "Number Marker", "translation": "Znacznik numeryczny", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_SELECT_body", "source": "Select Marker", "translation": "Wybierz znacznik", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CATEGORY_TARGETMARKER_body", "source": "Marker", "translation": "Znacznik", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_CAUTION_body", "source": "Restricted in AION 1 Control Mode.", "translation": "Ograniczone w trybie sterowania AION 1.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_DESELECT_body", "source": "Deselect", "translation": "Odznacz", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_MOVE_body", "source": "Go to List", "translation": "Przejdź do listy", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_OPTION_CHANGE_body", "source": "ON/OFF Settings", "translation": "Ustawienia WŁ./WYŁ.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_LIST_SELECT_body", "source": "Select List", "translation": "Wybierz z listy", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_MENU_MOVE_body", "source": "To Menu", "translation": "Do menu", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_GAMEPAD_GUIDE_SHOW_CURSOR_body", "source": "Activate Mouse Cursor", "translation": "Włącz kursor myszy", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_MSGBOX_OVERLAP_CAUTION_body", "source": "Already in use for <ref style=\"KeySetting_Previous\" attr=\"color\">[{0}]</>.", "translation": "Jest już przypisany do <ref style=\"KeySetting_Previous\" attr=\"color\">[{0}]</>.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_MSGBOX_OVERLAP_CONFIRM_body", "source": "Confirm change?", "translation": "Potwierdzić zmianę?", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_MSGBOX_OVERLAP_KEY_body", "source": "[{0}]", "translation": "[{0}]", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_MSGBOX_RESET_ALL_CONFIRM_body", "source": "This will <system_point>reset</> the items on the current page to their default values.\nAre you sure you wish to <system_point>proceed</>?", "translation": "Spowoduje to <system_point>przywrócenie</> domyślnych wartości elementów na bieżącej stronie.\nCzy na pewno chcesz <system_point>kontynuować</>?", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_1_DESC_body", "source": "When set to ON, Shugo Festival skill hotkeys can be separated from quickslot hotkeys", "translation": "Po włączeniu tej opcji klawisze skrótów umiejętności Festiwalu Shugo będą oddzielone od klawiszy szybkiego slotu.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_1_body", "source": "Separate Special Skill Hotkey", "translation": "Oddzielny skrót umiejętności specjalnej", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_2_DESC_body", "source": "When set to ON, Shugo Festival skill hotkeys can be separated from quickslot hotkeys", "translation": "Po włączeniu tej opcji klawisze skrótów umiejętności Festiwalu Shugo będą oddzielone od klawiszy szybkiego slotu.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_QUICKSLOT_EVENTSKILL_2_body", "source": "Separate Special Skill Hotkey", "translation": "Oddzielny skrót umiejętności specjalnej", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_SHOCKRELEASE_DESC_body", "source": "When set to ON, Defiance can be triggered through a hotkey different to that of Jump.", "translation": "Po włączeniu tej opcji Unik będzie można aktywować osobnym klawiszem, niezależnym od skoku.", "status": "draft"}
+{"id": "String_UI_KEYMAPPING_SETTING_SHOCKRELEASE_body", "source": "Separate Defiance Hotkey", "translation": "Oddzielny klawisz uniku", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_BTN_AGAINST_body", "source": "No", "translation": "Nie", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_BTN_AGREE_body", "source": "Yes", "translation": "Tak", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_BTN_START_body", "source": "Proceed", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_DESC_PROGRESS_body", "source": "Kick vote for {0} is in progress.\n<system_point>{1}The player will be removed upon receiving </> \"Yes\" votes.", "translation": "Trwa głosowanie nad usunięciem gracza {0}.\n<system_point>{1}Gracz zostanie usunięty po otrzymaniu </> wymaganej liczby głosów twierdzących.", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_DESC_body", "source": "Select reason(s) for kicking {0} to start the vote.\nThe player will be removed upon receiving <system_point>{1}</> or more \"Yes\" votes.\nThe initiator automatically votes \"Yes\".", "translation": "Wybierz powód usunięcia gracza {0}, aby rozpocząć głosowanie.\nGracz zostanie usunięty po otrzymaniu co najmniej <system_point>{1}</> głosów twierdzących.\nInicjator automatycznie głosuje za usunięciem.", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_END_body", "source": "Vote Ended", "translation": "Głosowanie zakończone", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_WARNING_body", "source": "Failure to vote within the time limit will be counted as a <system_point>\"No\"</> vote.", "translation": "Brak głosu przed upływem limitu czasu zostanie uznany za głos <system_point>„Nie”</>.", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_PROGRESS_TIME_body", "source": "Voting ends in {0}s", "translation": "Koniec głosowania za {0} s", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_REASON_DESC_LEADER_body", "source": "Select reason(s) for kicking (Max {0}).", "translation": "Wybierz powód usunięcia (maks. {0}).", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_REASON_DESC_MEMBER_body", "source": "Reason", "translation": "Powód", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_POPUP_TITLE_body", "source": "Kick Vote", "translation": "Głosowanie nad usunięciem", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_REASON_01_body", "source": "Inactive (AFK)", "translation": "Bezczynność (AFK)", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_REASON_02_body", "source": "Gameplay sabotage", "translation": "Szkodzenie drużynie", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_REASON_03_body", "source": "Inappropriate communication (swearwords, insults, etc.)", "translation": "Niewłaściwa komunikacja (wulgaryzmy, obelgi itp.)", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_REASON_04_body", "source": "Other", "translation": "Inne", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_START_MESSAGE_BTN_PARTICIPATE_body", "source": "Vote", "translation": "Głosuj", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_START_MESSAGE_PROGRESS_TIME_body", "source": "Automatically ends in {0}s", "translation": "Koniec automatycznie za {0} s", "status": "draft"}
+{"id": "String_UI_KICKOUT_VOTE_START_MESSAGE_body", "source": "Kick vote for {0} has begun.", "translation": "Rozpoczęto głosowanie nad usunięciem gracza {0}.", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_FULL_body", "source": "At Capacity", "translation": "Brak miejsc", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_IMMEDIATELY_body", "source": "Open", "translation": "Otwarty nabór", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_CANCEL_body", "source": "Cancel Request", "translation": "Anuluj zgłoszenie", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_REQUEST_body", "source": "Applied", "translation": "Zgłoszono", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_JOIN_body", "source": "Apply to Join", "translation": "Złóż podanie o dołączenie", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_BUTTON_PASSWORD_body", "source": "Join with Password", "translation": "Dołącz za pomocą hasła", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_COMMANDER_body", "source": "High Commander", "translation": "Głównodowodzący", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_COUNT_body", "source": "Members", "translation": "Członkowie", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_INTROMSG_body", "source": "Introduction", "translation": "Opis", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_JOINSTATUS_body", "source": "Apply / Cancel", "translation": "Zgłoszenie / anulowanie", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_NAME_body", "source": "Name", "translation": "Nazwa", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_CATEGORY_RANKING_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_ONBOARDING_RECOMMEND_NONE_body", "source": "No recommended Legion available.", "translation": "Brak polecanych Legionów.", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_SEARCH_HINTTEXT_body", "source": "Enter the Legion name to search for.", "translation": "Wpisz nazwę Legionu, aby wyszukać.", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_TEXT_INFO1_body", "source": "You can apply to join up to 3 Legions.", "translation": "Możesz zgłosić chęć dołączenia do maksymalnie 3 Legionów.", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_TEXT_INFO2_body", "source": "The 100 most recently established Legions can be found through search.", "translation": "Wyszukiwarka pokazuje 100 ostatnio założonych Legionów.", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_LEGIONLIST_TEXT_POINT_body", "source": "Owned Reputation Points", "translation": "Posiadane punkty reputacji", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_TAB_JOINEDLIST_body", "source": "Applications", "translation": "Zgłoszenia", "status": "draft"}
+{"id": "String_UI_LEGIONJOIN_TAB_LIST_body", "source": "List", "translation": "Lista", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_LEVEL_EFFECT_body", "source": "Legion Lv. Perks", "translation": "Korzyści zależne od poziomu Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_EFFECT_body", "source": "Pantheon Effects", "translation": "Efekty Panteonu", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_FRAME_body", "source": "Artwork", "translation": "Dzieło sztuki", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_LARGE_body", "source": "Colossus", "translation": "Kolos", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_REMAIN_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_SMALL_body", "source": "Statue", "translation": "Posąg", "status": "draft"}
+{"id": "String_UI_LEGION_AGIT_PANTHEON_body", "source": "Pantheon", "translation": "Panteon", "status": "draft"}
+{"id": "String_UI_LEGION_AUTHORITY_SETTING_BUTTON_RESET_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_LEGION_AUTHORITY_SETTING_BUTTON_SAVE_body", "source": "Save", "translation": "Zapisz", "status": "draft"}
+{"id": "String_UI_LEGION_AUTHORITY_SETTING_body", "source": "Authority Settings", "translation": "Ustawienia uprawnień", "status": "draft"}
+{"id": "String_UI_LEGION_BUTTON_BENEFIT_body", "source": "View Legion Benefits", "translation": "Wyświetl korzyści Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_BUTTON_MY_PANTHEON_body", "source": "View My Pantheon", "translation": "Wyświetl mój Panteon", "status": "draft"}
+{"id": "String_UI_LEGION_ENTRY_BUTTON_ESTABLISH_body", "source": "Create", "translation": "Utwórz", "status": "draft"}
+{"id": "String_UI_LEGION_ENTRY_BUTTON_JOIN_body", "source": "Join", "translation": "Dołącz", "status": "draft"}
+{"id": "String_UI_LEGION_ENTRY_ESTABLISH_DESC_body", "source": "Create a Legion and lead the members.", "translation": "Załóż Legion i stań na jego czele.", "status": "draft"}
+{"id": "String_UI_LEGION_ENTRY_JOIN_DESC_body", "source": "Join a Legion and become an honorable member.", "translation": "Dołącz do Legionu i zostań jego zaszczytnym członkiem.", "status": "draft"}
+{"id": "String_UI_LEGION_ENTRY_TITLE_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_BUTTON_CHANGEEMBLEM_body", "source": "Change Crest", "translation": "Zmień herb", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_BUTTON_ESTABLISH_body", "source": "Create Legion", "translation": "Utwórz Legion", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_CS_BUTTON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_CS_NOTICE_body", "source": "You may change Legion name and introduction as long as they comply with the Operations Policy.", "translation": "Możesz zmienić nazwę i opis Legionu, o ile są zgodne z regulaminem.", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_INTROMSG_HINTTEXT_body", "source": "Up to 48 characters", "translation": "Maks. 48 znaków", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_INTROMSG_body", "source": "Introduction", "translation": "Opis", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_IMMEDIATELY_body", "source": "Open", "translation": "Otwarty nabór", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_NEEDACCEPTANCE_body", "source": "By Approval", "translation": "Za zgodą", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_CHECKBUTTON_NEEDPASSWORD_body", "source": "Join with Password", "translation": "Dołącz za pomocą hasła", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_JOINMETHOD_body", "source": "Application Settings", "translation": "Ustawienia zgłoszeń", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_GUIDETEXT1_body", "source": "Once set, the Legion name cannot be changed.", "translation": "Po ustawieniu nazwy Legionu nie można jej zmienić.", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_GLOBAL_body", "source": "1-12 characters, with no spaces or special characters", "translation": "1–12 znaków, bez spacji i znaków specjalnych", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_TW_body", "source": "1-12 English or Traditional Chinese characters, with no spaces or special characters", "translation": "1–12 znaków angielskich lub chińskich tradycyjnych, bez spacji i znaków specjalnych", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_HINTTEXT_body", "source": "1-12 English or Korean characters, with no spaces or special characters", "translation": "1–12 znaków angielskich lub koreańskich, bez spacji i znaków specjalnych", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_LEGIONNAME_body", "source": "Legion Name", "translation": "Nazwa Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_SUBTITLE_POINT_body", "source": "Owned Reputation Points", "translation": "Posiadane punkty reputacji", "status": "draft"}
+{"id": "String_UI_LEGION_ESTABLISH_TITLE_body", "source": "Create Legion", "translation": "Utwórz Legion", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AGIT_RENTAL_COMINGUP_body", "source": "{0} days left until Hall rental period expires.", "translation": "Do wygaśnięcia najmu Sali pozostało {0} dni.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AGIT_RENTAL_EXPIRED_body", "source": "Hall rental period expired.", "translation": "Okres najmu Sali wygasł.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AGIT_RENTAL_body", "source": "Hall rental period extended. ({0} days remaining)", "translation": "Przedłużono okres najmu Sali. (Pozostało {0} dni)", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AUTHORITY_CHANGE_body", "source": "{0} has been <Legion_HistoryResult1>appointed</> as {1}.", "translation": "{0} został <Legion_HistoryResult1>mianowany</> na stanowisko {1}.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AUTHORITY_DEGRADE_body", "source": "{0} <Legion_HistoryResult1>reassigned</> the High Commander authority to {1}.", "translation": "{0} <Legion_HistoryResult1>przekazał</> uprawnienia Głównodowodzącego graczowi {1}.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_AUTHORITY_OPTION_body", "source": "{0} permission set to {1}.", "translation": "Uprawnienie {0} ustawiono na {1}.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_BUTTON_HISTORY_body", "source": "History", "translation": "Historia", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_ESTABLISH_body", "source": "Legion formed.", "translation": "Utworzono Legion.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_GM_INTRODUCE_body", "source": "<Title_None>The introduction has been changed by an administrator.</>", "translation": "<Title_None>Administrator zmienił wprowadzenie.</>", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_GM_NOTICE_body", "source": "<Title_None>The announcements have been changed by an administrator.</>", "translation": "<Title_None>Administrator zmienił ogłoszenia.</>", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_INTRODUCE_body", "source": "Introduction changed.", "translation": "Zmieniono opis.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_JOIN_OPTION_ACCEPTANCE_body", "source": "Approval", "translation": "Za zgodą", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_JOIN_OPTION_IMMEDIATELY_body", "source": "Immediate", "translation": "Natychmiastowo", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_JOIN_OPTION_PASSWORD_body", "source": "Password", "translation": "Hasło", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_JOIN_OPTION_body", "source": "Legion <Legion_HistoryChange>recruitment method</> has been changed from {0} to {1}.", "translation": "Metodę <Legion_HistoryChange>naboru</> w Legionie zmieniono z {0} na {1}.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_DESC_JOIN_body", "source": "Joined", "translation": "Dołączył", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_DESC_LEAVE_body", "source": "Leave", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_GRADE_MASTER_body", "source": "High Commander", "translation": "Głównodowodzący", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_GRADE_MEMBER_body", "source": "Soldier", "translation": "Żołnierz", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_GRADE_OFFICER_body", "source": "Elite Officer", "translation": "Oficer elitarny", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_JOIN_LEAVE_body", "source": "{0} {1}.", "translation": "{0} {1}.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_MEMBER_KICKOUT_body", "source": "{0} has been <Legion_HistoryResult2>kicked</>.", "translation": "{0} został <Legion_HistoryResult2>usunięty</>.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_NOTICE_body", "source": "Announcement changed.", "translation": "Zmieniono ogłoszenie.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_POPUP_NO_RECORD_body", "source": "No record history available.", "translation": "Brak historii zapisów.", "status": "draft"}
+{"id": "String_UI_LEGION_HISTORY_POPUP_TITLE_body", "source": "Record", "translation": "Zapis", "status": "draft"}
+{"id": "String_UI_LEGION_INFO_LEGIONMEMBER_COUNT_body", "source": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2} Player(s)", "translation": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy", "status": "draft"}
+{"id": "String_UI_LEGION_INFO_LEGIONMEMBER_body", "source": "Members", "translation": "Członkowie", "status": "draft"}
+{"id": "String_UI_LEGION_INFO_LEGIONNAME_body", "source": "Legion Name", "translation": "Nazwa Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_INFO_LEGIONRANK_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_GUILDPOINT_body", "source": "Owned Reputation Points", "translation": "Posiadane punkty reputacji", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_JOINED_TIME_body", "source": "Time of Application", "translation": "Czas złożenia podania", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_LATEST_ACCESS_DATE_body", "source": "Recent Connection Duration", "translation": "Ostatnie połączenie", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_NAME_body", "source": "Name", "translation": "Nazwa", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_CATEGORY_SETTING_body", "source": "Reject / Approve", "translation": "Odrzuć / zatwierdź", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_LIST_BUTTON_ACCEPT_body", "source": "Approve", "translation": "Zatwierdź", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_LIST_BUTTON_DENY_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
 {"id": "String_UI_LEGION_LEGIONJOINEDLIST_LIST_CONNECT_body", "source": "Online", "translation": "W sieci", "status": "draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_ONBOARDING_JOINEDLIST_NONE_body","source":"There is no Application List.","translation":"Brak zgłoszeń.","status":"draft"}
-{"id":"String_UI_LEGION_LEGIONJOINEDLIST_TITLE_body","source":"Application List","translation":"Lista zgłoszeń","status":"draft"}
-{"id":"String_UI_LEGION_LEVEL_body","source":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2}","translation":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_CLASS_body","source":"Class","translation":"Klasa","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_COMBAT_POWER_body","source":"Combat Power","translation":"Moc bojowa","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_COMMENT_GUIDE_body","source":"Enter a comment for Legion Members.","translation":"Wpisz komentarz dla członków Legionu.","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_COMMENT_HINTTEXT_body","source":"You can enter up to {0} characters.","translation":"Możesz wpisać maksymalnie {0} znaków.","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_COMMENT_body","source":"Comment","translation":"Komentarz","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_DISTRICT_body","source":"Region","translation":"Region","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_GRADE_body","source":"Rank","translation":"Ranga","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_ITEM_LEVEL_NULL_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_ITEM_LEVEL_body","source":"Item Level","translation":"Poziom przedmiotów","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_JOIN_MANAGE_body","source":"Manage Applications","translation":"Zarządzaj zgłoszeniami","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_NAME_body","source":"Character Name","translation":"Imię postaci","status":"draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_ONBOARDING_JOINEDLIST_NONE_body", "source": "There is no Application List.", "translation": "Brak zgłoszeń.", "status": "draft"}
+{"id": "String_UI_LEGION_LEGIONJOINEDLIST_TITLE_body", "source": "Application List", "translation": "Lista zgłoszeń", "status": "draft"}
+{"id": "String_UI_LEGION_LEVEL_body", "source": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2}", "translation": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_CLASS_body", "source": "Class", "translation": "Klasa", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_COMBAT_POWER_body", "source": "Combat Power", "translation": "Moc bojowa", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_COMMENT_GUIDE_body", "source": "Enter a comment for Legion Members.", "translation": "Wpisz komentarz dla członków Legionu.", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_COMMENT_HINTTEXT_body", "source": "You can enter up to {0} characters.", "translation": "Możesz wpisać maksymalnie {0} znaków.", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_COMMENT_body", "source": "Comment", "translation": "Komentarz", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_DISTRICT_body", "source": "Region", "translation": "Region", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_GRADE_body", "source": "Rank", "translation": "Ranga", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_ITEM_LEVEL_NULL_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_ITEM_LEVEL_body", "source": "Item Level", "translation": "Poziom przedmiotów", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_JOIN_MANAGE_body", "source": "Manage Applications", "translation": "Zarządzaj zgłoszeniami", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_NAME_body", "source": "Character Name", "translation": "Imię postaci", "status": "draft"}
 {"id": "String_UI_LEGION_MEMBER_SORT_ONLINE_body", "source": "Online", "translation": "W sieci", "status": "draft"}
-{"id":"String_UI_LEGION_MEMBER_SORT_REPUTATION_body","source":"By Reputation","translation":"Według reputacji","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_TAB_LEGIONMEMBER_COUNT_body","source":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2} Player(s)","translation":"<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_TAB_LEGIONMEMBER_body","source":"Members","translation":"Członkowie","status":"draft"}
-{"id":"String_UI_LEGION_MEMBER_body","source":"Members","translation":"Członkowie","status":"draft"}
-{"id":"String_UI_LEGION_NAME_WITH_LEVEL_body","source":"{1}","translation":"{1}","status":"draft"}
-{"id":"String_UI_LEGION_ONLINE_MEMBER_COUNT_body","source":"{0}/{1}","translation":"{0}/{1}","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_CHANGEEMBLEM_DESC_body","source":"Choose a crest to use in the Legion.","translation":"Wybierz herb Legionu.","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_CHANGEEMBLEM_TITLE_body","source":"Change Crest","translation":"Zmień herb","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_DELEGATE_DESC_body","source":"Would you like to reassign the High Commander position?","translation":"Czy chcesz przekazać stanowisko Głównodowodzącego?","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_DELEGATE_SUBDESC_body","source":"Reassigning the High Commander will lower your rank and authority.","translation":"Przekazanie stanowiska Głównodowodzącego obniży twoją rangę i uprawnienia.","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_DELEGATE_TITLE_body","source":"Manage Legion Member","translation":"Zarządzaj członkiem Legionu","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_DISBAND_LEAVE_BUTTON_DISBAND_body","source":"Disband","translation":"Rozwiąż Legion","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_DISBAND_LEAVE_BUTTON_LEAVE_body","source":"Leave","translation":"Opuść","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_GUILDPOINT_COUNT_body","source":"<ref style=\"LegionExp_Count_Normal\" attr=\"color\">{0}</>/{1}","translation":"<ref style=\"LegionExp_Count_Normal\" attr=\"color\">{0}</>/{1}","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_GUILDPOINT_body","source":"Contribution","translation":"Wkład","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_LEVEL_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_MASTER_body","source":"Reassign High Commander Position","translation":"Przekaż stanowisko Głównodowodzącego","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_MEMBER_body","source":"Appoint Soldier","translation":"Mianuj żołnierza","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_OFFICER_COUNT_body","source":"(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})","translation":"(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_OFFICER_body","source":"Appoint Elite Officer","translation":"Mianuj oficera elitarnego","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_SUBMASTER_COUNT_body","source":"(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})","translation":"(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_SUBMASTER_body","source":"Appoint Deputy Commander","translation":"Mianuj zastępcę dowódcy","status":"draft"}
-{"id":"String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_KICKOUT_body","source":"Kick","translation":"Usuń","status":"draft"}
+{"id": "String_UI_LEGION_MEMBER_SORT_REPUTATION_body", "source": "By Reputation", "translation": "Według reputacji", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_TAB_LEGIONMEMBER_COUNT_body", "source": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2} Player(s)", "translation": "<ref style=\"{0}\" attr=\"color\">{1}</>/{2} graczy", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_TAB_LEGIONMEMBER_body", "source": "Members", "translation": "Członkowie", "status": "draft"}
+{"id": "String_UI_LEGION_MEMBER_body", "source": "Members", "translation": "Członkowie", "status": "draft"}
+{"id": "String_UI_LEGION_NAME_WITH_LEVEL_body", "source": "{1}", "translation": "{1}", "status": "draft"}
+{"id": "String_UI_LEGION_ONLINE_MEMBER_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_CHANGEEMBLEM_DESC_body", "source": "Choose a crest to use in the Legion.", "translation": "Wybierz herb Legionu.", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_CHANGEEMBLEM_TITLE_body", "source": "Change Crest", "translation": "Zmień herb", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_DELEGATE_DESC_body", "source": "Would you like to reassign the High Commander position?", "translation": "Czy chcesz przekazać stanowisko Głównodowodzącego?", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_DELEGATE_SUBDESC_body", "source": "Reassigning the High Commander will lower your rank and authority.", "translation": "Przekazanie stanowiska Głównodowodzącego obniży twoją rangę i uprawnienia.", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_DELEGATE_TITLE_body", "source": "Manage Legion Member", "translation": "Zarządzaj członkiem Legionu", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_DISBAND_LEAVE_BUTTON_DISBAND_body", "source": "Disband", "translation": "Rozwiąż Legion", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_DISBAND_LEAVE_BUTTON_LEAVE_body", "source": "Leave", "translation": "Opuść", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_GUILDPOINT_COUNT_body", "source": "<ref style=\"LegionExp_Count_Normal\" attr=\"color\">{0}</>/{1}", "translation": "<ref style=\"LegionExp_Count_Normal\" attr=\"color\">{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_GUILDPOINT_body", "source": "Contribution", "translation": "Wkład", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_EXPTOOLTIP_TEXT_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_MASTER_body", "source": "Reassign High Commander Position", "translation": "Przekaż stanowisko Głównodowodzącego", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_MEMBER_body", "source": "Appoint Soldier", "translation": "Mianuj żołnierza", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_OFFICER_COUNT_body", "source": "(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})", "translation": "(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})", "status": "draft"}

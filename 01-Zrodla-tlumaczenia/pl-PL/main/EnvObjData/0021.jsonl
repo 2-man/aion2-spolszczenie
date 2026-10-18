@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_PD_KraoCave_EnterPortal_001_desc", "source": "Krao Cave Entrance", "translation": "Wejście do Jaskini Krao", "status": "draft"}
+{"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_001_desc", "source": "To the Red Cavity", "translation": "Do Czerwonej Komory", "status": "draft"}
+{"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_002_desc", "source": "To the Weathered Testing Ground", "translation": "Do Zwietrzałego Poligonu", "status": "draft"}
+{"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
+{"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_003_desc", "source": "Sealed Cave Entrance", "translation": "Wejście do zapieczętowanej jaskini", "status": "draft"}
 {"id": "EnvObjData_E_PD_KraoCave_Grade_01_DungeonKibel_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_KraoCave_Grade_01_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_KraoCave_Grade_01_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
@@ -62,45 +68,45 @@
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_01_003_G_03_interact_desc", "source": "Entering Kromede's Desolation...", "translation": "Wchodzenie do Pustkowia Kromede...", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_01_003_G_04_desc", "source": "Mirror of Desire", "translation": "Lustro Pragnień", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_01_003_G_04_interact_desc", "source": "Entering Kromede's Desolation...", "translation": "Wchodzenie do Pustkowia Kromede...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_001_desc","source":"Garden of Dreams","translation":"Ogród Marzeń","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_001_desc", "source": "Garden of Dreams", "translation": "Ogród Marzeń", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_002_desc","source":"Tranquil Rose Garden","translation":"Spokojny Ogród Różany","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_002_desc", "source": "Tranquil Rose Garden", "translation": "Spokojny Ogród Różany", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_003_desc","source":"Hall of Sacred Union","translation":"Sala Świętego Zjednoczenia","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_003_desc", "source": "Hall of Sacred Union", "translation": "Sala Świętego Zjednoczenia", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_004_desc","source":"Path of Eternal Vows","translation":"Ścieżka Wiecznych Ślubów","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_004_desc", "source": "Path of Eternal Vows", "translation": "Ścieżka Wiecznych Ślubów", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_004_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_005_desc","source":"Chamber of the Scarlet Vow","translation":"Komnata Szkarłatnej Przysięgi","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_005_desc", "source": "Chamber of the Scarlet Vow", "translation": "Komnata Szkarłatnej Przysięgi", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_01_Kibelisk_01_005_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_001_desc","source":"Garden of Dreams","translation":"Ogród Marzeń","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_001_desc", "source": "Garden of Dreams", "translation": "Ogród Marzeń", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_002_desc","source":"Tranquil Rose Garden","translation":"Spokojny Ogród Różany","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_002_desc", "source": "Tranquil Rose Garden", "translation": "Spokojny Ogród Różany", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_003_desc","source":"Hall of Sacred Union","translation":"Sala Świętego Zjednoczenia","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_003_desc", "source": "Hall of Sacred Union", "translation": "Sala Świętego Zjednoczenia", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_004_desc","source":"Path of Eternal Vows","translation":"Ścieżka Wiecznych Ślubów","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_004_desc", "source": "Path of Eternal Vows", "translation": "Ścieżka Wiecznych Ślubów", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_004_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_005_desc","source":"Chamber of the Scarlet Vow","translation":"Komnata Szkarłatnej Przysięgi","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_005_desc", "source": "Chamber of the Scarlet Vow", "translation": "Komnata Szkarłatnej Przysięgi", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_02_Kibelisk_01_005_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_001_desc","source":"Garden of Dreams","translation":"Ogród Marzeń","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_001_desc", "source": "Garden of Dreams", "translation": "Ogród Marzeń", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_002_desc","source":"Tranquil Rose Garden","translation":"Spokojny Ogród Różany","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_002_desc", "source": "Tranquil Rose Garden", "translation": "Spokojny Ogród Różany", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_003_desc","source":"Hall of Sacred Union","translation":"Sala Świętego Zjednoczenia","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_003_desc", "source": "Hall of Sacred Union", "translation": "Sala Świętego Zjednoczenia", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_004_desc","source":"Path of Eternal Vows","translation":"Ścieżka Wiecznych Ślubów","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_004_desc", "source": "Path of Eternal Vows", "translation": "Ścieżka Wiecznych Ślubów", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_004_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_005_desc","source":"Chamber of the Scarlet Vow","translation":"Komnata Szkarłatnej Przysięgi","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_005_desc", "source": "Chamber of the Scarlet Vow", "translation": "Komnata Szkarłatnej Przysięgi", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_03_Kibelisk_01_005_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_001_desc","source":"Garden of Dreams","translation":"Ogród Marzeń","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_001_desc", "source": "Garden of Dreams", "translation": "Ogród Marzeń", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_002_desc","source":"Tranquil Rose Garden","translation":"Spokojny Ogród Różany","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_002_desc", "source": "Tranquil Rose Garden", "translation": "Spokojny Ogród Różany", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_002_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_003_desc","source":"Hall of Sacred Union","translation":"Sala Świętego Zjednoczenia","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_003_desc", "source": "Hall of Sacred Union", "translation": "Sala Świętego Zjednoczenia", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_003_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_004_desc","source":"Path of Eternal Vows","translation":"Ścieżka Wiecznych Ślubów","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_004_desc", "source": "Path of Eternal Vows", "translation": "Ścieżka Wiecznych Ślubów", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_004_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_005_desc","source":"Chamber of the Scarlet Vow","translation":"Komnata Szkarłatnej Przysięgi","status":"draft"}
+{"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_005_desc", "source": "Chamber of the Scarlet Vow", "translation": "Komnata Szkarłatnej Przysięgi", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_Mirror_G_04_Kibelisk_01_005_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_NortosLegionOfficeDoor_01_V02_desc", "source": "Chamber of the Scarlet Vow Door", "translation": "Drzwi Komnaty Szkarłatnego Ślubu", "status": "draft"}
 {"id": "EnvObjData_E_PD_MirrorHeart_NortosLegionOfficeDoor_01_V02_interact_desc", "source": "Opening the door...", "translation": "Otwieranie drzwi...", "status": "draft"}
@@ -118,17 +124,17 @@
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Barrier_01_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Barrier_02_desc", "source": "Barrier", "translation": "Bariera", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Barrier_02_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_01_001_desc","source":"Hall of Glory","translation":"Sala Chwały","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_01_001_desc", "source": "Hall of Glory", "translation": "Sala Chwały", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_02_001_desc","source":"Mirror Corridor","translation":"Lustrzany Korytarz","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_02_001_desc", "source": "Mirror Corridor", "translation": "Lustrzany Korytarz", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_03_001_desc", "source": "Northern Reflected Hall", "translation": "Północna Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_04_001_desc", "source": "Southern Reflected Hall", "translation": "Południowa Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_05_001_desc","source":"Depths within the Mirror","translation":"Głębie Lustra","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_05_001_desc", "source": "Depths within the Mirror", "translation": "Głębie Lustra", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_06_001_desc","source":"Divided Sanctum","translation":"Podzielone Sanktuarium","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_06_001_desc", "source": "Divided Sanctum", "translation": "Podzielone Sanktuarium", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_TreasureBoxLower01_001_desc", "source": "Odyle Energy Cube", "translation": "Kostka energii Odylu", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Easy_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
@@ -138,17 +144,17 @@
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Barrier_01_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Barrier_02_desc", "source": "Barrier", "translation": "Bariera", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Barrier_02_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_01_001_desc","source":"Hall of Glory","translation":"Sala Chwały","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_01_001_desc", "source": "Hall of Glory", "translation": "Sala Chwały", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_02_001_desc","source":"Mirror Corridor","translation":"Lustrzany Korytarz","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_02_001_desc", "source": "Mirror Corridor", "translation": "Lustrzany Korytarz", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_03_001_desc", "source": "Northern Reflected Hall", "translation": "Północna Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_04_001_desc", "source": "Southern Reflected Hall", "translation": "Południowa Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_05_001_desc","source":"Depths within the Mirror","translation":"Głębie Lustra","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_05_001_desc", "source": "Depths within the Mirror", "translation": "Głębie Lustra", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_06_001_desc","source":"Divided Sanctum","translation":"Podzielone Sanktuarium","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_06_001_desc", "source": "Divided Sanctum", "translation": "Podzielone Sanktuarium", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Mirror_03_01_desc", "source": "Mirror of Illusion", "translation": "Lustro Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Hard_Mirror_03_01_interact_desc", "source": "Moving into the depths of the mirror...", "translation": "Przemieszczanie w głąb lustra...", "status": "draft"}
@@ -161,17 +167,17 @@
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Barrier_01_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Barrier_02_desc", "source": "Barrier", "translation": "Bariera", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Barrier_02_interact_desc", "source": "Removing Barrier...", "translation": "Usuwanie bariery...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_01_001_desc","source":"Hall of Glory","translation":"Sala Chwały","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_01_001_desc", "source": "Hall of Glory", "translation": "Sala Chwały", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_02_001_desc","source":"Mirror Corridor","translation":"Lustrzany Korytarz","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_02_001_desc", "source": "Mirror Corridor", "translation": "Lustrzany Korytarz", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_03_001_desc", "source": "Northern Reflected Hall", "translation": "Północna Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_04_001_desc", "source": "Southern Reflected Hall", "translation": "Południowa Sala Odbicia", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_05_001_desc","source":"Depths within the Mirror","translation":"Głębie Lustra","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_05_001_desc", "source": "Depths within the Mirror", "translation": "Głębie Lustra", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_05_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_06_001_desc","source":"Divided Sanctum","translation":"Podzielone Sanktuarium","status":"draft"}
+{"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_06_001_desc", "source": "Divided Sanctum", "translation": "Podzielone Sanktuarium", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Kibelisk_06_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Mirror_03_01_desc", "source": "Mirror of Illusion", "translation": "Lustro Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_PD_PhantomsHall_Normal_Mirror_03_01_interact_desc", "source": "Moving into the depths of the mirror...", "translation": "Przemieszczanie w głąb lustra...", "status": "draft"}
@@ -205,46 +211,40 @@
 {"id": "EnvObjData_E_PD_ReforgedAbyss_Nor_TreasureBoxLower01_001_interact_desc", "source": "Operating Odyle Energy Cube...", "translation": "Obsługa kostki energii Odylu...", "status": "draft"}
 {"id": "EnvObjData_E_PD_ReforgedAbyss_PartyPotal_01_desc", "source": "Abyssal Portal", "translation": "Portal Otchłani", "status": "draft"}
 {"id": "EnvObjData_E_PD_ReforgedAbyss_PartyPotal_01_interact_desc", "source": "Operating the Abyssal Portal...", "translation": "Uruchamianie portalu Otchłani...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_01_001_desc", "source": "Temple Access Path", "translation": "Droga do Świątyni", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_02_001_desc", "source": "Path of Life", "translation": "Ścieżka Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_03_001_desc","source":"Collapsed Hall","translation":"Zawalona Sala","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_03_001_desc", "source": "Collapsed Hall", "translation": "Zawalona Sala", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_04_001_desc","source":"Sanctum of Life","translation":"Sanktuarium Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_04_001_desc", "source": "Sanctum of Life", "translation": "Sanktuarium Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_01_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_01_001_desc", "source": "Temple Access Path", "translation": "Droga do Świątyni", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_02_001_desc", "source": "Path of Life", "translation": "Ścieżka Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_03_001_desc","source":"Collapsed Hall","translation":"Zawalona Sala","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_03_001_desc", "source": "Collapsed Hall", "translation": "Zawalona Sala", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_04_001_desc","source":"Sanctum of Life","translation":"Sanktuarium Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_04_001_desc", "source": "Sanctum of Life", "translation": "Sanktuarium Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_02_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_01_001_desc", "source": "Temple Access Path", "translation": "Droga do Świątyni", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_02_001_desc", "source": "Path of Life", "translation": "Ścieżka Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_03_001_desc","source":"Collapsed Hall","translation":"Zawalona Sala","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_03_001_desc", "source": "Collapsed Hall", "translation": "Zawalona Sala", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_04_001_desc","source":"Sanctum of Life","translation":"Sanktuarium Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_04_001_desc", "source": "Sanctum of Life", "translation": "Sanktuarium Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_03_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_01_001_desc", "source": "Temple Access Path", "translation": "Droga do Świątyni", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_02_001_desc", "source": "Path of Life", "translation": "Ścieżka Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_03_001_desc","source":"Collapsed Hall","translation":"Zawalona Sala","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_03_001_desc", "source": "Collapsed Hall", "translation": "Zawalona Sala", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_04_001_desc","source":"Sanctum of Life","translation":"Sanktuarium Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_04_001_desc", "source": "Sanctum of Life", "translation": "Sanktuarium Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_04_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_01_001_desc", "source": "Temple Access Path", "translation": "Droga do Świątyni", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_02_001_desc", "source": "Path of Life", "translation": "Ścieżka Życia", "status": "draft"}
 {"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_02_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_03_001_desc","source":"Collapsed Hall","translation":"Zawalona Sala","status":"draft"}
-{"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_03_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_04_001_desc","source":"Sanctum of Life","translation":"Sanktuarium Życia","status":"draft"}
-{"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_04_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_06_Kibelisk_01_001_desc","source":"Temple Access Path","translation":"Droga do Świątyni","status":"draft"}
-{"id": "EnvObjData_E_PD_SunkenTemple_G_06_Kibelisk_01_001_interact_desc", "source": "Binding with Kibelisk...", "translation": "Wiązanie z Kibeliskiem...", "status": "draft"}
-{"id":"EnvObjData_E_PD_SunkenTemple_G_06_Kibelisk_02_001_desc","source":"Path of Life","translation":"Ścieżka Życia","status":"draft"}
+{"id": "EnvObjData_E_PD_SunkenTemple_G_05_Kibelisk_03_001_desc", "source": "Collapsed Hall", "translation": "Zawalona Sala", "status": "draft"}

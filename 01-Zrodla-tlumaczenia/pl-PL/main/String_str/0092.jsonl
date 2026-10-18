@@ -1,3 +1,65 @@
+{"id": "String_STR_ITEM_TOOLTIP_Pattern_body", "source": "Patterns", "translation": "Wzory", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Pendant_body", "source": "Pendant", "translation": "Wisior", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_PeriodTitle_body", "source": "Limited Title Bestowing Item", "translation": "Ograniczony czasowo przedmiot nadający tytuł", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_PetPolymorph_body", "source": "Pet Transformation", "translation": "Przemiana wierzchowca", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Pet_body", "source": "Pet", "translation": "Wierzchowiec", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Polymorph_body", "source": "Transformation", "translation": "Przemiana", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_QuestScroll_body", "source": "Quest Scroll", "translation": "Zwój zadania", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_RANDOM_ITEMLEVEL_STATS_GUIDE_body", "source": "The item level and stats are determined when obtaining it for the first time.", "translation": "Poziom przedmiotu i jego statystyki zostaną określone przy pierwszym zdobyciu.", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_REBIRTH_body", "source": "Resurrection Tool", "translation": "Narzędzie wskrzeszenia", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_REPUTATION_body", "source": "Legion Reputation", "translation": "Reputacja Legionu", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_RE_SOUL_SYNCHRONIZATION_RATE_body", "source": "{0}", "translation": "{0}", "status": "technical"}
+{"id": "String_STR_ITEM_TOOLTIP_Relic_body", "source": "Relics", "translation": "Relikwie", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_RightHand_body", "source": "Right Hand", "translation": "Prawa ręka", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Rune_body", "source": "Rune", "translation": "Runа", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SETUPKISK_body", "source": "Kisk", "translation": "Kisk", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SKINBOX_body", "source": "Skin Reward Voucher", "translation": "Kupon na skórkę", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SKINCOMBINE_body", "source": "Skin Combine", "translation": "Łączenie skórek", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SKINEXTRACTION_body", "source": "Extract Skin", "translation": "Pozyskiwanie skórki", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SKIN_DONTHAVE_body", "source": "Not Owned", "translation": "Nieposiadane", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SKIN_HAVE_body", "source": "{0} owned", "translation": "Posiadane: {0}", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SOULADD_body", "source": "Philosopher's Stone", "translation": "Kamień filozoficzny", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SOULBIND_ONCE_ACQUIRE_GUIDE_body", "source": "The first acquisition will randomly apply stats within the range.", "translation": "Przy pierwszym zdobyciu statystyki zostaną losowo dobrane z podanego zakresu.", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SOULBIND_ONCE_ACQUIRE_RANDOM_GUIDE_body", "source": "The first acquisition will grant {0} properties.", "translation": "Przy pierwszym zdobyciu zostanie przyznanych {0} właściwości.", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SOULBIND_RANDOM_STATS_GUIDE_body", "source": "The first time this item is Soul Bound, {0} properties will be unlocked.", "translation": "Przy pierwszym związaniu tego przedmiotu duszą zostanie odblokowanych {0} właściwości.", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SOULBIND_RANDOM_STATS_LIST_body", "source": "Possible Properties", "translation": "Możliwe właściwości", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SPECIALENCHANT_body", "source": "Enhance Scroll", "translation": "Zwój ulepszania", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_STATS_GUIDE_body", "source": "Soul Binding will randomly apply stats within the range.", "translation": "Podczas wiązania duszą statystyki zostaną losowo dobrane z podanego zakresu.", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SUBSCRIBE_body", "source": "Subscription", "translation": "Subskrypcja", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SUCCESSION_body", "source": "Transfer Stone", "translation": "Kamień transferu", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SURPASS_body", "source": "Potential Enhance Stone", "translation": "Kamień ulepszania potencjału", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SealStone_body", "source": "Power Shard", "translation": "Odłamek mocy", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Seal_body", "source": "Seal", "translation": "Pieczęć", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SetEffect_body", "source": "Set Effects", "translation": "Efekty zestawu", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SetItemList_body", "source": "Set Info", "translation": "Informacje o zestawie", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Shoulder_body", "source": "Pauldrons", "translation": "Naramienniki", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SkinDyeCommon_body", "source": "Closet Customization", "translation": "Personalizacja garderoby", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SkinDyePremium_body", "source": "Closet Customization", "translation": "Personalizacja garderoby", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Skinshop_body", "source": "Skin Reward Voucher", "translation": "Kupon na skórkę", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalAll_body", "source": "Soul Crystal Point", "translation": "Punkt kryształu duszy", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalFeral_body", "source": "Fera Soul Crystal", "translation": "Kryształ duszy Fera", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalIntellect_body", "source": "Cogni Soul Crystal", "translation": "Kryształ duszy Cogni", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalNature_body", "source": "Natura Soul Crystal", "translation": "Kryształ duszy Natura", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalSpecial_body", "source": "Special Soul Crystal", "translation": "Kryształ duszy specjalnej", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SoulCrystalTrans_body", "source": "Varian Soul Crystal", "translation": "Kryształ duszy Varian", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Soul_Bind_CharacterInfo_body", "source": "Gear Soul-bound to Another Character", "translation": "Ekwipunek przypisany do innej postaci", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SpecializedSkillShard_body", "source": "Specialty Shard", "translation": "Odłamek specjalizacji", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_SpecializedSkill_body", "source": "Specialty", "translation": "Specjalizacja", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_StigmaShard_body", "source": "Stigma Shard", "translation": "Odłamek Stygmatu", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Stigma_body", "source": "Stigma", "translation": "Stygmat", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_TICKET_body", "source": "Dungeon Reward Voucher", "translation": "Kupon na nagrodę z lochu", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_TOP_craftrecipe_permit_mastery_body", "source": "Proficiency Level {0}P required", "translation": "Wymagany poziom biegłości: {0}P", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Ticket_01_body", "source": "Skin (Set) Exchange Ticket", "translation": "Bilet wymiany skórki (zestaw)", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Ticket_02_body", "source": "Weapon Skin Exchange Ticket", "translation": "Bilet wymiany skórki broni", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Ticket_03_body", "source": "Pet Exchange Ticket", "translation": "Bilet wymiany wierzchowca", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Ticket_04_body", "source": "Skin (Single) Exchange Ticket", "translation": "Bilet wymiany skórki (pojedyncza)", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Title_body", "source": "Title Bestowing Item", "translation": "Przedmiot nadający tytuł", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Tshirt_body", "source": "T-Shirt", "translation": "Koszulka", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Usable_None_body", "source": "Miscellaneous", "translation": "Różne", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_VehicleSoulCrystal_body", "source": "Soul Crystal", "translation": "Kryształ duszy", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_VehicleSoul_body", "source": "Pet", "translation": "Wierzchowiec", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Weapon_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_Wing_body", "source": "Wings Unlocking Item", "translation": "Przedmiot odblokowujący skrzydła", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_Wingskin_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_abysspoint_body", "source": "Abyss Points", "translation": "Punkty Otchłani", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_belt_body", "source": "Belt", "translation": "Pas", "status": "draft"}
@@ -28,7 +90,7 @@
 {"id": "String_STR_ITEM_TOOLTIP_goldcombined_body", "source": "Kina (All)", "translation": "Kina (łącznie)", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_goldnonbinding_body", "source": "Kina", "translation": "Kina", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_greatsword_body", "source": "Greatsword", "translation": "Wielki miecz", "status": "draft"}
-{"id": "String_STR_ITEM_TOOLTIP_guarder_body", "source": "Guard", "translation": "Ochraniacz", "status": "draft"}
+{"id": "String_STR_ITEM_TOOLTIP_guarder_body", "source": "Guard", "translation": "Strażnik", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_leather_body", "source": "Leather", "translation": "Skóra", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_mace_body", "source": "Mace", "translation": "Buława", "status": "draft"}
 {"id": "String_STR_ITEM_TOOLTIP_magicbook_body", "source": "Spellbook", "translation": "Księga zaklęć", "status": "draft"}
@@ -116,7 +178,7 @@
 {"id": "String_STR_ITEM_VEHICLESOUL_BIKE_01_CV03_A_01_B_body", "source": "Soul: Golden Baikron (Bound)", "translation": "Dusza: Złoty Baikron (Przypisane)", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Black Dragon", "translation": "Przyznaje duszę.\n\nDostępna dusza: Czarny smok", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_A_01_B_body", "source": "Soul: Black Dragon (Bound)", "translation": "Dusza: Czarny smok (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: White Drake (Bound)", "translation": "Przyznaje duszę.\n\nDostępna dusza: White Drake (Bound)", "status": "draft"}
+{"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: White Drake (Bound)", "translation": "Przyznaje duszę.\n\nDostępna dusza: White Drake (Przypisane)", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_CV01_A_01_B_body", "source": "Soul: White Dragon (Bound)", "translation": "Dusza: White Dragon (Przypisane)", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_CV02_A_01_B_DESC_body", "source": "Grants a soul.\nYou will receive a soul different from the current name.", "translation": "Przyznaje duszę.\nOtrzymasz duszę inną niż ta podana w obecnej nazwie.", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_BLACKDRAGON_01_CV02_A_01_B_body", "source": "(WIP) Soul: Blue Drake (Bound)", "translation": "(WIP) Dusza: Błękitny smok (Przypisane)", "status": "draft"}
@@ -186,65 +248,3 @@
 {"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_03_CV01_A_01_B_body", "source": "Soul: Faded Predator (Bound)", "translation": "Dusza: Wyblakły drapieżnik (Przypisane)", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_04_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Drana Contaminant", "translation": "Przyznaje duszę.\n\nDostępna dusza: Skażający Drany", "status": "draft"}
 {"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_04_A_01_B_body", "source": "Soul: Drana Contaminant (Bound)", "translation": "Dusza: Skażający Drany (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_04_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Faded Floater", "translation": "Przyznaje duszę.\n\nDostępna dusza: Wyblakły pływak", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_04_CV01_A_01_B_body", "source": "Soul: Faded Floater (Bound)", "translation": "Dusza: Wyblakły pływak (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_06_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Congealed Drana", "translation": "Przyznaje duszę.\n\nDostępna dusza: Skrzepnięta Drana", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_06_A_01_B_body", "source": "Soul: Congealed Drana (Bound)", "translation": "Dusza: Skrzepnięta Drana (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_06_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Faded Drana", "translation": "Przyznaje duszę.\n\nDostępna dusza: Wyblakła Drana", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRANAVAR_06_CV01_A_01_B_body", "source": "Soul: Faded Drana (Bound)", "translation": "Dusza: Wyblakła Drana (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Dratona", "translation": "Przyznaje duszę.\n\nDostępna dusza: Dratona", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_A_01_B_body", "source": "Soul: Dratona (Bound)", "translation": "Dusza: Dratona (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_A_02_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Dratona", "translation": "Przyznaje duszę.\n\nDostępna dusza: Dratona", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_A_02_B_body", "source": "Soul: Dratona (Bound)", "translation": "Dusza: Dratona (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_V01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Dratona Tinkerer", "translation": "Przyznaje duszę.\n\nDostępna dusza: Majsterkowicz Dratona", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_01_V01_A_01_B_body", "source": "Soul: Dratona Tinkerer (Bound)", "translation": "Dusza: Majsterkowicz Dratona (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_03_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Elite Dratona", "translation": "Przyznaje duszę.\n\nDostępna dusza: Elitarna Dratona", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRATONA_03_A_01_B_body", "source": "Soul: Elite Dratona (Bound)", "translation": "Dusza: Elitarna Dratona (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRIZNAK_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Driznak", "translation": "Przyznaje duszę.\n\nDostępna dusza: Driznak", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRIZNAK_01_A_01_B_body", "source": "Soul: Driznak (Bound)", "translation": "Dusza: Driznak (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRIZNAK_01_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Obsidian Driznak", "translation": "Przyznaje duszę.\n\nDostępna dusza: Obsydianowy Driznak", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DRIZNAK_01_CV01_A_01_B_body", "source": "Soul: Obsidian Driznak (Bound)", "translation": "Dusza: Obsydianowy Driznak (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DUDUKA_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Duduka Worker", "translation": "Przyznaje duszę.\n\nDostępna dusza: Robotnik Duduka", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DUDUKA_01_A_01_B_body", "source": "Soul: Duduka Worker (Bound)", "translation": "Dusza: Robotnik Duduka (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DUDUKA_02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Duduka Trebuchet Worker", "translation": "Przyznaje duszę.\n\nDostępna dusza: Robotnik Duduka obsługujący trebusz", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DUDUKA_02_A_01_B_body", "source": "Soul: Duduka Trebuchet Worker (Bound)", "translation": "Dusza: Robotnik Duduka obsługujący trebusz (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Ashpile Durgal", "translation": "Przyznaje duszę.\n\nDostępna dusza: Durgal z popieliska", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_A_01_B_body", "source": "Soul: Ashpile Durgal (Bound)", "translation": "Dusza: Durgal z popieliska (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Durgal", "translation": "Przyznaje duszę.\n\nDostępna dusza: Durgal", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_CV01_A_01_B_body", "source": "Soul: Durgal (Bound)", "translation": "Dusza: Durgal (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_CV02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Red Fur Durgal", "translation": "Przyznaje duszę.\n\nDostępna dusza: Czerwonofutry Durgal", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_CV02_A_01_B_body", "source": "Soul: Red Fur Durgal (Bound)", "translation": "Dusza: Czerwonofutry Durgal (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_V01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Icecap Durgal", "translation": "Przyznaje duszę.\n\nDostępna dusza: Durgal z lodowego szczytu", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_DURGAL_01_V01_A_01_B_body", "source": "Soul: Icecap Durgal (Bound)", "translation": "Dusza: Durgal z lodowego szczytu (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Stone Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Kamienny duch", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_A_01_B_body", "source": "Soul: Stone Spirit (Bound)", "translation": "Dusza: Kamienny duch (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Odyle Stone Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Kamienny duch Odyle", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV01_A_01_B_body", "source": "Soul: Odyle Stone Spirit (Bound)", "translation": "Dusza: Kamienny duch Odyle (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Snowfield Stone Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Kamienny duch śnieżnego pola", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV02_A_01_B_body", "source": "Soul: Snowfield Stone Spirit (Bound)", "translation": "Dusza: Kamienny duch śnieżnego pola (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV03_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Lava Stone Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Kamienny duch lawy", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELEOD_01_CV03_A_01_B_body", "source": "Soul: Lava Stone Spirit (Bound)", "translation": "Dusza: Kamienny duch lawy (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Lesser Earth Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Mniejszy duch ziemi", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_01_A_01_B_body", "source": "Soul: Lesser Earth Spirit (Bound)", "translation": "Dusza: Mniejszy duch ziemi (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Intermediate Earth Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Średni duch ziemi", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_02_A_01_B_body", "source": "Soul: Intermediate Earth Spirit (Bound)", "translation": "Dusza: Średni duch ziemi (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_03_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Superior Earth Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Większy duch ziemi", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_03_A_01_B_body", "source": "Soul: Superior Earth Spirit (Bound)", "translation": "Dusza: Większy duch ziemi (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_04_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Ultimate Earth Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Najwyższy duch ziemi", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_EARTHELE_04_A_01_B_body", "source": "Soul: Ultimate Earth Spirit (Bound)", "translation": "Dusza: Najwyższy duch ziemi (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_ELEGUARD_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Spirit King's Warrior Bodyguard", "translation": "Przyznaje duszę.\n\nDostępna dusza: Przyboczny wojownik Króla Duchów", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_ELEGUARD_01_A_01_B_body", "source": "Soul: Spirit King's Bodyguard Warrior (Bound)", "translation": "Dusza: Spirit King's Bodyguard Warrior (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_ELIM_01_A_01_B_DESC_body", "source": "Grants a soul.\nYou will receive a soul different from the current name.", "translation": "Przyznaje duszę.\nOtrzymasz duszę inną niż ta podana w obecnej nazwie.", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_ELIM_01_A_01_B_body", "source": "(WIP) Soul: Mutated Elim (Bound)", "translation": "(W toku) Dusza: Zmutowany Elim (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FAFBLOOD_02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Poison Blood", "translation": "Przyznaje duszę.\n\nDostępna dusza: Jadowita krew", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FAFBLOOD_02_A_01_B_body", "source": "Soul: Poison Blood (Bound)", "translation": "Dusza: Jadowita krew (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FAFBLOOD_02_CV01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Mudthorn", "translation": "Przyznaje duszę.\n\nDostępna dusza: Mudthorn", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FAFBLOOD_02_CV01_A_01_B_body", "source": "Soul: Mudthorn (Bound)", "translation": "Dusza: Mudthorn (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FERK_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Furious Feruk", "translation": "Przyznaje duszę.\n\nDostępna dusza: Rozwścieczony Feruk", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FERK_01_A_01_B_body", "source": "Soul: Furious Feruk (Bound)", "translation": "Dusza: Rozwścieczony Feruk (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_01_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Lesser Fire Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Mniejszy duch ognia", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_01_A_01_B_body", "source": "Soul: Lesser Fire Spirit (Bound)", "translation": "Dusza: Mniejszy duch ognia (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_02_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Intermediate Fire Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Średni duch ognia", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_02_A_01_B_body", "source": "Soul: Intermediate Fire Spirit (Bound)", "translation": "Dusza: Średni duch ognia (Przypisane)", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_03_A_01_B_DESC_body", "source": "Grants a soul.\n\nAvailable Soul: Superior Fire Spirit", "translation": "Przyznaje duszę.\n\nDostępna dusza: Większy duch ognia", "status": "draft"}
-{"id": "String_STR_ITEM_VEHICLESOUL_FIREELE_03_A_01_B_body", "source": "Soul: Superior Fire Spirit (Bound)", "translation": "Dusza: Większy duch ognia (Przypisane)", "status": "draft"}

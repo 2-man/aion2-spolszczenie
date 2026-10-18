@@ -166,7 +166,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_12158411_desc_name", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12158411_desc_summary", "source": "Knock Back", "translation": "Odrzucenie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12159201_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_12159201_desc_name", "source": "Restore HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_12159201_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12159201_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12159601_desc_effect", "source": "<desc_point>{abe:121596011:value02:divide100}%</> Physical Attack", "translation": "<desc_point>{abe:121596011:value02:divide100}%</> Atak fizyczny", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12159601_desc_name", "source": "Physical Attack Increase", "translation": "Zwiększenie ataku fizycznego", "status": "draft"}
@@ -181,7 +181,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_12161301_desc_name", "source": "Polymorph: Fungie", "translation": "Polimorfia: Fungie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12161301_desc_summary", "source": "Polymorph: Fungie", "translation": "Polimorfia: Fungie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12161302_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_12161302_desc_name", "source": "Restore HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_12161302_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12161302_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12162311_desc_effect", "source": "Absorbs damage", "translation": "Pochłania obrażenia", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12162311_desc_name", "source": "Damage Absorption", "translation": "Pochłanianie obrażeń", "status": "draft"}

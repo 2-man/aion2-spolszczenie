@@ -1,3 +1,27 @@
+{"id": "String_UI_WORLDMAP_SUPPRESSION_ABNORMAL_NOTACQUIRED_body", "source": "Not Buffed", "translation": "Bez wzmocnienia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TAB_ADVENTURE_LIST_EMPTY_body", "source": "No exploration sites have been discovered yet.", "translation": "Nie odkryto jeszcze żadnych miejsc eksploracji.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TAB_ADVENTURE_MEMO_TITLE_body", "source": "Exploration Record", "translation": "Dziennik eksploracji", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TAB_FIELDNAMED_LIST_EMPTY_body", "source": "No Field Monsters available to display.", "translation": "Brak potworów terenowych do wyświetlenia.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TITLE_DARK_body", "source": "Asmodae", "translation": "Asmodae", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TITLE_LIGHT_body", "source": "Elysea", "translation": "Elysea", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TITLE_MAP_body", "source": "Map: {0}", "translation": "Mapa: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TITLE_NONE_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TITLE_WORLDMAP_body", "source": "Atreia", "translation": "Atreia", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_CURRENT_EMPTY_body", "source": "Current Level Effect: None", "translation": "Efekt bieżącego poziomu: brak", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_CURRENT_body", "source": "Current Level Effect: {0}", "translation": "Efekt bieżącego poziomu: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_NEXT_MAXLEVEL_body", "source": "Next Level Effect: Maximum level reached.", "translation": "Efekt następnego poziomu: osiągnięto maksymalny poziom.", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_NEXT_body", "source": "Next Level Effect: {0}", "translation": "Efekt następnego poziomu: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_BUFF_TITLE_body", "source": "Artifact Occupation Effect", "translation": "Efekt zajęcia artefaktu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DRAGON_body", "source": "Balaur", "translation": "Balaur", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_CLOSED_body", "source": "Unavailable", "translation": "Niedostępne", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_EXPIRATION_body", "source": "Unavailable", "translation": "Niedostępne", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_TIME_body", "source": "Usage time left {0}", "translation": "Pozostały czas użytkowania: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_DUNGEON_TITLE_body", "source": "{0} Entrance Created", "translation": "Utworzono wejście {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_OCCUPYABLE_body", "source": "Can Be Captured", "translation": "Można zająć", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_DESC_body", "source": "Currently Occupied {0}", "translation": "Aktualnie zajęte: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_OCCUPATION_TIME_body", "source": "Time Left Until Occupation Release: {0}", "translation": "Czas do zwolnienia zajęcia: {0}", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_STATE_TITLE_body", "source": "Artifact Occupation Status", "translation": "Status zajęcia artefaktu", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_ABYSSARTIFACT_UNOCCUPIED_body", "source": "Cannot Be Captured", "translation": "Nie można zająć", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_COMPLETE_body", "source": "Complete", "translation": "Ukończono", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_INCOMPLETE_body", "source": "Discovered", "translation": "Odkryto", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_ADVENTURE_UNKNOWN_INFO_body", "source": "Exploration Info", "translation": "Informacje o eksploracji", "status": "draft"}
@@ -22,7 +46,7 @@
 {"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_SEAL_body", "source": "Sealed Dungeon", "translation": "Zapieczętowany loch", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_DESC_TYPE_body", "source": "Dungeon Type: {0}", "translation": "Typ lochu: {0}", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_DUNGEON_INFO_TITLE_body", "source": "Dungeon Info", "translation": "Informacje o lochu", "status": "draft"}
-{"id": "String_UI_WORLDMAP_TOOLTIP_GATHERLIST_TITLE_body", "source": "Gathered Material List", "translation": "Lista zebranych materiałów", "status": "draft"}
+{"id": "String_UI_WORLDMAP_TOOLTIP_GATHERLIST_TITLE_body", "source": "Gathered Material List", "translation": "Lista surowców do zebrania", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_HUNTERLIST_TITLE_body", "source": "Daeva Hunter List", "translation": "Lista łowców daev", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}
 {"id": "String_UI_WORLDMAP_TOOLTIP_MONOLITH_LEVEL_NAME_body", "source": "Resonance Level Progress", "translation": "Postęp poziomu rezonansu", "status": "draft"}
@@ -165,8 +189,8 @@
 {"id": "String_UI_desc_BlockadeResist_body", "source": "Reduces the target's chance of landing Restrain skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności unieruchamiających.", "status": "draft"}
 {"id": "String_UI_desc_BlockadeTimeDecrease_body", "source": "Reduces Restrain duration.", "translation": "Skraca czas unieruchomienia.", "status": "draft"}
 {"id": "String_UI_desc_BlockadeTimeIncrease_body", "source": "Increases Restrain duration.", "translation": "Wydłuża czas unieruchomienia.", "status": "draft"}
-{"id": "String_UI_desc_BodyPropertyAccuracy_body", "source": "Increases the chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących efekty statusu typu dolegliwość.", "status": "draft"}
-{"id": "String_UI_desc_BodyPropertyResist_body", "source": "Reduces the target's chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności wywołujących efekty statusu typu dolegliwość.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyAccuracy_body", "source": "Increases the chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących efekty statusu typu dolegliwości.", "status": "draft"}
+{"id": "String_UI_desc_BodyPropertyResist_body", "source": "Reduces the target's chance of landing Ailment-type status effect skills by a certain rate.", "translation": "Zmniejsza szansę celu na powodzenie umiejętności wywołujących efekty statusu typu dolegliwości.", "status": "draft"}
 {"id": "String_UI_desc_BodyPropertyTimeDecrease_body", "source": "Reduces Ailment-type duration.", "translation": "Skraca czas działania dolegliwości.", "status": "draft"}
 {"id": "String_UI_desc_BodyPropertyTimeIncrease_body", "source": "Increases Ailment-type duration.", "translation": "Wydłuża czas działania dolegliwości.", "status": "draft"}
 {"id": "String_UI_desc_BootsDefenseRatio_body", "source": "Shoes Defense increase.", "translation": "Zwiększa obronę butów.", "status": "draft"}
@@ -224,27 +248,3 @@
 {"id": "String_UI_desc_DecreaseShieldBlock_body", "source": "Reduces more Damage when Shield Block activates.", "translation": "Zmniejsza otrzymywane obrażenia, gdy aktywuje się blok tarczą.", "status": "draft"}
 {"id": "String_UI_desc_DecreaseSkillDamage_body", "source": "<epic>Weakens</> Skill Damage taken.", "translation": "<epic>Zmniejsza</> otrzymywane obrażenia umiejętności.", "status": "draft"}
 {"id": "String_UI_desc_DecreaseWeaponBlock_body", "source": "Reduces Parry Damage Reduction Rate when target successfully parries.", "translation": "Zmniejsza redukcję obrażeń przy parowaniu przez cel.", "status": "draft"}
-{"id": "String_UI_desc_DecreaseWeaponDamage_body", "source": "<epic>Weakens</> attack target's Weapon Attack.", "translation": "<epic>Zmniejsza</> atak bronią celu.", "status": "draft"}
-{"id": "String_UI_desc_DefensePierce_body", "source": "Ignores target's Defense.\nDefense does not fall below <Mythic>0</>.", "translation": "Ignoruje obronę celu.\nObrona nie spada poniżej <Mythic>0</>.", "status": "draft"}
-{"id": "String_UI_desc_DefenseRatio_body", "source": "Increases Defense by a multiplier.", "translation": "Zwiększa obronę o określony mnożnik.", "status": "draft"}
-{"id": "String_UI_desc_Defense_body", "source": "Defense.\nReduces Damage taken.", "translation": "Obrona.\nZmniejsza otrzymywane obrażenia.", "status": "draft"}
-{"id": "String_UI_desc_Destiny_body", "source": "<unique>Destiny [Marchutan]</>\nIncreases MP and Endurance Chance.", "translation": "<unique>Przeznaczenie [Marchutan]</>\nZwiększa PM i szansę na wytrzymałość.", "status": "draft"}
-{"id": "String_UI_desc_Destruction_body", "source": "<unique>Destruction [Zikel]</>\nIncreases Attack and Perfect Resist.", "translation": "<unique>Zniszczenie [Zikel]</>\nZwiększa atak i odporność na perfekcyjne trafienia.", "status": "draft"}
-{"id": "String_UI_desc_DiveCost_body", "source": "Reduces Diving Gauge consumed while diving.", "translation": "Zmniejsza zużycie wskaźnika nurkowania podczas nurkowania.", "status": "draft"}
-{"id": "String_UI_desc_EarringDamageRatio_body", "source": "Earrings Attack increase.", "translation": "Zwiększa atak kolczyków.", "status": "draft"}
-{"id": "String_UI_desc_EarringDefenseRatio_body", "source": "Earrings Defense increase.", "translation": "Zwiększa obronę kolczyków.", "status": "draft"}
-{"id": "String_UI_desc_EarthDamageDefense_body", "source": "Reduces Damage taken from Earth.", "translation": "Zmniejsza otrzymywane obrażenia od ziemi.", "status": "draft"}
-{"id": "String_UI_desc_ElementalSummonLifetime_body", "source": "Increases Spirit duration.", "translation": "Wydłuża czas działania ducha.", "status": "draft"}
-{"id": "String_UI_desc_ElementalistDespawnHPRegen_body", "source": "Recovers Spirit HP.", "translation": "Przywraca PŻ ducha.", "status": "draft"}
-{"id": "String_UI_desc_EvasionRatio_body", "source": "Increases Evasion by a multiplier.", "translation": "Zwiększa unik o określony mnożnik.", "status": "draft"}
-{"id": "String_UI_desc_Evasion_body", "source": "Evading attacks prevents damage. Max Evasion rate is <Mythic>30%</>.", "translation": "Unikanie ataków zapobiega otrzymywaniu obrażeń. Maks. szansa na unik wynosi <Mythic>30%</>.", "status": "draft"}
-{"id": "String_UI_desc_ExperienceBonus_body", "source": "Increases EXP Gain.", "translation": "Zwiększa ilość zdobywanego PD.", "status": "draft"}
-{"id": "String_UI_desc_FPHealRate_body", "source": "Increases Flight Power Heal.", "translation": "Zwiększa przywracanie mocy lotu.", "status": "draft"}
-{"id": "String_UI_desc_FPHealRegen_body", "source": "Increases Flight Power Heal.", "translation": "Zwiększa przywracanie mocy lotu.", "status": "draft"}
-{"id": "String_UI_desc_FPMax_body", "source": "Consumed when flying.\nCollect a variety of wings to increase Flight Power.", "translation": "Zużywana podczas lotu.\nZbieraj różne skrzydła, aby zwiększyć moc lotu.", "status": "draft"}
-{"id": "String_UI_desc_FPPotionRate_body", "source": "Increases Flight Power Potion Recovery.", "translation": "Zwiększa odzysk mocy lotu z mikstur.", "status": "draft"}
-{"id": "String_UI_desc_FPPotionRegen_body", "source": "Increases Flight Power Potion Recovery.", "translation": "Zwiększa odzysk mocy lotu z mikstur.", "status": "draft"}
-{"id": "String_UI_desc_FPRegenRatio_body", "source": "Increases Flight Power Regen.", "translation": "Zwiększa regenerację mocy lotu.", "status": "draft"}
-{"id": "String_UI_desc_FPRegen_body", "source": "Restores Flight Power at set intervals.", "translation": "Odnawia moc lotu w określonych odstępach czasu.", "status": "draft"}
-{"id": "String_UI_desc_FallingSpeed_body", "source": "Increases Fall Speed.", "translation": "Zwiększa szybkość spadania.", "status": "draft"}
-{"id": "String_UI_desc_FearAccuracy_body", "source": "Increases the chance of landing Fear skills by a certain rate.", "translation": "Zwiększa szansę powodzenia umiejętności wywołujących strach.", "status": "draft"}

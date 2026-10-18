@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_Seal_Light_062_Message_001_interact_desc", "source": "Checking the Life Daeva's Message...", "translation": "Sprawdzanie wiadomości Daevy Życia...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Light_062_Message_002_desc", "source": "Life Daeva's Message", "translation": "Wiadomość Daevy Życia", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Light_062_Message_002_interact_desc", "source": "Checking the Campsite Secret...", "translation": "Sprawdzanie sekretu obozowiska...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_002_desc", "source": "Light of the Rift", "translation": "Światło Szczeliny", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_002_interact_desc", "source": "Traveling to the Next Area...", "translation": "Podróż do następnego obszaru...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_003_desc", "source": "Light of the Rift", "translation": "Światło Szczeliny", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_003_interact_desc", "source": "Traveling to the Next Area...", "translation": "Podróż do następnego obszaru...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_004_desc", "source": "Light of the Rift", "translation": "Światło Szczeliny", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_062_Portal_Basic_004_interact_desc", "source": "Traveling to the Next Area...", "translation": "Podróż do następnego obszaru...", "status": "draft"}
@@ -63,7 +69,7 @@
 {"id": "EnvObjData_E_Seal_Light_069_StoneDoor_07_001_interact_desc", "source": "Unlocking the Door...", "translation": "Otwieranie zamka drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_070_EnterPortal_001_desc", "source": "Life Daeva Library Entrance", "translation": "Wejście do Biblioteki Daevów Życia", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_070_EnterPortal_001_interact_desc", "source": "Entering Life Daeva Library...", "translation": "Wchodzenie do Biblioteki Daevów Życia...", "status": "draft"}
-{"id":"EnvObjData_E_Seal_Light_071_EnterPortal_001_desc","source":"Lepharist Special Operations Research Center","translation":"Ośrodek Badań Operacji Specjalnych Lepharystów","status":"draft"}
+{"id": "EnvObjData_E_Seal_Light_071_EnterPortal_001_desc", "source": "Lepharist Special Operations Research Center", "translation": "Ośrodek Badań Operacji Specjalnych Lepharystów", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_071_EnterPortal_001_interact_desc", "source": "Entering the Lepharist Special Operations Research Center...", "translation": "Wchodzenie do Centrum Badań Operacji Specjalnych Lepharystów...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_072_EnterPortal_001_desc", "source": "Ratcatchers Base Entrance", "translation": "Wejście do Bazy Łapaczy Szczurów", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Light_072_EnterPortal_001_interact_desc", "source": "Entering the Ratcatchers Base...", "translation": "Wchodzenie do Bazy Łapaczy Szczurów...", "status": "draft"}
@@ -172,7 +178,7 @@
 {"id": "EnvObjData_E_Seal_Verteron_014_EnterPortal_001_interact_desc", "source": "Entering Karat's Nest...", "translation": "Wchodzenie do Gniazda Karata...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_015_EnterPortal_001_desc", "source": "Kius's Residence Entrance", "translation": "Wejście do domu Kiusa", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_015_EnterPortal_001_interact_desc", "source": "Entering Kius's Residence...", "translation": "Wchodzenie do domu Kiusa...", "status": "draft"}
-{"id":"EnvObjData_E_Seal_Verteron_016_EnterPortal_001_desc","source":"Lupyllini Habitat","translation":"Siedlisko Lupyllinów","status":"draft"}
+{"id": "EnvObjData_E_Seal_Verteron_016_EnterPortal_001_desc", "source": "Lupyllini Habitat", "translation": "Siedlisko Lupyllinów", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_016_EnterPortal_001_interact_desc", "source": "Entering the Lupyllini Habitat...", "translation": "Wchodzenie do siedliska Lupyllini...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_017_EnterPortal_001_desc", "source": "Looted Repository Entrance", "translation": "Wejście do zrabowanego składu", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_017_EnterPortal_001_interact_desc", "source": "Entering the Looted Repository...", "translation": "Wchodzenie do zrabowanego składu...", "status": "draft"}
@@ -242,9 +248,3 @@
 {"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_04_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_04_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_05_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_05_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_06_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_06_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_07_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_07_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_031_EnterPortal_001_desc", "source": "Targoth's Cave Entrance", "translation": "Wejście do Jaskini Targotha", "status": "draft"}

@@ -1,250 +1,250 @@
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105801_achievement_title","source":"[Eltnen] Agglomerated Verenom","translation":"[Eltnen] Zbity Verenom","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105801_obj_desc","source":"Defeat Unique Field Monster Agglomerated Verenom","translation":"Pokonaj unikalnego potwora polowego: Zbity Verenom","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105901_achievement_title","source":"[Eltnen] Old Boss Vigor","translation":"[Eltnen] Stary boss Vigor","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105901_obj_desc","source":"Defeat Unique Field Monster Old Boss Vigor","translation":"Pokonaj unikalnego potwora polowego: Stary boss Vigor","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106001_achievement_title","source":"[Eltnen] Severed Wings Zvein","translation":"[Eltnen] Odcięte Skrzydła Zvein","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106001_obj_desc","source":"Defeat Unique Field Monster Severed Wings Zvein","translation":"Pokonaj unikalnego potwora polowego: Odcięte Skrzydła Zvein","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106101_achievement_title","source":"[Eltnen] Three-Horned Mino","translation":"[Eltnen] Trójrogi Mino","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106101_obj_desc","source":"Defeat Unique Field Monster Three-Horned Mino","translation":"Pokonaj unikalnego potwora polowego: Trójrogi Mino","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106201_achievement_title","source":"[Eltnen] Lamphus of Agony","translation":"[Eltnen] Lamphus Cierpienia","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106201_obj_desc","source":"Defeat Unique Field Monster Lamphus of Agony","translation":"Pokonaj unikalnego potwora polowego: Lamphus Cierpienia","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106301_achievement_title","source":"[Eltnen] Superbia, Sacred Beast of Life","translation":"[Eltnen] Superbia, Święta Bestia Życia","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106301_obj_desc","source":"Defeat Unique Field Monster Superbia, Sacred Beast of Life","translation":"Pokonaj unikalnego potwora polowego: Superbia, Święta Bestia Życia","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106401_achievement_title","source":"[Eltnen] Gluttonous Egetis","translation":"[Eltnen] Żarłoczny Egetis","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106401_obj_desc","source":"Defeat Unique Field Monster Gluttonous Egetis","translation":"Pokonaj unikalnego potwora polowego: Żarłoczny Egetis","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106501_achievement_title","source":"[Eltnen] Rotten Root Meltlim","translation":"[Eltnen] Zgniły Korzeń Meltlim","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106501_obj_desc","source":"Defeat Unique Field Monster Rotten Root Meltlim","translation":"Pokonaj unikalnego potwora polowego: Zgniły Korzeń Meltlim","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106601_achievement_title","source":"[Eltnen] Rabid Nihogg","translation":"[Eltnen] Wściekły Nihogg","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106601_obj_desc","source":"Defeat Unique Field Monster Rabid Nihogg","translation":"Pokonaj unikalnego potwora polowego: Wściekły Nihogg","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106701_achievement_title","source":"[Eltnen] First Test Subject K'tima","translation":"[Eltnen] Pierwszy obiekt testowy K'tima","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106701_obj_desc","source":"Defeat Unique Field Monster First Test Subject K'tima","translation":"Pokonaj unikalnego potwora polowego: Pierwszy obiekt testowy K'tima","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100101_achievement_title","source":"Critical Strike I","translation":"Krytyczne uderzenie I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100101_obj_desc","source":"Finish 10 monsters with a Critical Hit","translation":"Pokonaj 10 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100102_achievement_title","source":"Critical Strike II","translation":"Krytyczne uderzenie II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100102_obj_desc","source":"Finish 30 monsters with a Critical Hit","translation":"Pokonaj 30 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100103_achievement_title","source":"Critical Strike III","translation":"Krytyczne uderzenie III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100103_obj_desc","source":"Finish 100 monsters with a Critical Hit","translation":"Pokonaj 100 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100104_achievement_title","source":"Critical Strike IV","translation":"Krytyczne uderzenie IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100104_obj_desc","source":"Finish 200 monsters with a Critical Hit","translation":"Pokonaj 200 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100105_achievement_title","source":"Critical Strike V","translation":"Krytyczne uderzenie V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100105_obj_desc","source":"Finish 400 monsters with a Critical Hit","translation":"Pokonaj 400 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100106_achievement_title","source":"Critical Strike VI","translation":"Krytyczne uderzenie VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100106_obj_desc","source":"Finish 700 monsters with a Critical Hit","translation":"Pokonaj 700 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100107_achievement_title","source":"Critical Strike VII","translation":"Krytyczne uderzenie VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100107_obj_desc","source":"Finish 1,000 monsters with a Critical Hit","translation":"Pokonaj 1,000 potworów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100201_achievement_title","source":"Stance Toward the Strong I","translation":"Postawa wobec potężnych I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100201_obj_desc","source":"Finish 5 Boss Monsters with a Critical Hit","translation":"Pokonaj 5 bossów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100202_achievement_title","source":"Stance Toward the Strong II","translation":"Postawa wobec potężnych II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100202_obj_desc","source":"Finish 10 Boss Monsters with a Critical Hit","translation":"Pokonaj 10 bossów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100203_achievement_title","source":"Stance Toward the Strong III","translation":"Postawa wobec potężnych III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100203_obj_desc","source":"Finish 30 Boss Monsters with a Critical Hit","translation":"Pokonaj 30 bossów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100204_achievement_title","source":"Stance Toward the Strong IV","translation":"Postawa wobec potężnych IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100204_obj_desc","source":"Finish 60 Boss Monsters with a Critical Hit","translation":"Pokonaj 60 bossów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100205_achievement_title","source":"Stance Toward the Strong V","translation":"Postawa wobec potężnych V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100205_obj_desc","source":"Finish 100 Boss Monsters with a Critical Hit","translation":"Pokonaj 100 bossów trafieniem krytycznym","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100301_achievement_title","source":"Too Late to Spread Wings I","translation":"Za późno na rozłożenie skrzydeł I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100301_obj_desc","source":"Die from fall damage 1 time","translation":"Zgiń w wyniku upadku 1 raz","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100302_achievement_title","source":"Too Late to Spread Wings II","translation":"Za późno na rozłożenie skrzydeł II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100302_obj_desc","source":"Die from fall damage 5 times","translation":"Zgiń w wyniku upadku 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100303_achievement_title","source":"Too Late to Spread Wings III","translation":"Za późno na rozłożenie skrzydeł III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100303_obj_desc","source":"Die from fall damage 10 times","translation":"Zgiń w wyniku upadku 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100401_achievement_title","source":"Time Spent Underwater I","translation":"Czas pod wodą I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100401_obj_desc","source":"Die from underwater damage 1 time","translation":"Zgiń z powodu przebywania pod wodą 1 raz","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100402_achievement_title","source":"Time Spent Underwater II","translation":"Czas pod wodą II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100402_obj_desc","source":"Die from underwater damage 5 times","translation":"Zgiń z powodu przebywania pod wodą 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100403_achievement_title","source":"Time Spent Underwater III","translation":"Czas pod wodą III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100403_obj_desc","source":"Die from underwater damage 10 times","translation":"Zgiń z powodu przebywania pod wodą 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100501_achievement_title","source":"Tragic Pilot I","translation":"Tragiczny lotnik I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100501_obj_desc","source":"Die in flight 1 time","translation":"Zgiń podczas lotu 1 raz","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100502_achievement_title","source":"Tragic Pilot II","translation":"Tragiczny lotnik II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100502_obj_desc","source":"Die in flight 5 times","translation":"Zgiń podczas lotu 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100503_achievement_title","source":"Tragic Pilot III","translation":"Tragiczny lotnik III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100503_obj_desc","source":"Die in flight 10 times","translation":"Zgiń podczas lotu 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100601_achievement_title","source":"A Dance with Death I","translation":"Taniec ze śmiercią I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100601_obj_desc","source":"Get killed by a Boss Monster 5 times","translation":"Zgiń z rąk bossa 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100602_achievement_title","source":"A Dance with Death II","translation":"Taniec ze śmiercią II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100602_obj_desc","source":"Get killed by a Boss Monster 30 times","translation":"Zgiń z rąk bossa 30 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100603_achievement_title","source":"A Dance with Death III","translation":"Taniec ze śmiercią III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100603_obj_desc","source":"Get killed by a Boss Monster 60 times","translation":"Zgiń z rąk bossa 60 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100604_achievement_title","source":"A Dance with Death IV","translation":"Taniec ze śmiercią IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100604_obj_desc","source":"Get killed by a Boss Monster 100 times","translation":"Zgiń z rąk bossa 100 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100605_achievement_title","source":"A Dance with Death V","translation":"Taniec ze śmiercią V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100605_obj_desc","source":"Get killed by a Boss Monster 150 times","translation":"Zgiń z rąk bossa 150 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100606_achievement_title","source":"A Dance with Death VI","translation":"Taniec ze śmiercią VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100606_obj_desc","source":"Get killed by a Boss Monster 300 times","translation":"Zgiń z rąk bossa 300 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100607_achievement_title","source":"A Dance with Death VII","translation":"Taniec ze śmiercią VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100607_obj_desc","source":"Get killed by a Boss Monster 500 times","translation":"Zgiń z rąk bossa 500 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100701_achievement_title","source":"Wait for Me, I'll Get You Back I","translation":"Poczekaj na mnie, jeszcze cię dopadnę I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100701_obj_desc","source":"Resurrect at a Kisk in Elyos territory 3 times","translation":"Wskrześ się przy Kisku na terytorium Elyosów 3 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100702_achievement_title","source":"Wait for Me, I'll Get You Back II","translation":"Poczekaj na mnie, jeszcze cię dopadnę II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100702_obj_desc","source":"Resurrect at a Kisk in Elyos territory 10 times","translation":"Wskrześ się przy Kisku na terytorium Elyosów 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100703_achievement_title","source":"Wait for Me, I'll Get You Back III","translation":"Poczekaj na mnie, jeszcze cię dopadnę III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100703_obj_desc","source":"Resurrect at a Kisk in Elyos territory 20 times","translation":"Wskrześ się przy Kisku na terytorium Elyosów 20 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100704_achievement_title","source":"Wait for Me, I'll Get You Back IV","translation":"Poczekaj na mnie, jeszcze cię dopadnę IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100704_obj_desc","source":"Resurrect at a Kisk in Elyos territory 30 times","translation":"Wskrześ się przy Kisku na terytorium Elyosów 30 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100705_achievement_title","source":"Wait for Me, I'll Get You Back V","translation":"Poczekaj na mnie, jeszcze cię dopadnę V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100705_obj_desc","source":"Resurrect at a Kisk in Elyos territory 50 times","translation":"Wskrześ się przy Kisku na terytorium Elyosów 50 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100801_achievement_title","source":"Get Out of my Way! I","translation":"Zejdź mi z drogi! I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100801_obj_desc","source":"Defeat 3 Verteron Village Guards","translation":"Pokonaj 3 strażników wioski Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100802_achievement_title","source":"Get Out of my Way! II","translation":"Zejdź mi z drogi! II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100802_obj_desc","source":"Defeat 5 Verteron Village Guards","translation":"Pokonaj 5 strażników wioski Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100803_achievement_title","source":"Get Out of my Way! III","translation":"Zejdź mi z drogi! III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100803_obj_desc","source":"Defeat 7 Verteron Village Guards","translation":"Pokonaj 7 strażników wioski Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100804_achievement_title","source":"Get Out of my Way! IV","translation":"Zejdź mi z drogi! IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100804_obj_desc","source":"Defeat 10 Verteron Village Guards","translation":"Pokonaj 10 strażników wioski Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100901_achievement_title","source":"Nothing Personal, Kid I","translation":"To nic osobistego, młody I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100901_obj_desc","source":"Kill 5 players","translation":"Zabij 5 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100902_achievement_title","source":"Nothing Personal, Kid II","translation":"To nic osobistego, młody II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100902_obj_desc","source":"Kill 20 players","translation":"Zabij 20 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100903_achievement_title","source":"Nothing Personal, Kid III","translation":"To nic osobistego, młody III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100903_obj_desc","source":"Kill 50 players","translation":"Zabij 50 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100904_achievement_title","source":"Nothing Personal, Kid IV","translation":"To nic osobistego, młody IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100904_obj_desc","source":"Kill 100 players","translation":"Zabij 100 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100905_achievement_title","source":"Nothing Personal, Kid V","translation":"To nic osobistego, młody V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100905_obj_desc","source":"Kill 150 players","translation":"Zabij 150 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100906_achievement_title","source":"Nothing Personal, Kid VI","translation":"To nic osobistego, młody VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100906_obj_desc","source":"Kill 200 players","translation":"Zabij 200 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100907_achievement_title","source":"Nothing Personal, Kid VII","translation":"To nic osobistego, młody VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100907_obj_desc","source":"Kill 300 players","translation":"Zabij 300 graczy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101001_achievement_title","source":"You'll Regret This I","translation":"Pożałujesz tego I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101001_obj_desc","source":"Be killed by a player 5 times","translation":"Zgiń z rąk gracza 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101002_achievement_title","source":"You'll Regret This II","translation":"Pożałujesz tego II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101002_obj_desc","source":"Be killed by a player 20 times","translation":"Zgiń z rąk gracza 20 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101003_achievement_title","source":"You'll Regret This III","translation":"Pożałujesz tego III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101003_obj_desc","source":"Be killed by a player 50 times","translation":"Zgiń z rąk gracza 50 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101004_achievement_title","source":"You'll Regret This IV","translation":"Pożałujesz tego IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101004_obj_desc","source":"Be killed by a player 100 times","translation":"Zgiń z rąk gracza 100 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101005_achievement_title","source":"You'll Regret This V","translation":"Pożałujesz tego V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101005_obj_desc","source":"Be killed by a player 150 times","translation":"Zgiń z rąk gracza 150 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101006_achievement_title","source":"You'll Regret This VI","translation":"Pożałujesz tego VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101006_obj_desc","source":"Be killed by a player 200 times","translation":"Zgiń z rąk gracza 200 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101007_achievement_title","source":"You'll Regret This VII","translation":"Pożałujesz tego VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101007_obj_desc","source":"Be killed by a player 300 times","translation":"Zgiń z rąk gracza 300 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100101_achievement_title","source":"They Just Keep Coming! I","translation":"Wciąż nadciągają! I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100101_obj_desc","source":"Defeat 100 monsters","translation":"Pokonaj 100 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100102_achievement_title","source":"They Just Keep Coming! II","translation":"Wciąż nadciągają! II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100102_obj_desc","source":"Defeat 300 monsters","translation":"Pokonaj 300 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100103_achievement_title","source":"They Just Keep Coming! III","translation":"Wciąż nadciągają! III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100103_obj_desc","source":"Defeat 1,000 monsters","translation":"Pokonaj 1,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100104_achievement_title","source":"They Just Keep Coming! IV","translation":"Wciąż nadciągają! IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100104_obj_desc","source":"Defeat 2,000 monsters","translation":"Pokonaj 2,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100105_achievement_title","source":"They Just Keep Coming! V","translation":"Wciąż nadciągają! V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100105_obj_desc","source":"Defeat 3,000 monsters","translation":"Pokonaj 3,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100106_achievement_title","source":"They Just Keep Coming! VI","translation":"Wciąż nadciągają! VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100106_obj_desc","source":"Defeat 5,000 monsters","translation":"Pokonaj 5,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100107_achievement_title","source":"They Just Keep Coming! VII","translation":"Wciąż nadciągają! VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100107_obj_desc","source":"Defeat 30,000 monsters","translation":"Pokonaj 30,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100108_achievement_title","source":"They Just Keep Coming! VIII","translation":"Wciąż nadciągają! VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100108_obj_desc","source":"Defeat 100,000 monsters","translation":"Pokonaj 100,000 potworów","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100201_achievement_title","source":"Cogni Killer I","translation":"Pogromca Cogni I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100201_obj_desc","source":"Defeat 100 Cogni Monsters","translation":"Pokonaj 100 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100202_achievement_title","source":"Cogni Killer II","translation":"Pogromca Cogni II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100202_obj_desc","source":"Defeat 300 Cogni Monsters","translation":"Pokonaj 300 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100203_achievement_title","source":"Cogni Killer III","translation":"Pogromca Cogni III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100203_obj_desc","source":"Defeat 1,000 Cogni Monsters","translation":"Pokonaj 1,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100204_achievement_title","source":"Cogni Killer IV","translation":"Pogromca Cogni IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100204_obj_desc","source":"Defeat 2,000 Cogni Monsters","translation":"Pokonaj 2,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100205_achievement_title","source":"Cogni Killer V","translation":"Pogromca Cogni V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100205_obj_desc","source":"Defeat 3,000 Cogni Monsters","translation":"Pokonaj 3,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100206_achievement_title","source":"Cogni Killer VI","translation":"Pogromca Cogni VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100206_obj_desc","source":"Defeat 5,000 Cogni Monsters","translation":"Pokonaj 5,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100207_achievement_title","source":"Cogni Killer VII","translation":"Pogromca Cogni VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100207_obj_desc","source":"Defeat 30,000 Cogni Monsters","translation":"Pokonaj 30,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100208_achievement_title","source":"Cogni Killer VIII","translation":"Pogromca Cogni VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100208_obj_desc","source":"Defeat 100,000 Cogni Monsters","translation":"Pokonaj 100,000 potworów Cogni","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100301_achievement_title","source":"Driving Beasts Out I","translation":"Wypędzanie bestii I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100301_obj_desc","source":"Defeat 100 Fera Monsters","translation":"Pokonaj 100 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100302_achievement_title","source":"Driving Beasts Out II","translation":"Wypędzanie bestii II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100302_obj_desc","source":"Defeat 300 Fera Monsters","translation":"Pokonaj 300 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100303_achievement_title","source":"Driving Beasts Out III","translation":"Wypędzanie bestii III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100303_obj_desc","source":"Defeat 1,000 Fera Monsters","translation":"Pokonaj 1,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100304_achievement_title","source":"Driving Beasts Out IV","translation":"Wypędzanie bestii IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100304_obj_desc","source":"Defeat 2,000 Fera Monsters","translation":"Pokonaj 2,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100305_achievement_title","source":"Driving Beasts Out V","translation":"Wypędzanie bestii V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100305_obj_desc","source":"Defeat 3,000 Fera Monsters","translation":"Pokonaj 3,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100306_achievement_title","source":"Driving Beasts Out VI","translation":"Wypędzanie bestii VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100306_obj_desc","source":"Defeat 5,000 Fera Monsters","translation":"Pokonaj 5,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100307_achievement_title","source":"Driving Beasts Out VII","translation":"Wypędzanie bestii VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100307_obj_desc","source":"Defeat 30,000 Fera Monsters","translation":"Pokonaj 30,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100308_achievement_title","source":"Driving Beasts Out VIII","translation":"Wypędzanie bestii VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100308_obj_desc","source":"Defeat 100,000 Fera Monsters","translation":"Pokonaj 100,000 potworów Fera","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100401_achievement_title","source":"Insect Eradication I","translation":"Tępienie owadów I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100401_obj_desc","source":"Defeat 100 Natura Monsters","translation":"Pokonaj 100 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100402_achievement_title","source":"Insect Eradication II","translation":"Tępienie owadów II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100402_obj_desc","source":"Defeat 300 Natura Monsters","translation":"Pokonaj 300 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100403_achievement_title","source":"Insect Eradication III","translation":"Tępienie owadów III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100403_obj_desc","source":"Defeat 1,000 Natura Monsters","translation":"Pokonaj 1,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100404_achievement_title","source":"Insect Eradication IV","translation":"Tępienie owadów IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100404_obj_desc","source":"Defeat 2,000 Natura Monsters","translation":"Pokonaj 2,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100405_achievement_title","source":"Insect Eradication V","translation":"Tępienie owadów V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100405_obj_desc","source":"Defeat 3,000 Natura Monsters","translation":"Pokonaj 3,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100406_achievement_title","source":"Insect Eradication VI","translation":"Tępienie owadów VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100406_obj_desc","source":"Defeat 5,000 Natura Monsters","translation":"Pokonaj 5,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100407_achievement_title","source":"Insect Eradication VII","translation":"Tępienie owadów VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100407_obj_desc","source":"Defeat 30,000 Natura Monsters","translation":"Pokonaj 30,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100408_achievement_title","source":"Insect Eradication VIII","translation":"Tępienie owadów VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100408_obj_desc","source":"Defeat 100,000 Natura Monsters","translation":"Pokonaj 100,000 potworów Natura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100501_achievement_title","source":"Destroy All Varian I","translation":"Zagłada Varian I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100501_obj_desc","source":"Defeat 100 Varian Monsters","translation":"Pokonaj 100 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100502_achievement_title","source":"Destroy All Varian II","translation":"Zagłada Varian II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100502_obj_desc","source":"Defeat 300 Varian Monsters","translation":"Pokonaj 300 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100503_achievement_title","source":"Destroy All Varian III","translation":"Zagłada Varian III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100503_obj_desc","source":"Defeat 1,000 Varian Monsters","translation":"Pokonaj 1,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100504_achievement_title","source":"Destroy All Varian IV","translation":"Zagłada Varian IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100504_obj_desc","source":"Defeat 2,000 Varian Monsters","translation":"Pokonaj 2,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100505_achievement_title","source":"Destroy All Varian V","translation":"Zagłada Varian V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100505_obj_desc","source":"Defeat 3,000 Varian Monsters","translation":"Pokonaj 3,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100506_achievement_title","source":"Destroy All Varian VI","translation":"Zagłada Varian VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100506_obj_desc","source":"Defeat 5,000 Varian Monsters","translation":"Pokonaj 5,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100507_achievement_title","source":"Destroy All Varian VII","translation":"Zagłada Varian VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100507_obj_desc","source":"Defeat 30,000 Varian Monsters","translation":"Pokonaj 30,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100508_achievement_title","source":"Destroy All Varian VIII","translation":"Zagłada Varian VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100508_obj_desc","source":"Defeat 100,000 Varian Monsters","translation":"Pokonaj 100,000 potworów Varian","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100601_achievement_title","source":"War on Crime I","translation":"Wojna z przestępczością I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100601_obj_desc","source":"Defeat 100 Special Monsters","translation":"Pokonaj 100 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100602_achievement_title","source":"War on Crime II","translation":"Wojna z przestępczością II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100602_obj_desc","source":"Defeat 300 Special Monsters","translation":"Pokonaj 300 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100603_achievement_title","source":"War on Crime III","translation":"Wojna z przestępczością III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100603_obj_desc","source":"Defeat 1,000 Special Monsters","translation":"Pokonaj 1,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100604_achievement_title","source":"War on Crime IV","translation":"Wojna z przestępczością IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100604_obj_desc","source":"Defeat 2,000 Special Monsters","translation":"Pokonaj 2,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100605_achievement_title","source":"War on Crime V","translation":"Wojna z przestępczością V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100605_obj_desc","source":"Defeat 3,000 Special Monsters","translation":"Pokonaj 3,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100606_achievement_title","source":"War on Crime VI","translation":"Wojna z przestępczością VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100606_obj_desc","source":"Defeat 5,000 Special Monsters","translation":"Pokonaj 5,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100607_achievement_title","source":"War on Crime VII","translation":"Wojna z przestępczością VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100607_obj_desc","source":"Defeat 30,000 Special Monsters","translation":"Pokonaj 30,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100608_achievement_title","source":"War on Crime VIII","translation":"Wojna z przestępczością VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100608_obj_desc","source":"Defeat 100,000 Special Monsters","translation":"Pokonaj 100,000 potworów specjalnych","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100701_achievement_title","source":"Doing You a Favor I","translation":"Przysługa dla ciebie I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100701_obj_desc","source":"Defeat 50 monsters in Verteron","translation":"Pokonaj 50 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100702_achievement_title","source":"Doing You a Favor II","translation":"Przysługa dla ciebie II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100702_obj_desc","source":"Defeat 100 monsters in Verteron","translation":"Pokonaj 100 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100703_achievement_title","source":"Doing You a Favor III","translation":"Przysługa dla ciebie III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100703_obj_desc","source":"Defeat 300 monsters in Verteron","translation":"Pokonaj 300 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100704_achievement_title","source":"Doing You a Favor IV","translation":"Przysługa dla ciebie IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100704_obj_desc","source":"Defeat 500 monsters in Verteron","translation":"Pokonaj 500 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100705_achievement_title","source":"Doing You a Favor V","translation":"Przysługa dla ciebie V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100705_obj_desc","source":"Defeat 1,000 monsters in Verteron","translation":"Pokonaj 1,000 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100706_achievement_title","source":"Doing You a Favor VI","translation":"Przysługa dla ciebie VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100706_obj_desc","source":"Defeat 1,500 monsters in Verteron","translation":"Pokonaj 1,500 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100707_achievement_title","source":"Doing You a Favor VII","translation":"Przysługa dla ciebie VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100707_obj_desc","source":"Defeat 2,000 monsters in Verteron","translation":"Pokonaj 2,000 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100708_achievement_title","source":"Doing You a Favor VIII","translation":"Przysługa dla ciebie VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100708_obj_desc","source":"Defeat 3,000 monsters in Verteron","translation":"Pokonaj 3,000 potworów w Verteron","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100801_achievement_title","source":"Windstream to Immortality I","translation":"Strumień wiatru ku nieśmiertelności I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100801_obj_desc","source":"Defeat 100 monsters on Immortal Isle","translation":"Pokonaj 100 potworów na Immortal Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100802_achievement_title","source":"Windstream to Immortality II","translation":"Strumień wiatru ku nieśmiertelności II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100802_obj_desc","source":"Defeat 300 monsters on Immortal Isle","translation":"Pokonaj 300 potworów na Immortal Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100803_achievement_title","source":"Windstream to Immortality III","translation":"Strumień wiatru ku nieśmiertelności III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100803_obj_desc","source":"Defeat 1,000 monsters on Immortal Isle","translation":"Pokonaj 1,000 potworów na Immortal Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100804_achievement_title","source":"Windstream to Immortality IV","translation":"Strumień wiatru ku nieśmiertelności IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100804_obj_desc","source":"Defeat 2,000 monsters on Immortal Isle","translation":"Pokonaj 2,000 potworów na Immortal Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100805_achievement_title","source":"Windstream to Immortality V","translation":"Strumień wiatru ku nieśmiertelności V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100805_obj_desc","source":"Defeat 3,000 monsters on Immortal Isle","translation":"Pokonaj 3,000 potworów na Immortal Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100901_achievement_title","source":"Windstream to Spirit I","translation":"Strumień wiatru ku duchom I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100901_obj_desc","source":"Defeat 100 monsters on Spirit Isle","translation":"Pokonaj 100 potworów na wyspie Spirit Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100902_achievement_title","source":"Windstream to Spirit II","translation":"Strumień wiatru ku duchom II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100902_obj_desc","source":"Defeat 300 monsters on Spirit Isle","translation":"Pokonaj 300 potworów na wyspie Spirit Isle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100903_achievement_title","source":"Windstream to Spirit III","translation":"Strumień wiatru ku duchom III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100903_obj_desc","source":"Defeat 1,000 monsters on Spirit Isle","translation":"Pokonaj 1,000 potworów na wyspie Spirit Isle","status":"draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105801_achievement_title", "source": "[Eltnen] Agglomerated Verenom", "translation": "[Eltnen] Zbity Verenom", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105801_obj_desc", "source": "Defeat Unique Field Monster Agglomerated Verenom", "translation": "Pokonaj unikalnego potwora polowego: Zbity Verenom", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105901_achievement_title", "source": "[Eltnen] Old Boss Vigor", "translation": "[Eltnen] Stary boss Vigor", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412105901_obj_desc", "source": "Defeat Unique Field Monster Old Boss Vigor", "translation": "Pokonaj unikalnego potwora polowego: Stary boss Vigor", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106001_achievement_title", "source": "[Eltnen] Severed Wings Zvein", "translation": "[Eltnen] Odcięte Skrzydła Zvein", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106001_obj_desc", "source": "Defeat Unique Field Monster Severed Wings Zvein", "translation": "Pokonaj unikalnego potwora polowego: Odcięte Skrzydła Zvein", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106101_achievement_title", "source": "[Eltnen] Three-Horned Mino", "translation": "[Eltnen] Trójrogi Mino", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106101_obj_desc", "source": "Defeat Unique Field Monster Three-Horned Mino", "translation": "Pokonaj unikalnego potwora polowego: Trójrogi Mino", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106201_achievement_title", "source": "[Eltnen] Lamphus of Agony", "translation": "[Eltnen] Lamphus Cierpienia", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106201_obj_desc", "source": "Defeat Unique Field Monster Lamphus of Agony", "translation": "Pokonaj unikalnego potwora polowego: Lamphus Cierpienia", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106301_achievement_title", "source": "[Eltnen] Superbia, Sacred Beast of Life", "translation": "[Eltnen] Superbia, Święta Bestia Życia", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106301_obj_desc", "source": "Defeat Unique Field Monster Superbia, Sacred Beast of Life", "translation": "Pokonaj unikalnego potwora polowego: Superbia, Święta Bestia Życia", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106401_achievement_title", "source": "[Eltnen] Gluttonous Egetis", "translation": "[Eltnen] Żarłoczny Egetis", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106401_obj_desc", "source": "Defeat Unique Field Monster Gluttonous Egetis", "translation": "Pokonaj unikalnego potwora polowego: Żarłoczny Egetis", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106501_achievement_title", "source": "[Eltnen] Rotten Root Meltlim", "translation": "[Eltnen] Zgniły Korzeń Meltlim", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106501_obj_desc", "source": "Defeat Unique Field Monster Rotten Root Meltlim", "translation": "Pokonaj unikalnego potwora polowego: Zgniły Korzeń Meltlim", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106601_achievement_title", "source": "[Eltnen] Rabid Nihogg", "translation": "[Eltnen] Wściekły Nihogg", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106601_obj_desc", "source": "Defeat Unique Field Monster Rabid Nihogg", "translation": "Pokonaj unikalnego potwora polowego: Wściekły Nihogg", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106701_achievement_title", "source": "[Eltnen] First Test Subject K'tima", "translation": "[Eltnen] Pierwszy obiekt testowy K'tima", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Boss_412106701_obj_desc", "source": "Defeat Unique Field Monster First Test Subject K'tima", "translation": "Pokonaj unikalnego potwora polowego: Pierwszy obiekt testowy K'tima", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100101_achievement_title", "source": "Critical Strike I", "translation": "Krytyczne uderzenie I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100101_obj_desc", "source": "Finish 10 monsters with a Critical Hit", "translation": "Pokonaj 10 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100102_achievement_title", "source": "Critical Strike II", "translation": "Krytyczne uderzenie II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100102_obj_desc", "source": "Finish 30 monsters with a Critical Hit", "translation": "Pokonaj 30 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100103_achievement_title", "source": "Critical Strike III", "translation": "Krytyczne uderzenie III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100103_obj_desc", "source": "Finish 100 monsters with a Critical Hit", "translation": "Pokonaj 100 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100104_achievement_title", "source": "Critical Strike IV", "translation": "Krytyczne uderzenie IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100104_obj_desc", "source": "Finish 200 monsters with a Critical Hit", "translation": "Pokonaj 200 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100105_achievement_title", "source": "Critical Strike V", "translation": "Krytyczne uderzenie V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100105_obj_desc", "source": "Finish 400 monsters with a Critical Hit", "translation": "Pokonaj 400 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100106_achievement_title", "source": "Critical Strike VI", "translation": "Krytyczne uderzenie VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100106_obj_desc", "source": "Finish 700 monsters with a Critical Hit", "translation": "Pokonaj 700 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100107_achievement_title", "source": "Critical Strike VII", "translation": "Krytyczne uderzenie VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100107_obj_desc", "source": "Finish 1,000 monsters with a Critical Hit", "translation": "Pokonaj 1 000 potworów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100201_achievement_title", "source": "Stance Toward the Strong I", "translation": "Postawa wobec potężnych I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100201_obj_desc", "source": "Finish 5 Boss Monsters with a Critical Hit", "translation": "Pokonaj 5 bossów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100202_achievement_title", "source": "Stance Toward the Strong II", "translation": "Postawa wobec potężnych II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100202_obj_desc", "source": "Finish 10 Boss Monsters with a Critical Hit", "translation": "Pokonaj 10 bossów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100203_achievement_title", "source": "Stance Toward the Strong III", "translation": "Postawa wobec potężnych III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100203_obj_desc", "source": "Finish 30 Boss Monsters with a Critical Hit", "translation": "Pokonaj 30 bossów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100204_achievement_title", "source": "Stance Toward the Strong IV", "translation": "Postawa wobec potężnych IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100204_obj_desc", "source": "Finish 60 Boss Monsters with a Critical Hit", "translation": "Pokonaj 60 bossów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100205_achievement_title", "source": "Stance Toward the Strong V", "translation": "Postawa wobec potężnych V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100205_obj_desc", "source": "Finish 100 Boss Monsters with a Critical Hit", "translation": "Pokonaj 100 bossów trafieniem krytycznym", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100301_achievement_title", "source": "Too Late to Spread Wings I", "translation": "Za późno na rozłożenie skrzydeł I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100301_obj_desc", "source": "Die from fall damage 1 time", "translation": "Zgiń w wyniku upadku 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100302_achievement_title", "source": "Too Late to Spread Wings II", "translation": "Za późno na rozłożenie skrzydeł II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100302_obj_desc", "source": "Die from fall damage 5 times", "translation": "Zgiń w wyniku upadku 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100303_achievement_title", "source": "Too Late to Spread Wings III", "translation": "Za późno na rozłożenie skrzydeł III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100303_obj_desc", "source": "Die from fall damage 10 times", "translation": "Zgiń w wyniku upadku 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100401_achievement_title", "source": "Time Spent Underwater I", "translation": "Czas pod wodą I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100401_obj_desc", "source": "Die from underwater damage 1 time", "translation": "Zgiń z powodu przebywania pod wodą 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100402_achievement_title", "source": "Time Spent Underwater II", "translation": "Czas pod wodą II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100402_obj_desc", "source": "Die from underwater damage 5 times", "translation": "Zgiń z powodu przebywania pod wodą 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100403_achievement_title", "source": "Time Spent Underwater III", "translation": "Czas pod wodą III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100403_obj_desc", "source": "Die from underwater damage 10 times", "translation": "Zgiń z powodu przebywania pod wodą 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100501_achievement_title", "source": "Tragic Pilot I", "translation": "Tragiczny lotnik I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100501_obj_desc", "source": "Die in flight 1 time", "translation": "Zgiń podczas lotu 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100502_achievement_title", "source": "Tragic Pilot II", "translation": "Tragiczny lotnik II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100502_obj_desc", "source": "Die in flight 5 times", "translation": "Zgiń podczas lotu 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100503_achievement_title", "source": "Tragic Pilot III", "translation": "Tragiczny lotnik III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100503_obj_desc", "source": "Die in flight 10 times", "translation": "Zgiń podczas lotu 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100601_achievement_title", "source": "A Dance with Death I", "translation": "Taniec ze śmiercią I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100601_obj_desc", "source": "Get killed by a Boss Monster 5 times", "translation": "Zgiń z rąk bossa 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100602_achievement_title", "source": "A Dance with Death II", "translation": "Taniec ze śmiercią II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100602_obj_desc", "source": "Get killed by a Boss Monster 30 times", "translation": "Zgiń z rąk bossa 30 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100603_achievement_title", "source": "A Dance with Death III", "translation": "Taniec ze śmiercią III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100603_obj_desc", "source": "Get killed by a Boss Monster 60 times", "translation": "Zgiń z rąk bossa 60 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100604_achievement_title", "source": "A Dance with Death IV", "translation": "Taniec ze śmiercią IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100604_obj_desc", "source": "Get killed by a Boss Monster 100 times", "translation": "Zgiń z rąk bossa 100 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100605_achievement_title", "source": "A Dance with Death V", "translation": "Taniec ze śmiercią V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100605_obj_desc", "source": "Get killed by a Boss Monster 150 times", "translation": "Zgiń z rąk bossa 150 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100606_achievement_title", "source": "A Dance with Death VI", "translation": "Taniec ze śmiercią VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100606_obj_desc", "source": "Get killed by a Boss Monster 300 times", "translation": "Zgiń z rąk bossa 300 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100607_achievement_title", "source": "A Dance with Death VII", "translation": "Taniec ze śmiercią VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100607_obj_desc", "source": "Get killed by a Boss Monster 500 times", "translation": "Zgiń z rąk bossa 500 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100701_achievement_title", "source": "Wait for Me, I'll Get You Back I", "translation": "Poczekaj na mnie, jeszcze cię dopadnę I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100701_obj_desc", "source": "Resurrect at a Kisk in Elyos territory 3 times", "translation": "Wskrześ się przy Kisku na terytorium Elyosów 3 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100702_achievement_title", "source": "Wait for Me, I'll Get You Back II", "translation": "Poczekaj na mnie, jeszcze cię dopadnę II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100702_obj_desc", "source": "Resurrect at a Kisk in Elyos territory 10 times", "translation": "Wskrześ się przy Kisku na terytorium Elyosów 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100703_achievement_title", "source": "Wait for Me, I'll Get You Back III", "translation": "Poczekaj na mnie, jeszcze cię dopadnę III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100703_obj_desc", "source": "Resurrect at a Kisk in Elyos territory 20 times", "translation": "Wskrześ się przy Kisku na terytorium Elyosów 20 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100704_achievement_title", "source": "Wait for Me, I'll Get You Back IV", "translation": "Poczekaj na mnie, jeszcze cię dopadnę IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100704_obj_desc", "source": "Resurrect at a Kisk in Elyos territory 30 times", "translation": "Wskrześ się przy Kisku na terytorium Elyosów 30 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100705_achievement_title", "source": "Wait for Me, I'll Get You Back V", "translation": "Poczekaj na mnie, jeszcze cię dopadnę V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100705_obj_desc", "source": "Resurrect at a Kisk in Elyos territory 50 times", "translation": "Wskrześ się przy Kisku na terytorium Elyosów 50 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100801_achievement_title", "source": "Get Out of My Way! I", "translation": "Zejdź mi z drogi! I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100801_obj_desc", "source": "Defeat 3 Verteron Village Guards", "translation": "Pokonaj 3 strażników wioski Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100802_achievement_title", "source": "Get Out of My Way! II", "translation": "Zejdź mi z drogi! II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100802_obj_desc", "source": "Defeat 5 Verteron Village Guards", "translation": "Pokonaj 5 strażników wioski Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100803_achievement_title", "source": "Get Out of My Way! III", "translation": "Zejdź mi z drogi! III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100803_obj_desc", "source": "Defeat 7 Verteron Village Guards", "translation": "Pokonaj 7 strażników wioski Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100804_achievement_title", "source": "Get Out of My Way! IV", "translation": "Zejdź mi z drogi! IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100804_obj_desc", "source": "Defeat 10 Verteron Village Guards", "translation": "Pokonaj 10 strażników wioski Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100901_achievement_title", "source": "Nothing Personal, Kid I", "translation": "To nic osobistego, dzieciaku I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100901_obj_desc", "source": "Kill 5 players", "translation": "Zabij 5 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100902_achievement_title", "source": "Nothing Personal, Kid II", "translation": "To nic osobistego, dzieciaku II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100902_obj_desc", "source": "Kill 20 players", "translation": "Zabij 20 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100903_achievement_title", "source": "Nothing Personal, Kid III", "translation": "To nic osobistego, dzieciaku III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100903_obj_desc", "source": "Kill 50 players", "translation": "Zabij 50 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100904_achievement_title", "source": "Nothing Personal, Kid IV", "translation": "To nic osobistego, dzieciaku IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100904_obj_desc", "source": "Kill 100 players", "translation": "Zabij 100 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100905_achievement_title", "source": "Nothing Personal, Kid V", "translation": "To nic osobistego, dzieciaku V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100905_obj_desc", "source": "Kill 150 players", "translation": "Zabij 150 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100906_achievement_title", "source": "Nothing Personal, Kid VI", "translation": "To nic osobistego, dzieciaku VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100906_obj_desc", "source": "Kill 200 players", "translation": "Zabij 200 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100907_achievement_title", "source": "Nothing Personal, Kid VII", "translation": "To nic osobistego, dzieciaku VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410100907_obj_desc", "source": "Kill 300 players", "translation": "Zabij 300 graczy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101001_achievement_title", "source": "You'll Regret This I", "translation": "Pożałujesz tego I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101001_obj_desc", "source": "Be killed by a player 5 times", "translation": "Zgiń z rąk gracza 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101002_achievement_title", "source": "You'll Regret This II", "translation": "Pożałujesz tego II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101002_obj_desc", "source": "Be killed by a player 20 times", "translation": "Zgiń z rąk gracza 20 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101003_achievement_title", "source": "You'll Regret This III", "translation": "Pożałujesz tego III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101003_obj_desc", "source": "Be killed by a player 50 times", "translation": "Zgiń z rąk gracza 50 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101004_achievement_title", "source": "You'll Regret This IV", "translation": "Pożałujesz tego IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101004_obj_desc", "source": "Be killed by a player 100 times", "translation": "Zgiń z rąk gracza 100 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101005_achievement_title", "source": "You'll Regret This V", "translation": "Pożałujesz tego V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101005_obj_desc", "source": "Be killed by a player 150 times", "translation": "Zgiń z rąk gracza 150 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101006_achievement_title", "source": "You'll Regret This VI", "translation": "Pożałujesz tego VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101006_obj_desc", "source": "Be killed by a player 200 times", "translation": "Zgiń z rąk gracza 200 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101007_achievement_title", "source": "You'll Regret This VII", "translation": "Pożałujesz tego VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Combat_410101007_obj_desc", "source": "Be killed by a player 300 times", "translation": "Zgiń z rąk gracza 300 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100101_achievement_title", "source": "They Just Keep Coming! I", "translation": "Wciąż nadciągają! I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100101_obj_desc", "source": "Defeat 100 monsters", "translation": "Pokonaj 100 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100102_achievement_title", "source": "They Just Keep Coming! II", "translation": "Wciąż nadciągają! II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100102_obj_desc", "source": "Defeat 300 monsters", "translation": "Pokonaj 300 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100103_achievement_title", "source": "They Just Keep Coming! III", "translation": "Wciąż nadciągają! III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100103_obj_desc", "source": "Defeat 1,000 monsters", "translation": "Pokonaj 1 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100104_achievement_title", "source": "They Just Keep Coming! IV", "translation": "Wciąż nadciągają! IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100104_obj_desc", "source": "Defeat 2,000 monsters", "translation": "Pokonaj 2 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100105_achievement_title", "source": "They Just Keep Coming! V", "translation": "Wciąż nadciągają! V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100105_obj_desc", "source": "Defeat 3,000 monsters", "translation": "Pokonaj 3 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100106_achievement_title", "source": "They Just Keep Coming! VI", "translation": "Wciąż nadciągają! VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100106_obj_desc", "source": "Defeat 5,000 monsters", "translation": "Pokonaj 5 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100107_achievement_title", "source": "They Just Keep Coming! VII", "translation": "Wciąż nadciągają! VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100107_obj_desc", "source": "Defeat 30,000 monsters", "translation": "Pokonaj 30 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100108_achievement_title", "source": "They Just Keep Coming! VIII", "translation": "Wciąż nadciągają! VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100108_obj_desc", "source": "Defeat 100,000 monsters", "translation": "Pokonaj 100 000 potworów", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100201_achievement_title", "source": "Cogni Killer I", "translation": "Pogromca Cogni I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100201_obj_desc", "source": "Defeat 100 Cogni Monsters", "translation": "Pokonaj 100 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100202_achievement_title", "source": "Cogni Killer II", "translation": "Pogromca Cogni II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100202_obj_desc", "source": "Defeat 300 Cogni Monsters", "translation": "Pokonaj 300 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100203_achievement_title", "source": "Cogni Killer III", "translation": "Pogromca Cogni III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100203_obj_desc", "source": "Defeat 1,000 Cogni Monsters", "translation": "Pokonaj 1 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100204_achievement_title", "source": "Cogni Killer IV", "translation": "Pogromca Cogni IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100204_obj_desc", "source": "Defeat 2,000 Cogni Monsters", "translation": "Pokonaj 2 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100205_achievement_title", "source": "Cogni Killer V", "translation": "Pogromca Cogni V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100205_obj_desc", "source": "Defeat 3,000 Cogni Monsters", "translation": "Pokonaj 3 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100206_achievement_title", "source": "Cogni Killer VI", "translation": "Pogromca Cogni VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100206_obj_desc", "source": "Defeat 5,000 Cogni Monsters", "translation": "Pokonaj 5 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100207_achievement_title", "source": "Cogni Killer VII", "translation": "Pogromca Cogni VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100207_obj_desc", "source": "Defeat 30,000 Cogni Monsters", "translation": "Pokonaj 30 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100208_achievement_title", "source": "Cogni Killer VIII", "translation": "Pogromca Cogni VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100208_obj_desc", "source": "Defeat 100,000 Cogni Monsters", "translation": "Pokonaj 100 000 potworów Cogni", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100301_achievement_title", "source": "Driving Beasts Out I", "translation": "Wypędzanie bestii I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100301_obj_desc", "source": "Defeat 100 Fera Monsters", "translation": "Pokonaj 100 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100302_achievement_title", "source": "Driving Beasts Out II", "translation": "Wypędzanie bestii II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100302_obj_desc", "source": "Defeat 300 Fera Monsters", "translation": "Pokonaj 300 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100303_achievement_title", "source": "Driving Beasts Out III", "translation": "Wypędzanie bestii III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100303_obj_desc", "source": "Defeat 1,000 Fera Monsters", "translation": "Pokonaj 1 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100304_achievement_title", "source": "Driving Beasts Out IV", "translation": "Wypędzanie bestii IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100304_obj_desc", "source": "Defeat 2,000 Fera Monsters", "translation": "Pokonaj 2 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100305_achievement_title", "source": "Driving Beasts Out V", "translation": "Wypędzanie bestii V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100305_obj_desc", "source": "Defeat 3,000 Fera Monsters", "translation": "Pokonaj 3 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100306_achievement_title", "source": "Driving Beasts Out VI", "translation": "Wypędzanie bestii VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100306_obj_desc", "source": "Defeat 5,000 Fera Monsters", "translation": "Pokonaj 5 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100307_achievement_title", "source": "Driving Beasts Out VII", "translation": "Wypędzanie bestii VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100307_obj_desc", "source": "Defeat 30,000 Fera Monsters", "translation": "Pokonaj 30 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100308_achievement_title", "source": "Driving Beasts Out VIII", "translation": "Wypędzanie bestii VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100308_obj_desc", "source": "Defeat 100,000 Fera Monsters", "translation": "Pokonaj 100 000 potworów Fera", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100401_achievement_title", "source": "Insect Eradication I", "translation": "Tępienie owadów I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100401_obj_desc", "source": "Defeat 100 Natura Monsters", "translation": "Pokonaj 100 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100402_achievement_title", "source": "Insect Eradication II", "translation": "Tępienie owadów II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100402_obj_desc", "source": "Defeat 300 Natura Monsters", "translation": "Pokonaj 300 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100403_achievement_title", "source": "Insect Eradication III", "translation": "Tępienie owadów III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100403_obj_desc", "source": "Defeat 1,000 Natura Monsters", "translation": "Pokonaj 1 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100404_achievement_title", "source": "Insect Eradication IV", "translation": "Tępienie owadów IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100404_obj_desc", "source": "Defeat 2,000 Natura Monsters", "translation": "Pokonaj 2 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100405_achievement_title", "source": "Insect Eradication V", "translation": "Tępienie owadów V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100405_obj_desc", "source": "Defeat 3,000 Natura Monsters", "translation": "Pokonaj 3 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100406_achievement_title", "source": "Insect Eradication VI", "translation": "Tępienie owadów VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100406_obj_desc", "source": "Defeat 5,000 Natura Monsters", "translation": "Pokonaj 5 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100407_achievement_title", "source": "Insect Eradication VII", "translation": "Tępienie owadów VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100407_obj_desc", "source": "Defeat 30,000 Natura Monsters", "translation": "Pokonaj 30 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100408_achievement_title", "source": "Insect Eradication VIII", "translation": "Tępienie owadów VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100408_obj_desc", "source": "Defeat 100,000 Natura Monsters", "translation": "Pokonaj 100 000 potworów Natura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100501_achievement_title", "source": "Destroy All Varian I", "translation": "Zagłada Varian I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100501_obj_desc", "source": "Defeat 100 Varian Monsters", "translation": "Pokonaj 100 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100502_achievement_title", "source": "Destroy All Varian II", "translation": "Zagłada Varian II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100502_obj_desc", "source": "Defeat 300 Varian Monsters", "translation": "Pokonaj 300 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100503_achievement_title", "source": "Destroy All Varian III", "translation": "Zagłada Varian III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100503_obj_desc", "source": "Defeat 1,000 Varian Monsters", "translation": "Pokonaj 1 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100504_achievement_title", "source": "Destroy All Varian IV", "translation": "Zagłada Varian IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100504_obj_desc", "source": "Defeat 2,000 Varian Monsters", "translation": "Pokonaj 2 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100505_achievement_title", "source": "Destroy All Varian V", "translation": "Zagłada Varian V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100505_obj_desc", "source": "Defeat 3,000 Varian Monsters", "translation": "Pokonaj 3 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100506_achievement_title", "source": "Destroy All Varian VI", "translation": "Zagłada Varian VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100506_obj_desc", "source": "Defeat 5,000 Varian Monsters", "translation": "Pokonaj 5 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100507_achievement_title", "source": "Destroy All Varian VII", "translation": "Zagłada Varian VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100507_obj_desc", "source": "Defeat 30,000 Varian Monsters", "translation": "Pokonaj 30 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100508_achievement_title", "source": "Destroy All Varian VIII", "translation": "Zagłada Varian VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100508_obj_desc", "source": "Defeat 100,000 Varian Monsters", "translation": "Pokonaj 100 000 potworów Varian", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100601_achievement_title", "source": "War on Crime I", "translation": "Wojna z przestępczością I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100601_obj_desc", "source": "Defeat 100 Special Monsters", "translation": "Pokonaj 100 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100602_achievement_title", "source": "War on Crime II", "translation": "Wojna z przestępczością II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100602_obj_desc", "source": "Defeat 300 Special Monsters", "translation": "Pokonaj 300 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100603_achievement_title", "source": "War on Crime III", "translation": "Wojna z przestępczością III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100603_obj_desc", "source": "Defeat 1,000 Special Monsters", "translation": "Pokonaj 1 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100604_achievement_title", "source": "War on Crime IV", "translation": "Wojna z przestępczością IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100604_obj_desc", "source": "Defeat 2,000 Special Monsters", "translation": "Pokonaj 2 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100605_achievement_title", "source": "War on Crime V", "translation": "Wojna z przestępczością V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100605_obj_desc", "source": "Defeat 3,000 Special Monsters", "translation": "Pokonaj 3 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100606_achievement_title", "source": "War on Crime VI", "translation": "Wojna z przestępczością VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100606_obj_desc", "source": "Defeat 5,000 Special Monsters", "translation": "Pokonaj 5 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100607_achievement_title", "source": "War on Crime VII", "translation": "Wojna z przestępczością VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100607_obj_desc", "source": "Defeat 30,000 Special Monsters", "translation": "Pokonaj 30 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100608_achievement_title", "source": "War on Crime VIII", "translation": "Wojna z przestępczością VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100608_obj_desc", "source": "Defeat 100,000 Special Monsters", "translation": "Pokonaj 100 000 potworów specjalnych", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100701_achievement_title", "source": "Doing You a Favor I", "translation": "Przysługa dla ciebie I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100701_obj_desc", "source": "Defeat 50 monsters in Verteron", "translation": "Pokonaj 50 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100702_achievement_title", "source": "Doing You a Favor II", "translation": "Przysługa dla ciebie II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100702_obj_desc", "source": "Defeat 100 monsters in Verteron", "translation": "Pokonaj 100 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100703_achievement_title", "source": "Doing You a Favor III", "translation": "Przysługa dla ciebie III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100703_obj_desc", "source": "Defeat 300 monsters in Verteron", "translation": "Pokonaj 300 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100704_achievement_title", "source": "Doing You a Favor IV", "translation": "Przysługa dla ciebie IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100704_obj_desc", "source": "Defeat 500 monsters in Verteron", "translation": "Pokonaj 500 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100705_achievement_title", "source": "Doing You a Favor V", "translation": "Przysługa dla ciebie V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100705_obj_desc", "source": "Defeat 1,000 monsters in Verteron", "translation": "Pokonaj 1 000 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100706_achievement_title", "source": "Doing You a Favor VI", "translation": "Przysługa dla ciebie VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100706_obj_desc", "source": "Defeat 1,500 monsters in Verteron", "translation": "Pokonaj 1 500 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100707_achievement_title", "source": "Doing You a Favor VII", "translation": "Przysługa dla ciebie VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100707_obj_desc", "source": "Defeat 2,000 monsters in Verteron", "translation": "Pokonaj 2 000 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100708_achievement_title", "source": "Doing You a Favor VIII", "translation": "Przysługa dla ciebie VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100708_obj_desc", "source": "Defeat 3,000 monsters in Verteron", "translation": "Pokonaj 3 000 potworów w Verteron", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100801_achievement_title", "source": "Windstream to Immortality I", "translation": "Strumień wiatru ku nieśmiertelności I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100801_obj_desc", "source": "Defeat 100 monsters on Immortal Isle", "translation": "Pokonaj 100 potworów na Immortal Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100802_achievement_title", "source": "Windstream to Immortality II", "translation": "Strumień wiatru ku nieśmiertelności II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100802_obj_desc", "source": "Defeat 300 monsters on Immortal Isle", "translation": "Pokonaj 300 potworów na Immortal Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100803_achievement_title", "source": "Windstream to Immortality III", "translation": "Strumień wiatru ku nieśmiertelności III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100803_obj_desc", "source": "Defeat 1,000 monsters on Immortal Isle", "translation": "Pokonaj 1 000 potworów na Immortal Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100804_achievement_title", "source": "Windstream to Immortality IV", "translation": "Strumień wiatru ku nieśmiertelności IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100804_obj_desc", "source": "Defeat 2,000 monsters on Immortal Isle", "translation": "Pokonaj 2 000 potworów na Immortal Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100805_achievement_title", "source": "Windstream to Immortality V", "translation": "Strumień wiatru ku nieśmiertelności V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100805_obj_desc", "source": "Defeat 3,000 monsters on Immortal Isle", "translation": "Pokonaj 3 000 potworów na Immortal Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100901_achievement_title", "source": "Windstream to Spirit I", "translation": "Strumień wiatru ku duchom I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100901_obj_desc", "source": "Defeat 100 monsters on Spirit Isle", "translation": "Pokonaj 100 potworów na wyspie Spirit Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100902_achievement_title", "source": "Windstream to Spirit II", "translation": "Strumień wiatru ku duchom II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100902_obj_desc", "source": "Defeat 300 monsters on Spirit Isle", "translation": "Pokonaj 300 potworów na wyspie Spirit Isle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100903_achievement_title", "source": "Windstream to Spirit III", "translation": "Strumień wiatru ku duchom III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_D_Challenge_Hunt_411100903_obj_desc", "source": "Defeat 1,000 monsters on Spirit Isle", "translation": "Pokonaj 1 000 potworów na wyspie Spirit Isle", "status": "draft"}

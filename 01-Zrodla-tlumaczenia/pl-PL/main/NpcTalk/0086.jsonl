@@ -1,33 +1,33 @@
-{"id":"NpcTalk_FF8DAD4ADD8D471895BDB4884D607931_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FF9A42509EED4EF0B0FC0D7D2E0040AA_cv_text","source":"They're... all mine...","translation":"Wszystko... należy do mnie...","status":"draft"}
-{"id":"NpcTalk_FF9EBA57834E4CC1B8F04035F8723980_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFA2B0F7087D4D39BC693D9B9141FEF0_cv_text","source":"I see the terror in your eyes...","translation":"Widzę przerażenie w twoich oczach...","status":"draft"}
-{"id":"NpcTalk_FFA4031E3B2044CC80664AD5D8D563B6_cv_text","source":"Shit! Right when Indnath left, too!","translation":"Cholera! Akurat wtedy, gdy Indnath wyszedł!","status":"draft"}
-{"id":"NpcTalk_FFA5E27EA11C444B93F964C9154D37A2_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFAA3691F5AC40009E031C1ED5169D83_cv_text","source":"I don't think he will make it.","translation":"Chyba z tego nie wyjdzie.","status":"draft"}
-{"id":"NpcTalk_FFB233AA86CF45198F24D77DAC226987_cv_text","source":"Please follow me.","translation":"Chodź za mną.","status":"draft"}
-{"id":"NpcTalk_FFB3CBC32C6F4D57A3B43C5DE3242773_cv_text","source":"Oh nyerk! The bridge is broken!","translation":"Och, nyerk! Most jest zniszczony!","status":"draft"}
-{"id":"NpcTalk_FFB6596AD1DC45D791868DC1FFCEEBEF_cv_text","source":"{pcname}, thank you for helping. So much for just a simple goodbye...","translation":"{pcname}, dziękuję za pomoc. Tyle z naszego spokojnego pożegnania...","status":"draft"}
-{"id":"NpcTalk_FFBE3F20BD554CF999CD7F4A2810D051_cv_text","source":"If you touch the fiery paths, you will get burned, kru.","translation":"Uważaj na ogniste ścieżki, bo się poparzysz, kru.","status":"draft"}
-{"id":"NpcTalk_FFC03C092CF04CBD8DF395B1EB000CEB_cv_text","source":"Could you check for food supplies or documents nearby?","translation":"Możesz rozejrzeć się za zapasami żywności lub dokumentami?","status":"draft"}
-{"id":"NpcTalk_FFC05EF3411B47DA8FA1E0540F19C255_cv_text","source":"Different from Blood Blades... Will take me to Ninir? I follow.","translation":"Inne niż Ostrza Krwi... Zaprowadzą do Ninir? Pójdę za nimi.","status":"draft"}
-{"id":"NpcTalk_FFC1790075F44F11AFB732279FB5DE42_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFCBE6D344AD4846BAF4AAEA117C98B3_cv_text","source":"The totems either heal or strengthen Aullaeu, so be careful, kru.","translation":"Totemy leczą Aullaeu lub zwiększają ich siłę, więc uważaj, kru.","status":"draft"}
-{"id":"NpcTalk_FFD150CC95D6448DABD3F24901CC96E7_cv_text","source":"I picked it up without much thought. I was planning to just keep it in case Hithanya came looking for it.","translation":"Podniosłem to bez zastanowienia. Chciałem zachować na wypadek, gdyby Hithanya o to zapytała.","status":"draft"}
-{"id":"NpcTalk_FFD2B2B0EBFF45D6BDF965C17C1E5C9D_cv_text","source":"Never heard that name before. You can leave now, Brok. I'll call you back if I need more information.","translation":"Nigdy wcześniej nie słyszałem tego imienia. Możesz już odejść, Broku. Wezwę cię, jeśli będę potrzebować więcej informacji.","status":"draft"}
-{"id":"NpcTalk_FFD4744E3D00413A9C2713A19DEBB3A1_cv_text","source":"Are you scared to face Gerod again, Ulgorn?","translation":"Boisz się ponownie stanąć do walki z Gerodem, Ulgornie?","status":"draft"}
-{"id":"NpcTalk_FFDE254DB36D4557B4C4B60487C8935C_cv_text","source":"I wanted to be healthy, happy, and breathe under the warm sunlight. But... Zumion teaches self-sacrifice...","translation":"Chciałem być zdrowy i szczęśliwy, oddychać w ciepłych promieniach słońca. Ale... Zumion uczy poświęcenia...","status":"draft"}
-{"id":"NpcTalk_FFDF1DE8E9FC46AE83552C691D145E68_cv_text","source":"Thank you-hoohoo so much!","translation":"Bardzo ci dziękuję-hoohoo!","status":"draft"}
-{"id":"NpcTalk_FFE1F17AA00E452DBA3B728E081F09BE_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFE41E25BACD4D19A563818B3F41B75C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFE81C808DCB4F8DB0EF02F69FFEE517_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_FFE8D4315C6A48DF89D81207FAA4C9F1_cv_text","source":"<QK>Iscariel</>, my most faithful devotee, will be inside. He's been there alone for such a long time...","translation":"W środku będzie <QK>Iscariel</>, mój najwierniejszy wyznawca. Od tak dawna jest tam sam...","status":"draft"}
-{"id":"NpcTalk_FFEE6BBF465E43188956AFFC447317F1_cv_text","source":"Ignus is over there! Take it down, kru!","translation":"Ignus jest tam! Pokonaj go, kru!","status":"draft"}
-{"id":"NpcTalk_FFEE823C19E048309DEE5A2268F138BF_cv_text","source":"Not only are they back, but there are also signs they're gathering greater strength.","translation":"Nie dość, że wrócili, to jeszcze widać, że zbierają większe siły.","status":"draft"}
+{"id": "NpcTalk_FF8DAD4ADD8D471895BDB4884D607931_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FF9A42509EED4EF0B0FC0D7D2E0040AA_cv_text", "source": "They're... all mine...", "translation": "Wszystko... należy do mnie...", "status": "draft"}
+{"id": "NpcTalk_FF9EBA57834E4CC1B8F04035F8723980_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFA2B0F7087D4D39BC693D9B9141FEF0_cv_text", "source": "I see the terror in your eyes...", "translation": "Widzę przerażenie w twoich oczach...", "status": "draft"}
+{"id": "NpcTalk_FFA4031E3B2044CC80664AD5D8D563B6_cv_text", "source": "Shit! Right when Indnath left, too!", "translation": "Cholera! Akurat wtedy, gdy Indnath wyszedł!", "status": "draft"}
+{"id": "NpcTalk_FFA5E27EA11C444B93F964C9154D37A2_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFAA3691F5AC40009E031C1ED5169D83_cv_text", "source": "I don't think he will make it.", "translation": "Chyba z tego nie wyjdzie.", "status": "draft"}
+{"id": "NpcTalk_FFB233AA86CF45198F24D77DAC226987_cv_text", "source": "Please follow me.", "translation": "Chodź za mną.", "status": "draft"}
+{"id": "NpcTalk_FFB3CBC32C6F4D57A3B43C5DE3242773_cv_text", "source": "Oh nyerk! The bridge is broken!", "translation": "Och, nyerk! Most jest zniszczony!", "status": "draft"}
+{"id": "NpcTalk_FFB6596AD1DC45D791868DC1FFCEEBEF_cv_text", "source": "{pcname}, thank you for helping. So much for just a simple goodbye...", "translation": "{pcname}, dziękuję za pomoc. Tyle z naszego spokojnego pożegnania...", "status": "draft"}
+{"id": "NpcTalk_FFBE3F20BD554CF999CD7F4A2810D051_cv_text", "source": "If you touch the fiery paths, you will get burned, kru.", "translation": "Uważaj na ogniste ścieżki, bo się poparzysz, kru.", "status": "draft"}
+{"id": "NpcTalk_FFC03C092CF04CBD8DF395B1EB000CEB_cv_text", "source": "Could you check for food supplies or documents nearby?", "translation": "Możesz rozejrzeć się za zapasami żywności lub dokumentami?", "status": "draft"}
+{"id": "NpcTalk_FFC05EF3411B47DA8FA1E0540F19C255_cv_text", "source": "Different from Blood Blades... Will take me to Ninir? I follow.", "translation": "Inne niż Ostrza Krwi... Zaprowadzą do Ninir? Pójdę za nimi.", "status": "draft"}
+{"id": "NpcTalk_FFC1790075F44F11AFB732279FB5DE42_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFCBE6D344AD4846BAF4AAEA117C98B3_cv_text", "source": "The totems either heal or strengthen Aullaeu, so be careful, kru.", "translation": "Totemy leczą Aullaeu lub zwiększają ich siłę, więc uważaj, kru.", "status": "draft"}
+{"id": "NpcTalk_FFD150CC95D6448DABD3F24901CC96E7_cv_text", "source": "I picked it up without much thought. I was planning to just keep it in case Hithanya came looking for it.", "translation": "Podniosłem to bez zastanowienia. Chciałem zachować na wypadek, gdyby Hithanya o to zapytała.", "status": "draft"}
+{"id": "NpcTalk_FFD2B2B0EBFF45D6BDF965C17C1E5C9D_cv_text", "source": "Never heard that name before. You can leave now, Brok. I'll call you back if I need more information.", "translation": "Nigdy wcześniej nie słyszałem tego imienia. Możesz już odejść, Broku. Wezwę cię, jeśli będę potrzebować więcej informacji.", "status": "draft"}
+{"id": "NpcTalk_FFD4744E3D00413A9C2713A19DEBB3A1_cv_text", "source": "Are you scared to face Gerod again, Ulgorn?", "translation": "Boisz się ponownie stanąć do walki z Gerodem, Ulgornie?", "status": "draft"}
+{"id": "NpcTalk_FFDE254DB36D4557B4C4B60487C8935C_cv_text", "source": "I wanted to be healthy, happy, and breathe under the warm sunlight. But... Zumion teaches self-sacrifice...", "translation": "Chciałem być zdrowy i szczęśliwy, oddychać w ciepłych promieniach słońca. Ale... Zumion uczy poświęcenia...", "status": "draft"}
+{"id": "NpcTalk_FFDF1DE8E9FC46AE83552C691D145E68_cv_text", "source": "Thank you-hoohoo so much!", "translation": "Bardzo ci dziękuję-hoohoo!", "status": "draft"}
+{"id": "NpcTalk_FFE1F17AA00E452DBA3B728E081F09BE_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFE41E25BACD4D19A563818B3F41B75C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFE81C808DCB4F8DB0EF02F69FFEE517_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_FFE8D4315C6A48DF89D81207FAA4C9F1_cv_text", "source": "<QK>Iscariel</>, my most faithful devotee, will be inside. He's been there alone for such a long time...", "translation": "W środku będzie <QK>Iscariel</>, mój najwierniejszy wyznawca. Od tak dawna jest tam sam...", "status": "draft"}
+{"id": "NpcTalk_FFEE6BBF465E43188956AFFC447317F1_cv_text", "source": "Ignus is over there! Take it down, kru!", "translation": "Ignus jest tam! Pokonaj go, kru!", "status": "draft"}
+{"id": "NpcTalk_FFEE823C19E048309DEE5A2268F138BF_cv_text", "source": "Not only are they back, but there are also signs they're gathering greater strength.", "translation": "Nie dość, że wrócili, to jeszcze widać, że zbierają większe siły.", "status": "draft"}
 {"id": "NpcTalk_FFF2720693A3449B8139A82C48B7349A_cv_text", "source": "I see writing on the <QK>Blood Sword</>!", "translation": "Widzę napis na <QK>Krwawym Mieczu</>!", "status": "draft"}
-{"id":"NpcTalk_FFF2D92A8B814C7A9D93FD6BEB3580FF_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_FFF3BB87B0CA4534A0194D4543D64A71_cv_text","source":"The Lugi seems to be thanking you with its eyes.","translation":"Wygląda na to, że Lugi dziękuje ci wzrokiem.","status":"draft"}
-{"id":"NpcTalk_FFF48258EAE54E92B1CE4ADEF95F10D4_cv_text","source":"These are Musein's books! You can't take them!","translation":"To książki Museina! Nie możesz ich zabrać!","status":"draft"}
-{"id":"NpcTalk_FFF51FADAA7E4DB2B35B02DF3A44275D_cv_text","source":"{pcname}. Can you rescue the remaining Mau?","translation":"{pcname}. Czy możesz uratować pozostałych Mau?","status":"draft"}
-{"id":"NpcTalk_FFFA40930D064B9996BA261A2B5D7B02_cv_text","source":"How about a deal? I'll open this door for you, and you'll do me a favor afterwards.","translation":"Co powiesz na układ? Otworzę ci drzwi, a potem wyświadczysz mi przysługę.","status":"draft"}
-{"id":"NpcTalk_FFFDE54DDA1A409382CC3F9AE17715BF_cv_text","source":"Help! Mom's acting strange!","translation":"Pomocy! Z mamą dzieje się coś dziwnego!","status":"draft"}
+{"id": "NpcTalk_FFF2D92A8B814C7A9D93FD6BEB3580FF_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_FFF3BB87B0CA4534A0194D4543D64A71_cv_text", "source": "The Lugi seems to be thanking you with its eyes.", "translation": "Wygląda na to, że Lugi dziękuje ci wzrokiem.", "status": "draft"}
+{"id": "NpcTalk_FFF48258EAE54E92B1CE4ADEF95F10D4_cv_text", "source": "These are Musein's books! You can't take them!", "translation": "To książki Museina! Nie możesz ich zabrać!", "status": "draft"}
+{"id": "NpcTalk_FFF51FADAA7E4DB2B35B02DF3A44275D_cv_text", "source": "{pcname}. Can you rescue the remaining Mau?", "translation": "{pcname}. Czy możesz uratować pozostałych Mau?", "status": "draft"}
+{"id": "NpcTalk_FFFA40930D064B9996BA261A2B5D7B02_cv_text", "source": "How about a deal? I'll open this door for you, and you'll do me a favor afterwards.", "translation": "Co powiesz na układ? Otworzę ci drzwi, a potem wyświadczysz mi przysługę.", "status": "draft"}
+{"id": "NpcTalk_FFFDE54DDA1A409382CC3F9AE17715BF_cv_text", "source": "Help! Mom's acting strange!", "translation": "Pomocy! Z mamą dzieje się coś dziwnego!", "status": "draft"}

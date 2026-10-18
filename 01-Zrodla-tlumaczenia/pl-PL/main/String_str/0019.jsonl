@@ -1,3 +1,7 @@
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_014_B_body","source":"Steel Fortress (Skin: Set) (Bound)","translation":"Stalowa Twierdza (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_015_B_body","source":"Silent Wraith (Skin: Set) (Bound)","translation":"Ciche Widmo (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_016_B_body","source":"Hidden Escaper (Skin: Set) (Bound)","translation":"Ukryty Uciekinier (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_017_B_body","source":"Silent Hunter (Skin: Set) (Bound)","translation":"Cichy Łowca (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_018_B_body","source":"Solar Radiance (Skin: Set) (Bound)","translation":"Blask Słońca (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_019_B_body","source":"Iron Heart (Skin: Set) (Bound)","translation":"Żelazne Serce (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_020_B_body","source":"Wings of Fate (Skin: Set) (Bound)","translation":"Skrzydła Przeznaczenia (Skórka: Zestaw) (Przypisane)","status":"draft"}
@@ -181,6 +185,9 @@
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_210_B_body","source":"Lace Swimsuit (Skin: Set) (Bound)","translation":"Koronkowy Strój Kąpielowy (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_211_B_body","source":"After-School Swim Club (Skin: Set) (Bound)","translation":"Szkolny Klub Pływacki (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_212_B_body","source":"Sexy Bikini (Skin: Set) (Bound)","translation":"Seksowne Bikini (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_219_B_body","source":"Monarch of Blood (Skin: Set) (Bound)","translation":"Władca Krwi (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_220_B_body","source":"Midnight Witch (Skin: Set) (Bound)","translation":"Wiedźma o północy (Skórka: Zestaw) (Przypisane)","status":"draft"}
+{"id":"String_STR_ITEM_BM_SKINSHOP_SKINSET_AR_221_B_body","source":"Midnight Slasher (Skin: Set) (Bound)","translation":"Nocny Rzeźnik (Skórka: Zestaw) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_001_B_body","source":"Midnight Teatime (Skin: Earrings) (Bound)","translation":"Herbatka o Północy (Skórka: Kolczyki) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_001_F_body","source":"Verdant Leaf (Skin: Earrings)","translation":"Zielony Liść (Skórka: Kolczyki)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_002_F_body","source":"Verdant Leaf (Skin: Necklace)","translation":"Zielony Liść (Skórka: Naszyjnik)","status":"draft"}
@@ -241,10 +248,3 @@
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_044_B_body","source":"Gold Flux (Skin: Earrings) (Bound)","translation":"Złoty Przepływ (Skórka: Kolczyki) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_045_B_body","source":"Steel Wind (Skin: Earrings) (Bound)","translation":"Stalowy Wiatr (Skórka: Kolczyki) (Przypisane)","status":"draft"}
 {"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_046_B_body","source":"Frost Crystal (Skin: Earrings) (Bound)","translation":"Kryształ Mrozu (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_047_B_body","source":"Sea's Lament (Skin: Earrings) (Bound)","translation":"Lament Morza (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_048_B_body","source":"Flame Heart (Skin: Earrings) (Bound)","translation":"Serce Płomienia (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_049_B_body","source":"Dawn's Eye (Skin: Earrings) (Bound)","translation":"Oko Świtu (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_050_B_body","source":"Void Echo (Skin: Earrings) (Bound)","translation":"Echo Pustki (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_051_B_body","source":"Nebula Ring (Skin: Earrings) (Bound)","translation":"Pierścień Mgławicy (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_052_B_body","source":"Autumn Memory (Skin: Earrings) (Bound)","translation":"Jesienne Wspomnienie (Skórka: Kolczyki) (Przypisane)","status":"draft"}
-{"id":"String_STR_ITEM_BM_SKINSHOP_SKIN_ACC_053_B_body","source":"Eclipsing Flame (Skin: Earrings) (Bound)","translation":"Płomień Zaćmienia (Skórka: Kolczyki) (Przypisane)","status":"draft"}

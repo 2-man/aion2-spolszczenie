@@ -1,8 +1,14 @@
 {
-    "sourceJsonlFiles":  842,
-    "sourceBytes":  45772598,
-    "gameDatBytes":  4735188,
-    "datSha256":  "a90699147f0ae41ba3c6474a3433a78e6cb89ae1d5914adc538316eb8a8d5059",
+    "version":  "2026-10-14-en-US",
+    "sourceJsonlFiles":  843,
+    "sourceBytes":  46478185,
+    "gameDatBytes":  4742148,
+    "datSha256":  "8782ae64f956905b0e616b8c3b6d8d05e2b22006d8e0922a787f5349fb774c0f",
+    "clientCulture":  "en-US",
+    "clientPakSha256":  "07d61d63c131ce86a5674be28e14d9d93a11631a8704eb9c85e310123f11088c",
+    "extrasTestZipSha256":  "97e8f13dcf16cfc70e0593c9aacfb7fe0a759fc01588becb0a9b0b858fb35d32",
+    "extrasRuntimeTested":  false,
+    "testedInGame":  false,
     "folders":  [
                     "01-Zrodla-tlumaczenia",
                     "02-Paczka-do-gry"

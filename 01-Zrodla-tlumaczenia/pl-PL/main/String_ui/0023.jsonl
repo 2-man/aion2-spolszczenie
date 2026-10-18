@@ -1,250 +1,250 @@
-{"id":"String_UI_RANKING_ONBOARDING_NO_INFO_body","source":"No rank information available.","translation":"Brak informacji o rankingu.","status":"draft"}
-{"id":"String_UI_RANKING_ONBOARDING_NO_SEARCH_RESULT_body","source":"No search result.","translation":"Brak wyników wyszukiwania.","status":"draft"}
-{"id":"String_UI_RANKING_ONBOARDING_PREPARE_body","source":"Rank coming soon.","translation":"Ranking wkrótce dostępny.","status":"draft"}
-{"id":"String_UI_RANKING_RANK_DOWN_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_RANKING_RANK_NEW_body","source":"NEW","translation":"NOWY","status":"draft"}
-{"id":"String_UI_RANKING_RANK_UP_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_RANKING_RECORD_INFO_CONTENTS_TITLE_body","source":"Level {0}{1}","translation":"Poziom {0}{1}","status":"draft"}
-{"id":"String_UI_RANKING_RECORD_INFO_GAME_COUNT_LOSE_body","source":"L {0}","translation":"P {0}","status":"draft"}
-{"id":"String_UI_RANKING_RECORD_INFO_GAME_COUNT_TOTAL_body","source":"M {0}","translation":"M {0}","status":"draft"}
-{"id":"String_UI_RANKING_RECORD_INFO_GAME_COUNT_WIN_body","source":"W {0}","translation":"Z {0}","status":"draft"}
-{"id":"String_UI_RANKING_RECORD_INFO_GAME_COUNT_body","source":"<Ranking_GameScore>M {0}</> W {1} L {2}","translation":"<Ranking_GameScore>M {0}</> Z {1} P {2}","status":"draft"}
-{"id":"String_UI_RANKING_SEARCH_BAR_GUIDE_body","source":"Enter character name.","translation":"Wpisz nazwę postaci.","status":"draft"}
-{"id":"String_UI_RANKING_TAB_ABYSS_body","source":"Abyss","translation":"Otchłań","status":"draft"}
-{"id":"String_UI_RANKING_TAB_ARENA_SINGLE_body","source":"Arena of Solitude","translation":"Arena Samotności","status":"draft"}
-{"id":"String_UI_RANKING_TAB_ARENA_TEAM_body","source":"Arena of Cooperation","translation":"Arena Współpracy","status":"draft"}
-{"id":"String_UI_RANKING_TAB_AWAKEN_DUNGEON_body","source":"Ascension Trial","translation":"Próba Wniebowstąpienia","status":"draft"}
-{"id":"String_UI_RANKING_TAB_BOSS_CHALLENGE_body","source":"Nightmare","translation":"Koszmar","status":"draft"}
-{"id":"String_UI_RANKING_TAB_CONQUEROR_body","source":"Conqueror","translation":"Zdobywca","status":"draft"}
-{"id":"String_UI_RANKING_TAB_LEADER_BOARD_body","source":"Leaderboard","translation":"Ranking","status":"draft"}
-{"id":"String_UI_RANKING_TAB_PARTY_DUNGEON_body","source":"Transcendence","translation":"Transcendencja","status":"draft"}
-{"id":"String_UI_RANKING_TAB_SUPPRESSION_DUNGEON_body","source":"Subjugation","translation":"Podbój","status":"draft"}
-{"id":"String_UI_RANKING_TITLE_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_REFERENCE_TIME_INFO_body","source":"Time Standard UTC+9:00","translation":"Standard czasu UTC+9:00","status":"draft"}
-{"id":"String_UI_REPORT_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_REPORT_BUTTON_REPORT_body","source":"Report","translation":"Zgłoś","status":"draft"}
-{"id":"String_UI_REPORT_PLAYERNAME_INITIAL_body","source":"Enter the player you wish to report. (Max {0} characters)","translation":"Wpisz nazwę gracza, którego chcesz zgłosić. (Maks. {0} znaków)","status":"draft"}
-{"id":"String_UI_REPORT_REASON_MACRO_body","source":"Macro","translation":"Makro","status":"draft"}
-{"id":"String_UI_REPORT_TITLE_body","source":"Report","translation":"Zgłoś","status":"draft"}
-{"id":"String_UI_REPORT_WARNING_body","source":"You may be penalized for reporting cases\nirrelevant to the Report Reason given.","translation":"Możesz otrzymać karę za zgłaszanie przypadków\nniezwiązanych z wybranym powodem zgłoszenia.","status":"draft"}
-{"id":"String_UI_REWARDBOX_ALL_USE_COUNT_body","source":"Use Chest in Bulk","translation":"Użyj wielu skrzyń","status":"draft"}
-{"id":"String_UI_REWARDBOX_BUTTON_MAX_body","source":"MAX","translation":"MAKS.","status":"draft"}
-{"id":"String_UI_REWARDBOX_BUTTON_USE_body","source":"Use","translation":"Użyj","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_BASIC_REWARD_body","source":"Default Reward","translation":"Nagroda podstawowa","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_RANDOM_PERCENT_REWARD_DESCRIPTION_body","source":"{1}% chance to obtain {0} of the following items.","translation":"{1}% szansy na zdobycie {0} z następujących przedmiotów.","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_DESCRIPTION_body","source":"Obtaining {0} of the following items.","translation":"Zdobycie {0} z następujących przedmiotów.","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_GET_COUNT_body","source":"Randomized Attempt Count {0}","translation":"Liczba losowań: {0}","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_TITLE_body","source":"Reward Pool {0}","translation":"Pula nagród: {0}","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_SELECT_REWARD_DESCRIPTION_body","source":"Select {0} of the following items to obtain.","translation":"Wybierz {0} z następujących przedmiotów.","status":"draft"}
-{"id":"String_UI_REWARDBOX_SUBTITLE_SELECT_REWARD_body","source":"Selective Reward","translation":"Nagroda do wyboru","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_BUTTON_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_MINI_PREPARE_ANNOUNCE_body","source":"No other participants.","translation":"Brak innych uczestników.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_MINI_PREPARE_TITLE_body","source":"Participant Information","translation":"Informacje o uczestniku","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_ANNOUNCE_body","source":"Displayed when points are acquired.","translation":"Wyświetlane po zdobyciu punktów.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_OPEN_WHOLE_RANKING_body","source":"View All","translation":"Zobacz pełny ranking","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_TITLE_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_NO_CLASS_RANKING_body","source":"No participants of this class.","translation":"Brak uczestników tej klasy.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_CLASS_body","source":"Class","translation":"Klasa","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_CONTRIBUTION_body","source":"Score","translation":"Wynik","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_LEGION_body","source":"Legion","translation":"Legion","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_PLAYER_RANKING_body","source":"My Rank","translation":"Moje miejsce","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_PLAYER_body","source":"Name","translation":"Nazwa","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_RANKING_body","source":"Rank","translation":"Miejsce","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RANKING_POPUP_TITLE_body","source":"Rank","translation":"Ranking","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_CONTENTS_TITLE_body","source":"Spacetime Rift Domination","translation":"Dominacja w Szczelinie czasoprzestrzennej","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_LOSE_body","source":"Defeat","translation":"Porażka","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_NOT_ENOUGH_CONTRIBUTION_body","source":"Insufficient Contribution to receive rewards.","translation":"Za mały wkład, aby otrzymać nagrody.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_BUTTON_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_CONTRIBUTION_TITLE_body","source":"Your Score","translation":"Twój wynik","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_EMPTY_body","source":"No rank information available.","translation":"Brak informacji o rankingu.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_LOSE_TITLE_body","source":"{0} Failed","translation":"{0} — porażka","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_MY_RANK_body","source":"Rank {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_RANKING_TITLE_body","source":"My Rank","translation":"Moje miejsce","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_REWARD_TITLE_body","source":"Obtained Rewards","translation":"Otrzymane nagrody","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_POPUP_WIN_TITLE_body","source":"{0} Succeeded","translation":"{0} — sukces","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_REWARD_EXCLUDED_BY_IDLE_body","source":"Removed from reward distribution for not contributing for an extended period of time.","translation":"Wykluczono cię z podziału nagród z powodu długotrwałego braku wkładu.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_RESULT_WIN_body","source":"Victory","translation":"Zwycięstwo","status":"draft"}
-{"id":"String_UI_RIFTEVENT_START_CONTENTS_TITLE_body","source":"Spacetime Rift Domination","translation":"Dominacja w Szczelinie czasoprzestrzennej","status":"draft"}
-{"id":"String_UI_RIFTEVENT_START_NOT_ENOUGH_CONTRIBUTION_body","source":"S-PvP mode applied for all participants.","translation":"Wszyscy uczestnicy przechodzą w tryb S-PvP.","status":"draft"}
-{"id":"String_UI_RIFTEVENT_START_TITLE_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_BUTTON_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_CONDITION_INTERACT_COUNT_body","source":"{0} time(s)","translation":"{0} raz(y)","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_CONDITION_LEVEL_LIMIT_body","source":"Lv. {0} or higher","translation":"Poz. {0} lub wyższy","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_CHARGE_TIME_body","source":"Added Usage Time","translation":"Dodany czas użytkowania","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_COST_body","source":"Entry Materia","translation":"Materia wejściowa","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_DEFAULT_TIME_body","source":"Basic Usage Time","translation":"Podstawowy czas użytkowania","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_INTERACT_COUNT_body","source":"Remaining Uses","translation":"Pozostałe użycia","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_LEVEL_LIMIT_body","source":"Level Requirement","translation":"Wymagany poziom","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_LABEL_REMAIN_INTERACT_TIME_body","source":"Until the end of Spacetime Rift","translation":"Do końca Szczeliny czasoprzestrzennej","status":"draft"}
-{"id":"String_UI_RIFT_POPUP_TITLE_body","source":"Spacetime Rift","translation":"Szczelina czasoprzestrzenna","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_COOLDOWN_READY_body","source":"Change Available","translation":"Można zmienić","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_COOLDOWN_body","source":"Status Change Cooldown","translation":"Czas odnowienia zmiany stanu","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_DESCRIPTION_body","source":"Changing combat status is only possible within your own faction's territory, with a 70-minute cooldown applied upon change.\nHowever, attacking enemy citizens or Kisks, or when a Force/Party Member is in PvP Mode, will forcibly activate PvP mode for around 10 minutes, with no cooldown applied.\nOnly players with PvP Status activated can engage in combat with each other.\nPlease note, PvP is possible in the Abyss regardless of combat status settings.","translation":"Stan walki można zmienić tylko na terytorium własnej frakcji. Po zmianie obowiązuje 70-minutowy czas odnowienia.\nJednak zaatakowanie wrogich graczy lub Kisków albo obecność członka Sojuszu/Drużyny w trybie PvP wymusi aktywację trybu PvP na około 10 minut, bez czasu odnowienia.\nWalka jest możliwa tylko między graczami z włączonym statusem PvP.\nPamiętaj, że w Otchłani można walczyć niezależnie od ustawień statusu walki.","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_PVE_body","source":"PvE","translation":"PvE","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_PVP_body","source":"PvP","translation":"PvP","status":"draft"}
-{"id":"String_UI_RIFT_PVP_MODE_TITLE_body","source":"Combat Status Settings","translation":"Ustawienia statusu walki","status":"draft"}
-{"id":"String_UI_RIFT_SKIRMISH_PVP_MODE_DESC_body","source":"During Spacetime Rift Incursion, siege S-PVP mode will be applied. Only players participating in the siege will be entered into combat. When the incursion ends, the previously set combat status will be applied.","translation":"Podczas najazdu na Szczelinę czasoprzestrzenną zostanie włączony oblężniczy tryb S-PvP. Do walki zostaną włączeni tylko uczestnicy oblężenia. Po zakończeniu najazdu zostanie przywrócony wcześniej ustawiony status walki.","status":"draft"}
-{"id":"String_UI_RIFT_SKIRMISH_PVP_MODE_ICON_TEXT_body","source":"S-PVP","translation":"S-PVP","status":"draft"}
-{"id":"String_UI_RIFT_SKIRMISH_PVP_MODE_TITLE_body","source":"Applying S-PvP Mode","translation":"Włączanie trybu S-PvP","status":"draft"}
-{"id":"String_UI_RIFT_USE_NOTICE_POPUP_NO_body","source":"No","translation":"Nie","status":"draft"}
-{"id":"String_UI_RIFT_USE_NOTICE_POPUP_YES_body","source":"Yes","translation":"Tak","status":"draft"}
-{"id":"String_UI_RIFT_USE_NOTICE_POPUP_body","source":"Travel through the {0} portal?","translation":"Przejść przez portal {0}?","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_CANDIDATE_DESC_body","source":"Select 1 player to endorse.<RoleVote_Guide>(Optional)</>","translation":"Wybierz 1 gracza, którego chcesz wyróżnić.<RoleVote_Guide>(Opcjonalnie)</>","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_CLOSE_BTN_body","source":"Close","translation":"Zamknij","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_INPUT_BTN_body","source":"Commend","translation":"Wyróżnij","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_REASON_DESC_body","source":"Select reason for commending.","translation":"Wybierz powód wyróżnienia.","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_REMAINING_TIME_body","source":"Vote Ends in {0}s","translation":"Koniec głosowania za {0} s","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_RESULT_TITLE_body","source":"Player Commendation Results","translation":"Wyniki głosowania na wyróżnienie gracza","status":"draft"}
-{"id":"String_UI_ROLE_VOTE_TITLE_body","source":"Commend Player","translation":"Wyróżnij gracza","status":"draft"}
-{"id":"String_UI_ROLLING_DICE_BUTTON_DICE_GIVEUP_body","source":"Forfeit","translation":"Poddaj się","status":"draft"}
-{"id":"String_UI_ROLLING_DICE_BUTTON_DICE_body","source":"Roll Dice","translation":"Rzuć kostką","status":"draft"}
-{"id":"String_UI_ROLLING_DICE_NUMBER_body","source":"Dice Number","translation":"Wynik rzutu kostką","status":"draft"}
-{"id":"String_UI_ROLLING_SUCCESSFUL_DICE_body","source":"Win: {0}","translation":"Wygrana: {0}","status":"draft"}
-{"id":"String_UI_SCREEN_MSG_COLLECTION_COMPLETE_TITLE_body","source":"You have completed a collection.","translation":"Ukończono kolekcję.","status":"draft"}
-{"id":"String_UI_SCREEN_MSG_TITLE_GET_body","source":"Title acquired.","translation":"Zdobyto tytuł.","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_CLEAR_REWARD_TITLE_body","source":"Completion Rewards","translation":"Nagrody za ukończenie","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_ENTER_KEY_CLEAR_body","source":"{0} Complete","translation":"Ukończono: {0}","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_ENTER_KEY_EXPLORATION_body","source":"Entry Requirements","translation":"Wymagania wejścia","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_ENTER_KEY_NEED_CLEAR_body","source":"{0} Completion Required","translation":"Wymagane ukończenie: {0}","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_ENTER_KEY_body","source":"Entry Materia","translation":"Materia wejściowa","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_ENTER_REWARD_body","source":"Basic Rewards","translation":"Nagrody podstawowe","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_HINT_MESSAGE_NEED_ITEM_body","source":"Insufficient Item: {0}.","translation":"Brak przedmiotu: {0}.","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_HINT_MESSAGE_NEED_QUEST_body","source":"You must complete the prerequisite quest {0}.","translation":"Najpierw ukończ zadanie wprowadzające {0}.","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_RECOMMENDED_LEVEL_body","source":"Recommended Level: {0}","translation":"Zalecany poziom: {0}","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_TOOLTIP_NEED_ITEM_INFO_body","source":"<ref style=\"insufficient\" attr=\"color\">Unidentified Item</>","translation":"<ref style=\"insufficient\" attr=\"color\">Niezidentyfikowany przedmiot</>","status":"draft"}
-{"id":"String_UI_SEALDUNGEON_TOOLTIP_NEED_QUEST_INFO_body","source":"<ref style=\"insufficient\" attr=\"color\">Uncompleted Quest</>","translation":"<ref style=\"insufficient\" attr=\"color\">Nieukończone zadanie</>","status":"draft"}
-{"id":"String_UI_SEASONMISSION_BTN_REWARD_ALL_body","source":"Collect All Rewards","translation":"Odbierz wszystkie nagrody","status":"draft"}
-{"id":"String_UI_SEASONMISSION_BTN_REWARD_COMPLETE_body","source":"Rewards Received","translation":"Nagrody odebrane","status":"draft"}
-{"id":"String_UI_SEASONMISSION_BTN_REWARD_body","source":"Collect Rewards","translation":"Odbierz nagrody","status":"draft"}
-{"id":"String_UI_SEASONMISSION_COUNT_DEFAULT_body","source":"<SeasonMission_ScoreDefault>{0}</>/{1}","translation":"<SeasonMission_ScoreDefault>{0}</>/{1}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_COUNT_body","source":"<SeasonMission_Score>{0}</>/{1}","translation":"<SeasonMission_Score>{0}</>/{1}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_PROGRESS_TITLE_body","source":"Season Mission Progress","translation":"Postęp misji sezonowej","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_PROGRESS_TOTAL_TITLE_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_REWARD_POINT_RESET_TIME_body","source":"Weekly reset in {0}","translation":"Reset tygodniowy za {0}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_REWARD_POINT_TITLE_body","source":"Reward Points","translation":"Punkty nagród","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_REWARD_WEEKLY_NONE_body","source":"No Rewards Obtainable","translation":"Brak dostępnych nagród","status":"draft"}
-{"id":"String_UI_SEASONMISSION_INFO_REWARD_WEEKLY_TITLE_body","source":"Expected Weekly Rewards","translation":"Przewidywane nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_SEASONMISSION_LIST_EVENT_body","source":"Period","translation":"Okres","status":"draft"}
-{"id":"String_UI_SEASONMISSION_LIST_SEASON_body","source":"Season","translation":"Sezon","status":"draft"}
-{"id":"String_UI_SEASONMISSION_LIST_WEEKLY_body","source":"Weekly","translation":"Co tydzień","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POINT_body","source":"Points","translation":"Punkty","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_DESC_body","source":"Weekly rewards are earned based on total reward points accumulated throughout the week.\nReward points are reset every cycle,\nand the corresponding weekly rewards are given based on the total reward points accumulated at the time of the reset.","translation":"Nagrody tygodniowe są przyznawane na podstawie łącznej liczby punktów nagród zdobytych w ciągu tygodnia.\nPunkty nagród są resetowane w każdym cyklu,\na odpowiednie nagrody tygodniowe są przyznawane na podstawie łącznej liczby punktów zgromadzonych w chwili resetu.","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_HEADER_GRADE_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_HEADER_POINT_body","source":"Reward Points","translation":"Punkty nagród","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_HEADER_REWARD_WEEKLY_body","source":"Weekly Rewards","translation":"Nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_POINT_body","source":"<BossChallenge_Score>{0}</> or above","translation":"<BossChallenge_Score>{0}</> lub więcej","status":"draft"}
-{"id":"String_UI_SEASONMISSION_POPUP_REWARD_TITLE_body","source":"Weekly Rewards","translation":"Nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_SEASONMISSION_REWARD_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_REWARD_POPUP_CHARACTER_NAME_body","source":"Character Name: <desc_point>{0}</>","translation":"Nazwa postaci: <desc_point>{0}</>","status":"draft"}
-{"id":"String_UI_SEASONMISSION_REWARD_POPUP_ONLY_SERVER_REWARD_body","source":"Rewards for the server sharing mission can only be claimed by one character.\nClaim the reward with the current character?","translation":"Nagrodę za misję współdzieloną przez serwer może odebrać tylko jedna postać.\nOdebrać nagrodę tą postacią?","status":"draft"}
-{"id":"String_UI_SEASONMISSION_REWARD_WEEKLY_TITLE_body","source":"Season Mission Weekly Rewards","translation":"Nagrody tygodniowe za misje sezonowe","status":"draft"}
-{"id":"String_UI_SEASONMISSION_SERVER_GROUP_TAG_body","source":"Server Sharing","translation":"Współdzielone przez serwer","status":"draft"}
-{"id":"String_UI_SEASONMISSION_STEP_body","source":"Step <SeasonMission_Score>{0}</>/{1}","translation":"Krok <SeasonMission_Score>{0}</>/{1}","status":"draft"}
-{"id":"String_UI_SEASONMISSION_TITLE_body","source":"Season Mission","translation":"Misja sezonowa","status":"draft"}
-{"id":"String_UI_SEASON_ABYSS_PVP_RECORD_COUNT_body","source":"{0} / {1} / {2}","translation":"{0} / {1} / {2}","status":"draft"}
-{"id":"String_UI_SEASON_ABYSS_PVP_RECORD_body","source":"Match History","translation":"Historia meczów","status":"draft"}
-{"id":"String_UI_SEASON_ARENA_PARTICIPANTS_SINGLE_body","source":"1 vs 1","translation":"1 na 1","status":"draft"}
-{"id":"String_UI_SEASON_ARENA_PARTICIPANTS_STRATEGY_body","source":"0.42361","translation":"0.42361","status":"draft"}
-{"id":"String_UI_SEASON_ARENA_PARTICIPANTS_TEAM_body","source":"5 vs 5","translation":"5 na 5","status":"draft"}
-{"id":"String_UI_SEASON_ARENA_WINNING_RATE_body","source":"Win rate","translation":"Procent zwycięstw","status":"draft"}
-{"id":"String_UI_SEASON_BOSSCHALLENGE_PICKUP_body","source":"Increased Rank Points Obtained","translation":"Więcej zdobytych punktów rankingowych","status":"draft"}
-{"id":"String_UI_SEASON_BTN_SEASON_CURRENT_body","source":"Current Season","translation":"Bieżący sezon","status":"draft"}
-{"id":"String_UI_SEASON_BTN_SEASON_PREVIOUS_body","source":"Previous Season","translation":"Poprzedni sezon","status":"draft"}
-{"id":"String_UI_SEASON_BTN_SHORTCUT_SEASON_MISSION_body","source":"Go to Season Mission","translation":"Przejdź do misji sezonowej","status":"draft"}
-{"id":"String_UI_SEASON_BTN_SHORTCUT_body","source":"Go Now","translation":"Przejdź teraz","status":"draft"}
-{"id":"String_UI_SEASON_CONTENTS_LIST_EMPTY_DESC_body","source":"Please wait for the next season.","translation":"Poczekaj na kolejny sezon.","status":"draft"}
-{"id":"String_UI_SEASON_CONTENTS_LIST_EMPTY_body","source":"No season in progress.","translation":"Brak trwającego sezonu.","status":"draft"}
-{"id":"String_UI_SEASON_END_TIME_body","source":"Season resets in {0}","translation":"Reset sezonu za {0}","status":"draft"}
-{"id":"String_UI_SEASON_END_TITLE_body","source":"Season has ended.","translation":"Sezon dobiegł końca.","status":"draft"}
-{"id":"String_UI_SEASON_INFO_RANKING_DESC_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_SEASON_INFO_RECORD_RANKING_POINT_body","source":"Points","translation":"Punkty","status":"draft"}
-{"id":"String_UI_SEASON_INFO_RECORD_RANKING_body","source":"Class Rank","translation":"Ranking klas","status":"draft"}
-{"id":"String_UI_SEASON_INFO_REWARD_SEASON_CLASS_body","source":"Class Rank Rewards","translation":"Nagrody za miejsce w rankingu klas","status":"draft"}
-{"id":"String_UI_SEASON_INFO_REWARD_SEASON_CURRENT_TITLE_body","source":"Expected Season Rewards","translation":"Przewidywane nagrody sezonowe","status":"draft"}
-{"id":"String_UI_SEASON_INFO_REWARD_SEASON_GRADE_body","source":"Grade Rewards","translation":"Nagrody za rangę","status":"draft"}
-{"id":"String_UI_SEASON_INFO_REWARD_SEASON_NONE_body","source":"No obtainable rewards.","translation":"Brak dostępnych nagród.","status":"draft"}
-{"id":"String_UI_SEASON_INFO_REWARD_SEASON_PREVIOUS_TITLE_body","source":"Season Rewards","translation":"Nagrody sezonowe","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_NONE_COMPLETE_ALL_body","source":"No season missions available.","translation":"Brak dostępnych misji sezonowych.","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_PREVIOUS_PROGRESS_body","source":"Mission Progress","translation":"Postęp misji","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_PREVIOUS_REWARD_NONE_body","source":"No obtainable rewards.","translation":"Brak dostępnych nagród.","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_PREVIOUS_REWARD_body","source":"Obtainable Rewards","translation":"Dostępne nagrody","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_PROGRESS_COUNT_DEFAULT_body","source":"(<SeasonMission_ScoreDefault>{0}</>/{1})","translation":"(<SeasonMission_ScoreDefault>{0}</>/{1})","status":"draft"}
-{"id":"String_UI_SEASON_MISSION_PROGRESS_COUNT_body","source":"(<SeasonMission_Score>{0}</>/{1})","translation":"(<SeasonMission_Score>{0}</>/{1})","status":"draft"}
-{"id":"String_UI_SEASON_PARTYCHALLENGE_PICKUP_body","source":"Boss Appearing","translation":"Pojawia się boss","status":"draft"}
-{"id":"String_UI_SEASON_PARTYCHALLENGE_TITLE_NOT_CLEARED_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_SEASON_PARTYCHALLENGE_TITLE_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_ABYSS_body","source":"<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.","translation":"<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_ALL_body","source":"Your reward period is renewed hourly.","translation":"Okres przyznawania nagród jest odnawiany co godzinę.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_ARENA_body","source":"<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.","translation":"<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_AWAKEN_body","source":"<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.","translation":"<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_BOSSCHALLENGE_body","source":"<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.","translation":"<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_DESC_PARTYCHALLENGE_body","source":"<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.","translation":"<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_CLASS_RANKING_body","source":"Class Rank","translation":"Ranking klas","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_GRADE_ABYSS_body","source":"Season Tier","translation":"Ranga sezonowa","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_GRADE_body","source":"Season Grade","translation":"Ranga sezonowa","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_RANKING_body","source":"Rank","translation":"Miejsce","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_BUFF_body","source":"Buffs","translation":"Wzmocnienia","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_GRADE_body","source":"Season Rewards","translation":"Nagrody sezonowe","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_RANKING_body","source":"Class Rank Rewards","translation":"Nagrody za miejsce w rankingu klas","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_REPEAT_body","source":"Repeatable Rewards (Level 1)","translation":"Powtarzalne nagrody (poziom 1)","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_WEEKLY_GRADE_body","source":"Weekly Rewards","translation":"Nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_WEEKLY_RANKING_body","source":"Weekly Rewards","translation":"Nagrody tygodniowe","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_HEADER_SCORE_body","source":"Total Rank Points","translation":"Łączna liczba punktów rankingowych","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_RANK_MAX_body","source":"Rank {0}","translation":"Miejsce {0}","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_RANK_MIN_TO_MAX_body","source":"Rank {0}-{1}","translation":"Miejsce {0}–{1}","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_RANK_PERCENT_MAX_body","source":"Top {0}%","translation":"Najlepsze {0}%","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_SCORE_body","source":"<BossChallenge_Score>{0}</> or above","translation":"<BossChallenge_Score>{0}</> lub więcej","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TAB_GRADE_INFO_ABYSS_body","source":"Tier Criteria","translation":"Kryteria rangi","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TAB_GRADE_INFO_body","source":"Grade Criteria","translation":"Kryteria rangi","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TAB_REWARD_GRADE_ABYSS_body","source":"Rank - All","translation":"Miejsce — wszystkie","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TAB_REWARD_GRADE_body","source":"Rank - All","translation":"Miejsce — wszystkie","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TAB_REWARD_RANKING_body","source":"Class Rank","translation":"Ranking klas","status":"draft"}
-{"id":"String_UI_SEASON_POPUP_REWARD_TITLE_body","source":"Season Rewards","translation":"Nagrody sezonowe","status":"draft"}
-{"id":"String_UI_SEASON_REWARD_ACQUIRE_DESC_ABYSS_body","source":"Tier {0} {1}","translation":"Ranga {0} {1}","status":"draft"}
-{"id":"String_UI_SEASON_REWARD_ACQUIRE_DESC_COMMON_body","source":"{1} Grade {0}","translation":"Ranga {0} {1}","status":"draft"}
-{"id":"String_UI_SEASON_REWARD_ACQUIRE_TITLE_body","source":"Season Rewards Obtained","translation":"Odebrano nagrody sezonowe","status":"draft"}
-{"id":"String_UI_SEASON_SCHEDULE_DATE_body","source":"{0}-{1}","translation":"{0}–{1}","status":"draft"}
-{"id":"String_UI_SEASON_SEASON_MISSION_LIST_EMPTY_body","source":"No season mission in progress.","translation":"Brak trwających misji sezonowych.","status":"draft"}
-{"id":"String_UI_SEASON_STATUS_END_body","source":"Ended","translation":"Zakończony","status":"draft"}
-{"id":"String_UI_SEASON_STATUS_PROGRESS_body","source":"Active","translation":"Aktywny","status":"draft"}
-{"id":"String_UI_SEASON_TITLE_PREVIOUS_body","source":"{0} Results","translation":"Wyniki {0}","status":"draft"}
-{"id":"String_UI_SEASON_TITLE_body","source":"Season {0}","translation":"Sezon {0}","status":"draft"}
-{"id":"String_UI_SERVER_MAINTENANCE_COUNTDOWN_body","source":"{0} left until maintenance","translation":"Do konserwacji pozostało {0}","status":"draft"}
-{"id":"String_UI_SERVER_STATE_CONGESTION_BUSY_body","source":"Busy","translation":"Duże obciążenie","status":"draft"}
-{"id":"String_UI_SERVER_STATE_CONGESTION_FREE_body","source":"Normal","translation":"Normalne","status":"draft"}
-{"id":"String_UI_SERVER_STATE_CONGESTION_FULL_body","source":"Full","translation":"Pełny","status":"draft"}
-{"id":"String_UI_SERVER_STATE_LIMITED_CHARACTER_CREATION_body","source":"Creation Restricted","translation":"Tworzenie postaci ograniczone","status":"draft"}
-{"id":"String_UI_SERVER_STATE_LIMIT_CHARACTER_CREATION_01_body","source":"Character creation is restricted on this server. Please choose another server.","translation":"Tworzenie postaci na tym serwerze jest ograniczone. Wybierz inny serwer.","status":"draft"}
-{"id":"String_UI_SERVER_STATE_LIMIT_CHARACTER_CREATION_02_body","source":"Character creation is restricted on this server.","translation":"Tworzenie postaci na tym serwerze jest ograniczone.","status":"draft"}
-{"id":"String_UI_SERVER_STATE_NEW_body","source":"New","translation":"Nowy","status":"draft"}
-{"id":"String_UI_SERVER_STATE_RECOMMEND_body","source":"Recommended","translation":"Polecany","status":"draft"}
-{"id":"String_UI_SERVER_TRADE_ITEM_PRICE_LOW_body","source":"Lowest Sale Price - Server","translation":"Najniższa cena sprzedaży — serwer","status":"draft"}
-{"id":"String_UI_SERVER_TRADE_ITEM_SEARCH_FOR_WORLD_EXCHANGE_body","source":"Search World Exchange","translation":"Szukaj na Giełdzie Światowej","status":"draft"}
-{"id":"String_UI_SERVER_TRADE_ITEM_SEARCH_FOR_WORLD_body","source":"Search World Market","translation":"Szukaj na rynku światowym","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHARACTER_AVAILABLE_COUNT_body","source":"Available transfer number: {0}/{1}","translation":"Dostępna liczba transferów: {0}/{1}","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHARACTER_TEMPNAME_body","source":"Temporary name","translation":"Nazwa tymczasowa","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_CHARACTER_CHECK_body","source":"Please check characters with Restricted Server-Based Daeva Passes/Growth Support.","translation":"Sprawdź postacie z przepustką Daeva lub wsparciem rozwoju ograniczonym do serwera.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_NOTICE_body","source":"Please check Daeva Pass/Growth Support.","translation":"Sprawdź przepustkę Daeva / wsparcie rozwoju.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_SERVER_CHEC_body","source":"Check purchase limits per Server","translation":"Sprawdź limity zakupów dla serwera","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_TRANSFER_GUIDE_body","source":"If the quantity of Daeva Passes and Growth Support items owned on the current server and target server exceeds the per-server purchase limit, the character cannot transfer servers.","translation":"Jeśli liczba przepustek Daeva i przedmiotów wsparcia rozwoju posiadanych na obecnym i docelowym serwerze przekracza limit zakupów na serwer, nie można przenieść postaci.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CHARACTER_NONE_SELECTED_RESULT_body","source":"You did not select whether to transfer your subscription information.","translation":"Nie wybrano, czy przenieść informacje o subskrypcji.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CHARACTER_SELECTED_COUNT_COST_body","source":"Transfer fee will be calculated based on the number of characters.","translation":"Opłata za transfer zostanie obliczona na podstawie liczby postaci.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_GUIDE_body","source":"When selecting the current server, the current server's Insight will overrwrite that of the target server, and the current server will be reset.\nWhen selecting the target server, the target server's Insight will be kept and the current server will be reset.","translation":"Po wybraniu obecnego serwera jego Wgląd zastąpi Wgląd serwera docelowego, a obecny serwer zostanie zresetowany.\nPo wybraniu serwera docelowego zachowany zostanie jego Wgląd, a obecny serwer zostanie zresetowany.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CLOSE_body","source":"Close","translation":"Zamknij","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CONFIRM_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CURRENT_body","source":"Current Server Genus Insight","translation":"Wnikliwość rodzaju — obecny serwer","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_TITLE_body","source":"Select Genus Insight to be used in the target server.","translation":"Wybierz Wnikliwość rodzaju, która ma być używany na serwerze docelowym.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_TRANSFER_body","source":"Target Server Genus Insight","translation":"Wnikliwość rodzaju — serwer docelowy","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_RESULT_body","source":"Select Genus Insight to be used in the target server.","translation":"Wybierz Wnikliwość rodzaju, która ma być używany na serwerze docelowym.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT1_body","source":"Select Genus Insight","translation":"Wybierz Wnikliwość rodzaju","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT2_body","source":"Select Genus Insight","translation":"Wybierz Wnikliwość rodzaju","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT3_body","source":"Select Genus Insight","translation":"Wybierz Wnikliwość rodzaju","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT_CHANGE_body","source":"Change Genus Insight","translation":"Zmień Wnikliwość rodzaju","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_CREATURE_UNSELECTED_body","source":"No Genus Insight selected.","translation":"Nie wybrano Wnikliwości rodzaju.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_GOLD_NOTICE_body","source":"Please check owned Kina (Unbound).","translation":"Sprawdź posiadane Kina (niepowiązane).","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_GOLD_RESULT_body","source":"{0} Kina has been exceeded. Please check owned characters.","translation":"Przekroczono limit {0} Kina. Sprawdź postacie na koncie.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_GOLD_body","source":"Owned Kina (Bound)","translation":"Posiadane Kina (powiązane)","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_LEGION_LEVEL_NOTICE_body","source":"Please check Legion level.","translation":"Sprawdź poziom Legionu.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_LEGION_LEVEL_RESULT_body","source":"Legion Level must be {0} or higher.","translation":"Poziom Legionu musi wynosić co najmniej {0}.","status":"draft"}
-{"id":"String_UI_SERVER_TRANSFER_CHECK_LEGION_LEVEL_body","source":"Legion Lv. {0}","translation":"Poz. Legionu {0}","status":"draft"}
+{"id": "String_UI_RANKING_LIST_INTERACTION_MENU_INFO_body", "source": "View Info", "translation": "Wyświetl informacje", "status": "draft"}
+{"id": "String_UI_RANKING_MY_RANK_REWARD_CLASS_body", "source": "Class Rank Rewards", "translation": "Nagrody za miejsce w rankingu klasy", "status": "draft"}
+{"id": "String_UI_RANKING_MY_RANK_REWARD_EMPTY_body", "source": "No obtainable rewards.", "translation": "Brak dostępnych nagród.", "status": "draft"}
+{"id": "String_UI_RANKING_MY_RANK_REWARD_GRADE_body", "source": "Grade Rewards", "translation": "Nagrody za rangę", "status": "draft"}
+{"id": "String_UI_RANKING_MY_RANK_TEXT_body", "source": "My Rank", "translation": "Moje miejsce", "status": "draft"}
+{"id": "String_UI_RANKING_ONBOARDING_NO_INFO_body", "source": "No rank information available.", "translation": "Brak informacji o rankingu.", "status": "draft"}
+{"id": "String_UI_RANKING_ONBOARDING_NO_SEARCH_RESULT_body", "source": "No search result.", "translation": "Brak wyników wyszukiwania.", "status": "draft"}
+{"id": "String_UI_RANKING_ONBOARDING_PREPARE_body", "source": "Rank coming soon.", "translation": "Ranking wkrótce dostępny.", "status": "draft"}
+{"id": "String_UI_RANKING_RANK_DOWN_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_RANKING_RANK_NEW_body", "source": "NEW", "translation": "NOWY", "status": "draft"}
+{"id": "String_UI_RANKING_RANK_UP_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_RANKING_RECORD_INFO_CONTENTS_TITLE_body", "source": "Level {0}{1}", "translation": "Poziom {0}{1}", "status": "draft"}
+{"id": "String_UI_RANKING_RECORD_INFO_GAME_COUNT_LOSE_body", "source": "L {0}", "translation": "P {0}", "status": "draft"}
+{"id": "String_UI_RANKING_RECORD_INFO_GAME_COUNT_TOTAL_body", "source": "M {0}", "translation": "M {0}", "status": "draft"}
+{"id": "String_UI_RANKING_RECORD_INFO_GAME_COUNT_WIN_body", "source": "W {0}", "translation": "Z {0}", "status": "draft"}
+{"id": "String_UI_RANKING_RECORD_INFO_GAME_COUNT_body", "source": "<Ranking_GameScore>M {0}</> W {1} L {2}", "translation": "<Ranking_GameScore>M {0}</> Z {1} P {2}", "status": "draft"}
+{"id": "String_UI_RANKING_SEARCH_BAR_GUIDE_body", "source": "Enter character name.", "translation": "Wpisz nazwę postaci.", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_ABYSS_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_ARENA_SINGLE_body", "source": "Arena of Solitude", "translation": "Arena Samotności", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_ARENA_TEAM_body", "source": "Arena of Cooperation", "translation": "Arena Współpracy", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_AWAKEN_DUNGEON_body", "source": "Ascension Trial", "translation": "Próba Wniebowstąpienia", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_BOSS_CHALLENGE_body", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_CONQUEROR_body", "source": "Conqueror", "translation": "Zdobywca", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_LEADER_BOARD_body", "source": "Leaderboard", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_PARTY_DUNGEON_body", "source": "Transcendence", "translation": "Transcendencja", "status": "draft"}
+{"id": "String_UI_RANKING_TAB_SUPPRESSION_DUNGEON_body", "source": "Subjugation", "translation": "Podbój", "status": "draft"}
+{"id": "String_UI_RANKING_TITLE_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_REFERENCE_TIME_INFO_body", "source": "Time Standard UTC+9:00", "translation": "Standard czasu UTC+9:00", "status": "draft"}
+{"id": "String_UI_REPORT_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_REPORT_BUTTON_REPORT_body", "source": "Report", "translation": "Zgłoś", "status": "draft"}
+{"id": "String_UI_REPORT_PLAYERNAME_INITIAL_body", "source": "Enter the player you wish to report. (Max {0} characters)", "translation": "Wpisz nazwę gracza, którego chcesz zgłosić. (Maks. {0} znaków)", "status": "draft"}
+{"id": "String_UI_REPORT_REASON_MACRO_body", "source": "Macro", "translation": "Makro", "status": "draft"}
+{"id": "String_UI_REPORT_TITLE_body", "source": "Report", "translation": "Zgłoś", "status": "draft"}
+{"id": "String_UI_REPORT_WARNING_body", "source": "You may be penalized for reporting cases\nirrelevant to the Report Reason given.", "translation": "Możesz otrzymać karę za zgłaszanie przypadków\nniezwiązanych z wybranym powodem zgłoszenia.", "status": "draft"}
+{"id": "String_UI_REWARDBOX_ALL_USE_COUNT_body", "source": "Use Chest in Bulk", "translation": "Użyj wielu skrzyń", "status": "draft"}
+{"id": "String_UI_REWARDBOX_BUTTON_MAX_body", "source": "MAX", "translation": "MAKS.", "status": "draft"}
+{"id": "String_UI_REWARDBOX_BUTTON_USE_body", "source": "Use", "translation": "Użyj", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_BASIC_REWARD_body", "source": "Default Reward", "translation": "Nagroda podstawowa", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_RANDOM_PERCENT_REWARD_DESCRIPTION_body", "source": "{1}% chance to obtain {0} of the following items.", "translation": "{1}% szansy na zdobycie {0} z następujących przedmiotów.", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_DESCRIPTION_body", "source": "Obtaining {0} of the following items.", "translation": "Zdobycie {0} z następujących przedmiotów.", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_GET_COUNT_body", "source": "Randomized Attempt Count {0}", "translation": "Liczba losowań: {0}", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_RANDOM_REWARD_TITLE_body", "source": "Reward Pool {0}", "translation": "Pula nagród: {0}", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_SELECT_REWARD_DESCRIPTION_body", "source": "Select {0} of the following items to obtain.", "translation": "Wybierz {0} z następujących przedmiotów.", "status": "draft"}
+{"id": "String_UI_REWARDBOX_SUBTITLE_SELECT_REWARD_body", "source": "Selective Reward", "translation": "Nagroda do wyboru", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_BUTTON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_MINI_PREPARE_ANNOUNCE_body", "source": "No other participants.", "translation": "Brak innych uczestników.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_MINI_PREPARE_TITLE_body", "source": "Participant Information", "translation": "Informacje o uczestniku", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_ANNOUNCE_body", "source": "Displayed when points are acquired.", "translation": "Wyświetlane po zdobyciu punktów.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_OPEN_WHOLE_RANKING_body", "source": "View All", "translation": "Zobacz pełny ranking", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_MINI_PROGRESS_TITLE_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_NO_CLASS_RANKING_body", "source": "No participants of this class.", "translation": "Brak uczestników tej klasy.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_CLASS_body", "source": "Class", "translation": "Klasa", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_CONTRIBUTION_body", "source": "Score", "translation": "Wynik", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_LEGION_body", "source": "Legion", "translation": "Legion", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_PLAYER_RANKING_body", "source": "My Rank", "translation": "Moje miejsce", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_PLAYER_body", "source": "Name", "translation": "Nazwa", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_RANKING_LIST_RANKING_body", "source": "Rank", "translation": "Miejsce", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RANKING_POPUP_TITLE_body", "source": "Rank", "translation": "Ranking", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_CONTENTS_TITLE_body", "source": "Spacetime Rift Domination", "translation": "Dominacja w Szczelinie czasoprzestrzennej", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_LOSE_body", "source": "Defeat", "translation": "Porażka", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_NOT_ENOUGH_CONTRIBUTION_body", "source": "Insufficient Contribution to receive rewards.", "translation": "Za mały wkład, aby otrzymać nagrody.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_BUTTON_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_CONTRIBUTION_TITLE_body", "source": "Your Score", "translation": "Twój wynik", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_EMPTY_body", "source": "No rank information available.", "translation": "Brak informacji o rankingu.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_LOSE_TITLE_body", "source": "{0} Failed", "translation": "{0} — porażka", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_MY_RANK_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_RANKING_TITLE_body", "source": "My Rank", "translation": "Moje miejsce", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_REWARD_TITLE_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_POPUP_WIN_TITLE_body", "source": "{0} Succeeded", "translation": "{0} — sukces", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_REWARD_EXCLUDED_BY_IDLE_body", "source": "Removed from reward distribution for not contributing for an extended period of time.", "translation": "Wykluczono cię z podziału nagród z powodu długotrwałego braku wkładu.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_RESULT_WIN_body", "source": "Victory", "translation": "Zwycięstwo", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_START_CONTENTS_TITLE_body", "source": "Spacetime Rift Domination", "translation": "Dominacja w Szczelinie czasoprzestrzennej", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_START_NOT_ENOUGH_CONTRIBUTION_body", "source": "S-PvP mode applied for all participants.", "translation": "Wszyscy uczestnicy przechodzą w tryb S-PvP.", "status": "draft"}
+{"id": "String_UI_RIFTEVENT_START_TITLE_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_BUTTON_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_CONDITION_INTERACT_COUNT_body", "source": "{0} time(s)", "translation": "{0} raz(y)", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_CONDITION_LEVEL_LIMIT_body", "source": "Lv. {0} or higher", "translation": "Poz. {0} lub wyższy", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_CHARGE_TIME_body", "source": "Added Usage Time", "translation": "Dodany czas użytkowania", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_COST_body", "source": "Entry Materia", "translation": "Materia wejściowa", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_DEFAULT_TIME_body", "source": "Basic Usage Time", "translation": "Podstawowy czas użytkowania", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_INTERACT_COUNT_body", "source": "Remaining Uses", "translation": "Pozostałe użycia", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_LEVEL_LIMIT_body", "source": "Level Requirement", "translation": "Wymagany poziom", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_LABEL_REMAIN_INTERACT_TIME_body", "source": "Until the end of Spacetime Rift", "translation": "Do końca Szczeliny czasoprzestrzennej", "status": "draft"}
+{"id": "String_UI_RIFT_POPUP_TITLE_body", "source": "Spacetime Rift", "translation": "Szczelina czasoprzestrzenna", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_COOLDOWN_READY_body", "source": "Change Available", "translation": "Można zmienić", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_COOLDOWN_body", "source": "Status Change Cooldown", "translation": "Czas odnowienia zmiany stanu", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_DESCRIPTION_body", "source": "Changing combat status is only possible within your own faction's territory, with a 70-minute cooldown applied upon change.\nHowever, attacking enemy citizens or Kisks, or when a Force/Party Member is in PvP Mode, will forcibly activate PvP mode for around 10 minutes, with no cooldown applied.\nOnly players with PvP Status activated can engage in combat with each other.\nPlease note, PvP is possible in the Abyss regardless of combat status settings.", "translation": "Stan walki można zmienić tylko na terytorium własnej frakcji. Po zmianie obowiązuje 70-minutowy czas odnowienia.\nJednak zaatakowanie wrogich graczy lub Kisków albo obecność członka Sojuszu/Drużyny w trybie PvP wymusi aktywację trybu PvP na około 10 minut, bez czasu odnowienia.\nWalka jest możliwa tylko między graczami z włączonym statusem PvP.\nPamiętaj, że w Otchłani można walczyć niezależnie od ustawień statusu walki.", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_PVE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_PVP_body", "source": "PvP", "translation": "PvP", "status": "draft"}
+{"id": "String_UI_RIFT_PVP_MODE_TITLE_body", "source": "Combat Status Settings", "translation": "Ustawienia statusu walki", "status": "draft"}
+{"id": "String_UI_RIFT_SKIRMISH_PVP_MODE_DESC_body", "source": "During Spacetime Rift Incursion, siege S-PVP mode will be applied. Only players participating in the siege will be entered into combat. When the incursion ends, the previously set combat status will be applied.", "translation": "Podczas najazdu na Szczelinę czasoprzestrzenną zostanie włączony oblężniczy tryb S-PvP. Do walki zostaną włączeni tylko uczestnicy oblężenia. Po zakończeniu najazdu zostanie przywrócony wcześniej ustawiony status walki.", "status": "draft"}
+{"id": "String_UI_RIFT_SKIRMISH_PVP_MODE_ICON_TEXT_body", "source": "S-PVP", "translation": "S-PVP", "status": "draft"}
+{"id": "String_UI_RIFT_SKIRMISH_PVP_MODE_TITLE_body", "source": "Applying S-PvP Mode", "translation": "Włączanie trybu S-PvP", "status": "draft"}
+{"id": "String_UI_RIFT_USE_NOTICE_POPUP_NO_body", "source": "No", "translation": "Nie", "status": "draft"}
+{"id": "String_UI_RIFT_USE_NOTICE_POPUP_YES_body", "source": "Yes", "translation": "Tak", "status": "draft"}
+{"id": "String_UI_RIFT_USE_NOTICE_POPUP_body", "source": "Travel through the {0} portal?", "translation": "Przejść przez portal {0}?", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_CANDIDATE_DESC_body", "source": "Select 1 player to endorse.<RoleVote_Guide>(Optional)</>", "translation": "Wybierz 1 gracza, którego chcesz wyróżnić.<RoleVote_Guide>(Opcjonalnie)</>", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_CLOSE_BTN_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_INPUT_BTN_body", "source": "Commend", "translation": "Wyróżnij", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_REASON_DESC_body", "source": "Select reason for commending.", "translation": "Wybierz powód wyróżnienia.", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_REMAINING_TIME_body", "source": "Vote Ends in {0}s", "translation": "Koniec głosowania za {0} s", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_RESULT_TITLE_body", "source": "Player Commendation Results", "translation": "Wyniki głosowania na wyróżnienie gracza", "status": "draft"}
+{"id": "String_UI_ROLE_VOTE_TITLE_body", "source": "Commend Player", "translation": "Wyróżnij gracza", "status": "draft"}
+{"id": "String_UI_ROLLING_DICE_BUTTON_DICE_GIVEUP_body", "source": "Forfeit", "translation": "Poddaj się", "status": "draft"}
+{"id": "String_UI_ROLLING_DICE_BUTTON_DICE_body", "source": "Roll Dice", "translation": "Rzuć kostką", "status": "draft"}
+{"id": "String_UI_ROLLING_DICE_NUMBER_body", "source": "Dice Number", "translation": "Wynik rzutu kostką", "status": "draft"}
+{"id": "String_UI_ROLLING_SUCCESSFUL_DICE_body", "source": "Win: {0}", "translation": "Wygrana: {0}", "status": "draft"}
+{"id": "String_UI_SCREEN_MSG_COLLECTION_COMPLETE_TITLE_body", "source": "You have completed a collection.", "translation": "Ukończono kolekcję.", "status": "draft"}
+{"id": "String_UI_SCREEN_MSG_TITLE_GET_body", "source": "Title acquired.", "translation": "Zdobyto tytuł.", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_CLEAR_REWARD_TITLE_body", "source": "Completion Rewards", "translation": "Nagrody za ukończenie", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_ENTER_KEY_CLEAR_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_ENTER_KEY_EXPLORATION_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_ENTER_KEY_NEED_CLEAR_body", "source": "{0} Completion Required", "translation": "Wymagane ukończenie: {0}", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_ENTER_KEY_body", "source": "Entry Materia", "translation": "Materia wejściowa", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_ENTER_REWARD_body", "source": "Basic Rewards", "translation": "Nagrody podstawowe", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_HINT_MESSAGE_NEED_ITEM_body", "source": "Insufficient Item: {0}.", "translation": "Brak przedmiotu: {0}.", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_HINT_MESSAGE_NEED_QUEST_body", "source": "You must complete the prerequisite quest {0}.", "translation": "Najpierw ukończ zadanie wprowadzające {0}.", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_RECOMMENDED_LEVEL_body", "source": "Recommended Level: {0}", "translation": "Zalecany poziom: {0}", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_TOOLTIP_NEED_ITEM_INFO_body", "source": "<ref style=\"insufficient\" attr=\"color\">Unidentified Item</>", "translation": "<ref style=\"insufficient\" attr=\"color\">Niezidentyfikowany przedmiot</>", "status": "draft"}
+{"id": "String_UI_SEALDUNGEON_TOOLTIP_NEED_QUEST_INFO_body", "source": "<ref style=\"insufficient\" attr=\"color\">Uncompleted Quest</>", "translation": "<ref style=\"insufficient\" attr=\"color\">Nieukończone zadanie</>", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_BTN_REWARD_ALL_body", "source": "Collect All Rewards", "translation": "Odbierz wszystkie nagrody", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_BTN_REWARD_COMPLETE_body", "source": "Rewards Received", "translation": "Nagrody odebrane", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_BTN_REWARD_body", "source": "Collect Rewards", "translation": "Odbierz nagrody", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_COUNT_DEFAULT_body", "source": "<SeasonMission_ScoreDefault>{0}</>/{1}", "translation": "<SeasonMission_ScoreDefault>{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_COUNT_body", "source": "<SeasonMission_Score>{0}</>/{1}", "translation": "<SeasonMission_Score>{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_PROGRESS_TITLE_body", "source": "Season Mission Progress", "translation": "Postęp misji sezonowej", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_PROGRESS_TOTAL_TITLE_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_REWARD_POINT_RESET_TIME_body", "source": "Weekly reset in {0}", "translation": "Reset tygodniowy za {0}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_REWARD_POINT_TITLE_body", "source": "Reward Points", "translation": "Punkty nagród", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_REWARD_WEEKLY_NONE_body", "source": "No Rewards Obtainable", "translation": "Brak dostępnych nagród", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_INFO_REWARD_WEEKLY_TITLE_body", "source": "Expected Weekly Rewards", "translation": "Przewidywane nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_LIST_EVENT_body", "source": "Period", "translation": "Okres", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_LIST_SEASON_body", "source": "Season", "translation": "Sezon", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_LIST_WEEKLY_body", "source": "Weekly", "translation": "Co tydzień", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POINT_body", "source": "Points", "translation": "Punkty", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_DESC_body", "source": "Weekly rewards are earned based on total reward points accumulated throughout the week.\nReward points are reset every cycle,\nand the corresponding weekly rewards are given based on the total reward points accumulated at the time of the reset.", "translation": "Nagrody tygodniowe są przyznawane na podstawie łącznej liczby punktów nagród zdobytych w ciągu tygodnia.\nPunkty nagród są resetowane w każdym cyklu,\na odpowiednie nagrody tygodniowe są przyznawane na podstawie łącznej liczby punktów zgromadzonych w chwili resetu.", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_HEADER_GRADE_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_HEADER_POINT_body", "source": "Reward Points", "translation": "Punkty nagród", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_HEADER_REWARD_WEEKLY_body", "source": "Weekly Rewards", "translation": "Nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_POINT_body", "source": "<BossChallenge_Score>{0}</> or above", "translation": "<BossChallenge_Score>{0}</> lub więcej", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_POPUP_REWARD_TITLE_body", "source": "Weekly Rewards", "translation": "Nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_REWARD_LEVEL_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_REWARD_POPUP_CHARACTER_NAME_body", "source": "Character Name: <desc_point>{0}</>", "translation": "Nazwa postaci: <desc_point>{0}</>", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_REWARD_POPUP_ONLY_SERVER_REWARD_body", "source": "Rewards for the server sharing mission can only be claimed by one character.\nClaim the reward with the current character?", "translation": "Nagrodę za misję współdzieloną przez serwer może odebrać tylko jedna postać.\nOdebrać nagrodę tą postacią?", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_REWARD_WEEKLY_TITLE_body", "source": "Season Mission Weekly Rewards", "translation": "Nagrody tygodniowe za misje sezonowe", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_SERVER_GROUP_TAG_body", "source": "Server Sharing", "translation": "Współdzielone przez serwer", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_STEP_body", "source": "Step <SeasonMission_Score>{0}</>/{1}", "translation": "Krok <SeasonMission_Score>{0}</>/{1}", "status": "draft"}
+{"id": "String_UI_SEASONMISSION_TITLE_body", "source": "Season Mission", "translation": "Misja sezonowa", "status": "draft"}
+{"id": "String_UI_SEASON_ABYSS_PVP_RECORD_COUNT_body", "source": "{0} / {1} / {2}", "translation": "{0} / {1} / {2}", "status": "draft"}
+{"id": "String_UI_SEASON_ABYSS_PVP_RECORD_body", "source": "Match History", "translation": "Historia meczów", "status": "draft"}
+{"id": "String_UI_SEASON_ARENA_PARTICIPANTS_SINGLE_body", "source": "1 vs 1", "translation": "1 na 1", "status": "draft"}
+{"id": "String_UI_SEASON_ARENA_PARTICIPANTS_STRATEGY_body", "source": "0.42361", "translation": "0.42361", "status": "draft"}
+{"id": "String_UI_SEASON_ARENA_PARTICIPANTS_TEAM_body", "source": "5 vs 5", "translation": "5 na 5", "status": "draft"}
+{"id": "String_UI_SEASON_ARENA_WINNING_RATE_body", "source": "Win rate", "translation": "Procent zwycięstw", "status": "draft"}
+{"id": "String_UI_SEASON_BOSSCHALLENGE_PICKUP_body", "source": "Increased Rank Points Obtained", "translation": "Więcej zdobytych punktów rankingowych", "status": "draft"}
+{"id": "String_UI_SEASON_BTN_SEASON_CURRENT_body", "source": "Current Season", "translation": "Bieżący sezon", "status": "draft"}
+{"id": "String_UI_SEASON_BTN_SEASON_PREVIOUS_body", "source": "Previous Season", "translation": "Poprzedni sezon", "status": "draft"}
+{"id": "String_UI_SEASON_BTN_SHORTCUT_SEASON_MISSION_body", "source": "Go to Season Mission", "translation": "Przejdź do misji sezonowej", "status": "draft"}
+{"id": "String_UI_SEASON_BTN_SHORTCUT_body", "source": "Go Now", "translation": "Przejdź teraz", "status": "draft"}
+{"id": "String_UI_SEASON_CONTENTS_LIST_EMPTY_DESC_body", "source": "Please wait for the next season.", "translation": "Poczekaj na kolejny sezon.", "status": "draft"}
+{"id": "String_UI_SEASON_CONTENTS_LIST_EMPTY_body", "source": "No season in progress.", "translation": "Brak trwającego sezonu.", "status": "draft"}
+{"id": "String_UI_SEASON_END_TIME_body", "source": "Season resets in {0}", "translation": "Reset sezonu za {0}", "status": "draft"}
+{"id": "String_UI_SEASON_END_TITLE_body", "source": "Season has ended.", "translation": "Sezon dobiegł końca.", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_RANKING_DESC_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_RECORD_RANKING_POINT_body", "source": "Points", "translation": "Punkty", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_RECORD_RANKING_body", "source": "Class Rank", "translation": "Ranking klas", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_REWARD_SEASON_CLASS_body", "source": "Class Rank Rewards", "translation": "Nagrody za miejsce w rankingu klas", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_REWARD_SEASON_CURRENT_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_REWARD_SEASON_GRADE_body", "source": "Grade Rewards", "translation": "Nagrody za rangę", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_REWARD_SEASON_NONE_body", "source": "No obtainable rewards.", "translation": "Brak dostępnych nagród.", "status": "draft"}
+{"id": "String_UI_SEASON_INFO_REWARD_SEASON_PREVIOUS_TITLE_body", "source": "Season Rewards", "translation": "Nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_NONE_COMPLETE_ALL_body", "source": "No season missions available.", "translation": "Brak dostępnych misji sezonowych.", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_PREVIOUS_PROGRESS_body", "source": "Mission Progress", "translation": "Postęp misji", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_PREVIOUS_REWARD_NONE_body", "source": "No obtainable rewards.", "translation": "Brak dostępnych nagród.", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_PREVIOUS_REWARD_body", "source": "Obtainable Rewards", "translation": "Dostępne nagrody", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_PROGRESS_COUNT_DEFAULT_body", "source": "(<SeasonMission_ScoreDefault>{0}</>/{1})", "translation": "(<SeasonMission_ScoreDefault>{0}</>/{1})", "status": "draft"}
+{"id": "String_UI_SEASON_MISSION_PROGRESS_COUNT_body", "source": "(<SeasonMission_Score>{0}</>/{1})", "translation": "(<SeasonMission_Score>{0}</>/{1})", "status": "draft"}
+{"id": "String_UI_SEASON_PARTYCHALLENGE_PICKUP_body", "source": "Boss Appearing", "translation": "Pojawia się boss", "status": "draft"}
+{"id": "String_UI_SEASON_PARTYCHALLENGE_TITLE_NOT_CLEARED_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SEASON_PARTYCHALLENGE_TITLE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_ABYSS_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_ALL_body", "source": "Your reward period is renewed hourly.", "translation": "Okres przyznawania nagród jest odnawiany co godzinę.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_ARENA_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_AWAKEN_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_BOSSCHALLENGE_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_DESC_PARTYCHALLENGE_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_CLASS_RANKING_body", "source": "Class Rank", "translation": "Ranking klas", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_GRADE_ABYSS_body", "source": "Season Tier", "translation": "Ranga sezonowa", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_GRADE_body", "source": "Season Grade", "translation": "Ranga sezonowa", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_RANKING_body", "source": "Rank", "translation": "Miejsce", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_BUFF_body", "source": "Buffs", "translation": "Wzmocnienia", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_GRADE_body", "source": "Season Rewards", "translation": "Nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_RANKING_body", "source": "Class Rank Rewards", "translation": "Nagrody za miejsce w rankingu klas", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_REPEAT_body", "source": "Repeatable Rewards (Level 1)", "translation": "Powtarzalne nagrody (poziom 1)", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_WEEKLY_GRADE_body", "source": "Weekly Rewards", "translation": "Nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_REWARD_WEEKLY_RANKING_body", "source": "Weekly Rewards", "translation": "Nagrody tygodniowe", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_HEADER_SCORE_body", "source": "Total Rank Points", "translation": "Łączna liczba punktów rankingowych", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_RANK_MAX_body", "source": "Rank {0}", "translation": "Miejsce {0}", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_RANK_MIN_TO_MAX_body", "source": "Rank {0}-{1}", "translation": "Miejsce {0}–{1}", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_RANK_PERCENT_MAX_body", "source": "Top {0}%", "translation": "Najlepsze {0}%", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_SCORE_body", "source": "<BossChallenge_Score>{0}</> or above", "translation": "<BossChallenge_Score>{0}</> lub więcej", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TAB_GRADE_INFO_ABYSS_body", "source": "Tier Criteria", "translation": "Kryteria rangi", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TAB_GRADE_INFO_body", "source": "Grade Criteria", "translation": "Kryteria rangi", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TAB_REWARD_GRADE_ABYSS_body", "source": "Rank - All", "translation": "Miejsce — wszystkie", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TAB_REWARD_GRADE_body", "source": "Rank - All", "translation": "Miejsce — wszystkie", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TAB_REWARD_RANKING_body", "source": "Class Rank", "translation": "Ranking klas", "status": "draft"}
+{"id": "String_UI_SEASON_POPUP_REWARD_TITLE_body", "source": "Season Rewards", "translation": "Nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SEASON_REWARD_ACQUIRE_DESC_ABYSS_body", "source": "Tier {0} {1}", "translation": "Ranga {0} {1}", "status": "draft"}
+{"id": "String_UI_SEASON_REWARD_ACQUIRE_DESC_COMMON_body", "source": "{1} Grade {0}", "translation": "Ranga {0} {1}", "status": "draft"}
+{"id": "String_UI_SEASON_REWARD_ACQUIRE_TITLE_body", "source": "Season Rewards Obtained", "translation": "Odebrano nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SEASON_SCHEDULE_DATE_body", "source": "{0}-{1}", "translation": "{0}–{1}", "status": "draft"}
+{"id": "String_UI_SEASON_SEASON_MISSION_LIST_EMPTY_body", "source": "No season mission in progress.", "translation": "Brak trwających misji sezonowych.", "status": "draft"}
+{"id": "String_UI_SEASON_STATUS_END_body", "source": "Ended", "translation": "Zakończony", "status": "draft"}
+{"id": "String_UI_SEASON_STATUS_PROGRESS_body", "source": "Active", "translation": "Aktywny", "status": "draft"}
+{"id": "String_UI_SEASON_TITLE_PREVIOUS_body", "source": "{0} Results", "translation": "Wyniki {0}", "status": "draft"}
+{"id": "String_UI_SEASON_TITLE_body", "source": "Season {0}", "translation": "Sezon {0}", "status": "draft"}
+{"id": "String_UI_SERVER_MAINTENANCE_COUNTDOWN_body", "source": "{0} left until maintenance", "translation": "Do konserwacji pozostało {0}", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_CONGESTION_BUSY_body", "source": "Busy", "translation": "Duże obciążenie", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_CONGESTION_FREE_body", "source": "Normal", "translation": "Normalne", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_CONGESTION_FULL_body", "source": "Full", "translation": "Pełny", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_LIMITED_CHARACTER_CREATION_body", "source": "Creation Restricted", "translation": "Tworzenie postaci ograniczone", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_LIMIT_CHARACTER_CREATION_01_body", "source": "Character creation is restricted on this server. Please choose another server.", "translation": "Tworzenie postaci na tym serwerze jest ograniczone. Wybierz inny serwer.", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_LIMIT_CHARACTER_CREATION_02_body", "source": "Character creation is restricted on this server.", "translation": "Tworzenie postaci na tym serwerze jest ograniczone.", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_NEW_body", "source": "New", "translation": "Nowy", "status": "draft"}
+{"id": "String_UI_SERVER_STATE_RECOMMEND_body", "source": "Recommended", "translation": "Polecany", "status": "draft"}
+{"id": "String_UI_SERVER_TRADE_ITEM_PRICE_LOW_body", "source": "Lowest Sale Price - Server", "translation": "Najniższa cena sprzedaży — serwer", "status": "draft"}
+{"id": "String_UI_SERVER_TRADE_ITEM_SEARCH_FOR_WORLD_EXCHANGE_body", "source": "Search World Exchange", "translation": "Szukaj na Giełdzie Światowej", "status": "draft"}
+{"id": "String_UI_SERVER_TRADE_ITEM_SEARCH_FOR_WORLD_body", "source": "Search World Market", "translation": "Szukaj na rynku światowym", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHARACTER_AVAILABLE_COUNT_body", "source": "Available transfer number: {0}/{1}", "translation": "Dostępna liczba transferów: {0}/{1}", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHARACTER_TEMPNAME_body", "source": "Temporary name", "translation": "Nazwa tymczasowa", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_CHARACTER_CHECK_body", "source": "Please check the character(s) with limited server-based Daeva Passes.", "translation": "Sprawdź postacie z przepustkami Daevy przypisanymi do serwera i objętymi limitem.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_NOTICE_body", "source": "Please check your Daeva Pass(es).", "translation": "Sprawdź swoją przepustkę Daevy.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_SERVER_CHEC_body", "source": "Check purchase limits per Server", "translation": "Sprawdź limity zakupów dla serwera", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_BATTLEPASS_TRANSFER_GUIDE_body", "source": "If the quantity of Daeva Passes owned on the current server and target server exceeds the per-server purchase limit, the character cannot transfer servers.", "translation": "Jeśli liczba przepustek Daevy posiadanych na obecnym i docelowym serwerze przekracza limit zakupów na serwer, postać nie może przenieść się na inny serwer.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CHARACTER_NONE_SELECTED_RESULT_body", "source": "You did not select whether to transfer your subscription information.", "translation": "Nie wybrano, czy przenieść informacje o subskrypcji.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CHARACTER_SELECTED_COUNT_COST_body", "source": "Transfer fee will be calculated based on the number of characters.", "translation": "Opłata za transfer zostanie obliczona na podstawie liczby postaci.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_GUIDE_body", "source": "When selecting the current server, the current server's Insight will overrwrite that of the target server, and the current server will be reset.\nWhen selecting the target server, the target server's Insight will be kept and the current server will be reset.", "translation": "Po wybraniu obecnego serwera Wnikliwość rodzaju z obecnego serwera zastąpi Wnikliwość rodzaju z serwera docelowego, po czym obecny serwer zostanie zresetowany.\nPo wybraniu serwera docelowego zachowana zostanie Wnikliwość rodzaju z serwera docelowego, a obecny serwer zostanie zresetowany.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CLOSE_body", "source": "Close", "translation": "Zamknij", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CONFIRM_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_CURRENT_body", "source": "Current Server Genus Insight", "translation": "Wnikliwość rodzaju — obecny serwer", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_TITLE_body", "source": "Select Genus Insight to be used in the target server.", "translation": "Wybierz Wnikliwość rodzaju do zastosowania na serwerze docelowym.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_POPUP_TRANSFER_body", "source": "Target Server Genus Insight", "translation": "Wnikliwość rodzaju — serwer docelowy", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_RESULT_body", "source": "Select Genus Insight to be used in the target server.", "translation": "Wybierz Wnikliwość rodzaju do zastosowania na serwerze docelowym.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT1_body", "source": "Select Genus Insight", "translation": "Wybierz Wnikliwość rodzaju", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT2_body", "source": "Select Genus Insight", "translation": "Wybierz Wnikliwość rodzaju", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT3_body", "source": "Select Genus Insight", "translation": "Wybierz Wnikliwość rodzaju", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_SELECT_CHANGE_body", "source": "Change Genus Insight", "translation": "Zmień Wnikliwość rodzaju", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_CREATURE_UNSELECTED_body", "source": "No Genus Insight selected.", "translation": "Nie wybrano Wnikliwości rodzaju.", "status": "draft"}
+{"id": "String_UI_SERVER_TRANSFER_CHECK_GOLD_NOTICE_body", "source": "Please check owned Kina (Unbound).", "translation": "Sprawdź posiadane Kina (niepowiązane).", "status": "draft"}

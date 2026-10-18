@@ -4,11 +4,11 @@
 {"id": "Wing_Wing_D_WingA_010_desc", "source": "Forest Spirit Wings", "translation": "Skrzydła ducha lasu", "status": "draft"}
 {"id": "Wing_Wing_D_WingA_011_desc", "source": "Talisra Wings", "translation": "Skrzydła Talisry", "status": "draft"}
 {"id": "Wing_Wing_D_WingA_012_desc", "source": "Black Fragment Wings", "translation": "Skrzydła czarnego odłamka", "status": "draft"}
-{"id": "Wing_Wing_D_WingB_001_desc", "source": "Ultimate Daeva Wings", "translation": "Ostateczne skrzydła Daevy", "status": "draft"}
+{"id": "Wing_Wing_D_WingB_001_desc", "source": "Ultimate Daeva Wings", "translation": "Skrzydła najwyższego Daevy", "status": "draft"}
 {"id": "Wing_Wing_D_WingB_004_desc", "source": "Aullaeu Wings", "translation": "Skrzydła Aullaeu", "status": "draft"}
-{"id": "Wing_Wing_D_WingB_005C_desc", "source": "Intermediate Daeva Wings", "translation": "Średnie skrzydła Daevy", "status": "draft"}
-{"id": "Wing_Wing_D_WingB_006A_desc", "source": "Lesser Daeva Wings", "translation": "Niższe skrzydła Daevy", "status": "draft"}
-{"id": "Wing_Wing_D_WingB_007_desc", "source": "Superior Daeva Wings", "translation": "Wyższe skrzydła Daevy", "status": "draft"}
+{"id": "Wing_Wing_D_WingB_005C_desc", "source": "Intermediate Daeva Wings", "translation": "Skrzydła średniego Daevy", "status": "draft"}
+{"id": "Wing_Wing_D_WingB_006A_desc", "source": "Lesser Daeva Wings", "translation": "Skrzydła mniejszego Daevy", "status": "draft"}
+{"id": "Wing_Wing_D_WingB_007_desc", "source": "Superior Daeva Wings", "translation": "Skrzydła wyższego Daevy", "status": "draft"}
 {"id": "Wing_Wing_D_WingB_014_desc", "source": "Kromede Wings", "translation": "Skrzydła Kromede", "status": "draft"}
 {"id": "Wing_Wing_D_WingB_015_desc", "source": "Blazing Sun Wings", "translation": "Skrzydła płonącego słońca", "status": "draft"}
 {"id": "Wing_Wing_D_WingB_019_desc", "source": "Dark Veil Wings", "translation": "Skrzydła mrocznej zasłony", "status": "draft"}
@@ -29,7 +29,7 @@
 {"id": "Wing_Wing_D_WingD_002_desc", "source": "Spirit Wings", "translation": "Skrzydła ducha", "status": "draft"}
 {"id": "Wing_Wing_D_WingD_003_desc", "source": "Radiant Love Wings", "translation": "Skrzydła promiennej miłości", "status": "draft"}
 {"id": "Wing_Wing_D_WingD_004_desc", "source": "Blue Wave Wings", "translation": "Skrzydła błękitnej fali", "status": "draft"}
-{"id": "Wing_Wing_D_WingD_005_desc", "source": "Springflower Butterfly Wings", "translation": "Motyle skrzydła wiosennych kwiatów", "status": "draft"}
+{"id": "Wing_Wing_D_WingD_005_desc", "source": "Springflower Butterfly Wings", "translation": "Skrzydła wiosennego motyla", "status": "draft"}
 {"id": "Wing_Wing_D_WingD_009_desc", "source": "Violet Butterfly Wings", "translation": "Skrzydła fioletowego motyla", "status": "draft"}
 {"id": "Wing_Wing_D_WingE_001A_desc", "source": "Glorious Wings", "translation": "Chwalebne skrzydła", "status": "draft"}
 {"id": "Wing_Wing_D_WingE_001_desc", "source": "Sealing Wings", "translation": "Skrzydła pieczęci", "status": "draft"}
@@ -37,18 +37,19 @@
 {"id": "Wing_Wing_D_WingF_001_desc", "source": "Fairy's Dream Wings", "translation": "Skrzydła marzenia wróżki", "status": "draft"}
 {"id": "Wing_Wing_D_WingF_002_desc", "source": "Odyle Wings", "translation": "Skrzydła Odyle", "status": "draft"}
 {"id": "Wing_Wing_D_WingF_003_desc", "source": "Blue Butterfly Wings", "translation": "Skrzydła błękitnego motyla", "status": "draft"}
-{"id": "Wing_Wing_D_WingZ_004_desc", "source": "Punk Bunny Bag Wings", "translation": "Skrzydła plecaka punkowego królika", "status": "draft"}
+{"id": "Wing_Wing_D_WingZ_004_desc", "source": "Punk Bunny Bag Wings", "translation": "Skrzydła torby punkowego królika", "status": "draft"}
+{"id": "Wing_Wing_D_WingZ_010_desc", "source": "Spider Wings", "translation": "Skrzydła pająka", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_003A_desc", "source": "Warrior Wings", "translation": "Skrzydła wojownika", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_003_desc", "source": "Brawler Wings", "translation": "Skrzydła awanturnika", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_005_desc", "source": "Nightmare Wings", "translation": "Skrzydła koszmaru", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_010_desc", "source": "Forest Spirit Wings", "translation": "Skrzydła ducha lasu", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_011_desc", "source": "Talisra Wings", "translation": "Skrzydła Talisry", "status": "draft"}
 {"id": "Wing_Wing_L_WingA_012_desc", "source": "Black Fragment Wings", "translation": "Skrzydła czarnego odłamka", "status": "draft"}
-{"id": "Wing_Wing_L_WingB_001A_desc", "source": "Ultimate Daeva Wings", "translation": "Ostateczne skrzydła Daevy", "status": "draft"}
+{"id": "Wing_Wing_L_WingB_001A_desc", "source": "Ultimate Daeva Wings", "translation": "Skrzydła najwyższego Daevy", "status": "draft"}
 {"id": "Wing_Wing_L_WingB_004_desc", "source": "Aullaeu Wings", "translation": "Skrzydła Aullaeu", "status": "draft"}
-{"id": "Wing_Wing_L_WingB_005_desc", "source": "Intermediate Daeva Wings", "translation": "Średnie skrzydła Daevy", "status": "draft"}
-{"id": "Wing_Wing_L_WingB_006_desc", "source": "Lesser Daeva Wings", "translation": "Niższe skrzydła Daevy", "status": "draft"}
-{"id": "Wing_Wing_L_WingB_007C_desc", "source": "Superior Daeva Wings", "translation": "Wyższe skrzydła Daevy", "status": "draft"}
+{"id": "Wing_Wing_L_WingB_005_desc", "source": "Intermediate Daeva Wings", "translation": "Skrzydła średniego Daevy", "status": "draft"}
+{"id": "Wing_Wing_L_WingB_006_desc", "source": "Lesser Daeva Wings", "translation": "Skrzydła mniejszego Daevy", "status": "draft"}
+{"id": "Wing_Wing_L_WingB_007C_desc", "source": "Superior Daeva Wings", "translation": "Skrzydła wyższego Daevy", "status": "draft"}
 {"id": "Wing_Wing_L_WingB_014_desc", "source": "Kromede Wings", "translation": "Skrzydła Kromede", "status": "draft"}
 {"id": "Wing_Wing_L_WingB_015_desc", "source": "Blazing Sun Wings", "translation": "Skrzydła płonącego słońca", "status": "draft"}
 {"id": "Wing_Wing_L_WingB_019_desc", "source": "Dark Veil Wings", "translation": "Skrzydła mrocznej zasłony", "status": "draft"}
@@ -69,7 +70,7 @@
 {"id": "Wing_Wing_L_WingD_002_desc", "source": "Spirit Wings", "translation": "Skrzydła ducha", "status": "draft"}
 {"id": "Wing_Wing_L_WingD_003_desc", "source": "Radiant Love Wings", "translation": "Skrzydła promiennej miłości", "status": "draft"}
 {"id": "Wing_Wing_L_WingD_004_desc", "source": "Blue Wave Wings", "translation": "Skrzydła błękitnej fali", "status": "draft"}
-{"id": "Wing_Wing_L_WingD_005_desc", "source": "Springflower Butterfly Wings", "translation": "Motyle skrzydła wiosennych kwiatów", "status": "draft"}
+{"id": "Wing_Wing_L_WingD_005_desc", "source": "Springflower Butterfly Wings", "translation": "Skrzydła wiosennego motyla", "status": "draft"}
 {"id": "Wing_Wing_L_WingD_009_desc", "source": "Violet Butterfly Wings", "translation": "Skrzydła fioletowego motyla", "status": "draft"}
 {"id": "Wing_Wing_L_WingE_001A_desc", "source": "Glorious Wings", "translation": "Chwalebne skrzydła", "status": "draft"}
 {"id": "Wing_Wing_L_WingE_001_desc", "source": "Sealing Wings", "translation": "Skrzydła pieczęci", "status": "draft"}
@@ -77,4 +78,5 @@
 {"id": "Wing_Wing_L_WingF_001_desc", "source": "Fairy's Dream Wings", "translation": "Skrzydła marzenia wróżki", "status": "draft"}
 {"id": "Wing_Wing_L_WingF_002_desc", "source": "Odyle Wings", "translation": "Skrzydła Odyle", "status": "draft"}
 {"id": "Wing_Wing_L_WingF_003_desc", "source": "Blue Butterfly Wings", "translation": "Skrzydła błękitnego motyla", "status": "draft"}
-{"id": "Wing_Wing_L_WingZ_004_desc", "source": "Punk Bunny Bag Wings", "translation": "Skrzydła plecaka punkowego królika", "status": "draft"}
+{"id": "Wing_Wing_L_WingZ_004_desc", "source": "Punk Bunny Bag Wings", "translation": "Skrzydła torby punkowego królika", "status": "draft"}
+{"id": "Wing_Wing_L_WingZ_010_desc", "source": "Spider Wings", "translation": "Skrzydła pająka", "status": "draft"}

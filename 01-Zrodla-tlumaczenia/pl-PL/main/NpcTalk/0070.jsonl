@@ -1,250 +1,250 @@
-{"id":"NpcTalk_CF8205A26455414AB78DD5BC9EB923CE_cv_text","source":"Hmm... not personally. But I heard some Daeva have shown up at the headquarters to do some research.","translation":"Nie osobiście. Słyszałem jednak, że do siedziby przybyli Daeva, by prowadzić badania.","status":"draft"}
-{"id":"NpcTalk_CF8222252F72414D982326CD32A06EE9_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CF8BAC0C38814F0F93C985139DCBAAA2_cv_text","source":"{pcname}, are you okay?","translation":"{pcname}, wszystko w porządku?","status":"draft"}
-{"id":"NpcTalk_CF91424D91EA4970A024344D93FB5D27_cv_text","source":"Hey, hey... Get it together!","translation":"Hej, hej... Weź się w garść!","status":"draft"}
-{"id":"NpcTalk_CF91E668E93E4E4283E625D32B4CF10C_cv_text","source":"Besides, Phernos has crossed Eltnen before. He should be familiar with its geography.","translation":"Poza tym Phernos był już wcześniej w Eltnen. Powinien dobrze znać jego geografię.","status":"draft"}
-{"id":"NpcTalk_CF96F7EB99344341A05E1E209D13C1B5_cv_text","source":"All right, let's start with... <QK>Hadala's letter</>.","translation":"Dobrze, zacznijmy od... <QK>listu Hadali</>.","status":"draft"}
-{"id":"NpcTalk_CF9A698AF40C4481B87DFAE685DC1D12_cv_text","source":"As a priest of Zumion, you are worthy to draw light from suffering.","translation":"Jako osoba służąca Zumionowi zasługujesz na to, by wydobywać światło z cierpienia.","status":"draft"}
-{"id":"NpcTalk_CF9B2DD80C974772A75C02C36778FA82_cv_text","source":"Keep going since the final rankings aren't known yet, nyerk!","translation":"Działaj dalej, bo ostateczne rankingi nie są jeszcze znane, nyerk!","status":"draft"}
-{"id":"NpcTalk_CF9E781B85514F0CBA0ABFC70F35F3CD_cv_text","source":"To be defeated by such lowly creatures...","translation":"Pokonały mnie takie nędzne stworzenia...","status":"draft"}
-{"id":"NpcTalk_CFA147C8D10D4229A8D8DC2F1C063C7C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFA19563948D4B3A97D3AE3485C72F7C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFA3E57A18FC484BB055F3AA4840DB96_cv_text","source":"How tiresome. Step aside, will you? I'm a busy person.","translation":"Co za nuda. Zejdź mi z drogi, dobrze? Jestem zajętą osobą.","status":"draft"}
-{"id":"NpcTalk_CFA52FC7F426413A99FAB77694545161_cv_text","source":"Unfortunately, Meslamtaeda's blood reemerged as well. We're doing what we can to manage it.","translation":"Niestety, krew Meslamtaedy znów się ujawniła. Robimy, co w naszej mocy, by nad nią zapanować.","status":"draft"}
-{"id":"NpcTalk_CFA96EB800364869BABE50D7EFE4C006_cv_text","source":"Ah, now it makes sense. No wonder the noble energy that once filled me is breaking down.","translation":"Ach, teraz rozumiem. Nic dziwnego, że szlachetna energia, która niegdyś mnie wypełniała, słabnie.","status":"draft"}
-{"id":"NpcTalk_CFAB32422D9B41DAA84790CAF6604925_cv_text","source":"Atone through your suffering!","translation":"Odpokutuj za swoje cierpienia!","status":"draft"}
-{"id":"NpcTalk_CFAE779306D84581B5BAA9E0886DA333_cv_text","source":"How do we operate this? Try reading the instruction manual over there.","translation":"Jak mamy to obsługiwać? Spróbuj przeczytać tamtą instrukcję.","status":"draft"}
-{"id":"NpcTalk_CFAF9BF9F0BE404C8282899E6A6397B8_cv_text","source":"Here you go. Now hurry up and guide us.","translation":"Proszę. A teraz pospieszcie się i poprowadźcie nas.","status":"draft"}
-{"id":"NpcTalk_CFAFEEDF4E114C2C8C33839CD039B720_cv_text","source":"Yeah, yeah! I'll take it straight to Nemon.","translation":"Tak, tak! Zaniosę to prosto do Nemon.","status":"draft"}
-{"id":"NpcTalk_CFB79F4EA74E433393097E19F3CFEE15_cv_text","source":"Hurry!","translation":"Szybko!","status":"draft"}
-{"id":"NpcTalk_CFB86E8BB5FF44F49482A33AF6DEFD37_cv_text","source":"Was the storage locked up properly?","translation":"Czy magazyn został należycie zamknięty?","status":"draft"}
-{"id":"NpcTalk_CFBA6D0228324559AB5FC3F339929D7D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFBDD6CFA54A4F5BAA53D1500A7EFFFD_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFC69B7C240F40DC908D5F0C9007935D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFC8F8F1985848DDB2D13A41DC0C421B_cv_text","source":"You'll probably find her in the captain's office. A whole bunch of requests came in, so she'll be going through them all.","translation":"Pewnie znajdziesz ją w gabinecie kapitana. Napłynęło mnóstwo próśb, więc będzie je wszystkie przeglądać.","status":"draft"}
-{"id":"NpcTalk_CFC9CC8E525A48429830E1A056087D47_cv_text","source":"Let's go.","translation":"Chodźmy.","status":"draft"}
-{"id":"NpcTalk_CFCAA521F7724263A1289DC6FF5E3EE6_cv_text","source":"Subjugation has ended. You will leave the battlefield soon.","translation":"Pacyfikacja zakończona. Wkrótce opuścisz pole bitwy.","status":"draft"}
-{"id":"NpcTalk_CFCF5739ABF544CE81FF5B0820D2EFC4_cv_text","source":"I'm surprised a place like this was kept hidden.","translation":"Dziwi mnie, że udało się ukryć takie miejsce.","status":"draft"}
-{"id":"NpcTalk_CFD0F1D7728D412FAFCA854897146840_cv_text","source":"Be swallowed by the tide!","translation":"Niech pochłonie cię przypływ!","status":"draft"}
-{"id":"NpcTalk_CFD5B111EB5E45CAA804E776C2581251_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_CFD7E2756DB6413EA70ADA9EE3977483_cv_text","source":"I'm Nania. I've brought some Odyle powder, will this help?","translation":"Jestem Nania. Przyniosłam trochę proszku Odyle. Czy się przyda?","status":"draft"}
-{"id":"NpcTalk_CFDC0A78DECF4F69ADDCAA2498086BA6_cv_text","source":"They offered me a job collecting biological samples and Guardite specimens from the Contaminated Sanctum.","translation":"Zaproponowali mi pracę przy zbieraniu próbek biologicznych i okazów Guardite ze Skażonego Sanktuarium.","status":"draft"}
-{"id":"NpcTalk_CFDC5526B5364A5FB4E2CAA79DB4CF8C_chat_title","source":"Petty Officer","translation":"Podoficer","status":"draft"}
-{"id":"NpcTalk_CFDC5526B5364A5FB4E2CAA79DB4CF8C_cv_text","source":"You can feel the energy of Odyle? No wonder you look much less unstable.","translation":"Czujesz energię Odyle? Nic dziwnego, że wyglądasz na znacznie bardziej stabilną osobę.","status":"draft"}
-{"id":"NpcTalk_CFE1C18974D94B48BEC7250038C30C70_cv_text","source":"I happen to have a favor to ask.","translation":"Mam do ciebie pewną prośbę.","status":"draft"}
-{"id":"NpcTalk_CFE4776607134285BA19E2B1493B1A57_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFEA04F0A71142548C91FFB8DDE4CF09_cv_text","source":"This essence is like an Elim's heart. It's still bright with warm light...","translation":"Ta esencja jest niczym serce Elima. Wciąż rozświetla ją ciepły blask...","status":"draft"}
-{"id":"NpcTalk_CFEECCE2D5654970864492E2C7BE9923_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFF0C2881E0F4144856A0BB291F8317A_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFF4D1FE033B4E41BA4765080A7C4292_chat_title","source":"Predator Saraswati","translation":"Drapieżniczka Saraswati","status":"draft"}
-{"id":"NpcTalk_CFF4D1FE033B4E41BA4765080A7C4292_cv_text","source":"Gwehk... hungry...kkuuegh...st...st...arving...","translation":"Gwehk... głodny... kkuuegh... u... umieram z głodu...","status":"draft"}
-{"id":"NpcTalk_CFF607AE82B6484CA82A53DB3BFABC89_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_CFF9654599CA4AB39A4B18EDC3626242_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D001223E34E24C49B86E871351E45691_cv_text","source":"I must be devoted... for the Fire Temple!","translation":"Muszę dochować wierności... Świątyni Ognia!","status":"draft"}
-{"id":"NpcTalk_D00133EF4980495F9F5DD7CF528814E6_cv_text","source":"Menrik? Help!","translation":"Menrik? Pomocy!","status":"draft"}
-{"id":"NpcTalk_D004F4417CFA42088F0D1C7A4A325ED9_cv_text","source":"Your soul gets sealed inside Fafnite, and your body gets used as Dragon Lord Fafnir's weapon like those servants!","translation":"Twoja dusza zostanie zamknięta wewnątrz Fafnite, a ciało posłuży za broń Smoczemu Władcy Fafnirowi, tak jak ciała tamtych sług!","status":"draft"}
-{"id":"NpcTalk_D005D0C8F661489AB18EEDB8387E8989_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D008FDDA9C1645B29212368CC2519CE9_cv_text","source":"Go back to the Forward Base and get treated quickly. We'll find the rest.","translation":"Wróć do Bazy Wysuniętej i jak najszybciej poddaj się leczeniu. My odnajdziemy pozostałych.","status":"draft"}
-{"id":"NpcTalk_D00AC727C89444CBBE9F005E78B656E1_cv_text","source":"The relic is radiating light, and seems to have never been touched by anyone.","translation":"Relikt emanuje światłem i wygląda na nietknięty.","status":"draft"}
-{"id":"NpcTalk_D00C2EC166AA4F1EADFE1622166D64C7_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D00C3D37A521475AA89F15B5C698AD77_cv_text","source":"Since it was an illusion relic, it should still function as a vessel. If we can imbue it with the power of illusion, we should be able to restore it to some extent.","translation":"Skoro to relikt iluzji, powinien nadal służyć jako naczynie. Jeśli napełnimy go mocą iluzji, być może uda nam się go częściowo odtworzyć.","status":"draft"}
-{"id":"NpcTalk_D0117D9E9C454FE0B2713B37FB11810B_cv_text","source":"*cough*","translation":"*kaszel*","status":"draft"}
-{"id":"NpcTalk_D0129646CC39427E8C45BC601B7DFB87_cv_text","source":"Transport routes for Odyle and supplies were completely blocked off by the Dredgion crash.","translation":"Katastrofa Dredgionu całkowicie zablokowała szlaki transportowe Odyle i zaopatrzenia.","status":"draft"}
-{"id":"NpcTalk_D013510046624E428E4FD9E21C283227_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D018E078907948F99336416C9227079D_cv_text","source":"Good to hear. I'll transform you into Mau, then. With Black Claw weapons in your paws, you should be able to enter the village with little trouble.","translation":"Dobrze. W takim razie przemienię cię w Mau. Z bronią Czarnego Pazura w łapach bez trudu wejdziesz do wioski.","status":"draft"}
-{"id":"NpcTalk_D01AA1CB044A438B8C74AD61069138F7_cv_text","source":"It's all my fault... My family...","translation":"To wszystko moja wina... Moja rodzina...","status":"draft"}
-{"id":"NpcTalk_D01AD394F9124946AB18C625C3BDE44D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D01DE8939CFD41C7B4A0FDD53D0ADEFB_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D02602FD20EC417AB2D312C83B835125_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D02A5926A88C40A99C9A7897D00402A4_cv_text","source":"Learned the Balaur language.","translation":"Opanowano język Balaur.","status":"draft"}
-{"id":"NpcTalk_D02A870B536947869EFF7857E573DB21_cv_text","source":"Yes, this should be enough.","translation":"Tak, to powinno wystarczyć.","status":"draft"}
-{"id":"NpcTalk_D02F5C00AFFF45A79D56849015CE7A36_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D03267333E0C4143B8BEB0ED1AF788D5_cv_text","source":"Well, \"Babe\". You didn't just change your name, you committed crimes.","translation":"Samo nowe imię to nie wszystko, „Babe”. Na koncie masz też przestępstwa.","status":"draft"}
-{"id":"NpcTalk_D03287CC84BD431496AD09DC0631B1B3_cv_text","source":"Hell, I'm not even convinced he's still alive. But what other options are there?","translation":"Do licha, nawet nie wiem, czy on jeszcze żyje. Ale jakie mamy inne wyjście?","status":"draft"}
-{"id":"NpcTalk_D03B73CEBE1240B88A2A5FF42AEAE321_cv_text","source":"How did it look, kru? Can you handle it?","translation":"Jak to wyglądało, kru? Dasz sobie z tym radę?","status":"draft"}
-{"id":"NpcTalk_D03F13F2C2ED43FCB056EF294823DCDB_cv_text","source":"Then we should be gathering head fragments. They're likely buried in the dirt or among nearby ruins.","translation":"Powinniśmy więc zebrać fragmenty głów. Pewnie są zakopane w ziemi albo wśród pobliskich ruin.","status":"draft"}
-{"id":"NpcTalk_D03F8EA5FA9140F48E8AFBB39896FAB4_cv_text","source":"...Here at... the dumpsite... Send... help...","translation":"...Tutaj... na wysypisku... Przyślijcie... pomoc...","status":"draft"}
-{"id":"NpcTalk_D040E0DA5C414137AF0B23443054B30D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0474C36649140EE896F707D90453F93_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D04A471DCEC54D779CAAFA4751243D97_cv_text","source":"All right, we can talk in detail once we get there. Let's clean up here then get back.","translation":"Dobrze, porozmawiamy szczegółowo, gdy dotrzemy na miejsce. Posprzątajmy tutaj i wracajmy.","status":"draft"}
-{"id":"NpcTalk_D04B8D05A37846AF8BD2BAABD56DA22B_cv_text","source":"We have been using the very same purification devices to contain the contamination, but they've been broken.","translation":"Używaliśmy tych samych urządzeń oczyszczających do powstrzymywania skażenia, ale zostały uszkodzone.","status":"draft"}
-{"id":"NpcTalk_D04CA5F895F54F6F8CEE6164F6D879D9_cv_text","source":"How... hollow.","translation":"Jak... pusto.","status":"draft"}
-{"id":"NpcTalk_D04E53058E6447158798E01D7413E025_cv_text","source":"We won't let you leave alive.","translation":"Nie pozwolimy ci odejść żywym.","status":"draft"}
-{"id":"NpcTalk_D04E5A43AC794492A3BF9BA8AAC669BE_cv_text","source":"I am a holy being, born from tranquility.","translation":"Jestem świętą istotą zrodzoną ze spokoju.","status":"draft"}
-{"id":"NpcTalk_D04E9FA0FE3B490DB57D5405E8DC4A4B_cv_text","source":"Run! This is the only chance we'll get!","translation":"Uciekaj! Druga taka okazja się nie trafi!","status":"draft"}
-{"id":"NpcTalk_D0518ED5200B4386B27B637FFABBF021_cv_text","source":"This area is exactly where the Dragon Lord's blood first landed, so the toxic aura here is strong. Without using a purifying brazier, it will be difficult to reach the altar.","translation":"To właśnie tutaj po raz pierwszy spadła krew Smoczego Władcy, dlatego trująca aura jest tu silna. Bez użycia oczyszczającego paleniska trudno będzie dotrzeć do ołtarza.","status":"draft"}
-{"id":"NpcTalk_D0548B85E5674B099C76E6CB21BF1059_cv_text","source":"Haha, I'm glad I could help.","translation":"Haha, cieszę się, że mogłem pomóc.","status":"draft"}
-{"id":"NpcTalk_D062C7D11B8D422590849A9733069B32_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0630A7AB79449EAA013D8E3BD097E84_cv_text","source":"Hehe. The spiders are all gone now, Lulu.","translation":"Hehe. Pająki już zniknęły, Lulu.","status":"draft"}
-{"id":"NpcTalk_D0659CED02634326A7277E1B0D04106C_cv_text","source":"Argh!","translation":"Ach!","status":"draft"}
-{"id":"NpcTalk_D0686693A02E43E8BDD9F134B4B0E5C2_cv_text","source":"Speak of the devils... They must be keeping an eye out for surviving Daeva.","translation":"A nie mówiłem... Muszą wypatrywać ocalałych Daevów.","status":"draft"}
-{"id":"NpcTalk_D069332A320D42B6A90ECA4EDBD3B5A2_cv_text","source":"The door to the underground storage has opened.","translation":"Otwarto drzwi do podziemnego magazynu.","status":"draft"}
-{"id":"NpcTalk_D06A782332124560BE125E8E5E08096E_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D06EDDF7FAD44B96AAFEFD151BD51B5E_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0717F5341BF438EBD349A36A3FCAD3B_cv_text","source":"W-Who are you?! What have you done here?!","translation":"K-kim jesteście?! Co tu zrobiliście?!","status":"draft"}
-{"id":"NpcTalk_D0736C050B2F4400B57A5639B8690AA9_cv_text","source":"Phew... That was close, nyerk.","translation":"Uff... Było blisko, nyerk.","status":"draft"}
-{"id":"NpcTalk_D074346324964CBA93CBD6CC19E27831_cv_text","source":"Then we'll take this and...","translation":"To weźmiemy to i...","status":"draft"}
-{"id":"NpcTalk_D0745D1DE88D4EF1888ABA9976C89A8C_cv_text","source":"An ancient book with illegible content.","translation":"Starożytna księga o nieczytelnej treści.","status":"draft"}
-{"id":"NpcTalk_D0792BF7F74F45DE8BEEDDB97116750F_cv_text","source":"How arrogant... to come here on your own!","translation":"Jak śmiesz... przychodzić tu w pojedynkę!","status":"draft"}
-{"id":"NpcTalk_D07E0AC65DC04A43A7016410A05037EB_cv_text","source":"I guess we have no choice. {pcname}, let's head to the far end of the cemetery. Please help clear the area as we search.","translation":"Chyba nie mamy wyboru. {pcname}, chodźmy na drugi koniec cmentarza. Pomóż nam oczyścić teren podczas poszukiwań.","status":"draft"}
-{"id":"NpcTalk_D07E69DF067C4DAABFB3D48E06B2D700_cv_text","source":"All right, all right... Phew!","translation":"Dobrze, dobrze... Uff!","status":"draft"}
-{"id":"NpcTalk_D080B647EC6D4F3AAC52DABB9E19E4AC_cv_text","source":"Starting again from scratch isn't a bad idea, nyerk. Here's the signed agreement. I'll ask Xiao for more details.","translation":"Zaczynanie od zera nie jest złym pomysłem, nyerk. Oto podpisana umowa. Zapytam Xiao o szczegóły.","status":"draft"}
-{"id":"NpcTalk_D084B1F8CFF04BC6B05F59AE259B8F5B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0859A2830DF4ADF9BDF9CBAD79A3EE6_cv_text","source":"Yes, and that bracelet is one such Illusion Relic. With the help of the apparitions, we should have little issue finding it.","translation":"Tak, ta bransoleta to właśnie jeden z Reliktów Iluzji. Z pomocą zjaw bez trudu ją odnajdziemy.","status":"draft"}
-{"id":"NpcTalk_D08803DCB6834F9499DBC8D0D7261642_cv_text","source":"Surely you cannot be serious. This is suicide!","translation":"Chyba nie mówisz poważnie. To samobójstwo!","status":"draft"}
-{"id":"NpcTalk_D0881A4291844CA797128C68F71DD596_cv_text","source":"Huh? Do I know you? Need any help?","translation":"Co? Znamy się? W czymś pomóc?","status":"draft"}
-{"id":"NpcTalk_D0881D9E164F4E66AAFBC747F5B34E33_cv_text","source":"Clean clothes and towels are inside.","translation":"Czyste ubrania i ręczniki są w środku.","status":"draft"}
-{"id":"NpcTalk_D08B1E8929B64AC9B4C8B46B1D56A502_chat_title","source":"Test","translation":"Test","status":"draft"}
-{"id":"NpcTalk_D08B1E8929B64AC9B4C8B46B1D56A502_cv_text","source":"Hey... you're a Daeva, right? Shh, come this way...","translation":"Hej... jesteś Daeva, prawda? Cicho, chodź tędy...","status":"draft"}
-{"id":"NpcTalk_D08ED395AED64F05909B1C68B74BC332_cv_text","source":"You fool... How can I hug you when you're not even here...?","translation":"Co za głupota... Jak mam cię objąć, skoro nawet cię tu nie ma?","status":"draft"}
-{"id":"NpcTalk_D09196EA218241A0B6EFE71587FBED3A_chat_title","source":"Shinie","translation":"Shinie","status":"draft"}
-{"id":"NpcTalk_D09196EA218241A0B6EFE71587FBED3A_cv_text","source":"CollectItem Test Check Complete!","translation":"Test zbierania przedmiotu: ukończony!","status":"draft"}
-{"id":"NpcTalk_D0955AA582A3413498C291A6A995F240_cv_text","source":"What are you after?","translation":"Czego szukasz?","status":"draft"}
-{"id":"NpcTalk_D0988C49A7B14364A422CA8AE264EB77_cv_text","source":"Honestly, Skuld... But I don't hate it. Urd?","translation":"Szczerze mówiąc, Skuld... Ale nie mam nic przeciwko. A ty, Urd?","status":"draft"}
-{"id":"NpcTalk_D0998C069EC34F3EAC162F23BE3BDAB0_cv_text","source":"Ah, it seems we've stayed here too long! They've noticed us.","translation":"Ach, chyba siedzimy tu za długo! Zauważyli nas.","status":"draft"}
-{"id":"NpcTalk_D09E22C46C964D4689BF054C7BB3D320_cv_text","source":"So impure.","translation":"Jakże nieczyste.","status":"draft"}
-{"id":"NpcTalk_D09F8B3D388A4A01A4388E2D68EA8AE2_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0A010D9EFA24797AE54473A23D18BF3_cv_text","source":"We must get our hands on Meslamtaeda's blood.","translation":"Musimy zdobyć krew Meslamtaedy.","status":"draft"}
-{"id":"NpcTalk_D0A95674154B4D0194134E7DD0B18FBC_cv_text","source":"They believed, without a doubt, that the Bulwark was Atreia's last hope.","translation":"Bez wątpienia wierzyli, że Wał jest ostatnią nadzieją Atrei.","status":"draft"}
-{"id":"NpcTalk_D0A98DEB5CA442EB93312505656C8DD0_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_D0AD7B847C2E4FCF8597B51222BFDA4B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0B087DA6C6A41F7841F4EE512E714B3_cv_text","source":"I knew you'd follow me, kru! We're basically comrades now!\nI think it's about time we introduce ourselves!","translation":"Wiedziałem, że za mną pójdziesz, kru! W zasadzie jesteśmy już towarzyszami!\nChyba pora się sobie przedstawić!","status":"draft"}
-{"id":"NpcTalk_D0B0CB98E2A14A1AB3FEB22DBDA52730_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0B45A5B7F374BA2827B14FAB53727E1_cv_text","source":"Welcome!","translation":"Witaj!","status":"draft"}
-{"id":"NpcTalk_D0B8D0AC75DF4A7A951F5678A5D4DBA5_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0B9AF6D44454C8A92AB032228743322_cv_text","source":"Was this a ritual or an exorcism?","translation":"To był rytuał czy egzorcyzm?","status":"draft"}
-{"id":"NpcTalk_D0BC75DF3B2348A8AF674FBDE650772F_cv_text","source":"There shouldn't be anyone slacking off, right?","translation":"Nikt chyba się nie obija, prawda?","status":"draft"}
-{"id":"NpcTalk_D0BFB386BF5449C89F1EEA563CC2972C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0BFCCB68CCD4B89A0EBF5843EA3EE88_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_D0C014B0924B4AF3AFE14BB5E7C78174_cv_text","source":"The place doesn't have a name, but it's quiet and peaceful. Meet me there.","translation":"To miejsce nie ma nazwy, ale jest ciche i spokojne. Spotkajmy się tam.","status":"draft"}
-{"id":"NpcTalk_D0C3C5CAF9494690A8692E38BDA06181_cv_text","source":"There is nothing that could be a clue.","translation":"Nie ma tu niczego, co mogłoby być wskazówką.","status":"draft"}
-{"id":"NpcTalk_D0C440CA42724B3C90BE126B5D87D49D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0CABBDCAB664B0F8819F38638D19250_cv_text","source":"The experiment produced some unidentified contaminant this time. On top of that, it seems to have leaked into the nearby lake.","translation":"Tym razem eksperyment wytworzył nieznaną substancję skażającą. Co więcej, chyba przedostała się do pobliskiego jeziora.","status":"draft"}
-{"id":"NpcTalk_D0CB030848A048F08A0D3D61AD583999_cv_text","source":"This is the rift.","translation":"To szczelina.","status":"draft"}
-{"id":"NpcTalk_D0CB05B647DB4D55B949EEA6EE8EB207_cv_text","source":"{pcname}. If you promise to stop Phernos if he does anything reckless, I'll offer what help I can.","translation":"{pcname}, jeśli obiecasz powstrzymać Phernosa, gdyby zrobił coś nierozważnego, udzielę ci wszelkiej możliwej pomocy.","status":"draft"}
-{"id":"NpcTalk_D0CBB675512346ED85827D2C7EAA2814_cv_text","source":"Are they devoid of all humanity? To kill so many all for the sake of keeping their little hidey hole a secret...","translation":"Czy oni są pozbawieni człowieczeństwa? Zabijać tylu ludzi tylko po to, by utrzymać w tajemnicy swoją kryjówkę...","status":"draft"}
-{"id":"NpcTalk_D0CDD62ECD844C3BB23F194F678BCD9C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0D1B2AB689F4A14B50C008D90B53CC4_cv_text","source":"I'll return to the Barrier Tower. May the Illusion's Favor be with you.","translation":"Wracam do Wieży Bariery. Niech sprzyja ci Łaska Iluzji.","status":"draft"}
-{"id":"NpcTalk_D0D2A8BED14B476197102AFB7F9C257F_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0D88DDBBD5740F5834D7CCCC67D4BF4_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0DDAB57D86F4553AA613BBEDDF9BE66_cv_text","source":"Don't even dream about leaving here alive!","translation":"Nawet nie marz o tym, że ujdziesz stąd z życiem!","status":"draft"}
-{"id":"NpcTalk_D0E36D8DFEA14C6FAF57D9E2BB3C764C_cv_text","source":"The <QK>Impetusium</> is protected by a barrier erected through the sacrifice of Zikel and a hundred of his elite Archons. No one may pass through a barrier created through a Blood Oath.","translation":"<QK>Impetusium</> chroni bariera wzniesiona dzięki ofierze Zikela i setki jego elitarnych Archontów. Nikt nie może przejść przez barierę utworzoną na mocy Krwawej Przysięgi.","status":"draft"}
-{"id":"NpcTalk_D0E8FC8F15D24BC980B2682CA79B4830_cv_text","source":"If I do develop a product with it, I'll give you a discount, nyerk. Can you bring me the monsters' clothing and weapons, nyerk?","translation":"Jeśli uda mi się opracować z tego produkt, dostaniesz zniżkę, nyerk. Przyniesiesz mi ubrania i broń potworów, nyerk?","status":"draft"}
-{"id":"NpcTalk_D0EB2FB7BB9249DF903BA51744A5637C_cv_text","source":"You'll be able to get the poison sacs by catching Withered Branch Spiders.","translation":"Worki z trucizną zdobędziesz, łapiąc Pająki Uschniętych Gałęzi.","status":"draft"}
-{"id":"NpcTalk_D0EB412605A045ADB8B5ABB9AF7D881B_cv_text","source":"Welcome back. So, this is Spirit Fruit?","translation":"Witaj z powrotem. A więc to Owoc Ducha?","status":"draft"}
-{"id":"NpcTalk_D0F06766B1114B368680A6A561894D61_cv_text","source":"That's why he accepted the Dragon Lord Ishtar. Ridiculous! But in doing so, we started losing our Aullaeu culture and traditions.","translation":"Dlatego zaakceptował Smoczego Władcę Ishtar. Niedorzeczne! Przez to zaczęliśmy jednak tracić kulturę i tradycje Aullaeu.","status":"draft"}
-{"id":"NpcTalk_D0F53F8F61CB4CA98C07100AC223A098_cv_text","source":"I thought there'd be treasure or at least a bunch of Kina. But no, it's just this old, worn book!","translation":"Myślałem, że znajdę skarb albo chociaż trochę Kiny. A tu tylko ta stara, zniszczona księga!","status":"draft"}
-{"id":"NpcTalk_D0FCD571A5D54B5CBDB6653AD1599BEE_chat_title","source":"Sven","translation":"Sven","status":"draft"}
-{"id":"NpcTalk_D0FCD571A5D54B5CBDB6653AD1599BEE_cv_text","source":"Hey... you're a Daeva, right? Shh, come this way...","translation":"Hej... jesteś Daeva, prawda? Cicho, chodź tędy...","status":"draft"}
-{"id":"NpcTalk_D0FEC98863444DDE93508BF6953E9B92_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D0FEC9E1F81C404794EB5024A6FD92A9_cv_text","source":"Now, everyone get some rest.","translation":"No dobrze, wszyscy odpocznijcie.","status":"draft"}
-{"id":"NpcTalk_D0FF05F3D95440DD8DEBFADEF15E1C82_cv_text","source":"This doesn't bode well. Quickly, let's go to the second prison!","translation":"To zły znak. Szybko, chodźmy do drugiego więzienia!","status":"draft"}
-{"id":"NpcTalk_D10698AF726A4F8BA069025DE9E8B105_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D109175D1932426691BB06EEE88D8050_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_D116FEF0D9FA4FB6928425EE07F8AA17_cv_text","source":"Where do you think you're going?","translation":"Dokąd się wybierasz?","status":"draft"}
-{"id":"NpcTalk_D11B6B1C0D6A409A842B6269B2460842_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D11C2135B81A4790B4D1F114E73414E6_cv_text","source":"I'm excited!","translation":"Ale się cieszę!","status":"draft"}
-{"id":"NpcTalk_D11D682938D14E36AE144E7E498D3A6D_cv_text","source":"You're leaving Altgard?","translation":"Wyjeżdżasz z Altgard?","status":"draft"}
-{"id":"NpcTalk_D11E121F306B489CB17FA92F358BA339_cv_text","source":"Haha, you're a tough one, eh?","translation":"Haha, nieźle się trzymasz, co?","status":"draft"}
-{"id":"NpcTalk_D125A34A4D594A449F1DECF62098A8B3_cv_text","source":"Obtained Odyle Jelly to deliver to the Quai Merchants.","translation":"Zdobyto galaretkę Odyle do dostarczenia Kupcom Quai.","status":"draft"}
-{"id":"NpcTalk_D12701BE3B6D43C48D373775C06912B4_cv_text","source":"Found an old pendant with a portrait inside.","translation":"Znaleziono stary medalion z portretem w środku.","status":"draft"}
-{"id":"NpcTalk_D127C279814D4C0D82CEEDC2D2CBD959_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D12824B907B44E3B8D9AA8598C3A9157_chat_title","source":"Shinie","translation":"Shinie","status":"draft"}
-{"id":"NpcTalk_D12824B907B44E3B8D9AA8598C3A9157_cv_text","source":"Oh, you actually crafted Steel Ingot!","translation":"Naprawdę udało ci się wykonać sztabkę stali!","status":"draft"}
-{"id":"NpcTalk_D128E4281ED4426FB204DF18C0184054_cv_text","source":"Creation isn't easy.","translation":"Tworzenie nie jest łatwe.","status":"draft"}
-{"id":"NpcTalk_D12ED16C550045D4BAD906B9C8AB3DA4_cv_text","source":"I'll have to postpone the research while I work out what to do next.","translation":"Muszę odłożyć badania, dopóki nie wymyślę, co dalej.","status":"draft"}
-{"id":"NpcTalk_D132A240E2B144A49F43805E6BB8B713_cv_text","source":"To have killed a one-time comrade... with my own hands...","translation":"Zabić dawnego towarzysza... własnymi rękami...","status":"draft"}
-{"id":"NpcTalk_D1347B51A0C8499CA1BA6B7D550B38FD_cv_text","source":"If only we could have met before losing so many comrades. They would have been so happy about no longer needing to deal with the dust...","translation":"Gdybyśmy spotkali się, zanim straciliśmy tylu towarzyszy. Tak bardzo ucieszyliby się, że nie muszą już zmagać się z pyłem...","status":"draft"}
-{"id":"NpcTalk_D1350D09407145478D20F2161569D87B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1372CE53A3B4FA2BE73A6FBBBCCD21D_cv_text","source":"It was frozen completely solid... I thought just a little fire would be fine... *cough*","translation":"Całkiem zamarzło... Myślałem, że wystarczy mały ogień... *kaszel*","status":"draft"}
-{"id":"NpcTalk_D13B5C0FC9E540EE89F4B006D02E2472_cv_text","source":"You might also be able to glean some things from the Balaur themselves. You should talk with Ulgorn before you leave, though.","translation":"Możesz też dowiedzieć się czegoś od samych Balaur. Zanim odejdziesz, porozmawiaj jednak z Ulgornem.","status":"draft"}
-{"id":"NpcTalk_D13D2CB4F4B948D59567296CF4A1BF97_cv_text","source":"Avenge him!","translation":"Pomścij go!","status":"draft"}
-{"id":"NpcTalk_D1411A854303480184AFFDD76DEFE83B_cv_text","source":"If we such a surplus of supplies, I'd rather we distribute them to the legionnaires instead of giving them away.","translation":"Gdybyśmy mieli nadmiar zapasów, wolałbym rozdać je legionistom, zamiast oddawać je innym.","status":"draft"}
-{"id":"NpcTalk_D14764E3D7054FF4A23C4BAF00979719_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1579E6CC7C946F6961D0A21C68695A2_cv_text","source":"Why ask about something like that? And what makes you think I'll tell you, kru?","translation":"Po co o to pytasz? I skąd pomysł, że ci odpowiem, kru?","status":"draft"}
-{"id":"NpcTalk_D1588AC2B8D74AEE9170CB6A276F2911_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D158DE7F45E849D3BCA3E9646844230D_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D15FC3AFC7304D89BC4E10ABF2FE7B00_cv_text","source":"I'd rather not go in. I'll wait here and keep an eye on the surroundings.","translation":"Nie chcę tam wchodzić. Poczekam tu i przypilnuję okolicy.","status":"draft"}
-{"id":"NpcTalk_D161AC45DD464A30A87BEC24957B37D1_cv_text","source":"Ugh, you stinking rats! I'm the chieftain of this tribe!","translation":"Ugh, śmierdzące szczury! Jestem wodzem tego plemienia!","status":"draft"}
-{"id":"NpcTalk_D1630F268D434429A38CB44E9E9A1DCB_cv_text","source":"All right, it's open. Let's join up with the others quickly.","translation":"Dobrze, otwarte. Szybko dołączmy do pozostałych!","status":"draft"}
-{"id":"NpcTalk_D1650596FB4B4351919498B34608533F_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_D16CCFB3DB1E446DA14B9A61E1F4D83B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D171A8409CE0432E8ACEAE8A231BF3AB_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D172A57AEAA74B8AA8CBA0F5E83D8E10_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D175726FD7CC4CFD83B1C68A3416BC0E_cv_text","source":"He said I did well... He congratulated me on ending my cursed connection to Gerod.","translation":"Powiedział, że dobrze się spisałem... Pogratulował mi zerwania przeklętej więzi z Gerodem.","status":"draft"}
-{"id":"NpcTalk_D1790011083D4B41BF11826D014A9A9C_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D18433E5803B4CD09A9F85E97BCDC420_cv_text","source":"With only the shell remaining, there is no point... Would there be a way to restore it?","translation":"Została tylko skorupa, więc to bez sensu... Czy dałoby się ją jakoś odtworzyć?","status":"draft"}
-{"id":"NpcTalk_D18438F064D0437CB9F0FA95E36CD710_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1862266D8E148F3B922D8C3B29EB66F_cv_text","source":"Are you as sleepy as I am...?","translation":"Też chce ci się spać...?","status":"draft"}
-{"id":"NpcTalk_D1867ADA60CF44EC98873569A4F9C5C1_cv_text","source":"I don't want to die a worthless death, least of all in a place like this!","translation":"Nie chcę zginąć bez sensu, a już na pewno nie w takim miejscu!","status":"draft"}
-{"id":"NpcTalk_D18BF863D9E345F69380DBE3776DD464_cv_text","source":"Come closer. Please, join me in prayer.","translation":"Podejdź bliżej. Pomódl się ze mną.","status":"draft"}
-{"id":"NpcTalk_D19175CBC7DB49BA996096DE9F501697_cv_text","source":"I used to think I had no real attachment to life, but now, all I want is to live.","translation":"Kiedyś myślałem, że życie niewiele dla mnie znaczy, ale teraz pragnę już tylko żyć.","status":"draft"}
-{"id":"NpcTalk_D19239F4381448EDB84A8F2D6C669A86_cv_text","source":"But first, we've lost contact with a number of legionnaires out on a mission. We need to find out what happened.","translation":"Najpierw jednak straciliśmy kontakt z kilkoma legionistami wysłanymi na misję. Musimy ustalić, co się stało.","status":"draft"}
-{"id":"NpcTalk_D19E3BC3CFFA4A8E94A0EC3EA81BA373_cv_text","source":"Let's move... Time is of the essence.","translation":"Ruszajmy... Liczy się każda chwila.","status":"draft"}
-{"id":"NpcTalk_D1A388F7A045456298263BA708D601F1_cv_text","source":"If that lake is real, it might mean there is some hope on this island. I hope you find what you seek there.","translation":"Jeśli to jezioro istnieje naprawdę, może jest jeszcze jakaś nadzieja dla tej wyspy. Oby udało ci się znaleźć to, czego szukasz.","status":"draft"}
-{"id":"NpcTalk_D1A8FF9624AF4C2CB889F424369F7BD6_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1AC2A65895244CDB0A5AAD7A4AAC0A2_cv_text","source":"But gathering Drakana is like asking for the moon. For some reason, rumors spread that it's valuable, attracting many people.","translation":"Ale zdobycie Drakany graniczy z cudem. Z jakiegoś powodu rozeszły się plotki, że jest cenna, i przyciągnęły wielu ludzi.","status":"draft"}
-{"id":"NpcTalk_D1ACF81D501D45CA8AD89B0B3AB41AF8_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1AF75A2410146A6971A042B74BAB0B7_cv_text","source":"Reuben... What kind of person were you?","translation":"Reuben... Jakim był człowiekiem?","status":"draft"}
-{"id":"NpcTalk_D1B6447DF7ED457CA418C7C80CA2DA1C_cv_text","source":"Here we go...","translation":"No to zaczynamy...","status":"draft"}
-{"id":"NpcTalk_D1B6932856FC4764A13D4C9A089A66B8_chat_title","source":"Dada","translation":"Dada","status":"draft"}
-{"id":"NpcTalk_D1B6932856FC4764A13D4C9A089A66B8_cv_text","source":"Potions are potent as expected!","translation":"Mikstury są naprawdę skuteczne!","status":"draft"}
-{"id":"NpcTalk_D1B811AF6002424C907464D83396BB49_cv_text","source":"Thanks to you, my job and our guild's honor are safe! I'd better go deliver the supplies to Xiao quickly, nyerk!","translation":"Dzięki tobie moja praca i honor gildii są bezpieczne! Muszę szybko dostarczyć zaopatrzenie Xiao, nyerk!","status":"draft"}
-{"id":"NpcTalk_D1C46B72D0A2410EBB00B5F0C5AB2720_cv_text","source":"*sniffle* ...Huh? You're back already? How did it go?","translation":"*pociąga nosem* ...Co? Już jesteś z powrotem? Jak poszło?","status":"draft"}
-{"id":"NpcTalk_D1C58913660E416FBDF8275B315CE6F5_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1CDB04BF5D24994B59549D45AAA4106_cv_text","source":"I'll rip you to shreds!","translation":"Rozszarpię cię na strzępy!","status":"draft"}
-{"id":"NpcTalk_D1CDE47CBEE94D62B1E4766E3A7AC286_cv_text","source":"Damn it, Bjorn! Open your eyes!","translation":"Cholera, Bjorn! Otwórz oczy!","status":"draft"}
-{"id":"NpcTalk_D1D27BCF011A4AE9AA8EB59F6D35D4DA_cv_text","source":"Thank you, Daeva! You've saved us!","translation":"Dziękuję, Daeva! Uratowano nas!","status":"draft"}
-{"id":"NpcTalk_D1D4F99302F844649B779DFBA58EFE08_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1D8DD1F9C6842C69F3A83B04FC49B0C_cv_text","source":"There's another Updraft on that Sky Island, kru.","translation":"Na tamtej Podniebnej Wyspie jest jeszcze jeden Prąd Wznoszący, kru.","status":"draft"}
-{"id":"NpcTalk_D1DA34896E1D4310BAF41089A34C1DEB_cv_text","source":"In the past, this was the place where Twelve Daeva, including a warrior named <QK>Uruthum</>, fought against a giant drake named <QK>Minusha</>.","translation":"Dawniej właśnie tutaj Dwunastu Daevów, w tym wojownik <QK>Uruthum</>, walczyło z olbrzymim smokiem <QK>Minushą</>.","status":"draft"}
-{"id":"NpcTalk_D1DA46575D654185B0A61D7E68AB97C6_cv_text","source":"Here, have a read.","translation":"Proszę, przeczytaj.","status":"draft"}
-{"id":"NpcTalk_D1DBAA2FD5254DE89FE24D8966259FB3_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1E1CF072A2040D4B291B83B45E1ECF3_cv_text","source":"Ugh, it's an alarm device!","translation":"Ugh, to urządzenie alarmowe!","status":"draft"}
-{"id":"NpcTalk_D1E98765CC10442ABA2A046AA99CB703_cv_text","source":"There are grown Dratona and Dratona Tamers here, kru.","translation":"Są tu dorosłe Dratony i ich treserzy, kru.","status":"draft"}
-{"id":"NpcTalk_D1F082FD958343FABC87886DC1E0147E_cv_text","source":"Temporary Content","translation":"Treść tymczasowa","status":"draft"}
-{"id":"NpcTalk_D1F217E66B24486B9EAA20D666B27F78_cv_text","source":"But why would the legendary Akarios be travelling together with the likes of Caelid?","translation":"Ale dlaczego legendarny Akarios podróżuje z kimś takim jak Caelid?","status":"draft"}
-{"id":"NpcTalk_D1F64280A7AA4D0D8A0BE8A965A4B107_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1FD5378F9954666966FDFA7FB605B13_cv_text","source":"And who the hell are you?","translation":"A ty, do cholery, kim jesteś?","status":"draft"}
-{"id":"NpcTalk_D1FD89F400734B689B5DDA5CD92A43CA_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D1FD8D54352645B8836EF5ED6CD4170C_cv_text","source":"We need to create chaos at the Drana Plantation. Any suggestions?","translation":"Musimy wywołać chaos na Plantacji Drany. Jakieś pomysły?","status":"draft"}
-{"id":"NpcTalk_D1FDDD2B7C0E41FC9E72F58A5E93F39A_cv_text","source":"Looks like we have an infestation!","translation":"Wygląda na to, że mamy plagę!","status":"draft"}
-{"id":"NpcTalk_D1FE9CA4877D4891A7B8914A5B6D9505_cv_text","source":"It won't be easy, but at least we now know for certain that the Cores holding the Empyrean Lords' power can truly be found!","translation":"To nie będzie łatwe, ale przynajmniej wiemy już na pewno, że Rdzenie zawierające moc Władców Empiriańskich naprawdę istnieją!","status":"draft"}
-{"id":"NpcTalk_D1FEA53886374AC18888FC826558B5F6_cv_text","source":"Congratulations. It was my honor to contribute to your ascension...","translation":"Gratulacje. To był zaszczyt przyczynić się do twojej ascendencji...","status":"draft"}
-{"id":"NpcTalk_D200EA3288E84113BFC52D580E6ACD57_cv_text","source":"I found a fellow Fang.","translation":"Znalazłem innego członka Kłów.","status":"draft"}
-{"id":"NpcTalk_D2010152FF2944D1B241257F7157DD0B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D201E39A8BC346AD865C791CDBEEF68D_cv_text","source":"Those Blades are quite remarkable. There's nobody better at capturing Daeva and extracting their souls.","translation":"Ostrza są naprawdę niezwykłe. Nikt nie dorównuje im w chwytaniu Daevów i wydobywaniu ich dusz.","status":"draft"}
-{"id":"NpcTalk_D20468780FFC41D6AA16D4154C1C1370_chat_title","source":"Shinie","translation":"Shinie","status":"draft"}
-{"id":"NpcTalk_D20468780FFC41D6AA16D4154C1C1370_cv_text","source":"Spot an anomaly and take care of it.","translation":"Wypatrz anomalię i się nią zajmij.","status":"draft"}
-{"id":"NpcTalk_D20E2F415661426A9B11B8364C440034_cv_text","source":"We won't give up!","translation":"Nie poddamy się!","status":"draft"}
-{"id":"NpcTalk_D2169A9C286045728CC45235CEB9F7C2_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D21B651137FF414B8B75BA492765A0E4_cv_text","source":"We heard some Daeva have shown up to do some research. Are they Creions?","translation":"Słyszeliśmy, że do siedziby przybyli Daeva, by prowadzić badania. To Kreionowie?","status":"draft"}
-{"id":"NpcTalk_D222B29E4F86497486273EF48AA3666C_cv_text","source":"Belenis! You're safe. Thank goodness! Did you retrieve the Kaisinel's Legacy Trilogy?","translation":"Belenis! Nic ci nie jest. Całe szczęście! Udało ci się zdobyć trylogię Dziedzictwa Kaisinel?","status":"draft"}
-{"id":"NpcTalk_D22BDFED449E4192AB0C62B88CFB3370_cv_text","source":"I was injured and couldn't make it in time for the assembly. So Lieutenant Perion... fought alone...","translation":"Byłem ranny i nie zdążyłem na zgromadzenie. A więc porucznik Perion... walczył samotnie...","status":"draft"}
-{"id":"NpcTalk_D22E9ECE911848AC92BC9F0F80B1672E_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D2332261E4DC48269001E01AFF6FF722_cv_text","source":"Are you looking for something in particular?","translation":"Szukasz czegoś konkretnego?","status":"draft"}
-{"id":"NpcTalk_D23575CAE727488B89F976FD8C231C26_cv_text","source":"Can you tell me about Zumion? Can other Guardite speak, too?!","translation":"Opowiesz mi o Zumionie? Inne Guardite też potrafią mówić?!","status":"draft"}
-{"id":"NpcTalk_D2371D08D0AC410CB6E1C7AEBD6F10B5_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D23D1F3014E24A1F996716431907DDAC_cv_text","source":"We need his help. Do you know where he went?","translation":"Potrzebujemy jego pomocy. Wiesz, dokąd poszedł?","status":"draft"}
-{"id":"NpcTalk_D23E10F3512647A8B51BFBFBFAC8C79D_cv_text","source":"Reda! Raising the Bulwark to protect the world of the Daeva was the only choice the Empyrean Lords had.","translation":"Redo! Wzniesienie Wału, by chronić świat Daevów, było jedynym wyjściem Władców Empiriańskich.","status":"draft"}
-{"id":"NpcTalk_D23E92A72F184C98A53CECF4E62D3A8F_cv_text","source":"Are you ready to start? Just step into the blue light like last time!","translation":"Gotowo? Jak poprzednio, po prostu wejdź w niebieskie światło!","status":"draft"}
-{"id":"NpcTalk_D243CBFA90FE48FB83524872A82BB115_cv_text","source":"I've planted a <QK>bomb</> on your friend here. If I press this, he'll be sprayed all over the walls.","translation":"Podłożyłem twojemu koledze <QK>bombę</>. Jeśli ją uruchomię, rozpryśnie się po ścianach.","status":"draft"}
-{"id":"NpcTalk_D247692C16FB441C89C1749EC17D6582_cv_text","source":"May Zemurru bless you...","translation":"Niech Zemurru ma cię w opiece...","status":"draft"}
-{"id":"NpcTalk_D24C51A1F21944519EDE02AE37F090C3_cv_text","source":"Enough questions, Kobold, just stick to your work, krak! If we fail to guard the <QK>Command Post</> camp again, you're dead, krarak.","translation":"Dość pytań, Koboldzie, zajmij się pracą, krak! Jeśli znów nie upilnujemy obozu <QK>Stanowiska Dowodzenia</>, zginiesz, krarak.","status":"draft"}
-{"id":"NpcTalk_D24CE6EB0DF94CC1B67C35A80F366CFB_cv_text","source":"Were you serious earlier, Caelid? About the Dawn Legion helping us?","translation":"Caelid, mówiłeś poważnie? Legion Świtu naprawdę nam pomoże?","status":"draft"}
-{"id":"NpcTalk_D24DB06AF9464C71AE57301DF31BE0FE_cv_text","source":"Gerod... How could you let yourself be used by those filthy Balaur?","translation":"Gerod... Jak mogłeś dać się wykorzystać tym plugawym Balaur?","status":"draft"}
-{"id":"NpcTalk_D24DC3C8D8CB487CB8D8FF357EFF3341_cv_text","source":"I am a Mau of the Black Claw Tribe. I cannot be here with you. I must leave!","translation":"Jestem Mau z plemienia Czarnego Pazura. Nie mogę tu z wami zostać. Muszę odejść!","status":"draft"}
-{"id":"NpcTalk_D24EC9ACDCC24818B16FCA028073BEB1_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D2539B10697E4C0D8D47384C3D42266B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D2543DCCAA814166BD2E0B1F64FFCAAF_cv_text","source":"*cough* Thank you so much.","translation":"*kaszel* Bardzo dziękuję.","status":"draft"}
-{"id":"NpcTalk_D258BE8FD6B34FF2B3E4E6BFE6F60A46_cv_text","source":"*sigh* Fine, enough talk.","translation":"*wzdycha* Dobrze, koniec rozmowy.","status":"draft"}
-{"id":"NpcTalk_D259DC9ED20F4D1E8B1CFE142CC5C37B_cv_text","source":"But if that happens... Odar will die.","translation":"Ale jeśli do tego dojdzie... Odar zginie.","status":"draft"}
-{"id":"NpcTalk_D25B3067EECA42538EF69CF2E20F291A_cv_text","source":"We should divide up the work.","translation":"Podzielmy się zadaniami.","status":"draft"}
-{"id":"NpcTalk_D25B5F68858C414086ED5B5A2C55AB97_cv_text","source":"All right, first, this is the application you need to submit if you wish to join the Dawn Legion!","translation":"Dobrze, oto formularz, który trzeba złożyć, by dołączyć do Legionu Świtu!","status":"draft"}
-{"id":"NpcTalk_D25C3B44DC6347DDA8AAC5E26C1FD1C0_cv_text","source":"If only we can stop the mutation quickly enough, there's a chance to survive. We should let people know its progression can be halted.","translation":"Jeśli szybko powstrzymamy mutację, jest szansa na przeżycie. Trzeba powiedzieć ludziom, że można zatrzymać jej rozwój.","status":"draft"}
-{"id":"NpcTalk_D26113469F6B46F6B8B5AE4FA6236C0C_cv_text","source":"Finally we can get out of here!","translation":"Wreszcie możemy stąd wyjść!","status":"draft"}
-{"id":"NpcTalk_D263BE928ADB403F99304EDD4E8C25FD_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D264EBB040244A80B1F8DF4DE006BC53_cv_text","source":"You'll see how completely obsessed he was with Nemon. *cough*","translation":"Zobaczysz, jak bardzo był obsesyjnie skupiony na Nemon. *kaszel*","status":"draft"}
-{"id":"NpcTalk_D26AF28F24974E6EAD1269CBFFF6808B_cv_text","source":"???","translation":"","status":"pending"}
-{"id":"NpcTalk_D26B5965A4CE48BE9B93D71A11E620D2_cv_text","source":"You're even more useful than you look! Now I just need to mix it into the base I've been working on!","translation":"Jesteś o wiele bardziej przydatną osobą, niż się wydajesz! Teraz wystarczy domieszać to do przygotowanej przeze mnie bazy!","status":"draft"}
-{"id":"NpcTalk_D2717FEB1412439BBF78BFF2951E8DBF_cv_text","source":"???","translation":"","status":"pending"}
+{"id": "NpcTalk_CF8205A26455414AB78DD5BC9EB923CE_cv_text", "source": "Hmm... not personally. But I heard some Daeva have shown up at the headquarters to do some research.", "translation": "Nie osobiście. Słyszałem jednak, że do siedziby przybyli Daeva, by prowadzić badania.", "status": "draft"}
+{"id": "NpcTalk_CF8222252F72414D982326CD32A06EE9_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CF8BAC0C38814F0F93C985139DCBAAA2_cv_text", "source": "{pcname}, are you okay?", "translation": "{pcname}, wszystko w porządku?", "status": "draft"}
+{"id": "NpcTalk_CF91424D91EA4970A024344D93FB5D27_cv_text", "source": "Hey, hey... Get it together!", "translation": "Hej, hej... Weź się w garść!", "status": "draft"}
+{"id": "NpcTalk_CF91E668E93E4E4283E625D32B4CF10C_cv_text", "source": "Besides, Phernos has crossed Eltnen before. He should be familiar with its geography.", "translation": "Poza tym Phernos był już wcześniej w Eltnen. Powinien dobrze znać jego geografię.", "status": "draft"}
+{"id": "NpcTalk_CF96F7EB99344341A05E1E209D13C1B5_cv_text", "source": "All right, let's start with... <QK>Hadala's letter</>.", "translation": "Dobrze, zacznijmy od... <QK>listu Hadali</>.", "status": "draft"}
+{"id": "NpcTalk_CF9A698AF40C4481B87DFAE685DC1D12_cv_text", "source": "As a priest of Zumion, you are worthy to draw light from suffering.", "translation": "Jako osoba służąca Zumionowi zasługujesz na to, by wydobywać światło z cierpienia.", "status": "draft"}
+{"id": "NpcTalk_CF9B2DD80C974772A75C02C36778FA82_cv_text", "source": "Keep going since the final rankings aren't known yet, nyerk!", "translation": "Działaj dalej, bo ostateczne rankingi nie są jeszcze znane, nyerk!", "status": "draft"}
+{"id": "NpcTalk_CF9E781B85514F0CBA0ABFC70F35F3CD_cv_text", "source": "To be defeated by such lowly creatures...", "translation": "Pokonały mnie takie nędzne stworzenia...", "status": "draft"}
+{"id": "NpcTalk_CFA147C8D10D4229A8D8DC2F1C063C7C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFA19563948D4B3A97D3AE3485C72F7C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFA3E57A18FC484BB055F3AA4840DB96_cv_text", "source": "How tiresome. Step aside, will you? I'm a busy person.", "translation": "Co za nuda. Zejdź mi z drogi, dobrze? Jestem zajętą osobą.", "status": "draft"}
+{"id": "NpcTalk_CFA52FC7F426413A99FAB77694545161_cv_text", "source": "Unfortunately, Meslamtaeda's blood reemerged as well. We're doing what we can to manage it.", "translation": "Niestety, krew Meslamtaedy znów się ujawniła. Robimy, co w naszej mocy, by nad nią zapanować.", "status": "draft"}
+{"id": "NpcTalk_CFA96EB800364869BABE50D7EFE4C006_cv_text", "source": "Ah, now it makes sense. No wonder the noble energy that once filled me is breaking down.", "translation": "Ach, teraz rozumiem. Nic dziwnego, że szlachetna energia, która niegdyś mnie wypełniała, słabnie.", "status": "draft"}
+{"id": "NpcTalk_CFAB32422D9B41DAA84790CAF6604925_cv_text", "source": "Atone through your suffering!", "translation": "Odpokutuj za swoje cierpienia!", "status": "draft"}
+{"id": "NpcTalk_CFAE779306D84581B5BAA9E0886DA333_cv_text", "source": "How do we operate this? Try reading the instruction manual over there.", "translation": "Jak mamy to obsługiwać? Spróbuj przeczytać tamtą instrukcję.", "status": "draft"}
+{"id": "NpcTalk_CFAF9BF9F0BE404C8282899E6A6397B8_cv_text", "source": "Here you go. Now hurry up and guide us.", "translation": "Proszę. A teraz pospieszcie się i poprowadźcie nas.", "status": "draft"}
+{"id": "NpcTalk_CFAFEEDF4E114C2C8C33839CD039B720_cv_text", "source": "Yeah, yeah! I'll take it straight to Nemon.", "translation": "Tak, tak! Zaniosę to prosto do Nemon.", "status": "draft"}
+{"id": "NpcTalk_CFB79F4EA74E433393097E19F3CFEE15_cv_text", "source": "Hurry!", "translation": "Szybko!", "status": "draft"}
+{"id": "NpcTalk_CFB86E8BB5FF44F49482A33AF6DEFD37_cv_text", "source": "Was the storage locked up properly?", "translation": "Czy magazyn został należycie zamknięty?", "status": "draft"}
+{"id": "NpcTalk_CFBA6D0228324559AB5FC3F339929D7D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFBDD6CFA54A4F5BAA53D1500A7EFFFD_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFC69B7C240F40DC908D5F0C9007935D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFC8F8F1985848DDB2D13A41DC0C421B_cv_text", "source": "You'll probably find her in the captain's office. A whole bunch of requests came in, so she'll be going through them all.", "translation": "Pewnie znajdziesz ją w gabinecie kapitana. Napłynęło mnóstwo próśb, więc będzie je wszystkie przeglądać.", "status": "draft"}
+{"id": "NpcTalk_CFC9CC8E525A48429830E1A056087D47_cv_text", "source": "Let's go.", "translation": "Chodźmy.", "status": "draft"}
+{"id": "NpcTalk_CFCAA521F7724263A1289DC6FF5E3EE6_cv_text", "source": "Subjugation has ended. You will leave the battlefield soon.", "translation": "Pacyfikacja zakończona. Wkrótce opuścisz pole bitwy.", "status": "draft"}
+{"id": "NpcTalk_CFCF5739ABF544CE81FF5B0820D2EFC4_cv_text", "source": "I'm surprised a place like this was kept hidden.", "translation": "Dziwi mnie, że udało się ukryć takie miejsce.", "status": "draft"}
+{"id": "NpcTalk_CFD0F1D7728D412FAFCA854897146840_cv_text", "source": "Be swallowed by the tide!", "translation": "Niech pochłonie cię przypływ!", "status": "draft"}
+{"id": "NpcTalk_CFD5B111EB5E45CAA804E776C2581251_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_CFD7E2756DB6413EA70ADA9EE3977483_cv_text", "source": "I'm Nania. I've brought some Odyle powder, will this help?", "translation": "Jestem Nania. Przyniosłam trochę proszku Odyle. Czy się przyda?", "status": "draft"}
+{"id": "NpcTalk_CFDC0A78DECF4F69ADDCAA2498086BA6_cv_text", "source": "They offered me a job collecting biological samples and Guardite specimens from the Contaminated Sanctum.", "translation": "Zaproponowali mi pracę przy zbieraniu próbek biologicznych i okazów Guardite ze Skażonego Sanktuarium.", "status": "draft"}
+{"id": "NpcTalk_CFDC5526B5364A5FB4E2CAA79DB4CF8C_chat_title", "source": "Petty Officer", "translation": "Podoficer", "status": "draft"}
+{"id": "NpcTalk_CFDC5526B5364A5FB4E2CAA79DB4CF8C_cv_text", "source": "You can feel the energy of Odyle? No wonder you look much less unstable.", "translation": "Czujesz energię Odyle? Nic dziwnego, że wyglądasz na znacznie bardziej stabilną osobę.", "status": "draft"}
+{"id": "NpcTalk_CFE1C18974D94B48BEC7250038C30C70_cv_text", "source": "I happen to have a favor to ask.", "translation": "Mam do ciebie pewną prośbę.", "status": "draft"}
+{"id": "NpcTalk_CFE4776607134285BA19E2B1493B1A57_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFEA04F0A71142548C91FFB8DDE4CF09_cv_text", "source": "This essence is like an Elim's heart. It's still bright with warm light...", "translation": "Ta esencja jest niczym serce Elima. Wciąż rozświetla ją ciepły blask...", "status": "draft"}
+{"id": "NpcTalk_CFEECCE2D5654970864492E2C7BE9923_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFF0C2881E0F4144856A0BB291F8317A_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFF4D1FE033B4E41BA4765080A7C4292_chat_title", "source": "Predator Saraswati", "translation": "Drapieżniczka Saraswati", "status": "draft"}
+{"id": "NpcTalk_CFF4D1FE033B4E41BA4765080A7C4292_cv_text", "source": "Gwehk... hungry...kkuuegh...st...st...arving...", "translation": "Gwehk... głodny... kkuuegh... u... umieram z głodu...", "status": "draft"}
+{"id": "NpcTalk_CFF607AE82B6484CA82A53DB3BFABC89_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_CFF9654599CA4AB39A4B18EDC3626242_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D001223E34E24C49B86E871351E45691_cv_text", "source": "I must be devoted... for the Fire Temple!", "translation": "Muszę dochować wierności... Świątyni Ognia!", "status": "draft"}
+{"id": "NpcTalk_D00133EF4980495F9F5DD7CF528814E6_cv_text", "source": "Menrik? Help!", "translation": "Menrik? Pomocy!", "status": "draft"}
+{"id": "NpcTalk_D004F4417CFA42088F0D1C7A4A325ED9_cv_text", "source": "Your soul gets sealed inside Fafnite, and your body gets used as Dragon Lord Fafnir's weapon like those servants!", "translation": "Twoja dusza zostanie zamknięta wewnątrz Fafnite, a ciało posłuży za broń Smoczemu Władcy Fafnirowi, tak jak ciała tamtych sług!", "status": "draft"}
+{"id": "NpcTalk_D005D0C8F661489AB18EEDB8387E8989_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D008FDDA9C1645B29212368CC2519CE9_cv_text", "source": "Go back to the Forward Base and get treated quickly. We'll find the rest.", "translation": "Wróć do Bazy Wysuniętej i jak najszybciej poddaj się leczeniu. My odnajdziemy pozostałych.", "status": "draft"}
+{"id": "NpcTalk_D00AC727C89444CBBE9F005E78B656E1_cv_text", "source": "The relic is radiating light, and seems to have never been touched by anyone.", "translation": "Relikt emanuje światłem i wygląda na nietknięty.", "status": "draft"}
+{"id": "NpcTalk_D00C2EC166AA4F1EADFE1622166D64C7_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D00C3D37A521475AA89F15B5C698AD77_cv_text", "source": "Since it was an illusion relic, it should still function as a vessel. If we can imbue it with the power of illusion, we should be able to restore it to some extent.", "translation": "Skoro to relikt iluzji, powinien nadal służyć jako naczynie. Jeśli napełnimy go mocą iluzji, być może uda nam się go częściowo odtworzyć.", "status": "draft"}
+{"id": "NpcTalk_D0117D9E9C454FE0B2713B37FB11810B_cv_text", "source": "*cough*", "translation": "*kaszel*", "status": "draft"}
+{"id": "NpcTalk_D0129646CC39427E8C45BC601B7DFB87_cv_text", "source": "Transport routes for Odyle and supplies were completely blocked off by the Dredgion crash.", "translation": "Katastrofa Dredgionu całkowicie zablokowała szlaki transportowe Odyle i zaopatrzenia.", "status": "draft"}
+{"id": "NpcTalk_D013510046624E428E4FD9E21C283227_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D018E078907948F99336416C9227079D_cv_text", "source": "Good to hear. I'll transform you into Mau, then. With Black Claw weapons in your paws, you should be able to enter the village with little trouble.", "translation": "Dobrze. W takim razie przemienię cię w Mau. Z bronią Czarnego Pazura w łapach bez trudu wejdziesz do wioski.", "status": "draft"}
+{"id": "NpcTalk_D01AA1CB044A438B8C74AD61069138F7_cv_text", "source": "It's all my fault... My family...", "translation": "To wszystko moja wina... Moja rodzina...", "status": "draft"}
+{"id": "NpcTalk_D01AD394F9124946AB18C625C3BDE44D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D01DE8939CFD41C7B4A0FDD53D0ADEFB_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D02602FD20EC417AB2D312C83B835125_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D02A5926A88C40A99C9A7897D00402A4_cv_text", "source": "Learned the Balaur language.", "translation": "Opanowano język Balaur.", "status": "draft"}
+{"id": "NpcTalk_D02A870B536947869EFF7857E573DB21_cv_text", "source": "Yes, this should be enough.", "translation": "Tak, to powinno wystarczyć.", "status": "draft"}
+{"id": "NpcTalk_D02F5C00AFFF45A79D56849015CE7A36_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D03267333E0C4143B8BEB0ED1AF788D5_cv_text", "source": "Well, \"Babe\". You didn't just change your name, you committed crimes.", "translation": "Samo nowe imię to nie wszystko, „Babe”. Na koncie masz też przestępstwa.", "status": "draft"}
+{"id": "NpcTalk_D03287CC84BD431496AD09DC0631B1B3_cv_text", "source": "Hell, I'm not even convinced he's still alive. But what other options are there?", "translation": "Do licha, nawet nie wiem, czy on jeszcze żyje. Ale jakie mamy inne wyjście?", "status": "draft"}
+{"id": "NpcTalk_D03B73CEBE1240B88A2A5FF42AEAE321_cv_text", "source": "How did it look, kru? Can you handle it?", "translation": "Jak to wyglądało, kru? Dasz sobie z tym radę?", "status": "draft"}
+{"id": "NpcTalk_D03F13F2C2ED43FCB056EF294823DCDB_cv_text", "source": "Then we should be gathering head fragments. They're likely buried in the dirt or among nearby ruins.", "translation": "Powinniśmy więc zebrać fragmenty głów. Pewnie są zakopane w ziemi albo wśród pobliskich ruin.", "status": "draft"}
+{"id": "NpcTalk_D03F8EA5FA9140F48E8AFBB39896FAB4_cv_text", "source": "...Here at... the dumpsite... Send... help...", "translation": "...Tutaj... na wysypisku... Przyślijcie... pomoc...", "status": "draft"}
+{"id": "NpcTalk_D040E0DA5C414137AF0B23443054B30D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0474C36649140EE896F707D90453F93_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D04A471DCEC54D779CAAFA4751243D97_cv_text", "source": "All right, we can talk in detail once we get there. Let's clean up here then get back.", "translation": "Dobrze, porozmawiamy szczegółowo, gdy dotrzemy na miejsce. Posprzątajmy tutaj i wracajmy.", "status": "draft"}
+{"id": "NpcTalk_D04B8D05A37846AF8BD2BAABD56DA22B_cv_text", "source": "We have been using the very same purification devices to contain the contamination, but they've been broken.", "translation": "Używaliśmy tych samych urządzeń oczyszczających do powstrzymywania skażenia, ale zostały uszkodzone.", "status": "draft"}
+{"id": "NpcTalk_D04CA5F895F54F6F8CEE6164F6D879D9_cv_text", "source": "How... hollow.", "translation": "Jak... pusto.", "status": "draft"}
+{"id": "NpcTalk_D04E53058E6447158798E01D7413E025_cv_text", "source": "We won't let you leave alive.", "translation": "Nie pozwolimy ci odejść żywym.", "status": "draft"}
+{"id": "NpcTalk_D04E5A43AC794492A3BF9BA8AAC669BE_cv_text", "source": "I am a holy being, born from tranquility.", "translation": "Jestem świętą istotą zrodzoną ze spokoju.", "status": "draft"}
+{"id": "NpcTalk_D04E9FA0FE3B490DB57D5405E8DC4A4B_cv_text", "source": "Run! This is the only chance we'll get!", "translation": "Uciekaj! Druga taka okazja się nie trafi!", "status": "draft"}
+{"id": "NpcTalk_D0518ED5200B4386B27B637FFABBF021_cv_text", "source": "This area is exactly where the Dragon Lord's blood first landed, so the toxic aura here is strong. Without using a purifying brazier, it will be difficult to reach the altar.", "translation": "To właśnie tutaj po raz pierwszy spadła krew Smoczego Władcy, dlatego trująca aura jest tu silna. Bez użycia oczyszczającego paleniska trudno będzie dotrzeć do ołtarza.", "status": "draft"}
+{"id": "NpcTalk_D0548B85E5674B099C76E6CB21BF1059_cv_text", "source": "Haha, I'm glad I could help.", "translation": "Haha, cieszę się, że mogłem pomóc.", "status": "draft"}
+{"id": "NpcTalk_D062C7D11B8D422590849A9733069B32_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0630A7AB79449EAA013D8E3BD097E84_cv_text", "source": "Hehe. The spiders are all gone now, Lulu.", "translation": "Hehe. Pająki już zniknęły, Lulu.", "status": "draft"}
+{"id": "NpcTalk_D0659CED02634326A7277E1B0D04106C_cv_text", "source": "Argh!", "translation": "Ach!", "status": "draft"}
+{"id": "NpcTalk_D0686693A02E43E8BDD9F134B4B0E5C2_cv_text", "source": "Speak of the devils... They must be keeping an eye out for surviving Daeva.", "translation": "A nie mówiłem... Muszą wypatrywać ocalałych Daevów.", "status": "draft"}
+{"id": "NpcTalk_D069332A320D42B6A90ECA4EDBD3B5A2_cv_text", "source": "The door to the underground storage has opened.", "translation": "Otwarto drzwi do podziemnego magazynu.", "status": "draft"}
+{"id": "NpcTalk_D06A782332124560BE125E8E5E08096E_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D06EDDF7FAD44B96AAFEFD151BD51B5E_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0717F5341BF438EBD349A36A3FCAD3B_cv_text", "source": "W-Who are you?! What have you done here?!", "translation": "K-kim jesteście?! Co tu zrobiliście?!", "status": "draft"}
+{"id": "NpcTalk_D0736C050B2F4400B57A5639B8690AA9_cv_text", "source": "Phew... That was close, nyerk.", "translation": "Uff... Było blisko, nyerk.", "status": "draft"}
+{"id": "NpcTalk_D074346324964CBA93CBD6CC19E27831_cv_text", "source": "Then we'll take this and...", "translation": "To weźmiemy to i...", "status": "draft"}
+{"id": "NpcTalk_D0745D1DE88D4EF1888ABA9976C89A8C_cv_text", "source": "An ancient book with illegible content.", "translation": "Starożytna księga o nieczytelnej treści.", "status": "draft"}
+{"id": "NpcTalk_D0792BF7F74F45DE8BEEDDB97116750F_cv_text", "source": "How arrogant... to come here on your own!", "translation": "Jak śmiesz... przychodzić tu w pojedynkę!", "status": "draft"}
+{"id": "NpcTalk_D07E0AC65DC04A43A7016410A05037EB_cv_text", "source": "I guess we have no choice. {pcname}, let's head to the far end of the cemetery. Please help clear the area as we search.", "translation": "Chyba nie mamy wyboru. {pcname}, chodźmy na drugi koniec cmentarza. Pomóż nam oczyścić teren podczas poszukiwań.", "status": "draft"}
+{"id": "NpcTalk_D07E69DF067C4DAABFB3D48E06B2D700_cv_text", "source": "All right, all right... Phew!", "translation": "Dobrze, dobrze... Uff!", "status": "draft"}
+{"id": "NpcTalk_D080B647EC6D4F3AAC52DABB9E19E4AC_cv_text", "source": "Starting again from scratch isn't a bad idea, nyerk. Here's the signed agreement. I'll ask Xiao for more details.", "translation": "Zaczynanie od zera nie jest złym pomysłem, nyerk. Oto podpisana umowa. Zapytam Xiao o szczegóły.", "status": "draft"}
+{"id": "NpcTalk_D084B1F8CFF04BC6B05F59AE259B8F5B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0859A2830DF4ADF9BDF9CBAD79A3EE6_cv_text", "source": "Yes, and that bracelet is one such Illusion Relic. With the help of the apparitions, we should have little issue finding it.", "translation": "Tak, ta bransoleta to właśnie jeden z Reliktów Iluzji. Z pomocą zjaw bez trudu ją odnajdziemy.", "status": "draft"}
+{"id": "NpcTalk_D08803DCB6834F9499DBC8D0D7261642_cv_text", "source": "Surely you cannot be serious. This is suicide!", "translation": "Chyba nie mówisz poważnie. To samobójstwo!", "status": "draft"}
+{"id": "NpcTalk_D0881A4291844CA797128C68F71DD596_cv_text", "source": "Huh? Do I know you? Need any help?", "translation": "Co? Znamy się? W czymś pomóc?", "status": "draft"}
+{"id": "NpcTalk_D0881D9E164F4E66AAFBC747F5B34E33_cv_text", "source": "Clean clothes and towels are inside.", "translation": "Czyste ubrania i ręczniki są w środku.", "status": "draft"}
+{"id": "NpcTalk_D08B1E8929B64AC9B4C8B46B1D56A502_chat_title", "source": "Test", "translation": "Test", "status": "draft"}
+{"id": "NpcTalk_D08B1E8929B64AC9B4C8B46B1D56A502_cv_text", "source": "Hey... you're a Daeva, right? Shh, come this way...", "translation": "Hej... jesteś Daeva, prawda? Cicho, chodź tędy...", "status": "draft"}
+{"id": "NpcTalk_D08ED395AED64F05909B1C68B74BC332_cv_text", "source": "You fool... How can I hug you when you're not even here...?", "translation": "Co za głupota... Jak mam cię objąć, skoro nawet cię tu nie ma?", "status": "draft"}
+{"id": "NpcTalk_D09196EA218241A0B6EFE71587FBED3A_chat_title", "source": "Shinie", "translation": "Shinie", "status": "draft"}
+{"id": "NpcTalk_D09196EA218241A0B6EFE71587FBED3A_cv_text", "source": "CollectItem Test Check Complete!", "translation": "Test zbierania przedmiotu: ukończony!", "status": "draft"}
+{"id": "NpcTalk_D0955AA582A3413498C291A6A995F240_cv_text", "source": "What are you after?", "translation": "Czego szukasz?", "status": "draft"}
+{"id": "NpcTalk_D0988C49A7B14364A422CA8AE264EB77_cv_text", "source": "Honestly, Skuld... But I don't hate it. Urd?", "translation": "Szczerze mówiąc, Skuld... Ale nie mam nic przeciwko. A ty, Urd?", "status": "draft"}
+{"id": "NpcTalk_D0998C069EC34F3EAC162F23BE3BDAB0_cv_text", "source": "Ah, it seems we've stayed here too long! They've noticed us.", "translation": "Ach, chyba siedzimy tu za długo! Zauważyli nas.", "status": "draft"}
+{"id": "NpcTalk_D09E22C46C964D4689BF054C7BB3D320_cv_text", "source": "So impure.", "translation": "Jakże nieczyste.", "status": "draft"}
+{"id": "NpcTalk_D09F8B3D388A4A01A4388E2D68EA8AE2_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0A010D9EFA24797AE54473A23D18BF3_cv_text", "source": "We must get our hands on Meslamtaeda's blood.", "translation": "Musimy zdobyć krew Meslamtaedy.", "status": "draft"}
+{"id": "NpcTalk_D0A95674154B4D0194134E7DD0B18FBC_cv_text", "source": "They believed, without a doubt, that the Bulwark was Atreia's last hope.", "translation": "Bez wątpienia wierzyli, że Wał jest ostatnią nadzieją Atrei.", "status": "draft"}
+{"id": "NpcTalk_D0A98DEB5CA442EB93312505656C8DD0_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_D0AD7B847C2E4FCF8597B51222BFDA4B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0B087DA6C6A41F7841F4EE512E714B3_cv_text", "source": "I knew you'd follow me, kru! We're basically comrades now!\nI think it's about time we introduce ourselves!", "translation": "Wiedziałem, że za mną pójdziesz, kru! W zasadzie jesteśmy już towarzyszami!\nChyba pora się sobie przedstawić!", "status": "draft"}
+{"id": "NpcTalk_D0B0CB98E2A14A1AB3FEB22DBDA52730_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0B45A5B7F374BA2827B14FAB53727E1_cv_text", "source": "Welcome!", "translation": "Witaj!", "status": "draft"}
+{"id": "NpcTalk_D0B8D0AC75DF4A7A951F5678A5D4DBA5_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0B9AF6D44454C8A92AB032228743322_cv_text", "source": "Was this a ritual or an exorcism?", "translation": "To był rytuał czy egzorcyzm?", "status": "draft"}
+{"id": "NpcTalk_D0BC75DF3B2348A8AF674FBDE650772F_cv_text", "source": "There shouldn't be anyone slacking off, right?", "translation": "Nikt chyba się nie obija, prawda?", "status": "draft"}
+{"id": "NpcTalk_D0BFB386BF5449C89F1EEA563CC2972C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0BFCCB68CCD4B89A0EBF5843EA3EE88_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_D0C014B0924B4AF3AFE14BB5E7C78174_cv_text", "source": "The place doesn't have a name, but it's quiet and peaceful. Meet me there.", "translation": "To miejsce nie ma nazwy, ale jest ciche i spokojne. Spotkajmy się tam.", "status": "draft"}
+{"id": "NpcTalk_D0C3C5CAF9494690A8692E38BDA06181_cv_text", "source": "There is nothing that could be a clue.", "translation": "Nie ma tu niczego, co mogłoby być wskazówką.", "status": "draft"}
+{"id": "NpcTalk_D0C440CA42724B3C90BE126B5D87D49D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0CABBDCAB664B0F8819F38638D19250_cv_text", "source": "The experiment produced some unidentified contaminant this time. On top of that, it seems to have leaked into the nearby lake.", "translation": "Tym razem eksperyment wytworzył nieznaną substancję skażającą. Co więcej, chyba przedostała się do pobliskiego jeziora.", "status": "draft"}
+{"id": "NpcTalk_D0CB030848A048F08A0D3D61AD583999_cv_text", "source": "This is the rift.", "translation": "To szczelina.", "status": "draft"}
+{"id": "NpcTalk_D0CB05B647DB4D55B949EEA6EE8EB207_cv_text", "source": "{pcname}. If you promise to stop Phernos if he does anything reckless, I'll offer what help I can.", "translation": "{pcname}, jeśli obiecasz powstrzymać Phernosa, gdyby zrobił coś nierozważnego, udzielę ci wszelkiej możliwej pomocy.", "status": "draft"}
+{"id": "NpcTalk_D0CBB675512346ED85827D2C7EAA2814_cv_text", "source": "Are they devoid of all humanity? To kill so many all for the sake of keeping their little hidey hole a secret...", "translation": "Czy oni są pozbawieni człowieczeństwa? Zabijać tylu ludzi tylko po to, by utrzymać w tajemnicy swoją kryjówkę...", "status": "draft"}
+{"id": "NpcTalk_D0CDD62ECD844C3BB23F194F678BCD9C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0D1B2AB689F4A14B50C008D90B53CC4_cv_text", "source": "I'll return to the Barrier Tower. May the Illusion's Favor be with you.", "translation": "Wracam do Wieży Bariery. Niech sprzyja ci Łaska Iluzji.", "status": "draft"}
+{"id": "NpcTalk_D0D2A8BED14B476197102AFB7F9C257F_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0D88DDBBD5740F5834D7CCCC67D4BF4_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0DDAB57D86F4553AA613BBEDDF9BE66_cv_text", "source": "Don't even dream about leaving here alive!", "translation": "Nawet nie marz o tym, że ujdziesz stąd z życiem!", "status": "draft"}
+{"id": "NpcTalk_D0E36D8DFEA14C6FAF57D9E2BB3C764C_cv_text", "source": "The <QK>Impetusium</> is protected by a barrier erected through the sacrifice of Zikel and a hundred of his elite Archons. No one may pass through a barrier created through a Blood Oath.", "translation": "<QK>Impetusium</> chroni bariera wzniesiona dzięki ofierze Zikela i setki jego elitarnych Archontów. Nikt nie może przejść przez barierę utworzoną na mocy Krwawej Przysięgi.", "status": "draft"}
+{"id": "NpcTalk_D0E8FC8F15D24BC980B2682CA79B4830_cv_text", "source": "If I do develop a product with it, I'll give you a discount, nyerk. Can you bring me the monsters' clothing and weapons, nyerk?", "translation": "Jeśli uda mi się opracować z tego produkt, dostaniesz zniżkę, nyerk. Przyniesiesz mi ubrania i broń potworów, nyerk?", "status": "draft"}
+{"id": "NpcTalk_D0EB2FB7BB9249DF903BA51744A5637C_cv_text", "source": "You'll be able to get the poison sacs by catching Withered Branch Spiders.", "translation": "Worki z trucizną zdobędziesz, łapiąc Pająki Uschniętych Gałęzi.", "status": "draft"}
+{"id": "NpcTalk_D0EB412605A045ADB8B5ABB9AF7D881B_cv_text", "source": "Welcome back. So, this is Spirit Fruit?", "translation": "Witaj z powrotem. A więc to Owoc Ducha?", "status": "draft"}
+{"id": "NpcTalk_D0F06766B1114B368680A6A561894D61_cv_text", "source": "That's why he accepted the Dragon Lord Ishtar. Ridiculous! But in doing so, we started losing our Aullaeu culture and traditions.", "translation": "Dlatego zaakceptował Smoczego Władcę Ishtar. Niedorzeczne! Przez to zaczęliśmy jednak tracić kulturę i tradycje Aullaeu.", "status": "draft"}
+{"id": "NpcTalk_D0F53F8F61CB4CA98C07100AC223A098_cv_text", "source": "I thought there'd be treasure or at least a bunch of Kina. But no, it's just this old, worn book!", "translation": "Myślałem, że znajdę skarb albo chociaż trochę Kiny. A tu tylko ta stara, zniszczona księga!", "status": "draft"}
+{"id": "NpcTalk_D0FCD571A5D54B5CBDB6653AD1599BEE_chat_title", "source": "Sven", "translation": "Sven", "status": "draft"}
+{"id": "NpcTalk_D0FCD571A5D54B5CBDB6653AD1599BEE_cv_text", "source": "Hey... you're a Daeva, right? Shh, come this way...", "translation": "Hej... jesteś Daeva, prawda? Cicho, chodź tędy...", "status": "draft"}
+{"id": "NpcTalk_D0FEC98863444DDE93508BF6953E9B92_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D0FEC9E1F81C404794EB5024A6FD92A9_cv_text", "source": "Now, everyone get some rest.", "translation": "No dobrze, wszyscy odpocznijcie.", "status": "draft"}
+{"id": "NpcTalk_D0FF05F3D95440DD8DEBFADEF15E1C82_cv_text", "source": "This doesn't bode well. Quickly, let's go to the second prison!", "translation": "To zły znak. Szybko, chodźmy do drugiego więzienia!", "status": "draft"}
+{"id": "NpcTalk_D10698AF726A4F8BA069025DE9E8B105_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D109175D1932426691BB06EEE88D8050_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_D116FEF0D9FA4FB6928425EE07F8AA17_cv_text", "source": "Where do you think you're going?", "translation": "Dokąd się wybierasz?", "status": "draft"}
+{"id": "NpcTalk_D11B6B1C0D6A409A842B6269B2460842_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D11C2135B81A4790B4D1F114E73414E6_cv_text", "source": "I'm excited!", "translation": "Ale się cieszę!", "status": "draft"}
+{"id": "NpcTalk_D11D682938D14E36AE144E7E498D3A6D_cv_text", "source": "You're leaving Altgard?", "translation": "Wyjeżdżasz z Altgard?", "status": "draft"}
+{"id": "NpcTalk_D11E121F306B489CB17FA92F358BA339_cv_text", "source": "Haha, you're a tough one, eh?", "translation": "Haha, nieźle się trzymasz, co?", "status": "draft"}
+{"id": "NpcTalk_D125A34A4D594A449F1DECF62098A8B3_cv_text", "source": "Obtained Odyle Jelly to deliver to the Quai Merchants.", "translation": "Zdobyto galaretkę Odyle do dostarczenia Kupcom Quai.", "status": "draft"}
+{"id": "NpcTalk_D12701BE3B6D43C48D373775C06912B4_cv_text", "source": "Found an old pendant with a portrait inside.", "translation": "Znaleziono stary medalion z portretem w środku.", "status": "draft"}
+{"id": "NpcTalk_D127C279814D4C0D82CEEDC2D2CBD959_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D12824B907B44E3B8D9AA8598C3A9157_chat_title", "source": "Shinie", "translation": "Shinie", "status": "draft"}
+{"id": "NpcTalk_D12824B907B44E3B8D9AA8598C3A9157_cv_text", "source": "Oh, you actually crafted Steel Ingot!", "translation": "Naprawdę udało ci się wykonać sztabkę stali!", "status": "draft"}
+{"id": "NpcTalk_D128E4281ED4426FB204DF18C0184054_cv_text", "source": "Creation isn't easy.", "translation": "Tworzenie nie jest łatwe.", "status": "draft"}
+{"id": "NpcTalk_D12ED16C550045D4BAD906B9C8AB3DA4_cv_text", "source": "I'll have to postpone the research while I work out what to do next.", "translation": "Muszę odłożyć badania, dopóki nie wymyślę, co dalej.", "status": "draft"}
+{"id": "NpcTalk_D132A240E2B144A49F43805E6BB8B713_cv_text", "source": "To have killed a one-time comrade... with my own hands...", "translation": "Zabić dawnego towarzysza... własnymi rękami...", "status": "draft"}
+{"id": "NpcTalk_D1347B51A0C8499CA1BA6B7D550B38FD_cv_text", "source": "If only we could have met before losing so many comrades. They would have been so happy about no longer needing to deal with the dust...", "translation": "Gdybyśmy spotkali się, zanim straciliśmy tylu towarzyszy. Tak bardzo ucieszyliby się, że nie muszą już zmagać się z pyłem...", "status": "draft"}
+{"id": "NpcTalk_D1350D09407145478D20F2161569D87B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1372CE53A3B4FA2BE73A6FBBBCCD21D_cv_text", "source": "It was frozen completely solid... I thought just a little fire would be fine... *cough*", "translation": "Całkiem zamarzło... Myślałem, że wystarczy mały ogień... *kaszel*", "status": "draft"}
+{"id": "NpcTalk_D13B5C0FC9E540EE89F4B006D02E2472_cv_text", "source": "You might also be able to glean some things from the Balaur themselves. You should talk with Ulgorn before you leave, though.", "translation": "Możesz też dowiedzieć się czegoś od samych Balaur. Zanim odejdziesz, porozmawiaj jednak z Ulgornem.", "status": "draft"}
+{"id": "NpcTalk_D13D2CB4F4B948D59567296CF4A1BF97_cv_text", "source": "Avenge him!", "translation": "Pomścij go!", "status": "draft"}
+{"id": "NpcTalk_D1411A854303480184AFFDD76DEFE83B_cv_text", "source": "If we such a surplus of supplies, I'd rather we distribute them to the legionnaires instead of giving them away.", "translation": "Gdybyśmy mieli nadmiar zapasów, wolałbym rozdać je legionistom, zamiast oddawać je innym.", "status": "draft"}
+{"id": "NpcTalk_D14764E3D7054FF4A23C4BAF00979719_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1579E6CC7C946F6961D0A21C68695A2_cv_text", "source": "Why ask about something like that? And what makes you think I'll tell you, kru?", "translation": "Po co o to pytasz? I skąd pomysł, że ci odpowiem, kru?", "status": "draft"}
+{"id": "NpcTalk_D1588AC2B8D74AEE9170CB6A276F2911_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D158DE7F45E849D3BCA3E9646844230D_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D15FC3AFC7304D89BC4E10ABF2FE7B00_cv_text", "source": "I'd rather not go in. I'll wait here and keep an eye on the surroundings.", "translation": "Nie chcę tam wchodzić. Poczekam tu i przypilnuję okolicy.", "status": "draft"}
+{"id": "NpcTalk_D161AC45DD464A30A87BEC24957B37D1_cv_text", "source": "Ugh, you stinking rats! I'm the chieftain of this tribe!", "translation": "Ugh, śmierdzące szczury! Jestem wodzem tego plemienia!", "status": "draft"}
+{"id": "NpcTalk_D1630F268D434429A38CB44E9E9A1DCB_cv_text", "source": "All right, it's open. Let's join up with the others quickly.", "translation": "Dobrze, otwarte. Szybko dołączmy do pozostałych!", "status": "draft"}
+{"id": "NpcTalk_D1650596FB4B4351919498B34608533F_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_D16CCFB3DB1E446DA14B9A61E1F4D83B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D171A8409CE0432E8ACEAE8A231BF3AB_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D172A57AEAA74B8AA8CBA0F5E83D8E10_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D175726FD7CC4CFD83B1C68A3416BC0E_cv_text", "source": "He said I did well... He congratulated me on ending my cursed connection to Gerod.", "translation": "Powiedział, że dobrze się spisałem... Pogratulował mi zerwania przeklętej więzi z Gerodem.", "status": "draft"}
+{"id": "NpcTalk_D1790011083D4B41BF11826D014A9A9C_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D18433E5803B4CD09A9F85E97BCDC420_cv_text", "source": "With only the shell remaining, there is no point... Would there be a way to restore it?", "translation": "Została tylko skorupa, więc to bez sensu... Czy dałoby się ją jakoś odtworzyć?", "status": "draft"}
+{"id": "NpcTalk_D18438F064D0437CB9F0FA95E36CD710_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1862266D8E148F3B922D8C3B29EB66F_cv_text", "source": "Are you as sleepy as I am...?", "translation": "Też chce ci się spać...?", "status": "draft"}
+{"id": "NpcTalk_D1867ADA60CF44EC98873569A4F9C5C1_cv_text", "source": "I don't want to die a worthless death, least of all in a place like this!", "translation": "Nie chcę zginąć bez sensu, a już na pewno nie w takim miejscu!", "status": "draft"}
+{"id": "NpcTalk_D18BF863D9E345F69380DBE3776DD464_cv_text", "source": "Come closer. Please, join me in prayer.", "translation": "Podejdź bliżej. Pomódl się ze mną.", "status": "draft"}
+{"id": "NpcTalk_D19175CBC7DB49BA996096DE9F501697_cv_text", "source": "I used to think I had no real attachment to life, but now, all I want is to live.", "translation": "Kiedyś myślałem, że życie niewiele dla mnie znaczy, ale teraz pragnę już tylko żyć.", "status": "draft"}
+{"id": "NpcTalk_D19239F4381448EDB84A8F2D6C669A86_cv_text", "source": "But first, we've lost contact with a number of legionnaires out on a mission. We need to find out what happened.", "translation": "Najpierw jednak straciliśmy kontakt z kilkoma legionistami wysłanymi na misję. Musimy ustalić, co się stało.", "status": "draft"}
+{"id": "NpcTalk_D19E3BC3CFFA4A8E94A0EC3EA81BA373_cv_text", "source": "Let's move... Time is of the essence.", "translation": "Ruszajmy... Liczy się każda chwila.", "status": "draft"}
+{"id": "NpcTalk_D1A388F7A045456298263BA708D601F1_cv_text", "source": "If that lake is real, it might mean there is some hope on this island. I hope you find what you seek there.", "translation": "Jeśli to jezioro istnieje naprawdę, może jest jeszcze jakaś nadzieja dla tej wyspy. Oby udało ci się znaleźć to, czego szukasz.", "status": "draft"}
+{"id": "NpcTalk_D1A8FF9624AF4C2CB889F424369F7BD6_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1AC2A65895244CDB0A5AAD7A4AAC0A2_cv_text", "source": "But gathering Drakana is like asking for the moon. For some reason, rumors spread that it's valuable, attracting many people.", "translation": "Ale zdobycie Drakany graniczy z cudem. Z jakiegoś powodu rozeszły się plotki, że jest cenna, i przyciągnęły wielu ludzi.", "status": "draft"}
+{"id": "NpcTalk_D1ACF81D501D45CA8AD89B0B3AB41AF8_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1AF75A2410146A6971A042B74BAB0B7_cv_text", "source": "Reuben... What kind of person were you?", "translation": "Reuben... Jakim był człowiekiem?", "status": "draft"}
+{"id": "NpcTalk_D1B6447DF7ED457CA418C7C80CA2DA1C_cv_text", "source": "Here we go...", "translation": "No to zaczynamy...", "status": "draft"}
+{"id": "NpcTalk_D1B6932856FC4764A13D4C9A089A66B8_chat_title", "source": "Dada", "translation": "Dada", "status": "draft"}
+{"id": "NpcTalk_D1B6932856FC4764A13D4C9A089A66B8_cv_text", "source": "Potions are potent as expected!", "translation": "Mikstury są naprawdę skuteczne!", "status": "draft"}
+{"id": "NpcTalk_D1B811AF6002424C907464D83396BB49_cv_text", "source": "Thanks to you, my job and our guild's honor are safe! I'd better go deliver the supplies to Xiao quickly, nyerk!", "translation": "Dzięki tobie moja praca i honor gildii są bezpieczne! Muszę szybko dostarczyć zaopatrzenie Xiao, nyerk!", "status": "draft"}
+{"id": "NpcTalk_D1C46B72D0A2410EBB00B5F0C5AB2720_cv_text", "source": "*sniffle* ...Huh? You're back already? How did it go?", "translation": "*pociąga nosem* ...Co? Już jesteś z powrotem? Jak poszło?", "status": "draft"}
+{"id": "NpcTalk_D1C58913660E416FBDF8275B315CE6F5_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1CDB04BF5D24994B59549D45AAA4106_cv_text", "source": "I'll rip you to shreds!", "translation": "Rozszarpię cię na strzępy!", "status": "draft"}
+{"id": "NpcTalk_D1CDE47CBEE94D62B1E4766E3A7AC286_cv_text", "source": "Damn it, Bjorn! Open your eyes!", "translation": "Cholera, Bjorn! Otwórz oczy!", "status": "draft"}
+{"id": "NpcTalk_D1D27BCF011A4AE9AA8EB59F6D35D4DA_cv_text", "source": "Thank you, Daeva! You've saved us!", "translation": "Dziękuję, Daeva! Uratowano nas!", "status": "draft"}
+{"id": "NpcTalk_D1D4F99302F844649B779DFBA58EFE08_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1D8DD1F9C6842C69F3A83B04FC49B0C_cv_text", "source": "There's another Updraft on that Sky Island, kru.", "translation": "Na tamtej Podniebnej Wyspie jest jeszcze jeden Prąd Wznoszący, kru.", "status": "draft"}
+{"id": "NpcTalk_D1DA34896E1D4310BAF41089A34C1DEB_cv_text", "source": "In the past, this was the place where Twelve Daeva, including a warrior named <QK>Uruthum</>, fought against a giant drake named <QK>Minusha</>.", "translation": "Dawniej właśnie tutaj Dwunastu Daevów, w tym wojownik <QK>Uruthum</>, walczyło z olbrzymim smokiem <QK>Minushą</>.", "status": "draft"}
+{"id": "NpcTalk_D1DA46575D654185B0A61D7E68AB97C6_cv_text", "source": "Here, have a read.", "translation": "Proszę, przeczytaj.", "status": "draft"}
+{"id": "NpcTalk_D1DBAA2FD5254DE89FE24D8966259FB3_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1E1CF072A2040D4B291B83B45E1ECF3_cv_text", "source": "Ugh, it's an alarm device!", "translation": "Ugh, to urządzenie alarmowe!", "status": "draft"}
+{"id": "NpcTalk_D1E98765CC10442ABA2A046AA99CB703_cv_text", "source": "There are grown Dratona and Dratona Tamers here, kru.", "translation": "Są tu dorosłe Dratony i ich treserzy, kru.", "status": "draft"}
+{"id": "NpcTalk_D1F082FD958343FABC87886DC1E0147E_cv_text", "source": "Temporary Content", "translation": "Treść tymczasowa", "status": "draft"}
+{"id": "NpcTalk_D1F217E66B24486B9EAA20D666B27F78_cv_text", "source": "But why would the legendary Akarios be travelling together with the likes of Caelid?", "translation": "Ale dlaczego legendarny Akarios podróżuje z kimś takim jak Caelid?", "status": "draft"}
+{"id": "NpcTalk_D1F64280A7AA4D0D8A0BE8A965A4B107_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1FD5378F9954666966FDFA7FB605B13_cv_text", "source": "And who the hell are you?", "translation": "A ty, do cholery, kim jesteś?", "status": "draft"}
+{"id": "NpcTalk_D1FD89F400734B689B5DDA5CD92A43CA_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D1FD8D54352645B8836EF5ED6CD4170C_cv_text", "source": "We need to create chaos at the Drana Plantation. Any suggestions?", "translation": "Musimy wywołać chaos na Plantacji Drany. Jakieś pomysły?", "status": "draft"}
+{"id": "NpcTalk_D1FDDD2B7C0E41FC9E72F58A5E93F39A_cv_text", "source": "Looks like we have an infestation!", "translation": "Wygląda na to, że mamy plagę!", "status": "draft"}
+{"id": "NpcTalk_D1FE9CA4877D4891A7B8914A5B6D9505_cv_text", "source": "It won't be easy, but at least we now know for certain that the Cores holding the Empyrean Lords' power can truly be found!", "translation": "To nie będzie łatwe, ale przynajmniej wiemy już na pewno, że Rdzenie zawierające moc Władców Empyreum naprawdę istnieją!", "status": "draft"}
+{"id": "NpcTalk_D1FEA53886374AC18888FC826558B5F6_cv_text", "source": "Congratulations. It was my honor to contribute to your ascension...", "translation": "Gratulacje. To był zaszczyt przyczynić się do twojej ascendencji...", "status": "draft"}
+{"id": "NpcTalk_D200EA3288E84113BFC52D580E6ACD57_cv_text", "source": "I found a fellow Fang.", "translation": "Znalazłem innego członka Kłów.", "status": "draft"}
+{"id": "NpcTalk_D2010152FF2944D1B241257F7157DD0B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D201E39A8BC346AD865C791CDBEEF68D_cv_text", "source": "Those Blades are quite remarkable. There's nobody better at capturing Daeva and extracting their souls.", "translation": "Ostrza są naprawdę niezwykłe. Nikt nie dorównuje im w chwytaniu Daevów i wydobywaniu ich dusz.", "status": "draft"}
+{"id": "NpcTalk_D20468780FFC41D6AA16D4154C1C1370_chat_title", "source": "Shinie", "translation": "Shinie", "status": "draft"}
+{"id": "NpcTalk_D20468780FFC41D6AA16D4154C1C1370_cv_text", "source": "Spot an anomaly and take care of it.", "translation": "Wypatrz anomalię i się nią zajmij.", "status": "draft"}
+{"id": "NpcTalk_D20E2F415661426A9B11B8364C440034_cv_text", "source": "We won't give up!", "translation": "Nie poddamy się!", "status": "draft"}
+{"id": "NpcTalk_D2169A9C286045728CC45235CEB9F7C2_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D21B651137FF414B8B75BA492765A0E4_cv_text", "source": "We heard some Daeva have shown up to do some research. Are they Creions?", "translation": "Słyszeliśmy, że do siedziby przybyli Daeva, by prowadzić badania. To Kreionowie?", "status": "draft"}
+{"id": "NpcTalk_D222B29E4F86497486273EF48AA3666C_cv_text", "source": "Belenis! You're safe. Thank goodness! Did you retrieve the Kaisinel's Legacy Trilogy?", "translation": "Belenis! Nic ci nie jest. Całe szczęście! Udało ci się zdobyć trylogię Dziedzictwa Kaisinel?", "status": "draft"}
+{"id": "NpcTalk_D22BDFED449E4192AB0C62B88CFB3370_cv_text", "source": "I was injured and couldn't make it in time for the assembly. So Lieutenant Perion... fought alone...", "translation": "Byłem ranny i nie zdążyłem na zgromadzenie. A więc porucznik Perion... walczył samotnie...", "status": "draft"}
+{"id": "NpcTalk_D22E9ECE911848AC92BC9F0F80B1672E_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D2332261E4DC48269001E01AFF6FF722_cv_text", "source": "Are you looking for something in particular?", "translation": "Szukasz czegoś konkretnego?", "status": "draft"}
+{"id": "NpcTalk_D23575CAE727488B89F976FD8C231C26_cv_text", "source": "Can you tell me about Zumion? Can other Guardite speak, too?!", "translation": "Opowiesz mi o Zumionie? Inne Guardite też potrafią mówić?!", "status": "draft"}
+{"id": "NpcTalk_D2371D08D0AC410CB6E1C7AEBD6F10B5_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D23D1F3014E24A1F996716431907DDAC_cv_text", "source": "We need his help. Do you know where he went?", "translation": "Potrzebujemy jego pomocy. Wiesz, dokąd poszedł?", "status": "draft"}
+{"id": "NpcTalk_D23E10F3512647A8B51BFBFBFAC8C79D_cv_text", "source": "Reda! Raising the Bulwark to protect the world of the Daeva was the only choice the Empyrean Lords had.", "translation": "Redo! Wzniesienie Wału, by chronić świat Daevów, było jedynym wyjściem, jakie mieli Władcy Empyreum.", "status": "draft"}
+{"id": "NpcTalk_D23E92A72F184C98A53CECF4E62D3A8F_cv_text", "source": "Are you ready to start? Just step into the blue light like last time!", "translation": "Gotowo? Jak poprzednio, po prostu wejdź w niebieskie światło!", "status": "draft"}
+{"id": "NpcTalk_D243CBFA90FE48FB83524872A82BB115_cv_text", "source": "I've planted a <QK>bomb</> on your friend here. If I press this, he'll be sprayed all over the walls.", "translation": "Podłożyłem twojemu koledze <QK>bombę</>. Jeśli ją uruchomię, rozpryśnie się po ścianach.", "status": "draft"}
+{"id": "NpcTalk_D247692C16FB441C89C1749EC17D6582_cv_text", "source": "May Zemurru bless you...", "translation": "Niech Zemurru ma cię w opiece...", "status": "draft"}
+{"id": "NpcTalk_D24C51A1F21944519EDE02AE37F090C3_cv_text", "source": "Enough questions, Kobold, just stick to your work, krak! If we fail to guard the <QK>Command Post</> camp again, you're dead, krarak.", "translation": "Dość pytań, Koboldzie, zajmij się pracą, krak! Jeśli znów nie upilnujemy obozu <QK>Stanowiska Dowodzenia</>, zginiesz, krarak.", "status": "draft"}
+{"id": "NpcTalk_D24CE6EB0DF94CC1B67C35A80F366CFB_cv_text", "source": "Were you serious earlier, Caelid? About the Dawn Legion helping us?", "translation": "Caelid, mówiłeś poważnie? Legion Świtu naprawdę nam pomoże?", "status": "draft"}
+{"id": "NpcTalk_D24DB06AF9464C71AE57301DF31BE0FE_cv_text", "source": "Gerod... How could you let yourself be used by those filthy Balaur?", "translation": "Gerod... Jak mogłeś dać się wykorzystać tym plugawym Balaur?", "status": "draft"}
+{"id": "NpcTalk_D24DC3C8D8CB487CB8D8FF357EFF3341_cv_text", "source": "I am a Mau of the Black Claw Tribe. I cannot be here with you. I must leave!", "translation": "Jestem Mau z plemienia Czarnego Pazura. Nie mogę tu z wami zostać. Muszę odejść!", "status": "draft"}
+{"id": "NpcTalk_D24EC9ACDCC24818B16FCA028073BEB1_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D2539B10697E4C0D8D47384C3D42266B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D2543DCCAA814166BD2E0B1F64FFCAAF_cv_text", "source": "*cough* Thank you so much.", "translation": "*kaszel* Bardzo dziękuję.", "status": "draft"}
+{"id": "NpcTalk_D258BE8FD6B34FF2B3E4E6BFE6F60A46_cv_text", "source": "*sigh* Fine, enough talk.", "translation": "*wzdycha* Dobrze, koniec rozmowy.", "status": "draft"}
+{"id": "NpcTalk_D259DC9ED20F4D1E8B1CFE142CC5C37B_cv_text", "source": "But if that happens... Odar will die.", "translation": "Ale jeśli do tego dojdzie... Odar zginie.", "status": "draft"}
+{"id": "NpcTalk_D25B3067EECA42538EF69CF2E20F291A_cv_text", "source": "We should divide up the work.", "translation": "Podzielmy się zadaniami.", "status": "draft"}
+{"id": "NpcTalk_D25B5F68858C414086ED5B5A2C55AB97_cv_text", "source": "All right, first, this is the application you need to submit if you wish to join the Dawn Legion!", "translation": "Dobrze, oto formularz, który trzeba złożyć, by dołączyć do Legionu Świtu!", "status": "draft"}
+{"id": "NpcTalk_D25C3B44DC6347DDA8AAC5E26C1FD1C0_cv_text", "source": "If only we can stop the mutation quickly enough, there's a chance to survive. We should let people know its progression can be halted.", "translation": "Jeśli szybko powstrzymamy mutację, jest szansa na przeżycie. Trzeba powiedzieć ludziom, że można zatrzymać jej rozwój.", "status": "draft"}
+{"id": "NpcTalk_D26113469F6B46F6B8B5AE4FA6236C0C_cv_text", "source": "Finally we can get out of here!", "translation": "Wreszcie możemy stąd wyjść!", "status": "draft"}
+{"id": "NpcTalk_D263BE928ADB403F99304EDD4E8C25FD_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D264EBB040244A80B1F8DF4DE006BC53_cv_text", "source": "You'll see how completely obsessed he was with Nemon. *cough*", "translation": "Zobaczysz, jak bardzo był obsesyjnie skupiony na Nemon. *kaszel*", "status": "draft"}
+{"id": "NpcTalk_D26AF28F24974E6EAD1269CBFFF6808B_cv_text", "source": "???", "translation": "", "status": "pending"}
+{"id": "NpcTalk_D26B5965A4CE48BE9B93D71A11E620D2_cv_text", "source": "You're even more useful than you look! Now I just need to mix it into the base I've been working on!", "translation": "Jesteś o wiele bardziej przydatną osobą, niż się wydajesz! Teraz wystarczy domieszać to do przygotowanej przeze mnie bazy!", "status": "draft"}
+{"id": "NpcTalk_D2717FEB1412439BBF78BFF2951E8DBF_cv_text", "source": "???", "translation": "", "status": "pending"}

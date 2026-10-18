@@ -99,20 +99,20 @@
 {"id": "EnvObjData_E_D0_Layer_3_SearchEffect_001_desc", "source": "Enter the canyon", "translation": "Wejdź do kanionu", "status": "draft"}
 {"id": "EnvObjData_E_D0_Layer_3_Vine_002_desc", "source": "Vines Blocking the Path", "translation": "Pnącza blokujące drogę", "status": "draft"}
 {"id": "EnvObjData_E_D0_Layer_3_Vine_003_desc", "source": "Vines Blocking the Path", "translation": "Pnącza blokujące drogę", "status": "draft"}
-{"id":"EnvObjData_E_D0_Region_03_TeleportArtifact_01_desc","source":"Aldelle Village","translation":"Wieś Aldelle","status":"draft"}
-{"id":"EnvObjData_E_D0_Region_03_TeleportArtifact_02_desc","source":"Witch's Cabin","translation":"Chatka wiedźmy","status":"draft"}
-{"id":"EnvObjData_E_D0_Region_03_TeleportArtifact_03_desc","source":"Abandoned Barracks Site","translation":"Opuszczone koszary","status":"draft"}
+{"id": "EnvObjData_E_D0_Region_03_TeleportArtifact_01_desc", "source": "Aldelle Village", "translation": "Wieś Aldelle", "status": "draft"}
+{"id": "EnvObjData_E_D0_Region_03_TeleportArtifact_02_desc", "source": "Witch's Cabin", "translation": "Chatka wiedźmy", "status": "draft"}
+{"id": "EnvObjData_E_D0_Region_03_TeleportArtifact_03_desc", "source": "Abandoned Barracks Site", "translation": "Opuszczone koszary", "status": "draft"}
 {"id": "EnvObjData_E_D0_Region_03_Vine_Dummy_desc", "source": "Vine Canyon Entrance", "translation": "Wejście do Kanionu Pnączy", "status": "draft"}
 {"id": "EnvObjData_E_D0_Starter_HQ003_Warehouse_001_desc", "source": "Guard Storage Door", "translation": "Drzwi magazynu straży", "status": "draft"}
 {"id": "EnvObjData_E_D0_Starter_HQ003_Warehouse_002_desc", "source": "Guard Storage Door", "translation": "Drzwi magazynu straży", "status": "draft"}
 {"id": "EnvObjData_E_D0_SupplyBox_001_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
 {"id": "EnvObjData_E_D0_SupplyBox_002_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
-{"id":"EnvObjData_E_D1_AbandonedCamp_TeleportArtifact_001_desc","source":"Abandoned Site","translation":"Opuszczona placówka","status":"draft"}
+{"id": "EnvObjData_E_D1_AbandonedCamp_TeleportArtifact_001_desc", "source": "Abandoned Site", "translation": "Opuszczona placówka", "status": "draft"}
 {"id": "EnvObjData_E_D1_AbandonedCampsite_001_desc", "source": "Abandoned Campsite Door", "translation": "Drzwi opuszczonego obozowiska", "status": "draft"}
 {"id": "EnvObjData_E_D1_AbandonedCampsite_002_desc", "source": "Abandoned Campsite Door", "translation": "Drzwi opuszczonego obozowiska", "status": "draft"}
-{"id":"EnvObjData_E_D1_AbandonedCampsite_TeleportArtifact_001_desc","source":"Abandoned Campsite","translation":"Opuszczony obóz","status":"draft"}
-{"id":"EnvObjData_E_D1_AbandonedRuins_EnterDoor_001_desc","source":"Abandoned Ruins","translation":"Opuszczone ruiny","status":"draft"}
-{"id":"EnvObjData_E_D1_AbandonedRuins_ExitDoor_001_desc","source":"Abandoned Ruins","translation":"Opuszczone ruiny","status":"draft"}
+{"id": "EnvObjData_E_D1_AbandonedCampsite_TeleportArtifact_001_desc", "source": "Abandoned Campsite", "translation": "Opuszczony obóz", "status": "draft"}
+{"id": "EnvObjData_E_D1_AbandonedRuins_EnterDoor_001_desc", "source": "Abandoned Ruins", "translation": "Opuszczone ruiny", "status": "draft"}
+{"id": "EnvObjData_E_D1_AbandonedRuins_ExitDoor_001_desc", "source": "Abandoned Ruins", "translation": "Opuszczone ruiny", "status": "draft"}
 {"id": "EnvObjData_E_D1_AbandonedRuins_OpenDoor_01_desc", "source": "Merchant's Yard Door", "translation": "Drzwi placu kupieckiego", "status": "draft"}
 {"id": "EnvObjData_E_D1_AltgardToMorheim_AgitPortal_desc", "source": "Hall Teleportation Portal", "translation": "Portal teleportacyjny do sali", "status": "draft"}
 {"id": "EnvObjData_E_D1_AltgardToMorheim_AgitPortal_interact_desc", "source": "Traveling to Morheim...", "translation": "Podróż do Morheimu...", "status": "draft"}
@@ -120,7 +120,7 @@
 {"id": "EnvObjData_E_D1_AmuntaObj_002_desc", "source": "Worn Notebook", "translation": "Zniszczony notes", "status": "draft"}
 {"id": "EnvObjData_E_D1_AmuntaObj_003_desc", "source": "Supply Chest", "translation": "Skrzynia z zaopatrzeniem", "status": "draft"}
 {"id": "EnvObjData_E_D1_AmuntaObj_004_desc", "source": "Dropped Staff", "translation": "Porzucona laska", "status": "draft"}
-{"id":"EnvObjData_E_D1_AmuntasHideout_TeleportArtifact_001_desc","source":"Amunta's Hideout","translation":"Kryjówka Amunty","status":"draft"}
+{"id": "EnvObjData_E_D1_AmuntasHideout_TeleportArtifact_001_desc", "source": "Amunta's Hideout", "translation": "Kryjówka Amunty", "status": "draft"}
 {"id": "EnvObjData_E_D1_ArchonBook_001_desc", "source": "Old Monument", "translation": "Stary pomnik", "status": "draft"}
 {"id": "EnvObjData_E_D1_ArchonBook_002_desc", "source": "Torn Tome", "translation": "Podarty tom", "status": "draft"}
 {"id": "EnvObjData_E_D1_ArchonBook_003_desc", "source": "Worn Tome", "translation": "Zniszczony tom", "status": "draft"}
@@ -134,7 +134,7 @@
 {"id": "EnvObjData_E_D1_BalaurReport_004_desc", "source": "Balaur Document", "translation": "Dokument Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_D1_BarracksWarehouse_001_desc", "source": "Barracks Storage Door", "translation": "Drzwi magazynu koszar", "status": "draft"}
 {"id": "EnvObjData_E_D1_BarracksWarehouse_002_desc", "source": "Barracks Storage Door", "translation": "Drzwi magazynu koszar", "status": "draft"}
-{"id":"EnvObjData_E_D1_BasfeltWaterfall_TeleportArtifact_001_desc","source":"Basfelt Waterfall","translation":"Wodospad Basfelt","status":"draft"}
+{"id": "EnvObjData_E_D1_BasfeltWaterfall_TeleportArtifact_001_desc", "source": "Basfelt Waterfall", "translation": "Wodospad Basfelt", "status": "draft"}
 {"id": "EnvObjData_E_D1_BirdNest_01_desc", "source": "Hay Bale", "translation": "Stóg siana", "status": "draft"}
 {"id": "EnvObjData_E_D1_BlackClawBox_001_desc", "source": "Mau Supply Chest", "translation": "Skrzynia z zaopatrzeniem Mau", "status": "draft"}
 {"id": "EnvObjData_E_D1_BlackClawKey_001_desc", "source": "Warden's Key Storage", "translation": "Skrytka na klucze strażnika", "status": "draft"}
@@ -155,27 +155,27 @@
 {"id": "EnvObjData_E_D1_BookList_001_desc", "source": "Wudsson's Ledger", "translation": "Rejestr Wudssona", "status": "draft"}
 {"id": "EnvObjData_E_D1_BoxBundle_001_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
 {"id": "EnvObjData_E_D1_BoxBundle_002_desc", "source": "Pile of Luggage", "translation": "Stos bagaży", "status": "draft"}
-{"id":"EnvObjData_E_D1_BrokenCart_01_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_D1_BrokenCart_01_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_D1_BrokenStatue_001_desc", "source": "Broken Statue", "translation": "Uszkodzony posąg", "status": "draft"}
 {"id": "EnvObjData_E_D1_BrokenWagon_01_desc", "source": "Broken Wagon", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_D1_BrokenWoodenBarrel_01_001_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
-{"id":"EnvObjData_E_D1_CampOfPurakin_TeleportArtifact_001_desc","source":"Shulak Street Stall","translation":"Uliczne stoisko Szulaków","status":"draft"}
+{"id": "EnvObjData_E_D1_CampOfPurakin_TeleportArtifact_001_desc", "source": "Shulak Street Stall", "translation": "Uliczne stoisko Szulaków", "status": "draft"}
 {"id": "EnvObjData_E_D1_Cart_001_desc", "source": "Steel Hammer Fafnite Cart", "translation": "Wózek z Fafnitem ze Stalowego Młota", "status": "draft"}
 {"id": "EnvObjData_E_D1_Chair_001_desc", "source": "Wooden Chair with Backrest", "translation": "Drewniane krzesło z oparciem", "status": "draft"}
 {"id": "EnvObjData_E_D1_Chair_002_desc", "source": "Wooden Chair", "translation": "Drewniane krzesło", "status": "draft"}
-{"id":"EnvObjData_E_D1_CheckpointofGarolik_TeleportArtifact_001_desc","source":"Galorik's Inspection Area","translation":"Punkt kontrolny Galorika","status":"draft"}
+{"id": "EnvObjData_E_D1_CheckpointofGarolik_TeleportArtifact_001_desc", "source": "Galorik's Inspection Area", "translation": "Punkt kontrolny Galorika", "status": "draft"}
 {"id": "EnvObjData_E_D1_ChristmasBox_01_desc", "source": "Reindeer's Small Gift Box", "translation": "Małe pudełko z prezentem od renifera", "status": "draft"}
 {"id": "EnvObjData_E_D1_ChristmasBox_02_desc", "source": "Reindeer's Lavish Gift Box", "translation": "Wystawne pudełko z prezentem od renifera", "status": "draft"}
 {"id": "EnvObjData_E_D1_ChristmasBox_03_desc", "source": "Reindeer's Radiant Gift Box", "translation": "Promienne pudełko z prezentem od renifera", "status": "draft"}
 {"id": "EnvObjData_E_D1_ClosedStoneCoffin_005_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
-{"id":"EnvObjData_E_D1_ColdwindShelter_TeleportArtifact_001_desc","source":"Briskwind Shelter","translation":"Schronienie Briskwind","status":"draft"}
-{"id":"EnvObjData_E_D1_CollapsedGully_TeleportArtifact_001_desc","source":"Collapsed Chasm","translation":"Zawalona przepaść","status":"draft"}
+{"id": "EnvObjData_E_D1_ColdwindShelter_TeleportArtifact_001_desc", "source": "Briskwind Shelter", "translation": "Schronienie Briskwind", "status": "draft"}
+{"id": "EnvObjData_E_D1_CollapsedGully_TeleportArtifact_001_desc", "source": "Collapsed Chasm", "translation": "Zawalona przepaść", "status": "draft"}
 {"id": "EnvObjData_E_D1_CollapsedHallOfFame_TeleportArtifact_001_desc", "source": "Collapsed Hall of Fame", "translation": "Zapadnięta Sala Chwały", "status": "draft"}
 {"id": "EnvObjData_E_D1_Common_DeadFangs_01_desc", "source": "Fang Legion Corpse", "translation": "Zwłoki członka Legionu Kła", "status": "draft"}
 {"id": "EnvObjData_E_D1_Common_DeadFangs_02_desc", "source": "Fang Legion Corpse", "translation": "Zwłoki członka Legionu Kła", "status": "draft"}
 {"id": "EnvObjData_E_D1_Common_DeadFangs_03_desc", "source": "Fang Legion Corpse", "translation": "Zwłoki członka Legionu Kła", "status": "draft"}
-{"id":"EnvObjData_E_D1_CreionCamp_TeleportArtifact_001_desc","source":"Creion Campsite","translation":"Obóz Creion","status":"draft"}
-{"id":"EnvObjData_E_D1_CreviceCave_TeleportArtifact_001_desc","source":"Fissure Cave","translation":"Jaskinia Szczeliny","status":"draft"}
+{"id": "EnvObjData_E_D1_CreionCamp_TeleportArtifact_001_desc", "source": "Creion Campsite", "translation": "Obóz Creion", "status": "draft"}
+{"id": "EnvObjData_E_D1_CreviceCave_TeleportArtifact_001_desc", "source": "Fissure Cave", "translation": "Jaskinia Szczeliny", "status": "draft"}
 {"id": "EnvObjData_E_D1_DQ_SearchEffect_01_desc", "source": "Mourn", "translation": "Opłakiwanie", "status": "draft"}
 {"id": "EnvObjData_E_D1_DQ_SearchEffect_02_desc", "source": "Console", "translation": "Pocieszanie", "status": "draft"}
 {"id": "EnvObjData_E_D1_DQ_SearchEffect_03_desc", "source": "Congratulate", "translation": "Gratulowanie", "status": "draft"}
@@ -227,7 +227,7 @@
 {"id": "EnvObjData_E_D1_DeadVillagerM_001_desc", "source": "Male Corpse", "translation": "Zwłoki mężczyzny", "status": "draft"}
 {"id": "EnvObjData_E_D1_DeadVillagerM_002_desc", "source": "Male Corpse", "translation": "Zwłoki mężczyzny", "status": "draft"}
 {"id": "EnvObjData_E_D1_DeadVillagerM_003_desc", "source": "Male Corpse", "translation": "Zwłoki mężczyzny", "status": "draft"}
-{"id":"EnvObjData_E_D1_DestroyedSite_TeleportArtifact_001_desc","source":"Temporary Retreat","translation":"Tymczasowe schronienie","status":"draft"}
+{"id": "EnvObjData_E_D1_DestroyedSite_TeleportArtifact_001_desc", "source": "Temporary Retreat", "translation": "Tymczasowe schronienie", "status": "draft"}
 {"id": "EnvObjData_E_D1_DraTotemBig_001_desc", "source": "Balaur Large Totem", "translation": "Wielki totem Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_D1_DraTotemBig_001_interact_desc", "source": "Deactivating...", "translation": "Dezaktywowanie...", "status": "draft"}
 {"id": "EnvObjData_E_D1_DraTotemD_001_desc", "source": "Deactivated Large Balaur Totem", "translation": "Nieaktywny wielki totem Balaurów", "status": "draft"}

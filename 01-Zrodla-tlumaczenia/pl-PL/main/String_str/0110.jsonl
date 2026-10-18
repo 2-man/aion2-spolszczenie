@@ -1,250 +1,250 @@
-{"id":"String_STR_M_L1_AH_C_Guardit_Named_body","source":"Divine Ansas","translation":"Boski Ansas","status":"draft"}
-{"id":"String_STR_M_L1_AH_C_Mole_01_V01_body","source":"Contaminated Armadon","translation":"Skażony Armadon","status":"draft"}
-{"id":"String_STR_M_L1_AH_C_Scorpion_01_body","source":"Contaminated Scorpion","translation":"Skażony skorpion","status":"draft"}
-{"id":"String_STR_M_L1_AH_C_Slime_01_body","source":"Contaminated Poison Slime","translation":"Skażony trujący szlam","status":"draft"}
-{"id":"String_STR_M_L1_AH_Turret_03_01_body","source":"Altamia Highland Ruins Device","translation":"Urządzenie z ruin Wyżyny Altamia","status":"draft"}
-{"id":"String_STR_M_L1_AstinFighter_01_body","source":"Astin's Minion","translation":"Sługa Astina","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Crestlich_01_001_body","source":"Highland Crestlich Female","translation":"Samica wyżynnego Crestlicha","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Crestlich_02_001_body","source":"Highland Crestlich Male","translation":"Samiec wyżynnego Crestlicha","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Mole_01_V01_001_body","source":"Highland Wild Armadon","translation":"Dziki Armadon z wyżyn","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_SparkyOd_01_001_body","source":"Highland Odyle Sparkie","translation":"Wyżynny Iskiernik Odyle","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_SparkyOd_02_001_body","source":"Highland Giant Odyle Sparkie","translation":"Wielki wyżynny Iskiernik Odyle","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Tog_01_CV01_001_body","source":"Wild Stripe Tog","translation":"Dziki pręgowany Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Tog_01_V02_001_body","source":"Wild Stripe Young Tog","translation":"Młody dziki pręgowany Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH_Zaif_01_CV01_001_body","source":"Highland Baby Zaif","translation":"Młody Zaif z wyżyn","status":"draft"}
-{"id":"String_STR_M_L1_BF_AH__Zaif_01_001_body","source":"Highland Zaif","translation":"Wyżynny Zaif","status":"draft"}
-{"id":"String_STR_M_L1_BF_Coradon_Named_01_body","source":"Blooming Korin","translation":"Kwitnący Korin","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverAgrint_01_body","source":"Decaying Agrint","translation":"Rozkładający się Agrint","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverAiron_01_body","source":"Smallbeak Airon","translation":"Airon o małym dziobie","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverAiron_02_body","source":"Pointbeak Airon","translation":"Airon o spiczastym dziobie","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverBees_01_body","source":"Black Pattern Bee","translation":"Pszczoła w czarne wzory","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverBees_02_body","source":"Aggressive Bee","translation":"Agresywna pszczoła","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverBees_03_body","source":"Aggressive Small Bee","translation":"Agresywna mała pszczoła","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverBraxA_02_body","source":"Field Brax","translation":"Polny Brax","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverBraxA_03_body","source":"Hungry Brax","translation":"Głodny Brax","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverCrestlich_01_body","source":"Ellun River Crestlich Female","translation":"Samica Crestlicha znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverCrestlich_02_body","source":"Ellun River Crestlich Male","translation":"Samiec Crestlicha znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverDraco_01_body","source":"Expedition Leader Cohta","translation":"Przywódca ekspedycji Cohta","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverForestSpirit_01_body","source":"Contaminated Vine Spirit","translation":"Skażony duch pnączy","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverFossa_01_body","source":"Sensitive Fossa","translation":"Wrażliwa Fossa","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverGravi_03_001_body","source":"Ellun River Hill Gravi","translation":"Wzgórzowy Gravi znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverKailin_01_body","source":"Ellun River Kailin","translation":"Kailin znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverKailin_02_body","source":"Ellun River Young Kailin","translation":"Młody Kailin znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverKrallArcher_01_body","source":"Ellun River Krall Ranger","translation":"Zwiadowca Krallów znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverKrallWar_01_body","source":"Ellun River Krall Warrior","translation":"Wojownik Krallów znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverLepisma_01_body","source":"Wetland Slink","translation":"Bagienny Slink","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverLepisma_03_body","source":"Young Wetland Slink","translation":"Młody bagienny Slink","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverLufilini_01_body","source":"Hill Lupyllini","translation":"Wzgórzowy Lupyllini","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverLufilini_02_body","source":"Ruins Lupyllini","translation":"Lupyllini z ruin","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverMuta_01_body","source":"Ellun River Sylphen","translation":"Sylphen znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverNeuth_01_body","source":"Brainwashed Klaw","translation":"Klaw poddany praniu mózgu","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverNeuth_02_body","source":"Modified Klaw","translation":"Zmodyfikowany Klaw","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverOdSpider_02_body","source":"White Shell Octaside","translation":"Octaside o białej skorupie","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPapis_01_body","source":"Ellun River Papis","translation":"Papis znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPhaini_02_body","source":"Aquascale Crasaur","translation":"Crasaur o wodnych łuskach","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPlunderer_01_body","source":"Leader Miros","translation":"Przywódca Miros","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPlunderer_02_body","source":"Ellun River Marauder Captain","translation":"Kapitan maruderów znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPlunderer_03_body","source":"Miros Marauder","translation":"Maruder Miros","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverPlunderer_04_body","source":"Miros Wanted Criminal","translation":"Poszukiwany przestępca Miros","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverSparky_02_body","source":"Meadow Sparkie","translation":"Łąkowy Iskiernik","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverStarturtle_01_body","source":"Red Shell Starturtle","translation":"Starturtle o czerwonej skorupie","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_01_body","source":"Hungry Tog","translation":"Głodny Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_02_body","source":"Ellun River Hill Tog","translation":"Wzgórzowy Tog znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_03_body","source":"Ellun River Hill Young Tog","translation":"Młody wzgórzowy Tog znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_04_body","source":"Field Tog","translation":"Polny Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_05_body","source":"Young Field Tog","translation":"Młody polny Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverTog_06_body","source":"Hungry Baby Tog","translation":"Głodne młode Tog","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverUndead_01_body","source":"Moaning Gladiator's Soul","translation":"Jęcząca dusza gladiatora","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverUndead_02_body","source":"Moaning Ranger's Soul","translation":"Jęcząca dusza zwiadowcy","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverUrsussElite_01_body","source":"Large Horn Ursus","translation":"Ursus o wielkich rogach","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverUrsuss_01_body","source":"Ellun River Ursus","translation":"Ursus znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_BF_EllunRiverZaif_01_body","source":"Gentle Meadow Zaif","translation":"Łagodny łąkowy Zaif","status":"draft"}
-{"id":"String_STR_M_L1_BF_KFP_DarkEle_01_body","source":"Distorted Spirit","translation":"Zniekształcony duch","status":"draft"}
-{"id":"String_STR_M_L1_BF_KFP_DranaFairy_01_body","source":"Withered Fairy","translation":"Zwiędła wróżka","status":"draft"}
-{"id":"String_STR_M_L1_BF_KFP_Jellofi_01_body","source":"Hill Zelophi","translation":"Wzgórzowy Zelophi","status":"draft"}
-{"id":"String_STR_M_L1_BF_KFP_Jellofi_02_body","source":"Evil Hill Zelophi","translation":"Zły wzgórzowy Zelophi","status":"draft"}
-{"id":"String_STR_M_L1_BF_KFP_Skyray_01_body","source":"Pond Skyray","translation":"Stawowa płaszczka niebiańska","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Bee_01_01_body","source":"Giant Stripe Bee","translation":"Wielka pręgowana pszczoła","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Bee_02_01_body","source":"Stripe Bee","translation":"Pręgowana pszczoła","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_BigMan_01_V01_body","source":"Ridge Unruly Beast","translation":"Nieposłuszna bestia z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_BigMan_01_body","source":"Ridge Brute Beast","translation":"Bestia osiłek z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_FighterF_01_01_body","source":"Ridge Marauder Assassin","translation":"Zabójca maruderów z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_FighterM_02_01_body","source":"Ridge Marauder Warrior","translation":"Wojownik maruderów z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_ForestEle_01_body","source":"Ridge Forest Spirit","translation":"Leśny duch z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_ManDuriWar_01_V01_001_body","source":"Wandering Manduri Fighter","translation":"Błąkający się wojownik Manduri","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Muta_01_body","source":"Ridge Sylphen","translation":"Sylphen z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Odspider_V02_body","source":"Ridge Spider","translation":"Pająk z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_01_body","source":"Ridge Reaver","translation":"Łupieżca z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_02_body","source":"Ridge Marauder","translation":"Maruder z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_03_body","source":"Ridge Patrol","translation":"Patrol z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_PollutedFlower_01_body","source":"Ridge Poison Flower","translation":"Trujący kwiat z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Skyray_01_body","source":"Ridge Skyray","translation":"Płaszczka niebiańska z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Ursuss_01_body","source":"Ridge Ursus","translation":"Ursus z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Ursuss_02_body","source":"Ridge Violent Ursus","translation":"Gwałtowny Ursus z grani","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_001_body","source":"Yellow-Maned Zaif","translation":"Zaif o żółtej grzywie","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_002_body","source":"Marauders Zaif","translation":"Zaif maruderów","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_CV01_001_body","source":"Baby Yellow-Maned Zaif","translation":"Młody Zaif o żółtej grzywie","status":"draft"}
-{"id":"String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_body","source":"Tamed Scout Zaif","translation":"Oswojony zwiadowczy Zaif","status":"draft"}
-{"id":"String_STR_M_L1_BF_SwampSlime_01_body","source":"Foul Slime","translation":"Plugawy szlam","status":"draft"}
-{"id":"String_STR_M_L1_BF_Zaif_01_body","source":"Forest Zaif","translation":"Leśny Zaif","status":"draft"}
-{"id":"String_STR_M_L1_BigMan02_Named_01_body","source":"Rotten Kutar","translation":"Zgniły Kutar","status":"draft"}
-{"id":"String_STR_M_L1_BigMan_01_body","source":"Marsh Targon","translation":"Bagienny Targon","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_INS_PlundererArc_01_body","source":"Ugaros Marauder","translation":"Maruder Ugaros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_INS_PlundererSoldier_01_body","source":"Ugaros Reaver","translation":"Łupieżca Ugaros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_INS_PlundererSoldier_02_body","source":"Ugaros Assassin","translation":"Zabójca Ugaros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_INS_PlundererSoldier_03_body","source":"Cantas Marauder Chief","translation":"Wódz maruderów Cantas","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_INS_Possa_01_body","source":"Cantas Tamed Fossa","translation":"Oswojona Fossa Cantas","status":"draft"}
-{"id":"String_STR_M_L1_CT_H1_PlundererElite_01_body","source":"Captain Ugaros","translation":"Kapitan Ugaros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H2_INS_PlundererSoldier_01_body","source":"Miros Reaver","translation":"Łupieżca Miros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H2_INS_PlundererSoldier_03_body","source":"Miros Captain","translation":"Kapitan Miros","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_INS_FighterM_01_V01_001_body","source":"Poacher Vanguard","translation":"Awangarda kłusowników","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_INS_PlundererArc_01_body","source":"Addicted Poacher","translation":"Uzależniony kłusownik","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_INS_PlundererSoldier_03_body","source":"Poacher Chief","translation":"Wódz kłusowników","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_INS_Possa_01_body","source":"Vicious Fossa","translation":"Zajadła Fossa","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_PlundererElite_01_body","source":"Wanted Criminal Lofman","translation":"Poszukiwany przestępca Lofman","status":"draft"}
-{"id":"String_STR_M_L1_CT_H3_PollutedGrass_01_001_body","source":"Toxic Poison Flower","translation":"Toksyczny trujący kwiat","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_PlundererArc_01_body","source":"Gargos Marauder","translation":"Maruder Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_PlundererSoldier_01_body","source":"Gargos Reaver","translation":"Łupieżca Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_PlundererSoldier_02_body","source":"Gargos Wanted Criminal","translation":"Poszukiwany przestępca Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_PlundererSoldier_03_body","source":"Gargos Captain","translation":"Kapitan Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_Possa_01_body","source":"Gargos Scout Fossa","translation":"Zwiadowcza Fossa Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_Trap_01_001_body","source":"Stronghold Floor Bomb","translation":"Mina podłogowa twierdzy","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_INS_Turret_03_001_body","source":"Stronghold Watchtower","translation":"Wieża strażnicza twierdzy","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_Laser_body","source":"Stronghold Laser","translation":"Laser twierdzy","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_PlundererElite_01_body","source":"Wanted Criminal Gargos","translation":"Poszukiwany przestępca Gargos","status":"draft"}
-{"id":"String_STR_M_L1_CT_H4_Test_Turret_02_001_body","source":"Stronghold Trap Tower","translation":"Wieża-pułapka twierdzy","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_INS_OdSpider_03_V01_body","source":"Dust Spider","translation":"Pająk pyłowy","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_PlundererArc_01_body","source":"Canyon Reaver","translation":"Łupieżca kanionu","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_PlundererElite_01_body","source":"Rogue Rogherr","translation":"Zbuntowany Rogherr","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_PlundererSoldier_01_body","source":"Canyon Marauder","translation":"Maruder kanionu","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_PlundererSoldier_02_body","source":"Canyon Wanted Criminal","translation":"Poszukiwany przestępca z kanionu","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_PlundererSoldier_03_body","source":"Canyon Marauder Chief","translation":"Wódz maruderów z kanionu","status":"draft"}
-{"id":"String_STR_M_L1_CT_H5_Possa_01_body","source":"Canyon Vicious Fossa","translation":"Zajadła Fossa kanionu","status":"draft"}
-{"id":"String_STR_M_L1_CT_R3_Daeva_02_03_body","source":"Execution Site Chief","translation":"Wódz miejsca straceń","status":"draft"}
-{"id":"String_STR_M_L1_CT_R4_Daeva_02_03_body","source":"Stealthy Marauder Chief","translation":"Skradający się wódz maruderów","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Daeva_01_01_body","source":"Highland Base Reaver","translation":"Łupieżca bazy na wyżynach","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Daeva_02_01_body","source":"Highland Base Marauder","translation":"Maruder bazy na wyżynach","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Daeva_02_03_body","source":"Highland Base Chief","translation":"Wódz bazy na wyżynach","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Daeva_03_01_body","source":"Highland Base Patrol","translation":"Patrol bazy na wyżynach","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Elite_01_body","source":"Leader Tyrkes","translation":"Przywódca Tyrkes","status":"draft"}
-{"id":"String_STR_M_L1_CT_R5_Zaif_01_01_body","source":"Highland Base Zaif","translation":"Zaif bazy na wyżynach","status":"draft"}
-{"id":"String_STR_M_L1_CV_BF_Papis_01_001_body","source":"Gentle Papis","translation":"Łagodny Papis","status":"draft"}
-{"id":"String_STR_M_L1_CV_BF_SparkyOd_01_001_body","source":"Gentle Sparkie","translation":"Łagodny Iskiernik","status":"draft"}
-{"id":"String_STR_M_L1_CV_BlueDranaMole_01_body","source":"Splendent Armadon","translation":"Lśniący Armadon","status":"draft"}
-{"id":"String_STR_M_L1_CV_EarthElementalOd_01_body","source":"Splendent Kalgolem","translation":"Lśniący Kalgolem","status":"draft"}
-{"id":"String_STR_M_L1_CV_Fungus_01_body","source":"Red Cap Fungen","translation":"Fungen w czerwonym kapeluszu","status":"draft"}
-{"id":"String_STR_M_L1_CV_INS_Oditium_01_001_body","source":"Unknown Hexing Stone","translation":"Nieznany Kamień Uroków","status":"draft"}
-{"id":"String_STR_M_L1_CV_INS_SuraPriest_01_01_body","source":"Mutated Daeva","translation":"Zmutowany Daeva","status":"draft"}
-{"id":"String_STR_M_L1_CV_Keneir_Named_01_body","source":"Kernon of the West","translation":"Kernon z Zachodu","status":"draft"}
-{"id":"String_STR_M_L1_CV_Keneir_Named_02_body","source":"Neikel of the East","translation":"Neikel ze Wschodu","status":"draft"}
-{"id":"String_STR_M_L1_CV_Lufilini_01_body","source":"Valley Lupyllini","translation":"Dolinny Lupyllini","status":"draft"}
-{"id":"String_STR_M_L1_CV_Muta_01_body","source":"Highland Sylphen","translation":"Wyżynny Sylphen","status":"draft"}
-{"id":"String_STR_M_L1_CV_Plunderer_01_body","source":"Cantas Scout","translation":"Zwiadowca Cantas","status":"draft"}
-{"id":"String_STR_M_L1_CV_Sparky_01_body","source":"Ferocious Valley Sparkie","translation":"Zaciekły dolinny Iskiernik","status":"draft"}
-{"id":"String_STR_M_L1_CV_WaterSkyray_01_body","source":"Cantas Valley Skyray","translation":"Niebiańska płaszczka z Doliny Cantas","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_Mutant_01_body","source":"Sura Knight","translation":"Rycerz Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_Mutant_02_body","source":"Sura Mage","translation":"Mag Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_OdiumMutant_01_body","source":"Addicted Sura Knight","translation":"Uzależniony rycerz Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_OdiumMutant_02_body","source":"Addicted Sura Mage","translation":"Uzależniony mag Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_OdiumMutant_03_body","source":"Addicted Sura Brawler","translation":"Uzależniony zapaśnik Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_Perion_01_body","source":"Sealed Sura","translation":"Zapieczętowana Sura","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_PhantomPiece_01_body","source":"Illusion Fragment","translation":"Odłamek iluzji","status":"draft"}
-{"id":"String_STR_M_L1_CoastalCave_PriestPhantom_01_body","source":"High Priestess's Illusion","translation":"Iluzja arcykapłanki","status":"draft"}
-{"id":"String_STR_M_L1_Crestlich_01_body","source":"Stonebeak Crestlich","translation":"Crestlich o kamiennym dziobie","status":"draft"}
-{"id":"String_STR_M_L1_DH_10_MOB_BeritraD_03_body","source":"Watcher Krache","translation":"Obserwator Krache","status":"draft"}
-{"id":"String_STR_M_L1_DH_11_MOB_BeritraC_09_body","source":"Executioner Nemok","translation":"Kat Nemok","status":"draft"}
-{"id":"String_STR_M_L1_DH_12_MOB_BeritraC_08_body","source":"Officer Barha","translation":"Oficer Barha","status":"draft"}
-{"id":"String_STR_M_L1_DH_13_MOB_BeritraD_03_body","source":"Cunning Dmark","translation":"Przebiegły Dmark","status":"draft"}
-{"id":"String_STR_M_L1_DH_14_MOB_BeritraC_09_body","source":"Scout Bagsh","translation":"Zwiadowca Bagsh","status":"draft"}
-{"id":"String_STR_M_L1_DH_15_MOB_BeritraC_08_body","source":"Tracker Dazran","translation":"Tropiciel Dazran","status":"draft"}
-{"id":"String_STR_M_L1_DH_1_MOB_BeritraD_03_body","source":"Worshiper Dekish","translation":"Czciciel Dekish","status":"draft"}
-{"id":"String_STR_M_L1_DH_2_MOB_BeritraC_09_body","source":"Scouter Sahar","translation":"Zwiadowca Sahar","status":"draft"}
-{"id":"String_STR_M_L1_DH_3_MOB_BeritraC_08_body","source":"Destroyer Tarka","translation":"Niszczyciel Tarka","status":"draft"}
-{"id":"String_STR_M_L1_DH_4_MOB_BeritraD_03_body","source":"Watcher Sandha","translation":"Obserwator Sandha","status":"draft"}
-{"id":"String_STR_M_L1_DH_5_MOB_BeritraC_09_body","source":"Personal Guard Irima","translation":"Osobisty strażnik Irima","status":"draft"}
-{"id":"String_STR_M_L1_DH_6_MOB_BeritraC_08_body","source":"Cold-Hearted Kandak","translation":"Bezwzględny Kandak","status":"draft"}
-{"id":"String_STR_M_L1_DH_7_MOB_BeritraD_03_body","source":"Hunter Danahan","translation":"Łowca Danahan","status":"draft"}
-{"id":"String_STR_M_L1_DH_8_MOB_BeritraC_09_body","source":"Heartless Mozant","translation":"Bezlitosny Mozant","status":"draft"}
-{"id":"String_STR_M_L1_DH_9_MOB_BeritraC_08_body","source":"Enraged Karsha","translation":"Rozwścieczona Karsha","status":"draft"}
-{"id":"String_STR_M_L1_DP_AddShulack_01_CV01_001_body","source":"Shulak Gatherer","translation":"Zbieracz Shulak","status":"draft"}
-{"id":"String_STR_M_L1_DP_AltBug_01_CV01_001_body","source":"Drana Poison Insectoid","translation":"Trujący owad Drany","status":"draft"}
-{"id":"String_STR_M_L1_DP_BeritraC_05_001_body","source":"Drakan Warmage","translation":"Mag bojowy Drakan","status":"draft"}
-{"id":"String_STR_M_L1_DP_BeritraC_06_001_body","source":"Drana Processing Maintenance Machine","translation":"Maszyna konserwacyjna przetwarzania Drany","status":"draft"}
-{"id":"String_STR_M_L1_DP_BeritraD_04_Named_body","source":"Sentinel K'nash","translation":"Wartownik K'nash","status":"draft"}
-{"id":"String_STR_M_L1_DP_BeritraD_07_001_body","source":"Plantation Flying Trooper","translation":"Latający żołnierz Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_DarkEle_01_V01_001_body","source":"Drana Processing Spirit","translation":"Duch przetwarzania Drany","status":"draft"}
-{"id":"String_STR_M_L1_DP_DarkEle_01_V01_002_body","source":"Drana Distorted Spirit","translation":"Zniekształcony duch Drany","status":"draft"}
-{"id":"String_STR_M_L1_DP_DraTotemA_01_001_body","source":"Plantation Large Totem","translation":"Wielki totem Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_Dracuni_01_001_body","source":"Dracuni Gatherer","translation":"Zbieracz Dracuni","status":"draft"}
-{"id":"String_STR_M_L1_DP_Dracuni_01_002_body","source":"Dracuni Processing Laborer","translation":"Robotnik przetwarzający Dracuni","status":"draft"}
-{"id":"String_STR_M_L1_DP_DrakanElite_03_Named_body","source":"Harvest Manager Moshav","translation":"Zarządca zbiorów Moshav","status":"draft"}
-{"id":"String_STR_M_L1_DP_Drakan_01_001_body","source":"Plantation Drakan Guard","translation":"Strażnik Drakan Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_Drakan_01_002_body","source":"Drana Watch Scout","translation":"Zwiadowca straży Drany","status":"draft"}
-{"id":"String_STR_M_L1_DP_Drakan_02_Named_body","source":"Overseer Gaztan","translation":"Nadzorca Gaztan","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_01_001_body","source":"Plantation Kobold Gatherer","translation":"Zbieracz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_01_002_body","source":"Plantation Kobold Sorter","translation":"Sortowacz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_01_V01_001_body","source":"Plantation Kobold Tinkerer","translation":"Majsterkowicz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_02_001_body","source":"Plantation Kobold Quarry Worker","translation":"Robotnik kamieniołomu Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_02_002_body","source":"Kobold Harvest Laborer","translation":"Robotnik zbiorów Kobold","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkF_02_003_body","source":"Plantation Kobold Prospecter","translation":"Poszukiwacz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkM_01_001_body","source":"Plantation Kobold Raker","translation":"Grabiarz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkM_01_V01_001_body","source":"Plantation Kobold Laborer","translation":"Robotnik Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkM_02_001_body","source":"Plantation Kobold Porter","translation":"Tragarz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkM_02_002_body","source":"Kobold Cultivation Laborer","translation":"Robotnik upraw Kobold","status":"draft"}
-{"id":"String_STR_M_L1_DP_KoboWorkM_02_003_body","source":"Plantation Kobold Mover","translation":"Tragarz Kobold z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KrallArc_01_001_body","source":"Plantation Krall Ranger","translation":"Zwiadowca Krall z Plantacji","status":"draft"}
-{"id":"String_STR_M_L1_DP_KrallPrst_01_001_body","source":"Modified Krall Healer","translation":"Zmodyfikowany uzdrowiciel Krall","status":"draft"}
-{"id":"String_STR_M_L1_DP_KrallWar_02_001_body","source":"Labor Manager Krall","translation":"Zarządca pracy Krall","status":"draft"}
-{"id":"String_STR_M_L1_DP_Oculazen_01_001_body","source":"Labor Watch Oculazen","translation":"Strażnik pracy Oculazen","status":"draft"}
-{"id":"String_STR_M_L1_DP_Oculazen_02_001_body","source":"Labor Manager Oculazen","translation":"Zarządca pracy Oculazen","status":"draft"}
-{"id":"String_STR_M_L1_DP_Q_BalaurDevice_01_body","source":"Balaur Alarm Device","translation":"Urządzenie alarmowe Balaurów","status":"draft"}
-{"id":"String_STR_M_L1_DP_R_BeritraC_03_001_body","source":"Sharpclaw Armed Beast","translation":"Uzbrojona bestia Ostrych Szponów","status":"draft"}
-{"id":"String_STR_M_L1_DP_R_DrakanElite_02_001_body","source":"Processing Facility Drakan Scout","translation":"Zwiadowca Drakan z zakładu przetwórczego","status":"draft"}
-{"id":"String_STR_M_L1_DP_R_Karnif_02_001_body","source":"Sharp Claw Karnif","translation":"Karnif o ostrych szponach","status":"draft"}
-{"id":"String_STR_M_L1_DP_R_KrallWar_02_001_body","source":"Cultivation Krall Scout","translation":"Zwiadowca Krall z upraw","status":"draft"}
-{"id":"String_STR_M_L1_DP_summon_BeritraC_06_01_body","source":"Drakan Alarm Warding Machine","translation":"Maszyna alarmowo-ochronna Drakan","status":"draft"}
-{"id":"String_STR_M_L1_DT_D1_INS_DraconuteElite_01_1_body","source":"Draconute Module Manager","translation":"Zarządca modułów Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D1_INS_DraconuteElite_01_body","source":"Draconute Battle Chief","translation":"Dowódca bojowy Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_Draconute_01_body","source":"Mantasch Patrol Ranger","translation":"Zwiadowca patrolu Mantasch","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_Draconute_02_body","source":"Mantasch Patrol Warrior","translation":"Wojownik patrolu Mantasch","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_Draconute_03_body","source":"Mantasch Patrol Tinkerer","translation":"Majsterkowicz patrolu Mantasch","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_INS_DraKan_01_body","source":"Patrol Captain Mantasch","translation":"Kapitan patrolu Mantasch","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_INS_DraconuteElite_01_body","source":"Patrol Draconute Chief","translation":"Wódz patrolu Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_INS_Draconute_01_body","source":"Patrol Draconute Ranger","translation":"Zwiadowca patrolu Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_INS_Draconute_02_body","source":"Patrol Draconute Warrior","translation":"Wojownik patrolu Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D2_INS_Draconute_03_body","source":"Patrol Draconute Tinkerer","translation":"Majsterkowicz patrolu Draconute","status":"draft"}
-{"id":"String_STR_M_L1_DT_D3_INS_DraKan_01_body","source":"Outpost Captain Sehna","translation":"Kapitan placówki Sehna","status":"draft"}
-{"id":"String_STR_M_L1_DT_D3_INS_DranaVar_01_001_body","source":"Drana Mutant Vector","translation":"Wektor mutacji Drany","status":"draft"}
-{"id":"String_STR_M_L1_DT_D3_INS_DranaVar_02_V02_001_body","source":"Giant Drana Test Subject","translation":"Wielki obiekt testowy Drany","status":"draft"}
-{"id":"String_STR_M_L1_DT_D3_INS_DranaVar_03_001_body","source":"Drana Test Subject","translation":"Obiekt testowy Drany","status":"draft"}
-{"id":"String_STR_M_L1_DT_D3_INS_SuraWar_03_001_body","source":"Failed Drana Mutant","translation":"Nieudany mutant Drany","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_DraconuteEgg_01_body","source":"Giant Egg","translation":"Wielkie jajo","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_Draconute_01_body","source":"Kraka Draconute Ranger","translation":"Zwiadowca Draconute Kraka","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_Draconute_02_body","source":"Kraka Draconute Warrior","translation":"Wojownik Draconute Kraka","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_Draconute_03_body","source":"Kraka Draconute Tinkerer","translation":"Majsterkowicz Draconute Kraka","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_INS_DraKan_01_body","source":"Poison Fluid Sabga","translation":"Sabga trującego płynu","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_INS_DraconuteElite_01_body","source":"Prison Compound Draconute Chief","translation":"Wódz Draconute z kompleksu więziennego","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_INS_Draconute_01_body","source":"Prison Compound Draconute Ranger","translation":"Zwiadowca Draconute z kompleksu więziennego","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_INS_Draconute_02_body","source":"Prison Compound Draconute Warrior","translation":"Wojownik Draconute z kompleksu więziennego","status":"draft"}
-{"id":"String_STR_M_L1_DT_D4_INS_Draconute_03_body","source":"Prison Compound Draconute Tinkerer","translation":"Majsterkowicz Draconute z kompleksu więziennego","status":"draft"}
-{"id":"String_STR_M_L1_DT_D5_INS_DraKan_01_body","source":"Commanding Captain Maktasha","translation":"Dowodzący kapitan Maktasha","status":"draft"}
-{"id":"String_STR_M_L1_DranaMole_01_body","source":"Valley Armadon","translation":"Dolinny Armadon","status":"draft"}
-{"id":"String_STR_M_L1_DranaVar_Named_01_body","source":"Collapsed Kouros","translation":"Zawalony Kouros","status":"draft"}
-{"id":"String_STR_M_L1_EM_SwampGhost_01_body","source":"Barrier Tower Minion","translation":"Sługa Wieży Bariery","status":"draft"}
-{"id":"String_STR_M_L1_EM_SwampGhost_02_body","source":"Barrier Tower Watcher","translation":"Obserwator Wieży Bariery","status":"draft"}
-{"id":"String_STR_M_L1_ER_Crab_01_001_body","source":"Marsh Moss Potcrab","translation":"Bagienny omszały krab garnkowy","status":"draft"}
-{"id":"String_STR_M_L1_ER_DarkEle_01_001_body","source":"Contaminated Spirit","translation":"Skażony duch","status":"draft"}
-{"id":"String_STR_M_L1_ER_ForestGuardianArcher_01_001_body","source":"Contaminated Draid","translation":"Skażony Draid","status":"draft"}
-{"id":"String_STR_M_L1_ER_Fungy_01_001_body","source":"Marsh Fungie","translation":"Bagienny Fungie","status":"draft"}
-{"id":"String_STR_M_L1_ER_OdSpider_04_V01_001_body","source":"Marsh Odyle Spider","translation":"Bagienny pająk Odyle","status":"draft"}
-{"id":"String_STR_M_L1_ER_OdSpider_body","source":"Coastal Odyle Spider","translation":"Nadmorski pająk Odyle","status":"draft"}
-{"id":"String_STR_M_L1_ER_WaterEle_01_001_body","source":"Coastal Zelophi","translation":"Nadmorski Zelophi","status":"draft"}
-{"id":"String_STR_M_L1_ER_WaterEle_01_002_body","source":"Water Spirit","translation":"Duch wody","status":"draft"}
-{"id":"String_STR_M_L1_ER_WaterSkyray_01_body","source":"Ellun River Lake Skyray","translation":"Jeziorna płaszczka niebiańska znad rzeki Ellun","status":"draft"}
-{"id":"String_STR_M_L1_EarthElementalOd_01_body","source":"Twinkling Kalgolem","translation":"Migoczący Kalgolem","status":"draft"}
-{"id":"String_STR_M_L1_EarthElementalOd_03_body","source":"Splendent Stone Spirit","translation":"Lśniący duch kamienia","status":"draft"}
-{"id":"String_STR_M_L1_EllunRiverBigMan_01_body","source":"Lake Targon","translation":"Jeziorny Targon","status":"draft"}
-{"id":"String_STR_M_L1_EllunRiverFish_01_body","source":"Lake Skama","translation":"Jeziorna Skama","status":"draft"}
-{"id":"String_STR_M_L1_EtheriaRift_DarkElement_01_body","source":"Rampaging Dark Spirit","translation":"Szalejący mroczny duch","status":"draft"}
-{"id":"String_STR_M_L1_EtheriaRift_Gartua_01_body","source":"Oathbreaker Gartua","translation":"Gartua łamiący przysięgę","status":"draft"}
-{"id":"String_STR_M_L1_EtheriaRift_LostElement_01_body","source":"Lost Spirit","translation":"Zagubiony duch","status":"draft"}
+{"id": "String_STR_M_L0_Layer1_Sura_01_body", "source": "Broken Daeva", "translation": "Złamany Daeva", "status": "draft"}
+{"id": "String_STR_M_L0_Layer2_DrakanCleric_01_body", "source": "Drakan Healing Officer", "translation": "Oficer medyczny Drakan", "status": "draft"}
+{"id": "String_STR_M_L0_Layer2_DrakanElite_01_body", "source": "Drakan Battle Officer", "translation": "Oficer bojowy Drakan", "status": "draft"}
+{"id": "String_STR_M_L0_Layer2_Drakan_01_body", "source": "Drakan Watch Warrior", "translation": "Wojownik straży Drakan", "status": "draft"}
+{"id": "String_STR_M_L0_Layer2_Drakan_02_body", "source": "Drakan Tracker", "translation": "Tropiciel Drakan", "status": "draft"}
+{"id": "String_STR_M_L0_Lepisma_01_body", "source": "Forest Slink", "translation": "Leśny Slink", "status": "draft"}
+{"id": "String_STR_M_L0_Lepisma_02_body", "source": "Baby Forest Slink", "translation": "Młody leśny Slink", "status": "draft"}
+{"id": "String_STR_M_L0_Phoenix_01_body", "source": "Floating Island Phoenix", "translation": "Feniks z Pływającej Wyspy", "status": "draft"}
+{"id": "String_STR_M_L0_Starter_HQ004_Bomb_01_body", "source": "Balaur Self-Destruction Trap", "translation": "Pułapka samozniszczenia Balaurów", "status": "draft"}
+{"id": "String_STR_M_L1_AC_A_Dionaea_01_body", "source": "Canyon Dionae", "translation": "Dionae kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_A_ForestWisp_01_body", "source": "Canyon Vine Spirit", "translation": "Duch pnączy kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_A_Odspider_V02_body", "source": "Damp Octaside", "translation": "Wilgotny Octaside", "status": "draft"}
+{"id": "String_STR_M_L1_AC_A_Specter_01_body", "source": "Corrupted Spirit", "translation": "Skażony duch", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Agrint_02_body", "source": "Withered Canyon Agrint", "translation": "Zwiędły Agrint kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Airon_01_body", "source": "Hardbeak Airon", "translation": "Airon o twardym dziobie", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Censer_01_body", "source": "Dark Spiritstone", "translation": "Mroczny Kamień Ducha", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Crab_01_body", "source": "Flat Potcrab", "translation": "Płaski krab garnkowy", "status": "draft"}
+{"id": "String_STR_M_L1_AC_ForestEle_01_body", "source": "Deep Canyon Forest Spirit", "translation": "Duch głębokiego lasu kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Kaillin_01_body", "source": "Canyon Kailin", "translation": "Kailin kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Odspider_01_body", "source": "Thin-Legged Octaside", "translation": "Octaside o cienkich nogach", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Phaini_01_body", "source": "Docile Crasaur", "translation": "Łagodny Crasaur", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Rafflesia_01_body", "source": "Canyon Nepenthes", "translation": "Nepenthes kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Skyray_01_body", "source": "Canyon Skyray", "translation": "Płaszczka niebiańska kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_Skyray_02_body", "source": "Canyon Lake Skyray", "translation": "Jeziorna płaszczka niebiańska kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_AC_WaterEle_04_Named_01_body", "source": "Black Tentacle Lawa", "translation": "Lawa o czarnych mackach", "status": "draft"}
+{"id": "String_STR_M_L1_AC_WindEle_01_body", "source": "Air Spirit", "translation": "Duch powietrza", "status": "draft"}
+{"id": "String_STR_M_L1_AC_WindEle_04_Named_01_body", "source": "Nauton of the West Wind", "translation": "Nauton Zachodniego Wiatru", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_GraveBat_01_001_body", "source": "Highland Vivel", "translation": "Wyżynny Vivel", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_Kalnif_01_body", "source": "Rock Tomb Karnif", "translation": "Karnif z Kamiennego Grobowca", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_Lufilini_01_body", "source": "Rock Hill Lupyllini", "translation": "Lupyllini ze Skalistego Wzgórza", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_OutlawDaevaArc_01_body", "source": "Renegade Daeva Patrol", "translation": "Patrol renegatów Daeva", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_OutlawDaevaAss_01_body", "source": "Renegade Daeva Watcher", "translation": "Obserwator renegatów Daeva", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_OutlawDaevaAss_02_body", "source": "Renegade Daeva Scout", "translation": "Zwiadowca renegatów Daeva", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_OutlawDaevaWar_01_body", "source": "Broken Daeva Inspector", "translation": "Inspektor złamanych Daeva", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_OutlawDaevaWar_02_body", "source": "Rock Tomb Outlaw Daeva Warrior", "translation": "Wojownik banitów Daeva z Kamiennego Grobowca", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_SuraArc_01_body", "source": "Abandoned Sura Ranger", "translation": "Zwiadowca porzuconych Surów", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_SuraMag_01_body", "source": "Heretic Layla", "translation": "Heretyczka Layla", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_SuraWar_01_body", "source": "Broken Sura Soldier", "translation": "Żołnierz złamanych Surów", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_SuraWar_02_body", "source": "Abandoned Sura Warrior", "translation": "Wojownik porzuconych Surów", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_SuraWar_03_body", "source": "Abandoned Sura Scout", "translation": "Zwiadowca porzuconych Surów", "status": "draft"}
+{"id": "String_STR_M_L1_AH_A_Zaif_01_body", "source": "Rock Hill Zaif", "translation": "Zaif ze Skalistego Wzgórza", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Airon_01_001_body", "source": "Longbeak Highland Airon", "translation": "Wyżynny Airon o długim dziobie", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Brax_01_001_body", "source": "Docile Highland Brax", "translation": "Łagodny wyżynny Brax", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Kailin_01_001_body", "source": "Highland Kailin", "translation": "Wyżynny Kailin", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Kailin_01_002_body", "source": "Young Highland Kailin", "translation": "Młody wyżynny Kailin", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Kalnif_01_001_body", "source": "Toughmane Highland Karnif", "translation": "Wyżynny Karnif o twardej grzywie", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Kalnif_01_002_body", "source": "Highland Karnif", "translation": "Wyżynny Karnif", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Lufilini_01_V01_001_body", "source": "Contaminated Highland Lupyllini", "translation": "Skażony wyżynny Lupyllini", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Lufilini_02_001_body", "source": "Tail Feather Lupyllini", "translation": "Lupyllini o pióropuszu", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Muta_01_001_body", "source": "Highland Sylphen", "translation": "Wyżynny Sylphen", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_OdSpider_04_V01_001_body", "source": "Highland Odyle Spider", "translation": "Wyżynny pająk Odyle", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Rafflesia_01_001_body", "source": "Scarlet Highland Nepenthes", "translation": "Karmazynowy wyżynny Nepenthes", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Zaif_01_001_body", "source": "Highland Forest Zaif", "translation": "Leśny Zaif z wyżyn", "status": "draft"}
+{"id": "String_STR_M_L1_AH_BF_Zaif_01_CV01_001_body", "source": "Highland Baby Forest Zaif", "translation": "Młody leśny Zaif z wyżyn", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_GraveSoul_01_body", "source": "Furious Knight's Corpse", "translation": "Zwłoki rozwścieczonego rycerza", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_Kalgolem_01_body", "source": "Ashen Kalgolem", "translation": "Popielny Kalgolem", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_Mole_01_body", "source": "Temple Mutant Armadon", "translation": "Zmutowany Armadon ze świątyni", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_OdSpider_03_V01_body", "source": "Cairn Octaside", "translation": "Octaside z kopca", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_OdSpider_04_V01_body", "source": "Contaminated Mutant Octaside", "translation": "Skażony zmutowany Octaside", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_SpiritArc_01_body", "source": "Wandering Ranger's Soul", "translation": "Dusza błąkającego się zwiadowcy", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_SpiritKnt_01_body", "source": "Wandering Knight's Armor", "translation": "Zbroja błąkającego się rycerza", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_SpiritKnt_02_body", "source": "Wandering Knight's Soul", "translation": "Dusza błąkającego się rycerza", "status": "draft"}
+{"id": "String_STR_M_L1_AH_B_SpiritKnt_Named_body", "source": "Centurion Demiros", "translation": "Centurion Demiros", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Agrint_01_body", "source": "Contaminated Agrint", "translation": "Skażony Agrint", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_BigMan_01_V01_body", "source": "Contaminated Mutant Targon", "translation": "Skażony zmutowany Targon", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Fish_01_V01_body", "source": "Yellow-Tailed Skama", "translation": "Skama o żółtym ogonie", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_ForestEle_01_V01_body", "source": "Mutated Vine Bundle", "translation": "Pęk zmutowanych pnączy", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_ForestEle_01_body", "source": "Contaminated Vine Bundle", "translation": "Pęk skażonych pnączy", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Guardit_01_body", "source": "Uncontrollable Guardite", "translation": "Nieokiełznany Guardite", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Guardit_02_body", "source": "Contaminated Guardite", "translation": "Skażony Guardite", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Guardit_Named_body", "source": "Divine Ansas", "translation": "Boski Ansas", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Mole_01_V01_body", "source": "Contaminated Armadon", "translation": "Skażony Armadon", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Scorpion_01_body", "source": "Contaminated Scorpion", "translation": "Skażony skorpion", "status": "draft"}
+{"id": "String_STR_M_L1_AH_C_Slime_01_body", "source": "Contaminated Poison Slime", "translation": "Skażony trujący szlam", "status": "draft"}
+{"id": "String_STR_M_L1_AH_Turret_03_01_body", "source": "Altamia Highland Ruins Device", "translation": "Urządzenie z ruin Wyżyny Altamia", "status": "draft"}
+{"id": "String_STR_M_L1_AstinFighter_01_body", "source": "Astin's Minion", "translation": "Sługa Astina", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Crestlich_01_001_body", "source": "Highland Crestlich Female", "translation": "Samica wyżynnego Crestlicha", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Crestlich_02_001_body", "source": "Highland Crestlich Male", "translation": "Samiec wyżynnego Crestlicha", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Mole_01_V01_001_body", "source": "Highland Wild Armadon", "translation": "Dziki Armadon z wyżyn", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_SparkyOd_01_001_body", "source": "Highland Odyle Sparkie", "translation": "Wyżynny Iskiernik Odyle", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_SparkyOd_02_001_body", "source": "Highland Giant Odyle Sparkie", "translation": "Wielki wyżynny Iskiernik Odyle", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Tog_01_CV01_001_body", "source": "Wild Stripe Tog", "translation": "Dziki pręgowany Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Tog_01_V02_001_body", "source": "Wild Stripe Young Tog", "translation": "Młody dziki pręgowany Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH_Zaif_01_CV01_001_body", "source": "Highland Baby Zaif", "translation": "Młody Zaif z wyżyn", "status": "draft"}
+{"id": "String_STR_M_L1_BF_AH__Zaif_01_001_body", "source": "Highland Zaif", "translation": "Wyżynny Zaif", "status": "draft"}
+{"id": "String_STR_M_L1_BF_Coradon_Named_01_body", "source": "Blooming Korin", "translation": "Kwitnący Korin", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverAgrint_01_body", "source": "Decaying Agrint", "translation": "Rozkładający się Agrint", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverAiron_01_body", "source": "Smallbeak Airon", "translation": "Airon o małym dziobie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverAiron_02_body", "source": "Pointbeak Airon", "translation": "Airon o spiczastym dziobie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverBees_01_body", "source": "Black Pattern Bee", "translation": "Pszczoła w czarne wzory", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverBees_02_body", "source": "Aggressive Bee", "translation": "Agresywna pszczoła", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverBees_03_body", "source": "Aggressive Small Bee", "translation": "Agresywna mała pszczoła", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverBraxA_02_body", "source": "Field Brax", "translation": "Polny Brax", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverBraxA_03_body", "source": "Hungry Brax", "translation": "Głodny Brax", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverCrestlich_01_body", "source": "Ellun River Crestlich Female", "translation": "Samica Crestlicha znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverCrestlich_02_body", "source": "Ellun River Crestlich Male", "translation": "Samiec Crestlicha znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverDraco_01_body", "source": "Expedition Leader Cohta", "translation": "Przywódca ekspedycji Cohta", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverForestSpirit_01_body", "source": "Contaminated Vine Spirit", "translation": "Skażony duch pnączy", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverFossa_01_body", "source": "Sensitive Fossa", "translation": "Wrażliwa Fossa", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverGravi_03_001_body", "source": "Ellun River Hill Gravi", "translation": "Wzgórzowy Gravi znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverKailin_01_body", "source": "Ellun River Kailin", "translation": "Kailin znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverKailin_02_body", "source": "Ellun River Young Kailin", "translation": "Młody Kailin znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverKrallArcher_01_body", "source": "Ellun River Krall Ranger", "translation": "Zwiadowca Krallów znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverKrallWar_01_body", "source": "Ellun River Krall Warrior", "translation": "Wojownik Krallów znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverLepisma_01_body", "source": "Wetland Slink", "translation": "Bagienny Slink", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverLepisma_03_body", "source": "Young Wetland Slink", "translation": "Młody bagienny Slink", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverLufilini_01_body", "source": "Hill Lupyllini", "translation": "Wzgórzowy Lupyllini", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverLufilini_02_body", "source": "Ruins Lupyllini", "translation": "Lupyllini z ruin", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverMuta_01_body", "source": "Ellun River Sylphen", "translation": "Sylphen znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverNeuth_01_body", "source": "Brainwashed Klaw", "translation": "Klaw poddany praniu mózgu", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverNeuth_02_body", "source": "Modified Klaw", "translation": "Zmodyfikowany Klaw", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverOdSpider_02_body", "source": "White Shell Octaside", "translation": "Octaside o białej skorupie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPapis_01_body", "source": "Ellun River Papis", "translation": "Papis znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPhaini_02_body", "source": "Aquascale Crasaur", "translation": "Crasaur o wodnych łuskach", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPlunderer_01_body", "source": "Leader Miros", "translation": "Przywódca Miros", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPlunderer_02_body", "source": "Ellun River Marauder Captain", "translation": "Kapitan maruderów znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPlunderer_03_body", "source": "Miros Marauder", "translation": "Maruder Miros", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverPlunderer_04_body", "source": "Miros Wanted Criminal", "translation": "Poszukiwany przestępca Miros", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverSparky_02_body", "source": "Meadow Sparkie", "translation": "Łąkowy Iskiernik", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverStarturtle_01_body", "source": "Red Shell Starturtle", "translation": "Starturtle o czerwonej skorupie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_01_body", "source": "Hungry Tog", "translation": "Głodny Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_02_body", "source": "Ellun River Hill Tog", "translation": "Wzgórzowy Tog znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_03_body", "source": "Ellun River Hill Young Tog", "translation": "Młody wzgórzowy Tog znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_04_body", "source": "Field Tog", "translation": "Polny Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_05_body", "source": "Young Field Tog", "translation": "Młody polny Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverTog_06_body", "source": "Hungry Baby Tog", "translation": "Głodne młode Tog", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverUndead_01_body", "source": "Moaning Gladiator's Soul", "translation": "Jęcząca dusza gladiatora", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverUndead_02_body", "source": "Moaning Ranger's Soul", "translation": "Jęcząca dusza zwiadowcy", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverUrsussElite_01_body", "source": "Large Horn Ursus", "translation": "Ursus o wielkich rogach", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverUrsuss_01_body", "source": "Ellun River Ursus", "translation": "Ursus znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_BF_EllunRiverZaif_01_body", "source": "Gentle Meadow Zaif", "translation": "Łagodny łąkowy Zaif", "status": "draft"}
+{"id": "String_STR_M_L1_BF_KFP_DarkEle_01_body", "source": "Distorted Spirit", "translation": "Zniekształcony duch", "status": "draft"}
+{"id": "String_STR_M_L1_BF_KFP_DranaFairy_01_body", "source": "Withered Fairy", "translation": "Zwiędła wróżka", "status": "draft"}
+{"id": "String_STR_M_L1_BF_KFP_Jellofi_01_body", "source": "Hill Zelophi", "translation": "Wzgórzowy Zelophi", "status": "draft"}
+{"id": "String_STR_M_L1_BF_KFP_Jellofi_02_body", "source": "Evil Hill Zelophi", "translation": "Zły wzgórzowy Zelophi", "status": "draft"}
+{"id": "String_STR_M_L1_BF_KFP_Skyray_01_body", "source": "Pond Skyray", "translation": "Stawowa płaszczka niebiańska", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Bee_01_01_body", "source": "Giant Stripe Bee", "translation": "Wielka pręgowana pszczoła", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Bee_02_01_body", "source": "Stripe Bee", "translation": "Pręgowana pszczoła", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_BigMan_01_V01_body", "source": "Ridge Unruly Beast", "translation": "Nieposłuszna bestia z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_BigMan_01_body", "source": "Ridge Brute Beast", "translation": "Bestia osiłek z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_FighterF_01_01_body", "source": "Ridge Marauder Assassin", "translation": "Zabójca maruderów z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_FighterM_02_01_body", "source": "Ridge Marauder Warrior", "translation": "Wojownik maruderów z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_ForestEle_01_body", "source": "Ridge Forest Spirit", "translation": "Leśny duch z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_ManDuriWar_01_V01_001_body", "source": "Wandering Manduri Fighter", "translation": "Błąkający się wojownik Manduri", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Muta_01_body", "source": "Ridge Sylphen", "translation": "Sylphen z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Odspider_V02_body", "source": "Ridge Spider", "translation": "Pająk z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_01_body", "source": "Ridge Reaver", "translation": "Łupieżca z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_02_body", "source": "Ridge Marauder", "translation": "Maruder z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_OutlawDaeva_03_body", "source": "Ridge Patrol", "translation": "Patrol z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_PollutedFlower_01_body", "source": "Ridge Poison Flower", "translation": "Trujący kwiat z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Skyray_01_body", "source": "Ridge Skyray", "translation": "Płaszczka niebiańska z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Ursuss_01_body", "source": "Ridge Ursus", "translation": "Ursus z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Ursuss_02_body", "source": "Ridge Violent Ursus", "translation": "Gwałtowny Ursus z grani", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_001_body", "source": "Yellow-Maned Zaif", "translation": "Zaif o żółtej grzywie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_002_body", "source": "Marauders Zaif", "translation": "Zaif maruderów", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_CV01_001_body", "source": "Baby Yellow-Maned Zaif", "translation": "Młody Zaif o żółtej grzywie", "status": "draft"}
+{"id": "String_STR_M_L1_BF_PilgrimsRidge_Zaif_01_body", "source": "Tamed Scout Zaif", "translation": "Oswojony zwiadowczy Zaif", "status": "draft"}
+{"id": "String_STR_M_L1_BF_SwampSlime_01_body", "source": "Foul Slime", "translation": "Plugawy szlam", "status": "draft"}
+{"id": "String_STR_M_L1_BF_Zaif_01_body", "source": "Forest Zaif", "translation": "Leśny Zaif", "status": "draft"}
+{"id": "String_STR_M_L1_BigMan02_Named_01_body", "source": "Rotten Kutar", "translation": "Zgniły Kutar", "status": "draft"}
+{"id": "String_STR_M_L1_BigMan_01_body", "source": "Marsh Targon", "translation": "Bagienny Targon", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_INS_PlundererArc_01_body", "source": "Ugaros Marauder", "translation": "Maruder Ugaros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_INS_PlundererSoldier_01_body", "source": "Ugaros Reaver", "translation": "Łupieżca Ugaros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_INS_PlundererSoldier_02_body", "source": "Ugaros Assassin", "translation": "Zabójca Ugaros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_INS_PlundererSoldier_03_body", "source": "Cantas Marauder Chief", "translation": "Wódz maruderów Cantas", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_INS_Possa_01_body", "source": "Cantas Tamed Fossa", "translation": "Oswojona Fossa Cantas", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H1_PlundererElite_01_body", "source": "Captain Ugaros", "translation": "Kapitan Ugaros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H2_INS_PlundererSoldier_01_body", "source": "Miros Reaver", "translation": "Łupieżca Miros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H2_INS_PlundererSoldier_03_body", "source": "Miros Captain", "translation": "Kapitan Miros", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_INS_FighterM_01_V01_001_body", "source": "Poacher Vanguard", "translation": "Awangarda kłusowników", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_INS_PlundererArc_01_body", "source": "Addicted Poacher", "translation": "Uzależniony kłusownik", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_INS_PlundererSoldier_03_body", "source": "Poacher Chief", "translation": "Wódz kłusowników", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_INS_Possa_01_body", "source": "Vicious Fossa", "translation": "Zajadła Fossa", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_PlundererElite_01_body", "source": "Wanted Criminal Lofman", "translation": "Poszukiwany przestępca Lofman", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H3_PollutedGrass_01_001_body", "source": "Toxic Poison Flower", "translation": "Toksyczny trujący kwiat", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_PlundererArc_01_body", "source": "Gargos Marauder", "translation": "Maruder Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_PlundererSoldier_01_body", "source": "Gargos Reaver", "translation": "Łupieżca Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_PlundererSoldier_02_body", "source": "Gargos Wanted Criminal", "translation": "Poszukiwany przestępca Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_PlundererSoldier_03_body", "source": "Gargos Captain", "translation": "Kapitan Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_Possa_01_body", "source": "Gargos Scout Fossa", "translation": "Zwiadowcza Fossa Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_Trap_01_001_body", "source": "Stronghold Floor Bomb", "translation": "Mina podłogowa twierdzy", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_INS_Turret_03_001_body", "source": "Stronghold Watchtower", "translation": "Wieża strażnicza twierdzy", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_Laser_body", "source": "Stronghold Laser", "translation": "Laser twierdzy", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_PlundererElite_01_body", "source": "Wanted Criminal Gargos", "translation": "Poszukiwany przestępca Gargos", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H4_Test_Turret_02_001_body", "source": "Stronghold Trap Tower", "translation": "Wieża-pułapka twierdzy", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_INS_OdSpider_03_V01_body", "source": "Dust Spider", "translation": "Pająk pyłowy", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_PlundererArc_01_body", "source": "Canyon Reaver", "translation": "Łupieżca kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_PlundererElite_01_body", "source": "Rogue Rogherr", "translation": "Zbuntowany Rogherr", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_PlundererSoldier_01_body", "source": "Canyon Marauder", "translation": "Maruder kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_PlundererSoldier_02_body", "source": "Canyon Wanted Criminal", "translation": "Poszukiwany przestępca z kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_PlundererSoldier_03_body", "source": "Canyon Marauder Chief", "translation": "Wódz maruderów z kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_CT_H5_Possa_01_body", "source": "Canyon Vicious Fossa", "translation": "Zajadła Fossa kanionu", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R3_Daeva_02_03_body", "source": "Execution Site Chief", "translation": "Wódz miejsca straceń", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R4_Daeva_02_03_body", "source": "Stealthy Marauder Chief", "translation": "Skradający się wódz maruderów", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Daeva_01_01_body", "source": "Highland Base Reaver", "translation": "Łupieżca bazy na wyżynach", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Daeva_02_01_body", "source": "Highland Base Marauder", "translation": "Maruder bazy na wyżynach", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Daeva_02_03_body", "source": "Highland Base Chief", "translation": "Wódz bazy na wyżynach", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Daeva_03_01_body", "source": "Highland Base Patrol", "translation": "Patrol bazy na wyżynach", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Elite_01_body", "source": "Leader Tyrkes", "translation": "Przywódca Tyrkes", "status": "draft"}
+{"id": "String_STR_M_L1_CT_R5_Zaif_01_01_body", "source": "Highland Base Zaif", "translation": "Zaif bazy na wyżynach", "status": "draft"}
+{"id": "String_STR_M_L1_CV_BF_Papis_01_001_body", "source": "Gentle Papis", "translation": "Łagodny Papis", "status": "draft"}
+{"id": "String_STR_M_L1_CV_BF_SparkyOd_01_001_body", "source": "Gentle Sparkie", "translation": "Łagodny Iskiernik", "status": "draft"}
+{"id": "String_STR_M_L1_CV_BlueDranaMole_01_body", "source": "Splendent Armadon", "translation": "Lśniący Armadon", "status": "draft"}
+{"id": "String_STR_M_L1_CV_EarthElementalOd_01_body", "source": "Splendent Kalgolem", "translation": "Lśniący Kalgolem", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Fungus_01_body", "source": "Red Cap Fungen", "translation": "Fungen w czerwonym kapeluszu", "status": "draft"}
+{"id": "String_STR_M_L1_CV_INS_Oditium_01_001_body", "source": "Unknown Hexing Stone", "translation": "Nieznany Kamień Uroków", "status": "draft"}
+{"id": "String_STR_M_L1_CV_INS_SuraPriest_01_01_body", "source": "Mutated Daeva", "translation": "Zmutowany Daeva", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Keneir_Named_01_body", "source": "Kernon of the West", "translation": "Kernon z Zachodu", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Keneir_Named_02_body", "source": "Neikel of the East", "translation": "Neikel ze Wschodu", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Lufilini_01_body", "source": "Valley Lupyllini", "translation": "Dolinny Lupyllini", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Muta_01_body", "source": "Highland Sylphen", "translation": "Wyżynny Sylphen", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Plunderer_01_body", "source": "Cantas Scout", "translation": "Zwiadowca Cantas", "status": "draft"}
+{"id": "String_STR_M_L1_CV_Sparky_01_body", "source": "Ferocious Valley Sparkie", "translation": "Zaciekły dolinny Iskiernik", "status": "draft"}
+{"id": "String_STR_M_L1_CV_WaterSkyray_01_body", "source": "Cantas Valley Skyray", "translation": "Niebiańska płaszczka z Doliny Cantas", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_Mutant_01_body", "source": "Sura Knight", "translation": "Rycerz Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_Mutant_02_body", "source": "Sura Mage", "translation": "Mag Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_OdiumMutant_01_body", "source": "Addicted Sura Knight", "translation": "Uzależniony rycerz Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_OdiumMutant_02_body", "source": "Addicted Sura Mage", "translation": "Uzależniony mag Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_OdiumMutant_03_body", "source": "Addicted Sura Brawler", "translation": "Uzależniony zapaśnik Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_Perion_01_body", "source": "Sealed Sura", "translation": "Zapieczętowana Sura", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_PhantomPiece_01_body", "source": "Illusion Fragment", "translation": "Odłamek iluzji", "status": "draft"}
+{"id": "String_STR_M_L1_CoastalCave_PriestPhantom_01_body", "source": "High Priestess's Illusion", "translation": "Iluzja arcykapłanki", "status": "draft"}
+{"id": "String_STR_M_L1_Crestlich_01_body", "source": "Stonebeak Crestlich", "translation": "Crestlich o kamiennym dziobie", "status": "draft"}
+{"id": "String_STR_M_L1_DH_10_MOB_BeritraD_03_body", "source": "Watcher Krache", "translation": "Obserwator Krache", "status": "draft"}
+{"id": "String_STR_M_L1_DH_11_MOB_BeritraC_09_body", "source": "Executioner Nemok", "translation": "Kat Nemok", "status": "draft"}
+{"id": "String_STR_M_L1_DH_12_MOB_BeritraC_08_body", "source": "Officer Barha", "translation": "Oficer Barha", "status": "draft"}
+{"id": "String_STR_M_L1_DH_13_MOB_BeritraD_03_body", "source": "Cunning Dmark", "translation": "Przebiegły Dmark", "status": "draft"}
+{"id": "String_STR_M_L1_DH_14_MOB_BeritraC_09_body", "source": "Scout Bagsh", "translation": "Zwiadowca Bagsh", "status": "draft"}
+{"id": "String_STR_M_L1_DH_15_MOB_BeritraC_08_body", "source": "Tracker Dazran", "translation": "Tropiciel Dazran", "status": "draft"}
+{"id": "String_STR_M_L1_DH_1_MOB_BeritraD_03_body", "source": "Worshiper Dekish", "translation": "Czciciel Dekish", "status": "draft"}
+{"id": "String_STR_M_L1_DH_2_MOB_BeritraC_09_body", "source": "Scouter Sahar", "translation": "Zwiadowca Sahar", "status": "draft"}
+{"id": "String_STR_M_L1_DH_3_MOB_BeritraC_08_body", "source": "Destroyer Tarka", "translation": "Niszczyciel Tarka", "status": "draft"}
+{"id": "String_STR_M_L1_DH_4_MOB_BeritraD_03_body", "source": "Watcher Sandha", "translation": "Obserwator Sandha", "status": "draft"}
+{"id": "String_STR_M_L1_DH_5_MOB_BeritraC_09_body", "source": "Personal Guard Irima", "translation": "Osobisty strażnik Irima", "status": "draft"}
+{"id": "String_STR_M_L1_DH_6_MOB_BeritraC_08_body", "source": "Cold-Hearted Kandak", "translation": "Bezwzględny Kandak", "status": "draft"}
+{"id": "String_STR_M_L1_DH_7_MOB_BeritraD_03_body", "source": "Hunter Danahan", "translation": "Łowca Danahan", "status": "draft"}
+{"id": "String_STR_M_L1_DH_8_MOB_BeritraC_09_body", "source": "Heartless Mozant", "translation": "Bezlitosny Mozant", "status": "draft"}
+{"id": "String_STR_M_L1_DH_9_MOB_BeritraC_08_body", "source": "Enraged Karsha", "translation": "Rozwścieczona Karsha", "status": "draft"}
+{"id": "String_STR_M_L1_DP_AddShulack_01_CV01_001_body", "source": "Shulak Gatherer", "translation": "Zbieracz Shulak", "status": "draft"}
+{"id": "String_STR_M_L1_DP_AltBug_01_CV01_001_body", "source": "Drana Poison Insectoid", "translation": "Trujący owad Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DP_BeritraC_05_001_body", "source": "Drakan Warmage", "translation": "Mag bojowy Drakan", "status": "draft"}
+{"id": "String_STR_M_L1_DP_BeritraC_06_001_body", "source": "Drana Processing Maintenance Machine", "translation": "Maszyna konserwacyjna przetwarzania Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DP_BeritraD_04_Named_body", "source": "Sentinel K'nash", "translation": "Wartownik K'nash", "status": "draft"}
+{"id": "String_STR_M_L1_DP_BeritraD_07_001_body", "source": "Plantation Flying Trooper", "translation": "Latający żołnierz Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_DarkEle_01_V01_001_body", "source": "Drana Processing Spirit", "translation": "Duch przetwarzania Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DP_DarkEle_01_V01_002_body", "source": "Drana Distorted Spirit", "translation": "Zniekształcony duch Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DP_DraTotemA_01_001_body", "source": "Plantation Large Totem", "translation": "Wielki totem Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Dracuni_01_001_body", "source": "Dracuni Gatherer", "translation": "Zbieracz Dracuni", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Dracuni_01_002_body", "source": "Dracuni Processing Laborer", "translation": "Robotnik przetwarzający Dracuni", "status": "draft"}
+{"id": "String_STR_M_L1_DP_DrakanElite_03_Named_body", "source": "Harvest Manager Moshav", "translation": "Zarządca zbiorów Moshav", "status": "draft"}

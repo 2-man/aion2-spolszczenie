@@ -1,3 +1,73 @@
+{"id": "String_STR_M_FE_IoE_ManDuriWar_01_V01_01_body", "source": "Eternal Isle Manduri Fighter", "translation": "Wojownik Manduri Wiecznej Wyspy", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_Neuth_01_001_body", "source": "Eternal Klaw", "translation": "Wieczny Klaw", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_Oditium_01_001_body", "source": "Eternal Oditium", "translation": "Wieczne Oditium", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_OdiumGartua_01_body", "source": "Eternal Gartua", "translation": "Wieczny Gartua", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_OdiumGartua_02_body", "source": "Immortal Gartua", "translation": "Nieśmiertelny Gartua", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_Phaini_01_001_body", "source": "Eternal Crasaur", "translation": "Wieczny Crasaur", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_Starturtle_01_001_body", "source": "Eternal Starturtle", "translation": "Wieczny Starturtle", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_WaterEle_01_001_body", "source": "Eternal Water Spirit", "translation": "Wieczny duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_WaterEle_02_001_body", "source": "Violent Water Spirit", "translation": "Gwałtowny duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_WindEle_01_body", "source": "Eternal Wind Spirit", "translation": "Wieczny duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_IoE_WindEle_02_001_body", "source": "Violent Wind Spirit", "translation": "Gwałtowny duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_Ioc_Crab_01_001_body", "source": "Eternal Moss Crab", "translation": "Wieczny omszały krab", "status": "draft"}
+{"id": "String_STR_M_FE_JUMP_LASER_03_body", "source": "Jump Laser", "translation": "Skaczący laser", "status": "draft"}
+{"id": "String_STR_M_FE_OB_VORTEX_01_body", "source": "Time Vortex", "translation": "Wir czasu", "status": "draft"}
+{"id": "String_STR_M_FE_OD_GuideF_01_body", "source": "Flying Guide", "translation": "Latający przewodnik", "status": "draft"}
+{"id": "String_STR_M_FE_Pang_01_body", "source": "Pang", "translation": "Pang", "status": "draft"}
+{"id": "String_STR_M_FE_SA_Boss_001_body", "source": "Grandios", "translation": "Grandios", "status": "draft"}
+{"id": "String_STR_M_FE_SA_EarthEle_01_001_body", "source": "Weak Earth Spirit", "translation": "Słaby duch ziemi", "status": "draft"}
+{"id": "String_STR_M_FE_SA_EarthEle_01_002_body", "source": "Common Earth Spirit", "translation": "Zwykły duch ziemi", "status": "draft"}
+{"id": "String_STR_M_FE_SA_EarthEle_01_003_body", "source": "Grand Earth Spirit", "translation": "Wielki duch ziemi", "status": "draft"}
+{"id": "String_STR_M_FE_SA_EarthEle_01_004_body", "source": "Ancient Earth Spirit", "translation": "Pradawny duch ziemi", "status": "draft"}
+{"id": "String_STR_M_FE_SA_FireEle_01_001_body", "source": "Weak Fire Spirit", "translation": "Słaby duch ognia", "status": "draft"}
+{"id": "String_STR_M_FE_SA_FireEle_01_002_body", "source": "Common Fire Spirit", "translation": "Zwykły duch ognia", "status": "draft"}
+{"id": "String_STR_M_FE_SA_FireEle_01_003_body", "source": "Grand Fire Spirit", "translation": "Wielki duch ognia", "status": "draft"}
+{"id": "String_STR_M_FE_SA_FireEle_01_004_body", "source": "Ancient Fire Spirit", "translation": "Pradawny duch ognia", "status": "draft"}
+{"id": "String_STR_M_FE_SA_Sub_01_body", "source": "Spirit Ruler", "translation": "Władca Duchów", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WaterEle_01_001_body", "source": "Weak Water Spirit", "translation": "Słaby duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WaterEle_01_002_body", "source": "Common Water Spirit", "translation": "Zwykły duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WaterEle_01_003_body", "source": "Grand Water Spirit", "translation": "Wielki duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WaterEle_01_004_body", "source": "Ancient Water Spirit", "translation": "Pradawny duch wody", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WindEle_01_001_body", "source": "Weak Wind Spirit", "translation": "Słaby duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WindEle_01_002_body", "source": "Common Wind Spirit", "translation": "Zwykły duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WindEle_01_003_body", "source": "Grand Wind Spirit", "translation": "Wielki duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_SA_WindEle_01_004_body", "source": "Ancient Wind Spirit", "translation": "Pradawny duch wiatru", "status": "draft"}
+{"id": "String_STR_M_FE_TB_Kalgolem_01_body", "source": "Goldrin's Storage Keeper", "translation": "Opiekun Składu Goldrina", "status": "draft"}
+{"id": "String_STR_M_FE_TH_S2_OrcusGem_01_body", "source": "Goldrin's Storage", "translation": "Skład Goldrina", "status": "draft"}
+{"id": "String_STR_M_FQ_AngryUrsuss_01_body", "source": "Frenzied Ursus", "translation": "Rozszalały Ursus", "status": "draft"}
+{"id": "String_STR_M_FQ_DarkEle_01_body", "source": "Drana Mutated Spirit", "translation": "Zmutowany duch Drany", "status": "draft"}
+{"id": "String_STR_M_F_D1_Daeva04_SpiritArc_01_01_body", "source": "Legionnaire's Soul", "translation": "Dusza legionisty", "status": "draft"}
+{"id": "String_STR_M_F_KalakarHenchman_body", "source": "Kalakhar's Minion", "translation": "Sługa Kalakhara", "status": "draft"}
+{"id": "String_STR_M_F_Mesmerized_body", "source": "Insane Daeva", "translation": "Obłąkany Daeva", "status": "draft"}
+{"id": "String_STR_M_F_NornirVar_body", "source": "Distorted Soul", "translation": "Zniekształcona dusza", "status": "draft"}
+{"id": "String_STR_M_F_OutlawWar_body", "source": "Hiding Burglar", "translation": "Ukrywający się włamywacz", "status": "draft"}
+{"id": "String_STR_M_F_Q_AltKnife_01_body", "source": "Blades Watcher", "translation": "Obserwator Ostrzy", "status": "draft"}
+{"id": "String_STR_M_F_Q_AltKnife_02_body", "source": "Blades Sentry", "translation": "Czujka Ostrzy", "status": "draft"}
+{"id": "String_STR_M_F_Q_AltKnife_03_body", "source": "Blades Warmage", "translation": "Mag bojowy Ostrzy", "status": "draft"}
+{"id": "String_STR_M_F_Q_AltKnife_04_body", "source": "Blades Mage", "translation": "Mag Ostrzy", "status": "draft"}
+{"id": "String_STR_M_F_Q_AltKnife_05_body", "source": "Blades Combatant", "translation": "Wojownik Ostrzy", "status": "draft"}
+{"id": "String_STR_M_F_Q_AstinFighter_01_body", "source": "Astin Mercenaries Collector", "translation": "Zbieracz najemników Astin", "status": "draft"}
+{"id": "String_STR_M_F_Q_AstinFighter_02_body", "source": "Astin Mercenaries Sentry", "translation": "Wartownik najemników Astin", "status": "draft"}
+{"id": "String_STR_M_F_Q_AstinFighter_03_body", "source": "Astin Mercenaries Watcher", "translation": "Obserwator najemników Astin", "status": "draft"}
+{"id": "String_STR_M_F_Q_Bandit_01_body", "source": "Thieves Sniper", "translation": "Strzelec wyborowy złodziei", "status": "draft"}
+{"id": "String_STR_M_F_Q_Bandit_02_body", "source": "Thieves Warrior", "translation": "Wojownik złodziei", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_01_body", "source": "Black Claw Guard", "translation": "Strażnik Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_02_body", "source": "Black Claw Watcher", "translation": "Obserwator Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_03_body", "source": "Black Claw High Shaman", "translation": "Wielki szaman Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_04_body", "source": "Black Claw Guard Troopers Overseer", "translation": "Nadzorca straży Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_05_body", "source": "Black Claw Guard Troopers Warden", "translation": "Dozorca straży Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_BlackClaw_06_body", "source": "Black Claw Combatant", "translation": "Wojownik Black Claw", "status": "draft"}
+{"id": "String_STR_M_F_Q_Brigands_01_body", "source": "Bandit Ranger", "translation": "Zwiadowca bandytów", "status": "draft"}
+{"id": "String_STR_M_F_Q_DestDaeva_03_body", "source": "Fate Archon Priest", "translation": "Kapłan Archontów Losu", "status": "draft"}
+{"id": "String_STR_M_F_Q_DestDaeva_04_body", "source": "Fate Archon Sentry", "translation": "Czujka Archontów Losu", "status": "draft"}
+{"id": "String_STR_M_F_Q_DestDeavaGuard_01_body", "source": "Conclave Guard", "translation": "Strażnik konklawe", "status": "draft"}
+{"id": "String_STR_M_F_Q_DestDeavaSpeaker_01_body", "source": "Conclave Orator", "translation": "Mówca konklawe", "status": "draft"}
+{"id": "String_STR_M_F_Q_DestDeava_02_body", "source": "Fate Archon Battle Sorcerer", "translation": "Czarownik bojowy Archontów Losu", "status": "draft"}
+{"id": "String_STR_M_F_Q_Drakan_01_body", "source": "Drakan Researcher", "translation": "Badacz Drakan", "status": "draft"}
+{"id": "String_STR_M_F_Q_Drakan_02_body", "source": "Drakan Warmage", "translation": "Mag bojowy Drakan", "status": "draft"}
+{"id": "String_STR_M_F_Q_Drakan_03_body", "source": "Drakan Egia Technician", "translation": "Technik Egia Drakan", "status": "draft"}
+{"id": "String_STR_M_F_Q_Drakan_04_body", "source": "Drakan Supporter", "translation": "Wsparcie Drakan", "status": "draft"}
+{"id": "String_STR_M_F_Q_Drakan_05_body", "source": "Drakan Superior Warmage", "translation": "Starszy mag bojowy Drakan", "status": "draft"}
 {"id": "String_STR_M_F_Q_Drakan_06_body", "source": "Drakan Scout", "translation": "Zwiadowca Drakan", "status": "draft"}
 {"id": "String_STR_M_F_Q_HilsroterFighter_01_body", "source": "Hilsrother Seeker", "translation": "Poszukiwacz Hilsrother", "status": "draft"}
 {"id": "String_STR_M_F_Q_HilsroterFighter_02_body", "source": "Hilsrother Worker", "translation": "Robotnik Hilsrother", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_M_L0_Layer1_Bargot_01_body", "source": "Mutated Bargott", "translation": "Zmutowany Bargott", "status": "draft"}
 {"id": "String_STR_M_L0_Layer1_Drakan_01_body", "source": "Ishtar Unit Drakan", "translation": "Drakan z jednostki Ishtar", "status": "draft"}
 {"id": "String_STR_M_L0_Layer1_Gap_01_body", "source": "Pass through the narrow gap", "translation": "Przejdź przez wąską szczelinę", "status": "draft"}
-{"id": "String_STR_M_L0_Layer1_Sura_01_body", "source": "Broken Daeva", "translation": "Złamany Daeva", "status": "draft"}
-{"id": "String_STR_M_L0_Layer2_DrakanCleric_01_body", "source": "Drakan Healing Officer", "translation": "Oficer medyczny Drakan", "status": "draft"}
-{"id": "String_STR_M_L0_Layer2_DrakanElite_01_body", "source": "Drakan Battle Officer", "translation": "Oficer bojowy Drakan", "status": "draft"}
-{"id": "String_STR_M_L0_Layer2_Drakan_01_body", "source": "Drakan Watch Warrior", "translation": "Wojownik straży Drakan", "status": "draft"}
-{"id": "String_STR_M_L0_Layer2_Drakan_02_body", "source": "Drakan Tracker", "translation": "Tropiciel Drakan", "status": "draft"}
-{"id": "String_STR_M_L0_Lepisma_01_body", "source": "Forest Slink", "translation": "Leśny Slink", "status": "draft"}
-{"id": "String_STR_M_L0_Lepisma_02_body", "source": "Baby Forest Slink", "translation": "Młody leśny Slink", "status": "draft"}
-{"id": "String_STR_M_L0_Phoenix_01_body", "source": "Floating Island Phoenix", "translation": "Feniks z Pływającej Wyspy", "status": "draft"}
-{"id": "String_STR_M_L0_Starter_HQ004_Bomb_01_body", "source": "Balaur Self-Destruction Trap", "translation": "Pułapka samozniszczenia Balaurów", "status": "draft"}
-{"id": "String_STR_M_L1_AC_A_Dionaea_01_body", "source": "Canyon Dionae", "translation": "Dionae kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_A_ForestWisp_01_body", "source": "Canyon Vine Spirit", "translation": "Duch pnączy kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_A_Odspider_V02_body", "source": "Damp Octaside", "translation": "Wilgotny Octaside", "status": "draft"}
-{"id": "String_STR_M_L1_AC_A_Specter_01_body", "source": "Corrupted Spirit", "translation": "Skażony duch", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Agrint_02_body", "source": "Withered Canyon Agrint", "translation": "Zwiędły Agrint kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Airon_01_body", "source": "Hardbeak Airon", "translation": "Airon o twardym dziobie", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Censer_01_body", "source": "Dark Spiritstone", "translation": "Mroczny Kamień Ducha", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Crab_01_body", "source": "Flat Potcrab", "translation": "Płaski krab garnkowy", "status": "draft"}
-{"id": "String_STR_M_L1_AC_ForestEle_01_body", "source": "Deep Canyon Forest Spirit", "translation": "Duch głębokiego lasu kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Kaillin_01_body", "source": "Canyon Kailin", "translation": "Kailin kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Odspider_01_body", "source": "Thin-Legged Octaside", "translation": "Octaside o cienkich nogach", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Phaini_01_body", "source": "Docile Crasaur", "translation": "Łagodny Crasaur", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Rafflesia_01_body", "source": "Canyon Nepenthes", "translation": "Nepenthes kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Skyray_01_body", "source": "Canyon Skyray", "translation": "Płaszczka niebiańska kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_Skyray_02_body", "source": "Canyon Lake Skyray", "translation": "Jeziorna płaszczka niebiańska kanionu", "status": "draft"}
-{"id": "String_STR_M_L1_AC_WaterEle_04_Named_01_body", "source": "Black Tentacle Lawa", "translation": "Lawa o czarnych mackach", "status": "draft"}
-{"id": "String_STR_M_L1_AC_WindEle_01_body", "source": "Air Spirit", "translation": "Duch powietrza", "status": "draft"}
-{"id": "String_STR_M_L1_AC_WindEle_04_Named_01_body", "source": "Nauton of the West Wind", "translation": "Nauton Zachodniego Wiatru", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_GraveBat_01_001_body", "source": "Highland Vivel", "translation": "Wyżynny Vivel", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_Kalnif_01_body", "source": "Rock Tomb Karnif", "translation": "Karnif z Kamiennego Grobowca", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_Lufilini_01_body", "source": "Rock Hill Lupyllini", "translation": "Lupyllini ze Skalistego Wzgórza", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_OutlawDaevaArc_01_body", "source": "Renegade Daeva Patrol", "translation": "Patrol renegatów Daeva", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_OutlawDaevaAss_01_body", "source": "Renegade Daeva Watcher", "translation": "Obserwator renegatów Daeva", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_OutlawDaevaAss_02_body", "source": "Renegade Daeva Scout", "translation": "Zwiadowca renegatów Daeva", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_OutlawDaevaWar_01_body", "source": "Broken Daeva Inspector", "translation": "Inspektor złamanych Daeva", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_OutlawDaevaWar_02_body", "source": "Rock Tomb Outlaw Daeva Warrior", "translation": "Wojownik banitów Daeva z Kamiennego Grobowca", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_SuraArc_01_body", "source": "Abandoned Sura Ranger", "translation": "Zwiadowca porzuconych Surów", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_SuraMag_01_body", "source": "Heretic Layla", "translation": "Heretyczka Layla", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_SuraWar_01_body", "source": "Broken Sura Soldier", "translation": "Żołnierz złamanych Surów", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_SuraWar_02_body", "source": "Abandoned Sura Warrior", "translation": "Wojownik porzuconych Surów", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_SuraWar_03_body", "source": "Abandoned Sura Scout", "translation": "Zwiadowca porzuconych Surów", "status": "draft"}
-{"id": "String_STR_M_L1_AH_A_Zaif_01_body", "source": "Rock Hill Zaif", "translation": "Zaif ze Skalistego Wzgórza", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Airon_01_001_body", "source": "Longbeak Highland Airon", "translation": "Wyżynny Airon o długim dziobie", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Brax_01_001_body", "source": "Docile Highland Brax", "translation": "Łagodny wyżynny Brax", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Kailin_01_001_body", "source": "Highland Kailin", "translation": "Wyżynny Kailin", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Kailin_01_002_body", "source": "Young Highland Kailin", "translation": "Młody wyżynny Kailin", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Kalnif_01_001_body", "source": "Toughmane Highland Karnif", "translation": "Wyżynny Karnif o twardej grzywie", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Kalnif_01_002_body", "source": "Highland Karnif", "translation": "Wyżynny Karnif", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Lufilini_01_V01_001_body", "source": "Contaminated Highland Lupyllini", "translation": "Skażony wyżynny Lupyllini", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Lufilini_02_001_body", "source": "Tail Feather Lupyllini", "translation": "Lupyllini o pióropuszu", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Muta_01_001_body", "source": "Highland Sylphen", "translation": "Wyżynny Sylphen", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_OdSpider_04_V01_001_body", "source": "Highland Odyle Spider", "translation": "Wyżynny pająk Odyle", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Rafflesia_01_001_body", "source": "Scarlet Highland Nepenthes", "translation": "Karmazynowy wyżynny Nepenthes", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Zaif_01_001_body", "source": "Highland Forest Zaif", "translation": "Leśny Zaif z wyżyn", "status": "draft"}
-{"id": "String_STR_M_L1_AH_BF_Zaif_01_CV01_001_body", "source": "Highland Baby Forest Zaif", "translation": "Młody leśny Zaif z wyżyn", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_GraveSoul_01_body", "source": "Furious Knight's Corpse", "translation": "Zwłoki rozwścieczonego rycerza", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_Kalgolem_01_body", "source": "Ashen Kalgolem", "translation": "Popielny Kalgolem", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_Mole_01_body", "source": "Temple Mutant Armadon", "translation": "Zmutowany Armadon ze świątyni", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_OdSpider_03_V01_body", "source": "Cairn Octaside", "translation": "Octaside z kopca", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_OdSpider_04_V01_body", "source": "Contaminated Mutant Octaside", "translation": "Skażony zmutowany Octaside", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_SpiritArc_01_body", "source": "Wandering Ranger's Soul", "translation": "Dusza błąkającego się zwiadowcy", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_SpiritKnt_01_body", "source": "Wandering Knight's Armor", "translation": "Zbroja błąkającego się rycerza", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_SpiritKnt_02_body", "source": "Wandering Knight's Soul", "translation": "Dusza błąkającego się rycerza", "status": "draft"}
-{"id": "String_STR_M_L1_AH_B_SpiritKnt_Named_body", "source": "Centurion Demiros", "translation": "Centurion Demiros", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_Agrint_01_body", "source": "Contaminated Agrint", "translation": "Skażony Agrint", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_BigMan_01_V01_body", "source": "Contaminated Mutant Targon", "translation": "Skażony zmutowany Targon", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_Fish_01_V01_body", "source": "Yellow-Tailed Skama", "translation": "Skama o żółtym ogonie", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_ForestEle_01_V01_body", "source": "Mutated Vine Bundle", "translation": "Pęk zmutowanych pnączy", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_ForestEle_01_body", "source": "Contaminated Vine Bundle", "translation": "Pęk skażonych pnączy", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_Guardit_01_body", "source": "Uncontrollable Guardite", "translation": "Nieokiełznany Guardite", "status": "draft"}
-{"id": "String_STR_M_L1_AH_C_Guardit_02_body", "source": "Contaminated Guardite", "translation": "Skażony Guardite", "status": "draft"}

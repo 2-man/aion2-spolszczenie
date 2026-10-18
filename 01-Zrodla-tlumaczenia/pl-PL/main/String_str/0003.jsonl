@@ -22,7 +22,7 @@
 {"id": "String_STR_ARENA_TYPE_TEAM_TITLE_body", "source": "Arena of Cooperation", "translation": "Arena Współpracy", "status": "draft"}
 {"id": "String_STR_ASCENSIONDUNGEON_OUT_BODY_body", "source": "You are about to leave the Ascension Dungeon.\nDungeon progress will be reset.\nProceed?", "translation": "Za chwilę opuścisz Loch Wniebowstąpienia.\nPostęp w lochu zostanie zresetowany.\nKontynuować?", "status": "draft"}
 {"id": "String_STR_ASCENSION_UPGRADE_body", "source": "Ascension Complete {0}", "translation": "Wniebowstąpienie ukończone: {0}", "status": "draft"}
-{"id":"String_STR_AUTOUSE_Auto_body","source":"AUTO","translation":"Automatycznie","status":"draft"}
+{"id": "String_STR_AUTOUSE_Auto_body", "source": "AUTO", "translation": "Automatycznie", "status": "draft"}
 {"id": "String_STR_AUTOUSE_PvE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
 {"id": "String_STR_AUTOUSE_PvP_body", "source": "PvP", "translation": "PvP", "status": "draft"}
 {"id": "String_STR_AWAKENDUNGEON_OUT_BODY_body", "source": "You are about to leave the Ascension Trial.\nDungeon progress will be reset.\nProceed?", "translation": "Za chwilę opuścisz Próbę Wniebowstąpienia.\nPostęp w lochu zostanie zresetowany.\nKontynuować?", "status": "draft"}
@@ -161,7 +161,7 @@
 {"id": "String_STR_Baisc_M_DranaVar_04_body", "source": "Drana Floater (Specimen)", "translation": "Unosiciel Drana (okaz)", "status": "draft"}
 {"id": "String_STR_Baisc_M_Electrosphere_01_body", "source": "Electromagnetic Field (Specimen)", "translation": "Pole elektromagnetyczne (okaz)", "status": "draft"}
 {"id": "String_STR_Baisc_M_FighterM_01_V02_body", "source": "Big Marauder (Specimen)", "translation": "Wielki maruder (okaz)", "status": "draft"}
-{"id":"String_STR_Baisc_M_KraoElite_03_V02_body","source":"Krao Bio-chimeraTiere","translation":"Chimera biologiczna Krao (okaz)","status":"draft"}
+{"id": "String_STR_Baisc_M_KraoElite_03_V02_body", "source": "Krao Bio-chimeraTiere", "translation": "Chimera biologiczna Krao (okaz)", "status": "draft"}
 {"id": "String_STR_Baisc_M_KraoTrap_01_001_body", "source": "Krao Cave Ground Effect (Specimen)", "translation": "Efekt podłoża Jaskini Krao (okaz)", "status": "draft"}
 {"id": "String_STR_Baisc_M_KraoTrap_01_V01_001_body", "source": "Krao Cave Ground Effect Vary (Specimen)", "translation": "Wariant efektu podłoża Jaskini Krao (okaz)", "status": "draft"}
 {"id": "String_STR_Baisc_M_Laser_01_CV01_body", "source": "Dungeons Laser 2 (Specimen)", "translation": "Laser w lochu 2 (okaz)", "status": "draft"}

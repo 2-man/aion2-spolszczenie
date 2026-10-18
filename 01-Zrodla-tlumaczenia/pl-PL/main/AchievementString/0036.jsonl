@@ -1,250 +1,250 @@
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130404_achievement_title","source":"Street Fighter IV","translation":"Uliczny wojownik IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130404_obj_desc","source":"Kill 300 opposing camp players","translation":"Zabij 300 graczy z wrogiego obozu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130405_achievement_title","source":"Street Fighter V","translation":"Uliczny wojownik V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130405_obj_desc","source":"Kill 500 opposing camp players","translation":"Zabij 500 graczy z wrogiego obozu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130501_achievement_title","source":"Scars of Glory I","translation":"Blizny chwały I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130501_obj_desc","source":"Be killed by an opposing camp player 10 times","translation":"Zgiń z rąk gracza z wrogiego obozu 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130502_achievement_title","source":"Scars of Glory II","translation":"Blizny chwały II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130502_obj_desc","source":"Be killed by an opposing camp player 30 times","translation":"Zgiń z rąk gracza z wrogiego obozu 30 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130601_achievement_title","source":"Coins to Make Me Shine I","translation":"Monety, które dodają blasku I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130601_obj_desc","source":"Collect 50,000 Abyss Points","translation":"Zbierz 50,000 pkt Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130602_achievement_title","source":"Coins to Make Me Shine II","translation":"Monety, które dodają blasku II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130602_obj_desc","source":"Collect 200,000 Abyss Points","translation":"Zbierz 200,000 pkt Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130603_achievement_title","source":"Coins to Make Me Shine III","translation":"Monety, które dodają blasku III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130603_obj_desc","source":"Collect 500,000 Abyss Points","translation":"Zbierz 500,000 pkt Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130604_achievement_title","source":"Coins to Make Me Shine IV","translation":"Monety, które dodają blasku IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130604_obj_desc","source":"Collect 1,000,000 Abyss Points","translation":"Zbierz 1,000,000 pkt Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130701_achievement_title","source":"No Time to Rest I","translation":"Nie ma czasu na odpoczynek I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130701_obj_desc","source":"Participate in Artifact Siege 5 times by its end","translation":"Weź udział w oblężeniu artefaktu do samego końca 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130702_achievement_title","source":"No Time to Rest II","translation":"Nie ma czasu na odpoczynek II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130702_obj_desc","source":"Participate in Artifact Siege 10 times by its end","translation":"Weź udział w oblężeniu artefaktu do samego końca 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130703_achievement_title","source":"No Time to Rest III","translation":"Nie ma czasu na odpoczynek III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130703_obj_desc","source":"Participate in Artifact Siege 15 times by its end","translation":"Weź udział w oblężeniu artefaktu do samego końca 15 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130801_achievement_title","source":"Artifact Assault I","translation":"Atak na artefakt I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130801_obj_desc","source":"Win Artifact Siege 3 times","translation":"Wygraj oblężenie artefaktu 3 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130802_achievement_title","source":"Artifact Assault II","translation":"Atak na artefakt II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130802_obj_desc","source":"Win Artifact Siege 6 times","translation":"Wygraj oblężenie artefaktu 6 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130803_achievement_title","source":"Artifact Assault III","translation":"Atak na artefakt III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130803_obj_desc","source":"Win Artifact Siege 10 times","translation":"Wygraj oblężenie artefaktu 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230101_achievement_title","source":"Hometown of My Heart","translation":"Rodzinne strony mojego serca","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230101_obj_desc","source":"Spend 5 hours in Abyss","translation":"Spędź 5 godz. w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230201_achievement_title","source":"Bare Minimum Morality I","translation":"Absolutne minimum przyzwoitości I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230201_obj_desc","source":"Kill 5 opposing camp players","translation":"Zabij 5 graczy z wrogiego obozu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230202_achievement_title","source":"Bare Minimum Morality II","translation":"Absolutne minimum przyzwoitości II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230202_obj_desc","source":"Kill 10 opposing camp players","translation":"Zabij 10 graczy z wrogiego obozu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230203_achievement_title","source":"Bare Minimum Morality III","translation":"Absolutne minimum przyzwoitości III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230203_obj_desc","source":"Kill 20 opposing camp players","translation":"Zabij 20 graczy z wrogiego obozu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230301_achievement_title","source":"Purify Reshanta I","translation":"Oczyść Reshantę I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230301_obj_desc","source":"Hunt 200 monsters in Abyss","translation":"Upoluj 200 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230302_achievement_title","source":"Purify Reshanta II","translation":"Oczyść Reshantę II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230302_obj_desc","source":"Hunt 400 monsters in Abyss","translation":"Upoluj 400 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230303_achievement_title","source":"Purify Reshanta III","translation":"Oczyść Reshantę III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230303_obj_desc","source":"Hunt 600 monsters in Abyss","translation":"Upoluj 600 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230304_achievement_title","source":"Purify Reshanta IV","translation":"Oczyść Reshantę IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230304_obj_desc","source":"Hunt 800 monsters in Abyss","translation":"Upoluj 800 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230305_achievement_title","source":"Purify Reshanta V","translation":"Oczyść Reshantę V","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230305_obj_desc","source":"Hunt 1,000 monsters in Abyss","translation":"Upoluj 1,000 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230306_achievement_title","source":"Purify Reshanta VI","translation":"Oczyść Reshantę VI","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230306_obj_desc","source":"Hunt 1,200 monsters in Abyss","translation":"Upoluj 1,200 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230307_achievement_title","source":"Purify Reshanta VII","translation":"Oczyść Reshantę VII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230307_obj_desc","source":"Hunt 1,400 monsters in Abyss","translation":"Upoluj 1,400 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230308_achievement_title","source":"Purify Reshanta VIII","translation":"Oczyść Reshantę VIII","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230308_obj_desc","source":"Hunt 1,600 monsters in Abyss","translation":"Upoluj 1,600 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230309_achievement_title","source":"Purify Reshanta IX","translation":"Oczyść Reshantę IX","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230309_obj_desc","source":"Hunt 1,800 monsters in Abyss","translation":"Upoluj 1,800 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230310_achievement_title","source":"Purify Reshanta X","translation":"Oczyść Reshantę X","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230310_obj_desc","source":"Hunt 2,000 monsters in Abyss","translation":"Upoluj 2,000 potworów w Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230401_achievement_title","source":"Watcher Kaira I","translation":"Obserwatorka Kaira I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230401_obj_desc","source":"Defeat the boss Watcher Kaira 2 times","translation":"Pokonaj obserwatorkę Kairę 2 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230402_achievement_title","source":"Watcher Kaira II","translation":"Obserwatorka Kaira II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230402_obj_desc","source":"Defeat the boss Watcher Kaira 5 times","translation":"Pokonaj obserwatorkę Kairę 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230403_achievement_title","source":"Watcher Kaira III","translation":"Obserwatorka Kaira III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230403_obj_desc","source":"Defeat the boss Watcher Kaira 10 times","translation":"Pokonaj obserwatorkę Kairę 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230501_achievement_title","source":"Argo, the Spirit King I","translation":"Argo, Król Duchów I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230501_obj_desc","source":"Defeat the boss Argo, the Spirit King 1 time","translation":"Pokonaj Argo, Króla Duchów, 1 raz","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230502_achievement_title","source":"Argo, the Spirit King II","translation":"Argo, Król Duchów II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230502_obj_desc","source":"Defeat the boss Argo, the Spirit King 3 times","translation":"Pokonaj Argo, Króla Duchów, 3 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230601_achievement_title","source":"Guardian Lord Nahma I","translation":"Władca Strażników Nahma I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230601_obj_desc","source":"Defeat the boss Guardian Lord Nahma 1 time","translation":"Pokonaj Władcę Strażników Nahmę 1 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230602_achievement_title","source":"Guardian Lord Nahma II","translation":"Władca Strażników Nahma II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230602_obj_desc","source":"Defeat the boss Guardian Lord Nahma 2 times","translation":"Pokonaj Władcę Strażników Nahmę 2 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230701_achievement_title","source":"Land Grabs I","translation":"Zajmowanie ziemi I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230701_obj_desc","source":"Participate in Artifact Siege 1 time by its end","translation":"Weź udział w oblężeniu artefaktu do samego końca 1 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230702_achievement_title","source":"Land Grabs II","translation":"Zajmowanie ziemi II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230702_obj_desc","source":"Participate in Artifact Siege 2 times by its end","translation":"Weź udział w oblężeniu artefaktu do samego końca 2 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230801_achievement_title","source":"Down to the Last One I","translation":"Do ostatniego I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230801_obj_desc","source":"Win Artifact Siege 1 time","translation":"Wygraj oblężenie artefaktu 1 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230802_achievement_title","source":"Down to the Last One II","translation":"Do ostatniego II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230802_obj_desc","source":"Win Artifact Siege 2 times","translation":"Wygraj oblężenie artefaktu 2 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230901_achievement_title","source":"Dominator of Lower Abyss","translation":"Władca Dolnej Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230901_obj_desc","source":"Defeat 1 Dominator of Lower Abyss after Artifact Siege","translation":"Pokonaj Władcę Dolnej Otchłani po oblężeniu artefaktu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231001_achievement_title","source":"Dominator of Middle Abyss","translation":"Władca Środkowej Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231001_obj_desc","source":"Defeat 1 Dominator of Middle Abyss after Artifact Siege","translation":"Pokonaj Władcę Środkowej Otchłani po oblężeniu artefaktu","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231101_achievement_title","source":"Abyss Rift Zone I","translation":"Strefa Szczeliny Otchłani I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231101_obj_desc","source":"Defeat 5 boss monsters in Abyss Rift Zone","translation":"Pokonaj 5 bossów w Strefie Szczeliny Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231102_achievement_title","source":"Abyss Rift Zone II","translation":"Strefa Szczeliny Otchłani II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231102_obj_desc","source":"Defeat 10 boss monsters in Abyss Rift Zone","translation":"Pokonaj 10 bossów w Strefie Szczeliny Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231103_achievement_title","source":"Abyss Rift Zone III","translation":"Strefa Szczeliny Otchłani III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231103_obj_desc","source":"Defeat 20 boss monsters in Abyss Rift Zone","translation":"Pokonaj 20 bossów w Strefie Szczeliny Otchłani","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130101_achievement_title","source":"Gambler's Path I","translation":"Droga hazardzisty I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130101_obj_desc","source":"Participate in Arena 30 times","translation":"Weź udział w Arenie 30 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130102_achievement_title","source":"Gambler's Path II","translation":"Droga hazardzisty II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130102_obj_desc","source":"Participate in Arena 70 times","translation":"Weź udział w Arenie 70 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130103_achievement_title","source":"Gambler's Path III","translation":"Droga hazardzisty III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130103_obj_desc","source":"Participate in Arena 150 times","translation":"Weź udział w Arenie 150 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130201_achievement_title","source":"Reaper of the Arena I","translation":"Żniwiarz areny I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130201_obj_desc","source":"Win 20 times in Arena","translation":"Wygraj w Arenie 20 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130202_achievement_title","source":"Reaper of the Arena II","translation":"Żniwiarz areny II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130202_obj_desc","source":"Win 50 times in Arena","translation":"Wygraj w Arenie 50 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130203_achievement_title","source":"Reaper of the Arena III","translation":"Żniwiarz areny III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130203_obj_desc","source":"Win 100 times in Arena","translation":"Wygraj w Arenie 100 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130301_achievement_title","source":"Piercing the Enemy's Heart I","translation":"Przebijanie serca wroga I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130301_obj_desc","source":"Defeat an opponent 50 times in Arena","translation":"Pokonaj przeciwnika w Arenie 50 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130302_achievement_title","source":"Piercing the Enemy's Heart II","translation":"Przebijanie serca wroga II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130302_obj_desc","source":"Defeat an opponent 100 times in Arena","translation":"Pokonaj przeciwnika w Arenie 100 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130303_achievement_title","source":"Piercing the Enemy's Heart III","translation":"Przebijanie serca wroga III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130303_obj_desc","source":"Defeat an opponent 200 times in Arena","translation":"Pokonaj przeciwnika w Arenie 200 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130304_achievement_title","source":"Piercing the Enemy's Heart IV","translation":"Przebijanie serca wroga IV","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130304_obj_desc","source":"Defeat an opponent 300 times in Arena","translation":"Pokonaj przeciwnika w Arenie 300 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130401_achievement_title","source":"Missed by a Hair I","translation":"O włos I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130401_obj_desc","source":"Secure 10 assists in Arena of Cooperation","translation":"Zdobądź 10 asyst w Arenie Współpracy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130402_achievement_title","source":"Missed by a Hair II","translation":"O włos II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130402_obj_desc","source":"Secure 30 assists in Arena of Cooperation","translation":"Zdobądź 30 asyst w Arenie Współpracy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130403_achievement_title","source":"Missed by a Hair III","translation":"O włos III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130403_obj_desc","source":"Secure 50 assists in Arena of Cooperation","translation":"Zdobądź 50 asyst w Arenie Współpracy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130501_achievement_title","source":"I Don't Fear Death","translation":"Nie boję się śmierci","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130501_obj_desc","source":"Die 20 times in Arena","translation":"Zgiń w Arenie 20 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230101_achievement_title","source":"Steady Efforts I","translation":"Wytrwałe starania I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230101_obj_desc","source":"Participate in Arena 3 times","translation":"Weź udział w Arenie 3 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230102_achievement_title","source":"Steady Efforts II","translation":"Wytrwałe starania II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230102_obj_desc","source":"Participate in Arena 7 times","translation":"Weź udział w Arenie 7 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230103_achievement_title","source":"Steady Efforts III","translation":"Wytrwałe starania III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230103_obj_desc","source":"Participate in Arena 10 times","translation":"Weź udział w Arenie 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230201_achievement_title","source":"Me, Beyond Myself I","translation":"Przekraczam samego siebie I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230201_obj_desc","source":"Win 1 time in Arena","translation":"Wygraj w Arenie 1 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230202_achievement_title","source":"Me, Beyond Myself II","translation":"Przekraczam samego siebie II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230202_obj_desc","source":"Win 3 times in Arena","translation":"Wygraj w Arenie 3 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230203_achievement_title","source":"Me, Beyond Myself III","translation":"Przekraczam samego siebie III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230203_obj_desc","source":"Win 5 times in Arena","translation":"Wygraj w Arenie 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130101_achievement_title","source":"Gatekeeper Pinopi I","translation":"Odźwierny Pinopi I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130101_obj_desc","source":"Clear Gatekeeper Pinopi Level 10","translation":"Ukończ poziom 10: Gatekeeper Pinopi","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130102_achievement_title","source":"Gatekeeper Pinopi II","translation":"Odźwierny Pinopi II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130102_obj_desc","source":"Clear Gatekeeper Pinopi Level 10 within 1 minute","translation":"Ukończ poziom 10: Gatekeeper Pinopi w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130201_achievement_title","source":"Furious Feruk I","translation":"Rozwścieczony Feruk I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130201_obj_desc","source":"Clear Furious Feruk Level 10","translation":"Ukończ poziom 10: Furious Feruk","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130202_achievement_title","source":"Furious Feruk II","translation":"Rozwścieczony Feruk II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130202_obj_desc","source":"Clear Furious Feruk Level 10 within 1 minute","translation":"Ukończ poziom 10: Furious Feruk w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130301_achievement_title","source":"Fafnir's Poison Blood I","translation":"Trująca krew Fafnira I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130301_obj_desc","source":"Clear Fafnir's Poison Blood Level 10","translation":"Ukończ poziom 10: Fafnir's Poison Blood","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130302_achievement_title","source":"Fafnir's Poison Blood II","translation":"Trująca krew Fafnira II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130302_obj_desc","source":"Clear Fafnir's Poison Blood Level 10 within 1 minute","translation":"Ukończ poziom 10: Fafnir's Poison Blood w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130401_achievement_title","source":"Wraith Giselle I","translation":"Zjawa Giselle I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130401_obj_desc","source":"Clear Wraith Giselle Level 10","translation":"Ukończ poziom 10: Wraith Giselle","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130402_achievement_title","source":"Wraith Giselle II","translation":"Zjawa Giselle II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130402_obj_desc","source":"Clear Wraith Giselle Level 10 within 1 minute","translation":"Ukończ poziom 10: Wraith Giselle w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130501_achievement_title","source":"Fortress Guardian Notun I","translation":"Strażnik twierdzy Notun I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130501_obj_desc","source":"Clear Fortress Guardian Notun Level 10","translation":"Ukończ poziom 10: Strażnik fortecy Notun","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130502_achievement_title","source":"Fortress Guardian Notun II","translation":"Strażnik twierdzy Notun II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130502_obj_desc","source":"Clear Fortress Guardian Notun Level 10 within 1 minute","translation":"Ukończ poziom 10: Strażnik fortecy Notun w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130601_achievement_title","source":"Mutated Gerod I","translation":"Zmutowany Gerod I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130601_obj_desc","source":"Clear Mutated Gerod Level 10","translation":"Ukończ poziom 10: Mutated Gerod","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130602_achievement_title","source":"Mutated Gerod II","translation":"Zmutowany Gerod II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130602_obj_desc","source":"Clear Mutated Gerod Level 10 within 1 minute","translation":"Ukończ poziom 10: Mutated Gerod w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130701_achievement_title","source":"Zikel's Apparition I","translation":"Zjawa Zikela I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130701_obj_desc","source":"Clear Zikel's Apparition","translation":"Ukończ Zikel's Apparition","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130702_achievement_title","source":"Zikel's Apparition II","translation":"Zjawa Zikela II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130702_obj_desc","source":"Clear Zikel's Apparition within 1 minute","translation":"Ukończ Zikel's Apparition w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130801_achievement_title","source":"Mutated Ulgorn I","translation":"Zmutowany Ulgorn I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130801_obj_desc","source":"Clear Mutated Ulgorn Level 10","translation":"Ukończ poziom 10: Mutated Ulgorn","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130802_achievement_title","source":"Mutated Ulgorn II","translation":"Zmutowany Ulgorn II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130802_obj_desc","source":"Clear Mutated Ulgorn Level 10 within 1 minute","translation":"Ukończ poziom 10: Mutated Ulgorn w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130901_achievement_title","source":"Soulreaper Rathman I","translation":"Żniwiarz dusz Rathman I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130901_obj_desc","source":"Clear Soulreaper Rathman Level 10","translation":"Ukończ poziom 10: Soulreaper Rathman","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130902_achievement_title","source":"Soulreaper Rathman II","translation":"Żniwiarz dusz Rathman II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130902_obj_desc","source":"Clear Soulreaper Rathman Level 10 within 1 minute","translation":"Ukończ poziom 10: Soulreaper Rathman w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131001_achievement_title","source":"Sharp Aulak I","translation":"Ostry Aulak I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131001_obj_desc","source":"Clear Sharp Aulak Level 10","translation":"Ukończ poziom 10: Sharp Aulak","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131002_achievement_title","source":"Sharp Aulak II","translation":"Ostry Aulak II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131002_obj_desc","source":"Clear Sharp Aulak Level 10 within 1 minute","translation":"Ukończ poziom 10: Sharp Aulak w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131101_achievement_title","source":"Sealed Sura I","translation":"Zapieczętowany Sura I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131101_obj_desc","source":"Clear Sealed Sura Level 10","translation":"Ukończ poziom 10: Sealed Sura","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131102_achievement_title","source":"Sealed Sura II","translation":"Zapieczętowany Sura II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131102_obj_desc","source":"Clear Sealed Sura Level 10 within 1 minute","translation":"Ukończ poziom 10: Sealed Sura w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131201_achievement_title","source":"Enraged Reda I","translation":"Rozwścieczona Reda I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131201_obj_desc","source":"Clear Enraged Reda Level 10","translation":"Ukończ poziom 10: Enraged Reda","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131202_achievement_title","source":"Enraged Reda II","translation":"Rozwścieczona Reda II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131202_obj_desc","source":"Clear Enraged Reda Level 10 within 1 minute","translation":"Ukończ poziom 10: Enraged Reda w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131301_achievement_title","source":"Warden Santras I","translation":"Strażnik Santras I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131301_obj_desc","source":"Clear Warden Santras Level 10","translation":"Ukończ poziom 10: Warden Santras","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131302_achievement_title","source":"Warden Santras II","translation":"Strażnik Santras II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131302_obj_desc","source":"Clear Warden Santras Level 10 within 1 minute","translation":"Ukończ poziom 10: Warden Santras w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131401_achievement_title","source":"Kaisinel's Illusion I","translation":"Iluzja Kaisinel I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131401_obj_desc","source":"Clear Kaisinel's Illusion Level 10","translation":"Ukończ poziom 10: Kaisinel's Illusion","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131402_achievement_title","source":"Kaisinel's Illusion II","translation":"Iluzja Kaisinel II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131402_obj_desc","source":"Clear Kaisinel's Illusion Level 10 within 1 minute","translation":"Ukończ poziom 10: Kaisinel's Illusion w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131501_achievement_title","source":"Sanctum Guardian Gauss I","translation":"Strażnik Sanktuarium Gauss I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131501_obj_desc","source":"Clear Sanctum Guardian Gauss Level 10","translation":"Ukończ poziom 10: Sanctum Guardian Gauss","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131502_achievement_title","source":"Sanctum Guardian Gauss II","translation":"Strażnik Sanktuarium Gauss II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131502_obj_desc","source":"Clear Sanctum Guardian Gauss Level 10 within 1 minute","translation":"Ukończ poziom 10: Sanctum Guardian Gauss w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131601_achievement_title","source":"Ritualist Aulisa I","translation":"Rytualistka Aulisa I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131601_obj_desc","source":"Clear Ritualist Aulisa Level 10","translation":"Ukończ poziom 10: Ritualist Aulisa","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131602_achievement_title","source":"Ritualist Aulisa II","translation":"Rytualistka Aulisa II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131602_obj_desc","source":"Clear Ritualist Aulisa Level 10 within 1 minute","translation":"Ukończ poziom 10: Ritualist Aulisa w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131701_achievement_title","source":"Root Mythical Bird Aultross I","translation":"Korzeniowy Mityczny Ptak Aultross I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131701_obj_desc","source":"Clear Root Mythical Bird Aultross Level 10","translation":"Ukończ poziom 10: Root Mythical Bird Aultross","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131702_achievement_title","source":"Root Mythical Bird Aultross II","translation":"Korzeniowy Mityczny Ptak Aultross II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131702_obj_desc","source":"Clear Root Mythical Bird Aultross Level 10 within 1 minute","translation":"Ukończ poziom 10: Root Mythical Bird Aultross w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131801_achievement_title","source":"Oathbreaker Gartua I","translation":"Gartua Łamacz Przysięgi I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131801_obj_desc","source":"Clear Oathbreaker Gartua Level 10","translation":"Ukończ poziom 10: Oathbreaker Gartua","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131802_achievement_title","source":"Oathbreaker Gartua II","translation":"Gartua Łamacz Przysięgi II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131802_obj_desc","source":"Clear Oathbreaker Gartua Level 10 within 1 minute","translation":"Ukończ poziom 10: Oathbreaker Gartua w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131901_achievement_title","source":"Incarnated Warding Feather I","translation":"Wcielone Pióro Ochrony I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131901_obj_desc","source":"Clear Incarnated Warding Feather Level 10","translation":"Ukończ poziom 10: Incarnated Warding Feather","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131902_achievement_title","source":"Incarnated Warding Feather II","translation":"Wcielone Pióro Ochrony II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131902_obj_desc","source":"Clear Incarnated Warding Feather Level 10 within 1 minute","translation":"Ukończ poziom 10: Incarnated Warding Feather w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132001_achievement_title","source":"Modified Bargott I","translation":"Zmodyfikowany Bargott I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132001_obj_desc","source":"Clear Modified Bargott Level 10","translation":"Ukończ poziom 10: Modified Bargott","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132002_achievement_title","source":"Modified Bargott II","translation":"Zmodyfikowany Bargott II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132002_obj_desc","source":"Clear Modified Bargott Level 10 within 1 minute","translation":"Ukończ poziom 10: Modified Bargott w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132101_achievement_title","source":"Tyrant Tassin I","translation":"Tyran Tassin I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132101_obj_desc","source":"Clear Tyrant Tassin Level 10","translation":"Ukończ poziom 10: Tyrant Tassin","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132102_achievement_title","source":"Tyrant Tassin II","translation":"Tyran Tassin II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132102_obj_desc","source":"Clear Tyrant Tassin Level 10 within 1 minute","translation":"Ukończ poziom 10: Tyrant Tassin w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230101_achievement_title","source":"Friends With a Story I","translation":"Przyjaciele z historią I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230101_obj_desc","source":"Defeat Nightmare Boss 5 times","translation":"Pokonaj bossa koszmaru 5 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230102_achievement_title","source":"Friends With a Story II","translation":"Przyjaciele z historią II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230102_obj_desc","source":"Defeat Nightmare Boss 10 times","translation":"Pokonaj bossa koszmaru 10 razy","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230201_achievement_title","source":"Collecting Dream Shards I","translation":"Zbieranie odłamków snu I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230201_obj_desc","source":"Obtain 1,000 Phantasmal Fragments","translation":"Zdobądź 1,000 widmowych odłamków","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230202_achievement_title","source":"Collecting Dream Shards II","translation":"Zbieranie odłamków snu II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230202_obj_desc","source":"Obtain 3,000 Phantasmal Fragments","translation":"Zdobądź 3,000 widmowych odłamków","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230301_achievement_title","source":"Eternal Rest I","translation":"Wieczny odpoczynek I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230301_obj_desc","source":"Defeat Nightmare Boss within 3 minutes","translation":"Pokonaj bossa koszmaru w ciągu 3 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230302_achievement_title","source":"Eternal Rest II","translation":"Wieczny odpoczynek II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230302_obj_desc","source":"Defeat Nightmare Boss within 2 minutes","translation":"Pokonaj bossa koszmaru w ciągu 2 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230303_achievement_title","source":"Eternal Rest III","translation":"Wieczny odpoczynek III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230303_obj_desc","source":"Defeat Nightmare Boss within 1 minute","translation":"Pokonaj bossa koszmaru w ciągu 1 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130101_achievement_title","source":"Deus Research Base Stage 1 I","translation":"Baza Badawcza Deusa — etap 1 I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130101_obj_desc","source":"Clear Deus Research Base Stage 1","translation":"Ukończ etap 1 w Bazie Badawczej Deusa","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130102_achievement_title","source":"Deus Research Base Stage 1 II","translation":"Baza Badawcza Deusa — etap 1 II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130102_obj_desc","source":"Clear Deus Research Base Stage 1 within 7 minutes","translation":"Ukończ etap 1 w Bazie Badawczej Deusa w ciągu 7 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130103_achievement_title","source":"Deus Research Base Stage 1 III","translation":"Baza Badawcza Deusa — etap 1 III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130103_obj_desc","source":"Clear Deus Stage 1 without losing a single party member","translation":"Ukończ etap 1 w Deus, nie tracąc żadnego członka drużyny","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130201_achievement_title","source":"Deus Research Base Stage 2 I","translation":"Baza Badawcza Deusa — etap 2 I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130201_obj_desc","source":"Clear Deus Research Base Stage 2","translation":"Ukończ etap 2 w Bazie Badawczej Deusa","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130202_achievement_title","source":"Deus Research Base Stage 2 II","translation":"Baza Badawcza Deusa — etap 2 II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130202_obj_desc","source":"Clear Deus Research Base Stage 2 within 7 minutes","translation":"Ukończ etap 2 w Bazie Badawczej Deusa w ciągu 7 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130203_achievement_title","source":"Deus Research Base Stage 2 III","translation":"Baza Badawcza Deusa — etap 2 III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130203_obj_desc","source":"Clear Deus Stage 2 without losing a single party member","translation":"Ukończ etap 2 w Deus, nie tracąc żadnego członka drużyny","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130301_achievement_title","source":"Deus Research Base Stage 3 I","translation":"Baza Badawcza Deusa — etap 3 I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130301_obj_desc","source":"Clear Deus Research Base Stage 3","translation":"Ukończ etap 3 w Bazie Badawczej Deusa","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130302_achievement_title","source":"Deus Research Base Stage 3 II","translation":"Baza Badawcza Deusa — etap 3 II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130302_obj_desc","source":"Clear Deus Research Base Stage 3 within 7 minutes","translation":"Ukończ etap 3 w Bazie Badawczej Deusa w ciągu 7 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130303_achievement_title","source":"Deus Research Base Stage 3 III","translation":"Baza Badawcza Deusa — etap 3 III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130303_obj_desc","source":"Clear Deus Stage 3 without losing a single party member","translation":"Ukończ etap 3 w Deus, nie tracąc żadnego członka drużyny","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130401_achievement_title","source":"Deus Research Base Stage 4 I","translation":"Baza Badawcza Deusa — etap 4 I","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130401_obj_desc","source":"Clear Deus Research Base Stage 4","translation":"Ukończ etap 4 w Bazie Badawczej Deusa","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130402_achievement_title","source":"Deus Research Base Stage 4 II","translation":"Baza Badawcza Deusa — etap 4 II","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130402_obj_desc","source":"Clear Deus Research Base Stage 4 within 7 minutes","translation":"Ukończ etap 4 w Bazie Badawczej Deusa w ciągu 7 min","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130403_achievement_title","source":"Deus Research Base Stage 4 III","translation":"Baza Badawcza Deusa — etap 4 III","status":"draft"}
-{"id":"AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130403_obj_desc","source":"Clear Deus Stage 4 without losing a single party member","translation":"Ukończ etap 4 w Deus, nie tracąc żadnego członka drużyny","status":"draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130404_achievement_title", "source": "Street Fighter IV", "translation": "Uliczny wojownik IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130404_obj_desc", "source": "Kill 300 opposing camp players", "translation": "Zabij 300 graczy z wrogiego obozu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130405_achievement_title", "source": "Street Fighter V", "translation": "Uliczny wojownik V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130405_obj_desc", "source": "Kill 500 opposing camp players", "translation": "Zabij 500 graczy z wrogiego obozu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130501_achievement_title", "source": "Scars of Glory I", "translation": "Blizny chwały I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130501_obj_desc", "source": "Be killed by an opposing camp player 10 times", "translation": "Zgiń z rąk gracza z wrogiego obozu 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130502_achievement_title", "source": "Scars of Glory II", "translation": "Blizny chwały II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130502_obj_desc", "source": "Be killed by an opposing camp player 30 times", "translation": "Zgiń z rąk gracza z wrogiego obozu 30 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130601_achievement_title", "source": "Coins to Make Me Shine I", "translation": "Monety, które dodają blasku I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130601_obj_desc", "source": "Collect 50,000 Abyss Points", "translation": "Zbierz 50,000 pkt Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130602_achievement_title", "source": "Coins to Make Me Shine II", "translation": "Monety, które dodają blasku II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130602_obj_desc", "source": "Collect 200,000 Abyss Points", "translation": "Zbierz 200,000 pkt Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130603_achievement_title", "source": "Coins to Make Me Shine III", "translation": "Monety, które dodają blasku III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130603_obj_desc", "source": "Collect 500,000 Abyss Points", "translation": "Zbierz 500,000 pkt Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130604_achievement_title", "source": "Coins to Make Me Shine IV", "translation": "Monety, które dodają blasku IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130604_obj_desc", "source": "Collect 1,000,000 Abyss Points", "translation": "Zbierz 1,000,000 pkt Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130701_achievement_title", "source": "No Time to Rest I", "translation": "Nie ma czasu na odpoczynek I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130701_obj_desc", "source": "Participate in Artifact Siege 5 times by its end", "translation": "Weź udział w oblężeniu artefaktu do samego końca 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130702_achievement_title", "source": "No Time to Rest II", "translation": "Nie ma czasu na odpoczynek II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130702_obj_desc", "source": "Participate in Artifact Siege 10 times by its end", "translation": "Weź udział w oblężeniu artefaktu do samego końca 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130703_achievement_title", "source": "No Time to Rest III", "translation": "Nie ma czasu na odpoczynek III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130703_obj_desc", "source": "Participate in Artifact Siege 15 times by its end", "translation": "Weź udział w oblężeniu artefaktu do samego końca 15 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130801_achievement_title", "source": "Artifact Assault I", "translation": "Atak na artefakt I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130801_obj_desc", "source": "Win Artifact Siege 3 times", "translation": "Wygraj oblężenie artefaktu 3 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130802_achievement_title", "source": "Artifact Assault II", "translation": "Atak na artefakt II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130802_obj_desc", "source": "Win Artifact Siege 6 times", "translation": "Wygraj oblężenie artefaktu 6 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130803_achievement_title", "source": "Artifact Assault III", "translation": "Atak na artefakt III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240130803_obj_desc", "source": "Win Artifact Siege 10 times", "translation": "Wygraj oblężenie artefaktu 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230101_achievement_title", "source": "Hometown of My Heart", "translation": "Rodzinne strony mojego serca", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230101_obj_desc", "source": "Spend 5 hours in Abyss", "translation": "Spędź 5 godz. w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230201_achievement_title", "source": "Bare Minimum Morality I", "translation": "Absolutne minimum przyzwoitości I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230201_obj_desc", "source": "Kill 5 opposing camp players", "translation": "Zabij 5 graczy z wrogiego obozu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230202_achievement_title", "source": "Bare Minimum Morality II", "translation": "Absolutne minimum przyzwoitości II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230202_obj_desc", "source": "Kill 10 opposing camp players", "translation": "Zabij 10 graczy z wrogiego obozu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230203_achievement_title", "source": "Bare Minimum Morality III", "translation": "Absolutne minimum przyzwoitości III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230203_obj_desc", "source": "Kill 20 opposing camp players", "translation": "Zabij 20 graczy z wrogiego obozu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230301_achievement_title", "source": "Purify Reshanta I", "translation": "Oczyść Reshantę I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230301_obj_desc", "source": "Hunt 200 monsters in Abyss", "translation": "Upoluj 200 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230302_achievement_title", "source": "Purify Reshanta II", "translation": "Oczyść Reshantę II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230302_obj_desc", "source": "Hunt 400 monsters in Abyss", "translation": "Upoluj 400 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230303_achievement_title", "source": "Purify Reshanta III", "translation": "Oczyść Reshantę III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230303_obj_desc", "source": "Hunt 600 monsters in Abyss", "translation": "Upoluj 600 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230304_achievement_title", "source": "Purify Reshanta IV", "translation": "Oczyść Reshantę IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230304_obj_desc", "source": "Hunt 800 monsters in Abyss", "translation": "Upoluj 800 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230305_achievement_title", "source": "Purify Reshanta V", "translation": "Oczyść Reshantę V", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230305_obj_desc", "source": "Hunt 1,000 monsters in Abyss", "translation": "Upoluj 1,000 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230306_achievement_title", "source": "Purify Reshanta VI", "translation": "Oczyść Reshantę VI", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230306_obj_desc", "source": "Hunt 1,200 monsters in Abyss", "translation": "Upoluj 1,200 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230307_achievement_title", "source": "Purify Reshanta VII", "translation": "Oczyść Reshantę VII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230307_obj_desc", "source": "Hunt 1,400 monsters in Abyss", "translation": "Upoluj 1,400 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230308_achievement_title", "source": "Purify Reshanta VIII", "translation": "Oczyść Reshantę VIII", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230308_obj_desc", "source": "Hunt 1,600 monsters in Abyss", "translation": "Upoluj 1,600 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230309_achievement_title", "source": "Purify Reshanta IX", "translation": "Oczyść Reshantę IX", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230309_obj_desc", "source": "Hunt 1,800 monsters in Abyss", "translation": "Upoluj 1,800 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230310_achievement_title", "source": "Purify Reshanta X", "translation": "Oczyść Reshantę X", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230310_obj_desc", "source": "Hunt 2,000 monsters in Abyss", "translation": "Upoluj 2,000 potworów w Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230401_achievement_title", "source": "Watcher Kaira I", "translation": "Obserwatorka Kaira I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230401_obj_desc", "source": "Defeat the boss Watcher Kaira 2 times", "translation": "Pokonaj obserwatorkę Kairę 2 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230402_achievement_title", "source": "Watcher Kaira II", "translation": "Obserwatorka Kaira II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230402_obj_desc", "source": "Defeat the boss Watcher Kaira 5 times", "translation": "Pokonaj obserwatorkę Kairę 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230403_achievement_title", "source": "Watcher Kaira III", "translation": "Obserwatorka Kaira III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230403_obj_desc", "source": "Defeat the boss Watcher Kaira 10 times", "translation": "Pokonaj obserwatorkę Kairę 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230501_achievement_title", "source": "Argo, the Spirit King I", "translation": "Argo, Król Duchów I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230501_obj_desc", "source": "Defeat the boss Argo, the Spirit King 1 time", "translation": "Pokonaj Argo, Króla Duchów, 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230502_achievement_title", "source": "Argo, the Spirit King II", "translation": "Argo, Król Duchów II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230502_obj_desc", "source": "Defeat the boss Argo, the Spirit King 3 times", "translation": "Pokonaj Argo, Króla Duchów, 3 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230601_achievement_title", "source": "Guardian Lord Nahma I", "translation": "Władca Strażników Nahma I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230601_obj_desc", "source": "Defeat the boss Guardian Lord Nahma 1 time", "translation": "Pokonaj Władcę Strażników Nahmę 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230602_achievement_title", "source": "Guardian Lord Nahma II", "translation": "Władca Strażników Nahma II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230602_obj_desc", "source": "Defeat the boss Guardian Lord Nahma 2 times", "translation": "Pokonaj Władcę Strażników Nahmę 2 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230701_achievement_title", "source": "Land Grabs I", "translation": "Zajmowanie ziemi I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230701_obj_desc", "source": "Participate in Artifact Siege 1 time by its end", "translation": "Weź udział w oblężeniu artefaktu do samego końca 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230702_achievement_title", "source": "Land Grabs II", "translation": "Zajmowanie ziemi II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230702_obj_desc", "source": "Participate in Artifact Siege 2 times by its end", "translation": "Weź udział w oblężeniu artefaktu do samego końca 2 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230801_achievement_title", "source": "Down to the Last One I", "translation": "Do ostatniego I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230801_obj_desc", "source": "Win Artifact Siege 1 time", "translation": "Wygraj oblężenie artefaktu 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230802_achievement_title", "source": "Down to the Last One II", "translation": "Do ostatniego II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230802_obj_desc", "source": "Win Artifact Siege 2 times", "translation": "Wygraj oblężenie artefaktu 2 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230901_achievement_title", "source": "Dominator of Lower Abyss", "translation": "Władca Dolnej Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240230901_obj_desc", "source": "Defeat 1 Dominator of Lower Abyss after Artifact Siege", "translation": "Pokonaj Władcę Dolnej Otchłani po oblężeniu artefaktu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231001_achievement_title", "source": "Dominator of Middle Abyss", "translation": "Władca Środkowej Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231001_obj_desc", "source": "Defeat 1 Dominator of Middle Abyss after Artifact Siege", "translation": "Pokonaj Władcę Środkowej Otchłani po oblężeniu artefaktu", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231101_achievement_title", "source": "Abyss Rift Zone I", "translation": "Strefa Szczeliny Otchłani I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231101_obj_desc", "source": "Defeat 5 boss monsters in Abyss Rift Zone", "translation": "Pokonaj 5 bossów w Strefie Szczeliny Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231102_achievement_title", "source": "Abyss Rift Zone II", "translation": "Strefa Szczeliny Otchłani II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231102_obj_desc", "source": "Defeat 10 boss monsters in Abyss Rift Zone", "translation": "Pokonaj 10 bossów w Strefie Szczeliny Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231103_achievement_title", "source": "Abyss Rift Zone III", "translation": "Strefa Szczeliny Otchłani III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Abyss_240231103_obj_desc", "source": "Defeat 20 boss monsters in Abyss Rift Zone", "translation": "Pokonaj 20 bossów w Strefie Szczeliny Otchłani", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130101_achievement_title", "source": "Gambler's Path I", "translation": "Droga hazardzisty I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130101_obj_desc", "source": "Participate in Arena 30 times", "translation": "Weź udział w Arenie 30 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130102_achievement_title", "source": "Gambler's Path II", "translation": "Droga hazardzisty II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130102_obj_desc", "source": "Participate in Arena 70 times", "translation": "Weź udział w Arenie 70 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130103_achievement_title", "source": "Gambler's Path III", "translation": "Droga hazardzisty III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130103_obj_desc", "source": "Participate in Arena 150 times", "translation": "Weź udział w Arenie 150 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130201_achievement_title", "source": "Reaper of the Arena I", "translation": "Żniwiarz areny I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130201_obj_desc", "source": "Win 20 times in Arena", "translation": "Wygraj w Arenie 20 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130202_achievement_title", "source": "Reaper of the Arena II", "translation": "Żniwiarz areny II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130202_obj_desc", "source": "Win 50 times in Arena", "translation": "Wygraj w Arenie 50 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130203_achievement_title", "source": "Reaper of the Arena III", "translation": "Żniwiarz areny III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130203_obj_desc", "source": "Win 100 times in Arena", "translation": "Wygraj w Arenie 100 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130301_achievement_title", "source": "Piercing the Enemy's Heart I", "translation": "Przebijanie serca wroga I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130301_obj_desc", "source": "Defeat an opponent 50 times in Arena", "translation": "Pokonaj przeciwnika w Arenie 50 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130302_achievement_title", "source": "Piercing the Enemy's Heart II", "translation": "Przebijanie serca wroga II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130302_obj_desc", "source": "Defeat an opponent 100 times in Arena", "translation": "Pokonaj przeciwnika w Arenie 100 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130303_achievement_title", "source": "Piercing the Enemy's Heart III", "translation": "Przebijanie serca wroga III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130303_obj_desc", "source": "Defeat an opponent 200 times in Arena", "translation": "Pokonaj przeciwnika w Arenie 200 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130304_achievement_title", "source": "Piercing the Enemy's Heart IV", "translation": "Przebijanie serca wroga IV", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130304_obj_desc", "source": "Defeat an opponent 300 times in Arena", "translation": "Pokonaj przeciwnika w Arenie 300 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130401_achievement_title", "source": "Missed by a Hair I", "translation": "O włos I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130401_obj_desc", "source": "Secure 10 assists in Arena of Cooperation", "translation": "Zdobądź 10 asyst w Arenie Współpracy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130402_achievement_title", "source": "Missed by a Hair II", "translation": "O włos II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130402_obj_desc", "source": "Secure 30 assists in Arena of Cooperation", "translation": "Zdobądź 30 asyst w Arenie Współpracy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130403_achievement_title", "source": "Missed by a Hair III", "translation": "O włos III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130403_obj_desc", "source": "Secure 50 assists in Arena of Cooperation", "translation": "Zdobądź 50 asyst w Arenie Współpracy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130501_achievement_title", "source": "I Don't Fear Death", "translation": "Nie boję się śmierci", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241130501_obj_desc", "source": "Die 20 times in Arena", "translation": "Zgiń w Arenie 20 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230101_achievement_title", "source": "Steady Efforts I", "translation": "Wytrwałe starania I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230101_obj_desc", "source": "Participate in Arena 3 times", "translation": "Weź udział w Arenie 3 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230102_achievement_title", "source": "Steady Efforts II", "translation": "Wytrwałe starania II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230102_obj_desc", "source": "Participate in Arena 7 times", "translation": "Weź udział w Arenie 7 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230103_achievement_title", "source": "Steady Efforts III", "translation": "Wytrwałe starania III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230103_obj_desc", "source": "Participate in Arena 10 times", "translation": "Weź udział w Arenie 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230201_achievement_title", "source": "Me, Beyond Myself I", "translation": "Przekraczam samego siebie I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230201_obj_desc", "source": "Win 1 time in Arena", "translation": "Wygraj w Arenie 1 raz", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230202_achievement_title", "source": "Me, Beyond Myself II", "translation": "Przekraczam samego siebie II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230202_obj_desc", "source": "Win 3 times in Arena", "translation": "Wygraj w Arenie 3 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230203_achievement_title", "source": "Me, Beyond Myself III", "translation": "Przekraczam samego siebie III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Arena_241230203_obj_desc", "source": "Win 5 times in Arena", "translation": "Wygraj w Arenie 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130101_achievement_title", "source": "Gatekeeper Pinopi I", "translation": "Odźwierny Pinopi I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130101_obj_desc", "source": "Clear Gatekeeper Pinopi Level 10", "translation": "Ukończ poziom 10: Odźwierny Pinopi", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130102_achievement_title", "source": "Gatekeeper Pinopi II", "translation": "Odźwierny Pinopi II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130102_obj_desc", "source": "Clear Gatekeeper Pinopi Level 10 within 1 minute", "translation": "Ukończ poziom 10: Odźwierny Pinopi w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130201_achievement_title", "source": "Furious Feruk I", "translation": "Rozwścieczony Feruk I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130201_obj_desc", "source": "Clear Furious Feruk Level 10", "translation": "Ukończ poziom 10: Rozwścieczony Feruk", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130202_achievement_title", "source": "Furious Feruk II", "translation": "Rozwścieczony Feruk II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130202_obj_desc", "source": "Clear Furious Feruk Level 10 within 1 minute", "translation": "Ukończ poziom 10: Rozwścieczony Feruk w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130301_achievement_title", "source": "Fafnir's Poison Blood I", "translation": "Trująca krew Fafnira I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130301_obj_desc", "source": "Clear Fafnir's Poison Blood Level 10", "translation": "Ukończ poziom 10: Trująca krew Fafnira", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130302_achievement_title", "source": "Fafnir's Poison Blood II", "translation": "Trująca krew Fafnira II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130302_obj_desc", "source": "Clear Fafnir's Poison Blood Level 10 within 1 minute", "translation": "Ukończ poziom 10: Trująca krew Fafnira w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130401_achievement_title", "source": "Wraith Giselle I", "translation": "Zjawa Giselle I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130401_obj_desc", "source": "Clear Wraith Giselle Level 10", "translation": "Ukończ poziom 10: Zjawa Giselle", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130402_achievement_title", "source": "Wraith Giselle II", "translation": "Zjawa Giselle II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130402_obj_desc", "source": "Clear Wraith Giselle Level 10 within 1 minute", "translation": "Ukończ poziom 10: Zjawa Giselle w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130501_achievement_title", "source": "Fortress Guardian Notun I", "translation": "Strażnik twierdzy Notun I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130501_obj_desc", "source": "Clear Fortress Guardian Notun Level 10", "translation": "Ukończ poziom 10: Strażnik fortecy Notun", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130502_achievement_title", "source": "Fortress Guardian Notun II", "translation": "Strażnik twierdzy Notun II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130502_obj_desc", "source": "Clear Fortress Guardian Notun Level 10 within 1 minute", "translation": "Ukończ poziom 10: Strażnik fortecy Notun w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130601_achievement_title", "source": "Mutated Gerod I", "translation": "Zmutowany Gerod I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130601_obj_desc", "source": "Clear Mutated Gerod Level 10", "translation": "Ukończ poziom 10: Zmutowany Gerod", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130602_achievement_title", "source": "Mutated Gerod II", "translation": "Zmutowany Gerod II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130602_obj_desc", "source": "Clear Mutated Gerod Level 10 within 1 minute", "translation": "Ukończ poziom 10: Zmutowany Gerod w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130701_achievement_title", "source": "Zikel's Apparition I", "translation": "Zjawa Zikela I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130701_obj_desc", "source": "Clear Zikel's Apparition", "translation": "Ukończ Zjawę Zikela", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130702_achievement_title", "source": "Zikel's Apparition II", "translation": "Zjawa Zikela II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130702_obj_desc", "source": "Clear Zikel's Apparition within 1 minute", "translation": "Ukończ Zjawę Zikela w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130801_achievement_title", "source": "Mutated Ulgorn I", "translation": "Zmutowany Ulgorn I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130801_obj_desc", "source": "Clear Mutated Ulgorn Level 10", "translation": "Ukończ poziom 10: Zmutowany Ulgorn", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130802_achievement_title", "source": "Mutated Ulgorn II", "translation": "Zmutowany Ulgorn II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130802_obj_desc", "source": "Clear Mutated Ulgorn Level 10 within 1 minute", "translation": "Ukończ poziom 10: Zmutowany Ulgorn w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130901_achievement_title", "source": "Soulreaper Rathman I", "translation": "Żniwiarz dusz Rathman I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130901_obj_desc", "source": "Clear Soulreaper Rathman Level 10", "translation": "Ukończ poziom 10: Żniwiarz dusz Rathman", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130902_achievement_title", "source": "Soulreaper Rathman II", "translation": "Żniwiarz dusz Rathman II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243130902_obj_desc", "source": "Clear Soulreaper Rathman Level 10 within 1 minute", "translation": "Ukończ poziom 10: Żniwiarz dusz Rathman w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131001_achievement_title", "source": "Sharp Aulak I", "translation": "Ostry Aulak I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131001_obj_desc", "source": "Clear Sharp Aulak Level 10", "translation": "Ukończ poziom 10: Ostry Aulak", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131002_achievement_title", "source": "Sharp Aulak II", "translation": "Ostry Aulak II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131002_obj_desc", "source": "Clear Sharp Aulak Level 10 within 1 minute", "translation": "Ukończ poziom 10: Ostry Aulak w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131101_achievement_title", "source": "Sealed Sura I", "translation": "Zapieczętowany Sura I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131101_obj_desc", "source": "Clear Sealed Sura Level 10", "translation": "Ukończ poziom 10: Zapieczętowany Sura", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131102_achievement_title", "source": "Sealed Sura II", "translation": "Zapieczętowany Sura II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131102_obj_desc", "source": "Clear Sealed Sura Level 10 within 1 minute", "translation": "Ukończ poziom 10: Zapieczętowany Sura w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131201_achievement_title", "source": "Enraged Reda I", "translation": "Rozwścieczona Reda I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131201_obj_desc", "source": "Clear Enraged Reda Level 10", "translation": "Ukończ poziom 10: Rozwścieczona Reda", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131202_achievement_title", "source": "Enraged Reda II", "translation": "Rozwścieczona Reda II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131202_obj_desc", "source": "Clear Enraged Reda Level 10 within 1 minute", "translation": "Ukończ poziom 10: Rozwścieczona Reda w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131301_achievement_title", "source": "Warden Santras I", "translation": "Strażnik Santras I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131301_obj_desc", "source": "Clear Warden Santras Level 10", "translation": "Ukończ poziom 10: Strażnik Santras", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131302_achievement_title", "source": "Warden Santras II", "translation": "Strażnik Santras II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131302_obj_desc", "source": "Clear Warden Santras Level 10 within 1 minute", "translation": "Ukończ poziom 10: Strażnik Santras w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131401_achievement_title", "source": "Kaisinel's Illusion I", "translation": "Iluzja Kaisinel I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131401_obj_desc", "source": "Clear Kaisinel's Illusion Level 10", "translation": "Ukończ poziom 10: Iluzja Kaisinel", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131402_achievement_title", "source": "Kaisinel's Illusion II", "translation": "Iluzja Kaisinel II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131402_obj_desc", "source": "Clear Kaisinel's Illusion Level 10 within 1 minute", "translation": "Ukończ poziom 10: Iluzja Kaisinel w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131501_achievement_title", "source": "Sanctum Guardian Gauss I", "translation": "Strażnik Sanktuarium Gauss I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131501_obj_desc", "source": "Clear Sanctum Guardian Gauss Level 10", "translation": "Ukończ poziom 10: Strażnik Sanktuarium Gauss", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131502_achievement_title", "source": "Sanctum Guardian Gauss II", "translation": "Strażnik Sanktuarium Gauss II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131502_obj_desc", "source": "Clear Sanctum Guardian Gauss Level 10 within 1 minute", "translation": "Ukończ poziom 10: Strażnik Sanktuarium Gauss w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131601_achievement_title", "source": "Ritualist Aulisa I", "translation": "Rytualistka Aulisa I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131601_obj_desc", "source": "Clear Ritualist Aulisa Level 10", "translation": "Ukończ poziom 10: Rytualistka Aulisa", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131602_achievement_title", "source": "Ritualist Aulisa II", "translation": "Rytualistka Aulisa II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131602_obj_desc", "source": "Clear Ritualist Aulisa Level 10 within 1 minute", "translation": "Ukończ poziom 10: Rytualistka Aulisa w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131701_achievement_title", "source": "Root Mythical Bird Aultross I", "translation": "Korzeniowy Mityczny Ptak Aultross I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131701_obj_desc", "source": "Clear Root Mythical Bird Aultross Level 10", "translation": "Ukończ poziom 10: Korzeniowy Mityczny Ptak Aultross", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131702_achievement_title", "source": "Root Mythical Bird Aultross II", "translation": "Korzeniowy Mityczny Ptak Aultross II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131702_obj_desc", "source": "Clear Root Mythical Bird Aultross Level 10 within 1 minute", "translation": "Ukończ poziom 10: Korzeniowy Mityczny Ptak Aultross w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131801_achievement_title", "source": "Oathbreaker Gartua I", "translation": "Gartua Łamacz Przysięgi I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131801_obj_desc", "source": "Clear Oathbreaker Gartua Level 10", "translation": "Ukończ poziom 10: Gartua łamiący przysięgę", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131802_achievement_title", "source": "Oathbreaker Gartua II", "translation": "Gartua Łamacz Przysięgi II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131802_obj_desc", "source": "Clear Oathbreaker Gartua Level 10 within 1 minute", "translation": "Ukończ poziom 10: Gartua łamiący przysięgę w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131901_achievement_title", "source": "Incarnated Warding Feather I", "translation": "Wcielone Pióro Ochrony I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131901_obj_desc", "source": "Clear Incarnated Warding Feather Level 10", "translation": "Ukończ poziom 10: Wcielone Pióro Ochrony", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131902_achievement_title", "source": "Incarnated Warding Feather II", "translation": "Wcielone Pióro Ochrony II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243131902_obj_desc", "source": "Clear Incarnated Warding Feather Level 10 within 1 minute", "translation": "Ukończ poziom 10: Wcielone Pióro Ochrony w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132001_achievement_title", "source": "Modified Bargott I", "translation": "Zmodyfikowany Bargott I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132001_obj_desc", "source": "Clear Modified Bargott Level 10", "translation": "Ukończ poziom 10: Zmodyfikowany Bargott", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132002_achievement_title", "source": "Modified Bargott II", "translation": "Zmodyfikowany Bargott II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132002_obj_desc", "source": "Clear Modified Bargott Level 10 within 1 minute", "translation": "Ukończ poziom 10: Zmodyfikowany Bargott w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132101_achievement_title", "source": "Tyrant Tassin I", "translation": "Tyran Tassin I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132101_obj_desc", "source": "Clear Tyrant Tassin Level 10", "translation": "Ukończ poziom 10: Tyran Tassin", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132102_achievement_title", "source": "Tyrant Tassin II", "translation": "Tyran Tassin II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243132102_obj_desc", "source": "Clear Tyrant Tassin Level 10 within 1 minute", "translation": "Ukończ poziom 10: Tyran Tassin w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230101_achievement_title", "source": "Friends With a Story I", "translation": "Przyjaciele z historią I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230101_obj_desc", "source": "Defeat Nightmare Boss 5 times", "translation": "Pokonaj bossa koszmaru 5 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230102_achievement_title", "source": "Friends With a Story II", "translation": "Przyjaciele z historią II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230102_obj_desc", "source": "Defeat Nightmare Boss 10 times", "translation": "Pokonaj bossa koszmaru 10 razy", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230201_achievement_title", "source": "Collecting Dream Shards I", "translation": "Zbieranie odłamków snu I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230201_obj_desc", "source": "Obtain 1,000 Phantasmal Fragments", "translation": "Zdobądź 1,000 widmowych odłamków", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230202_achievement_title", "source": "Collecting Dream Shards II", "translation": "Zbieranie odłamków snu II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230202_obj_desc", "source": "Obtain 3,000 Phantasmal Fragments", "translation": "Zdobądź 3,000 widmowych odłamków", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230301_achievement_title", "source": "Eternal Rest I", "translation": "Wieczny odpoczynek I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230301_obj_desc", "source": "Defeat Nightmare Boss within 3 minutes", "translation": "Pokonaj bossa koszmaru w ciągu 3 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230302_achievement_title", "source": "Eternal Rest II", "translation": "Wieczny odpoczynek II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230302_obj_desc", "source": "Defeat Nightmare Boss within 2 minutes", "translation": "Pokonaj bossa koszmaru w ciągu 2 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230303_achievement_title", "source": "Eternal Rest III", "translation": "Wieczny odpoczynek III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_Nightmare_243230303_obj_desc", "source": "Defeat Nightmare Boss within 1 minute", "translation": "Pokonaj bossa koszmaru w ciągu 1 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130101_achievement_title", "source": "Deus Research Base Stage 1 I", "translation": "Baza Badawcza Deusa — etap 1 I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130101_obj_desc", "source": "Clear Deus Research Base Stage 1", "translation": "Ukończ etap 1 w Bazie Badawczej Deusa", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130102_achievement_title", "source": "Deus Research Base Stage 1 II", "translation": "Baza Badawcza Deusa — etap 1 II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130102_obj_desc", "source": "Clear Deus Research Base Stage 1 within 7 minutes", "translation": "Ukończ etap 1 w Bazie Badawczej Deusa w ciągu 7 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130103_achievement_title", "source": "Deus Research Base Stage 1 III", "translation": "Baza Badawcza Deusa — etap 1 III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130103_obj_desc", "source": "Clear Deus Stage 1 without losing a single party member", "translation": "Ukończ etap 1 w Deus, nie tracąc żadnego członka drużyny", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130201_achievement_title", "source": "Deus Research Base Stage 2 I", "translation": "Baza Badawcza Deusa — etap 2 I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130201_obj_desc", "source": "Clear Deus Research Base Stage 2", "translation": "Ukończ etap 2 w Bazie Badawczej Deusa", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130202_achievement_title", "source": "Deus Research Base Stage 2 II", "translation": "Baza Badawcza Deusa — etap 2 II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130202_obj_desc", "source": "Clear Deus Research Base Stage 2 within 7 minutes", "translation": "Ukończ etap 2 w Bazie Badawczej Deusa w ciągu 7 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130203_achievement_title", "source": "Deus Research Base Stage 2 III", "translation": "Baza Badawcza Deusa — etap 2 III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130203_obj_desc", "source": "Clear Deus Stage 2 without losing a single party member", "translation": "Ukończ etap 2 w Deus, nie tracąc żadnego członka drużyny", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130301_achievement_title", "source": "Deus Research Base Stage 3 I", "translation": "Baza Badawcza Deusa — etap 3 I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130301_obj_desc", "source": "Clear Deus Research Base Stage 3", "translation": "Ukończ etap 3 w Bazie Badawczej Deusa", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130302_achievement_title", "source": "Deus Research Base Stage 3 II", "translation": "Baza Badawcza Deusa — etap 3 II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130302_obj_desc", "source": "Clear Deus Research Base Stage 3 within 7 minutes", "translation": "Ukończ etap 3 w Bazie Badawczej Deusa w ciągu 7 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130303_achievement_title", "source": "Deus Research Base Stage 3 III", "translation": "Baza Badawcza Deusa — etap 3 III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130303_obj_desc", "source": "Clear Deus Stage 3 without losing a single party member", "translation": "Ukończ etap 3 w Deus, nie tracąc żadnego członka drużyny", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130401_achievement_title", "source": "Deus Research Base Stage 4 I", "translation": "Baza Badawcza Deusa — etap 4 I", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130401_obj_desc", "source": "Clear Deus Research Base Stage 4", "translation": "Ukończ etap 4 w Bazie Badawczej Deusa", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130402_achievement_title", "source": "Deus Research Base Stage 4 II", "translation": "Baza Badawcza Deusa — etap 4 II", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130402_obj_desc", "source": "Clear Deus Research Base Stage 4 within 7 minutes", "translation": "Ukończ etap 4 w Bazie Badawczej Deusa w ciągu 7 min", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130403_achievement_title", "source": "Deus Research Base Stage 4 III", "translation": "Baza Badawcza Deusa — etap 4 III", "status": "draft"}
+{"id": "AchievementString_Archieve_STR_Group_Season_3_D_PartyChallenge_242130403_obj_desc", "source": "Clear Deus Stage 4 without losing a single party member", "translation": "Ukończ etap 4 w Deus, nie tracąc żadnego członka drużyny", "status": "draft"}

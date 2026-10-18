@@ -1,18 +1,21 @@
+{"id": "EnvObjData_E_L1_DranaPlantation_TeleportArtifact_003_desc", "source": "Drana Transport Hub", "translation": "Węzeł transportowy Drany", "status": "draft"}
+{"id": "EnvObjData_E_L1_DranaRoot_001_desc", "source": "Condensed Drana Root", "translation": "Skondensowany korzeń Drany", "status": "draft"}
+{"id": "EnvObjData_E_L1_DranaSprout_001_desc", "source": "Drana Sprout", "translation": "Pęd Drany", "status": "draft"}
 {"id": "EnvObjData_E_L1_DranaStorage_001_desc", "source": "Small Drana Repository", "translation": "Mały zbiornik Drany", "status": "draft"}
 {"id": "EnvObjData_E_L1_DrcoPaperBox_001_desc", "source": "Power Tower Management Document Box", "translation": "Skrzynka z dokumentami zarządzania Wieżą Mocy", "status": "draft"}
 {"id": "EnvObjData_E_L1_DungeonExitPortal_001_desc", "source": "Krao Cave Exit", "translation": "Wyjście z Jaskini Krao", "status": "draft"}
 {"id": "EnvObjData_E_L1_DungeonExitPortal_001_interact_desc", "source": "Exiting the Krao Cave...", "translation": "Opuszczanie Jaskini Krao...", "status": "draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_001_desc","source":"Marsh Legion Campsite","translation":"Obóz Legionu Bagien","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_002_desc","source":"Marsh Outpost","translation":"Posterunek na bagnach","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_003_desc","source":"Collapsed Verteron Barrier Tower","translation":"Zawalona wieża zaporowa Verteronu","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_004_desc","source":"Spirit's Rest","translation":"Odpoczynek duchów","status":"draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_001_desc", "source": "Marsh Legion Campsite", "translation": "Obóz Legionu Bagien", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_002_desc", "source": "Marsh Outpost", "translation": "Posterunek na bagnach", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_003_desc", "source": "Collapsed Verteron Barrier Tower", "translation": "Zawalona wieża zaporowa Verteronu", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_004_desc", "source": "Spirit's Rest", "translation": "Odpoczynek duchów", "status": "draft"}
 {"id": "EnvObjData_E_L1_EllunRiverMarsh_TeleportArtifact_005_desc", "source": "Ellun River Marsh Cliff", "translation": "Klif na bagnach nad rzeką Ellun", "status": "draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_001_desc","source":"Hideout in Front of the Ruins","translation":"Kryjówka przed ruinami","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_002_desc","source":"Dawn Legion Temporary Outpost","translation":"Tymczasowy posterunek Legionu Świtu","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_003_desc","source":"Ruin Exploration Campsite","translation":"Obóz ekspedycji do ruin","status":"draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_004_desc","source":"Illusion Cavaliers' Campsite","translation":"Obóz Rycerzy Iluzji","status":"draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_001_desc", "source": "Hideout in Front of the Ruins", "translation": "Kryjówka przed ruinami", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_002_desc", "source": "Dawn Legion Temporary Outpost", "translation": "Tymczasowy posterunek Legionu Świtu", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_003_desc", "source": "Ruin Exploration Campsite", "translation": "Obóz ekspedycji do ruin", "status": "draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_004_desc", "source": "Illusion Cavaliers' Campsite", "translation": "Obóz Rycerzy Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_005_desc", "source": "Ellun River Midstream Highland", "translation": "Wyżyna w środkowym biegu rzeki Ellun", "status": "draft"}
-{"id":"EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_040_desc","source":"Pamos Farm","translation":"Farma Pamos","status":"draft"}
+{"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_040_desc", "source": "Pamos Farm", "translation": "Farma Pamos", "status": "draft"}
 {"id": "EnvObjData_E_L1_EllunRiverMidstream_TeleportArtifact_043_desc", "source": "Ellun River Midstream Pond", "translation": "Staw w środkowym biegu rzeki Ellun", "status": "draft"}
 {"id": "EnvObjData_E_L1_EltenenP_001_desc", "source": "Eltnen Portal (Temporary)", "translation": "Portal Eltnen (tymczasowy)", "status": "draft"}
 {"id": "EnvObjData_E_L1_EnterPortal_01_desc", "source": "Bandit Den Entrance", "translation": "Wejście do kryjówki bandytów", "status": "draft"}
@@ -114,8 +117,8 @@
 {"id": "EnvObjData_E_L1_FQ_CLB01Object_03_desc", "source": "fromis_9 Wings", "translation": "Skrzydła fromis_9", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_Cabbage_01_desc", "source": "Fresh Kaprese", "translation": "Świeże kaprese", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_Cart_03_1_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
-{"id":"EnvObjData_E_L1_FQ_CedricTombstone_01_desc","source":"Cedric's Tombstone","translation":"Nagrobek Cedrica","status":"draft"}
-{"id":"EnvObjData_E_L1_FQ_CedricTombstone_02_desc","source":"Cedric's Tombstone","translation":"Nagrobek Cedrica","status":"draft"}
+{"id": "EnvObjData_E_L1_FQ_CedricTombstone_01_desc", "source": "Cedric's Tombstone", "translation": "Nagrobek Cedrica", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_CedricTombstone_02_desc", "source": "Cedric's Tombstone", "translation": "Nagrobek Cedrica", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_DaevaTankOFF_02_desc", "source": "Darkened Surana Test Tube", "translation": "Przyciemniona probówka Surany", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_DaevaTankON_01_desc", "source": "Illuminated Surana Test Tube", "translation": "Podświetlona probówka Surany", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_DaevaTankON_02_desc", "source": "Illuminated Surana Test Tube", "translation": "Podświetlona probówka Surany", "status": "draft"}
@@ -208,12 +211,12 @@
 {"id": "EnvObjData_E_L1_FQ_MirajuStatue_01_desc", "source": "Illusion God Monument", "translation": "Pomnik Boga Iluzji", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_Mushroom_01_desc", "source": "Poisonous Mushroom", "translation": "Trujący grzyb", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_MysteryBox_01_desc", "source": "Mysterious Chest", "translation": "Tajemnicza skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_OldBox_01_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_OldBox_01_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldBox_05_desc", "source": "Old Luggage Chest", "translation": "Skrzynia na stary bagaż", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldBox_06_desc", "source": "Worn Wooden Chest", "translation": "Podniszczona drewniana skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldBox_07_desc", "source": "Worn Wooden Chest", "translation": "Podniszczona drewniana skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_OldBox_08_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_OldBox_10_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_OldBox_08_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L1_FQ_OldBox_10_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldLeatherBag_01_desc", "source": "Dari's Materials Bag", "translation": "Torba z materiałami Dariego", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldLeatherBag_02_desc", "source": "Neisha's Bag", "translation": "Torba Neishy", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_OldLeatherBag_03_desc", "source": "Neisha's Bag", "translation": "Torba Neishy", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_L1_FQ_SearchEffect_02_desc", "source": "Odyle Video Converter Installation Location", "translation": "Miejsce instalacji konwertera wideo Odylu", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_SearchEffect_03_desc", "source": "Scattered Podium", "translation": "Rozrzucone podwyższenie", "status": "draft"}
 {"id": "EnvObjData_E_L1_FQ_SearchEffect_04_desc", "source": "Release", "translation": "Uwolnij", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_SearchEffect_05_desc", "source": "Release", "translation": "Uwolnij", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_SearchEffect_06_desc", "source": "Release", "translation": "Uwolnij", "status": "draft"}
-{"id": "EnvObjData_E_L1_FQ_SearchEffect_07_desc", "source": "Plant the Flowers", "translation": "Posadź kwiaty", "status": "draft"}

@@ -35,10 +35,10 @@
 {"id": "Message_MSG_ENCHANT_FAIL_LOCKED_body", "source": "Cannot enhance locked items.", "translation": "Nie można ulepszać zablokowanych przedmiotów.", "status": "draft"}
 {"id": "Message_MSG_ENCHANT_FAIL_MAX_ENCHANT_body", "source": "Cannot enhance further due to reaching max Enhance Level.", "translation": "Nie można dalej ulepszać — osiągnięto maksymalny poziom.", "status": "draft"}
 {"id": "Message_MSG_ENCHANT_FAIL_MAX_EXCEEDENCHANT_body", "source": "Cannot enhance. This item has reached the max Amplified Enhance Level.", "translation": "Nie można ulepszyć. Ten przedmiot osiągnął maksymalny poziom wzmocnionego ulepszenia.", "status": "draft"}
-{"id": "Message_MSG_ENCHANT_GODSTONE_COMBINE_BUTTON_DISABLED_body", "source": "Register the Theostone to combine.", "translation": "Zarejestruj Teost kamień do połączenia.", "status": "draft"}
-{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_COMBIND_PROB_body", "source": "Register a Theostone first.", "translation": "Najpierw zarejestruj Teost kamień.", "status": "draft"}
-{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_EQUIP_SAME_body", "source": "The same Theostone has already been bound.", "translation": "Taki sam Teost kamień został już związany.", "status": "draft"}
-{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_LOCKED_body", "source": "Cannot bind Theostones to locked items.", "translation": "Nie można wiązać Teost kamieni z zablokowanymi przedmiotami.", "status": "draft"}
+{"id": "Message_MSG_ENCHANT_GODSTONE_COMBINE_BUTTON_DISABLED_body", "source": "Register the Theostone to combine.", "translation": "Zarejestruj Teokamień do połączenia.", "status": "draft"}
+{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_COMBIND_PROB_body", "source": "Register a Theostone first.", "translation": "Najpierw zarejestruj Teokamień.", "status": "draft"}
+{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_EQUIP_SAME_body", "source": "The same Theostone has already been bound.", "translation": "Taki sam Teokamień został już związany.", "status": "draft"}
+{"id": "Message_MSG_ENCHANT_GODSTONE_FAIL_LOCKED_body", "source": "Cannot bind Theostones to locked items.", "translation": "Nie można wiązać Teokamieni z zablokowanymi przedmiotami.", "status": "draft"}
 {"id": "Message_MSG_ENCHANT_MAGICSTONE_AUTOSET_BUTTON_DISABLED_body", "source": "Select the items and materials you want to use.", "translation": "Wybierz przedmioty i materiały, których chcesz użyć.", "status": "draft"}
 {"id": "Message_MSG_ENCHANT_MAGICSTONE_PROB_BUTTON_DISABLED_body", "source": "Select the items and materials you want to use.", "translation": "Wybierz przedmioty i materiały, których chcesz użyć.", "status": "draft"}
 {"id": "Message_MSG_ENCHANT_RESET_BUTTON_DISABLED_body", "source": "No content to reset.", "translation": "Brak zawartości do zresetowania.", "status": "draft"}

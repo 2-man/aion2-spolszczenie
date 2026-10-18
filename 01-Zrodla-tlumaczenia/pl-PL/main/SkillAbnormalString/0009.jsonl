@@ -242,7 +242,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_12287901_desc_effect", "source": "Pulled (1m in front of caster)", "translation": "Przyciągnięcie (1 m przed rzucającym)", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12287901_desc_name", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12287901_desc_summary", "source": "Pull", "translation": "Przyciągnięcie", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_12288501_desc_name", "source": "Restore HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_12288501_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12288501_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12288601_desc_name", "source": "Defense Increase", "translation": "Zwiększenie obrony", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12288601_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}

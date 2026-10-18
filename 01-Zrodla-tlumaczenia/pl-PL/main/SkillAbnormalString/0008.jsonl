@@ -22,7 +22,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_12173901_desc_summary", "source": "Absorbs damage", "translation": "Pochłania obrażenia", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12174001_desc_effect", "source": "Absorbs damage", "translation": "Pochłania obrażenia", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12174001_desc_name", "source": "Damage Absorption", "translation": "Pochłanianie obrażeń", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_12174001_desc_summary", "source": "Damage Absorption", "translation": "Pochłanianie obrażeń", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_12174001_desc_summary", "source": "Absorbs damage", "translation": "Pochłanianie obrażeń", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12175401_desc_effect", "source": "Pulled (1m in front of caster)", "translation": "Przyciągnięcie (1 m przed rzucającym)", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12175401_desc_name", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12175401_desc_summary", "source": "Pull", "translation": "Przyciągnięcie", "status": "draft"}
@@ -33,7 +33,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_12176401_desc_name", "source": "Shield Defense", "translation": "Obrona tarczą", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12176401_desc_summary", "source": "Shield Defense", "translation": "Obrona tarczą", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12176402_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_12176402_desc_name", "source": "Restore HP", "translation": "Przywrócenie PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_12176402_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12176402_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12176701_desc_effect", "source": "Pulled (1m in front of caster)", "translation": "Przyciągnięcie (1 m przed rzucającym)", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_12176701_desc_name", "source": "Pulled", "translation": "Przyciągnięcie", "status": "draft"}

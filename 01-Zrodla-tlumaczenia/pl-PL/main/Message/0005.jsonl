@@ -75,13 +75,13 @@
 {"id": "Message_MSG_GLIDE_NOT_ENOUGH_FP_body", "source": "Insufficient Flight Power.", "translation": "Za mało Siły Lotu.", "status": "draft"}
 {"id": "Message_MSG_GLIDE_NOT_FINISH_COOLTIME_body", "source": "Cannot reuse yet.", "translation": "Nie można jeszcze użyć ponownie.", "status": "draft"}
 {"id": "Message_MSG_GLOBAL_SERVICE_SERVER_REGION_NO_SELECTED_body", "source": "No server selected.", "translation": "Nie wybrano serwera.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_EQUIP_body", "source": "No items to bind Theostones.", "translation": "Brak przedmiotów do związania z Teost kamieniem.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MATERIAL_body", "source": "No Theostones to bind.", "translation": "Brak Teost kamieni do związania.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MONEY_body", "source": "Cannot bind Theostone due to insufficient Kina.", "translation": "Za mało Kiny, aby związać Teost kamień.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_COMBINE_ITEM_NOTENOUGH_body", "source": "Insufficient Theostones for combination.", "translation": "Za mało Teost kamieni do połączenia.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_COST_body", "source": "Insufficient funds for Theostone binding.", "translation": "Za mało środków na związanie Teost kamienia.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_CATEGORY_body", "source": "Item cannot be bound to selected Theostone.", "translation": "Nie można związać przedmiotu z wybranym Teost kamieniem.", "status": "draft"}
-{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_ENOUGH_body", "source": "Register item to bind with Theostone.", "translation": "Zarejestruj przedmiot, który chcesz związać z Teost kamieniem.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_EQUIP_body", "source": "No items to bind Theostones.", "translation": "Brak przedmiotów do związania z Teokamieniem.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MATERIAL_body", "source": "No Theostones to bind.", "translation": "Brak Teokamieni do związania.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_BUTTON_DISABLED_NOT_MONEY_body", "source": "Cannot bind Theostone due to insufficient Kina.", "translation": "Za mało Kiny, aby związać Teokamień.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_COMBINE_ITEM_NOTENOUGH_body", "source": "Insufficient Theostones for combination.", "translation": "Za mało Teokamieni do połączenia.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_COST_body", "source": "Insufficient funds for Theostone binding.", "translation": "Za mało środków na związanie Teokamienia.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_CATEGORY_body", "source": "Item cannot be bound to selected Theostone.", "translation": "Nie można związać przedmiotu z wybranym Teokamieniem.", "status": "draft"}
+{"id": "Message_MSG_GODSTONE_EQUIP_FAIL_NOT_ENOUGH_body", "source": "Register item to bind with Theostone.", "translation": "Zarejestruj przedmiot, który chcesz związać z Teokamieniem.", "status": "draft"}
 {"id": "Message_MSG_GROUND_SKILL_NOT_AVAILABLE_body", "source": "Invalid location.", "translation": "Nieprawidłowe miejsce.", "status": "draft"}
 {"id": "Message_MSG_GUILDCRAFT_ADD_RECIPE_body", "source": "Registered new Legion crafting recipe: [{0}]", "translation": "Zarejestrowano nowy przepis rzemieślniczy Legionu: [{0}]", "status": "draft"}
 {"id": "Message_MSG_GUILDCRAFT_FAIL_GUILDSTORAGE_FULL_body", "source": "Crafting is not available in the Abyss.", "translation": "W Otchłani nie można wytwarzać przedmiotów.", "status": "draft"}

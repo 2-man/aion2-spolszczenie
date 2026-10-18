@@ -26,7 +26,7 @@
 {"id": "SkillCondString_SkillCondString_Self_Hold_cond_desc", "source": "Root Status", "translation": "Stan unieruchomienia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Self_KnockDownInstant_cond_desc", "source": "Knockdown Status", "translation": "Stan powalenia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Self_Polymorph_cond_desc", "source": "Polymorph Status", "translation": "Stan przemiany", "status": "draft"}
-{"id":"SkillCondString_SkillCondString_Self_Shock_cond_desc","source":"Impact-type Status\n\n-Stun, Knockdown, Airborne, Grab","translation":"Efekt uderzeniowy\n\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie","status":"draft"}
+{"id": "SkillCondString_SkillCondString_Self_Shock_cond_desc", "source": "Impact-type Status\n\n-Stun, Knockdown, Airborne, Grab", "translation": "Efekt uderzeniowy\n\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Self_Sleep_cond_desc", "source": "Sleep Status", "translation": "Stan uśpienia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Self_Slow_cond_desc", "source": "Lethargy Status", "translation": "Stan ospałości", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Self_Snare_cond_desc", "source": "Slow Status", "translation": "Stan spowolnienia", "status": "draft"}
@@ -44,7 +44,7 @@
 {"id": "SkillCondString_SkillCondString_Target_Hold_cond_desc", "source": "Root Target", "translation": "Cel w stanie unieruchomienia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Target_KnockDownInstant_cond_desc", "source": "Knockdown Target", "translation": "Cel w stanie powalenia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Target_Polymorph_cond_desc", "source": "Polymorph Target", "translation": "Cel w stanie przemiany", "status": "draft"}
-{"id":"SkillCondString_SkillCondString_Target_Shock_cond_desc","source":"Impact-type Target\n-Stun, Knockdown, Airborne, Grab","translation":"Cel objęty efektem uderzeniowym\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie","status":"draft"}
+{"id": "SkillCondString_SkillCondString_Target_Shock_cond_desc", "source": "Impact-type Target\n-Stun, Knockdown, Airborne, Grab", "translation": "Cel objęty efektem uderzeniowym\n– Ogłuszenie, powalenie, podrzucenie, pochwycenie", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Target_Sleep_cond_desc", "source": "Sleep Target", "translation": "Cel w stanie uśpienia", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Target_Slow_cond_desc", "source": "Lethargy Target", "translation": "Cel w stanie ospałości", "status": "draft"}
 {"id": "SkillCondString_SkillCondString_Target_Snare_cond_desc", "source": "Slow Target", "translation": "Cel w stanie spowolnienia", "status": "draft"}

@@ -1,104 +1,146 @@
-param([ValidateSet('Install','Update','Restore')][string]$Mode='Install',[string]$GameRoot='')
+﻿param(
+ [ValidateSet('Install','Update','Restore')][string]$Mode='Install',
+ [string]$GameRoot=''
+)
 $ErrorActionPreference='Stop'
 if (Get-Process AION2 -ErrorAction SilentlyContinue) { throw 'Zamknij AION2 przed instalacja lub przywracaniem.' }
-if (-not $GameRoot) {
- Add-Type -AssemblyName System.Windows.Forms
- $dialog=New-Object System.Windows.Forms.FolderBrowserDialog
- $dialog.Description='Wybierz folder AION2 zawierajacy katalog Aion2.'
- if ($dialog.ShowDialog() -ne 'OK') { exit 1 }
- $GameRoot=$dialog.SelectedPath
-}
+Write-Output 'AION2 PL installer drop-in 2026-10-18 (auto-path; no client-version comparison).'
+
+# The release files are copied directly into the game's root folder.
+if (-not $GameRoot) { $GameRoot=$PSScriptRoot }
 $GameRoot=[IO.Path]::GetFullPath($GameRoot)
-if (-not (Test-Path -LiteralPath (Join-Path $GameRoot 'Aion2/Binaries/Win64/AION2.exe'))) { throw 'Nieprawidlowy folder gry.' }
+if (-not (Test-Path -LiteralPath (Join-Path $GameRoot 'Aion2/Binaries/Win64/AION2.exe'))) {
+ throw 'Nie znaleziono klienta gry. Skopiuj zawartosc paczki do glownego folderu AION2 obok katalogu Aion2 i uruchom tam INSTALUJ.cmd.'
+}
 $locale=Join-Path $GameRoot 'Aion2/Content/Paks/L10N/Text/en-US'
 $dat=Join-Path $GameRoot 'Aion2/Content/L10N/Text/en-US/L10NString.dat'
 $support=Join-Path $GameRoot 'AION2-PL-LOOSE'
 $backup=Join-Path $support 'backup'
 $names=@('pakchunk502000-Windows_0_P.pak','pakchunk502000-Windows_0_P.sig','pakchunk502000-Windows_0_P.ucas','pakchunk502000-Windows_0_P.utoc')
+
 function Hash([string]$path) {
  $a=[Security.Cryptography.SHA256]::Create();$s=[IO.File]::OpenRead($path)
  try { [BitConverter]::ToString($a.ComputeHash($s)).Replace('-','').ToLowerInvariant() }
  finally { $s.Dispose();$a.Dispose() }
 }
-$manifestPath=if ($Mode -ne 'Restore') { Join-Path $PSScriptRoot 'package.json' } else { Join-Path $support 'package.json' }
-$m=Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
-if ($m.experiment -ne 4 -or $m.originals.Count -ne 4) { throw 'Nieprawidlowy manifest.' }
-if (@($m.originals.name | Select-Object -Unique).Count -ne 4) { throw 'Powtorzone pliki.' }
-foreach ($o in $m.originals) { if ($o.name -cnotin $names) { throw 'Nieprawidlowa nazwa pliku.' } }
-if ($Mode -eq 'Update') {
- $oldManifestPath=Join-Path $support 'package.json'
- $oldText=Get-Content -LiteralPath $oldManifestPath -Raw
- $old=$oldText | ConvertFrom-Json
- if ($old.experiment -ne 4 -or $old.originals.Count -ne 4) { throw 'Nieprawidlowa poprzednia instalacja.' }
- foreach ($o in $m.originals) {
-  $previous=@($old.originals | Where-Object { $_.name -ceq $o.name })
-  if ($previous.Count -ne 1 -or $previous[0].sha256 -ne $o.sha256) { throw 'Aktualizacja nie pasuje do wersji klienta.' }
-  if ((Hash (Join-Path $backup $o.name)) -ne $o.sha256) { throw 'Kopia oryginalu zmieniona.' }
-  $active=Join-Path $locale $o.name
-  if ($o.name.EndsWith('.pak')) {
-   if (-not (Test-Path -LiteralPath $active) -or (Get-Item -LiteralPath $active).Length -ne 0) { throw 'Aktywna paczka jezyka zmieniona.' }
-  } elseif (Test-Path -LiteralPath $active) { throw 'Gra odtworzyla oficjalne pliki jezyka. Najpierw przywroc oryginaly.' }
- }
- $payload=Join-Path $PSScriptRoot 'payload/L10NString.dat'
- if ((Hash $payload) -ne $m.datSha256 -or (Hash $dat) -ne $old.datSha256) { throw 'DAT zmieniony lub uszkodzony. Przerwano.' }
+function Save-History([string]$label) {
  $history=Join-Path $support 'history'
  New-Item -ItemType Directory -Path $history -Force | Out-Null
- $previousDat=Join-Path $history ($old.datSha256+'.dat')
- if ((Test-Path -LiteralPath $previousDat) -and (Hash $previousDat) -ne $old.datSha256) { throw 'Kopia poprzedniego DAT zmieniona.' }
- Copy-Item -LiteralPath $dat -Destination $previousDat -Force
- if ((Hash $previousDat) -ne $old.datSha256) { throw 'Blad kopii poprzedniego DAT.' }
- try {
-  Copy-Item -LiteralPath $payload -Destination $dat -Force
-  if ((Hash $dat) -ne $m.datSha256) { throw 'Blad zapisu aktualizacji.' }
-  Copy-Item -LiteralPath $manifestPath -Destination $oldManifestPath -Force
-  Copy-Item -LiteralPath $PSCommandPath -Destination (Join-Path $support 'Manage-Loose-Polish.ps1') -Force
- } catch {
-  Copy-Item -LiteralPath $previousDat -Destination $dat -Force
-  [IO.File]::WriteAllText($oldManifestPath,$oldText,[Text.Encoding]::UTF8)
-  throw
- }
- Write-Output 'Zaktualizowano polskie teksty. Poprzedni DAT i oryginalne pliki angielskie sa zachowane.'
- exit 0
+ $snapshot=Join-Path $history ($label+'-'+(Get-Date -Format 'yyyyMMdd-HHmmss')+'-'+[guid]::NewGuid().ToString('N').Substring(0,8))
+ New-Item -ItemType Directory -Path $snapshot | Out-Null
+ if (Test-Path -LiteralPath $dat) { Copy-Item -LiteralPath $dat -Destination (Join-Path $snapshot 'L10NString.dat') }
+ if (Test-Path -LiteralPath $backup) { Copy-Item -LiteralPath $backup -Destination (Join-Path $snapshot 'backup') -Recurse }
+ if (Test-Path -LiteralPath (Join-Path $support 'package.json')) { Copy-Item -LiteralPath (Join-Path $support 'package.json') -Destination (Join-Path $snapshot 'package.json') }
+ if (Test-Path -LiteralPath (Join-Path $support 'Manage-Loose-Polish.ps1')) { Copy-Item -LiteralPath (Join-Path $support 'Manage-Loose-Polish.ps1') -Destination (Join-Path $snapshot 'Manage-Loose-Polish.ps1') }
+ return $snapshot
 }
+function Get-InstalledState {
+ $allPresent=$true; $allNonempty=$true; $sidecarPresent=$false
+ foreach ($name in $names) {
+  $path=Join-Path $locale $name
+  if (-not (Test-Path -LiteralPath $path)) { $allPresent=$false; continue }
+  $item=Get-Item -LiteralPath $path
+  if ($item.Length -eq 0) { $allNonempty=$false }
+  if ($name -ne 'pakchunk502000-Windows_0_P.pak') { $sidecarPresent=$true }
+ }
+ if ($allPresent -and $allNonempty) { return 'Full' }
+ $pak=Join-Path $locale 'pakchunk502000-Windows_0_P.pak'
+ if (-not $sidecarPresent -and (-not (Test-Path -LiteralPath $pak) -or (Get-Item -LiteralPath $pak).Length -eq 0)) { return 'Managed' }
+ return 'Partial'
+}
+function Validate-Backup($manifest) {
+ if (-not $manifest -or $null -eq $manifest.originals) { throw 'Brak manifestu kopii zapasowych.' }
+ foreach ($o in $manifest.originals) {
+  if ($o.name -cnotin $names) { throw 'Nieznana nazwa pliku w manifeście kopii.' }
+  $path=Join-Path $backup $o.name
+  if (-not (Test-Path -LiteralPath $path) -or (Hash $path) -ne $o.sha256) { throw 'Kopia zapasowa jest niekompletna lub zmieniona. Nie zmieniono plikow gry.' }
+ }
+}
+function New-InstalledManifest($packageManifest) {
+ $installed=$packageManifest | ConvertTo-Json -Depth 30 | ConvertFrom-Json
+ $installed.originals=@(
+  foreach ($name in $names) { if (Test-Path -LiteralPath (Join-Path $backup $name)) {
+   $path=Join-Path $backup $name
+   [pscustomobject]@{ name=$name; sha256=(Hash $path); bytes=(Get-Item -LiteralPath $path).Length }
+  }}
+ )
+ $installed.datSha256=$packageManifest.datSha256
+ return $installed
+}
+
 if ($Mode -eq 'Restore') {
- foreach ($o in $m.originals) {
-  if ((Hash (Join-Path $backup $o.name)) -ne $o.sha256) { throw 'Kopia zapasowa zmieniona.' }
+ $manifestPath=Join-Path $support 'package.json'
+ if (-not (Test-Path -LiteralPath $manifestPath)) { throw 'Brak manifestu instalacji; nie mozna odtworzyc zapisanych plikow.' }
+ $installed=Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
+ Validate-Backup $installed
+ New-Item -ItemType Directory -Path $locale -Force | Out-Null
+ $restoreNames=@($installed.originals | ForEach-Object { $_.name })
+ foreach ($o in $installed.originals) {
   $target=Join-Path $locale $o.name
-  if (Test-Path -LiteralPath $target) {
-   $valid=(Hash $target) -eq $o.sha256
-   if ($o.name.EndsWith('.pak') -and (Get-Item -LiteralPath $target).Length -eq 0) { $valid=$true }
-   if (-not $valid) { throw 'Plik jezykowy zmieniony po instalacji; przerwano.' }
+  # Do not overwrite a non-empty archive installed by a newer game update.
+  if (-not (Test-Path -LiteralPath $target) -or (Get-Item -LiteralPath $target).Length -eq 0) {
+   Copy-Item -LiteralPath (Join-Path $backup $o.name) -Destination $target -Force
   }
  }
- if ((Test-Path -LiteralPath $dat) -and (Hash $dat) -ne $m.datSha256) { throw 'DAT zmieniony po instalacji; przerwano.' }
- foreach ($o in $m.originals) {
-  Copy-Item -LiteralPath (Join-Path $backup $o.name) -Destination (Join-Path $locale $o.name) -Force
-  if ((Hash (Join-Path $locale $o.name)) -ne $o.sha256) { throw 'Blad przywracania.' }
- }
- if (Test-Path -LiteralPath $dat) { Remove-Item -LiteralPath $dat }
- Write-Output 'Przywrocono cztery oryginalne pliki angielskie i usunieto wlasny DAT.'
+ $pakPath=Join-Path $locale 'pakchunk502000-Windows_0_P.pak'
+ if ('pakchunk502000-Windows_0_P.pak' -notin $restoreNames -and (Test-Path -LiteralPath $pakPath) -and (Get-Item -LiteralPath $pakPath).Length -eq 0) { Remove-Item -LiteralPath $pakPath -Force }
+ if (Test-Path -LiteralPath $dat) { Remove-Item -LiteralPath $dat -Force }
+ Write-Output 'Przywrocono zapisane oryginalne pliki klienta i usunieto polski DAT.'
  exit 0
 }
+$packagePath=Join-Path $PSScriptRoot 'package.json'
 $payload=Join-Path $PSScriptRoot 'payload/L10NString.dat'
-if ((Hash $payload) -ne $m.datSha256) { throw 'Uszkodzony polski DAT.' }
-if ((Test-Path -LiteralPath $support) -or (Test-Path -LiteralPath $dat)) { throw 'Istnieje poprzednia instalacja lub obcy DAT. Nie nadpisano plikow.' }
-foreach ($o in $m.originals) {
- if ((Hash (Join-Path $locale $o.name)) -ne $o.sha256) { throw 'Wersja angielskich plikow rozni sie od paczki. Przerwano.' }
+if (-not (Test-Path -LiteralPath $packagePath) -or -not (Test-Path -LiteralPath $payload)) { throw 'Brak package.json lub payload/L10NString.dat. Skopiuj cala paczke do folderu gry.' }
+$package=Get-Content -LiteralPath $packagePath -Raw | ConvertFrom-Json
+if ($package.experiment -ne 4 -or $package.originals.Count -ne 4 -or @($package.originals.name | Select-Object -Unique).Count -ne 4) { throw 'Nieprawidlowy manifest paczki.' }
+foreach ($o in $package.originals) { if ($o.name -cnotin $names) { throw 'Nieprawidlowa nazwa pliku w paczce.' } }
+if ((Hash $payload) -ne $package.datSha256) { throw 'Polski DAT jest uszkodzony. Przerwano.' }
+New-Item -ItemType Directory -Path $locale,(Split-Path $dat -Parent),$backup -Force | Out-Null
+
+$oldManifestPath=Join-Path $support 'package.json'
+$oldManifest=$null
+if (Test-Path -LiteralPath $oldManifestPath) { $oldManifest=Get-Content -LiteralPath $oldManifestPath -Raw | ConvertFrom-Json }
+$state=Get-InstalledState
+# Client releases may contain only a subset of the archive quartet. Keep any
+# existing backup and refresh it from every non-empty client file found here.
+if ($state -eq 'Partial' -or $state -eq 'Full' -or (Test-Path -LiteralPath $dat)) { Save-History 'before-install' | Out-Null }
+foreach ($name in $names) {
+ $source=Join-Path $locale $name
+ if (Test-Path -LiteralPath $source) {
+  if ((Get-Item -LiteralPath $source).Length -gt 0 -or ($state -eq 'Partial' -and $name -ne 'pakchunk502000-Windows_0_P.pak')) { Copy-Item -LiteralPath $source -Destination (Join-Path $backup $name) -Force }
+ }
 }
-New-Item -ItemType Directory -Path $backup -Force | Out-Null
-Copy-Item -LiteralPath $manifestPath -Destination (Join-Path $support 'package.json')
-Copy-Item -LiteralPath $PSCommandPath -Destination (Join-Path $support 'Manage-Loose-Polish.ps1')
-$restoreCmd='@echo off'+"`r`n"+'powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Manage-Loose-Polish.ps1" -Mode Restore -GameRoot "%~dp0.."'+"`r`n"+'pause'+"`r`n"
-[IO.File]::WriteAllText((Join-Path $support 'PRZYWROC-ANGIELSKI.cmd'),$restoreCmd,[Text.Encoding]::ASCII)
-foreach ($o in $m.originals) {
- Copy-Item -LiteralPath (Join-Path $locale $o.name) -Destination (Join-Path $backup $o.name)
- if ((Hash (Join-Path $backup $o.name)) -ne $o.sha256) { throw 'Blad kopii zapasowej; oryginaly nie zostaly zmienione.' }
+
+$installed=New-InstalledManifest $package
+$oldManagerPath=Join-Path $support 'Manage-Loose-Polish.ps1'
+$oldManagerText=if (Test-Path -LiteralPath $oldManagerPath) { [IO.File]::ReadAllText($oldManagerPath) } else { $null }
+$oldManifestText=if (Test-Path -LiteralPath $oldManifestPath) { [IO.File]::ReadAllText($oldManifestPath) } else { $null }
+$hadDat=Test-Path -LiteralPath $dat
+$datSnapshot=$null
+if ($hadDat) {
+ $datSnapshot=Join-Path $env:TEMP ('AION2-PL-dat-'+[guid]::NewGuid().ToString('N')+'.bak')
+ Copy-Item -LiteralPath $dat -Destination $datSnapshot
 }
-# Standard loose-resource deployment: retire the archive set, retain an empty named placeholder.
-# No executable, DLL, anti-cheat setting, registry or user config is modified.
-foreach ($o in $m.originals) { Remove-Item -LiteralPath (Join-Path $locale $o.name) }
-[IO.File]::WriteAllBytes((Join-Path $locale 'pakchunk502000-Windows_0_P.pak'),[byte[]]@())
-New-Item -ItemType Directory -Path (Split-Path $dat -Parent) -Force | Out-Null
-Copy-Item -LiteralPath $payload -Destination $dat
-if ((Hash $dat) -ne $m.datSha256) { throw 'Blad kopii DAT. Uruchom przywracanie z AION2-PL-LOOSE.' }
-Write-Output 'Polski DAT zainstalowany jako osobny zasob. W grze wybierz English. Test klienta pozostaje do wykonania.'
+try {
+ foreach ($name in $names) { $target=Join-Path $locale $name; if (Test-Path -LiteralPath $target) { Remove-Item -LiteralPath $target } }
+ [IO.File]::WriteAllBytes((Join-Path $locale 'pakchunk502000-Windows_0_P.pak'),[byte[]]@())
+ Copy-Item -LiteralPath $payload -Destination $dat -Force
+ if ((Hash $dat) -ne $package.datSha256) { throw 'Nie zgadza sie suma zapisanego DAT.' }
+ $installed | ConvertTo-Json -Depth 30 | Set-Content -LiteralPath $oldManifestPath -Encoding UTF8
+ Copy-Item -LiteralPath $PSCommandPath -Destination $oldManagerPath -Force
+ $restoreCmd='@echo off' + "`r`n" + 'powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Manage-Loose-Polish.ps1" -Mode Restore -GameRoot "%~dp0.."' + "`r`n" + 'pause' + "`r`n"
+ [IO.File]::WriteAllText((Join-Path $support 'PRZYWROC-ANGIELSKI.cmd'),$restoreCmd,[Text.Encoding]::ASCII)
+} catch {
+ if ($hadDat -and (Test-Path -LiteralPath $datSnapshot)) { Copy-Item -LiteralPath $datSnapshot -Destination $dat -Force }
+ elseif (Test-Path -LiteralPath $dat) { Remove-Item -LiteralPath $dat }
+ if ($oldManifestText) { [IO.File]::WriteAllText($oldManifestPath,$oldManifestText,[Text.Encoding]::UTF8) }
+ if ($oldManagerText) { [IO.File]::WriteAllText($oldManagerPath,$oldManagerText,[Text.Encoding]::UTF8) }
+ foreach ($name in $names) {
+  $saved=Join-Path $backup $name; $target=Join-Path $locale $name
+  if ((Test-Path -LiteralPath $saved) -and (-not (Test-Path -LiteralPath $target) -or (Get-Item -LiteralPath $target).Length -eq 0)) { Copy-Item -LiteralPath $saved -Destination $target -Force }
+ }
+ throw
+} finally {
+ if ($datSnapshot -and (Test-Path -LiteralPath $datSnapshot)) { Remove-Item -LiteralPath $datSnapshot -Force }
+}
+Write-Output 'Polskie teksty zainstalowane. Wybrano jezyk English w ustawieniach gry.'

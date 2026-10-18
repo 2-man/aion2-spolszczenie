@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_L2_DQ7_2_Document_01_desc", "source": "Cooperation Agreement", "translation": "Umowa o współpracy", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_Document_02_desc", "source": "Guidelines for Regulating Water Supply", "translation": "Wytyczne regulacji dostaw wody", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ7_2_GrainSack_01_desc", "source": "Sack", "translation": "Worek", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ7_2_GrainSack_02_desc", "source": "Sack", "translation": "Worek", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ7_2_Lever_02_desc", "source": "Secret Door Lever", "translation": "Dźwignia tajnych drzwi", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ7_2_Lever_03_desc", "source": "Secret Door Lever", "translation": "Dźwignia tajnych drzwi", "status": "draft"}
@@ -119,8 +122,8 @@
 {"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_01_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_Attack_01_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ8_3_WoodenBarrel_Attack_02_desc", "source": "Old Barrel", "translation": "Stara beczka", "status": "draft"}
-{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_Attack_01_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_01_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_DQ8_3_WoodenBox_Attack_01_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ8_4_BoxPile_01_desc", "source": "Stacked Chests", "translation": "Stos skrzyń", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ8_4_Corpse_01_desc", "source": "Lepharist Corpse", "translation": "Zwłoki Lepharysty", "status": "draft"}
 {"id": "EnvObjData_E_L2_DQ8_4_DeadVillagerM_01_desc", "source": "Test Subject Victim", "translation": "Ofiara będąca obiektem testów", "status": "draft"}
@@ -194,7 +197,7 @@
 {"id": "EnvObjData_E_L2_EltnenToVerteron_Portal_interact_desc", "source": "Traveling to Verteron...", "translation": "Podróż do Verteronu...", "status": "draft"}
 {"id": "EnvObjData_E_L2_Eltnen_MonoLith_desc", "source": "Eltnen Monolith", "translation": "Monolit Eltnen", "status": "draft"}
 {"id": "EnvObjData_E_L2_EracusTempleCavernT_001_desc", "source": "Eracus Underground Temple (Temporary)", "translation": "Podziemna Świątynia Eracus (tymczasowa)", "status": "draft"}
-{"id": "EnvObjData_E_L2_FQ_EP7_1_BoxLower_02_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_L2_FQ_EP7_1_BoxLower_02_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L2_FQ_EP7_1_BoxPile_01_desc", "source": "Suspicious Chest", "translation": "Podejrzana skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_L2_FQ_EP7_1_Door_01_desc", "source": "Iron Door", "translation": "Żelazne drzwi", "status": "draft"}
 {"id": "EnvObjData_E_L2_FQ_EP7_1_EnterDoor_01_desc", "source": "Hilsrother Loot Depository", "translation": "Skład łupów Hilsrother", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_03_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_D2_DrakanTower_04_desc", "source": "Balaur Communication Tower", "translation": "Wieża komunikacyjna Balaurów", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_D2_INS_Insk_001_desc", "source": "Hidden Vein Outpost Door", "translation": "Drzwi posterunku Ukrytej Żyły", "status": "draft"}
-{"id": "EnvObjData_E_L2_Garrison_D2_Insk_001_desc", "source": "Hidden Vein Outpost Door", "translation": "Drzwi posterunku Ukrytej Żyły", "status": "draft"}
-{"id": "EnvObjData_E_L2_Garrison_D2_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
-{"id": "EnvObjData_E_L2_Garrison_D3_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}

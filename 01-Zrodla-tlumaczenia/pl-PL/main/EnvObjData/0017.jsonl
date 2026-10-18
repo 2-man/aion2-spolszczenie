@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_L2_Garrison_D2_Insk_001_desc", "source": "Hidden Vein Outpost Door", "translation": "Drzwi posterunku Ukrytej Żyły", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D2_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
+{"id": "EnvObjData_E_L2_Garrison_D3_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_D4_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_H1_GarinSack_Attack_01_desc", "source": "Grain Sack", "translation": "Worek zboża", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_H1_INS_Exit_001_desc", "source": "Hernon Thieves Den Door", "translation": "Drzwi kryjówki złodziei Hernon", "status": "draft"}
@@ -51,9 +54,9 @@
 {"id": "EnvObjData_E_L2_Garrison_R2_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_R3_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
 {"id": "EnvObjData_E_L2_Garrison_R4_Reward_Box_001_desc", "source": "Treasure Chest", "translation": "Skrzynia ze skarbem", "status": "draft"}
-{"id": "EnvObjData_E_L2_Godfragment_Air_desc", "source": "Empyrean Trace: Eltnen", "translation": "Ślad Empiriana: Eltnen", "status": "draft"}
-{"id": "EnvObjData_E_L2_Godfragment_Ground_desc", "source": "Empyrean Trace: Eltnen", "translation": "Ślad Empiriana: Eltnen", "status": "draft"}
-{"id": "EnvObjData_E_L2_Godfragment_Water_desc", "source": "Empyrean Trace: Eltnen", "translation": "Ślad Empiriana: Eltnen", "status": "draft"}
+{"id": "EnvObjData_E_L2_Godfragment_Air_desc", "source": "Empyrean Trace: Eltnen", "translation": "Szlak Empyreum: Eltnen", "status": "draft"}
+{"id": "EnvObjData_E_L2_Godfragment_Ground_desc", "source": "Empyrean Trace: Eltnen", "translation": "Szlak Empyreum: Eltnen", "status": "draft"}
+{"id": "EnvObjData_E_L2_Godfragment_Water_desc", "source": "Empyrean Trace: Eltnen", "translation": "Szlak Empyreum: Eltnen", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ001_DeadShugo_01_desc", "source": "Tsenka Merchant Corpse", "translation": "Zwłoki kupca Tsenki", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ001_DeadShugo_02_desc", "source": "Tsenka Merchant Corpse", "translation": "Zwłoki kupca Tsenki", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ002_BoxPileAttack_01_desc", "source": "Noisy Chest", "translation": "Hałaśliwa skrzynia", "status": "draft"}
@@ -105,8 +108,8 @@
 {"id": "EnvObjData_E_L2_HQ020_Deadman3_desc", "source": "Neglected Corpse", "translation": "Zaniedbane zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ020_Deadman4_desc", "source": "Neglected Corpse", "translation": "Zaniedbane zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ021_ArtifactSearch_01_desc", "source": "Artifact Fragment", "translation": "Fragment artefaktu", "status": "draft"}
-{"id": "EnvObjData_E_L2_HQ021_DeadLifeDaeva_01_desc", "source": "Dead Life Daeva", "translation": "Martwy Daeva Życia", "status": "draft"}
-{"id": "EnvObjData_E_L2_HQ021_DeadLifeDaeva_02_desc", "source": "Dead Life Daeva", "translation": "Martwy Daeva Życia", "status": "draft"}
+{"id": "EnvObjData_E_L2_HQ021_DeadLifeDaeva_01_desc", "source": "Dead Life Daeva", "translation": "Martwa Daeva Życia", "status": "draft"}
+{"id": "EnvObjData_E_L2_HQ021_DeadLifeDaeva_02_desc", "source": "Dead Life Daeva", "translation": "Martwa Daeva Życia", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ021_EnterDoor_01_desc", "source": "Abandoned Observatory Door", "translation": "Drzwi opuszczonego obserwatorium", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ021_ExitDoor_01_desc", "source": "Abandoned Observatory Door", "translation": "Drzwi opuszczonego obserwatorium", "status": "draft"}
 {"id": "EnvObjData_E_L2_HQ022_Spiral_01_desc", "source": "Purifying Helix", "translation": "Oczyszczająca spirala", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_L2_Mound_002_desc", "source": "Broken Bowframe", "translation": "Uszkodzony szkielet łuku", "status": "draft"}
 {"id": "EnvObjData_E_L2_PaperPile_001_desc", "source": "Scattered Documents", "translation": "Rozrzucone dokumenty", "status": "draft"}
 {"id": "EnvObjData_E_L2_PrisonofLifeT_001_desc", "source": "Prison of Life (Temporary)", "translation": "Więzienie Życia (tymczasowe)", "status": "draft"}
-{"id": "EnvObjData_E_L2_RH_BirdNest_01_desc", "source": "Crestlich Nest", "translation": "Gniazdo Crestlicha", "status": "draft"}
-{"id": "EnvObjData_E_L2_RH_OhHuiTree_01_desc", "source": "Ohui Tree", "translation": "Drzewo Ohui", "status": "draft"}
-{"id": "EnvObjData_E_L2_RemainsSlate_001_desc", "source": "Destroyed Ruin Tablet Fragment", "translation": "Fragment zniszczonej tablicy ruin", "status": "draft"}

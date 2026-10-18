@@ -1,3 +1,27 @@
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_SOUND_ON_body", "source": "Sound ON", "translation": "Dźwięk WŁ.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_VIBE_OFF_body", "source": "Vibration OFF", "translation": "Wibracje WYŁ.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_RADIOBUTTON_VIBE_ON_body", "source": "Vibration ON", "translation": "Wibracje WŁ.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_LOWHPALARM_body", "source": "HP Danger Alert", "translation": "Alarm niskiego poziomu PŻ", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_EFFECT1_body", "source": "Sound Effect 1", "translation": "Efekt dźwiękowy 1", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_EFFECT2_body", "source": "Sound Effect 2", "translation": "Efekt dźwiękowy 2", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_VOICE1_body", "source": "Voice 1", "translation": "Głos 1", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_INGAMENOTICE_POPUP_SELECT_ALARM_BUTTON_VOICE2_body", "source": "Voice 2", "translation": "Głos 2", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_BUTTION1_body", "source": "On", "translation": "Wł.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_BUTTION2_body", "source": "Off", "translation": "Wył.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_DAY_DESC_body", "source": "Gives permission for marketing push notifications to be sent during daytime.", "translation": "Udzielasz zgody na wysyłanie marketingowych powiadomień push w ciągu dnia.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_DAY_body", "source": "Daytime (8AM to 9PM) Marketing Push Notifications", "translation": "Marketingowe powiadomienia push w dzień (8:00–21:00)", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_NIGHT_DESC_body", "source": "Gives permission for marketing push notifications to be sent during nighttime.", "translation": "Udzielasz zgody na wysyłanie marketingowych powiadomień push w nocy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_NIGHT_body", "source": "Nighttime (9PM to 8AM) Marketing Push Notifications", "translation": "Marketingowe powiadomienia push w nocy (21:00–8:00)", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_RECEIVE_body", "source": "Push Notifications", "translation": "Powiadomienia push", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_PUSH_body", "source": "Push Notifications", "translation": "Powiadomienia push", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_CHARACTER_INFO_DESC_body", "source": "Sets the visibility of your information to other players.", "translation": "Ustawia widoczność twoich danych dla innych graczy.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_CHARACTER_INFO_body", "source": "Keep My Info Hidden", "translation": "Ukryj moje dane", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_DUEL_AUTOREJECT_DESC_body", "source": "Automatically declines duel requests.", "translation": "Automatycznie odrzuca prośby o pojedynek.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_DUEL_AUTOREJECT_body", "source": "Auto Decline Duel Requests", "translation": "Automatycznie odrzucaj prośby o pojedynek", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_EXCHANGE_AUTOREJECT_DESC_body", "source": "Automatically declines personal trade requests.", "translation": "Automatycznie odrzuca prośby o wymianę osobistą.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_EXCHANGE_AUTOREJECT_body", "source": "Auto Decline Personal Trade", "translation": "Automatycznie odrzucaj wymianę osobistą", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_FRIEND_REQUEST_DESC_body", "source": "Automatically declines Friend Requests.", "translation": "Automatycznie odrzuca zaproszenia do znajomych.", "status": "draft"}
+{"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_FRIEND_REQUEST_body", "source": "Auto Decline Friend Requests", "translation": "Automatycznie odrzucaj zaproszenia do znajomych", "status": "draft"}
 {"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_PARTY_INVITE_BUTTON1_body", "source": "All", "translation": "Wszyscy", "status": "draft"}
 {"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_PARTY_INVITE_BUTTON2_body", "source": "Friends Only", "translation": "Tylko znajomi", "status": "draft"}
 {"id": "String_UI_SETTING_TAB_NOTICE_SUBTAB_REQUESTRECEIVE_PARTY_INVITE_BUTTON3_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
@@ -83,7 +107,7 @@
 {"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Title_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
 {"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Usable_body", "source": "Consumables", "translation": "Przedmioty użytkowe", "status": "draft"}
 {"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Weapon_D_body", "source": "Umbra", "translation": "Umbra", "status": "draft"}
-{"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Weapon_body", "source": "Divine", "translation": "Divine", "status": "draft"}
+{"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Weapon_body", "source": "Divine", "translation": "Boski", "status": "draft"}
 {"id": "String_UI_SHOP_ENUM_CATEGORY_Abyss_Wing_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
 {"id": "String_UI_SHOP_ENUM_CATEGORY_DAILY_03_body", "source": "Exchange 3", "translation": "Wymiana 3", "status": "draft"}
 {"id": "String_UI_SHOP_ENUM_CATEGORY_DAILY_Cubekey_body", "source": "Tickets", "translation": "Bilety", "status": "draft"}
@@ -224,27 +248,3 @@
 {"id": "String_UI_SHOP_SELL_CLASS_RESTRICTION_body", "source": "Class Restriction", "translation": "Ograniczenie klasowe", "status": "draft"}
 {"id": "String_UI_SHOP_SELL_NOTHING_body", "source": "There is no product for sale.", "translation": "Brak produktów na sprzedaż.", "status": "draft"}
 {"id": "String_UI_SHOP_SELL_START_TIME_body", "source": "Will be available for sale after {0}", "translation": "Dostępny w sprzedaży od {0}", "status": "draft"}
-{"id": "String_UI_SHOP_SELL_TIME_OUT_body", "source": "Sale Ended", "translation": "Sprzedaż zakończona", "status": "draft"}
-{"id": "String_UI_SHOP_SERVERTRANSFER_ITEM_LEVEL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
-{"id": "String_UI_SHOP_SERVERTRANSFER_LEVEL_VALUE_body", "source": "Lv. {0}", "translation": "Poz. {0}", "status": "draft"}
-{"id": "String_UI_SHOP_SHOP_MILEAGE_POINT_body", "source": "{0} Earned", "translation": "Zdobyto: {0}", "status": "draft"}
-{"id": "String_UI_SHOP_SOLDOUT_body", "source": "Sold Out", "translation": "Wyprzedane", "status": "draft"}
-{"id": "String_UI_SHOP_STEPUP_GOODS_LIST_body", "source": "Linked Products List", "translation": "Lista powiązanych produktów", "status": "draft"}
-{"id": "String_UI_SHOP_STEPUP_NEED_GOODS_GET_body", "source": "Available for purchase after claiming previous item from storage.", "translation": "Można kupić po odebraniu poprzedniego przedmiotu z magazynu.", "status": "draft"}
-{"id": "String_UI_SHOP_TITLE_body", "source": "Shop", "translation": "Sklep", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_BTN_ALLGET_body", "source": "Collect All", "translation": "Odbierz wszystko", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_BTN_GET_body", "source": "Collect", "translation": "Odbierz", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_COUNT_body", "source": "{0} in total", "translation": "Łącznie: {0}", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_GUIDE_body", "source": "<warning>Refunds are unavailable for items purchased 7 days ago and items that have already been collected.</>", "translation": "<warning>Nie można zwrócić przedmiotów kupionych ponad 7 dni temu ani przedmiotów, które zostały już odebrane.</>", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_INSTANT_RECEIVE_SKIN_body", "source": "Would you like to claim the purchased skin immediately?\nIf not, it may be claimed later through Storage.", "translation": "Czy chcesz od razu odebrać zakupioną skórkę?\nW przeciwnym razie możesz odebrać ją później z magazynu.", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_INSTANT_RECEIVE_body", "source": "Would you like to activate the subscription immediately?\nIf not, the subscription may be activated at a later time through Shop Storage.", "translation": "Czy chcesz od razu aktywować subskrypcję?\nW przeciwnym razie możesz aktywować ją później z magazynu sklepu.", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_LIST_PRODUCT_body", "source": "Products", "translation": "Produkty", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_LIST_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_NONE_body", "source": "No purchase history available.", "translation": "Brak historii zakupów.", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_NOTICE_body", "source": "Refunds are unavailable for items purchased 7 days ago and items that have already been redeemed.", "translation": "Nie można zwrócić przedmiotów kupionych ponad 7 dni temu ani przedmiotów, które zostały już odebrane.", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_ALL_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">Refunds are restricted when you receive an item with a remaining refund period</>,\n<ref style=\"insufficient\" attr=\"color\">and Google Play items are not eligible for refunds.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Po odebraniu przedmiotu, dla którego nadal obowiązuje okres zwrotu, możliwość zwrotu zostanie ograniczona</>,\n<ref style=\"insufficient\" attr=\"color\">a przedmioty z Google Play nie podlegają zwrotowi.</>", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_BTN_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_GPP_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">As a Google Play item, it is not eligible for refunds.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Tego przedmiotu z Google Play nie można zwrócić.</>", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_POPUP_GET_TEXT_body", "source": "Would you like to receive this item?\n<ref style=\"insufficient\" attr=\"color\">Refunds are restricted when you receive an item with a remaining refund period.</>", "translation": "Czy chcesz odebrać ten przedmiot?\n<ref style=\"insufficient\" attr=\"color\">Po odebraniu przedmiotu, dla którego nadal obowiązuje okres zwrotu, możliwość zwrotu zostanie ograniczona.</>", "status": "draft"}
-{"id": "String_UI_SHOP_WAREHOUSE_SUBSCRIBE_GUIDE_body", "source": "Membership products cannot be collected all at once. Items must be collected individually.", "translation": "Produktów członkowskich nie można odebrać zbiorczo. Każdy przedmiot należy odebrać osobno.", "status": "draft"}

@@ -27,7 +27,7 @@
 {"id": "Message_MSG_AIRSPACE_BATTLE_APPLY_FAIL_GUILD_body", "source": "Only members of a Legion may apply to join a Siege.", "translation": "Udział w oblężeniu mogą zgłaszać tylko członkowie Legionu.", "status": "draft"}
 {"id": "Message_MSG_AIRSPACE_BATTLE_APPLY_FAIL_MONEY_body", "source": "Insufficient funds to request to join a Siege.", "translation": "Za mało Kin, aby zgłosić udział w oblężeniu.", "status": "draft"}
 {"id": "Message_MSG_AIRSPACE_BATTLE_APPLY_body", "source": "{0} has requested to join Siege.", "translation": "Otrzymano zgłoszenie {0} do oblężenia.", "status": "draft"}
-{"id": "Message_MSG_APPOINTED_MEMBER_GRADE_body", "source": "{0}'s rank has been changed to Soldier.", "translation": "Zmieniono rangę gracza {0} na Żołnierz.", "status": "draft"}
+{"id": "Message_MSG_APPOINTED_MEMBER_GRADE_body", "source": "{0}'s rank has been changed to Soldier.", "translation": "Zmieniono rangę gracza {0} na Żołnierza.", "status": "draft"}
 {"id": "Message_MSG_APPOINTED_OFFICER_GRADE_MAX_body", "source": "Reached limit of Elite Officers that can be assigned.", "translation": "Osiągnięto limit mianowanych Elitarnych Oficerów.", "status": "draft"}
 {"id": "Message_MSG_APPOINTED_OFFICER_GRADE_body", "source": "{0} has been newly appointed as Elite Officer.", "translation": "Mianowano {0} na Elitarnego Oficera.", "status": "draft"}
 {"id": "Message_MSG_APPOINTED_SUBMASTER_GRADE_body", "source": "{0} has been newly appointed as Deputy.", "translation": "Mianowano {0} na zastępcę.", "status": "draft"}
@@ -114,7 +114,7 @@
 {"id": "Message_MSG_ARTIFACTWAR_CORE_SPAWN_RR_body", "source": "Reshanta's Root Artifact's binding entity has been summoned.", "translation": "Przyzwano byt wiążący artefakt Reshanta’s Root.", "status": "draft"}
 {"id": "Message_MSG_ARTIFACTWAR_CORE_SPAWN_STI_1_body", "source": "Sulfur Tree Island Artifact's binding entity has been summoned.", "translation": "Przyzwano byt wiążący artefakt Sulfur Tree Island.", "status": "draft"}
 {"id": "Message_MSG_ARTIFACTWAR_CORE_SPAWN_STI_2_body", "source": "Sulfur Swamp Artifact's binding entity has been summoned.", "translation": "Przyzwano byt wiążący artefakt Sulfur Swamp.", "status": "draft"}
-{"id":"Message_MSG_ARTIFACTWAR_CORE_SPAWN_WSA_1_body","source":"Archipelago of Siel's Wings Artifact's binding entity has been summoned.","translation":"Przyzwano byt wiążący artefakt Archipelagu Skrzydeł Siel.","status":"draft"}
+{"id": "Message_MSG_ARTIFACTWAR_CORE_SPAWN_WSA_1_body", "source": "Archipelago of Siel's Wings Artifact's binding entity has been summoned.", "translation": "Przyzwano byt wiążący artefakt Archipelagu Skrzydeł Siel.", "status": "draft"}
 {"id": "Message_MSG_ARTIFACTWAR_CORE_SPAWN_WSA_2_body", "source": "Siel's Left Wing Artifact's binding entity has been summoned.", "translation": "Przyzwano byt wiążący artefakt Siel’s Left Wing.", "status": "draft"}
 {"id": "Message_MSG_ARTIFACTWAR_NUCLEUS_REWARD_GET_body", "source": "Acquired {1} Abyss Point(s) for contributing to the defeat of {0} Dimensional Core.", "translation": "Za udział w pokonaniu Rdzenia Wymiarowego {0} zdobyto {1} pkt Otchłani.", "status": "draft"}
 {"id": "Message_MSG_ARTIFACTWAR_PREEND_NOTI_body", "source": "{1} ends in {0}.", "translation": "{1} zakończy się za {0}.", "status": "draft"}

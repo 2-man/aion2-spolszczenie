@@ -1,3 +1,73 @@
+{"id": "String_STR_M_Dungeon_Awaken_005_01_AltKnife_04_001_body", "source": "Repository Assault Captain", "translation": "Kapitan szturmowców Składnicy", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_01_AltKnife_05_001_body", "source": "Repository Bomber", "translation": "Bombardier Składnicy", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_01_AltKnife_06_001_body", "source": "Repository Reaper", "translation": "Żniwiarz Składnicy", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_01_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_01_OwlToteSTR_M_05_V01_001_body", "source": "Repository Ancient Totem", "translation": "Pradawny totem Składnicy", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnifeTurret_01_001_body", "source": "Ascended Repository Defense Cannon", "translation": "Działo obronne składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_01_001_body", "source": "Ascended Repository Warrior", "translation": "Wojownik składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_01_V01_001_body", "source": "Ascended Repository Guard", "translation": "Strażnik składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_01_V02_001_body", "source": "Ascended Repository Supporter", "translation": "Wsparcie składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_02_001_body", "source": "Ascended Repository Mage", "translation": "Mag składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_02_V01_001_body", "source": "Ascended Repository Warmage", "translation": "Mag bojowy składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_04_001_body", "source": "Ascended Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_05_001_body", "source": "Ascended Repository Bomber", "translation": "Bombardier składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_AltKnife_06_001_body", "source": "Ascended Repository Reaper", "translation": "Żniwiarz składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_02_OwlToteSTR_M_05_V01_001_body", "source": "Ascended Repository Ancient Totem", "translation": "Pradawny totem składnicy (Wyniesiony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnifeTurret_01_001_body", "source": "Forgotten Repository Defense Cannon", "translation": "Działo obronne składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_01_001_body", "source": "Forgotten Repository Warrior", "translation": "Wojownik składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_01_V01_001_body", "source": "Forgotten Repository Guard", "translation": "Strażnik składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_01_V02_001_body", "source": "Forgotten Repository Supporter", "translation": "Wsparcie składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_02_001_body", "source": "Forgotten Repository Mage", "translation": "Mag składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_02_V01_001_body", "source": "Forgotten Repository Warmage", "translation": "Mag bojowy składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_04_001_body", "source": "Forgotten Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_05_001_body", "source": "Forgotten Repository Bomber", "translation": "Bombardier składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_AltKnife_06_001_body", "source": "Forgotten Repository Reaper", "translation": "Żniwiarz składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_03_OwlToteSTR_M_05_V01_001_body", "source": "Forgotten Repository Ancient Totem", "translation": "Pradawny totem składnicy (Zapomniany)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnifeTurret_01_001_body", "source": "Savage Repository Defense Cannon", "translation": "Działo obronne składnicy (Dziki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_01_001_body", "source": "Furious Repository Warrior", "translation": "Wojownik składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_01_V01_001_body", "source": "Furious Repository Guard", "translation": "Strażnik składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_01_V02_001_body", "source": "Furious Repository Supporter", "translation": "Wsparcie składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_02_001_body", "source": "Furious Repository Mage", "translation": "Mag składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_02_V01_001_body", "source": "Furious Repository Warmage", "translation": "Mag bojowy składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_04_001_body", "source": "Savage Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Dziki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_05_001_body", "source": "Furious Repository Bomber", "translation": "Bombardier składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_AltKnife_06_001_body", "source": "Savage Repository Reaper", "translation": "Żniwiarz składnicy (Dziki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_04_OwlToteSTR_M_05_V01_001_body", "source": "Furious Repository Ancient Totem", "translation": "Pradawny totem składnicy (Rozwścieczony)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnifeTurret_01_001_body", "source": "Despair Repository Defense Cannon", "translation": "Działo obronne składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_01_001_body", "source": "Despair Repository Warrior", "translation": "Wojownik składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_01_V01_001_body", "source": "Despair Repository Guard", "translation": "Strażnik składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_01_V02_001_body", "source": "Despair Repository Supporter", "translation": "Wsparcie składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_02_001_body", "source": "Despair Repository Mage", "translation": "Mag składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_02_V01_001_body", "source": "Despair Repository Warmage", "translation": "Mag bojowy składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_04_001_body", "source": "Despair Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_05_001_body", "source": "Despair Repository Bomber", "translation": "Bombardier składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_AltKnife_06_001_body", "source": "Despair Repository Reaper", "translation": "Żniwiarz składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_05_OwlToteSTR_M_05_V01_001_body", "source": "Despair Repository Ancient Totem", "translation": "Pradawny totem składnicy (Rozpaczy)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnifeTurret_01_001_body", "source": "Doom Repository Defense Cannon", "translation": "Działo obronne składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_01_001_body", "source": "Doom Repository Warrior", "translation": "Wojownik składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_01_V01_001_body", "source": "Doom Repository Guard", "translation": "Strażnik składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_01_V02_001_body", "source": "Doom Repository Supporter", "translation": "Wsparcie składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_02_001_body", "source": "Doom Repository Mage", "translation": "Mag składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_02_V01_001_body", "source": "Doom Repository Warmage", "translation": "Mag bojowy składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_04_001_body", "source": "Doom Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_05_001_body", "source": "Doom Repository Bomber", "translation": "Bombardier składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_AltKnife_06_001_body", "source": "Doom Repository Reaper", "translation": "Żniwiarz składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_06_OwlToteSTR_M_05_V01_001_body", "source": "Doom Repository Ancient Totem", "translation": "Pradawny totem składnicy (Zagłady)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnifeTurret_01_001_body", "source": "Void Repository Defense Cannon", "translation": "Działo obronne składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_01_001_body", "source": "Void Repository Warrior", "translation": "Wojownik składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_01_V01_001_body", "source": "Void Repository Guard", "translation": "Strażnik składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_01_V02_001_body", "source": "Void Repository Supporter", "translation": "Wsparcie składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_02_001_body", "source": "Void Repository Mage", "translation": "Mag składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_02_V01_001_body", "source": "Void Repository Warmage", "translation": "Mag bojowy składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_04_001_body", "source": "Void Repository Assault Captain", "translation": "Kapitan szturmowców składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_05_001_body", "source": "Void Repository Bomber", "translation": "Bombardier składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_AltKnife_06_001_body", "source": "Void Repository Reaper", "translation": "Żniwiarz składnicy (Pustki)", "status": "draft"}
+{"id": "String_STR_M_Dungeon_Awaken_005_07_Nua_01_V01_001_body", "source": "Karlix", "translation": "Karlix", "status": "draft"}
 {"id": "String_STR_M_Dungeon_Awaken_005_07_OwlToteSTR_M_05_V01_001_body", "source": "Void Repository Ancient Totem", "translation": "Pradawny totem Składnicy Pustki", "status": "draft"}
 {"id": "String_STR_M_Dungeon_Awaken_007_DracoArc_01_V02_01_body", "source": "Draconute Superior Ranger", "translation": "Starszy zwiadowca Draconute", "status": "draft"}
 {"id": "String_STR_M_Dungeon_Awaken_007_DracoArc_01_V02_02_body", "source": "Draconute Elite Ranger", "translation": "Elitarny zwiadowca Draconute", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_M_FE_IoE_Kuru_03_body", "source": "Eternal Kuru Overseer", "translation": "Wieczny nadzorca Kuru", "status": "draft"}
 {"id": "String_STR_M_FE_IoE_Lepisma_01_V01_001_body", "source": "Eternal Slink", "translation": "Wieczny Slink", "status": "draft"}
 {"id": "String_STR_M_FE_IoE_Lufilini_01_001_body", "source": "Eternal Lupyllini", "translation": "Wieczny Lupyllini", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_ManDuriWar_01_V01_01_body", "source": "Eternal Isle Manduri Fighter", "translation": "Wojownik Manduri Wiecznej Wyspy", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_Neuth_01_001_body", "source": "Eternal Klaw", "translation": "Wieczny Klaw", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_Oditium_01_001_body", "source": "Eternal Oditium", "translation": "Wieczne Oditium", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_OdiumGartua_01_body", "source": "Eternal Gartua", "translation": "Wieczny Gartua", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_OdiumGartua_02_body", "source": "Immortal Gartua", "translation": "Nieśmiertelny Gartua", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_Phaini_01_001_body", "source": "Eternal Crasaur", "translation": "Wieczny Crasaur", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_Starturtle_01_001_body", "source": "Eternal Starturtle", "translation": "Wieczny Starturtle", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_WaterEle_01_001_body", "source": "Eternal Water Spirit", "translation": "Wieczny duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_WaterEle_02_001_body", "source": "Violent Water Spirit", "translation": "Gwałtowny duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_WindEle_01_body", "source": "Eternal Wind Spirit", "translation": "Wieczny duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_IoE_WindEle_02_001_body", "source": "Violent Wind Spirit", "translation": "Gwałtowny duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_Ioc_Crab_01_001_body", "source": "Eternal Moss Crab", "translation": "Wieczny omszały krab", "status": "draft"}
-{"id": "String_STR_M_FE_JUMP_LASER_03_body", "source": "Jump Laser", "translation": "Skaczący laser", "status": "draft"}
-{"id": "String_STR_M_FE_OB_VORTEX_01_body", "source": "Time Vortex", "translation": "Wir czasu", "status": "draft"}
-{"id": "String_STR_M_FE_OD_GuideF_01_body", "source": "Flying Guide", "translation": "Latający przewodnik", "status": "draft"}
-{"id": "String_STR_M_FE_Pang_01_body", "source": "Pang", "translation": "Pang", "status": "draft"}
-{"id": "String_STR_M_FE_SA_Boss_001_body", "source": "Grandios", "translation": "Grandios", "status": "draft"}
-{"id": "String_STR_M_FE_SA_EarthEle_01_001_body", "source": "Weak Earth Spirit", "translation": "Słaby duch ziemi", "status": "draft"}
-{"id": "String_STR_M_FE_SA_EarthEle_01_002_body", "source": "Common Earth Spirit", "translation": "Zwykły duch ziemi", "status": "draft"}
-{"id": "String_STR_M_FE_SA_EarthEle_01_003_body", "source": "Grand Earth Spirit", "translation": "Wielki duch ziemi", "status": "draft"}
-{"id": "String_STR_M_FE_SA_EarthEle_01_004_body", "source": "Ancient Earth Spirit", "translation": "Pradawny duch ziemi", "status": "draft"}
-{"id": "String_STR_M_FE_SA_FireEle_01_001_body", "source": "Weak Fire Spirit", "translation": "Słaby duch ognia", "status": "draft"}
-{"id": "String_STR_M_FE_SA_FireEle_01_002_body", "source": "Common Fire Spirit", "translation": "Zwykły duch ognia", "status": "draft"}
-{"id": "String_STR_M_FE_SA_FireEle_01_003_body", "source": "Grand Fire Spirit", "translation": "Wielki duch ognia", "status": "draft"}
-{"id": "String_STR_M_FE_SA_FireEle_01_004_body", "source": "Ancient Fire Spirit", "translation": "Pradawny duch ognia", "status": "draft"}
-{"id": "String_STR_M_FE_SA_Sub_01_body", "source": "Spirit Ruler", "translation": "Władca Duchów", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WaterEle_01_001_body", "source": "Weak Water Spirit", "translation": "Słaby duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WaterEle_01_002_body", "source": "Common Water Spirit", "translation": "Zwykły duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WaterEle_01_003_body", "source": "Grand Water Spirit", "translation": "Wielki duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WaterEle_01_004_body", "source": "Ancient Water Spirit", "translation": "Pradawny duch wody", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WindEle_01_001_body", "source": "Weak Wind Spirit", "translation": "Słaby duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WindEle_01_002_body", "source": "Common Wind Spirit", "translation": "Zwykły duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WindEle_01_003_body", "source": "Grand Wind Spirit", "translation": "Wielki duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_SA_WindEle_01_004_body", "source": "Ancient Wind Spirit", "translation": "Pradawny duch wiatru", "status": "draft"}
-{"id": "String_STR_M_FE_TB_Kalgolem_01_body", "source": "Goldrin's Storage Keeper", "translation": "Opiekun Składu Goldrina", "status": "draft"}
-{"id": "String_STR_M_FE_TH_S2_OrcusGem_01_body", "source": "Goldrin's Storage", "translation": "Skład Goldrina", "status": "draft"}
-{"id": "String_STR_M_FQ_AngryUrsuss_01_body", "source": "Frenzied Ursus", "translation": "Rozszalały Ursus", "status": "draft"}
-{"id": "String_STR_M_FQ_DarkEle_01_body", "source": "Drana Mutated Spirit", "translation": "Zmutowany duch Drany", "status": "draft"}
-{"id": "String_STR_M_F_D1_Daeva04_SpiritArc_01_01_body", "source": "Legionnaire's Soul", "translation": "Dusza legionisty", "status": "draft"}
-{"id": "String_STR_M_F_KalakarHenchman_body", "source": "Kalakhar's Minion", "translation": "Sługa Kalakhara", "status": "draft"}
-{"id": "String_STR_M_F_Mesmerized_body", "source": "Insane Daeva", "translation": "Obłąkany Daeva", "status": "draft"}
-{"id": "String_STR_M_F_NornirVar_body", "source": "Distorted Soul", "translation": "Zniekształcona dusza", "status": "draft"}
-{"id": "String_STR_M_F_OutlawWar_body", "source": "Hiding Burglar", "translation": "Ukrywający się włamywacz", "status": "draft"}
-{"id": "String_STR_M_F_Q_AltKnife_01_body", "source": "Blades Watcher", "translation": "Obserwator Ostrzy", "status": "draft"}
-{"id": "String_STR_M_F_Q_AltKnife_02_body", "source": "Blades Sentry", "translation": "Czujka Ostrzy", "status": "draft"}
-{"id": "String_STR_M_F_Q_AltKnife_03_body", "source": "Blades Warmage", "translation": "Mag bojowy Ostrzy", "status": "draft"}
-{"id": "String_STR_M_F_Q_AltKnife_04_body", "source": "Blades Mage", "translation": "Mag Ostrzy", "status": "draft"}
-{"id": "String_STR_M_F_Q_AltKnife_05_body", "source": "Blades Combatant", "translation": "Wojownik Ostrzy", "status": "draft"}
-{"id": "String_STR_M_F_Q_AstinFighter_01_body", "source": "Astin Mercenaries Collector", "translation": "Zbieracz najemników Astin", "status": "draft"}
-{"id": "String_STR_M_F_Q_AstinFighter_02_body", "source": "Astin Mercenaries Sentry", "translation": "Wartownik najemników Astin", "status": "draft"}
-{"id": "String_STR_M_F_Q_AstinFighter_03_body", "source": "Astin Mercenaries Watcher", "translation": "Obserwator najemników Astin", "status": "draft"}
-{"id": "String_STR_M_F_Q_Bandit_01_body", "source": "Thieves Sniper", "translation": "Strzelec wyborowy złodziei", "status": "draft"}
-{"id": "String_STR_M_F_Q_Bandit_02_body", "source": "Thieves Warrior", "translation": "Wojownik złodziei", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_01_body", "source": "Black Claw Guard", "translation": "Strażnik Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_02_body", "source": "Black Claw Watcher", "translation": "Obserwator Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_03_body", "source": "Black Claw High Shaman", "translation": "Wielki szaman Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_04_body", "source": "Black Claw Guard Troopers Overseer", "translation": "Nadzorca straży Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_05_body", "source": "Black Claw Guard Troopers Warden", "translation": "Dozorca straży Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_BlackClaw_06_body", "source": "Black Claw Combatant", "translation": "Wojownik Black Claw", "status": "draft"}
-{"id": "String_STR_M_F_Q_Brigands_01_body", "source": "Bandit Ranger", "translation": "Zwiadowca bandytów", "status": "draft"}
-{"id": "String_STR_M_F_Q_DestDaeva_03_body", "source": "Fate Archon Priest", "translation": "Kapłan Archontów Losu", "status": "draft"}
-{"id": "String_STR_M_F_Q_DestDaeva_04_body", "source": "Fate Archon Sentry", "translation": "Czujka Archontów Losu", "status": "draft"}
-{"id": "String_STR_M_F_Q_DestDeavaGuard_01_body", "source": "Conclave Guard", "translation": "Strażnik konklawe", "status": "draft"}
-{"id": "String_STR_M_F_Q_DestDeavaSpeaker_01_body", "source": "Conclave Orator", "translation": "Mówca konklawe", "status": "draft"}
-{"id": "String_STR_M_F_Q_DestDeava_02_body", "source": "Fate Archon Battle Sorcerer", "translation": "Czarownik bojowy Archontów Losu", "status": "draft"}
-{"id": "String_STR_M_F_Q_Drakan_01_body", "source": "Drakan Researcher", "translation": "Badacz Drakan", "status": "draft"}
-{"id": "String_STR_M_F_Q_Drakan_02_body", "source": "Drakan Warmage", "translation": "Mag bojowy Drakan", "status": "draft"}
-{"id": "String_STR_M_F_Q_Drakan_03_body", "source": "Drakan Egia Technician", "translation": "Technik Egia Drakan", "status": "draft"}
-{"id": "String_STR_M_F_Q_Drakan_04_body", "source": "Drakan Supporter", "translation": "Wsparcie Drakan", "status": "draft"}
-{"id": "String_STR_M_F_Q_Drakan_05_body", "source": "Drakan Superior Warmage", "translation": "Starszy mag bojowy Drakan", "status": "draft"}

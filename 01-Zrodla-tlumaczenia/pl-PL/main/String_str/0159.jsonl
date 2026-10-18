@@ -1,250 +1,250 @@
-{"id":"String_STR_Test_LevelScale_Spawn_11_body","source":"Parents 40/None/None","translation":"Rodzice 40/Brak/Brak","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_1_body","source":"Parents 40/Exceed/Exceed","translation":"Rodzice 40/Powyżej/Powyżej","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_2_body","source":"Parents 40/Exceed/None","translation":"Rodzice 40/Powyżej/Brak","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_3_body","source":"Offspring 20/Exceed/None","translation":"Potomstwo 20/Powyżej/Brak","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_4_body","source":"Offspring 20/None/Exceed","translation":"Potomstwo 20/Brak/Powyżej","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_5_body","source":"Offspring 20/All/None","translation":"Potomstwo 20/Wszystkie/Brak","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_6_body","source":"Offspring 20/Exceed/Exceed","translation":"Potomstwo 20/Powyżej/Powyżej","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_7_body","source":"Offspring 20/All/Exceed","translation":"Potomstwo 20/Wszystkie/Powyżej","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_8_body","source":"Parents 40/All/Exceed","translation":"Rodzice 40/Wszystkie/Powyżej","status":"draft"}
-{"id":"String_STR_Test_LevelScale_Spawn_9_body","source":"Parents 40/All/None","translation":"Rodzice 40/Wszystkie/Brak","status":"draft"}
-{"id":"String_STR_Test_N_Common_FE_RacingNPC_01_body","source":"Test First Track","translation":"Pierwszy tor testowy","status":"draft"}
-{"id":"String_STR_Test_N_Common_FE_RacingNPC_02_body","source":"Test Second Track","translation":"Drugi tor testowy","status":"draft"}
-{"id":"String_STR_Test_N_L1_Purification_body","source":"Purification Test NPC","translation":"Testowy NPC oczyszczania","status":"draft"}
-{"id":"String_STR_Test_N_L1_Quest_Dummy_02_body","source":"Transparent for Testing","translation":"Przezroczysty obiekt testowy","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_Air_NPC_body","source":"Air","translation":"Powietrze","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_All_NPC_ANCIENT1_body","source":"Primeval Spirit 1","translation":"Pradawny duch 1","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_All_NPC_FIRE1_body","source":"Fire Spirit 1","translation":"Duch ognia 1","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_All_NPC_FIRE2_body","source":"Fire Spirit 2","translation":"Duch ognia 2","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_All_NPC_WATER1_body","source":"Water Spirit 1","translation":"Duch wody 1","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_All_NPC_body","source":"All (Spirit)","translation":"Wszystko (duch)","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_Ground_NPC_body","source":"Ground","translation":"Ziemia","status":"draft"}
-{"id":"String_STR_Test_Object_Terrain_Type_Water_NPC_body","source":"Water","translation":"Woda","status":"draft"}
-{"id":"String_STR_Test_Pedivh_01_body","source":"Fediv Wraith","translation":"Widmo Fediva","status":"draft"}
-{"id":"String_STR_Test_Quest_Item_VQ1402001_body","source":"Daeva's Abandoned Treasure","translation":"Porzucony skarb Daeva","status":"draft"}
-{"id":"String_STR_Test_SkinExtraction_body","source":"Skin Extractor","translation":"Ekstraktor skórek","status":"draft"}
-{"id":"String_STR_Test_UE5_body","source":"Test Map","translation":"Mapa testowa","status":"draft"}
-{"id":"String_STR_Title_D_u_Founders_Test_001_b_DESC_body","source":"Grants the title [Test Daeva].","translation":"Nadaje tytuł [Testowy Daeva].","status":"draft"}
-{"id":"String_STR_Title_D_u_Founders_Test_001_b_body","source":"Title: Test Daeva","translation":"Tytuł: Testowy Daeva","status":"draft"}
-{"id":"String_STR_Title_L_u_Founders_Test_001_b_DESC_body","source":"Grants the title [Test Daeva].","translation":"Nadaje tytuł [Testowy Daeva].","status":"draft"}
-{"id":"String_STR_Title_L_u_Founders_Test_001_b_body","source":"Title: Test Daeva","translation":"Tytuł: Testowy Daeva","status":"draft"}
-{"id":"String_STR_Tooltip_Soul_Bind_body","source":"Bind","translation":"Przypisz","status":"draft"}
-{"id":"String_STR_TrackerCamp_Subzone_body","source":"Searcher Campsite","translation":"Obóz poszukiwaczy","status":"draft"}
-{"id":"String_STR_Transfer_Account_Cant_body","source":"This account cannot be transferred.","translation":"Nie można przenieść tego konta.","status":"draft"}
-{"id":"String_STR_Transfer_Account_Complete_body","source":"Account transferred.\nPlease log in with the relevant account.","translation":"Konto zostało przeniesione.\nZaloguj się na odpowiednie konto.","status":"draft"}
-{"id":"String_STR_Transfer_Account_Confirm_body","source":"Would you like to transfer accounts?\nYou can only transfer an account once.\nBe careful when selecting the account you wish to transfer.","translation":"Czy chcesz przenieść konto?\nMożesz przenieść konto tylko raz.\nUważnie wybierz konto do przeniesienia.","status":"draft"}
-{"id":"String_STR_Transfer_Account_Login_Crash_body","source":"Account conflict occurred. Please log in again.","translation":"Wystąpił konflikt kont. Zaloguj się ponownie.","status":"draft"}
-{"id":"String_STR_Transfer_Account_Login_Fail_body","source":"Failed to log in with transferred account.","translation":"Nie udało się zalogować na przeniesione konto.","status":"draft"}
-{"id":"String_STR_Transfer_Account_Login_Success_body","source":"Logged out due to updated account information.","translation":"Wylogowano z powodu aktualizacji danych konta.","status":"draft"}
-{"id":"String_STR_TrialAffix_1_body","source":"Time Limit","translation":"Limit czasu","status":"draft"}
-{"id":"String_STR_TrialAffix_2_body","source":"Resurrection Limit","translation":"Limit wskrzeszeń","status":"draft"}
-{"id":"String_STR_TrialAffix_3_body","source":"Monster Buff","translation":"Wzmocnienie potwora","status":"draft"}
-{"id":"String_STR_TrialAffix_4_body","source":"Boss Buff","translation":"Wzmocnienie bossa","status":"draft"}
-{"id":"String_STR_UI_ABYSS_EQUIP_SHOP_body","source":"Abyss Gear Shop","translation":"Sklep z wyposażeniem Otchłani","status":"draft"}
-{"id":"String_STR_UI_ABYSS_GOODS_SHOP_body","source":"Abyss General Shop","translation":"Sklep wielobranżowy Otchłani","status":"draft"}
-{"id":"String_STR_UI_ALCHEMY_SHOP_body","source":"Alchemy Shop","translation":"Sklep alchemiczny","status":"draft"}
-{"id":"String_STR_UI_APRILFOOL_EVENT_SHOP_01_body","source":"Subbi's Special Shop","translation":"Specjalny sklep Subbiego","status":"draft"}
-{"id":"String_STR_UI_ARMOR_SHOP_body","source":"Armor Shop","translation":"Sklep z pancerzami","status":"draft"}
-{"id":"String_STR_UI_BLACKSMITHING_SHOP_body","source":"Blacksmithing Shop","translation":"Sklep kowalski","status":"draft"}
-{"id":"String_STR_UI_CHILL_EVENT_SHOP_01_body","source":"Fresh Lime Shop","translation":"Sklep ze świeżą limonką","status":"draft"}
-{"id":"String_STR_UI_CHRISTMAS_EVENT_SHOP_01_body","source":"Festive Bell Shop","translation":"Sklep z dzwonkami świątecznymi","status":"draft"}
-{"id":"String_STR_UI_CHRISTMAS_EVENT_SHOP_02_body","source":"Winter Snow Festival Command Shop","translation":"Sklep dowodzenia Zimowego Festiwalu Śniegu","status":"draft"}
-{"id":"String_STR_UI_COINDUNGEON_SHOP_body","source":"Adventurer's Mark Shop","translation":"Sklep za Znaki Poszukiwacza Przygód","status":"draft"}
-{"id":"String_STR_UI_CONVERSION_SHOP_body","source":"Substance Morph Shop","translation":"Sklep transmutacji substancji","status":"draft"}
-{"id":"String_STR_UI_COOKING_SHOP_body","source":"Cooking Shop","translation":"Sklep kulinarny","status":"draft"}
-{"id":"String_STR_UI_DYE_SHOP_body","source":"Dye Shop","translation":"Sklep z barwnikami","status":"draft"}
-{"id":"String_STR_UI_ENCHANT_BUTTON_ENCHANT_body","source":"Enhance","translation":"Ulepsz","status":"draft"}
-{"id":"String_STR_UI_ENCHANT_GUIDETEXT_SELECT_ENCHANTITEM_body","source":"Select Enhance Stone for Enhancement.","translation":"Wybierz kamień ulepszenia.","status":"draft"}
-{"id":"String_STR_UI_ENCHANT_GUIDETEXT_SELECT_ITEM_body","source":"Select Gear","translation":"Wybierz wyposażenie","status":"draft"}
-{"id":"String_STR_UI_EQUIPMENT_SHOP_body","source":"Gear Shop","translation":"Sklep z wyposażeniem","status":"draft"}
-{"id":"String_STR_UI_Enchant_Guide_Destruction_body","source":"Destroyed upon Enhance failure.","translation":"Przedmiot ulega zniszczeniu w przypadku niepowodzenia ulepszania.","status":"draft"}
-{"id":"String_STR_UI_Enchant_Guide_Down_body","source":"Level decreases upon Enhance failure.","translation":"Poziom spada w przypadku niepowodzenia ulepszania.","status":"draft"}
-{"id":"String_STR_UI_Enchant_Guide_Keep_body","source":"Enhance Level preserved on failure.","translation":"Poziom ulepszenia zostanie zachowany w razie niepowodzenia.","status":"draft"}
-{"id":"String_STR_UI_Enchant_Guide_Max_body","source":"Reached Max Enhance Level.","translation":"Osiągnięto maksymalny poziom ulepszenia.","status":"draft"}
-{"id":"String_STR_UI_FIELDEVENT_SHOP_body","source":"Centuryroot Token Shop","translation":"Sklep za żeton Centuryroot","status":"draft"}
-{"id":"String_STR_UI_FOOD_SHOP_body","source":"Food Shop","translation":"Sklep spożywczy","status":"draft"}
-{"id":"String_STR_UI_GROCERY_SHOP_body","source":"General Shop","translation":"Sklep wielobranżowy","status":"draft"}
-{"id":"String_STR_UI_GUILD_SHOP_body","source":"Legion Shop","translation":"Sklep legionu","status":"draft"}
-{"id":"String_STR_UI_JEWELCRAFTING_SHOP_body","source":"Handicrafting Shop","translation":"Sklep rękodzielniczy","status":"draft"}
-{"id":"String_STR_UI_NIGHTMARE_SHOP_body","source":"Nightmare Dungeons Shop","translation":"Sklep z lochami Koszmaru","status":"draft"}
-{"id":"String_STR_UI_QUESTSCROLL_SHOP_body","source":"Command Shop","translation":"Sklep dowodzenia","status":"draft"}
-{"id":"String_STR_UI_SUL_EVENT_SHOP_01_body","source":"Fortune Pouch Shop","translation":"Sklep z sakiewkami szczęścia","status":"draft"}
-{"id":"String_STR_UI_SUL_EVENT_SHOP_02_body","source":"Fortune Pouch Key Shop","translation":"Sklep z kluczami do sakiewek szczęścia","status":"draft"}
-{"id":"String_STR_UI_SUMMER_EVENT_SHOP_01_body","source":"Iridescent Conch Shell Shop","translation":"Sklep z opalizującymi muszlami","status":"draft"}
-{"id":"String_STR_UI_TAILORING_SHOP_body","source":"Armorsmithing Shop","translation":"Sklep z pancerzami","status":"draft"}
-{"id":"String_STR_UI_TOKEN_CONVERSION_SHOP_body","source":"Mark Morph Method Shop","translation":"Metoda przemiany znaków","status":"draft"}
-{"id":"String_STR_UI_VALENTINESDAY_EVENT_SHOP_01_body","source":"Sweet Honeybee Shop","translation":"Sklep ze słodkimi miodowymi pszczołami","status":"draft"}
-{"id":"String_STR_UI_VALENTINESDAY_EVENT_SHOP_02_body","source":"Sweetroot Shop","translation":"Sklep ze słodkimi korzeniami","status":"draft"}
-{"id":"String_STR_UI_WEAPON_SHOP_body","source":"Weapons Shop","translation":"Sklep z bronią","status":"draft"}
-{"id":"String_STR_UNHANDLED_HTTP_STATUS_body","source":"A connection error occurred. Please try again later.","translation":"Wystąpił błąd połączenia. Spróbuj ponownie później.","status":"draft"}
-{"id":"String_STR_UseRebirth_By_Other_body","source":"{0} has granted you {1} effect.\nAccept the effect?","translation":"{0} udostępnia efekt {1}.\nCzy zaakceptować efekt?","status":"draft"}
-{"id":"String_STR_UseRebirth_By_Self_body","source":"The {0} effect is available.\nApply the effect?","translation":"Efekt {0} jest dostępny.\nCzy go zastosować?","status":"draft"}
-{"id":"String_STR_VEHICLE_CREATURE_EFFECT_STAT_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_STR_VerifySession_Fail_Msg_body","source":"No previous session info available.","translation":"Brak informacji o poprzedniej sesji.","status":"draft"}
-{"id":"String_STR_WEEKLY_RANKING_REWARD_VALID_TIME_body","source":"Valid within 7 days of sending","translation":"Ważne przez 7 dni od wysłania","status":"draft"}
-{"id":"String_STR_WORLDEVENT_POPUP_POINT_PERSONAL_body","source":"Contribution","translation":"Wkład","status":"draft"}
-{"id":"String_STR_WaterEle_01_body","source":"Water Spirit","translation":"Duch wody","status":"draft"}
-{"id":"String_STR_WindEle_01_body","source":"Wind Spirit","translation":"Duch wiatru","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP2_1_body","source":"Old Mercenaries Stronghold","translation":"Twierdza Old Mercenaries","status":"draft"}
-{"id": "String_STR_World_D_A_Layer_District_EP2_2_body", "source": "Below the Dredgion Crash Site Cliff", "translation": "Urwisko przy miejscu katastrofy Dredgiona", "status": "draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP2_3_body","source":"Drakana Condensation Zone","translation":"Strefa Drakana Condensation","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP2_4_body","source":"Odyle Jelly Storage","translation":"Magazyn Odyle Jelly","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP2_5_body","source":"Old Stone Chamber","translation":"Komnata Old Stone","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP3_2_body","source":"Crash Site Cave","translation":"Jaskinia Crash Site","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP3_3_body","source":"Grisilla's Hideout","translation":"Kryjówka Grisilla's","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP3_5_body","source":"Hermit's Cave","translation":"Jaskinia Hermit's","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP4_1_body","source":"Sanctum Outpost","translation":"Posterunek Sanctum","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP5_1_body","source":"Highland Cave","translation":"Jaskinia Highland","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP5_5_body","source":"Old House","translation":"Stary dom","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP6_1_body","source":"Black Claw Storage","translation":"Magazyn Black Claw","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP6_2_body","source":"Temporary Clinic","translation":"Tymczasowa klinika","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP6_3_body","source":"Wedding Hall","translation":"Sala weselna","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_EP6_4_body","source":"Small House","translation":"Mały dom","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_L_1_20_body","source":"Cedric's Tombstone","translation":"Nagrobek Cedrica","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_District_L_1_6_body","source":"Contaminated Slime Purification Experiment Site","translation":"Miejsce Contaminated Slime Purification Experiment","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_1_Step_body","source":"Get ready to go with Matir","translation":"Przygotuj się do drogi z Matirem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_1_Title_body","source":"Talk to Matir","translation":"Porozmawiaj z Matirem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_2_Step_body","source":"Locate the materials","translation":"Odszukaj materiały","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_2_Title_body","source":"Follow Matir","translation":"Podążaj za Matirem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_3_Step_body","source":"Check the Drakana Chunks","translation":"Sprawdź odłamki Drakany","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_3_Title1_body","source":"Obtain the sediment","translation":"Zdobądź osad","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_3_Title2_body","source":"Return Matir to a safe place","translation":"Zaprowadź Matira w bezpieczne miejsce","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_4_Step_body","source":"Deliver the sediment","translation":"Dostarcz osad","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_4_Title_body","source":"Talk to Matir","translation":"Porozmawiaj z Matirem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_5_Title_body","source":"Exit the Drakana Pool","translation":"Opuść Basen Drakany","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_Stage1_body","source":"Find the herbalist and gather neutralizer materials","translation":"Odnajdź zielarza i zbierz materiały do neutralizatora","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_MapEvent_Stage2_body","source":"Gather the neutralizer materials","translation":"Zbierz materiały do neutralizatora","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ001_body","source":"Drakana Pool","translation":"Basen Drakany","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_1_Step_body","source":"Prepare for battle with Ulgorn","translation":"Przygotuj się do walki z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_1_Title_body","source":"Talk to Keller","translation":"Porozmawiaj z Keller","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_2_Step_body","source":"Eliminate the traitors","translation":"Zlikwiduj zdrajców","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_2_Title1_body","source":"Defeat Keller's gang","translation":"Pokonaj bandę Kellera","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_2_Title2_body","source":"Defeat Keller","translation":"Pokonaj Kellera","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_3_Step_body","source":"Check Ulgorn's condition","translation":"Sprawdź stan Ulgorna","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_3_Title_body","source":"Talk to Ulgorn","translation":"Porozmawiaj z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_4_Step_body","source":"Secure the remaining supplies","translation":"Zabezpiecz pozostałe zapasy","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_4_Title1_body","source":"Check the Supply Chest","translation":"Sprawdź skrzynię z zaopatrzeniem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_4_Title2_body","source":"Check Supply Chest Trigger","translation":"Sprawdź wyzwalacz skrzyni z zapasami","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_5_Step_body","source":"Discuss the subsequent situation","translation":"Omów dalszą sytuację","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_5_Title_body","source":"Talk to Ulgorn","translation":"Porozmawiaj z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_MapEvent_Desc_1_body","source":"Give the materials and check the supplies for transport","translation":"Przekaż materiały i sprawdź ładunek przed transportem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ002_body","source":"Canyon Dispatch Area","translation":"Punkt wysyłkowy w kanionie","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_1_Title_body","source":"Follow Ulgorn","translation":"Podążaj za Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_2_Step_body","source":"Discuss the situation","translation":"Omów sytuację","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_2_Title_body","source":"Talk to Ulgorn","translation":"Porozmawiaj z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_3_Step_body","source":"Assess the situation at Quai Campsite","translation":"Zorientuj się w sytuacji w Quai Campsite","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_3_Title_body","source":"Follow Ulgorn again","translation":"Ponownie podążaj za Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_4_Step_body","source":"Quell the chaos at Quai Campsite","translation":"Zapanuj nad chaosem w obozie Quai","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_4_Title1_body","source":"Defeat the Insane Daeva","translation":"Pokonaj obłąkanego Daeva","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_4_Title2_body","source":"Defeat 3 Insane Daeva","translation":"Pokonaj 3 obłąkanych Daeva","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_5_Step_body","source":"Stop additional threats","translation":"Powstrzymaj kolejne zagrożenia","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_5_Title_body","source":"Defeat the additional Insane Daeva","translation":"Pokonaj kolejnych obłąkanych Daeva","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_6_Step_body","source":"Assess the situation","translation":"Oceń sytuację","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_6_Title_body","source":"Talk to Baba","translation":"Porozmawiaj z Babą","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_Desc_1_body","source":"Meet Baba at Quai Campsite","translation":"Spotkaj się z Babą w Quai Campsite","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ003_MapEvent_Desc_2_body","source":"Quell the chaos at Quai Campsite","translation":"Zapanuj nad chaosem w obozie kupców Quai","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_1_Step_body","source":"Inquire about Brok's whereabouts","translation":"Dowiedz się, gdzie jest Brok","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_1_Title_body","source":"Talk to Ulgorn","translation":"Porozmawiaj z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_2_Step_body","source":"Find Wudsson's valuables","translation":"Odnajdź kosztowności Wudssona","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_1_body","source":"Retrieve the bag","translation":"Odzyskaj torbę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_2_body","source":"Retrieve the ledger","translation":"Odzyskaj księgę rachunkową","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_3_body","source":"Go to the location of the lost items","translation":"Udaj się na miejsce, gdzie zaginęły przedmioty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_4_body","source":"Go to the location of Wudsson's items","translation":"Udaj się na miejsce, gdzie znajdują się przedmioty Wudssona","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_3_Step_body","source":"Go to a safe area","translation":"Udaj się w bezpieczne miejsce","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title1_body","source":"Go towards the crematorium","translation":"Udaj się w stronę krematorium","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title2_body","source":"Talk to Ulgorn","translation":"Porozmawiaj z Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title3_body","source":"Arrive at the stairs in front of Ulgorn","translation":"Dojdź do schodów przed Ulgornem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_4_Step_body","source":"Defeat the swarming Undead","translation":"Pokonaj atakujące nieumarłe istoty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title1_body","source":"Defeat {NPC:M_D1_HQ_GraveGh_01}","translation":"Pokonaj {NPC:M_D1_HQ_GraveGh_01}","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title2_body","source":"Defeat the second Wave of Black Souls","translation":"Pokonaj drugą falę Czarnych Dusz","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title3_body","source":"Defeat 5 Black Souls","translation":"Pokonaj 5 Czarnych Dusz","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_5_Step_body","source":"Check Wudsson's status","translation":"Sprawdź stan Wudssona","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_5_Title_body","source":"Talk to Wudsson","translation":"Porozmawiaj z Wudssonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_6_Step_body","source":"Go and assess the situation","translation":"Idź ocenić sytuację","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_6_Title_body","source":"Go to Wudsson with Ulgorn","translation":"Udaj się z Ulgornem do Wudssona","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_7_Step_body","source":"Defeat the Grave Undead Knight that suddenly appeared","translation":"Pokonaj niespodziewanie przybyłego rycerza grobowych nieumarłych","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_7_Title_body","source":"Defeat {NPC:M_D1_Q_GraveUn_02_02}","translation":"Pokonaj {NPC:M_D1_Q_GraveUn_02_02}","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ004_MapEvent_Desc_1_body","source":"Obtain information about Brok","translation":"Zdobądź informacje o Broku","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ005_body","source":"Hidden Cave","translation":"Ukryta jaskinia","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_1_body","source":"Search the Fallen Tree","translation":"Przeszukaj powalone drzewo","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_2_body","source":"Wait until Nemon arrives","translation":"Poczekaj na przybycie Nemona","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_3_body","source":"Talk to Elle","translation":"Porozmawiaj z Elle","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_4_body","source":"Search the Fallen Tree","translation":"Przeszukaj powalone drzewo","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_5_1_body","source":"Find all of the young Elim","translation":"Odnajdź wszystkie młode Elimy","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_5_body","source":"Talk to Dart","translation":"Porozmawiaj z Dartem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_7_body","source":"Defeat Blades","translation":"Pokonaj Blood Blades","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_8_body","source":"Talk to Dart","translation":"Porozmawiaj z Dartem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Stage_1_body","source":"Find the hiding young Elim","translation":"Odnajdź ukrywające się młode Elimy","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_1_body","source":"Find the hiding Elim","translation":"Odnajdź ukrywającego się Elima","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_2_body","source":"Persuade them to move through the Collapsed Chasm","translation":"Przekonaj ich, by przeszli przez Zapadnięty Wąwóz","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_3_body","source":"Find Elle's friends","translation":"Odnajdź przyjaciół Elle","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_4_body","source":"Confirm the survival of the young Elim","translation":"Potwierdź, że młode Elimy przeżyły","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_5_body","source":"Confirm the survival of the young Elim","translation":"Potwierdź, że młode Elimy przeżyły","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_6_body","source":"Defeat the attacking Blades","translation":"Pokonaj atakujących Blood Blades","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ006_MapEvent_Step_7_body","source":"Confirm the survival of the young Elim","translation":"Potwierdź, że młode Elimy przeżyły","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ007_body","source":"Northern Altar","translation":"Północny Ołtarz","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ008_body","source":"Eastern Altar","translation":"Wschodniy Ołtarz","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_1_1_body","source":"Join Darmand","translation":"Dołącz do Darmanda","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_2_1_body","source":"Check the Rift","translation":"Sprawdź szczelinę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_3_1_body","source":"Defeat Earth Spirit","translation":"Pokonaj ducha ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_4_1_body","source":"Destroy the Rift Fissure","translation":"Zniszcz wyłom w szczelinie","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_5_1_body","source":"Purify the Earth Altar","translation":"Oczyść Ołtarz Ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Desc_6_1_body","source":"Talk to Darmand","translation":"Porozmawiaj z Darmandem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Stage_1_body","source":"Restore the Earth Altar","translation":"Odnów Ołtarz Ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_1_body","source":"Go to the Earth Altar","translation":"Udaj się do Ołtarza Ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_2_body","source":"Help the Spirit Guide","translation":"Pomóż Przewodnikowi Duchów","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_3_body","source":"Stop the Spirit emerging from the Rift","translation":"Powstrzymaj ducha wychodzącego ze Szczeliny","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_4_body","source":"Prevent the Rift from opening","translation":"Nie dopuść do otwarcia Szczeliny","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_5_body","source":"Stabilize the Earth Aura","translation":"Ustabilizuj aurę ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_MapEvent_Step_6_body","source":"Report the purification of the Earth Altar","translation":"Zgłoś oczyszczenie Ołtarza Ziemi","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ009_body","source":"Earth Altar","translation":"Ołtarz Earth","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ010_body","source":"Blades Camp","translation":"Obóz Blades","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Desc_1_1_body","source":"Examine the Giant Fafnite Gemstone","translation":"Zbadaj olbrzymi klejnot Fafnite","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Desc_1_2_body","source":"Check the Dusty Hole","translation":"Sprawdź zakurzoną dziurę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Desc_1_3_body","source":"Examine the Dropped Mining Equipment","translation":"Zbadaj porzucony sprzęt górniczy","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Desc_2_1_body","source":"Talk to Nemon","translation":"Porozmawiaj z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Stage_1_body","source":"Check the situation at the Shuttered Workstation","translation":"Sprawdź sytuację w zamkniętym warsztacie","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Step_1_body","source":"Search inside the Shuttered Workstation","translation":"Przeszukaj zamknięty warsztat","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Step_2_body","source":"Discuss the situation with Nemon","translation":"Omów sytuację z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_01_MapEvent_Step_3_body","source":"Stop the Addicted Shulak Workers","translation":"Powstrzymaj uzależnionych robotników Shulak","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_02_MapEvent_Desc_1_1_body","source":"Resolve the dust issue","translation":"Rozwiąż problem z pyłem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_02_MapEvent_Stage_1_body","source":"Resolve the Giant Fafnite Gemstone problem","translation":"Rozwiąż problem z wielkim Fafnitem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ011_body","source":"Shuttered Workstation","translation":"Zamknięte stanowisko robocze","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Desc_1_body","source":"Defeat the Blades guards","translation":"Pokonaj strażników Blood Blades","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Desc_2_1_body","source":"Check the Bundle of Documents","translation":"Sprawdź plik dokumentów","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Desc_2_2_body","source":"Check the Document Box","translation":"Sprawdź skrzynkę na dokumenty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Desc_2_3_body","source":"Search the Medicine Chest","translation":"Przeszukaj apteczkę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Desc_3_body","source":"Talk to Nemon","translation":"Porozmawiaj z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_MapEvent_Title_1_body","source":"Search the Blades Supply Storage","translation":"Przeszukaj magazyn zaopatrzenia Ostrzy","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ012_body","source":"Blades Supply Storage","translation":"Magazyn Blades Supply","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_1_1_body","source":"Defeat Black Claw Guard Troopers Watcher","translation":"Pokonaj obserwatora oddziału strażników Black Claw","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_1_2_body","source":"Defeat Black Claw Guard Troopers Overseer","translation":"Pokonaj nadzorcę oddziału strażników Black Claw","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_2_body","source":"Talk to Amunta","translation":"Porozmawiaj z Amuntą","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_3_1_body","source":"Examine the Stacked Documents","translation":"Zbadaj ułożone dokumenty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_3_2_body","source":"Search for the key in the Small Wooden Chest","translation":"Poszukaj klucza w małej drewnianej skrzyni","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_4_body","source":"Defeat the group of Black Claw Guard troopers","translation":"Pokonaj oddział strażników Black Claw","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_5_1_body","source":"Rescue Amunta","translation":"Uratuj Amunte","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_5_2_body","source":"Rescue Lakiba","translation":"Uwolnij Lakibę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Desc_6_body","source":"Talk to Amunta","translation":"Porozmawiaj z Amuntą","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_MapEvent_Title_1_body","source":"Rescue Amunta from the Prisoners Grotto","translation":"Uratuj Amuntę z Groty Więźniów","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ013_body","source":"Prisoners Grotto","translation":"Prisoners Grota","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_1_body","source":"Defeat Muqaka's personal soldiers","translation":"Pokonaj osobistych żołnierzy Muqaki","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_2_body","source":"Help Nemon up","translation":"Pomóż Nemonowi wstać","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_3_body","source":"Talk to the now-conscious Nemon","translation":"Porozmawiaj z przytomnym już Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_4_body","source":"Examine the Muqaka's Trade Certificate","translation":"Zbadaj świadectwo handlowe Muqaki","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_5_body","source":"Examine the Scattered Documents","translation":"Zbadaj porozrzucane dokumenty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_6_body","source":"Examine Muqaka's Valuable Basket","translation":"Zbadaj cenny kosz Muqaki","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_7_1_body","source":"Defeat Muqaka's Personal Elite Soldier","translation":"Pokonaj osobistego elitarnego żołnierza Muqaki","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_7_2_body","source":"Defeat Black Claw Chief Muqaka","translation":"Pokonaj wodza Black Claw, Muqakę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Desc_8_body","source":"Talk to Nemon","translation":"Porozmawiaj z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ014_MapEvent_Title_1_body","source":"Rescue Nemon from Muqaka's Quarters","translation":"Uwolnij Nemona z kwatery Muqaki","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_1_body","source":"Head Into the Storage Interior","translation":"Udaj się do wnętrza magazynu","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_2_body","source":"[Temporary] Talk to Nemon","translation":"[Tymczasowe] Porozmawiaj z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_3_body","source":"Defeat the Lagta Brigade Balaur soldiers","translation":"Pokonaj żołnierzy Balaur z Brygady Lagty","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_4_body","source":"Defeat another wave of Balaur soldiers","translation":"Pokonaj kolejną falę żołnierzy Balaur","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_5_body","source":"Escape from Lagta Fortress","translation":"Ucieknij z fortecy Lagta","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Desc_6_body","source":"[Temporary] Talk to Nemon","translation":"[Tymczasowe] Porozmawiaj z Nemonem","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ015_MapEvent_Title_1_body","source":"Find the High Priest's Fafnite","translation":"Znajdź fafnit Wysokiego Kapłana","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ016_MapEvent_Desc_1_body","source":"Defeat the soldiers patrolling the area","translation":"Pokonaj żołnierzy patrolujących okolicę","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ016_MapEvent_Desc_2_body","source":"Examine the key storage","translation":"Sprawdź schowek na klucze","status":"draft"}
-{"id":"String_STR_World_D_A_Layer_HQ016_MapEvent_Desc_3_body","source":"Go to the second floor","translation":"Przejdź na drugie piętro","status":"draft"}
+{"id": "String_STR_TU_ERROR_UPDATER_IS_RUNNING_body", "source": "Update already in progress.\nPlease wait a moment.", "translation": "Aktualizacja jest już w toku.\nChwileczkę.", "status": "draft"}
+{"id": "String_STR_TU_ERROR_UPDATE_MODE_EMPTY_body", "source": "Update operation info is invalid.\nPlease try again later.", "translation": "Informacje o operacji aktualizacji są nieprawidłowe.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "String_STR_TU_ERROR_UPDATE_body", "source": "Update failed.\nPlease try again later.", "translation": "Aktualizacja nie powiodła się.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "String_STR_TU_ERROR_VCDIFF_DECODE_body", "source": "A problem occurred while verifying files.\nPlease try again later.", "translation": "Wystąpił problem podczas weryfikacji plików.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "String_STR_TU_ERROR_WRONG_FILE_HASH_VALUE_body", "source": "Integrity check on downloaded file failed.", "translation": "Nie udało się sprawdzić integralności pobranego pliku.", "status": "draft"}
+{"id": "String_STR_TU_ERROR_WRONG_FILE_SIZE_body", "source": "Downloaded file size does not match.", "translation": "Rozmiar pobranego pliku jest niezgodny.", "status": "draft"}
+{"id": "String_STR_T_N_L1_WE3_Artifect_01_body", "source": "Activated Ancient Artifact", "translation": "Aktywny Starożytny Artefakt", "status": "draft"}
+{"id": "String_STR_T_N_L1_WE3_Artifect_02_body", "source": "Deactivated Ancient Artifact", "translation": "Nieaktywny starożytny artefakt", "status": "draft"}
+{"id": "String_STR_T_Sub_L1_WE3_Artifect_01_body", "source": "Tolbas Forest Cleansing", "translation": "Oczyszczanie Lasu Tolbas", "status": "draft"}
+{"id": "String_STR_TaytraFortress_Subzone_body", "source": "Taytra Fortress", "translation": "Twierdza Taytra", "status": "draft"}
+{"id": "String_STR_TaytraTerritory_Subzone_body", "source": "Taytra Territory", "translation": "Taytra Terytorium", "status": "draft"}
+{"id": "String_STR_Teleport_Popup_body", "source": "Move to {0}?", "translation": "Przenieść się do {0}?", "status": "draft"}
+{"id": "String_STR_Test_2040_body", "source": "Server Stress Test Map", "translation": "Mapa testu obciążeniowego serwera", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade01_dark_body", "source": "Daeva are born from humans and grow to resemble them, but those destined to become Daeva possess exceptional abilities from an early age. Through a pivotal event or trial, they \"ascend,\" fully awakening their potential, and allowing them to use Odyle energy freely.\n\nThe key evidence of a Daeva are their wings and their ability to fly. Ever since the collapse of AION, their powers have weakened. They need to find the fragments of AION in order to reclaim their forgotten power.", "translation": "Daeva rodzą się z ludzi i dorastają, zachowując ich wygląd, lecz ci, którzy mają zostać Daeva, od najmłodszych lat wykazują niezwykłe zdolności. Pod wpływem przełomowego wydarzenia lub próby „wznoszą się”, w pełni budząc swój potencjał i zyskując możliwość swobodnego korzystania z energii Odyle.\n\nSkrzydła i zdolność latania są najważniejszymi oznakami Daeva. Od upadku AION ich moce osłabły. Aby odzyskać zapomnianą siłę, muszą odnaleźć fragmenty AION.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade01_light_body", "source": "Daeva are born from humans and grow to resemble them, but those destined to become Daeva possess exceptional abilities from an early age. Through a pivotal event or trial, they \"ascend,\" fully awakening their potential, and allowing them to use Odyle energy freely.\n\nThe key evidence of a Daeva are their wings and their ability to fly. Ever since the collapse of AION, their powers have weakened. They need to find the fragments of AION in order to reclaim their forgotten power.", "translation": "Daeva rodzą się z ludzi i dorastają, zachowując ich wygląd, lecz ci, którzy mają zostać Daeva, od najmłodszych lat wykazują niezwykłe zdolności. Pod wpływem przełomowego wydarzenia lub próby „wznoszą się”, w pełni budząc swój potencjał i zyskując możliwość swobodnego korzystania z energii Odyle.\n\nSkrzydła i zdolność latania są najważniejszymi oznakami Daeva. Od upadku AION ich moce osłabły. Aby odzyskać zapomnianą siłę, muszą odnaleźć fragmenty AION.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade02_dark_body", "source": "The major difference between humans and Daeva is the \"immortality\" of the latter. A Daeva's appearance is permanently fixed to that at the moment of their Ascension, but upon the destruction of a Daeva's physical body, rather than dying, their soul returns to the Odyle flow while a new body is reconstructed, at which point they return to life.\nAt this moment, the separated soul can immediately find its body and resurrect through a \"Kibelisk\" to which the soul is bound.\nHowever, were a Daeva to die in a place devoid of Odyle,  or suffer an attack so powerful that the soul and body cannot be reunited, their soul will succumb to \"extinction.\"\nNevertheless, this practical immortality means the concept of an irreversible \"death\" remains hard to grasp for many Daeva.", "translation": "Najważniejszą różnicą między ludźmi a Daeva jest nieśmiertelność tych drugich. Wygląd Daeva pozostaje niezmienny od chwili Wzniesienia, lecz gdy jego ciało zostanie zniszczone, dusza zamiast umrzeć powraca do nurtu Odyle, a po odtworzeniu ciała Daeva wraca do życia.\nWtedy oddzielona dusza może natychmiast odnaleźć ciało i wskrzesić się za pośrednictwem Kibelisku, z którym jest związana.\nJeśli jednak Daeva zginie w miejscu pozbawionym Odyle albo odniesie tak potężne obrażenia, że dusza nie zdoła połączyć się z ciałem, ulegnie „unicestwieniu”.\nMimo to ta praktyczna nieśmiertelność sprawia, że wielu Daeva z trudem pojmuje nieodwracalną „śmierć”.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade02_light_body", "source": "The major difference between humans and Daeva is the \"immortality\" of the latter. A Daeva's appearance is permanently fixed to that at the moment of their Ascension, but upon the destruction of a Daeva's physical body, rather than dying, their soul returns to the Odyle flow while a new body is reconstructed, at which point they return to life.\nAt this moment, the separated soul can immediately find its body and resurrect through a \"Kibelisk\" to which the soul is bound.\nHowever, were a Daeva to die in a place devoid of Odyle,  or suffer an attack so powerful that the soul and body cannot be reunited, their soul will succumb to \"extinction.\"\nNevertheless, this practical immortality means the concept of an irreversible \"death\" remains hard to grasp for many Daeva.", "translation": "Najważniejszą różnicą między ludźmi a Daeva jest nieśmiertelność tych drugich. Wygląd Daeva pozostaje niezmienny od chwili Wzniesienia, lecz gdy jego ciało zostanie zniszczone, dusza zamiast umrzeć powraca do nurtu Odyle, a po odtworzeniu ciała Daeva wraca do życia.\nWtedy oddzielona dusza może natychmiast odnaleźć ciało i wskrzesić się za pośrednictwem Kibelisku, z którym jest związana.\nJeśli jednak Daeva zginie w miejscu pozbawionym Odyle albo odniesie tak potężne obrażenia, że dusza nie zdoła połączyć się z ciałem, ulegnie „unicestwieniu”.\nMimo to ta praktyczna nieśmiertelność sprawia, że wielu Daeva z trudem pojmuje nieodwracalną „śmierć”.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade03_dark_body", "source": "Following the \"Last War\", the AION Tower was shattered completely.\nEmpyrean Lords and Daeva alike suffered a great weakening of their power as a consequence, and Asmodae and Elysea fell victim to renewed assault by the \"Dragon Lords.\"\n\nYet through the fragments of shattered AION, new hope was born.\nBeings born with these fragments within them began to emerge, possessing the potential to carry on AION's will.\nThrough communication with \"Asahr,\" the steward of AION's dream, they may experience the memories embedded within the fragments of AION and awaken new power.", "translation": "Po „Ostatniej Wojnie” Wieża AION rozpadła się całkowicie.\nWładcy Empyreum i Daeva znacznie osłabli, a Asmodae i Elysea znów padły ofiarą ataków „Smoczych Władców”.\n\nJednak z odłamków rozbitego AION narodziła się nowa nadzieja.\nZaczęły pojawiać się istoty noszące w sobie te fragmenty i zdolne kontynuować wolę AION.\nDzięki kontaktowi z Asahrem, strażnikiem snu AION, mogą doświadczać wspomnień zapisanych we fragmentach AION i budzić nową moc.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade03_light_body", "source": "Following the \"Last War\", the AION Tower was shattered completely.\nEmpyrean Lords and Daeva alike suffered a great weakening of their power as a consequence, and Elysea and Asmodae fell victim to renewed assault by the \"Dragon Lords.\"\n\nYet through the fragments of shattered AION, new hope was born.\nBeings born with these fragments within them began to emerge, possessing the potential to carry on AION's will.\nThrough communication with \"Asahr,\" the steward of AION's dream, they may experience the memories embedded within the fragments of AION and awaken new power.", "translation": "Po „Ostatniej Wojnie” Wieża AION rozpadła się całkowicie.\nWładcy Empyreum i Daeva znacznie osłabli, a Elysea i Asmodae znów padły ofiarą ataków „Smoczych Władców”.\n\nJednak z odłamków rozbitego AION narodziła się nowa nadzieja.\nZaczęły pojawiać się istoty noszące w sobie te fragmenty i zdolne kontynuować wolę AION.\nDzięki kontaktowi z Asahrem, strażnikiem snu AION, mogą doświadczać wspomnień zapisanych we fragmentach AION i budzić nową moc.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade04_dark_body", "source": "To halt the advance of the \"Dragon Lords,\" the Empyrean Lords poured all of their remaining power into raising a \"Bulwark.\"\nThrough Zikel's desperate resistance, and at the cost of their own extinction, they succeeded.\n\nYet this Bulwark, raised atop the sacrifice of so many souls, proved only a temporary measure, and the world beyond the Bulwark's protection remained under the Balaur's dominion.\nAs a fragment carrying AION's will, you must ascend through the memories left by the beings of the Eternal Dream and gain the power to restore Atreia.", "translation": "Aby powstrzymać natarcie „Smoczych Władców”, Władcy Empyreum oddali całą pozostałą moc na stworzenie „Bulwark”.\nDzięki desperackiemu oporowi Zikela, który przypłacił to unicestwieniem, cel został osiągnięty.\n\nJednak Bulwark, wzniesiony dzięki ofierze tak wielu dusz, okazał się tylko tymczasowym rozwiązaniem, a tereny poza jego ochroną pozostały pod panowaniem Balaur.\nJako fragment niosący wolę AION musisz wznieść się, poznając wspomnienia istot Wiecznego Snu, i zdobyć moc potrzebną do odnowienia Atreii.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade04_light_body", "source": "To halt the advance of the \"Dragon Lords,\" the Empyrean Lords poured all of their remaining power into raising a \"Bulwark.\"\nThrough Zikel's desperate resistance, and at the cost of their own extinction, they succeeded.\n\nYet this Bulwark, raised atop the sacrifice of so many souls, proved only a temporary measure, and the world beyond the Bulwark's protection remained under the Balaur's dominion.\nAs a fragment carrying AION's will, you must ascend through the memories left by the beings of the Eternal Dream and gain the power to restore Atreia.", "translation": "Aby powstrzymać natarcie „Smoczych Władców”, Władcy Empyreum oddali całą pozostałą moc na stworzenie „Bulwark”.\nDzięki desperackiemu oporowi Zikela, który przypłacił to unicestwieniem, cel został osiągnięty.\n\nJednak Bulwark, wzniesiony dzięki ofierze tak wielu dusz, okazał się tylko tymczasowym rozwiązaniem, a tereny poza jego ochroną pozostały pod panowaniem Balaur.\nJako fragment niosący wolę AION musisz wznieść się, poznając wspomnienia istot Wiecznego Snu, i zdobyć moc potrzebną do odnowienia Atreii.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade05_dark_body", "source": "After the skies of Atreia were torn asunder, the Empyrean Lords of Asmodae and Elysea became similarly divided.\nYet their power is fundamentally one.\n\nAs a being destined to become \"Arch Daeva\" and carry on AION's will, you must experience the memories of the Empyrean Lords and understand the complete form of AION's power.\nThrough this process, you will ascend to become the absolute being destined to save Atreia.", "translation": "Gdy niebo Atreii rozdarło się, Władcy Empyreum z Asmodae i Elysei również zostali rozdzieleni.\nIch moc jednak wciąż ma jedno źródło.\n\nJako istota przeznaczona do tego, by zostać „Arch Daeva” i kontynuować wolę AION, musisz poznać wspomnienia Władców Empyreum i zrozumieć pełnię mocy AION.\nW ten sposób wzniesiesz się i staniesz się istotą, która ma ocalić Atreię.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade05_light_body", "source": "After the skies of Atreia were torn asunder, the Empyrean Lords of Elysea and Asmodae became similarly divided.\nYet their power is fundamentally one.\n\nAs a being destined to become \"Arch Daeva\" and carry on AION's will, you must experience the memories of the Empyrean Lords and understand the complete form of AION's power.\nThrough this process, you will ascend to become the absolute being destined to save Atreia.", "translation": "Gdy niebo Atreii rozdarło się, Władcy Empyreum z Elysei i Asmodae również zostali rozdzieleni.\nIch moc jednak wciąż ma jedno źródło.\n\nJako istota przeznaczona do tego, by zostać „Arch Daeva” i kontynuować wolę AION, musisz poznać wspomnienia Władców Empyreum i zrozumieć pełnię mocy AION.\nW ten sposób wzniesiesz się i staniesz się istotą, która ma ocalić Atreię.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade06_dark_body", "source": "Arch Daeva are shattered Fragments of AION, a great being of the universe, and thus, all Arch Daeva shall return to perfection by collecting the fragments and become complete once more. The Ascension Artifact lets its owner absorb other Arch Daeva to reach AION.\n\nThose who swear the oath and overcome the trial shall rise as Arch Daeva, and ascend higher as they absorb the fate and abyss of other Arch Daeva.", "translation": "Arch Daeva są rozbitymi fragmentami AION, potężnej istoty wszechświata. Gromadząc te fragmenty, wszyscy Arch Daeva mogą odzyskać doskonałość i znów stać się całością. Artefakt Wzniesienia pozwala właścicielowi wchłaniać innych Arch Daeva, by dotrzeć do AION.\n\nCi, którzy złożą przysięgę i przejdą próbę, staną się Arch Daeva. Mogą wznosić się coraz wyżej, wchłaniając los i otchłań innych Arch Daeva.", "status": "draft"}
+{"id": "String_STR_Test_Ascension_grade06_light_body", "source": "Arch Daeva are shattered Fragments of AION, a great being of the universe, and thus, all Arch Daeva shall return to perfection by collecting the fragments and become complete once more. The Ascension Artifact lets its owner absorb other Arch Daeva to reach AION.\n\nThose who swear the oath and overcome the trial shall rise as Arch Daeva, and ascend higher as they absorb the fate and abyss of other Arch Daeva.", "translation": "Arch Daeva są rozbitymi fragmentami AION, potężnej istoty wszechświata. Gromadząc te fragmenty, wszyscy Arch Daeva mogą odzyskać doskonałość i znów stać się całością. Artefakt Wzniesienia pozwala właścicielowi wchłaniać innych Arch Daeva, by dotrzeć do AION.\n\nCi, którzy złożą przysięgę i przejdą próbę, staną się Arch Daeva. Mogą wznosić się coraz wyżej, wchłaniając los i otchłań innych Arch Daeva.", "status": "draft"}
+{"id": "String_STR_Test_D1_FieldEvent_01_body", "source": "Event Manager_Asmodians_1", "translation": "Menedżer wydarzenia_Asmodianie_1", "status": "draft"}
+{"id": "String_STR_Test_D1_FieldEvent_02_body", "source": "Event Manager_Asmodians_2", "translation": "Menedżer wydarzenia_Asmodianie_2", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_01_body", "source": "Daeva Ascension Gauge Level 1", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 1", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_02_body", "source": "Daeva Ascension Gauge Level 2", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 2", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_03_body", "source": "Daeva Ascension Gauge Level 3", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 3", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_04_body", "source": "Daeva Ascension Gauge Level 4", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 4", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_05_body", "source": "Daeva Ascension Gauge Level 5", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 5", "status": "draft"}
+{"id": "String_STR_Test_Design_DaevaGaugeStep_06_body", "source": "Daeva Ascension Gauge Level 6", "translation": "Wskaźnik wniebowstąpienia Daevy, poziom 6", "status": "draft"}
+{"id": "String_STR_Test_Design_InstanceLayer_Test_body", "source": "Phase Quest Test", "translation": "Test zadania fazowego", "status": "draft"}
+{"id": "String_STR_Test_Design_MapEvent_O_001_body", "source": "Normal Objective1 for 1Step", "translation": "Zwykły cel 1 dla etapu 1", "status": "draft"}
+{"id": "String_STR_Test_Design_MapEvent_O_002_body", "source": "Normal Objective1 for 1Step (Optional)", "translation": "Zwykły cel 1 dla etapu 1 (opcjonalnie)", "status": "draft"}
+{"id": "String_STR_Test_Design_MapEvent_S_001_body", "source": "1Step's DESC", "translation": "Opis etapu 1", "status": "draft"}
+{"id": "String_STR_Test_Design_MapEvent_S_002_body", "source": "1Step's DESC for marking UO", "translation": "Opis etapu 1 przy oznaczaniu UO", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_Title_body", "source": "CloseNPC / KillNpcCreatureType Test", "translation": "Test: CloseNPC / KillNpcCreatureType", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_obj1_body", "source": "CloseNpc: Approach the General Goods Merchant", "translation": "CloseNpc: Podejdź do kupca z towarami ogólnymi", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_obj2_body", "source": "KillNpcCreatureType: Defeat 5 Intellect monsters", "translation": "KillNpcCreatureType: Pokonaj 5 potworów typu Cogni", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_obj3_body", "source": "Go to the trigger actor Pillar of Light", "translation": "Udaj się do aktora wyzwalającego Pillar of Light", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_obj4_body", "source": "KillSpawner: Defeat a target that has been spawned at a specific spawning location", "translation": "Pokonaj przeciwnika przywołanego w określonym miejscu.", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step1_obj5_body", "source": "Wave Clear", "translation": "Fala pokonana", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step2_Title_body", "source": "KillSubType Test", "translation": "Test: KillSubType", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step2_obj1_body", "source": "KillNpcSubType: Defeat 5 normal monsters", "translation": "KillNpcSubType: Pokonaj 5 zwykłych potworów", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step3_Title_body", "source": "KillNpcRelationshipEntity Test", "translation": "Test: KillNpcRelationshipEntity", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step3_obj1_body", "source": "KillNpcRelationshipEntity  : Defeat 5 monsters", "translation": "KillNpcRelationshipEntity: Pokonaj 5 potworów", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step4_Title_body", "source": "Kill Spawner Test", "translation": "Test niszczenia punktu odradzania", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Step4_obj1_body", "source": "Kill Spawner: Defeat Test_Design_Single_jhk0807_9 spawner monsters", "translation": "Pokonaj potwory przywoływane przez spawner Test_Design_Single_jhk0807_9.", "status": "draft"}
+{"id": "String_STR_Test_Design_Quest_ID_Stage1_Title_body", "source": "Phase Quest Test", "translation": "Test zadania fazowego", "status": "draft"}
+{"id": "String_STR_Test_EnterInstanceLayer_VillagerM_01_body", "source": "Enter after conversation NPC", "translation": "Wejdź po rozmowie z NPC", "status": "draft"}
+{"id": "String_STR_Test_EnterInstanceLayer_VillagerM_02_body", "source": "Enter without conversation NPC", "translation": "Wejdź bez rozmowy z NPC", "status": "draft"}
+{"id": "String_STR_Test_Inter_body", "source": "Interserver Test Map", "translation": "Mapa testowa międzyserwerowa", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_P01_body", "source": "Nania", "translation": "Nania", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_P02_body", "source": "Luteros", "translation": "Luteros", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_P03_body", "source": "Rohin", "translation": "Rohin", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_R01_body", "source": "First Record", "translation": "Pierwszy wpis", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_R02_body", "source": "Second Record", "translation": "Drugi wpis", "status": "draft"}
+{"id": "String_STR_Test_Journal_Collection_R03_body", "source": "Third Record", "translation": "Trzeci wpis", "status": "draft"}
+{"id": "String_STR_Test_Journal_Location_Ver01_body", "source": "Dawn Legion Base, Verteron", "translation": "Baza Legionu Świtu, Verteron", "status": "draft"}
+{"id": "String_STR_Test_Journal_Location_Ver02_body", "source": "Aullaeu Village, Verteron", "translation": "Wioska Aullaeu, Verteron", "status": "draft"}
+{"id": "String_STR_Test_Journal_desc_01_body", "source": "Transcending the Physical Form to Achieve True Freedom\nBakarma, who absorbed the energy flowing into the portal with his entire being, brushes through the boundaries of various dimensions alongside the portal.\nHaving crossed through dimensions and encountered various entities, Bakarma has come to regard the immense axis that spans the world, as well as the beings known as Elyos, Asmodians, and the Balaur, as insignificant.\nHe seeks to break free from the confines of being categorized as the Balaur.\nShedding his shell-like physical body and breaking the boundaries of soul and spirit, he aims to transcend the limitations of the souls possessed by Elyos, Asmodians, and the Balaur to become a free being.\n\nThe conditions for completing oneself and reaching a transcendent stage are as follows:\nFirst, the bloodline of a transcendent being.\nSecond, overcoming limitations and coming to understand the principles of the universe.\n\nIn Bakarma's case, he came to understand the the principles of the universe and achieved transcendence by passing through various dimensions via the portal.\nAfflicted Bakarma, not yet entirely free from his physical body, continues to meditate in a levitating state.", "translation": "Przekroczyć granice cielesności i osiągnąć prawdziwą wolność\nBakarma, który całym sobą wchłonął energię napływającą przez portal, razem z nim przemierza granice różnych wymiarów.\nPo podróży przez wymiary i spotkaniach z rozmaitymi istotami Bakarma uznał za nieistotną zarówno potężną oś przenikającą świat, jak i ludy znane jako Elyos, Asmodianie oraz Balaur.\nPragnie uwolnić się od ograniczeń wynikających z przynależności do Balaur.\nChce zrzucić cielesną powłokę i przekroczyć granice duszy oraz ducha, by wyjść poza ograniczenia dusz Elyos, Asmodian i Balaur i stać się wolną istotą.\n\nWarunki osiągnięcia pełni i wejścia na wyższy, transcendentny poziom są następujące:\nPo pierwsze, należy wywodzić się z rodu istot transcendentnych.\nPo drugie, trzeba przezwyciężyć ograniczenia i zrozumieć prawa wszechświata.\n\nBakarma zrozumiał prawa wszechświata i osiągnął transcendencję, przemierzając różne wymiary przez portal.\nCierpiący Bakarma, wciąż nie w pełni uwolniony od cielesnej powłoki, nadal medytuje, unosząc się w powietrzu.", "status": "draft"}
+{"id": "String_STR_Test_Journal_desc_02_body", "source": "After ascending as Arch Daeva, the heroes enter the Bulwark—a world free from the threats of the Balaur. Inside this realm, five agents govern society as representatives of the extinct gods. Reunited with Phernos, the heroes are assigned to the Elysium Guard, where Caelid serves.\n\nAs they carry out their duties as guards, the heroes meet various agents. Most are indifferent about gathering the Cores, but the Agent of Light criticizes them and proposes uniting to change the world. With Caelid, the heroes join the Masked Corps under the Agent of Light's command.\n\nThe Masked Corps begins eliminating political rivals and Arch Daeva, prompting Arch Daeva Esh to form a resistance force. The two sides confront each other while seeking Vaizel's Core. After securing Vaizel's Core, the Agent of Light attempts to eliminate the heroes and the Arch Daeva at the same time, with Caelid also betraying the heroes.\nThe heroes realize that the Agent of Light aims to become a god by completing the Artifact of Light, and they team up with the Arch Daeva to reclaim the stolen Vaizel's Core.\n\nThe heroes and the Arch Daeva resolve to stop the Agent of Light together and complete the artifact themselves.", "translation": "Po Wzniesieniu jako Arch Daeva bohaterowie trafiają do Bulwark — świata wolnego od zagrożenia ze strony Balaur. Społeczeństwem tego królestwa rządzi pięciu agentów reprezentujących wymarłych bogów. Po ponownym spotkaniu z Phernosem bohaterowie zostają przydzieleni do Straży Elyzjum, w której służy Caelid.\n\nPodczas pełnienia służby poznają kolejnych agentów. Większość z nich nie interesuje się zbieraniem Rdzeni, lecz Agent Światła krytykuje ich i proponuje wspólne działanie na rzecz zmiany świata. Bohaterowie i Caelid dołączają do Korpusu w Maskach pod dowództwem Agenta Światła.\n\nKorpus w Maskach zaczyna eliminować politycznych rywali i Arch Daeva, co skłania Arch Daeva Esha do utworzenia ruchu oporu. Obie strony ścierają się, szukając Rdzenia Vaizela. Po jego zdobyciu Agent Światła próbuje jednocześnie zgładzić bohaterów i Arch Daeva, a Caelid zdradza bohaterów.\nBohaterowie odkrywają, że Agent Światła chce stać się bogiem, kończąc Artefakt Światła. Wraz z Arch Daeva ruszają odzyskać skradziony Rdzeń Vaizela.\n\nBohaterowie i Arch Daeva postanawiają wspólnie powstrzymać Agenta Światła i samodzielnie dokończyć artefakt.", "status": "draft"}
+{"id": "String_STR_Test_L1_FieldEvent_01_body", "source": "Event Manager_Elyos_1", "translation": "Menedżer wydarzenia_Elyosi_1", "status": "draft"}
+{"id": "String_STR_Test_L1_FieldEvent_02_body", "source": "Event Manager_Elyos_2", "translation": "Menedżer wydarzenia_Elyosi_2", "status": "draft"}
+{"id": "String_STR_Test_L1_FieldEvent_03_body", "source": "Event Manager_Elyos_3", "translation": "Menedżer wydarzenia_Elyosi_3", "status": "draft"}
+{"id": "String_STR_Test_L1_FieldEvent_04_body", "source": "Event Manager_Elyos_4", "translation": "Menedżer wydarzenia_Elyosi_4", "status": "draft"}
+{"id": "String_STR_Test_LF_SW_01_body", "source": "Elyos Swordswoman", "translation": "Mieczniczka Elyosów", "status": "draft"}
+{"id": "String_STR_Test_LM_SW_01_body", "source": "Elyos Swordsman", "translation": "Miecznik Elyosów", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_10_body", "source": "Parents 40/None/Exceed", "translation": "Rodzice 40/Brak/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_11_body", "source": "Parents 40/None/None", "translation": "Rodzice 40/Brak/Brak", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_1_body", "source": "Parents 40/Exceed/Exceed", "translation": "Rodzice 40/Powyżej/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_2_body", "source": "Parents 40/Exceed/None", "translation": "Rodzice 40/Powyżej/Brak", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_3_body", "source": "Offspring 20/Exceed/None", "translation": "Potomstwo 20/Powyżej/Brak", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_4_body", "source": "Offspring 20/None/Exceed", "translation": "Potomstwo 20/Brak/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_5_body", "source": "Offspring 20/All/None", "translation": "Potomstwo 20/Wszystkie/Brak", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_6_body", "source": "Offspring 20/Exceed/Exceed", "translation": "Potomstwo 20/Powyżej/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_7_body", "source": "Offspring 20/All/Exceed", "translation": "Potomstwo 20/Wszystkie/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_8_body", "source": "Parents 40/All/Exceed", "translation": "Rodzice 40/Wszystkie/Powyżej", "status": "draft"}
+{"id": "String_STR_Test_LevelScale_Spawn_9_body", "source": "Parents 40/All/None", "translation": "Rodzice 40/Wszystkie/Brak", "status": "draft"}
+{"id": "String_STR_Test_N_Common_FE_RacingNPC_01_body", "source": "Test First Track", "translation": "Pierwszy tor testowy", "status": "draft"}
+{"id": "String_STR_Test_N_Common_FE_RacingNPC_02_body", "source": "Test Second Track", "translation": "Drugi tor testowy", "status": "draft"}
+{"id": "String_STR_Test_N_L1_Purification_body", "source": "Purification Test NPC", "translation": "Testowy NPC oczyszczania", "status": "draft"}
+{"id": "String_STR_Test_N_L1_Quest_Dummy_02_body", "source": "Transparent for Testing", "translation": "Przezroczysty obiekt testowy", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_Air_NPC_body", "source": "Air", "translation": "Powietrze", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_All_NPC_ANCIENT1_body", "source": "Primeval Spirit 1", "translation": "Pradawny duch 1", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_All_NPC_FIRE1_body", "source": "Fire Spirit 1", "translation": "Duch ognia 1", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_All_NPC_FIRE2_body", "source": "Fire Spirit 2", "translation": "Duch ognia 2", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_All_NPC_WATER1_body", "source": "Water Spirit 1", "translation": "Duch wody 1", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_All_NPC_body", "source": "All (Spirit)", "translation": "Wszystko (duch)", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_Ground_NPC_body", "source": "Ground", "translation": "Ziemia", "status": "draft"}
+{"id": "String_STR_Test_Object_Terrain_Type_Water_NPC_body", "source": "Water", "translation": "Woda", "status": "draft"}
+{"id": "String_STR_Test_Pedivh_01_body", "source": "Fediv Wraith", "translation": "Widmo Fediva", "status": "draft"}
+{"id": "String_STR_Test_Quest_Item_VQ1402001_body", "source": "Daeva's Abandoned Treasure", "translation": "Porzucony skarb Daeva", "status": "draft"}
+{"id": "String_STR_Test_SkinExtraction_body", "source": "Skin Extractor", "translation": "Ekstraktor skórek", "status": "draft"}
+{"id": "String_STR_Test_UE5_body", "source": "Test Map", "translation": "Mapa testowa", "status": "draft"}
+{"id": "String_STR_Title_D_u_Founders_Test_001_b_DESC_body", "source": "Grants the title [Test Daeva].", "translation": "Nadaje tytuł [Testowy Daeva].", "status": "draft"}
+{"id": "String_STR_Title_D_u_Founders_Test_001_b_body", "source": "Title: Test Daeva", "translation": "Tytuł: Testowy Daeva", "status": "draft"}
+{"id": "String_STR_Title_L_u_Founders_Test_001_b_DESC_body", "source": "Grants the title [Test Daeva].", "translation": "Nadaje tytuł [Testowy Daeva].", "status": "draft"}
+{"id": "String_STR_Title_L_u_Founders_Test_001_b_body", "source": "Title: Test Daeva", "translation": "Tytuł: Testowy Daeva", "status": "draft"}
+{"id": "String_STR_Tooltip_Soul_Bind_body", "source": "Bind", "translation": "Przypisz", "status": "draft"}
+{"id": "String_STR_TrackerCamp_Subzone_body", "source": "Searcher Campsite", "translation": "Obóz poszukiwaczy", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Cant_body", "source": "This account cannot be transferred.", "translation": "Nie można przenieść tego konta.", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Complete_body", "source": "Account transferred.\nPlease log in with the relevant account.", "translation": "Konto zostało przeniesione.\nZaloguj się na odpowiednie konto.", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Confirm_body", "source": "Would you like to transfer accounts?\nYou can only transfer an account once.\nBe careful when selecting the account you wish to transfer.", "translation": "Czy chcesz przenieść konto?\nMożesz przenieść konto tylko raz.\nUważnie wybierz konto do przeniesienia.", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Login_Crash_body", "source": "Account conflict occurred. Please log in again.", "translation": "Wystąpił konflikt kont. Zaloguj się ponownie.", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Login_Fail_body", "source": "Failed to log in with transferred account.", "translation": "Nie udało się zalogować na przeniesione konto.", "status": "draft"}
+{"id": "String_STR_Transfer_Account_Login_Success_body", "source": "Logged out due to updated account information.", "translation": "Wylogowano z powodu aktualizacji danych konta.", "status": "draft"}
+{"id": "String_STR_TrialAffix_1_body", "source": "Time Limit", "translation": "Limit czasu", "status": "draft"}
+{"id": "String_STR_TrialAffix_2_body", "source": "Resurrection Limit", "translation": "Limit wskrzeszeń", "status": "draft"}
+{"id": "String_STR_TrialAffix_3_body", "source": "Monster Buff", "translation": "Wzmocnienie potwora", "status": "draft"}
+{"id": "String_STR_TrialAffix_4_body", "source": "Boss Buff", "translation": "Wzmocnienie bossa", "status": "draft"}
+{"id": "String_STR_UI_ABYSS_EQUIP_SHOP_body", "source": "Abyss Gear Shop", "translation": "Sklep z wyposażeniem Otchłani", "status": "draft"}
+{"id": "String_STR_UI_ABYSS_GOODS_SHOP_body", "source": "Abyss General Shop", "translation": "Sklep wielobranżowy Otchłani", "status": "draft"}
+{"id": "String_STR_UI_ALCHEMY_SHOP_body", "source": "Alchemy Shop", "translation": "Sklep alchemiczny", "status": "draft"}
+{"id": "String_STR_UI_APRILFOOL_EVENT_SHOP_01_body", "source": "Subbi's Special Shop", "translation": "Specjalny sklep Subbiego", "status": "draft"}
+{"id": "String_STR_UI_ARMOR_SHOP_body", "source": "Armor Shop", "translation": "Sklep z pancerzami", "status": "draft"}
+{"id": "String_STR_UI_BLACKSMITHING_SHOP_body", "source": "Blacksmithing Shop", "translation": "Sklep kowalski", "status": "draft"}
+{"id": "String_STR_UI_CHILL_EVENT_SHOP_01_body", "source": "Fresh Lime Shop", "translation": "Sklep ze świeżą limonką", "status": "draft"}
+{"id": "String_STR_UI_CHRISTMAS_EVENT_SHOP_01_body", "source": "Festive Bell Shop", "translation": "Sklep z dzwonkami świątecznymi", "status": "draft"}
+{"id": "String_STR_UI_CHRISTMAS_EVENT_SHOP_02_body", "source": "Winter Snow Festival Command Shop", "translation": "Sklep dowodzenia Zimowego Festiwalu Śniegu", "status": "draft"}
+{"id": "String_STR_UI_COINDUNGEON_SHOP_body", "source": "Adventurer's Mark Shop", "translation": "Sklep za Znaki Poszukiwacza Przygód", "status": "draft"}
+{"id": "String_STR_UI_CONVERSION_SHOP_body", "source": "Substance Morph Shop", "translation": "Sklep transmutacji substancji", "status": "draft"}
+{"id": "String_STR_UI_COOKING_SHOP_body", "source": "Cooking Shop", "translation": "Sklep kulinarny", "status": "draft"}
+{"id": "String_STR_UI_DYE_SHOP_body", "source": "Dye Shop", "translation": "Sklep z barwnikami", "status": "draft"}
+{"id": "String_STR_UI_ENCHANT_BUTTON_ENCHANT_body", "source": "Enhance", "translation": "Ulepsz", "status": "draft"}
+{"id": "String_STR_UI_ENCHANT_GUIDETEXT_SELECT_ENCHANTITEM_body", "source": "Select Enhance Stone for Enhancement.", "translation": "Wybierz kamień ulepszenia.", "status": "draft"}
+{"id": "String_STR_UI_ENCHANT_GUIDETEXT_SELECT_ITEM_body", "source": "Select Gear", "translation": "Wybierz wyposażenie", "status": "draft"}
+{"id": "String_STR_UI_EQUIPMENT_SHOP_body", "source": "Gear Shop", "translation": "Sklep z wyposażeniem", "status": "draft"}
+{"id": "String_STR_UI_Enchant_Guide_Destruction_body", "source": "Destroyed upon Enhance failure.", "translation": "Przedmiot ulega zniszczeniu w przypadku niepowodzenia ulepszania.", "status": "draft"}
+{"id": "String_STR_UI_Enchant_Guide_Down_body", "source": "Level decreases upon Enhance failure.", "translation": "Poziom spada w przypadku niepowodzenia ulepszania.", "status": "draft"}
+{"id": "String_STR_UI_Enchant_Guide_Keep_body", "source": "Enhance Level preserved on failure.", "translation": "Poziom ulepszenia zostanie zachowany w razie niepowodzenia.", "status": "draft"}
+{"id": "String_STR_UI_Enchant_Guide_Max_body", "source": "Reached Max Enhance Level.", "translation": "Osiągnięto maksymalny poziom ulepszenia.", "status": "draft"}
+{"id": "String_STR_UI_FIELDEVENT_SHOP_body", "source": "Centuryroot Token Shop", "translation": "Sklep za żeton Centuryroot", "status": "draft"}
+{"id": "String_STR_UI_FOOD_SHOP_body", "source": "Food Shop", "translation": "Sklep spożywczy", "status": "draft"}
+{"id": "String_STR_UI_GROCERY_SHOP_body", "source": "General Shop", "translation": "Sklep wielobranżowy", "status": "draft"}
+{"id": "String_STR_UI_GUILD_SHOP_body", "source": "Legion Shop", "translation": "Sklep legionu", "status": "draft"}
+{"id": "String_STR_UI_HALLOWEEN_EVENT_SHOP_01_body", "source": "Halloween Pumpkin Coin Shop", "translation": "Sklep za monety z dynią Halloween", "status": "draft"}
+{"id": "String_STR_UI_JEWELCRAFTING_SHOP_body", "source": "Handicrafting Shop", "translation": "Sklep rękodzielniczy", "status": "draft"}
+{"id": "String_STR_UI_NIGHTMARE_SHOP_body", "source": "Nightmare Dungeons Shop", "translation": "Sklep z lochami Koszmaru", "status": "draft"}
+{"id": "String_STR_UI_QUESTSCROLL_SHOP_body", "source": "Command Shop", "translation": "Sklep dowodzenia", "status": "draft"}
+{"id": "String_STR_UI_SUL_EVENT_SHOP_01_body", "source": "Fortune Pouch Shop", "translation": "Sklep z sakiewkami szczęścia", "status": "draft"}
+{"id": "String_STR_UI_SUL_EVENT_SHOP_02_body", "source": "Fortune Pouch Key Shop", "translation": "Sklep z kluczami do sakiewek szczęścia", "status": "draft"}
+{"id": "String_STR_UI_SUMMER_EVENT_SHOP_01_body", "source": "Iridescent Conch Shell Shop", "translation": "Sklep z opalizującymi muszlami", "status": "draft"}
+{"id": "String_STR_UI_TAILORING_SHOP_body", "source": "Armorsmithing Shop", "translation": "Sklep z pancerzami", "status": "draft"}
+{"id": "String_STR_UI_TOKEN_CONVERSION_SHOP_body", "source": "Mark Morph Method Shop", "translation": "Metoda przemiany znaków", "status": "draft"}
+{"id": "String_STR_UI_VALENTINESDAY_EVENT_SHOP_01_body", "source": "Sweet Honeybee Shop", "translation": "Sklep ze słodkimi miodowymi pszczołami", "status": "draft"}
+{"id": "String_STR_UI_VALENTINESDAY_EVENT_SHOP_02_body", "source": "Sweetroot Shop", "translation": "Sklep ze słodkimi korzeniami", "status": "draft"}
+{"id": "String_STR_UI_WEAPON_SHOP_body", "source": "Weapons Shop", "translation": "Sklep z bronią", "status": "draft"}
+{"id": "String_STR_UNHANDLED_HTTP_STATUS_body", "source": "A connection error occurred. Please try again later.", "translation": "Wystąpił błąd połączenia. Spróbuj ponownie później.", "status": "draft"}
+{"id": "String_STR_UseRebirth_By_Other_body", "source": "{0} has granted you {1} effect.\nAccept the effect?", "translation": "{0} udostępnia efekt {1}.\nCzy zaakceptować efekt?", "status": "draft"}
+{"id": "String_STR_UseRebirth_By_Self_body", "source": "The {0} effect is available.\nApply the effect?", "translation": "Efekt {0} jest dostępny.\nCzy go zastosować?", "status": "draft"}
+{"id": "String_STR_VEHICLE_CREATURE_EFFECT_STAT_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_STR_VerifySession_Fail_Msg_body", "source": "No previous session info available.", "translation": "Brak informacji o poprzedniej sesji.", "status": "draft"}
+{"id": "String_STR_WEEKLY_RANKING_REWARD_VALID_TIME_body", "source": "Valid within 7 days of sending", "translation": "Ważne przez 7 dni od wysłania", "status": "draft"}
+{"id": "String_STR_WORLDEVENT_POPUP_POINT_PERSONAL_body", "source": "Contribution", "translation": "Wkład", "status": "draft"}
+{"id": "String_STR_WaterEle_01_body", "source": "Water Spirit", "translation": "Duch wody", "status": "draft"}
+{"id": "String_STR_WindEle_01_body", "source": "Wind Spirit", "translation": "Duch wiatru", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP2_1_body", "source": "Old Mercenaries Stronghold", "translation": "Twierdza Starych Najemników", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP2_2_body", "source": "Below the Dredgion Crash Site Cliff", "translation": "Urwisko poniżej miejsca katastrofy Dredgiona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP2_3_body", "source": "Drakana Condensation Zone", "translation": "Strefa kondensacji Drakany", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP2_4_body", "source": "Odyle Jelly Storage", "translation": "Magazyn galaretki Odyle", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP2_5_body", "source": "Old Stone Chamber", "translation": "Komnata Starego Kamienia", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP3_2_body", "source": "Crash Site Cave", "translation": "Jaskinia przy miejscu katastrofy Dredgiona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP3_3_body", "source": "Grisilla's Hideout", "translation": "Kryjówka Grisilli", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP3_5_body", "source": "Hermit's Cave", "translation": "Jaskinia Pustelnika", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP4_1_body", "source": "Sanctum Outpost", "translation": "Posterunek Sanctum", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP5_1_body", "source": "Highland Cave", "translation": "Jaskinia na Wyżynie", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP5_5_body", "source": "Old House", "translation": "Stary dom", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP6_1_body", "source": "Black Claw Storage", "translation": "Magazyn Black Claw", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP6_2_body", "source": "Temporary Clinic", "translation": "Tymczasowa przychodnia", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP6_3_body", "source": "Wedding Hall", "translation": "Sala weselna", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_EP6_4_body", "source": "Small House", "translation": "Mały dom", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_L_1_20_body", "source": "Cedric's Tombstone", "translation": "Nagrobek Cedrica", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_District_L_1_6_body", "source": "Contaminated Slime Purification Experiment Site", "translation": "Miejsce eksperymentu oczyszczania skażonego szlamu", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_1_Step_body", "source": "Get ready to go with Matir", "translation": "Przygotuj się do drogi z Matirem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_1_Title_body", "source": "Talk to Matir", "translation": "Porozmawiaj z Matirem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_2_Step_body", "source": "Locate the materials", "translation": "Odszukaj materiały", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_2_Title_body", "source": "Follow Matir", "translation": "Podążaj za Matirem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_3_Step_body", "source": "Check the Drakana Chunks", "translation": "Sprawdź odłamki Drakany", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_3_Title1_body", "source": "Obtain the sediment", "translation": "Zdobądź osad", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_3_Title2_body", "source": "Return Matir to a safe place", "translation": "Zaprowadź Matira w bezpieczne miejsce", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_4_Step_body", "source": "Deliver the sediment", "translation": "Dostarcz osad", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_4_Title_body", "source": "Talk to Matir", "translation": "Porozmawiaj z Matirem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_5_Title_body", "source": "Exit the Drakana Pool", "translation": "Opuść Basen Drakany", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_Stage1_body", "source": "Find the herbalist and gather neutralizer materials", "translation": "Odnajdź zielarza i zbierz materiały do neutralizatora", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_MapEvent_Stage2_body", "source": "Gather the neutralizer materials", "translation": "Zbierz materiały do neutralizatora", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ001_body", "source": "Drakana Pool", "translation": "Basen Drakany", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_1_Step_body", "source": "Prepare for battle with Ulgorn", "translation": "Przygotuj się do walki z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_1_Title_body", "source": "Talk to Keller", "translation": "Porozmawiaj z Keller", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_2_Step_body", "source": "Eliminate the traitors", "translation": "Zlikwiduj zdrajców", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_2_Title1_body", "source": "Defeat Keller's gang", "translation": "Pokonaj bandę Kellera", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_2_Title2_body", "source": "Defeat Keller", "translation": "Pokonaj Kellera", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_3_Step_body", "source": "Check Ulgorn's condition", "translation": "Sprawdź stan Ulgorna", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_3_Title_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_4_Step_body", "source": "Secure the remaining supplies", "translation": "Zabezpiecz pozostałe zapasy", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_4_Title1_body", "source": "Check the Supply Chest", "translation": "Sprawdź skrzynię z zaopatrzeniem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_4_Title2_body", "source": "Check Supply Chest Trigger", "translation": "Sprawdź wyzwalacz skrzyni z zapasami", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_5_Step_body", "source": "Discuss the subsequent situation", "translation": "Omów dalszą sytuację", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_5_Title_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_MapEvent_Desc_1_body", "source": "Give the materials and check the supplies for transport", "translation": "Przekaż materiały i sprawdź ładunek przed transportem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ002_body", "source": "Canyon Dispatch Area", "translation": "Canyon Dispatch Area", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_1_Title_body", "source": "Follow Ulgorn", "translation": "Podążaj za Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_2_Step_body", "source": "Discuss the situation", "translation": "Omów sytuację", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_2_Title_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_3_Step_body", "source": "Assess the situation at Quai Campsite", "translation": "Zorientuj się w sytuacji w obozie Quai", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_3_Title_body", "source": "Follow Ulgorn again", "translation": "Ponownie podążaj za Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_4_Step_body", "source": "Quell the chaos at Quai Campsite", "translation": "Zapanuj nad chaosem w obozie Quai", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_4_Title1_body", "source": "Defeat the Insane Daeva", "translation": "Pokonaj obłąkanego Daeva", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_4_Title2_body", "source": "Defeat 3 Insane Daeva", "translation": "Pokonaj 3 obłąkanych Daeva", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_5_Step_body", "source": "Stop additional threats", "translation": "Powstrzymaj kolejne zagrożenia", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_5_Title_body", "source": "Defeat the additional Insane Daeva", "translation": "Pokonaj kolejnych obłąkanych Daeva", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_6_Step_body", "source": "Assess the situation", "translation": "Oceń sytuację", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_6_Title_body", "source": "Talk to Baba", "translation": "Porozmawiaj z Babą", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_Desc_1_body", "source": "Meet Baba at Quai Campsite", "translation": "Spotkaj się z Babą w obozie Quai", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ003_MapEvent_Desc_2_body", "source": "Quell the chaos at Quai Campsite", "translation": "Zapanuj nad chaosem w obozie Quai", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_1_Step_body", "source": "Inquire about Brok's whereabouts", "translation": "Dowiedz się, gdzie jest Brok", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_1_Title_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_2_Step_body", "source": "Find Wudsson's valuables", "translation": "Odnajdź kosztowności Wudssona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_1_body", "source": "Retrieve the bag", "translation": "Odzyskaj torbę", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_2_body", "source": "Retrieve the ledger", "translation": "Odzyskaj księgę rachunkową", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_3_body", "source": "Go to the location of the lost items", "translation": "Udaj się na miejsce, gdzie zaginęły przedmioty", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_2_Title_4_body", "source": "Go to the location of Wudsson's items", "translation": "Udaj się na miejsce, gdzie znajdują się przedmioty Wudssona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_3_Step_body", "source": "Go to a safe area", "translation": "Udaj się w bezpieczne miejsce", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title1_body", "source": "Go towards the crematorium", "translation": "Udaj się w stronę krematorium", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title2_body", "source": "Talk to Ulgorn", "translation": "Porozmawiaj z Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_3_Title3_body", "source": "Arrive at the stairs in front of Ulgorn", "translation": "Dojdź do schodów przed Ulgornem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_4_Step_body", "source": "Defeat the swarming Undead", "translation": "Pokonaj atakujące nieumarłe istoty", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title1_body", "source": "Defeat {NPC:M_D1_HQ_GraveGh_01}", "translation": "Pokonaj {NPC:M_D1_HQ_GraveGh_01}", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title2_body", "source": "Defeat the second Wave of Black Souls", "translation": "Pokonaj drugą falę Czarnych Dusz", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_4_Title3_body", "source": "Defeat 5 Black Souls", "translation": "Pokonaj 5 Czarnych Dusz", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_5_Step_body", "source": "Check Wudsson's status", "translation": "Sprawdź stan Wudssona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_5_Title_body", "source": "Talk to Wudsson", "translation": "Porozmawiaj z Wudssonem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_6_Step_body", "source": "Go and assess the situation", "translation": "Idź ocenić sytuację", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_6_Title_body", "source": "Go to Wudsson with Ulgorn", "translation": "Udaj się z Ulgornem do Wudssona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_7_Step_body", "source": "Defeat the Grave Undead Knight that suddenly appeared", "translation": "Pokonaj niespodziewanie przybyłego rycerza grobowych nieumarłych", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_7_Title_body", "source": "Defeat {NPC:M_D1_Q_GraveUn_02_02}", "translation": "Pokonaj {NPC:M_D1_Q_GraveUn_02_02}", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ004_MapEvent_Desc_1_body", "source": "Obtain information about Brok", "translation": "Zdobądź informacje o Broku", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ005_body", "source": "Hidden Cave", "translation": "Ukryta jaskinia", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_1_body", "source": "Search the Fallen Tree", "translation": "Przeszukaj powalone drzewo", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_2_body", "source": "Wait until Nemon arrives", "translation": "Poczekaj na przybycie Nemona", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_3_body", "source": "Talk to Elle", "translation": "Porozmawiaj z Elle", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_4_body", "source": "Search the Fallen Tree", "translation": "Przeszukaj powalone drzewo", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_5_1_body", "source": "Find all of the young Elim", "translation": "Odnajdź wszystkie młode Elimy", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_5_body", "source": "Talk to Dart", "translation": "Porozmawiaj z Dartem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_7_body", "source": "Defeat Blades", "translation": "Pokonaj Blood Blades", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Desc_8_body", "source": "Talk to Dart", "translation": "Porozmawiaj z Dartem", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Stage_1_body", "source": "Find the hiding young Elim", "translation": "Odnajdź ukrywające się młode Elimy", "status": "draft"}
+{"id": "String_STR_World_D_A_Layer_HQ006_MapEvent_Step_1_body", "source": "Find the hiding Elim", "translation": "Odnajdź ukrywającego się Elima", "status": "draft"}

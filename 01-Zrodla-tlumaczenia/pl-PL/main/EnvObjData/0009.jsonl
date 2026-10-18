@@ -21,7 +21,7 @@
 {"id": "EnvObjData_E_D2_R2_Garrison_DeadVillagerM_D_06_desc", "source": "Corpse", "translation": "Zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_D2_R2_Garrison_DeadVillagerM_D_07_desc", "source": "Corpse", "translation": "Zwłoki", "status": "draft"}
 {"id": "EnvObjData_E_D2_R2_Garrison_DeadVillagerM_D_08_desc", "source": "Corpse", "translation": "Zwłoki", "status": "draft"}
-{"id": "EnvObjData_E_D2_R2_Garrison_OldBox_02_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D2_R2_Garrison_OldBox_02_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_D2_R2_Garrison_OldLeatherBag_02_1_desc", "source": "Worn Bag", "translation": "Zużyta torba", "status": "draft"}
 {"id": "EnvObjData_E_D2_R2_Garrison_OldLeatherBag_02_2_desc", "source": "Worn Bag", "translation": "Zużyta torba", "status": "draft"}
 {"id": "EnvObjData_E_D2_R2_Garrison_OwlBox_02_CV01_desc", "source": "Large Supply Chest", "translation": "Duża skrzynia z zaopatrzeniem", "status": "draft"}
@@ -46,13 +46,16 @@
 {"id": "EnvObjData_E_D2_TeleportArtifact_002_desc", "source": "Blizzard Valley", "translation": "Dolina Zamieci", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_003_desc", "source": "Frozen Valley", "translation": "Zamarznięta Dolina", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_004_desc", "source": "Snowfield Cliff", "translation": "Klif Śnieżnego Pola", "status": "draft"}
-{"id":"EnvObjData_E_D2_TeleportArtifact_005_desc","source":"Eye of Muspel","translation":"Oko Muspela","status":"draft"}
+{"id": "EnvObjData_E_D2_TeleportArtifact_005_desc", "source": "Eye of Muspel", "translation": "Oko Muspela", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_006_desc", "source": "Volcanic Foothill", "translation": "Podnóże wulkanu", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_007_desc", "source": "Heat's Edge", "translation": "Skraj Żaru", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_008_desc", "source": "Lava Stream Cliff", "translation": "Klif Strumienia Lawy", "status": "draft"}
 {"id": "EnvObjData_E_D2_TeleportArtifact_009_desc", "source": "Chilly Hill", "translation": "Chłodne Wzgórze", "status": "draft"}
 {"id": "EnvObjData_E_D2_TrackerCamp_TeleportArtifact_desc", "source": "Searcher Campsite", "translation": "Obozowisko Poszukiwaczy", "status": "draft"}
 {"id": "EnvObjData_E_D2_UQ_BalaurBox_01_desc", "source": "Weapon Chest", "translation": "Skrzynia z bronią", "status": "draft"}
+{"id": "EnvObjData_E_D_Event_HalloweenCandyBox_01_CV_01_desc", "source": "Yellow Halloween Candy", "translation": "Żółty cukierek halloweenowy", "status": "draft"}
+{"id": "EnvObjData_E_D_Event_HalloweenCandyBox_01_CV_02_desc", "source": "Blue Halloween Candy", "translation": "Niebieski cukierek halloweenowy", "status": "draft"}
+{"id": "EnvObjData_E_D_Event_HalloweenCandyBox_01_desc", "source": "Red Halloween Candy", "translation": "Czerwony cukierek halloweenowy", "status": "draft"}
 {"id": "EnvObjData_E_D_Starter_HQ001_Cart_001_desc", "source": "Remnants of the Broken Cart", "translation": "Pozostałości rozbitego wozu", "status": "draft"}
 {"id": "EnvObjData_E_D_Starter_HQ002_Logbook_01_desc", "source": "Pile of Airship Logs", "translation": "Stos dzienników pokładowych", "status": "draft"}
 {"id": "EnvObjData_E_D_Starter_HQ002_Package_01_desc", "source": "Bundle of Luggage", "translation": "Wiązka bagaży", "status": "draft"}
@@ -89,7 +92,7 @@
 {"id": "EnvObjData_E_Deco_BrokenWeapon_001_desc", "source": "Broken Weapon", "translation": "Złamana broń", "status": "draft"}
 {"id": "EnvObjData_E_Deco_CarasCorpse_01_desc", "source": "Karas Corpse", "translation": "Zwłoki Karas", "status": "draft"}
 {"id": "EnvObjData_E_Deco_CarasCorpse_02_desc", "source": "Karas Corpse", "translation": "Zwłoki Karas", "status": "draft"}
-{"id":"EnvObjData_E_Deco_Cart_001_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_Deco_Cart_001_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_Deco_Cart_03_desc", "source": "Fafnite Cart", "translation": "Wózek z Fafnitem", "status": "draft"}
 {"id": "EnvObjData_E_Deco_ClosedStoneCoffin_001_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
 {"id": "EnvObjData_E_Deco_ClosedStoneCoffin_01_V01_desc", "source": "Stone Casket", "translation": "Kamienna trumna", "status": "draft"}
@@ -184,10 +187,10 @@
 {"id": "EnvObjData_E_Draconic_002_Easy_BUFF_04_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Easy_BUFF_05_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Easy_BUFF_06_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id":"EnvObjData_E_Draconic_002_Easy_BossPortal_01_desc","source":"Courage Plaza","translation":"Plac Odwagi","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Easy_BossPortal_02_desc","source":"Fighting Spirit Plaza","translation":"Plac Waleczności","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Easy_BossPortal_03_desc","source":"Fury Plaza","translation":"Plac Furii","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Easy_BossPortal_04_desc","source":"Annihilation Plaza","translation":"Plac Zagłady","status":"draft"}
+{"id": "EnvObjData_E_Draconic_002_Easy_BossPortal_01_desc", "source": "Courage Plaza", "translation": "Plac Odwagi", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Easy_BossPortal_02_desc", "source": "Fighting Spirit Plaza", "translation": "Plac Waleczności", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Easy_BossPortal_03_desc", "source": "Fury Plaza", "translation": "Plac Furii", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Easy_BossPortal_04_desc", "source": "Annihilation Plaza", "translation": "Plac Zagłady", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Easy_Portal_01_desc", "source": "Central Plaza", "translation": "Plac Centralny", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Hard_BUFF_01_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Hard_BUFF_02_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
@@ -195,10 +198,10 @@
 {"id": "EnvObjData_E_Draconic_002_Hard_BUFF_04_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Hard_BUFF_05_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Hard_BUFF_06_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id":"EnvObjData_E_Draconic_002_Hard_BossPortal_01_desc","source":"Courage Plaza","translation":"Plac Odwagi","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Hard_BossPortal_02_desc","source":"Fighting Spirit Plaza","translation":"Plac Waleczności","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Hard_BossPortal_03_desc","source":"Fury Plaza","translation":"Plac Furii","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Hard_BossPortal_04_desc","source":"Annihilation Plaza","translation":"Plac Zagłady","status":"draft"}
+{"id": "EnvObjData_E_Draconic_002_Hard_BossPortal_01_desc", "source": "Courage Plaza", "translation": "Plac Odwagi", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Hard_BossPortal_02_desc", "source": "Fighting Spirit Plaza", "translation": "Plac Waleczności", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Hard_BossPortal_03_desc", "source": "Fury Plaza", "translation": "Plac Furii", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Hard_BossPortal_04_desc", "source": "Annihilation Plaza", "translation": "Plac Zagłady", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Hard_Portal_01_desc", "source": "Central Plaza", "translation": "Plac Centralny", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Normal_BUFF_01_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Normal_BUFF_02_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
@@ -206,10 +209,10 @@
 {"id": "EnvObjData_E_Draconic_002_Normal_BUFF_04_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Normal_BUFF_05_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Normal_BUFF_06_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id":"EnvObjData_E_Draconic_002_Normal_BossPortal_01_desc","source":"Courage Plaza","translation":"Plac Odwagi","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Normal_BossPortal_02_desc","source":"Fighting Spirit Plaza","translation":"Plac Waleczności","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Normal_BossPortal_03_desc","source":"Fury Plaza","translation":"Plac Furii","status":"draft"}
-{"id":"EnvObjData_E_Draconic_002_Normal_BossPortal_04_desc","source":"Annihilation Plaza","translation":"Plac Zagłady","status":"draft"}
+{"id": "EnvObjData_E_Draconic_002_Normal_BossPortal_01_desc", "source": "Courage Plaza", "translation": "Plac Odwagi", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Normal_BossPortal_02_desc", "source": "Fighting Spirit Plaza", "translation": "Plac Waleczności", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Normal_BossPortal_03_desc", "source": "Fury Plaza", "translation": "Plac Furii", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_002_Normal_BossPortal_04_desc", "source": "Annihilation Plaza", "translation": "Plac Zagłady", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_002_Normal_Portal_01_desc", "source": "Central Plaza", "translation": "Plac Centralny", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_003_Test_BossPortal_01_desc", "source": "Left Atrium", "translation": "Lewy przedsionek", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_003_Test_BossPortal_02_desc", "source": "Left Ventricle", "translation": "Lewa komora", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_Draconic_004_Hell_BUFF_03_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_004_Hell_BUFF_04_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_004_Hell_BUFF_05_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id": "EnvObjData_E_Draconic_004_Hell_BUFF_06_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id": "EnvObjData_E_Draconic_004_Normal_BUFF_01_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
-{"id": "EnvObjData_E_Draconic_004_Normal_BUFF_02_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}

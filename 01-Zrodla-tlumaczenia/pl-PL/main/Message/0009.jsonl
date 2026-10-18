@@ -1,250 +1,250 @@
-{"id":"Message_MSG_SHOP_WAREHOUSE_GOODS_NOT_FOUND_body","source":"No items available to receive.","translation":"Brak przedmiotów do odebrania.","status":"draft"}
-{"id":"Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_FAIL_02_body","source":"An unexpected error has occurred during item delivery.\nPlease check the Cube/Owned Currency/Related Content category and then try again.","translation":"Wystąpił nieoczekiwany błąd podczas odbierania przedmiotów.\nSprawdź kategorie Kostka/Posiadana waluta/Powiązana zawartość i spróbuj ponownie.","status":"draft"}
-{"id":"Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_FAIL_body","source":"Failed to receive the items due to an unexpected error.\nPlease try again later.","translation":"Nie udało się odebrać przedmiotów z powodu nieoczekiwanego błędu.\nSpróbuj ponownie później.","status":"draft"}
-{"id":"Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_SUCCESS_body","source":"Obtained {0}.\nPlease check the Cube/Owned Currency/Related Contents category.","translation":"Zdobyto: {0}.\nSprawdź kategorie Kostka/Posiadana waluta/Powiązana zawartość.","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_HIGHHIGH_CHECKPOINT_UPDATE_body","source":"Resurrection checkpoint reached.","translation":"Osiągnięto punkt wskrzeszenia.","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_MENU_CANT_MOVE_body","source":"Cannot travel to Shugo Festival because it is not active.","translation":"Nie można przenieść się na Festiwal Shugo, ponieważ się nie rozpoczął.","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_MENU_CANT_TELEPORT_body","source":"Cannot teleport to Shugo Festival because it is not active.","translation":"Nie można teleportować się na Festiwal Shugo, ponieważ się nie rozpoczął.","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_1S_body","source":"Time left until finding answer: 1s","translation":"Czas na znalezienie odpowiedzi: 1 s","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_2S_body","source":"Time left until finding answer: 2s","translation":"Czas na znalezienie odpowiedzi: 2 s","status":"draft"}
-{"id":"Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_3S_body","source":"Time left until finding answer: 3s","translation":"Czas na znalezienie odpowiedzi: 3 s","status":"draft"}
-{"id":"Message_MSG_SKILLMACRO_CANCEL_BY_PRESETSWAP_body","source":"Macro stopped due to a preset change.","translation":"Makro zatrzymano z powodu zmiany zestawu.","status":"draft"}
-{"id":"Message_MSG_SKILLMACRO_CANNOT_SET_SKILL_body","source":"Cannot register skill.","translation":"Nie można zarejestrować umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILLMACRO_CANNOT_USE_SKILL_body","source":"No usable skills available.","translation":"Brak dostępnych umiejętności do użycia.","status":"draft"}
-{"id":"Message_MSG_SKILLMACRO_EMPTY_SKILL_body","source":"No skills registered.","translation":"Nie zarejestrowano żadnych umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILLPRESET_SWAP_COMPLETE_body","source":"Skills changed to Preset {0}.","translation":"Zmieniono umiejętności na zestaw {0}.","status":"draft"}
-{"id":"Message_MSG_SKILL_ACQUIRED_ALREADY_body","source":"Skill has already been acquired.","translation":"Ta umiejętność została już zdobyta.","status":"draft"}
-{"id":"Message_MSG_SKILL_LEVELUP_CONDITION_NOT_ENOUGH_body","source":"Level Up requirements not met.","translation":"Nie spełniono wymagań awansu na wyższy poziom.","status":"draft"}
-{"id":"Message_MSG_SKILL_LEVELUP_NOT_AVAILABLE_SKILL_PREVIEW_INFO_body","source":"Cannot level up skills in preview mode.","translation":"W trybie podglądu nie można podnosić poziomu umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILL_LEVELUP_NOT_ENOUGH_PC_LEVEL_body","source":"Insufficient character level.","translation":"Poziom postaci jest zbyt niski.","status":"draft"}
-{"id":"Message_MSG_SKILL_LEVELUP_NOT_ENOUGH_SKILL_POINT_body","source":"Insufficient Skill Points.","translation":"Za mało punktów umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILL_LEVELUP_SUCCESS_body","source":"[{0}] is now Lv. [{1}].","translation":"[{0}] osiąga poziom [{1}].","status":"draft"}
-{"id":"Message_MSG_SKILL_LONG_PRESS_TIME_LIMITED_USE_body","source":"Holding down the same key for an extended period will pause skill repetition.\nRelease the key and press it again.","translation":"Długie przytrzymanie tego samego klawisza wstrzyma powtarzanie umiejętności.\nPuść klawisz i naciśnij go ponownie.","status":"draft"}
-{"id":"Message_MSG_SKILL_RESET_ALL_body","source":"All skills have been reset. Acquired {0} Skill Point(s).","translation":"Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILL_RESET_FAILED_NOT_ENOUGH_COST_body","source":"Cannot afford reset cost.","translation":"Za mało środków na reset.","status":"draft"}
-{"id":"Message_MSG_SKILL_RESET_NO_TARGET_body","source":"No skills available to reset.","translation":"Brak umiejętności do zresetowania.","status":"draft"}
-{"id":"Message_MSG_SKILL_RESET_SINGLE_body","source":"Acquired {1} Skill Point(s) from resetting [{0}].","translation":"Za zresetowanie [{0}] otrzymano {1} pkt. umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILL_SETTING_MACRO_DELAYLIMIT_body","source":"The entered value is outside the accepted range.\nDelay can be set between 10ms and 9,900ms.","translation":"Wprowadzona wartość wykracza poza dozwolony zakres.\nOpóźnienie można ustawić w zakresie od 10 ms do 9900 ms.","status":"draft"}
-{"id":"Message_MSG_SKILL_SETTING_MACRO_EMPTY_body","source":"No macro set.","translation":"Nie ustawiono makra.","status":"draft"}
-{"id":"Message_MSG_SKILL_SETTING_MACRO_FULL_body","source":"Exceeded number of registrable macros.\nTry again after deleting unused macros.","translation":"Przekroczono limit rejestrowanych makr.\nUsuń nieużywane makra i spróbuj ponownie.","status":"draft"}
-{"id":"Message_MSG_SKILL_SETTING_MACRO_UNUSABLE_body","source":"Cannot activate macro in current state.","translation":"Nie można aktywować makra w obecnym stanie.","status":"draft"}
-{"id":"Message_MSG_SKILL_SKILL_AQCUIRE_body","source":"Must acquire the prerequisite skills first.","translation":"Najpierw zdobądź wymagane umiejętności.","status":"draft"}
-{"id":"Message_MSG_SKILL_TAB_UNLOCK_STIGMA_body","source":"Stigma Skill unlocked.","translation":"Odblokowano umiejętność stigmy.","status":"draft"}
-{"id":"Message_MSG_SKILL_UI_UNAVAILABLE_BY_FIXSKILLLEVEL_body","source":"Unavailable while skill level is fixed.","translation":"Niedostępne, gdy poziom umiejętności jest zablokowany.","status":"draft"}
-{"id":"Message_MSG_SKINSHOP_BUY_SUCCESS_body","source":"Purchased {0}.\nCheck equipped list in Closet.","translation":"Kupiono: {0}.\nSprawdź listę założonych elementów w garderobie.","status":"draft"}
-{"id":"Message_MSG_SKIN_ACQUIRE_body","source":"{0} Skin acquired.","translation":"Zdobyto skórkę: {0}.","status":"draft"}
-{"id":"Message_MSG_SKIN_ALREADY_EQUIPPED_body","source":"Skin already equipped.","translation":"Ta skórka jest już założona.","status":"draft"}
-{"id":"Message_MSG_SKIN_BOOKMARK_MAX_body","source":"Up to {0} favorites can be registered.","translation":"Można dodać maksymalnie {0} ulubionych.","status":"draft"}
-{"id":"Message_MSG_SKIN_BUFF_ERROR_NOT_ENOUGH_POINT_body","source":"Insufficient Closet Points.","translation":"Za mało punktów garderoby.","status":"draft"}
-{"id":"Message_MSG_SKIN_BUFF_ERROR_NOT_ENOUGH_SLOT_body","source":"Insufficient Effect slots.","translation":"Za mało miejsc na efekty.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_AUTO_REGISTRATION_ERROR_body","source":"No Skins to auto-register.","translation":"Brak skórek do automatycznej rejestracji.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_FILTER_BUTTON_ERROR_body","source":"No Skins to apply filter to.","translation":"Brak skórek, do których można zastosować filtr.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_CANNOT_REGISTER_body","source":"Cannot use more {0}.","translation":"Nie można użyć większej liczby: {0}.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_NO_ADD_body","source":"Insufficient {0}.","translation":"Za mało: {0}.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_NO_ITEM_body","source":"No {0} owned.","translation":"Nie masz: {0}.","status":"draft"}
-{"id":"Message_MSG_SKIN_COMBINE_RESET_ERROR_body","source":"No skin to reset.","translation":"Brak skórki do zresetowania.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_BUY_SUCCESS_body","source":"Customization applied.","translation":"Zastosowano personalizację.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_EMPTY_SLOT_body","source":"Among uncustomized Skins, the Skin in the first slot will be equipped.","translation":"Spośród niepersonalizowanych skórek zostanie założona ta z pierwszego miejsca.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_LR_SELECTION_REQUIRED_body","source":"Select the L/R slot to customize.","translation":"Wybierz lewe/prawe miejsce do personalizacji.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NOT_REMOVE_PATTERN_COLOR_body","source":"No pattern color available for removal.","translation":"Brak koloru wzoru do usunięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NO_DECO_body","source":"No customization to revert.","translation":"Brak personalizacji do cofnięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NO_DYE_body","source":"No dye to revert.","translation":"Brak barwnika do cofnięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NO_MATERIAL_body","source":"No material to revert.","translation":"Brak materiału do cofnięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NO_PATTERN_COLOR_body","source":"No pattern color to revert.","translation":"Brak koloru wzoru do cofnięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_ERROR_NO_PATTERN_body","source":"No pattern to revert.","translation":"Brak wzoru do cofnięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_INDEX_CANNOT_CHANGE_body","source":"You can only change the Index of customized Skins.","translation":"Indeks można zmieniać tylko w spersonalizowanych skórkach.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_INDEX_CHANGE_REQUIRED_body","source":"Please finish changing the Index.","translation":"Dokończ zmianę indeksu.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_INDEX_SELECT_body","source":"Select a Dye/Material/Pattern to set as an Index.","translation":"Wybierz barwnik, materiał lub wzór, który ma być indeksem.","status":"draft"}
-{"id":"Message_MSG_SKIN_DECO_PRESET_SAME_NOW_body","source":"This Customization Preset is already applied.","translation":"Ten zestaw personalizacji jest już zastosowany.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_BUY_CHECK_UNAPPLIED_PART_body","source":"Non-customizable parts cannot be selected.","translation":"Nie można wybrać elementów, których nie da się personalizować.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_BUY_NOT_ENOUGH_CURRENCY_body","source":"Insufficient currency.","translation":"Za mało waluty.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_BUY_NO_MATERIALS_AVAILABLE_body","source":"No Decor for purchase.","translation":"Brak ozdób do kupienia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_ERROR_HIDDEN_body","source":"Hidden skins cannot be customized.","translation":"Ukrytych skórek nie można personalizować.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_ERROR_NOT_EQUIP_body","source":"Unequipped skins cannot be customized.","translation":"Niezałożonych skórek nie można personalizować.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_ERROR_Not_Registered_body","source":"No skin to customize in selected slot.","translation":"W wybranym miejscu nie ma skórki do personalizacji.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_ERROR_Not_Skin_body","source":"Slot has no customizable skin.","translation":"W tym miejscu nie ma skórki, którą można personalizować.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_PALETTE_ERROR_UNSELECTED_SKINAREA_body","source":"Select an area to dye.","translation":"Wybierz obszar do zabarwienia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_PALETTE_ERROR_UNSELECTED_SKIN_body","source":"Select a skin to dye.","translation":"Wybierz skórkę do zabarwienia.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_PALETTE_GET_COLOR_MAX_body","source":"Up to 100,000 dyes can be registered in the Closet.","translation":"W garderobie można zarejestrować maksymalnie 100 000 barwników.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_PALETTE_GET_COLOR_body","source":"Dye registered in Closet: {0} x{1}","translation":"Zarejestrowano barwnik w garderobie: {0} x{1}","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_SAVE_ERROR_NOT_ENOUGH_COLOR_body","source":"Insufficient palette colors to dye.","translation":"Za mało kolorów w palecie, aby użyć barwnika.","status":"draft"}
-{"id":"Message_MSG_SKIN_DYE_SAVE_ERROR_NOT_UNREGISTERED_SKIN_body","source":"Can only apply dye on owned skins.","translation":"Barwnik można stosować tylko na posiadanych skórkach.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Not_Remove_Dye_body","source":"No dye available for removal.","translation":"Brak barwnika do usunięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Not_Remove_Material_body","source":"No material available for removal.","translation":"Brak materiału do usunięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Not_Remove_Pattern_body","source":"No pattern available for removal.","translation":"Brak wzoru do usunięcia.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_body","source":"Can only select a pattern color for area with an applied pattern.","translation":"Kolor wzoru można wybrać tylko dla obszaru, na którym zastosowano wzór.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_color_option_body","source":"Select a pattern color to configure.","translation":"Wybierz kolor wzoru do skonfigurowania.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_option_body","source":"Select a pattern to configure.","translation":"Wybierz wzór do skonfigurowania.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Same_Dye_body","source":"Color already applied.","translation":"Ten kolor jest już zastosowany.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Same_Material_body","source":"Material already applied.","translation":"Ten materiał jest już zastosowany.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Same_Pattern_Dye_body","source":"Pattern color already applied. Changing transparency will consume additional dye.","translation":"Ten kolor wzoru jest już zastosowany. Zmiana przezroczystości zużyje dodatkowy barwnik.","status":"draft"}
-{"id":"Message_MSG_SKIN_Deco_ERROR_Same_Pattern_body","source":"Pattern already applied. Changing transparency, size, and type will consume additional patterns.","translation":"Ten wzór jest już zastosowany. Zmiana przezroczystości, rozmiaru lub typu zużyje dodatkowe wzory.","status":"draft"}
-{"id":"Message_MSG_SKIN_EXTRACTION_ERROR_ALREADY_REGISTERED_body","source":"Skin already registered. Check the Closet.","translation":"Ta skórka jest już zarejestrowana. Sprawdź garderobę.","status":"draft"}
-{"id":"Message_MSG_SKIN_EXTRACTION_ERROR_NOT_EQUIPMENT_body","source":"Skin already registered.","translation":"Ta skórka jest już zarejestrowana.","status":"draft"}
-{"id":"Message_MSG_SKIN_EXTRACTION_FAIL_body","source":"Failed to extract skin.","translation":"Nie udało się pozyskać skórki.","status":"draft"}
-{"id":"Message_MSG_SKIN_EXTRACTION_NOTHING_body","source":"No registered items.","translation":"Brak zarejestrowanych przedmiotów.","status":"draft"}
-{"id":"Message_MSG_SKIN_HOOD_EQUIP_HIDE_HELMET_body","source":"Helm skin is not shown when a hood is equipped.","translation":"Po założeniu kaptura wygląd hełmu nie jest wyświetlany.","status":"draft"}
-{"id":"Message_MSG_SKIN_Material_GET_MAX_body","source":"Up to 100,000 materials can be registered in the Closet.","translation":"W garderobie można zarejestrować maksymalnie 100 000 materiałów.","status":"draft"}
-{"id":"Message_MSG_SKIN_Material_GET_body","source":"Material registered in Closet: {0} x{1}","translation":"Zarejestrowano materiał w garderobie: {0} x{1}","status":"draft"}
-{"id":"Message_MSG_SKIN_NO_DECO_AVAILABLE_body","source":"Skin cannot be customized.","translation":"Nie można personalizować tej skórki.","status":"draft"}
-{"id":"Message_MSG_SKIN_PRESET_CHANGE_COOLTIME_body","source":"Skin preset is on standby. Please try again later.","translation":"Zmiana zestawu skórek jest w trakcie odnowienia. Spróbuj ponownie później.","status":"draft"}
-{"id":"Message_MSG_SKIN_PRESET_CHANGE_body","source":"Skin changed to Preset {0}.","translation":"Zmieniono skórkę na zestaw {0}.","status":"draft"}
-{"id":"Message_MSG_SKIN_PREVIEW_OPTION_WING_NO_WEAPON_body","source":"No weapons equipped.","translation":"Nie założono broni.","status":"draft"}
-{"id":"Message_MSG_SKIN_PREVIEW_OPTION_WING_NO_WING_body","source":"No wings equipped.","translation":"Nie założono skrzydeł.","status":"draft"}
-{"id":"Message_MSG_SKIN_Pattern_GET_MAX_body","source":"Up to 100,000 patterns can be registered in the Closet.","translation":"W garderobie można zarejestrować maksymalnie 100 000 wzorów.","status":"draft"}
-{"id":"Message_MSG_SKIN_Pattern_GET_body","source":"Pattern registered in Closet: {0} x{1}","translation":"Zarejestrowano wzór w garderobie: {0} x{1}","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_CANNOT_CANNOT_BUY_OWNED_ITEM_body","source":"Cannot purchase items you already own.","translation":"Nie można kupić posiadanych już przedmiotów.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_CANNOT_EQUIP_CLASS_body","source":"Cannot be equipped by this class.","translation":"Ta klasa nie może tego założyć.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_CANNOT_NOT_ENOUGH_CURRENCY_body","source":"Insufficient currency.","translation":"Za mało waluty.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_DECO_PRESET_PREVIEW_body","source":"This is a Customization Preset preview.","translation":"To podgląd zestawu personalizacji.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_OWNED_ITEMS_CANNOT_BUY_body","source":"Additional purchase unavailable.","translation":"Nie można kupić kolejnego egzemplarza.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_PURCHASE_LEVEL_LIMITED_body","source":"This level cannot be purchased.","translation":"Nie można kupić tego poziomu.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_SALE_PERIOD_LIMITED_body","source":"It is not currently the purchase period for this item.","translation":"Obecnie nie trwa okres sprzedaży tego przedmiotu.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_SELECTED_PRODUCT_NOT_FOUND_body","source":"No items selected.","translation":"Nie wybrano żadnych przedmiotów.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_SOLD_OUT_body","source":"Available purchases have been exhausted.","translation":"Wykorzystano wszystkie dostępne zakupy.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_UNAVAILABLE_IN_STORAGE_body","source":"Please check the storage.","translation":"Sprawdź magazyn.","status":"draft"}
-{"id":"Message_MSG_SKIN_SHOP_UNAVAILABLE_OWNED_body","source":"Unable to purchase Skins that are already owned.","translation":"Nie można kupić skórek, które już posiadasz.","status":"draft"}
-{"id":"Message_MSG_SKIN_SKINSET_EQUIP_CANNOT_UNOWNED_body","source":"Cannot equip unowned skin.","translation":"Nie można założyć nieposiadanej skórki.","status":"draft"}
-{"id":"Message_MSG_SKIN_SKINSET_EQUIP_EXCLUDE_UNOWNED_body","source":"Only owned skins will be equipped.","translation":"Zostaną założone tylko posiadane skórki.","status":"draft"}
-{"id":"Message_MSG_SKIN_SKINSET_EQUIP_ONLY_OWNED_body","source":"Only owned skins can be equipped.","translation":"Można zakładać tylko posiadane skórki.","status":"draft"}
-{"id":"Message_MSG_SKIN_SKINSET_EQUIP_UNAVAILABLE_CLASS_body","source":"Cannot be equipped by this class.","translation":"Ta klasa nie może tego założyć.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_CUSTOMIZE_MOBILE_SAVE_body","source":"The file was saved as\n{0}.","translation":"Plik zapisano jako\n{0}.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_MOBILE_body","source":"Appearance information is included, but recording is unavailable on mobile.","translation":"Informacje o wyglądzie są uwzględnione, ale na urządzeniu mobilnym nie można nagrywać.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_MYCHAR_HIDE_body","source":"Can only record with Customization Info when My Character is targeted.","translation":"Można nagrywać z informacjami o personalizacji tylko wtedy, gdy celem jest moja postać.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_body","source":"Appearance settings cannot be changed for the currently applied appearance.","translation":"Nie można zmienić ustawień wyglądu dla obecnie zastosowanego wyglądu.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_CUSTOMIZE_SAVE_body","source":"{0}\nThe current screen has been saved to the relevant path.","translation":"{0}\nBieżący ekran zapisano we wskazanej lokalizacji.","status":"draft"}
-{"id":"Message_MSG_SNAPSHOT_WATERMARK_BUTTON_OFF_body","source":"Selectable only when the Watermark is displayed.","translation":"Można wybrać tylko wtedy, gdy wyświetlany jest znak wodny.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_ALREADY_UNLOCKED_body","source":"You already learned this emote.","translation":"Ta emotka jest już poznana.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_CANNOT_USE_body","source":"Cannot use emotes at the moment.","translation":"Nie można teraz używać emotek.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_GROUP_FAR_FROM_LEADER_body","source":"Cannot join due to distance from leader.","translation":"Nie można dołączyć z powodu zbyt dużej odległości od lidera.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_LOCKED_SOCIALACTION_body","source":"This emote has not been learned yet.","translation":"Ta emotka nie została jeszcze poznana.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_NOT_AVAILABLE_body","source":"This emote is unavailable.","translation":"Ta emotka jest niedostępna.","status":"draft"}
-{"id":"Message_MSG_SOCIALACTION_UNLOCKED_body","source":"Received the {0} Emote.","translation":"Otrzymano emotkę: {0}.","status":"draft"}
-{"id":"Message_MSG_SOULATTUNE_SUCCESS_body","source":"Soul Sync successful.","translation":"Synchronizacja duszy powiodła się.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_COMPLETED_body","source":"This item is already Soul Bound.","translation":"Ten przedmiot jest już związany z duszą.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_MATERIAL_COUNT_body","source":"Insufficient materials for Soul Re-Binding.","translation":"Za mało materiałów do ponownego związania duszy.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_EQUIP_body","source":"No items for Soul Binding.","translation":"Brak przedmiotów do związania duszy.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_MATERIAL_body","source":"Materials must be registered to slot.","translation":"Materiały należy umieścić w miejscu.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_MONEY_body","source":"Unable due to insufficient Kina.","translation":"Za mało kin.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_QUALIFIED_CONDITION_body","source":"A Soul Binding effect must be selected along with the materials required.","translation":"Wybierz efekt związania duszy i wymagane materiały.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_SELECT_OPTION_body","source":"Select the Soul Binding effect to sync.","translation":"Wybierz efekt związania duszy do synchronizacji.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_CANNOT_EQUIP_ITEM_body","source":"No items to equip.","translation":"Brak przedmiotów do założenia.","status":"draft"}
-{"id":"Message_MSG_SOULBIND_FAIL_MANY_REQUESTS_body","source":"Please try again later.","translation":"Spróbuj ponownie później.","status":"draft"}
-{"id":"Message_MSG_SOULHEALING_NO_EFFECT_body","source":"Daeva Pass (tentative) has not been applied. Please purchase Battle Pass or proceed with soul healing through Soul Healer.","translation":"Nie aktywowano Przepustki Daevy. Kup Przepustkę Bitewną albo skorzystaj z leczenia duszy u Uzdrowiciela Dusz.","status":"draft"}
-{"id":"Message_MSG_SOULHEALING_SERVER_UNHANDLED_body","source":"Soul Healing has failed due to a temporary error. Please try again.","translation":"Leczenie duszy nie powiodło się z powodu tymczasowego błędu. Spróbuj ponownie.","status":"draft"}
-{"id":"Message_MSG_SOULHEALING_TEMPORARY_SHORTAGE_body","source":"Insufficient currency to perform Soul Healing.","translation":"Za mało waluty, aby przeprowadzić leczenie duszy.","status":"draft"}
-{"id":"Message_MSG_SOUL_BIND_NOT_ENOUGH_COST_body","source":"Insufficient Kina.","translation":"Za mało kin.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_ACTIVATION_AUTO_COMPLETED_body","source":"{0} Specialty Skill activated.","translation":"Aktywowano umiejętność specjalizacji: {0}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_ACTIVATION_COMPLETED_ALREADY_body","source":"Specialty Skill already registered.","translation":"Umiejętność specjalizacji jest już zarejestrowana.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_ACTIVATION_COMPLETED_body","source":"{0} Specialty Skill registered.","translation":"Zarejestrowano umiejętność specjalizacji: {0}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_EQUIPED_FAILED_NOT_ACQUIRED_PARENT_SKILL_body","source":"Can be equipped after acquiring the {0} skill.","translation":"Można założyć po zdobyciu umiejętności {0}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_EQUIPED_SLOT_body","source":"{0} Specialty Skill equipped.","translation":"Założono umiejętność specjalizacji: {0}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_EQUIP_CHANGED_SLOT_body","source":"Specialty Skill changed from {0} to {1}.","translation":"Zmieniono umiejętność specjalizacji z {0} na {1}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_EQUIP_FAILED_NOT_ENOUGH_SPECIALIZED_SKILL_SHARD_body","source":"Insufficient Specialty Skill Shards.","translation":"Za mało odłamków umiejętności specjalizacji.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_EQUIP_FAILED_ON_COMBAT_body","source":"Cannot equip or replace Specialty Skill during combat.","translation":"Podczas walki nie można zakładać ani zmieniać umiejętności specjalizacji.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_LEVELUP_FAILED_NOT_ENOUGH_COST_body","source":"Insufficient enhancing materials.","translation":"Za mało materiałów do ulepszenia.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_LOCKED_body","source":"Specialty Skill effect unlocked upon reaching {0} Lv. {1}.","translation":"Efekt umiejętności specjalizacji odblokuje się po osiągnięciu poziomu {0} {1}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_REMOVED_SLOT_body","source":"{0} removed as Specialty Skill.","translation":"Usunięto {0} jako umiejętność specjalizacji.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_DELETE_body","source":"Specialty Skill unequipped.","translation":"Zdjęto umiejętność specjalizacji.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_FAILED_001_body","source":"Already equipped.","translation":"Jest już założone.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_FAILED_002_body","source":"Cannot equip in slot while locked.","translation":"Nie można założyć w zablokowanym miejscu.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_SUCCESS_001_body","source":"Specialty Skill #{0} equipped.","translation":"Założono umiejętność specjalizacji nr {0}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_CONDITION_01_body","source":"Slot unlocks upon reaching {0} Lv. {1} .","translation":"Miejsce odblokuje się po osiągnięciu poziomu {0} {1} .","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_CONDITION_02_body","source":"Specialty Skill effect activated upon reaching {0} Lv. {1}.","translation":"Efekt umiejętności specjalizacji aktywuje się po osiągnięciu poziomu {0} {1}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_INFO_body","source":"Unlocked upon reaching {0} Lv. {1}.","translation":"Odblokuje się po osiągnięciu poziomu {0} {1}.","status":"draft"}
-{"id":"Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_body","source":"A Specialty Skill slot for [{0}] has been unlocked.","translation":"Odblokowano miejsce na umiejętność specjalizacji [{0}].","status":"draft"}
-{"id":"Message_MSG_STIGMA_ACTIVATION_AUTO_COMPLETED_body","source":"{0} Stigma activated.","translation":"Aktywowano stigmę {0}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_ACTIVATION_COMPLETED_ALREADY_body","source":"Stigma already registered.","translation":"Stigma jest już zarejestrowana.","status":"draft"}
-{"id":"Message_MSG_STIGMA_ACTIVATION_COMPLETED_body","source":"{0} Stigma registered.","translation":"Zarejestrowano stigmę {0}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_EQUIPED_FAILED_NOT_ACQUIRED_PARENT_SKILL_body","source":"Can be equipped after acquiring the {0} skill.","translation":"Można założyć po zdobyciu umiejętności {0}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_EQUIPED_SLOT_body","source":"{0} Stigma equipped.","translation":"Założono stigmę {0}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_EQUIP_CHANGED_SLOT_body","source":"{0} Stigma swapped with {1}.","translation":"Zamieniono stigmę {0} na {1}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_EQUIP_FAILED_NOT_ENOUGH_STIGMA_SHARD_body","source":"Insufficient Stigma Shards.","translation":"Za mało odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_EQUIP_FAILED_ON_COMBAT_body","source":"Cannot equip or swap Stigmas during combat.","translation":"Podczas walki nie można zakładać ani zamieniać stigm.","status":"draft"}
-{"id":"Message_MSG_STIGMA_GET_STIGMASHARD_POINT_body","source":"Obtained {0} Stigma Shard points.","translation":"Zdobyto {0} pkt. odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_GET_STIGMASHARD_SUPERIOR_POINT_body","source":"Obtained {0} Superior Stigma Shard point(s).","translation":"Zdobyto {0} pkt. wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_INVALID_SKILL_ACQUIRE_body","source":"Cannot acquire skill.","translation":"Nie można zdobyć umiejętności.","status":"draft"}
-{"id":"Message_MSG_STIGMA_INVALID_SKILL_LEVELUP_body","source":"Cannot level up skill.","translation":"Nie można podnieść poziomu umiejętności.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_CONDITION_NOT_ENOUGH_body","source":"Level Up requirements not met.","translation":"Nie spełniono wymagań awansu na wyższy poziom.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_FAILED_NOT_ENOUGH_COST_body","source":"Insufficient enhancing materials.","translation":"Za mało materiałów do ulepszenia.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_NOT_AVAILABLE_STIGMA_PREVIEW_INFO_body","source":"Cannot level up skills in preview mode.","translation":"W trybie podglądu nie można podnosić poziomu umiejętności.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_PC_ASCENSION_GRADE_body","source":"Insufficient character Ascension level.","translation":"Poziom Wniebowstąpienia postaci jest zbyt niski.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_PC_LEVEL_body","source":"Insufficient character level.","translation":"Poziom postaci jest zbyt niski.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_STIGMASHARD_POINT_body","source":"Insufficient Stigma Shards.","translation":"Za mało odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_STIGMASHARD_SUPERIOR_POINT_body","source":"Insufficient Superior Stigma Shards.","translation":"Za mało wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_REMOVED_SLOT_body","source":"{0} Stigma unequipped.","translation":"Zdjęto stigmę {0}.","status":"draft"}
-{"id":"Message_MSG_STIGMA_RESET_FAILED_NOT_ENOUGH_COST_body","source":"Cannot afford reset cost.","translation":"Za mało środków na reset.","status":"draft"}
-{"id":"Message_MSG_STIGMA_RESET_FAILED_NOT_ENOUGH_STIGMA_COST_body","source":"Can only reset if amount to be returned is equal to or less than (amount refunded + amount owned).","translation":"Reset jest możliwy tylko wtedy, gdy zwracana liczba nie przekracza sumy liczby zwróconej i posiadanej.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_ALL_STIGMA_SUPERIOR_GAIN_body","source":"Reset all Skills and obtained {0} Stigma Shard point(s) and {1} Superior Stigma Shard point(s).","translation":"Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy i {1} pkt. wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_ALL_STIGMA_SUPERIOR_RECALL_body","source":"Reset all Skills and obtained {0} Stigma Shard point(s).\nRetrieved {1} Superior Stigma Shard point(s).","translation":"Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy.\nOdzyskano {1} pkt. wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_ALL_body","source":"Reset all Skills and obtained {0} Stigma Shard point(s).","translation":"Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_SINGLE_body","source":"Reset [{0}] and obtained {1} Stigma Shard point(s).","translation":"Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_STIGMA_SUPERIOR_GAIN_body","source":"Reset [{0}] and obtained {1} Stigma Shard point(s) and {2} Superior Stigma Shard point(s).","translation":"Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy i {2} pkt. wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_RESET_STIGMA_SUPERIOR_RECALL_body","source":"Reset [{0}] and obtained {1} Stigma Shard point(s).\nRetrieved {2} Superior Stigma Shard point(s).","translation":"Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy.\nOdzyskano {2} pkt. wyższych odłamków stigmy.","status":"draft"}
-{"id":"Message_MSG_STIGMA_SKILL_SLOT_LOCKED_body","source":"Unlocked when the quest \"{0}\" is completed.","translation":"Odblokuje się po ukończeniu zadania „{0}”.","status":"draft"}
-{"id":"Message_MSG_STORAGE_ALREADY_REGISTER_body","source":"Item already registered for trade.","translation":"Ten przedmiot jest już zarejestrowany do wymiany.","status":"draft"}
-{"id":"Message_MSG_STORAGE_EXTEND_FAIL_OVERMAXEXTENDCOUNT_body","source":"Storage is at maximum expansion.","translation":"Magazyn osiągnął maksymalny poziom rozbudowy.","status":"draft"}
-{"id":"Message_MSG_STORAGE_EXTEND_FAIL_body","source":"Failed to expand Storage.","translation":"Nie udało się rozbudować magazynu.","status":"draft"}
-{"id":"Message_MSG_STORAGE_EXTEND_SUCCESS_body","source":"Storage expanded.","translation":"Rozbudowano magazyn.","status":"draft"}
-{"id":"Message_MSG_STORAGE_GET_COMPLETE_body","source":"Retrieved item(s) from Storage.","translation":"Odebrano przedmioty z magazynu.","status":"draft"}
-{"id":"Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_FAIL_NOT_ENOUGH_SLOT_body","source":"Insufficient {0} slots.","translation":"Za mało miejsca: {0} slotów.","status":"draft"}
-{"id":"Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_FAIL_body","source":"Failed to retrieve item.","translation":"Nie udało się odebrać przedmiotu.","status":"draft"}
-{"id":"Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_NOTHING_body","source":"No items to retrieve.","translation":"Brak przedmiotów do odebrania.","status":"draft"}
-{"id":"Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_body","source":"Moved all items to {0}.","translation":"Przeniesiono wszystkie przedmioty do: {0}.","status":"draft"}
-{"id":"Message_MSG_STORAGE_NOTHING_body","source":"No registered items.","translation":"Brak zarejestrowanych przedmiotów.","status":"draft"}
-{"id":"Message_MSG_STORAGE_SEND_COMPLETE_body","source":"Stored item(s) in Storage.","translation":"Umieszczono przedmioty w magazynie.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_ACCEPT_NOT_ENOUGH_INVENTORY_SLOT_body","source":"Cannot subscribe due to insufficient Cube space.","translation":"Nie można wykupić subskrypcji: za mało miejsca w kostce.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_ACTIVATE_FAIL_UNCLAIMED_STORAGE_body","source":"Cannot subscribe due to the membership item already being in the Storage of {0}.","translation":"Nie można wykupić subskrypcji: przedmiot członkostwa znajduje się już w magazynie postaci {0}.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_CAN_NOT_CHATRACE_body","source":"Special Quai Membership required.","translation":"Wymagane członkostwo Specjalne Quai.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_CAN_NOT_GATHER_body","source":"Special Quai Membership required.","translation":"Wymagane członkostwo Specjalne Quai.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_DURATION_END_ALERT_body","source":"Subscription has expired.","translation":"Subskrypcja wygasła.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_EXCHANGE_INFO_TOOLTIP_body","source":"Available after subscribing.","translation":"Dostępne po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_ITEMAUTOLOOTING_TIME_ADD_body","source":"Pet auto-loot time has been extended using a Pet Auto-Loot Voucher.","translation":"Przedłużono czas automatycznego zbierania łupów przez wierzchowca za pomocą kuponu.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOTICE_DURATIONDAY_EXTEND2_body","source":"{0} can only be extended when less than {1} days remain.","translation":"Można przedłużyć {0} tylko wtedy, gdy pozostało mniej niż {1} dni.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOTICE_DURATIONDAY_EXTEND_body","source":"Extension is only possible when remaining duration is less than {0} days.","translation":"Przedłużenie jest możliwe tylko wtedy, gdy pozostało mniej niż {0} dni.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOTICE_REMAIN_DURATION_BUY_FAIL_body","source":"Can only subscribe when the active subscription membership has less than a total of <system_point>60</> days remaining,\nthough membership products may be purchased up to three times a month per server.","translation":"Subskrypcję można wykupić tylko wtedy, gdy do końca aktywnego członkostwa pozostało łącznie mniej niż <system_point>60</> dni,\na produkty członkowskie można kupić maksymalnie trzy razy w miesiącu na serwer.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_EXCHANGE_REQUEST_body","source":"Target has not purchased Personal Trade subscription.","translation":"Cel nie wykupił subskrypcji handlu osobistego.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_EXCHANGE_body","source":"Personal trading can be used after purchasing a subscription.","translation":"Z handlu osobistego można korzystać po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_REMOTESTORAGE_body","source":"Remote storage can be used after purchasing a subscription.","translation":"Z magazynu zdalnego można korzystać po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_TRADE_body","source":"Available after subscribing.","translation":"Dostępne po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_body","source":"Available after subscribing.","translation":"Dostępne po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_TRADEEXCHANGEOPEN_FAIL_AUTOREGISTER_body","source":"Available after subscribing.","translation":"Dostępne po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIBE_TRADEEXCHANGEOPEN_FAIL_BUY_body","source":"Available after subscribing.","translation":"Dostępne po wykupieniu subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIPTION_BUY_FAIL_ALREADY_PURCHASED_body","source":"Already subscribed to function.","translation":"Ta funkcja jest już aktywna w ramach subskrypcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIPTION_BUY_FAIL_NOT_ENOUGH_MONEY_body","source":"Insufficient currency.","translation":"Za mało waluty.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIPTION_BUY_SUCCESS_body","source":"Subscribed to the {0} function.","translation":"Wykupiono subskrypcję funkcji {0}.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIPTION_EXCHANGE_FAIL_COUNT_TARGET_body","source":"Cannot trade due to target having insufficient available trades.","translation":"Nie można handlować: celowi pozostało zbyt mało dostępnych transakcji.","status":"draft"}
-{"id":"Message_MSG_SUBSCRIPTION_EXCHANGE_FAIL_COUNT_body","source":"Cannot trade due to insufficient available trades.","translation":"Nie można handlować: pozostało zbyt mało dostępnych transakcji.","status":"draft"}
-{"id":"Message_MSG_SUBZONE_SOCIAL_ACTION_BAN_body","source":"Emote unavailable in current location.","translation":"Emotka jest niedostępna w obecnej lokacji.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_EQUIP_MATERIAL_ITEM_body","source":"Equipped gear cannot be used for Gear Transfer.","translation":"Założonego wyposażenia nie można użyć do transferu wyposażenia.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_INVALID_MATERIAL_ITEM_body","source":"This item cannot be used in Gear Transfer.","translation":"Tego przedmiotu nie można użyć do transferu wyposażenia.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_PRESET_MATERIAL_ITEM_body","source":"Preset gear cannot be used for Gear Transfer.","translation":"Wyposażenia z zestawu nie można użyć do transferu wyposażenia.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_PRESET_body","source":"Cannot use gear registered in a preset.","translation":"Nie można użyć wyposażenia zarejestrowanego w zestawie.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_SOULBIND_FIXED_ITEM_body","source":"Gear with fixed Soul Binding effects cannot be used in Gear Transfer.","translation":"Wyposażenia ze stałymi efektami związania duszy nie można użyć do transferu wyposażenia.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_SOULBIND_OTHERCHARACTER_MATERIAL_ITEM_body","source":"Gear that has been Soul Bound to another character cannot be used for Gear Transfer.","translation":"Wyposażenia związanego z duszą innej postaci nie można użyć do transferu wyposażenia.","status":"draft"}
-{"id":"Message_MSG_SUCCESSION_FAIL_SOULBIND_OTHERCHARACTER_body","source":"Item is Soul Bound to another character.","translation":"Przedmiot jest związany z duszą innej postaci.","status":"draft"}
-{"id":"Message_MSG_SUCCESS_TO_REQUEST_FORCE_INVITATION_body","source":"Force invitation sent to {0}.","translation":"Wysłano zaproszenie do grupy rajdowej do {0}.","status":"draft"}
-{"id":"Message_MSG_SUCCESS_TO_REQUEST_PARTY_INVITATION_body","source":"Sent party invitation to {0}.","translation":"Wysłano zaproszenie do drużyny do {0}.","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_ENTER_FAIL_BY_SEASON_body","source":"Cannot enter as the season has ended.","translation":"Nie można wejść, ponieważ sezon się zakończył.","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_CANCELED_BY_OTHER_body","source":"{0} ({1}) matchmaking has been canceled by a matched player.","translation":"Gracz z dopasowanej grupy anulował dobieranie graczy: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_CANCELED_BY_SEASON_body","source":"Season has ended. {0} ({1}) matchmaking canceled.","translation":"Sezon się zakończył. Anulowano dobieranie graczy: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_CANCELED_body","source":"{0} ({1}) matchmaking canceled.","translation":"Anulowano dobieranie graczy: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_COMPLETE_body","source":"{0} ({1}) matchmaking completed.","translation":"Dobieranie graczy zakończone: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_FORCE_body","source":"Cannot enter while in a force.","translation":"Nie można wejść, gdy należysz do grupy rajdowej.","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_START_REQUIRE_DENIED_BY_PARTY_body","source":"Party member rejected request to start {0} ({1}) matchmaking.","translation":"Członek drużyny odrzucił prośbę o rozpoczęcie dobierania graczy: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_MATCHING_START_REQUIRE_body","source":"Received request to start {0} ({1}) matchmaking.","translation":"Otrzymano prośbę o rozpoczęcie dobierania graczy: {0} ({1}).","status":"draft"}
-{"id":"Message_MSG_SUPPRESSION_READY_COMPLETE_ENTER_WAITING_body","source":"Everyone is ready. Entering {1} ({2}) in {0}s.","translation":"Wszyscy są gotowi. Wejście do {1} ({2}) za {0} s.","status":"draft"}
-{"id":"Message_MSG_SWITCH_CONTROL_MODE_MOBILE_body","source":"Control mode settings have been changed for mobile play.","translation":"Zmieniono ustawienia sterowania na tryb mobilny.","status":"draft"}
-{"id":"Message_MSG_SWITCH_CONTROL_MODE_PC_body","source":"Control mode settings have been changed to PC play.","translation":"Zmieniono ustawienia sterowania na tryb PC.","status":"draft"}
-{"id":"Message_MSG_SYSTEM_NOT_READY_body","source":"System is preparing.","translation":"Trwa przygotowywanie systemu.","status":"draft"}
-{"id":"Message_MSG_SealStone_Exhaustion_body","source":"Used all {0}.","translation":"Wykorzystano wszystkie: {0}.","status":"draft"}
-{"id":"Message_MSG_SealStone_NeedSealStone_body","source":"Power Shard not equipped.","translation":"Nie założono odłamka mocy.","status":"draft"}
-{"id":"Message_MSG_SealStone_NotHave_body","source":"No Power Shards.","translation":"Brak odłamków mocy.","status":"draft"}
-{"id":"Message_MSG_SealStone_NotWeapon_body","source":"A weapon must be equipped to use Power Shards.","translation":"Aby użyć odłamków mocy, należy założyć broń.","status":"draft"}
-{"id":"Message_MSG_SealStone_OFF_body","source":"Deactivating {0}.","translation":"Dezaktywowano: {0}.","status":"draft"}
-{"id":"Message_MSG_SealStone_ON_body","source":"Activating {0}.","translation":"Aktywowano: {0}.","status":"draft"}
-{"id":"Message_MSG_SealStone_Remain_body","source":"{0} x{1} remaining.","translation":"Pozostało: {0} x{1}.","status":"draft"}
-{"id":"Message_MSG_Server_Transfer_Failure_Message_body","source":"Cannot transfer to the requested server. Please check game announcements.","translation":"Nie można przenieść postaci na wybrany serwer. Sprawdź ogłoszenia w grze.","status":"draft"}
-{"id":"Message_MSG_Soul_Bind_Cancel_body","source":"Soul Binding canceled.","translation":"Anulowano związanie duszy.","status":"draft"}
-{"id":"Message_MSG_Soul_Bind_Interrupted_body","source":"Soul Binding was forcibly canceled by external interference.","translation":"Związanie duszy zostało przerwane przez zewnętrzną ingerencję.","status":"draft"}
-{"id":"Message_MSG_Soul_Bind_Success_ItemName_body","source":"{0} was Soul Bound at a rate of {1}.","translation":"{0} zostało związane z duszą z szansą {1}.","status":"draft"}
+{"id": "Message_MSG_SHOP_WAREHOUSE_GOODS_NOT_FOUND_body", "source": "No items available to receive.", "translation": "Brak przedmiotów do odebrania.", "status": "draft"}
+{"id": "Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_FAIL_02_body", "source": "An unexpected error has occurred during item delivery.\nPlease check the Cube/Owned Currency/Related Content category and then try again.", "translation": "Wystąpił nieoczekiwany błąd podczas odbierania przedmiotów.\nSprawdź kategorie Kostka/Posiadana waluta/Powiązana zawartość i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_FAIL_body", "source": "Failed to receive the items due to an unexpected error.\nPlease try again later.", "translation": "Nie udało się odebrać przedmiotów z powodu nieoczekiwanego błędu.\nSpróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SHOP_WAREHOUSE_GOODS_RECIEVE_SUCCESS_body", "source": "Obtained {0}.\nPlease check the Cube/Owned Currency/Related Contents category.", "translation": "Zdobyto: {0}.\nSprawdź kategorie Kostka/Posiadana waluta/Powiązana zawartość.", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_HIGHHIGH_CHECKPOINT_UPDATE_body", "source": "Resurrection checkpoint reached.", "translation": "Osiągnięto punkt wskrzeszenia.", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_MENU_CANT_MOVE_body", "source": "Cannot travel to Shugo Festival because it is not active.", "translation": "Nie można przenieść się na Festiwal Shugo, ponieważ się nie rozpoczął.", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_MENU_CANT_TELEPORT_body", "source": "Cannot teleport to Shugo Festival because it is not active.", "translation": "Nie można teleportować się na Festiwal Shugo, ponieważ się nie rozpoczął.", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_1S_body", "source": "Time left until finding answer: 1s", "translation": "Czas na znalezienie odpowiedzi: 1 s", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_2S_body", "source": "Time left until finding answer: 2s", "translation": "Czas na znalezienie odpowiedzi: 2 s", "status": "draft"}
+{"id": "Message_MSG_SHUGOFESTA_TRAPBOARD_TIME_3S_body", "source": "Time left until finding answer: 3s", "translation": "Czas na znalezienie odpowiedzi: 3 s", "status": "draft"}
+{"id": "Message_MSG_SKILLMACRO_CANCEL_BY_PRESETSWAP_body", "source": "Macro stopped due to a preset change.", "translation": "Makro zatrzymano z powodu zmiany zestawu.", "status": "draft"}
+{"id": "Message_MSG_SKILLMACRO_CANNOT_SET_SKILL_body", "source": "Cannot register skill.", "translation": "Nie można zarejestrować umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILLMACRO_CANNOT_USE_SKILL_body", "source": "No usable skills available.", "translation": "Brak dostępnych umiejętności do użycia.", "status": "draft"}
+{"id": "Message_MSG_SKILLMACRO_EMPTY_SKILL_body", "source": "No skills registered.", "translation": "Nie zarejestrowano żadnych umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILLPRESET_SWAP_COMPLETE_body", "source": "Skills changed to Preset {0}.", "translation": "Zmieniono umiejętności na zestaw {0}.", "status": "draft"}
+{"id": "Message_MSG_SKILL_ACQUIRED_ALREADY_body", "source": "Skill has already been acquired.", "translation": "Ta umiejętność została już zdobyta.", "status": "draft"}
+{"id": "Message_MSG_SKILL_LEVELUP_CONDITION_NOT_ENOUGH_body", "source": "Level Up requirements not met.", "translation": "Nie spełniono wymagań awansu na wyższy poziom.", "status": "draft"}
+{"id": "Message_MSG_SKILL_LEVELUP_NOT_AVAILABLE_SKILL_PREVIEW_INFO_body", "source": "Cannot level up skills in preview mode.", "translation": "W trybie podglądu nie można podnosić poziomu umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILL_LEVELUP_NOT_ENOUGH_PC_LEVEL_body", "source": "Insufficient character level.", "translation": "Poziom postaci jest zbyt niski.", "status": "draft"}
+{"id": "Message_MSG_SKILL_LEVELUP_NOT_ENOUGH_SKILL_POINT_body", "source": "Insufficient Skill Points.", "translation": "Za mało punktów umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILL_LEVELUP_SUCCESS_body", "source": "[{0}] is now Lv. [{1}].", "translation": "[{0}] osiąga poziom [{1}].", "status": "draft"}
+{"id": "Message_MSG_SKILL_LONG_PRESS_TIME_LIMITED_USE_body", "source": "Holding down the same key for an extended period will pause skill repetition.\nRelease the key and press it again.", "translation": "Długie przytrzymanie tego samego klawisza wstrzyma powtarzanie umiejętności.\nPuść klawisz i naciśnij go ponownie.", "status": "draft"}
+{"id": "Message_MSG_SKILL_RESET_ALL_body", "source": "All skills have been reset. Acquired {0} Skill Point(s).", "translation": "Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILL_RESET_FAILED_NOT_ENOUGH_COST_body", "source": "Cannot afford reset cost.", "translation": "Za mało środków na reset.", "status": "draft"}
+{"id": "Message_MSG_SKILL_RESET_NO_TARGET_body", "source": "No skills available to reset.", "translation": "Brak umiejętności do zresetowania.", "status": "draft"}
+{"id": "Message_MSG_SKILL_RESET_SINGLE_body", "source": "Acquired {1} Skill Point(s) from resetting [{0}].", "translation": "Za zresetowanie [{0}] otrzymano {1} pkt. umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILL_SETTING_MACRO_DELAYLIMIT_body", "source": "The entered value is outside the accepted range.\nDelay can be set between 10ms and 9,900ms.", "translation": "Wprowadzona wartość wykracza poza dozwolony zakres.\nOpóźnienie można ustawić w zakresie od 10 ms do 9900 ms.", "status": "draft"}
+{"id": "Message_MSG_SKILL_SETTING_MACRO_EMPTY_body", "source": "No macro set.", "translation": "Nie ustawiono makra.", "status": "draft"}
+{"id": "Message_MSG_SKILL_SETTING_MACRO_FULL_body", "source": "Exceeded number of registrable macros.\nTry again after deleting unused macros.", "translation": "Przekroczono limit rejestrowanych makr.\nUsuń nieużywane makra i spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_SKILL_SETTING_MACRO_UNUSABLE_body", "source": "Cannot activate macro in current state.", "translation": "Nie można aktywować makra w obecnym stanie.", "status": "draft"}
+{"id": "Message_MSG_SKILL_SKILL_AQCUIRE_body", "source": "Must acquire the prerequisite skills first.", "translation": "Najpierw zdobądź wymagane umiejętności.", "status": "draft"}
+{"id": "Message_MSG_SKILL_TAB_UNLOCK_STIGMA_body", "source": "Stigma Skill unlocked.", "translation": "Odblokowano umiejętność stigmy.", "status": "draft"}
+{"id": "Message_MSG_SKILL_UI_UNAVAILABLE_BY_FIXSKILLLEVEL_body", "source": "Unavailable while skill level is fixed.", "translation": "Niedostępne, gdy poziom umiejętności jest zablokowany.", "status": "draft"}
+{"id": "Message_MSG_SKINSHOP_BUY_SUCCESS_body", "source": "Purchased {0}.\nCheck equipped list in Closet.", "translation": "Kupiono: {0}.\nSprawdź listę założonych elementów w garderobie.", "status": "draft"}
+{"id": "Message_MSG_SKIN_ACQUIRE_body", "source": "{0} Skin acquired.", "translation": "Zdobyto skórkę: {0}.", "status": "draft"}
+{"id": "Message_MSG_SKIN_ALREADY_EQUIPPED_body", "source": "Skin already equipped.", "translation": "Ta skórka jest już założona.", "status": "draft"}
+{"id": "Message_MSG_SKIN_BOOKMARK_MAX_body", "source": "Up to {0} favorites can be registered.", "translation": "Można dodać maksymalnie {0} ulubionych.", "status": "draft"}
+{"id": "Message_MSG_SKIN_BUFF_ERROR_NOT_ENOUGH_POINT_body", "source": "Insufficient Closet Points.", "translation": "Za mało punktów garderoby.", "status": "draft"}
+{"id": "Message_MSG_SKIN_BUFF_ERROR_NOT_ENOUGH_SLOT_body", "source": "Insufficient Effect slots.", "translation": "Za mało miejsc na efekty.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_AUTO_REGISTRATION_ERROR_body", "source": "No Skins to auto-register.", "translation": "Brak skórek do automatycznej rejestracji.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_FILTER_BUTTON_ERROR_body", "source": "No Skins to apply filter to.", "translation": "Brak skórek, do których można zastosować filtr.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_CANNOT_REGISTER_body", "source": "Cannot use more {0}.", "translation": "Nie można użyć większej liczby: {0}.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_NO_ADD_body", "source": "Insufficient {0}.", "translation": "Za mało: {0}.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_PROBABILITY_INCREASE_NO_ITEM_body", "source": "No {0} owned.", "translation": "Nie masz: {0}.", "status": "draft"}
+{"id": "Message_MSG_SKIN_COMBINE_RESET_ERROR_body", "source": "No skin to reset.", "translation": "Brak skórki do zresetowania.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_BUY_SUCCESS_body", "source": "Customization applied.", "translation": "Zastosowano personalizację.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_EMPTY_SLOT_body", "source": "Among uncustomized Skins, the Skin in the first slot will be equipped.", "translation": "Spośród niepersonalizowanych skórek zostanie założona ta z pierwszego miejsca.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_LR_SELECTION_REQUIRED_body", "source": "Select the L/R slot to customize.", "translation": "Wybierz lewe/prawe miejsce do personalizacji.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NOT_REMOVE_PATTERN_COLOR_body", "source": "No pattern color available for removal.", "translation": "Brak koloru wzoru do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NO_DECO_body", "source": "No customization to revert.", "translation": "Brak personalizacji do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NO_DYE_body", "source": "No dye to revert.", "translation": "Brak barwnika do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NO_MATERIAL_body", "source": "No material to revert.", "translation": "Brak materiału do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NO_PATTERN_COLOR_body", "source": "No pattern color to revert.", "translation": "Brak koloru wzoru do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_ERROR_NO_PATTERN_body", "source": "No pattern to revert.", "translation": "Brak wzoru do cofnięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_INDEX_CANNOT_CHANGE_body", "source": "You can only change the Index of customized Skins.", "translation": "Indeks można zmieniać tylko w spersonalizowanych skórkach.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_INDEX_CHANGE_REQUIRED_body", "source": "Please finish changing the Index.", "translation": "Dokończ zmianę indeksu.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_INDEX_SELECT_body", "source": "Select a Dye/Material/Pattern to set as an Index.", "translation": "Wybierz barwnik, materiał lub wzór, który ma być indeksem.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DECO_PRESET_SAME_NOW_body", "source": "This Customization Preset is already applied.", "translation": "Ten zestaw personalizacji jest już zastosowany.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_BUY_CHECK_UNAPPLIED_PART_body", "source": "Non-customizable parts cannot be selected.", "translation": "Nie można wybrać elementów, których nie da się personalizować.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_BUY_NOT_ENOUGH_CURRENCY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_BUY_NO_MATERIALS_AVAILABLE_body", "source": "No Decor for purchase.", "translation": "Brak ozdób do kupienia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_ERROR_HIDDEN_body", "source": "Hidden skins cannot be customized.", "translation": "Ukrytych skórek nie można personalizować.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_ERROR_NOT_EQUIP_body", "source": "Unequipped skins cannot be customized.", "translation": "Niezałożonych skórek nie można personalizować.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_ERROR_Not_Registered_body", "source": "No skin to customize in selected slot.", "translation": "W wybranym miejscu nie ma skórki do personalizacji.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_ERROR_Not_Skin_body", "source": "Slot has no customizable skin.", "translation": "W tym miejscu nie ma skórki, którą można personalizować.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_PALETTE_ERROR_UNSELECTED_SKINAREA_body", "source": "Select an area to dye.", "translation": "Wybierz obszar do zabarwienia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_PALETTE_ERROR_UNSELECTED_SKIN_body", "source": "Select a skin to dye.", "translation": "Wybierz skórkę do zabarwienia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_PALETTE_GET_COLOR_MAX_body", "source": "Up to 100,000 dyes can be registered in the Closet.", "translation": "W garderobie można zarejestrować maksymalnie 100 000 barwników.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_PALETTE_GET_COLOR_body", "source": "Dye registered in Closet: {0} x{1}", "translation": "Zarejestrowano barwnik w garderobie: {0} x{1}", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_SAVE_ERROR_NOT_ENOUGH_COLOR_body", "source": "Insufficient palette colors to dye.", "translation": "Za mało kolorów w palecie, aby użyć barwnika.", "status": "draft"}
+{"id": "Message_MSG_SKIN_DYE_SAVE_ERROR_NOT_UNREGISTERED_SKIN_body", "source": "Can only apply dye on owned skins.", "translation": "Barwnik można stosować tylko na posiadanych skórkach.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Not_Remove_Dye_body", "source": "No dye available for removal.", "translation": "Brak barwnika do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Not_Remove_Material_body", "source": "No material available for removal.", "translation": "Brak materiału do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Not_Remove_Pattern_body", "source": "No pattern available for removal.", "translation": "Brak wzoru do usunięcia.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_body", "source": "Can only select a pattern color for area with an applied pattern.", "translation": "Kolor wzoru można wybrać tylko dla obszaru, na którym zastosowano wzór.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_color_option_body", "source": "Select a pattern color to configure.", "translation": "Wybierz kolor wzoru do skonfigurowania.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Pattern_not_select_option_body", "source": "Select a pattern to configure.", "translation": "Wybierz wzór do skonfigurowania.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Same_Dye_body", "source": "Color already applied.", "translation": "Ten kolor jest już zastosowany.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Same_Material_body", "source": "Material already applied.", "translation": "Ten materiał jest już zastosowany.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Same_Pattern_Dye_body", "source": "Pattern color already applied. Changing transparency will consume additional dye.", "translation": "Ten kolor wzoru jest już zastosowany. Zmiana przezroczystości zużyje dodatkowy barwnik.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Deco_ERROR_Same_Pattern_body", "source": "Pattern already applied. Changing transparency, size, and type will consume additional patterns.", "translation": "Ten wzór jest już zastosowany. Zmiana przezroczystości, rozmiaru lub typu zużyje dodatkowe wzory.", "status": "draft"}
+{"id": "Message_MSG_SKIN_EXTRACTION_ERROR_ALREADY_REGISTERED_body", "source": "Skin already registered. Check the Closet.", "translation": "Ta skórka jest już zarejestrowana. Sprawdź garderobę.", "status": "draft"}
+{"id": "Message_MSG_SKIN_EXTRACTION_ERROR_NOT_EQUIPMENT_body", "source": "Skin already registered.", "translation": "Ta skórka jest już zarejestrowana.", "status": "draft"}
+{"id": "Message_MSG_SKIN_EXTRACTION_FAIL_body", "source": "Failed to extract skin.", "translation": "Nie udało się pozyskać skórki.", "status": "draft"}
+{"id": "Message_MSG_SKIN_EXTRACTION_NOTHING_body", "source": "No registered items.", "translation": "Brak zarejestrowanych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_SKIN_HOOD_EQUIP_HIDE_HELMET_body", "source": "Helm skin is not shown when a hood is equipped.", "translation": "Po założeniu kaptura wygląd hełmu nie jest wyświetlany.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Material_GET_MAX_body", "source": "Up to 100,000 materials can be registered in the Closet.", "translation": "W garderobie można zarejestrować maksymalnie 100 000 materiałów.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Material_GET_body", "source": "Material registered in Closet: {0} x{1}", "translation": "Zarejestrowano materiał w garderobie: {0} x{1}", "status": "draft"}
+{"id": "Message_MSG_SKIN_NO_DECO_AVAILABLE_body", "source": "Skin cannot be customized.", "translation": "Nie można personalizować tej skórki.", "status": "draft"}
+{"id": "Message_MSG_SKIN_PRESET_CHANGE_COOLTIME_body", "source": "Skin preset is on standby. Please try again later.", "translation": "Zmiana zestawu skórek jest w trakcie odnowienia. Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SKIN_PRESET_CHANGE_body", "source": "Skin changed to Preset {0}.", "translation": "Zmieniono skórkę na zestaw {0}.", "status": "draft"}
+{"id": "Message_MSG_SKIN_PREVIEW_OPTION_WING_NO_WEAPON_body", "source": "No weapons equipped.", "translation": "Nie założono broni.", "status": "draft"}
+{"id": "Message_MSG_SKIN_PREVIEW_OPTION_WING_NO_WING_body", "source": "No wings equipped.", "translation": "Nie założono skrzydeł.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Pattern_GET_MAX_body", "source": "Up to 100,000 patterns can be registered in the Closet.", "translation": "W garderobie można zarejestrować maksymalnie 100 000 wzorów.", "status": "draft"}
+{"id": "Message_MSG_SKIN_Pattern_GET_body", "source": "Pattern registered in Closet: {0} x{1}", "translation": "Zarejestrowano wzór w garderobie: {0} x{1}", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_CANNOT_CANNOT_BUY_OWNED_ITEM_body", "source": "Cannot purchase items you already own.", "translation": "Nie można kupić posiadanych już przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_CANNOT_EQUIP_CLASS_body", "source": "Cannot be equipped by this class.", "translation": "Ta klasa nie może tego założyć.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_CANNOT_NOT_ENOUGH_CURRENCY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_DECO_PRESET_PREVIEW_body", "source": "This is a Customization Preset preview.", "translation": "To podgląd zestawu personalizacji.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_OWNED_ITEMS_CANNOT_BUY_body", "source": "Additional purchase unavailable.", "translation": "Nie można kupić kolejnego egzemplarza.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_PURCHASE_LEVEL_LIMITED_body", "source": "This level cannot be purchased.", "translation": "Nie można kupić tego poziomu.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_SALE_PERIOD_LIMITED_body", "source": "It is not currently the purchase period for this item.", "translation": "Obecnie nie trwa okres sprzedaży tego przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_SELECTED_PRODUCT_NOT_FOUND_body", "source": "No items selected.", "translation": "Nie wybrano żadnych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_SOLD_OUT_body", "source": "Available purchases have been exhausted.", "translation": "Wykorzystano wszystkie dostępne zakupy.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_UNAVAILABLE_IN_STORAGE_body", "source": "Please check the storage.", "translation": "Sprawdź magazyn.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SHOP_UNAVAILABLE_OWNED_body", "source": "Unable to purchase Skins that are already owned.", "translation": "Nie można kupić skórek, które już posiadasz.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SKINSET_EQUIP_CANNOT_UNOWNED_body", "source": "Cannot equip unowned skin.", "translation": "Nie można założyć nieposiadanej skórki.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SKINSET_EQUIP_EXCLUDE_UNOWNED_body", "source": "Only owned skins will be equipped.", "translation": "Zostaną założone tylko posiadane skórki.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SKINSET_EQUIP_ONLY_OWNED_body", "source": "Only owned skins can be equipped.", "translation": "Można zakładać tylko posiadane skórki.", "status": "draft"}
+{"id": "Message_MSG_SKIN_SKINSET_EQUIP_UNAVAILABLE_CLASS_body", "source": "Cannot be equipped by this class.", "translation": "Ta klasa nie może tego założyć.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_CUSTOMIZE_MOBILE_SAVE_body", "source": "The file was saved as\n{0}.", "translation": "Plik zapisano jako\n{0}.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_MOBILE_body", "source": "Appearance information is included, but recording is unavailable on mobile.", "translation": "Informacje o wyglądzie są uwzględnione, ale na urządzeniu mobilnym nie można nagrywać.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_MYCHAR_HIDE_body", "source": "Can only record with Customization Info when My Character is targeted.", "translation": "Można nagrywać z informacjami o personalizacji tylko wtedy, gdy celem jest moja postać.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_CUSTOMIZE_RESTRICTION_ERROR_body", "source": "Appearance settings cannot be changed for the currently applied appearance.", "translation": "Nie można zmienić ustawień wyglądu dla obecnie zastosowanego wyglądu.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_CUSTOMIZE_SAVE_body", "source": "{0}\nThe current screen has been saved to the relevant path.", "translation": "{0}\nBieżący ekran zapisano we wskazanej lokalizacji.", "status": "draft"}
+{"id": "Message_MSG_SNAPSHOT_WATERMARK_BUTTON_OFF_body", "source": "Selectable only when the Watermark is displayed.", "translation": "Można wybrać tylko wtedy, gdy wyświetlany jest znak wodny.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_ALREADY_UNLOCKED_body", "source": "You already learned this emote.", "translation": "Ta emotka jest już poznana.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_CANNOT_USE_body", "source": "Cannot use emotes at the moment.", "translation": "Nie można teraz używać emotek.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_GROUP_FAR_FROM_LEADER_body", "source": "Cannot join due to distance from leader.", "translation": "Nie można dołączyć z powodu zbyt dużej odległości od lidera.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_LOCKED_SOCIALACTION_body", "source": "This emote has not been learned yet.", "translation": "Ta emotka nie została jeszcze poznana.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_NOT_AVAILABLE_body", "source": "This emote is unavailable.", "translation": "Ta emotka jest niedostępna.", "status": "draft"}
+{"id": "Message_MSG_SOCIALACTION_UNLOCKED_body", "source": "Received the {0} Emote.", "translation": "Otrzymano emotkę: {0}.", "status": "draft"}
+{"id": "Message_MSG_SOULATTUNE_SUCCESS_body", "source": "Soul Sync successful.", "translation": "Synchronizacja duszy powiodła się.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_COMPLETED_body", "source": "This item is already Soul Bound.", "translation": "Ten przedmiot jest już związany z duszą.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_MATERIAL_COUNT_body", "source": "Insufficient materials for Soul Re-Binding.", "translation": "Za mało materiałów do ponownego związania duszy.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_EQUIP_body", "source": "No items for Soul Binding.", "translation": "Brak przedmiotów do związania duszy.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_MATERIAL_body", "source": "Materials must be registered to slot.", "translation": "Materiały należy umieścić w miejscu.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_MONEY_body", "source": "Unable due to insufficient Kina.", "translation": "Za mało kin.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_QUALIFIED_CONDITION_body", "source": "A Soul Binding effect must be selected along with the materials required.", "translation": "Wybierz efekt związania duszy i wymagane materiały.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_BUTTON_DISABLED_NOT_SELECT_OPTION_body", "source": "Select the Soul Binding effect to sync.", "translation": "Wybierz efekt związania duszy do synchronizacji.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_CANNOT_EQUIP_ITEM_body", "source": "No items to equip.", "translation": "Brak przedmiotów do założenia.", "status": "draft"}
+{"id": "Message_MSG_SOULBIND_FAIL_MANY_REQUESTS_body", "source": "Please try again later.", "translation": "Spróbuj ponownie później.", "status": "draft"}
+{"id": "Message_MSG_SOULHEALING_NO_EFFECT_body", "source": "Daeva Pass (tentative) has not been applied. Please purchase Battle Pass or proceed with soul healing through Soul Healer.", "translation": "Nie aktywowano Przepustki Daevy. Kup Przepustkę Bitewną albo skorzystaj z leczenia duszy u Uzdrowiciela Dusz.", "status": "draft"}
+{"id": "Message_MSG_SOULHEALING_SERVER_UNHANDLED_body", "source": "Soul Healing has failed due to a temporary error. Please try again.", "translation": "Leczenie duszy nie powiodło się z powodu tymczasowego błędu. Spróbuj ponownie.", "status": "draft"}
+{"id": "Message_MSG_SOULHEALING_TEMPORARY_SHORTAGE_body", "source": "Insufficient currency to perform Soul Healing.", "translation": "Za mało waluty, aby przeprowadzić leczenie duszy.", "status": "draft"}
+{"id": "Message_MSG_SOUL_BIND_NOT_ENOUGH_COST_body", "source": "Insufficient Kina.", "translation": "Za mało kin.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_ACTIVATION_AUTO_COMPLETED_body", "source": "{0} Specialty Skill activated.", "translation": "Aktywowano umiejętność specjalizacji: {0}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_ACTIVATION_COMPLETED_ALREADY_body", "source": "Specialty Skill already registered.", "translation": "Umiejętność specjalizacji jest już zarejestrowana.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_ACTIVATION_COMPLETED_body", "source": "{0} Specialty Skill registered.", "translation": "Zarejestrowano umiejętność specjalizacji: {0}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_EQUIPED_FAILED_NOT_ACQUIRED_PARENT_SKILL_body", "source": "Can be equipped after acquiring the {0} skill.", "translation": "Można założyć po zdobyciu umiejętności {0}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_EQUIPED_SLOT_body", "source": "{0} Specialty Skill equipped.", "translation": "Założono umiejętność specjalizacji: {0}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_EQUIP_CHANGED_SLOT_body", "source": "Specialty Skill changed from {0} to {1}.", "translation": "Zmieniono umiejętność specjalizacji z {0} na {1}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_EQUIP_FAILED_NOT_ENOUGH_SPECIALIZED_SKILL_SHARD_body", "source": "Insufficient Specialty Skill Shards.", "translation": "Za mało odłamków umiejętności specjalizacji.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_EQUIP_FAILED_ON_COMBAT_body", "source": "Cannot equip or replace Specialty Skill during combat.", "translation": "Podczas walki nie można zakładać ani zmieniać umiejętności specjalizacji.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_LEVELUP_FAILED_NOT_ENOUGH_COST_body", "source": "Insufficient enhancing materials.", "translation": "Za mało materiałów do ulepszenia.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_LOCKED_body", "source": "Specialty Skill effect unlocked upon reaching {0} Lv. {1}.", "translation": "Efekt umiejętności specjalizacji odblokuje się po osiągnięciu poziomu {0} {1}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_REMOVED_SLOT_body", "source": "{0} removed as Specialty Skill.", "translation": "Usunięto {0} jako umiejętność specjalizacji.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_DELETE_body", "source": "Specialty Skill unequipped.", "translation": "Zdjęto umiejętność specjalizacji.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_FAILED_001_body", "source": "Already equipped.", "translation": "Jest już założone.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_FAILED_002_body", "source": "Cannot equip in slot while locked.", "translation": "Nie można założyć w zablokowanym miejscu.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_EQUIP_SUCCESS_001_body", "source": "Specialty Skill #{0} equipped.", "translation": "Założono umiejętność specjalizacji nr {0}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_CONDITION_01_body", "source": "Slot unlocks upon reaching {0} Lv. {1} .", "translation": "Miejsce odblokuje się po osiągnięciu poziomu {0} {1}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_CONDITION_02_body", "source": "Specialty Skill effect activated upon reaching {0} Lv. {1}.", "translation": "Efekt umiejętności specjalizacji aktywuje się po osiągnięciu poziomu {0} {1}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_INFO_body", "source": "Unlocked upon reaching {0} Lv. {1}.", "translation": "Odblokuje się po osiągnięciu poziomu {0} {1}.", "status": "draft"}
+{"id": "Message_MSG_SPECIALIZED_SKILL_SLOT_UNLOCK_body", "source": "A Specialty Skill slot for [{0}] has been unlocked.", "translation": "Odblokowano miejsce na umiejętność specjalizacji [{0}].", "status": "draft"}
+{"id": "Message_MSG_STIGMA_ACTIVATION_AUTO_COMPLETED_body", "source": "{0} Stigma activated.", "translation": "Aktywowano stigmę {0}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_ACTIVATION_COMPLETED_ALREADY_body", "source": "Stigma already registered.", "translation": "Stigma jest już zarejestrowana.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_ACTIVATION_COMPLETED_body", "source": "{0} Stigma registered.", "translation": "Zarejestrowano stigmę {0}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_EQUIPED_FAILED_NOT_ACQUIRED_PARENT_SKILL_body", "source": "Can be equipped after acquiring the {0} skill.", "translation": "Można założyć po zdobyciu umiejętności {0}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_EQUIPED_SLOT_body", "source": "{0} Stigma equipped.", "translation": "Założono stigmę {0}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_EQUIP_CHANGED_SLOT_body", "source": "{0} Stigma swapped with {1}.", "translation": "Zamieniono stigmę {0} na {1}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_EQUIP_FAILED_NOT_ENOUGH_STIGMA_SHARD_body", "source": "Insufficient Stigma Shards.", "translation": "Za mało odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_EQUIP_FAILED_ON_COMBAT_body", "source": "Cannot equip or swap Stigmas during combat.", "translation": "Podczas walki nie można zakładać ani zamieniać stigm.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_GET_STIGMASHARD_POINT_body", "source": "Obtained {0} Stigma Shard points.", "translation": "Zdobyto {0} pkt. odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_GET_STIGMASHARD_SUPERIOR_POINT_body", "source": "Obtained {0} Superior Stigma Shard point(s).", "translation": "Zdobyto {0} pkt. wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_INVALID_SKILL_ACQUIRE_body", "source": "Cannot acquire skill.", "translation": "Nie można zdobyć umiejętności.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_INVALID_SKILL_LEVELUP_body", "source": "Cannot level up skill.", "translation": "Nie można podnieść poziomu umiejętności.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_CONDITION_NOT_ENOUGH_body", "source": "Level Up requirements not met.", "translation": "Nie spełniono wymagań awansu na wyższy poziom.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_FAILED_NOT_ENOUGH_COST_body", "source": "Insufficient enhancing materials.", "translation": "Za mało materiałów do ulepszenia.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_NOT_AVAILABLE_STIGMA_PREVIEW_INFO_body", "source": "Cannot level up skills in preview mode.", "translation": "W trybie podglądu nie można podnosić poziomu umiejętności.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_PC_ASCENSION_GRADE_body", "source": "Insufficient character Ascension level.", "translation": "Poziom Wniebowstąpienia postaci jest zbyt niski.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_PC_LEVEL_body", "source": "Insufficient character level.", "translation": "Poziom postaci jest zbyt niski.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_STIGMASHARD_POINT_body", "source": "Insufficient Stigma Shards.", "translation": "Za mało odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_LEVELUP_NOT_ENOUGH_STIGMASHARD_SUPERIOR_POINT_body", "source": "Insufficient Superior Stigma Shards.", "translation": "Za mało wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_REMOVED_SLOT_body", "source": "{0} Stigma unequipped.", "translation": "Zdjęto stigmę {0}.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_RESET_FAILED_NOT_ENOUGH_COST_body", "source": "Cannot afford reset cost.", "translation": "Za mało środków na reset.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_RESET_FAILED_NOT_ENOUGH_STIGMA_COST_body", "source": "Can only reset if amount to be returned is equal to or less than (amount refunded + amount owned).", "translation": "Reset jest możliwy tylko wtedy, gdy zwracana liczba nie przekracza sumy liczby zwróconej i posiadanej.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_ALL_STIGMA_SUPERIOR_GAIN_body", "source": "Reset all Skills and obtained {0} Stigma Shard point(s) and {1} Superior Stigma Shard point(s).", "translation": "Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy i {1} pkt. wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_ALL_STIGMA_SUPERIOR_RECALL_body", "source": "Reset all Skills and obtained {0} Stigma Shard point(s).\nRetrieved {1} Superior Stigma Shard point(s).", "translation": "Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy.\nOdzyskano {1} pkt. wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_ALL_body", "source": "Reset all Skills and obtained {0} Stigma Shard point(s).", "translation": "Zresetowano wszystkie umiejętności. Otrzymano {0} pkt. odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_SINGLE_body", "source": "Reset [{0}] and obtained {1} Stigma Shard point(s).", "translation": "Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_STIGMA_SUPERIOR_GAIN_body", "source": "Reset [{0}] and obtained {1} Stigma Shard point(s) and {2} Superior Stigma Shard point(s).", "translation": "Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy i {2} pkt. wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_RESET_STIGMA_SUPERIOR_RECALL_body", "source": "Reset [{0}] and obtained {1} Stigma Shard point(s).\nRetrieved {2} Superior Stigma Shard point(s).", "translation": "Zresetowano [{0}]. Otrzymano {1} pkt. odłamków stigmy.\nOdzyskano {2} pkt. wyższych odłamków stigmy.", "status": "draft"}
+{"id": "Message_MSG_STIGMA_SKILL_SLOT_LOCKED_body", "source": "Unlocked when the quest \"{0}\" is completed.", "translation": "Odblokuje się po ukończeniu zadania „{0}”.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_ALREADY_REGISTER_body", "source": "Item already registered for trade.", "translation": "Ten przedmiot jest już zarejestrowany do wymiany.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_EXTEND_FAIL_OVERMAXEXTENDCOUNT_body", "source": "Storage is at maximum expansion.", "translation": "Magazyn osiągnął maksymalny poziom rozbudowy.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_EXTEND_FAIL_body", "source": "Failed to expand Storage.", "translation": "Nie udało się rozbudować magazynu.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_EXTEND_SUCCESS_body", "source": "Storage expanded.", "translation": "Rozbudowano magazyn.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_GET_COMPLETE_body", "source": "Retrieved item(s) from Storage.", "translation": "Odebrano przedmioty z magazynu.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_FAIL_NOT_ENOUGH_SLOT_body", "source": "Insufficient {0} slots.", "translation": "Za mało miejsca: {0} slotów.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_FAIL_body", "source": "Failed to retrieve item.", "translation": "Nie udało się odebrać przedmiotu.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_NOTHING_body", "source": "No items to retrieve.", "translation": "Brak przedmiotów do odebrania.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_MOVE_FROM_OTHER_STORAGE_body", "source": "Moved all items to {0}.", "translation": "Przeniesiono wszystkie przedmioty do: {0}.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_NOTHING_body", "source": "No registered items.", "translation": "Brak zarejestrowanych przedmiotów.", "status": "draft"}
+{"id": "Message_MSG_STORAGE_SEND_COMPLETE_body", "source": "Stored item(s) in Storage.", "translation": "Umieszczono przedmioty w magazynie.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_ACCEPT_NOT_ENOUGH_INVENTORY_SLOT_body", "source": "Cannot subscribe due to insufficient Cube space.", "translation": "Nie można wykupić subskrypcji: za mało miejsca w kostce.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_ACTIVATE_FAIL_UNCLAIMED_STORAGE_body", "source": "Cannot subscribe due to the membership item already being in the Storage of {0}.", "translation": "Nie można wykupić subskrypcji: przedmiot członkostwa znajduje się już w magazynie postaci {0}.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_CAN_NOT_CHATRACE_body", "source": "Special Quai Membership required.", "translation": "Wymagane członkostwo Specjalne Quai.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_CAN_NOT_GATHER_body", "source": "Special Quai Membership required.", "translation": "Wymagane członkostwo Specjalne Quai.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_DURATION_END_ALERT_body", "source": "Subscription has expired.", "translation": "Subskrypcja wygasła.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_EXCHANGE_INFO_TOOLTIP_body", "source": "Available after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_ITEMAUTOLOOTING_TIME_ADD_body", "source": "Pet auto-loot time has been extended using a Pet Auto-Loot Voucher.", "translation": "Przedłużono czas automatycznego zbierania łupów przez wierzchowca za pomocą kuponu.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOTICE_DURATIONDAY_EXTEND2_body", "source": "{0} can only be extended when less than {1} days remain.", "translation": "Można przedłużyć {0} tylko wtedy, gdy pozostało mniej niż {1} dni.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOTICE_DURATIONDAY_EXTEND_body", "source": "Extension is only possible when remaining duration is less than {0} days.", "translation": "Przedłużenie jest możliwe tylko wtedy, gdy pozostało mniej niż {0} dni.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOTICE_REMAIN_DURATION_BUY_FAIL_body", "source": "Can only subscribe when the active subscription membership has less than a total of <system_point>60</> days remaining,\nthough membership products may be purchased up to three times a month per server.", "translation": "Subskrypcję można wykupić tylko wtedy, gdy do końca aktywnego członkostwa pozostało łącznie mniej niż <system_point>60</> dni,\na produkty członkowskie można kupić maksymalnie trzy razy w miesiącu na serwer.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_EXCHANGE_REQUEST_body", "source": "Target has not purchased Personal Trade subscription.", "translation": "Cel nie wykupił subskrypcji handlu osobistego.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_EXCHANGE_body", "source": "Personal trading can be used after purchasing a subscription.", "translation": "Z handlu osobistego można korzystać po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_REMOTESTORAGE_body", "source": "Remote storage can be used after purchasing a subscription.", "translation": "Z magazynu zdalnego można korzystać po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_NOT_SUBSCRIBE_TRADE_body", "source": "Available after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_REMOTESTORAGE_INFO_TOOLTIP_body", "source": "Available after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_TRADEEXCHANGEOPEN_FAIL_AUTOREGISTER_body", "source": "Available after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIBE_TRADEEXCHANGEOPEN_FAIL_BUY_body", "source": "Available after subscribing.", "translation": "Dostępne po wykupieniu subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIPTION_BUY_FAIL_ALREADY_PURCHASED_body", "source": "Already subscribed to function.", "translation": "Ta funkcja jest już aktywna w ramach subskrypcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIPTION_BUY_FAIL_NOT_ENOUGH_MONEY_body", "source": "Insufficient currency.", "translation": "Za mało waluty.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIPTION_BUY_SUCCESS_body", "source": "Subscribed to the {0} function.", "translation": "Wykupiono subskrypcję funkcji {0}.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIPTION_EXCHANGE_FAIL_COUNT_TARGET_body", "source": "Cannot trade due to target having insufficient available trades.", "translation": "Nie można handlować: celowi pozostało zbyt mało dostępnych transakcji.", "status": "draft"}
+{"id": "Message_MSG_SUBSCRIPTION_EXCHANGE_FAIL_COUNT_body", "source": "Cannot trade due to insufficient available trades.", "translation": "Nie można handlować: pozostało zbyt mało dostępnych transakcji.", "status": "draft"}
+{"id": "Message_MSG_SUBZONE_SOCIAL_ACTION_BAN_body", "source": "Emote unavailable in current location.", "translation": "Emotka jest niedostępna w obecnej lokacji.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_EQUIP_MATERIAL_ITEM_body", "source": "Equipped gear cannot be used for Gear Transfer.", "translation": "Założonego wyposażenia nie można użyć do transferu wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_INVALID_MATERIAL_ITEM_body", "source": "This item cannot be used in Gear Transfer.", "translation": "Tego przedmiotu nie można użyć do transferu wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_PRESET_MATERIAL_ITEM_body", "source": "Preset gear cannot be used for Gear Transfer.", "translation": "Wyposażenia z zestawu nie można użyć do transferu wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_PRESET_body", "source": "Cannot use gear registered in a preset.", "translation": "Nie można użyć wyposażenia zarejestrowanego w zestawie.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_SOULBIND_FIXED_ITEM_body", "source": "Gear with fixed Soul Binding effects cannot be used in Gear Transfer.", "translation": "Wyposażenia ze stałymi efektami związania duszy nie można użyć do transferu wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_SOULBIND_OTHERCHARACTER_MATERIAL_ITEM_body", "source": "Gear that has been Soul Bound to another character cannot be used for Gear Transfer.", "translation": "Wyposażenia związanego z duszą innej postaci nie można użyć do transferu wyposażenia.", "status": "draft"}
+{"id": "Message_MSG_SUCCESSION_FAIL_SOULBIND_OTHERCHARACTER_body", "source": "Item is Soul Bound to another character.", "translation": "Przedmiot jest związany z duszą innej postaci.", "status": "draft"}
+{"id": "Message_MSG_SUCCESS_TO_REQUEST_FORCE_INVITATION_body", "source": "Force invitation sent to {0}.", "translation": "Wysłano zaproszenie do grupy rajdowej do {0}.", "status": "draft"}
+{"id": "Message_MSG_SUCCESS_TO_REQUEST_PARTY_INVITATION_body", "source": "Sent party invitation to {0}.", "translation": "Wysłano zaproszenie do drużyny do {0}.", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_ENTER_FAIL_BY_SEASON_body", "source": "Cannot enter as the season has ended.", "translation": "Nie można wejść, ponieważ sezon się zakończył.", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_CANCELED_BY_OTHER_body", "source": "{0} ({1}) matchmaking has been canceled by a matched player.", "translation": "Gracz z dopasowanej grupy anulował dobieranie graczy: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_CANCELED_BY_SEASON_body", "source": "Season has ended. {0} ({1}) matchmaking canceled.", "translation": "Sezon się zakończył. Anulowano dobieranie graczy: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_CANCELED_body", "source": "{0} ({1}) matchmaking canceled.", "translation": "Anulowano dobieranie graczy: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_COMPLETE_body", "source": "{0} ({1}) matchmaking completed.", "translation": "Dobieranie graczy zakończone: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_FORCE_body", "source": "Cannot enter while in a force.", "translation": "Nie można wejść, gdy należysz do grupy rajdowej.", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_START_REQUIRE_DENIED_BY_PARTY_body", "source": "Party member rejected request to start {0} ({1}) matchmaking.", "translation": "Członek drużyny odrzucił prośbę o rozpoczęcie dobierania graczy: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_MATCHING_START_REQUIRE_body", "source": "Received request to start {0} ({1}) matchmaking.", "translation": "Otrzymano prośbę o rozpoczęcie dobierania graczy: {0} ({1}).", "status": "draft"}
+{"id": "Message_MSG_SUPPRESSION_READY_COMPLETE_ENTER_WAITING_body", "source": "Everyone is ready. Entering {1} ({2}) in {0}s.", "translation": "Wszyscy są gotowi. Wejście do {1} ({2}) za {0} s.", "status": "draft"}
+{"id": "Message_MSG_SWITCH_CONTROL_MODE_MOBILE_body", "source": "Control mode settings have been changed for mobile play.", "translation": "Zmieniono ustawienia sterowania na tryb mobilny.", "status": "draft"}
+{"id": "Message_MSG_SWITCH_CONTROL_MODE_PC_body", "source": "Control mode settings have been changed to PC play.", "translation": "Zmieniono ustawienia sterowania na tryb PC.", "status": "draft"}
+{"id": "Message_MSG_SYSTEM_NOT_READY_body", "source": "System is preparing.", "translation": "Trwa przygotowywanie systemu.", "status": "draft"}
+{"id": "Message_MSG_SealStone_Exhaustion_body", "source": "Used all {0}.", "translation": "Wykorzystano wszystkie: {0}.", "status": "draft"}
+{"id": "Message_MSG_SealStone_NeedSealStone_body", "source": "Power Shard not equipped.", "translation": "Nie założono odłamka mocy.", "status": "draft"}
+{"id": "Message_MSG_SealStone_NotHave_body", "source": "No Power Shards.", "translation": "Brak odłamków mocy.", "status": "draft"}
+{"id": "Message_MSG_SealStone_NotWeapon_body", "source": "A weapon must be equipped to use Power Shards.", "translation": "Aby użyć odłamków mocy, należy założyć broń.", "status": "draft"}
+{"id": "Message_MSG_SealStone_OFF_body", "source": "Deactivating {0}.", "translation": "Dezaktywowano: {0}.", "status": "draft"}
+{"id": "Message_MSG_SealStone_ON_body", "source": "Activating {0}.", "translation": "Aktywowano: {0}.", "status": "draft"}
+{"id": "Message_MSG_SealStone_Remain_body", "source": "{0} x{1} remaining.", "translation": "Pozostało: {0} x{1}.", "status": "draft"}
+{"id": "Message_MSG_Server_Transfer_Failure_Message_body", "source": "Cannot transfer to the requested server. Please check game announcements.", "translation": "Nie można przenieść postaci na wybrany serwer. Sprawdź ogłoszenia w grze.", "status": "draft"}
+{"id": "Message_MSG_Soul_Bind_Cancel_body", "source": "Soul Binding canceled.", "translation": "Anulowano związanie duszy.", "status": "draft"}
+{"id": "Message_MSG_Soul_Bind_Interrupted_body", "source": "Soul Binding was forcibly canceled by external interference.", "translation": "Związanie duszy zostało przerwane przez zewnętrzną ingerencję.", "status": "draft"}
+{"id": "Message_MSG_Soul_Bind_Success_ItemName_body", "source": "{0} was Soul Bound at a rate of {1}.", "translation": "{0} zostało związane z duszą z szansą {1}.", "status": "draft"}

@@ -135,7 +135,7 @@
 {"id": "EnvObjData_Basic_Portal_Attack_01_desc", "source": "Destructible Portal", "translation": "Niszczalny portal", "status": "draft"}
 {"id": "EnvObjData_Basic_Portal_Basic_01_desc", "source": "Common Portal", "translation": "Zwykły portal", "status": "draft"}
 {"id": "EnvObjData_Basic_Portal_Crack_01_desc", "source": "Etheria Rift Entrance", "translation": "Wejście do Szczeliny Etherii", "status": "draft"}
-{"id": "EnvObjData_Basic_Portal_Dungeon_02_desc", "source": "Quest Dungeon Portal", "translation": "Portal do lochu zadania", "status": "draft"}
+{"id": "EnvObjData_Basic_Portal_Dungeon_02_desc", "source": "Quest Dungeon Portal", "translation": "Portal do lochu zadaniowego", "status": "draft"}
 {"id": "EnvObjData_Basic_Portal_Dungeon_03_desc", "source": "Party Dungeon Portal", "translation": "Portal do lochu drużynowego", "status": "draft"}
 {"id": "EnvObjData_Basic_Portal_Rift_01_desc", "source": "Spacetime Portal", "translation": "Portal czasoprzestrzenny", "status": "draft"}
 {"id": "EnvObjData_Basic_Portal_Space_01_V01_desc", "source": "Portal Between Walls", "translation": "Portal między Wałami", "status": "draft"}
@@ -157,10 +157,10 @@
 {"id": "EnvObjData_Basic_Pumpkin_01_desc", "source": "Punkini", "translation": "Punkini", "status": "draft"}
 {"id": "EnvObjData_Basic_PurificationTool_01_desc", "source": "Contaminated Water Purification Tool", "translation": "Narzędzie do oczyszczania skażonej wody", "status": "draft"}
 {"id": "EnvObjData_Basic_PurityLight_01_desc", "source": "Purifying Light", "translation": "Oczyszczające światło", "status": "draft"}
-{"id": "EnvObjData_Basic_PuzzleFloor_01_V01_desc", "source": "Floor Puzzle - Blue_V01", "translation": "Niebieska podłoga-puzzle (wariant 01)", "status": "draft"}
-{"id": "EnvObjData_Basic_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska podłoga-puzzle", "status": "draft"}
-{"id": "EnvObjData_Basic_PuzzleFloor_02_V01_desc", "source": "Floor Puzzle - Red_V01", "translation": "Czerwona podłoga-puzzle (wariant 01)", "status": "draft"}
-{"id": "EnvObjData_Basic_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_01_V01_desc", "source": "Floor Puzzle - Blue_V01", "translation": "Niebieska zagadka podłogowa (wariant 01)", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_01_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska zagadka podłogowa", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_02_V01_desc", "source": "Floor Puzzle - Red_V01", "translation": "Czerwona zagadka podłogowa (wariant 01)", "status": "draft"}
+{"id": "EnvObjData_Basic_PuzzleFloor_02_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_Basic_RacingBoard_01_desc", "source": "Slowing Platform", "translation": "Platforma spowalniająca", "status": "draft"}
 {"id": "EnvObjData_Basic_RacingBoard_02_desc", "source": "Booster Platform", "translation": "Platforma przyspieszająca", "status": "draft"}
 {"id": "EnvObjData_Basic_RacingBoard_03_desc", "source": "Updraft Platform", "translation": "Platforma prądu wstępującego", "status": "draft"}
@@ -218,10 +218,10 @@
 {"id": "EnvObjData_Basic_SpiritAltar_02_V01_desc", "source": "Fire Altar_Vari", "translation": "Ołtarz ducha ognia (wariant)", "status": "draft"}
 {"id": "EnvObjData_Basic_SpiritAltar_03_V01_desc", "source": "Earth Altar_Vari", "translation": "Ołtarz ducha ziemi (wariant)", "status": "draft"}
 {"id": "EnvObjData_Basic_SpiritAltar_04_V01_desc", "source": "Water Altar_Vari", "translation": "Ołtarz ducha wody (wariant)", "status": "draft"}
-{"id":"EnvObjData_Basic_SpiritAltar_05_desc","source":"Wind Altar","translation":"Ołtarz ducha wiatru","status":"draft"}
-{"id":"EnvObjData_Basic_SpiritAltar_06_desc","source":"Fire Altar","translation":"Ołtarz ducha ognia","status":"draft"}
-{"id":"EnvObjData_Basic_SpiritAltar_07_desc","source":"Earth Altar","translation":"Ołtarz ducha ziemi","status":"draft"}
-{"id":"EnvObjData_Basic_SpiritAltar_08_desc","source":"Water Altar","translation":"Ołtarz ducha wody","status":"draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_05_desc", "source": "Wind Altar", "translation": "Ołtarz wiatru", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_06_desc", "source": "Fire Altar", "translation": "Ołtarz ognia", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_07_desc", "source": "Earth Altar", "translation": "Ołtarz ziemi", "status": "draft"}
+{"id": "EnvObjData_Basic_SpiritAltar_08_desc", "source": "Water Altar", "translation": "Ołtarz wody", "status": "draft"}
 {"id": "EnvObjData_Basic_SpiritBrazier_01_V01_desc", "source": "Spirit Brazier_Vari", "translation": "Kadzielnica ducha (wariant)", "status": "draft"}
 {"id": "EnvObjData_Basic_SpiritBrazier_01_desc", "source": "Spirit Brazier", "translation": "Kadzielnica ducha", "status": "draft"}
 {"id": "EnvObjData_Basic_SpiritFlower_01_desc", "source": "Spirit Flower", "translation": "Kwiat ducha", "status": "draft"}

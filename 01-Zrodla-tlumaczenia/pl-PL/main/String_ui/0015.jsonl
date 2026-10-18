@@ -1,10 +1,12 @@
+{"id": "String_UI_HUD_KEYGUIDE_DESC_LOOT_body", "source": "Pick up", "translation": "Podnieś", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_MOVE_FLY_body", "source": "Fly", "translation": "Leć", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_MOVE_RIDE_body", "source": "Mount", "translation": "Wsiądź", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_OPEN_body", "source": "Open chest", "translation": "Otwórz skrzynię", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_OPERATION_body", "source": "Action", "translation": "Akcja", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_REST_body", "source": "Rest", "translation": "Odpocznij", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_RIGHTMOVE_body", "source": "Right", "translation": "W prawo", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_SOCIALACTION_body", "source": "Emote: {0}", "translation": "Emotka: {0}", "status": "draft"}
-{"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_DASH_body", "source": "Quick Swim", "translation": "Szybko pływaj", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_DASH_body", "source": "Quick Swim", "translation": "Pływaj szybko", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_DOWN_body", "source": "Descend (Hold)", "translation": "Zejdź (przytrzymaj)", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_SWIM_UP_body", "source": "Ascend (Hold)", "translation": "Wznieś się (przytrzymaj)", "status": "draft"}
 {"id": "String_UI_HUD_KEYGUIDE_DESC_TALK_body", "source": "Talk", "translation": "Rozmawiaj", "status": "draft"}
@@ -246,5 +248,3 @@
 {"id": "String_UI_INGAME_WARNING_BAN_REASON_11036_body", "source": "Boosting Play", "translation": "Podbijanie wyników", "status": "draft"}
 {"id": "String_UI_INGAME_WARNING_BAN_REASON_DEFAULT_body", "source": "Other Policy Violation", "translation": "Inne naruszenie zasad", "status": "draft"}
 {"id": "String_UI_INGAME_WARNING_GUIDE_LABEL11031_body", "source": "Go to Support", "translation": "Przejdź do pomocy technicznej", "status": "draft"}
-{"id": "String_UI_INGAME_WARNING_GUIDE_LABEL11033_body", "source": "Go to authentication", "translation": "Przejdź do uwierzytelniania", "status": "draft"}
-{"id": "String_UI_INGAME_WARNING_GUIDE_MSG11030_1_body", "source": "This account is currently suspended at the user’s request. If you need further assistance, please contact Customer Support.", "translation": "To konto jest obecnie zawieszone na prośbę użytkownika. Jeśli potrzebujesz dalszej pomocy, skontaktuj się z działem obsługi klienta.", "status": "draft"}

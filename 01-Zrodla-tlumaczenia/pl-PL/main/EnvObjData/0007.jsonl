@@ -35,7 +35,7 @@
 {"id": "EnvObjData_E_D1_NornirCargo_01_desc", "source": "Nornir Supply Chest", "translation": "Skrzynia z zaopatrzeniem Nornir", "status": "draft"}
 {"id": "EnvObjData_E_D1_NornirsLodge_TeleportArtifact_001_desc", "source": "Nornir Assembly", "translation": "Zgromadzenie Nornirów", "status": "draft"}
 {"id": "EnvObjData_E_D1_NorthSlaveCamp_TeleportArtifact_001_desc", "source": "North Laborer's Tent", "translation": "Namiot robotników na północy", "status": "draft"}
-{"id": "EnvObjData_E_D1_OldBox_003_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_D1_OldBox_003_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_D1_OldLeatherBag_001_desc", "source": "Wudsson's Bag", "translation": "Torba Wudssona", "status": "draft"}
 {"id": "EnvObjData_E_D1_OldPurifyingAltar_EnterDoor_001_desc", "source": "Old Purifying Altar Door", "translation": "Stare drzwi Ołtarza Oczyszczenia", "status": "draft"}
 {"id": "EnvObjData_E_D1_OldPurifyingAltar_ExitDoor_001_desc", "source": "Old Purifying Altar Door", "translation": "Stare drzwi Ołtarza Oczyszczenia", "status": "draft"}
@@ -48,7 +48,7 @@
 {"id": "EnvObjData_E_D1_PrisonDoor_001_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
 {"id": "EnvObjData_E_D1_PrisonDoor_002_desc", "source": "Prison Door", "translation": "Drzwi więzienne", "status": "draft"}
 {"id": "EnvObjData_E_D1_PrisonObj_002_desc", "source": "Small Wooden Chest", "translation": "Mała drewniana skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_D1_PrisonObj_003_desc", "source": "Small Wooden Chest", "translation": "Stos rozbitych totemów", "status": "draft"}
+{"id": "EnvObjData_E_D1_PrisonObj_003_desc", "source": "Small Wooden Chest", "translation": "Mała drewniana skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_D1_PurificatoryForest_Insk_001_desc", "source": "Forest Marauder Campsite Artifact", "translation": "Artefakt obozowiska leśnych rabusiów", "status": "draft"}
 {"id": "EnvObjData_E_D1_QuairerkCamp_TeleportArtifact_001_desc", "source": "Quai Campsite", "translation": "Obóz Quai", "status": "draft"}
 {"id": "EnvObjData_E_D1_QuairerkCertificate_01_desc", "source": "Quai Merchant Card", "translation": "Karta kupca Quai", "status": "draft"}
@@ -129,7 +129,7 @@
 {"id": "EnvObjData_E_D1_UmbabaTrace_001_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
 {"id": "EnvObjData_E_D1_UmbabaTrace_002_desc", "source": "Blood-Stained Rock", "translation": "Skała splamiona krwią", "status": "draft"}
 {"id": "EnvObjData_E_D1_UmbabaTrace_003_desc", "source": "Society's Totem", "translation": "Totem Stowarzyszenia", "status": "draft"}
-{"id": "EnvObjData_E_D1_VictoryDaevasStatue_TeleportArtifact_001_desc", "source": "Victorious Daeva's Statue", "translation": "Posąg zwycięskiego daeva", "status": "draft"}
+{"id": "EnvObjData_E_D1_VictoryDaevasStatue_TeleportArtifact_001_desc", "source": "Victorious Daeva's Statue", "translation": "Posąg zwycięskiej Daevy", "status": "draft"}
 {"id": "EnvObjData_E_D1_Wagonwheel_01_desc", "source": "Damaged Wagon Wheel", "translation": "Uszkodzone koło wozu", "status": "draft"}
 {"id": "EnvObjData_E_D1_WatchTowerBarracks_Barrier_01_001_desc", "source": "Cave Barrier", "translation": "Bariera jaskini", "status": "draft"}
 {"id": "EnvObjData_E_D1_Watcherstent_TeleportArtifact_001_desc", "source": "Watcher's Tent", "translation": "Namiot obserwatora", "status": "draft"}

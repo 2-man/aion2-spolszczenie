@@ -1,3 +1,7 @@
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_OFFICER_body", "source": "Appoint Elite Officer", "translation": "Mianuj oficera elitarnego", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_SUBMASTER_COUNT_body", "source": "(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})", "translation": "(<ref style=\"{0}\" attr=\"color\">{1}</>/{2})", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_CHANGE_SUBMASTER_body", "source": "Appoint Deputy Commander", "translation": "Mianuj zastępcę dowódcy", "status": "draft"}
+{"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_BUTTON_KICKOUT_body", "source": "Kick", "translation": "Usuń", "status": "draft"}
 {"id": "String_UI_LEGION_POPUP_MEMBERMANAGE_TITLE_body", "source": "Manage Legion Member", "translation": "Zarządzaj członkiem Legionu", "status": "draft"}
 {"id": "String_UI_LEGION_SETTING_body", "source": "Settings", "translation": "Ustawienia", "status": "draft"}
 {"id": "String_UI_LEGION_STORAGE_HISTORY_body", "source": "Storage Record", "translation": "Historia magazynu", "status": "draft"}
@@ -52,7 +56,7 @@
 {"id": "String_UI_LEVELUP_SUBTITLE_ADD_INFO_body", "source": "Additional Info", "translation": "Dodatkowe informacje", "status": "draft"}
 {"id": "String_UI_LEVELUP_SUBTITLE_ADD_PC_STAT_body", "source": "Stat increase", "translation": "Wzrost statystyk", "status": "draft"}
 {"id": "String_UI_LEVELUP_SUBTITLE_SKILL_AUTO_LEARN_body", "source": "Auto Acquire Skills", "translation": "Automatycznie zdobywane umiejętności", "status": "draft"}
-{"id": "String_UI_LEVELUP_SUBTITLE_SKILL_SLOT_OPEN_body", "source": "New Skill Available", "translation": "Nowa dostępna umiejętność", "status": "draft"}
+{"id": "String_UI_LEVELUP_SUBTITLE_SKILL_SLOT_OPEN_body", "source": "New Skill Available", "translation": "Dostępna nowa umiejętność", "status": "draft"}
 {"id": "String_UI_LEVELUP_TITLE_body", "source": "Level Up", "translation": "Awans", "status": "draft"}
 {"id": "String_UI_LOADING_GUIDE_TEXT_body", "source": "Please wait a moment.", "translation": "Chwileczkę.", "status": "draft"}
 {"id": "String_UI_LOBBY_BUTTON_WAIT_CANCEL_body", "source": "Cancel Waiting", "translation": "Anuluj oczekiwanie", "status": "draft"}
@@ -143,7 +147,7 @@
 {"id": "String_UI_LOBBY_SELECTSERVER_TITLE_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
 {"id": "String_UI_LOBBY_WAITCHECK_CHECK_POPUP_TITLE_body", "source": "Checking queue.\nPlease wait just a few moments.", "translation": "Sprawdzanie kolejki.\nProszę chwilę poczekać.", "status": "draft"}
 {"id": "String_UI_LOBBY_WAITCHECK_CONNECT_POPUP_TITLE_body", "source": "Connecting to server.\nPlease wait just a few moments.", "translation": "Łączenie z serwerem.\nProszę chwilę poczekać.", "status": "draft"}
-{"id": "String_UI_LOBBY_WAITCHECK_POPUP_TEXT_body", "source": "To provide a stable play experience, there is a limit to the number of players who can be connected to the game at the same time.\nPlease wait just a few moments.\nYour rank in the queue may be reset if you cancel your wait or the network disconnects for longer than a minute.", "translation": "Aby zapewnić stabilną rozgrywkę, liczba graczy mogących jednocześnie połączyć się z grą jest ograniczona.\nProszę chwilę poczekać.\nTwoje miejsce w kolejce może się zmienić, jeśli anulujesz oczekiwanie lub utracisz połączenie na ponad minutę.", "status": "draft"}
+{"id": "String_UI_LOBBY_WAITCHECK_POPUP_TEXT_body", "source": "To provide a stable play experience, there is a limit to the number of players who can be connected to the game at the same time.\nPlease wait just a few moments.\nYour rank in the queue may be reset if you cancel your wait or the network disconnects for longer than a minute.", "translation": "Aby zapewnić stabilną rozgrywkę, liczba graczy mogących jednocześnie połączyć się z grą jest ograniczona.\nProszę chwilę poczekać.\nMożesz stracić swoje miejsce w kolejce, jeśli anulujesz oczekiwanie lub utracisz połączenie na ponad minutę.", "status": "draft"}
 {"id": "String_UI_LOBBY_WAITCHECK_POPUP_TITLE_body", "source": "Currently {0} player(s) on queue.", "translation": "Aktualna liczba graczy w kolejce: {0}.", "status": "draft"}
 {"id": "String_UI_LOBBY_WARNING_INTEL_CPU_BTN_CONTINUE_body", "source": "Continue", "translation": "Kontynuuj", "status": "draft"}
 {"id": "String_UI_LOBBY_WARNING_INTEL_CPU_BTN_INFO_body", "source": "Troubleshoot", "translation": "Rozwiąż problem", "status": "draft"}
@@ -244,7 +248,3 @@
 {"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_EXPIRE_DAY_READY_body", "source": "Not Yet Activated", "translation": "Jeszcze nieaktywne", "status": "draft"}
 {"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_MENTEE_EXPIRE_DAY_body", "source": "Until End", "translation": "Do zakończenia", "status": "draft"}
 {"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_REWARD_TITLE_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}
-{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_MENTEE_body", "source": "Sprout Badge", "translation": "Odznaka Kiełka", "status": "draft"}
-{"id": "String_UI_MENTOR_DUNGEON_REWARD_POPUP_TITLE_body", "source": "Sprout Badge Rewards", "translation": "Nagrody: Odznaka Kiełka", "status": "draft"}
-{"id": "String_UI_MENTOR_DUNGEON_REWARD_SERVER_GROUP_TAG_body", "source": "Per Server", "translation": "Na serwer", "status": "draft"}
-{"id": "String_UI_MENTOR_DUNGEON_REWARD_TICKET_COUNT_body", "source": "{0}/{1}", "translation": "{0}/{1}", "status": "draft"}

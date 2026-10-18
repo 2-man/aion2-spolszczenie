@@ -1,250 +1,250 @@
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_8_body","source":"Skill Slot 8","translation":"Miejsce umiejętności 8","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_9_body","source":"Skill Slot 9","translation":"Miejsce umiejętności 9","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_DEFIANCE_body","source":"Defiance","translation":"Bunt","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILL_POLYMORPH_body","source":"Skill/Transformation Skill Slot","translation":"Miejsce umiejętności/transformacji","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILL_body","source":"Skill","translation":"Umiejętność","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SPRINT_body","source":"Sprint","translation":"Sprint","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SUBSCRIBE_body","source":"Subscription","translation":"Subskrypcja","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_TAB_body","source":"Change Target","translation":"Zmień cel","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_GRID_DENSE_body","source":"Dense","translation":"Gęsta","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_GRID_NORMAL_body","source":"Normal","translation":"Normalna","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_GRID_TITLE_body","source":"Grid Preview","translation":"Podgląd siatki","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_GRID_WIDE_body","source":"Wide","translation":"Szeroka","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_HIDE_BTN_body","source":"Hide","translation":"Ukryj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_ITEMSLOT_CONDENSE_BTN_body","source":"Compact Slots","translation":"Kompaktowe miejsca","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_ITEMSLOT_EXPAND_BTN_body","source":"Expand Slots","translation":"Rozwiń miejsca","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_QUICKSLOT_DIVIDE_BTN_body","source":"Separate Quickslots","translation":"Rozdziel szybkie sloty","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_QUICKSLOT_GROUP_BTN_body","source":"Regroup Quickslots","translation":"Połącz szybkie sloty","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_REDO_BTN_TOOLTIP_body","source":"Redo","translation":"Ponów","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_RESET_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_RESET_POPUP_BTN_OK_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_RESET_POPUP_DESC_body","source":"Reset HUD edits\nWould you like to revert to default settings?","translation":"Zresetować zmiany HUD?\nCzy przywrócić ustawienia domyślne?","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SAVE_BTN_body","source":"Save","translation":"Zapisz","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SLIDEROPTION_LENGTH_body","source":"Height","translation":"Wysokość","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SLIDEROPTION_WIDTH_body","source":"Width","translation":"Szerokość","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SNAP_FUNCTION_TOOLTIP_body","source":"The snap function causes UI elements to automatically align when moved near another UI element or a grid point.","translation":"Przyciąganie automatycznie wyrównuje elementy interfejsu podczas przesuwania ich w pobliżu innych elementów lub punktów siatki.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SNAP_FUNCTION_body","source":"Snap Function","translation":"Przyciąganie","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SNAP_OFF_body","source":"Off","translation":"Wył.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_SNAP_ON_body","source":"ON","translation":"WŁ.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_TITLE_body","source":"Edit HUD","translation":"Edytuj HUD","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_AGGRO_body","source":"Aggressive","translation":"Agresywny","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_AUTOMOVE_body","source":"Following <desc_point>Player</>","translation":"Podąża za <desc_point>graczem</>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_BOSS_SKILL_NAME_body","source":"Strong Boss Skill Name","translation":"Nazwa silnej umiejętności bossa","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_CASTING_body","source":"Skill/Item Name","translation":"Nazwa umiejętności/przedmiotu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_CHARACTER_NAME_body","source":"Character Name","translation":"Nazwa postaci","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_CHAT_MSG_body","source":"CharacterName obtained <Epic>Heroic Gear</>.","translation":"Postać zdobyła <Epic>bohaterski sprzęt</>.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_CUBE_NUM_body","source":"10/50","translation":"10/50","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_CURRENCY_NUMBER_body","source":"999,999,999,999","translation":"999,999,999,999","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_EXP_PERCENT_body","source":"95.99999%","translation":"95.99999%","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_GATHER_FAIL_body","source":"Failure","translation":"Niepowodzenie","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_GATHER_LEVEL_INFO_body","source":"Extraction Level 50","translation":"Poziom pozyskiwania 50","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_GATHER_RESOURCE_NAME_body","source":"<Epic>Gathering Material name</> (Novice Lv. 1)","translation":"<Epic>Nazwa materiału do zebrania</> (Początkujący, poz. 1)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_GATHER_SUCCESS_body","source":"Success","translation":"Sukces","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_GETITEM_NAME_body","source":"Item Name x99","translation":"Nazwa przedmiotu x99","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_HP_MP_NUM_body","source":"999,999/999,999","translation":"999,999/999,999","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_BODY2_body","source":"Sub Quest Details","translation":"Szczegóły zadania pobocznego","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_BODY_body","source":"Quest Details (Progress/Rewards/Steps)","translation":"Szczegóły zadania (postęp/nagrody/etapy)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_NAME_body","source":"Quest Name","translation":"Nazwa zadania","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_NUM_body","source":"1","translation":"1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_LEVEL_body","source":"45","translation":"45","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_MINIMAP_BTN_NUM_body","source":"4/4","translation":"4/4","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_CHARACTER_NAME_body","source":"Boss Name","translation":"Nazwa bossa","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TAG1_body","source":"Tag 1","translation":"Etykieta 1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TAG2_body","source":"Tag 2","translation":"Etykieta 2","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TYPE_body","source":"Cogni","translation":"Cogni","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_BOSS_NAME_body","source":"Kromede (Boss Name)","translation":"Kromede (nazwa bossa)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_BOSS_TALK_body","source":"Give in and accept your desire!","translation":"Poddaj się i ulegnij swoim pragnieniom!","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_CAPTION_NAME_body","source":"Phazkhi (NPC Name)","translation":"Phazkhi (nazwa NPC)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_CAPTION_TALK_body","source":"Fearless, aren't you, kru?","translation":"Nieźle się trzymasz, kru?","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_FOCUS_NAME_body","source":"Asahr (NPC Name)","translation":"Asahr (nazwa NPC)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_FOCUS_TALK_body","source":"Pass through that mirror and you will meet me again at the end of the path.","translation":"Przejdź przez to lustro, a spotkasz mnie ponownie na końcu drogi.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_ONELINE_TEXT1_body","source":"Explanation","translation":"Opis","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_NPC_ONELINE_TEXT2_body","source":"Found the key in the chest.","translation":"Klucz jest w skrzyni.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_PRESET_NUM_body","source":"1","translation":"1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_PVE_MODE_body","source":"PvE","translation":"PvE","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_QUICKSLOT_COOLTIME_body","source":"5s","translation":"5s","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_ENTRANCE_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_TIME_body","source":"09:59","translation":"09:59","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_TARGET_ALTITUDE_body","source":"99M","translation":"99 m","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_TARGET_CHARACTER_NAME_body","source":"Character Name","translation":"Nazwa postaci","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_TARGET_GROGGY_TIME_body","source":"05:00","translation":"05:00","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_TIME_END_body","source":"10:45:45","translation":"10:45:45","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_USERINFO_ABNORMAL_NUM_body","source":"+7","translation":"+7","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UI_TEXT_USERINFO_ITEMLEVEL_body","source":"3,000","translation":"3,000","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UNDO_BTN_TOOLTIP_body","source":"Undo","translation":"Cofnij","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_UNHIDE_BTN_body","source":"Unhide","translation":"Pokaż","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_DESC2_body","source":"<warning>Will not be saved if there is edited or reset content.</>","translation":"<warning>Nie zostaną zapisane wprowadzone ani zresetowane zmiany.</>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_DESC_body","source":"Change Preset\nChange to Preset {0}?","translation":"Zmień zestaw\nPrzełączyć na zestaw {0}?","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_OK_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_BTN_TOOLTIP_body","source":"Export","translation":"Eksportuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_CODE_COPY_TEXT_body","source":"The selected Preset can be copied and shared as a code.","translation":"Wybrany zestaw można skopiować i udostępnić jako kod.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_CODE_COPY_TITLE_body","source":"Copy as Code","translation":"Kopiuj jako kod","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_FILE_PATH_TEXT_body","source":"File Path: {0}","translation":"Ścieżka pliku: {0}","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_FILE_SAVE_TITLE_body","source":"Export as File","translation":"Eksportuj jako plik","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_EXPORT_TITLE_body","source":"Export","translation":"Eksportuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_BTN_TOOLTIP_body","source":"Load","translation":"Wczytaj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_BTN_body","source":"Import","translation":"Importuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_CODE_PASTE_TEXT_body","source":"Paste the copied Preset Code in the text box.","translation":"Wklej skopiowany kod zestawu w polu tekstowym.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_CODE_TITLE_body","source":"Import Code","translation":"Importuj kod","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_FILE_PATH_TEXT_02_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_FILE_PATH_TEXT_body","source":"Preset files will be uploaded from the path below.","translation":"Pliki zestawów zostaną wczytane z poniższej ścieżki.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_FILE_TITLE_body","source":"Import File","translation":"Importuj plik","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_IMPORT_TITLE_body","source":"Import","translation":"Importuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PRESET_TITLE_body","source":"Preset Settings","translation":"Ustawienia zestawu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PREVIEW_BTN_body","source":"Preview","translation":"Podgląd","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PREVIEW_CLOSE_BTN_body","source":"Exit Preview","translation":"Zamknij podgląd","status":"draft"}
-{"id":"String_UI_HUD_EDIT_PREVIEW_GUIDE_TEXT_body","source":"Viewing Preview","translation":"Podgląd","status":"draft"}
-{"id":"String_UI_HUD_EDIT_REDO_BTN_TOOLTIP_body","source":"Redo","translation":"Ponów","status":"draft"}
-{"id":"String_UI_HUD_EDIT_RESET_BTN_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_RESET_POPUP_BTN_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_RESET_POPUP_BTN_OK_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_RESET_POPUP_DESC_body","source":"Reset HUD edits\nWould you like to revert to default settings?","translation":"Zresetować zmiany HUD?\nCzy przywrócić ustawienia domyślne?","status":"draft"}
-{"id":"String_UI_HUD_EDIT_SAVE_BTN_body","source":"Save","translation":"Zapisz","status":"draft"}
-{"id":"String_UI_HUD_EDIT_SNAP_FUNCTION_TOOLTIP_body","source":"The snap function causes UI elements to automatically align when moved near another UI element or a grid point.","translation":"Przyciąganie automatycznie wyrównuje elementy interfejsu podczas przesuwania ich w pobliżu innych elementów lub punktów siatki.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_SNAP_FUNCTION_body","source":"Snap Function","translation":"Przyciąganie","status":"draft"}
-{"id":"String_UI_HUD_EDIT_SNAP_OFF_body","source":"OFF","translation":"WYŁ.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_SNAP_ON_body","source":"ON","translation":"WŁ.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_TITLE_body","source":"Edit HUD","translation":"Edytuj HUD","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_BTN_GROUP_body","source":"Group","translation":"Grupuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_BTN_HIDE_ALL_body","source":"Batch Hide","translation":"Ukryj wszystko","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_BTN_SHOW_ALL_body","source":"Batch Unhide","translation":"Pokaż wszystko","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_BTN_UNGROUP_body","source":"Ungroup","translation":"Rozgrupuj","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_TOOLTIP_body","source":"Main Target: Buff UI\n* The edited buff UI will be shown instead of the original buff UI.","translation":"Cel główny: interfejs premii\n* Zmieniony interfejs premii będzie widoczny zamiast oryginalnego.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_UI_CANCEL_body","source":"Cancel Buff Edit","translation":"Anuluj edycję premii","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_body","source":"Buff Edit","translation":"Edycja premii","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_AGGRO_body","source":"Aggressive","translation":"Agresywny","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_AUTOMOVE_body","source":"Following <desc_point>Player</>","translation":"Podąża za <desc_point>graczem</>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_BOSS_GIMMICK_GAUGE_body","source":"Boss Mechanism Gauge","translation":"Wskaźnik mechaniki bossa","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_BOSS_SKILL_NAME_body","source":"Strong Boss Skill Name","translation":"Nazwa silnej umiejętności bossa","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_CASTING_body","source":"Skill/Item Name","translation":"Nazwa umiejętności/przedmiotu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_CHARACTER_NAME_body","source":"Character Name","translation":"Nazwa postaci","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_CHAT_MSG_body","source":"CharacterName obtained <Epic>Heroic Gear</>.","translation":"Postać zdobyła <Epic>bohaterski sprzęt</>.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_CUBE_NUM_body","source":"10/50","translation":"10/50","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_CURRENCY_NUMBER_body","source":"999,999,999,999","translation":"999,999,999,999","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_DICE_body","source":"Dice","translation":"Kości","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_GATHER_FAIL_body","source":"Failure","translation":"Niepowodzenie","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_GATHER_LEVEL_INFO_body","source":"Extraction Level 50","translation":"Poziom pozyskiwania 50","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_GATHER_RESOURCE_NAME_body","source":"<Epic>Gathering Material name</> (Novice Lv. 1)","translation":"<Epic>Nazwa materiału do zebrania</> (Początkujący, poz. 1)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_GATHER_SUCCESS_body","source":"Success","translation":"Sukces","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_GETITEM_NAME_body","source":"Item Name x99","translation":"Nazwa przedmiotu x99","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_HP_MP_NUM_body","source":"999,999/999,999","translation":"999,999/999,999","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_JOURNAL_BODY2_body","source":"Sub Quest Details","translation":"Szczegóły zadania pobocznego","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_JOURNAL_BODY_body","source":"Quest Details (Progress/Rewards/Steps)","translation":"Szczegóły zadania (postęp/nagrody/etapy)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_JOURNAL_NAME_body","source":"Quest Name","translation":"Nazwa zadania","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_JOURNAL_NUM_body","source":"1","translation":"1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_KEYGUIDE_DESC_body","source":"Action","translation":"Akcja","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_KEYGUIDE_DO_NOT_SHOW_body","source":"Hide <Ground> Controls","translation":"Ukryj sterowanie <Ground>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_LEGION_body","source":"<Legion>","translation":"<Legion>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_LEVEL_body","source":"45","translation":"45","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINIMAP_BTN_NUM_body","source":"4/4","translation":"4/4","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_GATHER_TYPE_1_body","source":"Gathered Material Name","translation":"Nazwa zebranego materiału","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_GATHER_TYPE_body","source":"Gathered Material Type","translation":"Rodzaj zebranego materiału","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_SETTING_INFO_body","source":"Minimap Info","translation":"Informacje na minimapie","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_SETTING_body","source":"Minimap Filter Settings","translation":"Ustawienia filtrów minimapy","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINI_CHAT_COMMON_body","source":"Common","translation":"Ogólny","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MINI_CHAT_GUIDE_body","source":"Enter your message.","translation":"Wpisz wiadomość.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MONSTER_CHARACTER_NAME_body","source":"Boss Name","translation":"Nazwa bossa","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MONSTER_TAG1_body","source":"Tag 1","translation":"Etykieta 1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MONSTER_TAG2_body","source":"Tag 2","translation":"Etykieta 2","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_MONSTER_TYPE_body","source":"Cogni","translation":"Cogni","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_BOSS_NAME_body","source":"Kromede (Boss Name)","translation":"Kromede (nazwa bossa)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_BOSS_TALK_body","source":"Give in and accept your desire!","translation":"Poddaj się i ulegnij swoim pragnieniom!","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_CAPTION_NAME_body","source":"Phazkhi (NPC Name)","translation":"Phazkhi (nazwa NPC)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_CAPTION_TALK_body","source":"Fearless, aren't you, kru?","translation":"Nieźle się trzymasz, kru?","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_FOCUS_NAME_body","source":"Asahr (NPC Name)","translation":"Asahr (nazwa NPC)","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_FOCUS_TALK_body","source":"Pass through that mirror and you will meet me again at the end of the path.","translation":"Przejdź przez to lustro, a spotkasz mnie ponownie na końcu drogi.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_NAME_body","source":"NPC Name","translation":"Nazwa NPC","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_ONELINE_TEXT1_body","source":"Explanation","translation":"Opis","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_ONELINE_TEXT2_body","source":"Found the key in the chest.","translation":"Klucz jest w skrzyni.","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_NPC_TALK_body","source":"Dialogue Range","translation":"Zakres dialogu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_ORDER_body","source":"Sequential","translation":"Kolejność","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_PARTY1_body","source":"Party 1","translation":"Drużyna 1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_PRESET_NUM_body","source":"1","translation":"1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_PVE_MODE_body","source":"PvE","translation":"PvE","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_QUICKSLOT_COOLTIME_body","source":"5s","translation":"5s","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_SEBZONE_NAME_body","source":"Region Name","translation":"Nazwa regionu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_ENTRANCE_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_TIME_body","source":"09:59","translation":"09:59","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_TARGET_ALTITUDE_body","source":"99M","translation":"99 m","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_TARGET_CHARACTER_NAME_body","source":"Character Name","translation":"Nazwa postaci","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_TARGET_GROGGY_TIME_body","source":"05:00","translation":"05:00","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_TIME_END_body","source":"10:45:45","translation":"10:45:45","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_TITLE_body","source":"Title","translation":"Tytuł","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_USERINFO_ABNORMAL_NUM_body","source":"+7","translation":"+7","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TEXT_USERINFO_ITEMLEVEL_body","source":"3,000","translation":"3,000","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_CHANGE_OUTPUT_LEFT_body","source":"Change to minimize to the left","translation":"Zmień, aby zwijać w lewo","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_CHANGE_OUTPUT_RIGHT_body","source":"Change to minimize to the right","translation":"Zmień, aby zwijać w prawo","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_CONTEXTSKILL_COOLTIME_body","source":"Active Skill Cooldown","translation":"Czas odnowienia aktywnej umiejętności","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_DISPLAY_ORDER_LEFT_body","source":"Change to display from the left","translation":"Zmień, aby wyświetlać od lewej","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_DISPLAY_ORDER_RIGHT_body","source":"Change to display from the right","translation":"Zmień, aby wyświetlać od prawej","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_ELEMENTAL_INFO_body","source":"Spirit Summon Info","translation":"Informacje o przyzwanym duchu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_GET_ITEM_body","source":"Obtained Items Info","translation":"Informacje o zdobytych przedmiotach","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_HIT_TARGET_body","source":"Hit Target","translation":"Cel trafienia","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_PARTY_CREATE_body","source":"Create Party","translation":"Utwórz drużynę","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_POLYMORPH_SKILL_body","source":"Transformation Skill","translation":"Umiejętność transformacji","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_QUEST_LIST_body","source":"Quest and Game Mode Alert UI\n<warning>※ Hiding this UI will conceal it in Abyss and Dungeon game modes, as well as on normal Fields.</>","translation":"Interfejs powiadomień o zadaniach i trybach gry\n<warning>※ Ukrycie tego interfejsu schowa go w trybach Otchłani i lochów, a także na zwykłych polach.</>","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_QUICKSLOT_01_body","source":"Skill Quickslot 1","translation":"Szybki slot umiejętności 1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_QUICKSLOT_02_body","source":"Skill Quickslot 2","translation":"Szybki slot umiejętności 2","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_REMAINING_TIME_body","source":"Time Left","translation":"Pozostały czas","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_REVERSE_DISPLAY_body","source":"Reverse Display Direction","translation":"Odwróć kierunek wyświetlania","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_SHUGOPESTA_NOTICE_body","source":"Event Reminder","translation":"Przypomnienie o wydarzeniu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_STIGMA_SLOT_body","source":"Skill Quickslot 3","translation":"Szybki slot umiejętności 3","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_USABLE_ITEM_SLOT_01_body","source":"Consumables Quickslot 1","translation":"Szybki slot przedmiotów użytkowych 1","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_USABLE_ITEM_SLOT_02_body","source":"Consumables Quickslot 2","translation":"Szybki slot przedmiotów użytkowych 2","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UI_TOOLTIP_VOICECHAT_body","source":"Party/Force Voice Chat","translation":"Czat głosowy drużyny/sojuszu","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UNDO_BTN_TOOLTIP_body","source":"Undo","translation":"Cofnij","status":"draft"}
-{"id":"String_UI_HUD_EDIT_UNHIDE_BTN_TOOLTIP_body","source":"Unhide","translation":"Pokaż","status":"draft"}
-{"id":"String_UI_HUD_EVENT_CONTRIBUTION_RANKING_BTN_body","source":"View All","translation":"Pokaż wszystko","status":"draft"}
-{"id":"String_UI_HUD_EVENT_CONTRIBUTION_RANKING_EMPTY_body","source":"No Point acquisition information.","translation":"Brak informacji o zdobytych punktach.","status":"draft"}
-{"id":"String_UI_HUD_EVENT_CONTRIBUTION_RANKING_INFO_body","source":"Displayed when points are acquired.","translation":"Wyświetlane po zdobyciu punktów.","status":"draft"}
-{"id":"String_UI_HUD_EVENT_CONTRIBUTION_RANKING_TITLE_body","source":"Rank","translation":"Miejsce","status":"draft"}
-{"id":"String_UI_HUD_EVENT_ENTRY_MEMBER_COUNT_body","source":"{0}/<max>{1}</>","translation":"{0}/<max>{1}</>","status":"draft"}
-{"id":"String_UI_HUD_EVENT_ENTRY_MEMBER_RECRUIT_body","source":"Recruiting","translation":"Rekrutacja","status":"draft"}
-{"id":"String_UI_HUD_FIELD_EVENT_ENTRANCE_ICON_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_HUD_FIELD_EVENT_ENTRANCE_TIME_body","source":"{0}:{1}:{2}","translation":"{0}:{1}:{2}","status":"draft"}
-{"id":"String_UI_HUD_GATHER_COMBO_TOOLTIP_FORCE_body","source":"Essence Extraction Effect","translation":"Efekt pozyskiwania esencji","status":"draft"}
-{"id":"String_UI_HUD_GATHER_COMBO_TOOLTIP_SKILL_NAME_LEVEL_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_MASTERY_GUIDE_body","source":"Reached max Proficiency Level. Cannot gain further Proficiency Level EXP.","translation":"Osiągnięto maksymalny poziom biegłości. Nie można zdobywać kolejnych PD biegłości.","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_NO_EXP_GAIN_body","source":"Reached max Proficiency Level. Cannot gain further Proficiency Level EXP. \nSpeak to the Expert Essence Extractor to upgrade.","translation":"Osiągnięto maksymalny poziom biegłości. Nie można zdobywać kolejnych PD biegłości.\nPorozmawiaj z ekspertem pozyskiwania esencji, aby go zwiększyć.","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_PROGRESS_EXTRACTFORCE_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_PROGRESS_FAIL_body","source":"Fail","translation":"Niepowodzenie","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_PROGRESS_MATERIAL_NAME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_HUD_GATHER_POPUP_PROGRESS_SUCCESS_body","source":"Success","translation":"Sukces","status":"draft"}
-{"id":"String_UI_HUD_GETITEM_NAME_body","source":"{0} x{1}","translation":"{0} x{1}","status":"draft"}
-{"id":"String_UI_HUD_INFO_EVENT_LIMIT_TIME_body","source":"Until Event End","translation":"Do końca wydarzenia","status":"draft"}
-{"id":"String_UI_HUD_INFO_EVENT_READY_TIME_body","source":"Until Event Start","translation":"Do rozpoczęcia wydarzenia","status":"draft"}
-{"id":"String_UI_HUD_JOURNAL_COLLECTION_NOTI_02_body","source":"Check the Journal - Collection - {0} tab","translation":"Sprawdź kartę Dziennik – Kolekcja – {0}","status":"draft"}
-{"id":"String_UI_HUD_JOURNAL_COLLECTION_NOTI_body","source":"Selvis has collected new information","translation":"Selvis zebrał nowe informacje","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_AUDITORIUM_body","source":"Start Performance","translation":"Rozpocznij występ","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_AUTOFORWARD_body","source":"Auto Run","translation":"Automatyczny bieg","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_BACKWARD_body","source":"Back","translation":"Wstecz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_BIND_body","source":"Bind","translation":"Przypisz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_CHANGE_CONTROL_MODE_body","source":"Change Control Mode","translation":"Zmień tryb sterowania","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_CHARGE_body","source":"Recharge","translation":"Naładuj","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_CONTROL_body","source":"Interact","translation":"Interakcja","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_CRAFT_body","source":"Craft","translation":"Wytwórz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_CURSORMODE_body","source":"Show Cursor (Hold)","translation":"Pokaż kursor (przytrzymaj)","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_DASH_body","source":"Evasion/Sprint","translation":"Unik/sprint","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_DESTROY_body","source":"Destruction","translation":"Zniszcz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_DO_NOT_SHOW_body","source":"Hide <{0}> Controls","translation":"Ukryj sterowanie <{0}>","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_EXTRACT_body","source":"Rescue","translation":"Uwolnij","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FLYDOWN_body","source":"Descend (Hold)","translation":"Zejdź (przytrzymaj)","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FLYSPRINT_body","source":"Quick Fly","translation":"Szybki lot","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FLYUP_body","source":"Ascend (Hold)","translation":"Wznieś się (przytrzymaj)","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FLY_START_body","source":"Start Flight","translation":"Rozpocznij lot","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FORWARD_FAST_body","source":"Fast Glide (Hold)","translation":"Szybuj szybko (przytrzymaj)","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_FORWARD_body","source":"Forward","translation":"Naprzód","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_GATHER_body","source":"Gather","translation":"Zbierz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_GLIDE_BOOST_body","source":"(Hold) Quick Gliding","translation":"(Przytrzymaj) szybuj szybko","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_GLIDE_DASH_body","source":"(Hold) Quick Gliding","translation":"(Przytrzymaj) szybuj szybko","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_GLIDE_END_body","source":"End Gliding","translation":"Zakończ szybowanie","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_GLIDE_START_body","source":"Change to Glide","translation":"Przejdź do szybowania","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_IGNITE_body","source":"Kindle Flame","translation":"Rozpal płomień","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_JUMP_body","source":"Jump","translation":"Skocz","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_LEFTMOVE_body","source":"Left","translation":"W lewo","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_LOOT_body","source":"Pick up","translation":"Podnieś","status":"draft"}
-{"id":"String_UI_HUD_KEYGUIDE_DESC_MOVE_FLY_body","source":"Fly","translation":"Leć","status":"draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_6_body", "source": "Skill Slot 6", "translation": "Slot umiejętności 6", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_7_body", "source": "Skill Slot 7", "translation": "Slot umiejętności 7", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_8_body", "source": "Skill Slot 8", "translation": "Slot umiejętności 8", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_9_body", "source": "Skill Slot 9", "translation": "Slot umiejętności 9", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_DEFIANCE_body", "source": "Defiance", "translation": "Bunt", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILL_POLYMORPH_body", "source": "Skill/Transformation Skill Slot", "translation": "Slot umiejętności/transformacji", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILL_body", "source": "Skill", "translation": "Umiejętność", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SPRINT_body", "source": "Sprint", "translation": "Sprint", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_SUBSCRIBE_body", "source": "Subscription", "translation": "Subskrypcja", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_DETAILED_TITLE_TAB_body", "source": "Change Target", "translation": "Zmień cel", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_GRID_DENSE_body", "source": "Dense", "translation": "Gęsta", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_GRID_NORMAL_body", "source": "Normal", "translation": "Normalna", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_GRID_TITLE_body", "source": "Grid Preview", "translation": "Podgląd siatki", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_GRID_WIDE_body", "source": "Wide", "translation": "Szeroka", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_HIDE_BTN_body", "source": "Hide", "translation": "Ukryj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_ITEMSLOT_CONDENSE_BTN_body", "source": "Compact Slots", "translation": "Kompaktowe sloty", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_ITEMSLOT_EXPAND_BTN_body", "source": "Expand Slots", "translation": "Rozwiń sloty", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_QUICKSLOT_DIVIDE_BTN_body", "source": "Separate Quickslots", "translation": "Rozdziel szybkie sloty", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_QUICKSLOT_GROUP_BTN_body", "source": "Regroup Quickslots", "translation": "Połącz szybkie sloty", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_REDO_BTN_TOOLTIP_body", "source": "Redo", "translation": "Ponów", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_RESET_POPUP_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_RESET_POPUP_BTN_OK_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_RESET_POPUP_DESC_body", "source": "Reset HUD edits\nWould you like to revert to default settings?", "translation": "Zresetować zmiany HUD?\nCzy przywrócić ustawienia domyślne?", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SAVE_BTN_body", "source": "Save", "translation": "Zapisz", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SLIDEROPTION_LENGTH_body", "source": "Height", "translation": "Wysokość", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SLIDEROPTION_WIDTH_body", "source": "Width", "translation": "Szerokość", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SNAP_FUNCTION_TOOLTIP_body", "source": "The snap function causes UI elements to automatically align when moved near another UI element or a grid point.", "translation": "Przyciąganie automatycznie wyrównuje elementy interfejsu podczas przesuwania ich w pobliżu innych elementów lub punktów siatki.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SNAP_FUNCTION_body", "source": "Snap Function", "translation": "Przyciąganie", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SNAP_OFF_body", "source": "Off", "translation": "Wył.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_SNAP_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_TITLE_body", "source": "Edit HUD", "translation": "Edytuj HUD", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_AGGRO_body", "source": "Aggressive", "translation": "Agresywny", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_AUTOMOVE_body", "source": "Following <desc_point>Player</>", "translation": "Podąża za <desc_point>graczem</>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_BOSS_SKILL_NAME_body", "source": "Strong Boss Skill Name", "translation": "Nazwa silnej umiejętności bossa", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_CASTING_body", "source": "Skill/Item Name", "translation": "Nazwa umiejętności/przedmiotu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_CHARACTER_NAME_body", "source": "Character Name", "translation": "Nazwa postaci", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_CHAT_MSG_body", "source": "CharacterName obtained <Epic>Heroic Gear</>.", "translation": "Postać zdobyła <Epic>bohaterski sprzęt</>.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_CUBE_NUM_body", "source": "10/50", "translation": "10/50", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_CURRENCY_NUMBER_body", "source": "999,999,999,999", "translation": "999,999,999,999", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_EXP_PERCENT_body", "source": "95.99999%", "translation": "95.99999%", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_GATHER_FAIL_body", "source": "Failure", "translation": "Niepowodzenie", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_GATHER_LEVEL_INFO_body", "source": "Extraction Level 50", "translation": "Poziom pozyskiwania 50", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_GATHER_RESOURCE_NAME_body", "source": "<Epic>Gathering Material name</> (Novice Lv. 1)", "translation": "<Epic>Nazwa materiału do zebrania</> (Początkujący, poz. 1)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_GATHER_SUCCESS_body", "source": "Success", "translation": "Sukces", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_GETITEM_NAME_body", "source": "Item Name x99", "translation": "Nazwa przedmiotu x99", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_HP_MP_NUM_body", "source": "999,999/999,999", "translation": "999,999/999,999", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_BODY2_body", "source": "Sub Quest Details", "translation": "Szczegóły zadania pobocznego", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_BODY_body", "source": "Quest Details (Progress/Rewards/Steps)", "translation": "Szczegóły zadania (postęp/nagrody/etapy)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_NAME_body", "source": "Quest Name", "translation": "Nazwa zadania", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_JOURNAL_NUM_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_LEVEL_body", "source": "45", "translation": "45", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_MINIMAP_BTN_NUM_body", "source": "4/4", "translation": "4/4", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_CHARACTER_NAME_body", "source": "Boss Name", "translation": "Nazwa bossa", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TAG1_body", "source": "Tag 1", "translation": "Etykieta 1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TAG2_body", "source": "Tag 2", "translation": "Etykieta 2", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_MONSTER_TYPE_body", "source": "Cogni", "translation": "Cogni", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_BOSS_NAME_body", "source": "Kromede (Boss Name)", "translation": "Kromede (nazwa bossa)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_BOSS_TALK_body", "source": "Give in and accept your desire!", "translation": "Poddaj się i ulegnij swoim pragnieniom!", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_CAPTION_NAME_body", "source": "Phazkhi (NPC Name)", "translation": "Phazkhi (nazwa NPC)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_CAPTION_TALK_body", "source": "Fearless, aren't you, kru?", "translation": "Nieźle się trzymasz, kru?", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_FOCUS_NAME_body", "source": "Asahr (NPC Name)", "translation": "Asahr (nazwa NPC)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_FOCUS_TALK_body", "source": "Pass through that mirror and you will meet me again at the end of the path.", "translation": "Przejdź przez to lustro, a spotkasz mnie ponownie na końcu drogi.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_ONELINE_TEXT1_body", "source": "Explanation", "translation": "Opis", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_NPC_ONELINE_TEXT2_body", "source": "Found the key in the chest.", "translation": "Klucz jest w skrzyni.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_PRESET_NUM_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_PVE_MODE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_QUICKSLOT_COOLTIME_body", "source": "5s", "translation": "5s", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_ENTRANCE_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_SHUGOPESTA_TIME_body", "source": "09:59", "translation": "09:59", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_TARGET_ALTITUDE_body", "source": "99M", "translation": "99 m", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_TARGET_CHARACTER_NAME_body", "source": "Character Name", "translation": "Nazwa postaci", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_TARGET_GROGGY_TIME_body", "source": "05:00", "translation": "05:00", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_TIME_END_body", "source": "10:45:45", "translation": "10:45:45", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_USERINFO_ABNORMAL_NUM_body", "source": "+7", "translation": "+7", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UI_TEXT_USERINFO_ITEMLEVEL_body", "source": "3,000", "translation": "3,000", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UNDO_BTN_TOOLTIP_body", "source": "Undo", "translation": "Cofnij", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_M_UNHIDE_BTN_body", "source": "Unhide", "translation": "Pokaż", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_DESC2_body", "source": "<warning>Will not be saved if there is edited or reset content.</>", "translation": "<warning>Nie zostaną zapisane wprowadzone ani zresetowane zmiany.</>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_DESC_body", "source": "Change Preset\nChange to Preset {0}?", "translation": "Zmień zestaw\nPrzełączyć na zestaw {0}?", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_CHANGE_POPUP_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_BTN_TOOLTIP_body", "source": "Export", "translation": "Eksportuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_CODE_COPY_TEXT_body", "source": "The selected Preset can be copied and shared as a code.", "translation": "Wybrany zestaw można skopiować i udostępnić jako kod.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_CODE_COPY_TITLE_body", "source": "Copy as Code", "translation": "Kopiuj jako kod", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_FILE_PATH_TEXT_body", "source": "File Path: {0}", "translation": "Ścieżka pliku: {0}", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_FILE_SAVE_TITLE_body", "source": "Export as File", "translation": "Eksportuj jako plik", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_EXPORT_TITLE_body", "source": "Export", "translation": "Eksportuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_BTN_TOOLTIP_body", "source": "Load", "translation": "Wczytaj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_BTN_body", "source": "Import", "translation": "Importuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_CODE_PASTE_TEXT_body", "source": "Paste the copied Preset Code in the text box.", "translation": "Wklej skopiowany kod zestawu w polu tekstowym.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_CODE_TITLE_body", "source": "Import Code", "translation": "Importuj kod", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_FILE_PATH_TEXT_02_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_FILE_PATH_TEXT_body", "source": "Preset files will be uploaded from the path below.", "translation": "Pliki zestawów zostaną wczytane z poniższej ścieżki.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_FILE_TITLE_body", "source": "Import File", "translation": "Importuj plik", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_IMPORT_TITLE_body", "source": "Import", "translation": "Importuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PRESET_TITLE_body", "source": "Preset Settings", "translation": "Ustawienia zestawu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PREVIEW_BTN_body", "source": "Preview", "translation": "Podgląd", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PREVIEW_CLOSE_BTN_body", "source": "Exit Preview", "translation": "Zamknij podgląd", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_PREVIEW_GUIDE_TEXT_body", "source": "Viewing Preview", "translation": "Podgląd", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_REDO_BTN_TOOLTIP_body", "source": "Redo", "translation": "Ponów", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_RESET_BTN_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_RESET_POPUP_BTN_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_RESET_POPUP_BTN_OK_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_RESET_POPUP_DESC_body", "source": "Reset HUD edits\nWould you like to revert to default settings?", "translation": "Zresetować zmiany HUD?\nCzy przywrócić ustawienia domyślne?", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_SAVE_BTN_body", "source": "Save", "translation": "Zapisz", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_SNAP_FUNCTION_TOOLTIP_body", "source": "The snap function causes UI elements to automatically align when moved near another UI element or a grid point.", "translation": "Przyciąganie automatycznie wyrównuje elementy interfejsu podczas przesuwania ich w pobliżu innych elementów lub punktów siatki.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_SNAP_FUNCTION_body", "source": "Snap Function", "translation": "Przyciąganie", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_SNAP_OFF_body", "source": "OFF", "translation": "WYŁ.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_SNAP_ON_body", "source": "ON", "translation": "WŁ.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_TITLE_body", "source": "Edit HUD", "translation": "Edytuj HUD", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_BTN_GROUP_body", "source": "Group", "translation": "Grupuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_BTN_HIDE_ALL_body", "source": "Batch Hide", "translation": "Ukryj wszystko", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_BTN_SHOW_ALL_body", "source": "Batch Unhide", "translation": "Pokaż wszystko", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_BTN_UNGROUP_body", "source": "Ungroup", "translation": "Rozgrupuj", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_TOOLTIP_body", "source": "Main Target: Buff UI\n* The edited buff UI will be shown instead of the original buff UI.", "translation": "Cel główny: interfejs wzmocnień\n* Zmieniony interfejs premii będzie widoczny zamiast oryginalnego.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_UI_CANCEL_body", "source": "Cancel Buff Edit", "translation": "Anuluj edycję wzmocnień", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_MAINTARGET_ABNORMAL_EDIT_body", "source": "Buff Edit", "translation": "Edycja wzmocnień", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_AGGRO_body", "source": "Aggressive", "translation": "Agresywny", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_AUTOMOVE_body", "source": "Following <desc_point>Player</>", "translation": "Podąża za <desc_point>graczem</>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_BOSS_GIMMICK_GAUGE_body", "source": "Boss Mechanism Gauge", "translation": "Wskaźnik mechaniki bossa", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_BOSS_SKILL_NAME_body", "source": "Strong Boss Skill Name", "translation": "Nazwa silnej umiejętności bossa", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_CASTING_body", "source": "Skill/Item Name", "translation": "Nazwa umiejętności/przedmiotu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_CHARACTER_NAME_body", "source": "Character Name", "translation": "Nazwa postaci", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_CHAT_MSG_body", "source": "CharacterName obtained <Epic>Heroic Gear</>.", "translation": "Postać zdobyła <Epic>bohaterski sprzęt</>.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_CUBE_NUM_body", "source": "10/50", "translation": "10/50", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_CURRENCY_NUMBER_body", "source": "999,999,999,999", "translation": "999,999,999,999", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_DICE_body", "source": "Dice", "translation": "Kości", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_GATHER_FAIL_body", "source": "Failure", "translation": "Niepowodzenie", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_GATHER_LEVEL_INFO_body", "source": "Extraction Level 50", "translation": "Poziom pozyskiwania 50", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_GATHER_RESOURCE_NAME_body", "source": "<Epic>Gathering Material name</> (Novice Lv. 1)", "translation": "<Epic>Nazwa materiału do zebrania</> (Początkujący, poz. 1)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_GATHER_SUCCESS_body", "source": "Success", "translation": "Sukces", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_GETITEM_NAME_body", "source": "Item Name x99", "translation": "Nazwa przedmiotu x99", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_HP_MP_NUM_body", "source": "999,999/999,999", "translation": "999,999/999,999", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_JOURNAL_BODY2_body", "source": "Sub Quest Details", "translation": "Szczegóły zadania pobocznego", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_JOURNAL_BODY_body", "source": "Quest Details (Progress/Rewards/Steps)", "translation": "Szczegóły zadania (postęp/nagrody/etapy)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_JOURNAL_NAME_body", "source": "Quest Name", "translation": "Nazwa zadania", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_JOURNAL_NUM_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_KEYGUIDE_DESC_body", "source": "Action", "translation": "Akcja", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_KEYGUIDE_DO_NOT_SHOW_body", "source": "Hide <Ground> Controls", "translation": "Ukryj sterowanie <Ground>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_LEGION_body", "source": "<Legion>", "translation": "<Legion>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_LEVEL_body", "source": "45", "translation": "45", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINIMAP_BTN_NUM_body", "source": "4/4", "translation": "4/4", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_GATHER_TYPE_1_body", "source": "Gathered Material Name", "translation": "Nazwa zebranego materiału", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_GATHER_TYPE_body", "source": "Gathered Material Type", "translation": "Rodzaj zebranego materiału", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_SETTING_INFO_body", "source": "Minimap Info", "translation": "Informacje na minimapie", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINIMAP_FILTER_SETTING_body", "source": "Minimap Filter Settings", "translation": "Ustawienia filtrów minimapy", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINI_CHAT_COMMON_body", "source": "Common", "translation": "Ogólny", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MINI_CHAT_GUIDE_body", "source": "Enter your message.", "translation": "Wpisz wiadomość.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MONSTER_CHARACTER_NAME_body", "source": "Boss Name", "translation": "Nazwa bossa", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MONSTER_TAG1_body", "source": "Tag 1", "translation": "Etykieta 1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MONSTER_TAG2_body", "source": "Tag 2", "translation": "Etykieta 2", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_MONSTER_TYPE_body", "source": "Cogni", "translation": "Cogni", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_BOSS_NAME_body", "source": "Kromede (Boss Name)", "translation": "Kromede (nazwa bossa)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_BOSS_TALK_body", "source": "Give in and accept your desire!", "translation": "Poddaj się i ulegnij swoim pragnieniom!", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_CAPTION_NAME_body", "source": "Phazkhi (NPC Name)", "translation": "Phazkhi (nazwa NPC)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_CAPTION_TALK_body", "source": "Fearless, aren't you, kru?", "translation": "Nieźle się trzymasz, kru?", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_FOCUS_NAME_body", "source": "Asahr (NPC Name)", "translation": "Asahr (nazwa NPC)", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_FOCUS_TALK_body", "source": "Pass through that mirror and you will meet me again at the end of the path.", "translation": "Przejdź przez to lustro, a spotkasz mnie ponownie na końcu drogi.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_NAME_body", "source": "NPC Name", "translation": "Nazwa NPC", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_ONELINE_TEXT1_body", "source": "Explanation", "translation": "Opis", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_ONELINE_TEXT2_body", "source": "Found the key in the chest.", "translation": "Klucz jest w skrzyni.", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_NPC_TALK_body", "source": "Dialogue Range", "translation": "Zakres dialogu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_ORDER_body", "source": "Sequential", "translation": "Kolejność", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_PARTY1_body", "source": "Party 1", "translation": "Drużyna 1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_PRESET_NUM_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_PVE_MODE_body", "source": "PvE", "translation": "PvE", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_QUICKSLOT_COOLTIME_body", "source": "5s", "translation": "5s", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_SEBZONE_NAME_body", "source": "Region Name", "translation": "Nazwa regionu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_ENTRANCE_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_SHUGOPESTA_TIME_body", "source": "09:59", "translation": "09:59", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_TARGET_ALTITUDE_body", "source": "99M", "translation": "99 m", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_TARGET_CHARACTER_NAME_body", "source": "Character Name", "translation": "Nazwa postaci", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_TARGET_GROGGY_TIME_body", "source": "05:00", "translation": "05:00", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_TIME_END_body", "source": "10:45:45", "translation": "10:45:45", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_TITLE_body", "source": "Title", "translation": "Tytuł", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_USERINFO_ABNORMAL_NUM_body", "source": "+7", "translation": "+7", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TEXT_USERINFO_ITEMLEVEL_body", "source": "3,000", "translation": "3,000", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_CHANGE_OUTPUT_LEFT_body", "source": "Change to minimize to the left", "translation": "Zmień, aby zwijać w lewo", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_CHANGE_OUTPUT_RIGHT_body", "source": "Change to minimize to the right", "translation": "Zmień, aby zwijać w prawo", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_CONTEXTSKILL_COOLTIME_body", "source": "Active Skill Cooldown", "translation": "Czas odnowienia aktywnej umiejętności", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_DISPLAY_ORDER_LEFT_body", "source": "Change to display from the left", "translation": "Zmień, aby wyświetlać od lewej", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_DISPLAY_ORDER_RIGHT_body", "source": "Change to display from the right", "translation": "Zmień, aby wyświetlać od prawej", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_ELEMENTAL_INFO_body", "source": "Spirit Summon Info", "translation": "Informacje o przyzwanym duchu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_GET_ITEM_body", "source": "Obtained Items Info", "translation": "Informacje o zdobytych przedmiotach", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_HIT_TARGET_body", "source": "Hit Target", "translation": "Cel trafienia", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_PARTY_CREATE_body", "source": "Create Party", "translation": "Utwórz drużynę", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_POLYMORPH_SKILL_body", "source": "Transformation Skill", "translation": "Umiejętność transformacji", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_QUEST_LIST_body", "source": "Quest and Game Mode Alert UI\n<warning>※ Hiding this UI will conceal it in Abyss and Dungeon game modes, as well as on normal Fields.</>", "translation": "Interfejs powiadomień o zadaniach i trybach gry\n<warning>※ Ukrycie tego interfejsu schowa go w trybach Otchłani i lochów, a także na zwykłych polach.</>", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_QUICKSLOT_01_body", "source": "Skill Quickslot 1", "translation": "Szybki slot umiejętności 1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_QUICKSLOT_02_body", "source": "Skill Quickslot 2", "translation": "Szybki slot umiejętności 2", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_REMAINING_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_REVERSE_DISPLAY_body", "source": "Reverse Display Direction", "translation": "Odwróć kierunek wyświetlania", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_SHUGOPESTA_NOTICE_body", "source": "Event Reminder", "translation": "Przypomnienie o wydarzeniu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_STIGMA_SLOT_body", "source": "Skill Quickslot 3", "translation": "Szybki slot umiejętności 3", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_USABLE_ITEM_SLOT_01_body", "source": "Consumables Quickslot 1", "translation": "Szybki slot przedmiotów użytkowych 1", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_USABLE_ITEM_SLOT_02_body", "source": "Consumables Quickslot 2", "translation": "Szybki slot przedmiotów użytkowych 2", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UI_TOOLTIP_VOICECHAT_body", "source": "Party/Force Voice Chat", "translation": "Czat głosowy drużyny/sojuszu", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UNDO_BTN_TOOLTIP_body", "source": "Undo", "translation": "Cofnij", "status": "draft"}
+{"id": "String_UI_HUD_EDIT_UNHIDE_BTN_TOOLTIP_body", "source": "Unhide", "translation": "Pokaż", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_CONTRIBUTION_RANKING_BTN_body", "source": "View All", "translation": "Pokaż wszystko", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_CONTRIBUTION_RANKING_EMPTY_body", "source": "No Point acquisition information.", "translation": "Brak informacji o zdobytych punktach.", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_CONTRIBUTION_RANKING_INFO_body", "source": "Displayed when points are acquired.", "translation": "Wyświetlane po zdobyciu punktów.", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_CONTRIBUTION_RANKING_TITLE_body", "source": "Rank", "translation": "Miejsce", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_ENTRY_MEMBER_COUNT_body", "source": "{0}/<max>{1}</>", "translation": "{0}/<max>{1}</>", "status": "draft"}
+{"id": "String_UI_HUD_EVENT_ENTRY_MEMBER_RECRUIT_body", "source": "Recruiting", "translation": "Rekrutacja", "status": "draft"}
+{"id": "String_UI_HUD_FIELD_EVENT_ENTRANCE_ICON_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_HUD_FIELD_EVENT_ENTRANCE_TIME_body", "source": "{0}:{1}:{2}", "translation": "{0}:{1}:{2}", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_COMBO_TOOLTIP_FORCE_body", "source": "Essence Extraction Effect", "translation": "Efekt pozyskiwania esencji", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_COMBO_TOOLTIP_SKILL_NAME_LEVEL_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_MASTERY_GUIDE_body", "source": "Reached max Proficiency Level. Cannot gain further Proficiency Level EXP.", "translation": "Osiągnięto maksymalny poziom biegłości. Nie można zdobywać kolejnych PD biegłości.", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_NO_EXP_GAIN_body", "source": "Reached max Proficiency Level. Cannot gain further Proficiency Level EXP. \nSpeak to the Expert Essence Extractor to upgrade.", "translation": "Osiągnięto maksymalny poziom biegłości. Nie można zdobywać kolejnych PD biegłości.\nPorozmawiaj z ekspertem pozyskiwania esencji, aby go zwiększyć.", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_PROGRESS_EXTRACTFORCE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_PROGRESS_FAIL_body", "source": "Fail", "translation": "Niepowodzenie", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_PROGRESS_MATERIAL_NAME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_HUD_GATHER_POPUP_PROGRESS_SUCCESS_body", "source": "Success", "translation": "Sukces", "status": "draft"}
+{"id": "String_UI_HUD_GETITEM_NAME_body", "source": "{0} x{1}", "translation": "{0} x{1}", "status": "draft"}
+{"id": "String_UI_HUD_INFO_EVENT_LIMIT_TIME_body", "source": "Until Event End", "translation": "Do końca wydarzenia", "status": "draft"}
+{"id": "String_UI_HUD_INFO_EVENT_READY_TIME_body", "source": "Until Event Start", "translation": "Do rozpoczęcia wydarzenia", "status": "draft"}
+{"id": "String_UI_HUD_JOURNAL_COLLECTION_NOTI_02_body", "source": "Check the Journal - Collection - {0} tab", "translation": "Sprawdź kartę Dziennik – Kolekcja – {0}", "status": "draft"}
+{"id": "String_UI_HUD_JOURNAL_COLLECTION_NOTI_body", "source": "Selvis has collected new information", "translation": "Selvis zebrał nowe informacje", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_AUDITORIUM_body", "source": "Start Performance", "translation": "Rozpocznij występ", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_AUTOFORWARD_body", "source": "Auto Run", "translation": "Automatyczny bieg", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_BACKWARD_body", "source": "Back", "translation": "Wstecz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_BIND_body", "source": "Bind", "translation": "Przypisz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_CHANGE_CONTROL_MODE_body", "source": "Change Control Mode", "translation": "Zmień tryb sterowania", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_CHARGE_body", "source": "Recharge", "translation": "Naładuj", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_CONTROL_body", "source": "Interact", "translation": "Interakcja", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_CRAFT_body", "source": "Craft", "translation": "Wytwórz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_CURSORMODE_body", "source": "Show Cursor (Hold)", "translation": "Pokaż kursor (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_DASH_body", "source": "Evasion/Sprint", "translation": "Unik/sprint", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_DESTROY_body", "source": "Destruction", "translation": "Zniszcz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_DO_NOT_SHOW_body", "source": "Hide <{0}> Controls", "translation": "Ukryj sterowanie <{0}>", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_EXTRACT_body", "source": "Rescue", "translation": "Uwolnij", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FLYDOWN_body", "source": "Descend (Hold)", "translation": "Zejdź (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FLYSPRINT_body", "source": "Quick Fly", "translation": "Szybki lot", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FLYUP_body", "source": "Ascend (Hold)", "translation": "Wznieś się (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FLY_START_body", "source": "Start Flight", "translation": "Rozpocznij lot", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FORWARD_FAST_body", "source": "Fast Glide (Hold)", "translation": "Szybuj szybko (przytrzymaj)", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_FORWARD_body", "source": "Forward", "translation": "Naprzód", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_GATHER_body", "source": "Gather", "translation": "Zbierz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_GLIDE_BOOST_body", "source": "(Hold) Quick Gliding", "translation": "(Przytrzymaj) szybuj szybko", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_GLIDE_DASH_body", "source": "(Hold) Quick Gliding", "translation": "(Przytrzymaj) szybuj szybko", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_GLIDE_END_body", "source": "End Gliding", "translation": "Zakończ szybowanie", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_GLIDE_START_body", "source": "Change to Glide", "translation": "Przejdź do szybowania", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_IGNITE_body", "source": "Kindle Flame", "translation": "Rozpal płomień", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_JUMP_body", "source": "Jump", "translation": "Skocz", "status": "draft"}
+{"id": "String_UI_HUD_KEYGUIDE_DESC_LEFTMOVE_body", "source": "Left", "translation": "W lewo", "status": "draft"}

@@ -1,3 +1,5 @@
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TURNCOUNT_1_body","source":"First turn","translation":"Pierwsza tura","status":"draft"}
+{"id":"String_UI_GATHER_CRAFT_SKILL_INFO_TURNCOUNT_2_body","source":"Turn {0}","translation":"Tura {0}","status":"draft"}
 {"id":"String_UI_GATHER_CRAFT_SKILL_LEVELUP_BUTTON_MAX_body","source":"Max Level","translation":"Maksymalny poziom","status":"draft"}
 {"id":"String_UI_GATHER_CRAFT_SKILL_LEVELUP_BUTTON_body","source":"Level Up","translation":"Awansuj na poziom","status":"draft"}
 {"id":"String_UI_GATHER_CRAFT_SKILL_LEVEL_body","source":"Lv. {0}","translation":"Poz. {0}","status":"draft"}
@@ -21,7 +23,7 @@
 {"id":"String_UI_GATHER_SKILL_CHART_METAL_body","source":"Ore","translation":"Ruda","status":"draft"}
 {"id":"String_UI_GATHER_SKILL_CHART_OD_body","source":"Odyle","translation":"Odyl","status":"draft"}
 {"id":"String_UI_GATHER_SKILL_CHART_SPECIALIZED_body","source":"Specialty Essence Extraction Skill","translation":"Umiejętność pozyskiwania esencji specjalizacji","status":"draft"}
-{"id":"String_UI_GATHER_SKILL_CHART_TREE_body","source":"Log","translation":"Drewno","status":"draft"}
+{"id":"String_UI_GATHER_SKILL_CHART_TREE_body","source":"Log","translation":"Kłoda","status":"draft"}
 {"id":"String_UI_GATHER_SKILL_CHART_USED_SKILL_POINTS_body","source":"{0} SP","translation":"{0} SP","status":"draft"}
 {"id":"String_UI_GATHER_SKILL_INFO_NO_ACQUIRED_body","source":"No Essence Extraction skills acquired.","translation":"Nie zdobyto umiejętności pozyskiwania esencji.","status":"draft"}
 {"id":"String_UI_GATHER_SKILL_INFO_TARGET_ExtractForce_body","source":"All Essence Extraction Gathered Material","translation":"Wszystkie materiały zebrane podczas pozyskiwania esencji","status":"draft"}
@@ -50,7 +52,7 @@
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_NAE_body","source":"North America - East<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Virginia) - Recommended: Eastern U.S.</>","translation":"Ameryka Północna — wschód<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Wirginia) — zalecane: wschodnie USA</>","status":"draft"}
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_DESC_NAW_body","source":"North America - West<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Server Location: Phoenix) - Recommended: Western U.S.</>","translation":"Ameryka Północna — zachód<ref style=\"Lobby_GlobalRegionTooltip_Etc\" attr=\"color\"> (Lokalizacja serwera: Phoenix) — zalecane: zachodnie USA</>","status":"draft"}
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_LIST_body","source":"Global Server List","translation":"Lista serwerów globalnych","status":"draft"}
-{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_MAINTENANCE_DESC_body","source":"The selected region is currently undergoing maintenance and unavailable.","translation":"Wybrany region jest obecnie niedostępny z powodu prac konserwacyjnych.","status":"draft"}
+{"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_MAINTENANCE_DESC_body","source":"The selected region is currently undergoing maintenance and is unavailable.\nPress [Confirm] to exit the game.","translation":"Wybrany region jest obecnie objęty pracami konserwacyjnymi i jest niedostępny.\nNaciśnij [Potwierdź], aby wyjść z gry.","status":"draft"}
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_AS_body","source":"Asia","translation":"Azja","status":"draft"}
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_EU_body","source":"Europe","translation":"Europa","status":"draft"}
 {"id":"String_UI_GLOBAL_SERVICE_SERVER_REGION_NAME_JP_body","source":"Japan","translation":"Japonia","status":"draft"}
@@ -160,14 +162,14 @@
 {"id":"String_UI_GatherMasteryGrade_Up_Forc_Intermediate_Start_body","source":"You must complete a special type of gathering to overcome the limit.\n\nAre you ready?","translation":"Musisz wykonać specjalny rodzaj zbierania, aby przekroczyć limit.\n\nCzy jesteś gotowy?","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_All_body","source":"Common","translation":"Zwykły","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_Common_body","source":"Common","translation":"Zwykły","status":"draft"}
-{"id":"String_UI_GatherSkillCategory_Flower_body","source":"<DNT>","translation":"<DNT>","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_Flower_body","source":"<DNT>","translation":"<DNT>","status":"technical"}
 {"id":"String_UI_GatherSkillCategory_Food_body","source":"Ingredient","translation":"Składnik","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_Herb_body","source":"Herb","translation":"Zioło","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_Jewelry_body","source":"Gem","translation":"Klejnot","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_Metal_body","source":"Ore","translation":"Ruda","status":"draft"}
 {"id":"String_UI_GatherSkillCategory_Od_body","source":"Odyle","translation":"Odyl","status":"draft"}
-{"id":"String_UI_GatherSkillCategory_RareMetal_body","source":"<DNT>","translation":"<DNT>","status":"draft"}
-{"id":"String_UI_GatherSkillCategory_Tree_body","source":"Log","translation":"Drewno","status":"draft"}
+{"id":"String_UI_GatherSkillCategory_RareMetal_body","source":"<DNT>","translation":"<DNT>","status":"technical"}
+{"id":"String_UI_GatherSkillCategory_Tree_body","source":"Log","translation":"Kłoda","status":"draft"}
 {"id":"String_UI_HERO_QUEST_LEVEL_COND_DESC_body","source":"Must reach Level {0}","translation":"Wymagany poziom {0}","status":"draft"}
 {"id":"String_UI_HERO_QUEST_UNIFIEDOBJECTIVESCORE_COND_DESC_body","source":"Unlocked when Ascension Gauge reaches 100%.","translation":"Odblokowuje się po napełnieniu wskaźnika Wstąpienia do 100%.","status":"draft"}
 {"id":"String_UI_HUDEDIT_PRESET_NAME_GUIDE_TEXT_body","source":"Enter the Preset name.","translation":"Wpisz nazwę zestawu.","status":"draft"}
@@ -246,5 +248,3 @@
 {"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_3_body","source":"Skill Slot 3","translation":"Slot umiejętności 3","status":"draft"}
 {"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_4_body","source":"Skill Slot 4","translation":"Slot umiejętności 4","status":"draft"}
 {"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_5_body","source":"Skill Slot 5","translation":"Slot umiejętności 5","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_6_body","source":"Skill Slot 6","translation":"Slot umiejętności 6","status":"draft"}
-{"id":"String_UI_HUD_EDIT_M_DETAILED_TITLE_SKILLSLOT_7_body","source":"Skill Slot 7","translation":"Slot umiejętności 7","status":"draft"}

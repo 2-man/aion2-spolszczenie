@@ -1,3 +1,73 @@
+{"id": "String_STR_M_L1_DP_Drakan_01_001_body", "source": "Plantation Drakan Guard", "translation": "Strażnik Drakan Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Drakan_01_002_body", "source": "Drana Watch Scout", "translation": "Zwiadowca straży Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Drakan_02_Named_body", "source": "Overseer Gaztan", "translation": "Nadzorca Gaztan", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_01_001_body", "source": "Plantation Kobold Gatherer", "translation": "Zbieracz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_01_002_body", "source": "Plantation Kobold Sorter", "translation": "Sortowacz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_01_V01_001_body", "source": "Plantation Kobold Tinkerer", "translation": "Majsterkowicz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_02_001_body", "source": "Plantation Kobold Quarry Worker", "translation": "Robotnik kamieniołomu Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_02_002_body", "source": "Kobold Harvest Laborer", "translation": "Robotnik zbiorów Kobold", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkF_02_003_body", "source": "Plantation Kobold Prospecter", "translation": "Poszukiwacz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkM_01_001_body", "source": "Plantation Kobold Raker", "translation": "Grabiarz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkM_01_V01_001_body", "source": "Plantation Kobold Laborer", "translation": "Robotnik Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkM_02_001_body", "source": "Plantation Kobold Porter", "translation": "Tragarz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkM_02_002_body", "source": "Kobold Cultivation Laborer", "translation": "Robotnik upraw Kobold", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KoboWorkM_02_003_body", "source": "Plantation Kobold Mover", "translation": "Tragarz Kobold z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KrallArc_01_001_body", "source": "Plantation Krall Ranger", "translation": "Zwiadowca Krall z Plantacji", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KrallPrst_01_001_body", "source": "Modified Krall Healer", "translation": "Zmodyfikowany uzdrowiciel Krall", "status": "draft"}
+{"id": "String_STR_M_L1_DP_KrallWar_02_001_body", "source": "Labor Manager Krall", "translation": "Zarządca pracy Krall", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Oculazen_01_001_body", "source": "Labor Watch Oculazen", "translation": "Strażnik pracy Oculazen", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Oculazen_02_001_body", "source": "Labor Manager Oculazen", "translation": "Zarządca pracy Oculazen", "status": "draft"}
+{"id": "String_STR_M_L1_DP_Q_BalaurDevice_01_body", "source": "Balaur Alarm Device", "translation": "Urządzenie alarmowe Balaurów", "status": "draft"}
+{"id": "String_STR_M_L1_DP_R_BeritraC_03_001_body", "source": "Sharpclaw Armed Beast", "translation": "Uzbrojona bestia Ostrych Szponów", "status": "draft"}
+{"id": "String_STR_M_L1_DP_R_DrakanElite_02_001_body", "source": "Processing Facility Drakan Scout", "translation": "Zwiadowca Drakan z zakładu przetwórczego", "status": "draft"}
+{"id": "String_STR_M_L1_DP_R_Karnif_02_001_body", "source": "Sharp Claw Karnif", "translation": "Karnif o ostrych szponach", "status": "draft"}
+{"id": "String_STR_M_L1_DP_R_KrallWar_02_001_body", "source": "Cultivation Krall Scout", "translation": "Zwiadowca Krall z upraw", "status": "draft"}
+{"id": "String_STR_M_L1_DP_summon_BeritraC_06_01_body", "source": "Drakan Alarm Warding Machine", "translation": "Maszyna alarmowo-ochronna Drakan", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D1_INS_DraconuteElite_01_1_body", "source": "Draconute Module Manager", "translation": "Zarządca modułów Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D1_INS_DraconuteElite_01_body", "source": "Draconute Battle Chief", "translation": "Dowódca bojowy Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_Draconute_01_body", "source": "Mantasch Patrol Ranger", "translation": "Zwiadowca patrolu Mantasch", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_Draconute_02_body", "source": "Mantasch Patrol Warrior", "translation": "Wojownik patrolu Mantasch", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_Draconute_03_body", "source": "Mantasch Patrol Tinkerer", "translation": "Majsterkowicz patrolu Mantasch", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_INS_DraKan_01_body", "source": "Patrol Captain Mantasch", "translation": "Kapitan patrolu Mantasch", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_INS_DraconuteElite_01_body", "source": "Patrol Draconute Chief", "translation": "Wódz patrolu Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_INS_Draconute_01_body", "source": "Patrol Draconute Ranger", "translation": "Zwiadowca patrolu Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_INS_Draconute_02_body", "source": "Patrol Draconute Warrior", "translation": "Wojownik patrolu Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D2_INS_Draconute_03_body", "source": "Patrol Draconute Tinkerer", "translation": "Majsterkowicz patrolu Draconute", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D3_INS_DraKan_01_body", "source": "Outpost Captain Sehna", "translation": "Kapitan placówki Sehna", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D3_INS_DranaVar_01_001_body", "source": "Drana Mutant Vector", "translation": "Wektor mutacji Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D3_INS_DranaVar_02_V02_001_body", "source": "Giant Drana Test Subject", "translation": "Wielki obiekt testowy Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D3_INS_DranaVar_03_001_body", "source": "Drana Test Subject", "translation": "Obiekt testowy Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D3_INS_SuraWar_03_001_body", "source": "Failed Drana Mutant", "translation": "Nieudany mutant Drany", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_DraconuteEgg_01_body", "source": "Giant Egg", "translation": "Wielkie jajo", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_Draconute_01_body", "source": "Kraka Draconute Ranger", "translation": "Zwiadowca Draconute Kraka", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_Draconute_02_body", "source": "Kraka Draconute Warrior", "translation": "Wojownik Draconute Kraka", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_Draconute_03_body", "source": "Kraka Draconute Tinkerer", "translation": "Majsterkowicz Draconute Kraka", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_INS_DraKan_01_body", "source": "Poison Fluid Sabga", "translation": "Sabga trującego płynu", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_INS_DraconuteElite_01_body", "source": "Prison Compound Draconute Chief", "translation": "Wódz Draconute z kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_INS_Draconute_01_body", "source": "Prison Compound Draconute Ranger", "translation": "Zwiadowca Draconute z kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_INS_Draconute_02_body", "source": "Prison Compound Draconute Warrior", "translation": "Wojownik Draconute z kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D4_INS_Draconute_03_body", "source": "Prison Compound Draconute Tinkerer", "translation": "Majsterkowicz Draconute z kompleksu więziennego", "status": "draft"}
+{"id": "String_STR_M_L1_DT_D5_INS_DraKan_01_body", "source": "Commanding Captain Maktasha", "translation": "Dowodzący kapitan Maktasha", "status": "draft"}
+{"id": "String_STR_M_L1_DranaMole_01_body", "source": "Valley Armadon", "translation": "Dolinny Armadon", "status": "draft"}
+{"id": "String_STR_M_L1_DranaVar_Named_01_body", "source": "Collapsed Kouros", "translation": "Zawalony Kouros", "status": "draft"}
+{"id": "String_STR_M_L1_EM_SwampGhost_01_body", "source": "Barrier Tower Minion", "translation": "Sługa Wieży Bariery", "status": "draft"}
+{"id": "String_STR_M_L1_EM_SwampGhost_02_body", "source": "Barrier Tower Watcher", "translation": "Obserwator Wieży Bariery", "status": "draft"}
+{"id": "String_STR_M_L1_ER_Crab_01_001_body", "source": "Marsh Moss Potcrab", "translation": "Bagienny omszały krab garnkowy", "status": "draft"}
+{"id": "String_STR_M_L1_ER_DarkEle_01_001_body", "source": "Contaminated Spirit", "translation": "Skażony duch", "status": "draft"}
+{"id": "String_STR_M_L1_ER_ForestGuardianArcher_01_001_body", "source": "Contaminated Draid", "translation": "Skażony Draid", "status": "draft"}
+{"id": "String_STR_M_L1_ER_Fungy_01_001_body", "source": "Marsh Fungie", "translation": "Bagienny Fungie", "status": "draft"}
+{"id": "String_STR_M_L1_ER_OdSpider_04_V01_001_body", "source": "Marsh Odyle Spider", "translation": "Bagienny pająk Odyle", "status": "draft"}
+{"id": "String_STR_M_L1_ER_OdSpider_body", "source": "Coastal Odyle Spider", "translation": "Nadmorski pająk Odyle", "status": "draft"}
+{"id": "String_STR_M_L1_ER_WaterEle_01_001_body", "source": "Coastal Zelophi", "translation": "Nadmorski Zelophi", "status": "draft"}
+{"id": "String_STR_M_L1_ER_WaterEle_01_002_body", "source": "Water Spirit", "translation": "Duch wody", "status": "draft"}
+{"id": "String_STR_M_L1_ER_WaterSkyray_01_body", "source": "Ellun River Lake Skyray", "translation": "Jeziorna płaszczka niebiańska znad rzeki Ellun", "status": "draft"}
+{"id": "String_STR_M_L1_EarthElementalOd_01_body", "source": "Twinkling Kalgolem", "translation": "Migoczący Kalgolem", "status": "draft"}
+{"id": "String_STR_M_L1_EarthElementalOd_03_body", "source": "Splendent Stone Spirit", "translation": "Lśniący duch kamienia", "status": "draft"}
+{"id": "String_STR_M_L1_EllunRiverBigMan_01_body", "source": "Lake Targon", "translation": "Jeziorny Targon", "status": "draft"}
+{"id": "String_STR_M_L1_EllunRiverFish_01_body", "source": "Lake Skama", "translation": "Jeziorna Skama", "status": "draft"}
+{"id": "String_STR_M_L1_EtheriaRift_DarkElement_01_body", "source": "Rampaging Dark Spirit", "translation": "Szalejący mroczny duch", "status": "draft"}
+{"id": "String_STR_M_L1_EtheriaRift_Gartua_01_body", "source": "Oathbreaker Gartua", "translation": "Gartua łamiący przysięgę", "status": "draft"}
+{"id": "String_STR_M_L1_EtheriaRift_LostElement_01_body", "source": "Lost Spirit", "translation": "Zagubiony duch", "status": "draft"}
 {"id": "String_STR_M_L1_FE_Def_BeritraC_01_001_body", "source": "Thieves Marauder", "translation": "Maruder złodziei", "status": "draft"}
 {"id": "String_STR_M_L1_FE_Def_BeritraC_02_001_body", "source": "Thieves Skirmisher", "translation": "Harcownik złodziei", "status": "draft"}
 {"id": "String_STR_M_L1_FE_Def_BeritraC_03_001_body", "source": "Trained Fossa", "translation": "Wyszkolona Fossa", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_M_L1_Nahid_C_BeritraB_01_001_body", "source": "Krall Test Subject", "translation": "Obiekt testowy Krall", "status": "draft"}
 {"id": "String_STR_M_L1_Nahid_C_BeritraB_01_002_body", "source": "Researcher Setram", "translation": "Badacz Setram", "status": "draft"}
 {"id": "String_STR_M_L1_Nahid_C_BeritraC_05_002_body", "source": "Nahid Biological Researcher", "translation": "Badacz biologiczny Nahid", "status": "draft"}
-{"id": "String_STR_M_L1_Nahid_C_BeritraC_06_001_body", "source": "Intruder Seeker", "translation": "Poszukiwacz intruzów", "status": "draft"}
-{"id": "String_STR_M_L1_Nahid_C_BeritraC_08_002_body", "source": "Overseer Pashaad", "translation": "Nadzorca Pashaad", "status": "draft"}
-{"id": "String_STR_M_L1_OV_A_OwlElite_01_Named_body", "source": "Forest Warrior Aullamu", "translation": "Leśny wojownik Aullamu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_A_OwlMagic_01_Named_body", "source": "Scholar Aulla", "translation": "Uczona Aulla", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_Odspider_Spike_01_body", "source": "Aullaeu Forest Spider", "translation": "Leśny pająk Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_SparkyOd_01_body", "source": "Aullaeu Forest Sparkie", "translation": "Leśny Iskiernik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_SparkyOd_02_body", "source": "Aullaeu Forest Giant Sparkie", "translation": "Wielki leśny Iskiernik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_SparkyOd_03_body", "source": "Highland Sparkie", "translation": "Wyżynny Iskiernik", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_SparkyOd_04_body", "source": "Highland Giant Sparkie", "translation": "Wielki wyżynny Iskiernik", "status": "draft"}
-{"id": "String_STR_M_L1_OV_BF_Spier_01_V01_01_body", "source": "Aullaeu Forest Odyle Spider", "translation": "Leśny pająk Odyle Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_B_OwlMagic_01_Named_body", "source": "Dragon Shaman Maullard", "translation": "Smoczy szaman Maullard", "status": "draft"}
-{"id": "String_STR_M_L1_OV_C_OwlElite_01_CV01_Named_body", "source": "Chaser Taulo", "translation": "Tropiciel Taulo", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Conuti_01_002_body", "source": "Sturdy Wood Konutin", "translation": "Wytrzymały drewniany Konutin", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Conuti_02_001_body", "source": "Gathering Manager Konutin Worker", "translation": "Robotnik Konutin, zarządca zbiorów", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Ins_OwlSoldier_01_body", "source": "Aulamus Bodyguard", "translation": "Ochroniarz Aulamusa", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Ins_Owlamus_01_body", "source": "Aulamus", "translation": "Aulamus", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Kuru_01_003_body", "source": "Lazy Kuru Worker", "translation": "Leniwy robotnik Kuru", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Kuru_01_01_body", "source": "Harsh Kuru Tinkerer", "translation": "Surowy majsterkowicz Kuru", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Kuru_01_02_body", "source": "Unruly Kuru Tinkerer", "translation": "Nieposłuszny majsterkowicz Kuru", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Kuru_02_001_body", "source": "Ferocious Kuru Tinkerer", "translation": "Zaciekły majsterkowicz Kuru", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Kuru_03_003_body", "source": "Hungry Kuru Errand Runner", "translation": "Głodny posłaniec Kuru", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlArc_01_01_body", "source": "Aullaeu Village Patrol", "translation": "Patrol wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlArc_02_002_body", "source": "Aullaeu Warden Ranger", "translation": "Zwiadowca dozorcy Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlArc_02_003_body", "source": "Ritualist's Shelter Warden Ranger", "translation": "Zwiadowca dozorcy Schronienia Rytualisty", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlArc_02_004_body", "source": "Aullaeu Patrol Ranger", "translation": "Zwiadowca patrolu Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlArc_02_01_body", "source": "Wandering Aullaeu Ranger", "translation": "Błąkający się zwiadowca Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag01_001_body", "source": "Aullaeu Village Shaman", "translation": "Szaman wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag01_003_body", "source": "Forest Watch Shaman", "translation": "Szaman leśnej straży", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_01_01_body", "source": "Aullaeu Apprentice Shaman", "translation": "Uczeń szamana Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_02_01_body", "source": "Aullaeu Intermediate Shaman", "translation": "Średniozaawansowany szaman Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_03_001_body", "source": "Aullaeu Superior Totem Shaman", "translation": "Starszy szaman totemów Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_03_003_body", "source": "Aullaeu Totem Shaman", "translation": "Szaman totemów Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_03_004_body", "source": "Aullaeu Warden Totem Shaman", "translation": "Szaman totemów dozorcy Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_03_005_body", "source": "Forest Labor Watch Shaman", "translation": "Szaman straży leśnych robotników", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlMag_03_01_body", "source": "Aullaeu Superior Shaman", "translation": "Starszy szaman Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_003_body", "source": "Aullaeu Forest Watch Soldier", "translation": "Żołnierz straży leśnej Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_004_body", "source": "Aullaeu Village Trainee", "translation": "Rekrut wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_005_body", "source": "Forest Worker Watch Soldier", "translation": "Żołnierz straży robotników leśnych", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_006_body", "source": "Forest Labor Manager Soldier", "translation": "Żołnierz zarządcy robotników leśnych", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_01_body", "source": "Wandering Aullaeu Brawler", "translation": "Błąkający się zapaśnik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_01_02_body", "source": "Aullaeu Sentry", "translation": "Czujka Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_03_001_body", "source": "Aullaeu Forest Warden Mercenary", "translation": "Najemnik dozoru leśnego Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_03_01_body", "source": "Aullaeu Village Guard", "translation": "Strażnik wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_03_02_body", "source": "Aullaeu Village Sentry", "translation": "Czujka wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_04_01_body", "source": "Aullaeu Bodyguard", "translation": "Ochroniarz Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_05_002_body", "source": "Aullaeu Forest Watch Patrol", "translation": "Patrol leśnej straży Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_05_003_body", "source": "Ritualist's Shelter Patrol", "translation": "Patrol Schronienia Rytualisty", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_05_004_body", "source": "Forest Labor Watch Patrol", "translation": "Patrol straży leśnych robotników", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_05_005_body", "source": "Forest Hill Watch Patrol", "translation": "Patrol straży leśnego wzgórza", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_05_01_body", "source": "Wandering Aullaeu Warrior", "translation": "Błąkający się wojownik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_06_001_body", "source": "Aullaeu Repository Sentinel", "translation": "Wartownik Składnicy Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_06_002_body", "source": "Aullaeu Sentinel", "translation": "Wartownik Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_06_01_body", "source": "Aullaeu Village Sentinel", "translation": "Wartownik wioski Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_07_01_body", "source": "Wandering Aullaeu Swordsman", "translation": "Błąkający się szermierz Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlSoldier_07_02_body", "source": "Wandering Aullaeu Patrol", "translation": "Błąkający się patrol Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlTotem_03_002_body", "source": "Aullaeu Airborne Totem", "translation": "Powietrzny totem Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlTotem_03_003_body", "source": "Patrolling Airborne Totem", "translation": "Patrolujący powietrzny totem", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlTotem_03_004_body", "source": "Forest Airborne Wooden Totem", "translation": "Leśny drewniany totem powietrzny", "status": "draft"}
-{"id": "String_STR_M_L1_OV_OwlTotem_04_001_body", "source": "Aullaeu Censer Wooden Totem", "translation": "Drewniany totem kadzielnicy Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Pino_01_001_body", "source": "Diligent Pino Worker", "translation": "Pilny robotnik Pino", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Pino_01_01_body", "source": "Pino Worker", "translation": "Robotnik Pino", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Pino_01_02_body", "source": "Pino Laborer", "translation": "Robotnik Pino", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Pino_02_001_body", "source": "Labor Manager Pino", "translation": "Pino, zarządca pracy", "status": "draft"}
-{"id": "String_STR_M_L1_OV_Pino_02_01_body", "source": "Harsh Pino Worker", "translation": "Surowy robotnik Pino", "status": "draft"}
-{"id": "String_STR_M_L1_OV_R_OwlMag_02_001_body", "source": "Aullaeu Shaman Guard", "translation": "Strażnik szamana Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_R_OwlSoldier_04_001_body", "source": "Aullaeu Patrol Guard", "translation": "Strażnik patrolu Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_R_OwlSoldier_04_002_body", "source": "Aullaeu Forest Watch Guard", "translation": "Strażnik leśnej straży Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_R_OwlSoldier_04_003_body", "source": "Aullaeu Camp Guard", "translation": "Strażnik obozu Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OV_StrigikTotemBig_01_01_body", "source": "Aullaeu Wooden Totem", "translation": "Drewniany totem Aullaeu", "status": "draft"}
-{"id": "String_STR_M_L1_OutlawDaevaArc_02_body", "source": "Slumbering Renegade Daeva", "translation": "Drzemiący renegat Daeva", "status": "draft"}

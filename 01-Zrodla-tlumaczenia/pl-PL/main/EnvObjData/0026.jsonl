@@ -1,3 +1,9 @@
+{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_05_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_06_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_06_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_07_desc", "source": "Ruins Door", "translation": "Drzwi ruin", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_030_StoneDoor_07_07_interact_desc", "source": "Opening the tightly sealed door...", "translation": "Otwieranie szczelnie zamkniętych drzwi...", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_031_EnterPortal_001_desc", "source": "Targoth's Cave Entrance", "translation": "Wejście do Jaskini Targotha", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_031_EnterPortal_001_interact_desc", "source": "Entering Targoth's Cave...", "translation": "Wchodzenie do Jaskini Targotha...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_032_EnterPortal_001_desc", "source": "Broken Hall of Knowledge Entrance", "translation": "Wejście do Zniszczonej Sali Wiedzy", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_032_EnterPortal_001_interact_desc", "source": "Entering the Broken Hall of Knowledge...", "translation": "Wchodzenie do Zniszczonej Sali Wiedzy...", "status": "draft"}
@@ -237,14 +243,8 @@
 {"id": "EnvObjData_E_Seal_Verteron_060_Bag_002_interact_desc", "source": "Examining the Bag...", "translation": "Badanie torby...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_Bonfire_001_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_Bonfire_002_desc", "source": "Firepit Cooking Station", "translation": "Palenisko do gotowania", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_BoxPile_Hit_001_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_BoxPile_Hit_002_desc", "source": "Worn Chest", "translation": "Zniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_BoxPile_Hit_001_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
+{"id": "EnvObjData_E_Seal_Verteron_060_BoxPile_Hit_002_desc", "source": "Worn Chest", "translation": "Podniszczona skrzynia", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_DiaryOld_001_desc", "source": "History of Those Left Behind Vol. 1", "translation": "Historia Pozostawionych, t. 1", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_DiaryOld_001_interact_desc", "source": "Examining the Book...", "translation": "Badanie księgi...", "status": "draft"}
 {"id": "EnvObjData_E_Seal_Verteron_060_DiaryOld_002_desc", "source": "Worn Diary", "translation": "Zniszczony dziennik", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_DiaryOld_002_interact_desc", "source": "Examining the Book...", "translation": "Badanie księgi...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_EnterPortal_001_desc", "source": "Collapsed Fortress Cellar Entrance", "translation": "Wejście do Piwnicy Zawalanej Twierdzy", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_EnterPortal_001_interact_desc", "source": "Entering the Collapsed Fortress Cellar...", "translation": "Wchodzenie do Piwnicy Zawalanej Twierdzy...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_001_desc", "source": "Pile of Worn Papers", "translation": "Stos podniszczonych papierów", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_001_interact_desc", "source": "Examining Paper...", "translation": "Badanie papieru...", "status": "draft"}
-{"id": "EnvObjData_E_Seal_Verteron_060_PaperPile_002_desc", "source": "Pile of Worn Papers", "translation": "Stos podniszczonych papierów", "status": "draft"}

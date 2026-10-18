@@ -1,4 +1,4 @@
 {"id": "InventoryFilter_equip_desc", "source": "Gear", "translation": "Wyposażenie", "status": "draft"}
 {"id": "InventoryFilter_gather_desc", "source": "Gathered Materials", "translation": "Zebrane materiały", "status": "draft"}
 {"id": "InventoryFilter_other_desc", "source": "Misc.", "translation": "Różne", "status": "draft"}
-{"id": "InventoryFilter_usable_desc", "source": "Consumables", "translation": "Przedmioty zużywalne", "status": "draft"}
+{"id": "InventoryFilter_usable_desc", "source": "Consumables", "translation": "Przedmioty użytkowe", "status": "draft"}

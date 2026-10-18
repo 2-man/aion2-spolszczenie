@@ -40,13 +40,13 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_19000011_desc_name", "source": "Odyle Flight Frenzy", "translation": "Powietrzny szał Energii Odyle", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000011_desc_summary", "source": "FP Heal over Time", "translation": "Okresowe przywracanie mocy lotu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_name", "source": "Restore HP", "translation": "Przywrócenie PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000013_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_effect", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_name", "source": "Odyle Drop", "translation": "Odyl", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000014_desc_summary", "source": "Flight Power Regen", "translation": "Regeneracja mocy lotu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_effect", "source": "Restores MP", "translation": "Przywraca PM", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_name", "source": "Restore MP", "translation": "Przywrócenie PM", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_name", "source": "MP Regen", "translation": "Regeneracja PM", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000015_desc_summary", "source": "Restores MP", "translation": "Przywraca PM", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000016_desc_effect", "source": "Restore Stamina", "translation": "Przywrócenie wytrzymałości", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19000016_desc_name", "source": "Restore Stamina", "translation": "Przywrócenie wytrzymałości", "status": "draft"}

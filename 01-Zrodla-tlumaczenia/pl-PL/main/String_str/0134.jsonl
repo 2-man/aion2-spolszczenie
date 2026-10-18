@@ -1,250 +1,250 @@
-{"id":"String_STR_Map_Dungeon_Awaken_003_body","source":"Sanctum of Loathing","translation":"Sanktuarium Nienawiści","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_01_body","source":"Depository of Fates (Easy)","translation":"Skład Przeznaczeń (łatwy)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_02_body","source":"Depository of Fates (Normal)","translation":"Skład Przeznaczeń (normalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_03_body","source":"Depository of Fates (Hard)","translation":"Skład Przeznaczeń (trudny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_04_body","source":"Depository of Fates (Challenge)","translation":"Skład Przeznaczeń (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_05_body","source":"Depository of Fates (Insane)","translation":"Skład Przeznaczeń (ekstremalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_06_body","source":"Depository of Fates (Hell)","translation":"Skład Przeznaczeń (piekielny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_004_body","source":"Depository of Fates","translation":"Skład Przeznaczeń","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_01_body","source":"Forgotten Repository (Easy)","translation":"Zapomniany Skład (łatwy)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_02_body","source":"Forgotten Repository (Normal)","translation":"Zapomniany Skład (normalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_03_body","source":"Forgotten Repository (Hard)","translation":"Zapomniany Skład (trudny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_04_body","source":"Forgotten Repository (Challenge)","translation":"Zapomniany Skład (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_05_body","source":"Forgotten Repository (Insane)","translation":"Zapomniany Skład (ekstremalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_06_body","source":"Forgotten Repository (Hell)","translation":"Zapomniany Skład (piekielny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_07_body","source":"Forgotten Repository (Doom)","translation":"Zapomniany Skład (zagłada)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_005_body","source":"Forgotten Repository","translation":"Zapomniany Skład","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_01_body","source":"Chamber of the Dead (Easy)","translation":"Komnata Umarłych (łatwa)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_02_body","source":"Chamber of the Dead (Normal)","translation":"Komnata Umarłych (normalna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_03_body","source":"Chamber of the Dead (Hard)","translation":"Komnata Umarłych (trudna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_04_body","source":"Chamber of the Dead (Challenge)","translation":"Komnata Umarłych (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_05_body","source":"Chamber of the Dead (Insane)","translation":"Komnata Umarłych (ekstremalna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_06_body","source":"Chamber of the Dead (Hell)","translation":"Komnata Umarłych (piekielna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_07_body","source":"Chamber of the Dead (Doom)","translation":"Komnata Umarłych (zagłada)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_006_body","source":"Chamber of the Dead","translation":"Komnata Umarłych","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_009_01_body","source":"Destroyed Temple (Easy)","translation":"Zniszczona Świątynia (łatwa)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0001_body","source":"Crypt","translation":"Krypta","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0002_body","source":"Zikel's Sanctum","translation":"Sanktuarium Zikela","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0006_body","source":"Collapsed Oracle","translation":"Zawalona Wyrocznia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0007_body","source":"Root of the Sacred Tree","translation":"Korzeń Świętego Drzewa","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0008_body","source":"Dranactus Underkeep","translation":"Podziemia Dranactusa","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0009_body","source":"Destruction Archon Underground Fortress","translation":"Podziemna Twierdza Archontów Zagłady","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0010_body","source":"Blades Hideout","translation":"Kryjówka Ostrzy","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0011_body","source":"Impetusium","translation":"Impetusium","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0014_body","source":"Kaisinel's Collapsed Sanctum","translation":"Zawalona Świątynia Kaisinel","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0015_body","source":"Kaisinel's Distorted Dream","translation":"Zniekształcony sen Kaisinel","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0016_body","source":"Shaded Cave","translation":"Zacieniona Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0017_body","source":"Mysterious Grotto","translation":"Tajemnicza Grota","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0018_body","source":"Tunapre Lake Cave","translation":"Jaskinia Jeziora Tunapre","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0019_body","source":"Blades Secret Storage","translation":"Tajny Magazyn Ostrzy","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0020_body","source":"Executioner's Tower","translation":"Wieża Kata","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0021_body","source":"Floating Temple of Arkanis","translation":"Pływająca Świątynia Arkanis","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0022_body","source":"Fire Temple","translation":"Świątynia Ognia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0026_body","source":"Slumbering Frozen Lake Cave","translation":"Jaskinia Uśpionego Zamarzniętego Jeziora","status":"draft"}
-{"id":"String_STR_Map_Dungeon_D_0027_body","source":"Sigebert's Abyss","translation":"Otchłań Sigeberta","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Daily_0001_body","source":"Odylium Repository","translation":"Skład Odylium","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Daily_0002_body","source":"Crobakhi's Secret Depository","translation":"Tajny Skład Crobakhiego","status":"draft"}
-{"id":"String_STR_Map_Dungeon_LD_0013_body","source":"Forgotten Battlefield","translation":"Zapomniane Pole Bitwy","status":"draft"}
-{"id":"String_STR_Map_Dungeon_LD_0025_body","source":"Bulwark","translation":"Bastion","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0002_body","source":"Etheria Rift","translation":"Szczelina Etherii","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0003_body","source":"Dream Remnants","translation":"Pozostałości snu","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0004_body","source":"Illusion Sanctum","translation":"Sanktuarium Iluzji","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0007_Design_body","source":"Ascension Trial Prototype","translation":"Prototyp Próby Wstąpienia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0008_body","source":"Illusion Hideout","translation":"Kryjówka Iluzji","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0009_body","source":"Zumion Relic Storage","translation":"Magazyn Reliktów Zumionu","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0010_body","source":"Nahid Disposal Plant","translation":"Zakład utylizacji Nahid","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0011_body","source":"Ardus Shrine","translation":"Kapliczka Ardusa","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0014_body","source":"Zikel's Collapsed Barracks","translation":"Zikel's zawalona Koszary","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0015_body","source":"Zikel's Distorted Dream","translation":"Zniekształcony sen Zikela","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0016_Design_body","source":"Lepharist Base","translation":"Baza Lepharystów","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0016_body","source":"Clione Lake Cave","translation":"Jaskinia Jeziora Clione","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0017_body","source":"Fountain of Life","translation":"Źródło Życia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0018_body","source":"Light Crash Site","translation":"Miejsce katastrofy Światła","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0019_body","source":"Lepharist Research Center","translation":"Ośrodek Badawczy Lepharystów","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0020_body","source":"Eracus Underground Temple","translation":"Podziemna Świątynia Eracus","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0021_body","source":"Life Prison","translation":"Więzienie Życia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0026_body","source":"Dimensional Barrier","translation":"Bariera Wymiarów","status":"draft"}
-{"id":"String_STR_Map_Dungeon_L_0027_body","source":"Chloris's Abyss","translation":"Otchłań Chloris","status":"draft"}
-{"id":"String_STR_Map_ERidgeofLatesran_body","source":"Latesran Eastern Ridge","translation":"Wschodnia Grań Latesran","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_1_body","source":"Waste Disposal Area","translation":"Obszar Utylizacji Odpadów","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_2_body","source":"Contamination Remnants","translation":"Pozostałości skażenia","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_3_body","source":"Underground Cavity","translation":"Underground Jaskinia","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_4_body","source":"Toxic Waste Tank","translation":"Zbiornik Toksycznych Odpadów","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_5_body","source":"Combined Purification Plant","translation":"Zakład Oczyszczania","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_6_body","source":"Toxic Waste Tank","translation":"Zbiornik Toksycznych Odpadów","status":"draft"}
-{"id":"String_STR_Map_ErosionPurifier_body","source":"Corroded Decontamination Facility","translation":"Skorodowany Zakład Odkażania","status":"draft"}
-{"id":"String_STR_Map_FafniteGully_body","source":"Abyssal Horn Den","translation":"Nora Rogu Otchłani","status":"draft"}
-{"id":"String_STR_Map_Fire_Temple_Arena_body","source":"Fire Temple Arena","translation":"Arena Fire Temple","status":"draft"}
-{"id":"String_STR_Map_Fire_Temple_body","source":"Fire Temple","translation":"Świątynia Ognia","status":"draft"}
-{"id":"String_STR_Map_GlideTower_Test_body","source":"Gliding Tower Test Map","translation":"Mapa testowa Wieży Szybowania","status":"draft"}
-{"id":"String_STR_Map_Growth_Cave_Design_body","source":"Fields of Progress - Cave Theme","translation":"Pola Postępu – motyw jaskini","status":"draft"}
-{"id":"String_STR_Map_Growth_Draupnir_Design_body","source":"Fields of Progress - Draupnir Theme","translation":"Pola Postępu – motyw Draupnira","status":"draft"}
-{"id":"String_STR_Map_Growth_FafniteBasin_Design_body","source":"Fields of Progress - Balaur Theme","translation":"Pola Postępu – motyw Balaurów","status":"draft"}
-{"id":"String_STR_Map_Growth_Forest_Design_body","source":"Fields of Progress - Forest Theme","translation":"Pola Postępu – motyw lasu","status":"draft"}
-{"id":"String_STR_Map_HornCave_body","source":"Ferocious Horn Den","translation":"Nora Groźnego Rogu","status":"draft"}
-{"id":"String_STR_Map_IDDisaster_body","source":"Catastrophic Tower","translation":"Wieża Katastrofy","status":"draft"}
-{"id":"String_STR_Map_IllicitTradeSpot_body","source":"Illicit Trade Spot","translation":"Miejsce Nielegalnego Handlu","status":"draft"}
-{"id":"String_STR_Map_ImagineDungeon_A_body","source":"Gimmick Test Map","translation":"Mapa testowa mechanik","status":"draft"}
-{"id":"String_STR_Map_Impetusium_Arena_body","source":"Impetusium Arena","translation":"Arena Impetusium","status":"draft"}
-{"id":"String_STR_Map_Krao_Cave_Boss_body","source":"Sealed Cave","translation":"Zapieczętowana Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Krao_Cave_body","source":"Krao Cave","translation":"Jaskinia Krao","status":"draft"}
-{"id":"String_STR_Map_LegionDungeon_001_SubZone_body","source":"Legion Dungeon","translation":"Loch Legionu","status":"draft"}
-{"id":"String_STR_Map_LegionDungeon_001_body","source":"Legion Dungeon","translation":"Loch Legionu","status":"draft"}
-{"id":"String_STR_Map_Legion_Agit_01_body","source":"Pantheon","translation":"Panteon","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_1_body","source":"Mirror Chamber","translation":"Komnata Lustrzana","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_2_body","source":"Garden of Dreams","translation":"Ogród Marzeń","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_3_body","source":"Tranquil Rose Garden","translation":"Spokojny Ogród Różany","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_4_body","source":"Garden's Edge","translation":"Skraj Ogrodu","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_5_body","source":"Hall of Sacred Union","translation":"Sala Świętego Zjednoczenia","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_6_body","source":"Garden of Pure Vows","translation":"Ogród Czystych Przysiąg","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_7_body","source":"Path of Eternal Vows","translation":"Ścieżka Wiecznych Ślubów","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_8_body","source":"Chamber of the Scarlet Vow","translation":"Komnata Szkarłatnej Przysięgi","status":"draft"}
-{"id":"String_STR_Map_MirrorHeart_body","source":"Mirror of Scarlet Desire","translation":"Lustro Szkarłatnego Pragnienia","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_1_body","source":"Winged Corridor","translation":"Skrzydlaty Korytarz","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_2_body","source":"Consumed Guardian's Fault","translation":"Rozpadlina Pożartego Strażnika","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_3_body","source":"Scourge's Hatchery","translation":"Wylęgarnia Plagi","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_4_body","source":"Volcano's Heart","translation":"Serce Wulkanu","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_Start_body","source":"Altar of Echoes","translation":"Ołtarz Echa","status":"draft"}
-{"id":"String_STR_Map_MusphelHolyGrail_body","source":"Chalice of Muspel","translation":"Kielich Muspela","status":"draft"}
-{"id":"String_STR_Map_Owl_Design_body","source":"Aullaeu Party Dungeon (Test)","translation":"Grupowy Loch Aullaeu (test)","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_1_body","source":"Hall of Glory","translation":"Sala Chwały","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_2_body","source":"Mirror Corridor","translation":"Lustrzany Korytarz","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_3_body","source":"Reflected Hall","translation":"Sala Odbić","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_4_body","source":"Depths within the Mirror","translation":"Głębie Lustra","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_5_body","source":"Divided Sanctum","translation":"Podzielone Sanktuarium","status":"draft"}
-{"id":"String_STR_Map_PhantomsHall_body","source":"Hall of Illusion","translation":"Sala Iluzji","status":"draft"}
-{"id":"String_STR_Map_Poeta_body","source":"Poeta","translation":"Poeta","status":"draft"}
-{"id":"String_STR_Map_ReforgedAbyss_Design_body","source":"Raid Test","translation":"Test rajdu","status":"draft"}
-{"id":"String_STR_Map_ReforgedAbyss_body","source":"Abyssal Forge: Ludra","translation":"Kuźnia Otchłani: Ludra","status":"draft"}
-{"id":"String_STR_Map_RootCellar_body","source":"Root Cellar","translation":"Root Piwnica","status":"draft"}
-{"id":"String_STR_Map_SF_TEST_body","source":"Scenario Field Test Map","translation":"Testowa Mapa Scenariusza","status":"draft"}
-{"id":"String_STR_Map_SealAdvanced_0001_body","source":"Ruins of the Ancient City of Ru","translation":"Ruiny Starożytnego Miasta Ru","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_001_body","source":"Abandoned Memorial Room","translation":"Opuszczona Sala Pamięci","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_002_body","source":"Trickster's Den","translation":"Legowisko Oszusta","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_003_body","source":"Abandoned One's Grave","translation":"Grobowiec Opuszczonego","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_004_body","source":"Dratona Cave","translation":"Jaskinia Dratony","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_005_body","source":"Predator's Lair","translation":"Legowisko Drapieżnika","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_006_body","source":"Dusk Pit","translation":"Dół Zmierzchu","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_007_body","source":"Lost Ruins","translation":"Zaginione Ruiny","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_008_body","source":"Poisonous Plant Habitat","translation":"Siedlisko Trujących Roślin","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_009_body","source":"Valka's Nest","translation":"Gniazdo Valki","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_010_body","source":"Old Graveyard","translation":"Stary Cmentarz Zbiorowy","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_011_body","source":"Treasure Hunter's Residence","translation":"Rezydencja Treasure Hunter's","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_012_body","source":"Abandoned Archon Jail","translation":"Opuszczone Więzienie Archontów","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_013_body","source":"Fafnite Storage Room","translation":"Skład Fafnitu","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_014_body","source":"Insectoid Tunnel","translation":"Tunel Owadów","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_015_body","source":"Bloodsoaked Confessional","translation":"Krwawy Konfesjonał","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_016_body","source":"Prison of Oblivion","translation":"Więzienie Zapomnienia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_017_body","source":"Watcher's Temporary Outpost","translation":"Tymczasowy Posterunek Obserwatora","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_018_body","source":"Blue Dragon's Trap","translation":"Pułapka Błękitnego Smoka","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_019_body","source":"Hidden Vein Cave","translation":"Jaskinia Ukrytej Żyły","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_020_body","source":"Fortuneteller's Grave","translation":"Grób Wróżbity","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_021_body","source":"Howling Den","translation":"Wyjące Legowisko","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_022_body","source":"Ossuary of the Noble","translation":"Ossuarium Szlachcica","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_023_body","source":"Smuggler's Cave","translation":"Jaskinia Przemytnika","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_024_body","source":"Homish's Prison Compound","translation":"Kompleks Więzienny Homisha","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_025_body","source":"Kumbahum's Cave","translation":"Jaskinia Kumbahuma","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_026_body","source":"Victims' Cave","translation":"Jaskinia Ofiar","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_027_body","source":"Drana Depository","translation":"Skład Drany","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_028_body","source":"High Priest's Ruins","translation":"Ruiny Arcykapłana","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_029_body","source":"Closed Hideout","translation":"Zamknięta Kryjówka","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_030_body","source":"All-Curing Cave","translation":"Jaskinia Panaceum","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_031_body","source":"Fungie Habitat","translation":"Siedlisko Fungie","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_032_body","source":"Library of Wisdom","translation":"Biblioteka Mądrości","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_033_body","source":"Destroyed Scriptorium","translation":"Zniszczone Skryptorium","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_034_body","source":"Dark Root Cave","translation":"Jaskinia Ciemnego Korzenia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_035_body","source":"Unstable Cave","translation":"Niestabilna Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_036_body","source":"Lamnah Base","translation":"Baza Lamnah","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_037_body","source":"Twisted Pit","translation":"Skręcony Dół","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_038_body","source":"Rift Fissure","translation":"Rozpadlina Rift","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_039_body","source":"Scale Altar","translation":"Ołtarz Łusek","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_040_body","source":"Library of Foresight","translation":"Biblioteka Proroctw","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_041_body","source":"Skurv Laborer Den","translation":"Legowisko Robotników Skurv","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_042_body","source":"Dratona Assembly Area","translation":"Obszar Zgromadzeń Dratona","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_043_body","source":"Place of Rest","translation":"Miejsce Wytchnienia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_044_body","source":"Final Haven","translation":"Ostatnia Przystań","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_045_body","source":"Worshiper's Underground Cave","translation":"Podziemna Jaskinia Wyznawcy","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_046_body","source":"Fanatics' Den","translation":"Legowisko Fanatyków","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_047_body","source":"Spider Cave","translation":"Jaskinia Pająków","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_048_body","source":"Empty Cave","translation":"Pusta Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_049_body","source":"Lonely Rock Chasm","translation":"Rozpadlina Samotnej Skały","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_050_body","source":"Rock Cave","translation":"Skalna Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_051_body","source":"Den of Exiles","translation":"Legowisko Wygnańców","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_052_body","source":"Pirate's Treasure Storage","translation":"Skład Skarbów Pirata","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_053_body","source":"Shulak Cave","translation":"Jaskinia Shulaków","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_054_body","source":"Destruction Archons Armory","translation":"Zbrojownia Archontów Zagłady","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_055_body","source":"Ascetic's Cave","translation":"Jaskinia Ascety","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_056_body","source":"Lagta Fafnite Storage","translation":"Skład Fafnitu Lagta","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_057_body","source":"Warriors' Rest","translation":"Odpoczynek Wojowników","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_058_body","source":"Tayga Breeding Ground","translation":"Teren Lęgowy Taygów","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_059_body","source":"Library of Patience","translation":"Biblioteka Cierpliwości","status":"draft"}
-{"id":"String_STR_Map_Seal_Altgard_060_body","source":"Odylium Marauder Den","translation":"Legowisko Maruderów Odylium","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_061_body","source":"Forgotten Fire Altar","translation":"Ołtarz Zapomnianego Ognia","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_062_body","source":"Abandoned Kromede Base","translation":"Opuszczona Baza Kromede","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_063_body","source":"Verdandi's Oratory","translation":"Oratorium Verdandi","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_064_body","source":"Blades Secret Repository","translation":"Tajny Skarbiec Ostrzy","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_065_body","source":"Frozen Land of Fate","translation":"Zamarznięta Kraina Przeznaczenia","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_066_body","source":"Land of Raging Flame","translation":"Kraina Rozszalałego Płomienia","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_067_body","source":"Pure Spring","translation":"Czyste Źródło","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_068_body","source":"Predator's Nest","translation":"Gniazdo Drapieżnika","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_069_body","source":"Cave of the Stranded","translation":"Jaskinia Zagubionych","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_070_body","source":"Cave of the Exiled Ones","translation":"Jaskinia Wygnańców","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_071_body","source":"Blades Base","translation":"Baza Ostrzy","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_072_body","source":"Patamor Marauder Base","translation":"Baza Maruderów Patamor","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_073_body","source":"Kurpak Special Operations Unit Base","translation":"Baza Jednostki Operacji Specjalnych Kurpak","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_074_body","source":"Camouflaged Fate Archon Base","translation":"Zamaskowana Baza Archontów Losu","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_075_body","source":"Fire Cave","translation":"Jaskinia Ognia","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_076_body","source":"Fate Temple","translation":"Świątynia Losu","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_077_body","source":"Indnath Secret Base","translation":"Tajna Baza Indnath","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_078_body","source":"Guardian Statues' Cave","translation":"Jaskinia Posągów Strażników","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_079_body","source":"Iralcig Naga Cave","translation":"Jaskinia Nagów Iralcig","status":"draft"}
-{"id":"String_STR_Map_Seal_Dark_080_body","source":"Patamor Underwater Cave","translation":"Podwodna Jaskinia Patamor","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_061_body","source":"Hidden Lepharist Research Center","translation":"Ukryte Centrum Badawcze Lepharystów","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_062_body","source":"Abandoned Life Hideout","translation":"Opuszczona Kryjówka Daev Życia","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_063_body","source":"Life Awakening Site","translation":"Miejsce Przebudzenia Życia","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_064_body","source":"Sunken Ancient Legacy","translation":"Zatopione Starożytne Dziedzictwo","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_065_body","source":"Ishtar Logistics Base","translation":"Baza Logistyczna Ishtar","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_066_body","source":"Drok the Outlaw's Den","translation":"Legowisko banity Droka","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_067_body","source":"Filthy Cave","translation":"Plugawa Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_068_body","source":"Defunct Creion Laboratory","translation":"Nieczynne Laboratorium Creion","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_069_body","source":"Fallen Haven","translation":"Upadła Przystań","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_070_body","source":"Life Daeva Library","translation":"Biblioteka Daev Życia","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_071_body","source":"Lepharist Special Operations Research Center","translation":"Ośrodek Badawczy Lepharist Special Operations","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_072_body","source":"Ratcatchers Base","translation":"Baza Łowców Szczurów","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_073_body","source":"Gravarax Research Center","translation":"Centrum Badawcze Gravarax","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_074_body","source":"Manduri Habitat","translation":"Siedlisko Manduri","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_075_body","source":"Mutated Drana Plantation","translation":"Zmutowana Plantacja Drany","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_076_body","source":"Sunken Temple","translation":"Zatopiona Świątynia","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_077_body","source":"Barrier Tower Fortress Vault","translation":"Skarbiec Twierdzy Wieży Bariery","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_078_body","source":"Forgotten Spring","translation":"Zapomniane Źródło","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_079_body","source":"Fugitive Hideout","translation":"Kryjówka Zbiegów","status":"draft"}
-{"id":"String_STR_Map_Seal_Light_080_body","source":"Iagosh's Secret Storage","translation":"Tajny Skład Iagosha","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_001_body","source":"Poacher's Den","translation":"Legowisko Kłusownika","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_002_body","source":"Spirit Flower Cave","translation":"Jaskinia Kwiatu Ducha","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_003_body","source":"Cursed Hideout","translation":"Przeklęta Kryjówka","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_004_body","source":"Mysterious Mushroom Cave","translation":"Tajemnicza Jaskinia Grzybów","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_005_body","source":"Cave of the Defeated","translation":"Jaskinia Pokonanych","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_006_body","source":"Filth Pit","translation":"Dół Nieczystości","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_007_body","source":"Illusionary Ruins","translation":"Ruiny Iluzji","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_008_body","source":"Dehinon's Hideout","translation":"Kryjówka Dehinona","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_009_body","source":"Guardian's Armory","translation":"Zbrojownia Strażnika","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_010_body","source":"Cave of the Desperate","translation":"Jaskinia Zrozpaczonych","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_011_body","source":"Hidden Valley","translation":"Ukryta Dolina","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_012_body","source":"Distorted Cave","translation":"Wypaczona Jaskinia","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_013_body","source":"Corrupted Spiritmaster's Residence","translation":"Skażona Siedziba Zaklinacza Duchów","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_014_body","source":"Karat's Nest","translation":"Gniazdo Karata","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_015_body","source":"Kius' Residence","translation":"Siedziba Kiusa","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_016_body","source":"Lupyllini Habitat","translation":"Lupyllini Siedlisko","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_017_body","source":"Looted Repository","translation":"Ograbiony Skarbiec","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_018_body","source":"Abandoned Odylium Cave","translation":"Opuszczona Jaskinia Odyle","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_019_body","source":"Solitary Rock Tomb","translation":"Grobowiec Samotnej Skały","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_020_body","source":"Kidnapper's Hold","translation":"Kryjówka Porywacza","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_021_body","source":"Marsh Library","translation":"Biblioteka na Mokradłach","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_022_body","source":"Krall Barracks","translation":"Koszary Krallów","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_023_body","source":"Canyon Library","translation":"Biblioteka w Kanionie","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_024_body","source":"Chilly Hideout","translation":"Mroźna Kryjówka","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_025_body","source":"Cave Storage","translation":"Skład w Jaskini","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_026_body","source":"Grave of the Wrathful Dead","translation":"Grób Rozgniewanych Zmarłych","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_027_body","source":"Akilo Thieves Den","translation":"Kryjówka Złodziei Akilo","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_028_body","source":"Deadly Poison Den","translation":"Legowisko Śmiertelnej Trucizny","status":"draft"}
-{"id":"String_STR_Map_Seal_Verteron_029_body","source":"Herb Cave","translation":"Jaskinia Ziół","status":"draft"}
+{"id": "String_STR_Map_BlueBreathIsle_4_body", "source": "Moonlit Land", "translation": "Księżycowa Kraina", "status": "draft"}
+{"id": "String_STR_Map_BlueBreathIsle_5_body", "source": "Moonlit Land", "translation": "Księżycowa Kraina", "status": "draft"}
+{"id": "String_STR_Map_BlueBreathIsle_body", "source": "Azure Breath Island", "translation": "Wyspa Lazurowego Oddechu", "status": "draft"}
+{"id": "String_STR_Map_CoastalCave_body", "source": "Coastal Cave", "translation": "Nadmorska Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_ConqueredTerritory_L_R1_Desc_body", "source": "A gathering place for deserters from the Illusion Cavaliers. The despair caused by the destruction of the Illusion Cavaliers caused many to abandon their pride as Daeva and leave the fortress. Now they are harsh and cruel, unrecognizable as the Cavaliers they once were.", "translation": "Miejsce zbiórki dezerterów z Rycerzy Iluzji. Rozpacz po zniszczeniu Rycerzy Iluzji sprawiła, że wielu porzuciło dumę Daevy i opuściło fortecę. Teraz są surowi i okrutni, nie przypominają już dawnych Rycerzy Iluzji.", "status": "draft"}
+{"id": "String_STR_Map_ConqueredTerritory_L_R1_body", "source": "Deserter Encampment", "translation": "Obóz Dezerterów", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_2_body", "source": "Floating Dimension", "translation": "Pływający Wymiar", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_3_body", "source": "Floating Dimension", "translation": "Pływający Wymiar", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_4_body", "source": "Distorted Spiral", "translation": "Zniekształcona Spirala", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_5_body", "source": "Distorted Crystal Cave", "translation": "Zniekształcona Kryształowa Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_6_body", "source": "Distorted Crystal Cave", "translation": "Zniekształcona Kryształowa Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_7_body", "source": "Collapsed Cradle", "translation": "Zawalona Kolebka", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_8_body", "source": "Collapsed Cradle", "translation": "Zawalona Kolebka", "status": "draft"}
+{"id": "String_STR_Map_CradleNihility_body", "source": "Cradle of Nihility", "translation": "Kolebka Nicości", "status": "draft"}
+{"id": "String_STR_Map_DaevaCitadel_1_body", "source": "Hall of Indomitability", "translation": "Sala Niezłomności", "status": "draft"}
+{"id": "String_STR_Map_DaevaCitadel_2_body", "source": "Tarnished Ramparts", "translation": "Zmatowiałe Wały", "status": "draft"}
+{"id": "String_STR_Map_DaevaCitadel_3_body", "source": "Execution's Crossing", "translation": "Przeprawa Egzekucji", "status": "draft"}
+{"id": "String_STR_Map_DaevaCitadel_4_body", "source": "Defiled Hall of Honor", "translation": "Zbezczeszczona Sala Honoru", "status": "draft"}
+{"id": "String_STR_Map_DaevaCitadel_body", "source": "Citadel of the Fallen Daeva", "translation": "Cytadela Poległego Daevy", "status": "draft"}
+{"id": "String_STR_Map_DeadDramataNest_body", "source": "Dying Dramata's Nest", "translation": "Gniazdo Dying Dramata's", "status": "draft"}
+{"id": "String_STR_Map_Design_Test001_body", "source": "Planning Test Map", "translation": "Mapa testowa projektu", "status": "draft"}
+{"id": "String_STR_Map_DestroyedDebris_A_body", "source": "Dusk Battlefield", "translation": "Pole Bitwy o Zmierzchu", "status": "draft"}
+{"id": "String_STR_Map_DestroyedDebris_B_body", "source": "Shade Island", "translation": "Wyspa Cienia", "status": "draft"}
+{"id": "String_STR_Map_DestroyedDebris_C_body", "source": "Weathered Outcrop", "translation": "Występ skalny Weathered", "status": "draft"}
+{"id": "String_STR_Map_DestroyedDebris_D_body", "source": "Exile Island", "translation": "Wyspa Wygnańców", "status": "draft"}
+{"id": "String_STR_Map_DeusCenter_body", "source": "Deus Research Base", "translation": "Baza Badawcza Deusa", "status": "draft"}
+{"id": "String_STR_Map_Draconic_001_body", "source": "Subjugation Closed", "translation": "Podbój zamknięty", "status": "draft"}
+{"id": "String_STR_Map_Draconic_002_Design_Boss1_Subzone_body", "source": "Courage Plaza", "translation": "Plac Odwagi", "status": "draft"}
+{"id": "String_STR_Map_Draconic_002_Design_Boss2_Subzone_body", "source": "Fighting Spirit Plaza", "translation": "Plac Waleczności", "status": "draft"}
+{"id": "String_STR_Map_Draconic_002_Design_Boss3_Subzone_body", "source": "Fury Plaza", "translation": "Plac Furii", "status": "draft"}
+{"id": "String_STR_Map_Draconic_002_Design_Boss4_Subzone_body", "source": "Annihilation Plaza", "translation": "Plac Zagłady", "status": "draft"}
+{"id": "String_STR_Map_Draconic_002_body", "source": "Beritra Brigade Fortress", "translation": "Twierdza Brygady Beritry", "status": "draft"}
+{"id": "String_STR_Map_Draconic_003_body", "source": "(Draft Level)Subjugation_003", "translation": "(Poziom roboczy)Subjugation_003", "status": "draft"}
+{"id": "String_STR_Map_Draconic_004_body", "source": "Orcus's Grave", "translation": "Grób Orcusa", "status": "draft"}
+{"id": "String_STR_Map_Draconic_005_Boss_Subzone_body", "source": "Fafnite Forge Depths", "translation": "Głębie Kuźni Fafnitu", "status": "draft"}
+{"id": "String_STR_Map_Draconic_005_body", "source": "Fafnite Forge", "translation": "Kuźnia Fafnitu", "status": "draft"}
+{"id": "String_STR_Map_Draconic_006_body", "source": "(Draft Level)Subjugation_006", "translation": "(Poziom roboczy)Subjugation_006", "status": "draft"}
+{"id": "String_STR_Map_Draconic_007_body", "source": "(Draft Level)Subjugation_007", "translation": "(Poziom roboczy)Subjugation_007", "status": "draft"}
+{"id": "String_STR_Map_Draupnir_body", "source": "Draupnir", "translation": "Draupnir", "status": "draft"}
+{"id": "String_STR_Map_DreamCrossroad_body", "source": "Dream Crossroad", "translation": "Skrzyżowanie Snów", "status": "draft"}
+{"id": "String_STR_Map_DreamOfPain_body", "source": "Dream of Torment", "translation": "Sen Udręki", "status": "draft"}
+{"id": "String_STR_Map_DungeonMaze_0001_body", "source": "Fafnium Laboratory (tentative)", "translation": "Laboratorium Fafnium (robocza nazwa)", "status": "draft"}
+{"id": "String_STR_Map_DungeonRush_0001_body", "source": "Abandoned Balaur Fortress (tentative)", "translation": "Opuszczona Twierdza Balaurów (robocza nazwa)", "status": "draft"}
+{"id": "String_STR_Map_DungeonTower_body", "source": "Cavalier Training Ground", "translation": "Teren Treningowy Kawalerzystów", "status": "draft"}
+{"id": "String_STR_Map_DungeonWave_0001_body", "source": "Daeva Bio-Research Base", "translation": "Baza Badań Biologicznych nad Daevami", "status": "draft"}
+{"id": "String_STR_Map_DungeonWave_body", "source": "Wave Dungeon", "translation": "Loch Wave", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_0003_body", "source": "Nightmare", "translation": "Koszmar", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_0004_body", "source": "Narun's Dream", "translation": "Sen Naruna", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_0005_body", "source": "Subspace of Ascension", "translation": "Podprzestrzeń Wstąpienia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_0006_body", "source": "Dream of Shattered Fragments", "translation": "Sen Roztrzaskanych Fragmentów", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_01_body", "source": "Nightmare Altar (Easy)", "translation": "Ołtarz Koszmaru (łatwy)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_02_body", "source": "Nightmare Altar (Normal)", "translation": "Ołtarz Koszmaru (normalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_03_body", "source": "Nightmare Altar (Hard)", "translation": "Ołtarz Koszmaru (trudny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_04_body", "source": "Nightmare Altar (Challenge)", "translation": "Ołtarz Koszmaru (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_05_body", "source": "Nightmare Altar (Insane)", "translation": "Ołtarz Koszmaru (ekstremalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_06_body", "source": "Nightmare Altar (Hell)", "translation": "Ołtarz Koszmaru (piekielny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_001_body", "source": "Nightmare Altar", "translation": "Ołtarz Koszmaru", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_01_body", "source": "Tyrant's Hideout (Easy)", "translation": "Kryjówka Tyrana (łatwa)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_02_body", "source": "Tyrant's Hideout (Normal)", "translation": "Kryjówka Tyrana (normalna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_03_body", "source": "Tyrant's Hideout (Hard)", "translation": "Kryjówka Tyrana (trudna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_04_body", "source": "Tyrant's Hideout (Challenge)", "translation": "Kryjówka Tyrana (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_05_body", "source": "Tyrant's Hideout (Insane)", "translation": "Kryjówka Tyrana (ekstremalna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_06_body", "source": "Tyrant's Hideout (Hell)", "translation": "Kryjówka Tyrana (piekielna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_002_body", "source": "Tyrant's Hideout", "translation": "Kryjówka Tyrana", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_01_body", "source": "Sanctum of Loathing (Easy)", "translation": "Sanktuarium Nienawiści (łatwe)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_02_body", "source": "Sanctum of Loathing (Normal)", "translation": "Sanktuarium Nienawiści (normalne)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_03_body", "source": "Sanctum of Loathing (Hard)", "translation": "Sanktuarium Nienawiści (trudne)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_04_body", "source": "Sanctum of Loathing (Challenge)", "translation": "Sanktuarium Nienawiści (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_05_body", "source": "Sanctum of Loathing (Insane)", "translation": "Sanktuarium Nienawiści (ekstremalne)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_06_body", "source": "Sanctum of Loathing (Hell)", "translation": "Sanktuarium Nienawiści (piekielne)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_003_body", "source": "Sanctum of Loathing", "translation": "Sanktuarium Nienawiści", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_01_body", "source": "Depository of Fates (Easy)", "translation": "Skład Przeznaczeń (łatwy)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_02_body", "source": "Depository of Fates (Normal)", "translation": "Skład Przeznaczeń (normalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_03_body", "source": "Depository of Fates (Hard)", "translation": "Skład Przeznaczeń (trudny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_04_body", "source": "Depository of Fates (Challenge)", "translation": "Skład Przeznaczeń (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_05_body", "source": "Depository of Fates (Insane)", "translation": "Skład Przeznaczeń (ekstremalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_06_body", "source": "Depository of Fates (Hell)", "translation": "Skład Przeznaczeń (piekielny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_004_body", "source": "Depository of Fates", "translation": "Skład Przeznaczeń", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_01_body", "source": "Forgotten Repository (Easy)", "translation": "Zapomniany Skład (łatwy)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_02_body", "source": "Forgotten Repository (Normal)", "translation": "Zapomniany Skład (normalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_03_body", "source": "Forgotten Repository (Hard)", "translation": "Zapomniany Skład (trudny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_04_body", "source": "Forgotten Repository (Challenge)", "translation": "Zapomniany Skład (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_05_body", "source": "Forgotten Repository (Insane)", "translation": "Zapomniany Skład (ekstremalny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_06_body", "source": "Forgotten Repository (Hell)", "translation": "Zapomniany Skład (piekielny)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_07_body", "source": "Forgotten Repository (Doom)", "translation": "Zapomniany Skład (zagłada)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_005_body", "source": "Forgotten Repository", "translation": "Zapomniany Skład", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_01_body", "source": "Chamber of the Dead (Easy)", "translation": "Komnata Umarłych (łatwa)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_02_body", "source": "Chamber of the Dead (Normal)", "translation": "Komnata Umarłych (normalna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_03_body", "source": "Chamber of the Dead (Hard)", "translation": "Komnata Umarłych (trudna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_04_body", "source": "Chamber of the Dead (Challenge)", "translation": "Komnata Umarłych (wyzwanie)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_05_body", "source": "Chamber of the Dead (Insane)", "translation": "Komnata Umarłych (ekstremalna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_06_body", "source": "Chamber of the Dead (Hell)", "translation": "Komnata Umarłych (piekielna)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_07_body", "source": "Chamber of the Dead (Doom)", "translation": "Komnata Umarłych (zagłada)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_006_body", "source": "Chamber of the Dead", "translation": "Komnata Umarłych", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Awaken_009_01_body", "source": "Destroyed Temple (Easy)", "translation": "Zniszczona Świątynia (łatwa)", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0001_body", "source": "Crypt", "translation": "Krypta", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0002_body", "source": "Zikel's Sanctum", "translation": "Sanktuarium Zikela", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0006_body", "source": "Collapsed Oracle", "translation": "Zawalona Wyrocznia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0007_body", "source": "Root of the Sacred Tree", "translation": "Korzeń Świętego Drzewa", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0008_body", "source": "Dranactus Underkeep", "translation": "Podziemia Dranactusa", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0009_body", "source": "Destruction Archon Underground Fortress", "translation": "Podziemna Twierdza Archontów Zagłady", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0010_body", "source": "Blades Hideout", "translation": "Kryjówka Ostrzy", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0011_body", "source": "Impetusium", "translation": "Impetusium", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0014_body", "source": "Kaisinel's Collapsed Sanctum", "translation": "Zawalona Świątynia Kaisinel", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0015_body", "source": "Kaisinel's Distorted Dream", "translation": "Zniekształcony sen Kaisinel", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0016_body", "source": "Shaded Cave", "translation": "Zacieniona Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0017_body", "source": "Mysterious Grotto", "translation": "Tajemnicza Grota", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0018_body", "source": "Tunapre Lake Cave", "translation": "Jaskinia Jeziora Tunapre", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0019_body", "source": "Blades Secret Storage", "translation": "Tajny Magazyn Ostrzy", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0020_body", "source": "Executioner's Tower", "translation": "Wieża Kata", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0021_body", "source": "Floating Temple of Arkanis", "translation": "Pływająca Świątynia Arkanis", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0022_body", "source": "Fire Temple", "translation": "Świątynia Ognia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0026_body", "source": "Slumbering Frozen Lake Cave", "translation": "Jaskinia Uśpionego Zamarzniętego Jeziora", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_D_0027_body", "source": "Sigebert's Abyss", "translation": "Otchłań Sigeberta", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Daily_0001_body", "source": "Odylium Repository", "translation": "Skład Odylium", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_Daily_0002_body", "source": "Crobakhi's Secret Depository", "translation": "Tajny Skład Crobakhiego", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_LD_0013_body", "source": "Forgotten Battlefield", "translation": "Zapomniane Pole Bitwy", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_LD_0025_body", "source": "Bulwark", "translation": "Bastion", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0002_body", "source": "Etheria Rift", "translation": "Szczelina Etherii", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0003_body", "source": "Dream Remnants", "translation": "Pozostałości snu", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0004_body", "source": "Illusion Sanctum", "translation": "Sanktuarium Iluzji", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0007_Design_body", "source": "Ascension Trial Prototype", "translation": "Prototyp Próby Wstąpienia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0008_body", "source": "Illusion Hideout", "translation": "Kryjówka Iluzji", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0009_body", "source": "Zumion Relic Storage", "translation": "Magazyn Reliktów Zumionu", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0010_body", "source": "Nahid Disposal Plant", "translation": "Zakład utylizacji Nahid", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0011_body", "source": "Ardus Shrine", "translation": "Kapliczka Ardusa", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0014_body", "source": "Zikel's Collapsed Barracks", "translation": "Zikel's zawalona Koszary", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0015_body", "source": "Zikel's Distorted Dream", "translation": "Zniekształcony sen Zikela", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0016_Design_body", "source": "Lepharist Base", "translation": "Baza Lepharystów", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0016_body", "source": "Clione Lake Cave", "translation": "Jaskinia Jeziora Clione", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0017_body", "source": "Fountain of Life", "translation": "Źródło Życia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0018_body", "source": "Light Crash Site", "translation": "Miejsce katastrofy Światła", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0019_body", "source": "Lepharist Research Center", "translation": "Ośrodek Badawczy Lepharystów", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0020_body", "source": "Eracus Underground Temple", "translation": "Podziemna Świątynia Eracus", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0021_body", "source": "Life Prison", "translation": "Więzienie Życia", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0026_body", "source": "Dimensional Barrier", "translation": "Bariera Wymiarów", "status": "draft"}
+{"id": "String_STR_Map_Dungeon_L_0027_body", "source": "Chloris's Abyss", "translation": "Otchłań Chloris", "status": "draft"}
+{"id": "String_STR_Map_ERidgeofLatesran_body", "source": "Latesran Eastern Ridge", "translation": "Wschodnia Grań Latesran", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_1_body", "source": "Waste Disposal Area", "translation": "Obszar Utylizacji Odpadów", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_2_body", "source": "Contamination Remnants", "translation": "Pozostałości skażenia", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_3_body", "source": "Underground Cavity", "translation": "Underground Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_4_body", "source": "Toxic Waste Tank", "translation": "Zbiornik Toksycznych Odpadów", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_5_body", "source": "Combined Purification Plant", "translation": "Zakład Oczyszczania", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_6_body", "source": "Toxic Waste Tank", "translation": "Zbiornik Toksycznych Odpadów", "status": "draft"}
+{"id": "String_STR_Map_ErosionPurifier_body", "source": "Corroded Decontamination Facility", "translation": "Skorodowany Zakład Odkażania", "status": "draft"}
+{"id": "String_STR_Map_FafniteGully_body", "source": "Abyssal Horn Den", "translation": "Nora Rogu Otchłani", "status": "draft"}
+{"id": "String_STR_Map_Fire_Temple_Arena_body", "source": "Fire Temple Arena", "translation": "Arena Świątyni Ognia", "status": "draft"}
+{"id": "String_STR_Map_Fire_Temple_body", "source": "Fire Temple", "translation": "Świątynia Ognia", "status": "draft"}
+{"id": "String_STR_Map_GlideTower_Test_body", "source": "Gliding Tower Test Map", "translation": "Mapa testowa Wieży Szybowania", "status": "draft"}
+{"id": "String_STR_Map_Growth_Cave_Design_body", "source": "Fields of Progress - Cave Theme", "translation": "Pola Postępu – motyw jaskini", "status": "draft"}
+{"id": "String_STR_Map_Growth_Draupnir_Design_body", "source": "Fields of Progress - Draupnir Theme", "translation": "Pola Postępu – motyw Draupnira", "status": "draft"}
+{"id": "String_STR_Map_Growth_FafniteBasin_Design_body", "source": "Fields of Progress - Balaur Theme", "translation": "Pola Postępu – motyw Balaurów", "status": "draft"}
+{"id": "String_STR_Map_Growth_Forest_Design_body", "source": "Fields of Progress - Forest Theme", "translation": "Pola Postępu – motyw lasu", "status": "draft"}
+{"id": "String_STR_Map_HornCave_body", "source": "Ferocious Horn Den", "translation": "Nora Groźnego Rogu", "status": "draft"}
+{"id": "String_STR_Map_IDDisaster_body", "source": "Catastrophic Tower", "translation": "Wieża Katastrofy", "status": "draft"}
+{"id": "String_STR_Map_IllicitTradeSpot_body", "source": "Illicit Trade Spot", "translation": "Miejsce Nielegalnego Handlu", "status": "draft"}
+{"id": "String_STR_Map_ImagineDungeon_A_body", "source": "Gimmick Test Map", "translation": "Mapa testowa mechanik", "status": "draft"}
+{"id": "String_STR_Map_Impetusium_Arena_body", "source": "Impetusium Arena", "translation": "Arena Impetusium", "status": "draft"}
+{"id": "String_STR_Map_Krao_Cave_Boss_body", "source": "Sealed Cave", "translation": "Zapieczętowana Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_Krao_Cave_body", "source": "Krao Cave", "translation": "Jaskinia Krao", "status": "draft"}
+{"id": "String_STR_Map_LegionDungeon_001_SubZone_body", "source": "Legion Dungeon", "translation": "Loch Legionu", "status": "draft"}
+{"id": "String_STR_Map_LegionDungeon_001_body", "source": "Legion Dungeon", "translation": "Loch Legionu", "status": "draft"}
+{"id": "String_STR_Map_Legion_Agit_01_body", "source": "Pantheon", "translation": "Panteon", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_1_body", "source": "Mirror Chamber", "translation": "Komnata Lustrzana", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_2_body", "source": "Garden of Dreams", "translation": "Ogród Marzeń", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_3_body", "source": "Tranquil Rose Garden", "translation": "Spokojny Ogród Różany", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_4_body", "source": "Garden's Edge", "translation": "Skraj Ogrodu", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_5_body", "source": "Hall of Sacred Union", "translation": "Sala Świętego Zjednoczenia", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_6_body", "source": "Garden of Pure Vows", "translation": "Ogród Czystych Przysiąg", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_7_body", "source": "Path of Eternal Vows", "translation": "Ścieżka Wiecznych Ślubów", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_8_body", "source": "Chamber of the Scarlet Vow", "translation": "Komnata Szkarłatnej Przysięgi", "status": "draft"}
+{"id": "String_STR_Map_MirrorHeart_body", "source": "Mirror of Scarlet Desire", "translation": "Lustro Szkarłatnego Pragnienia", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_1_body", "source": "Winged Corridor", "translation": "Skrzydlaty Korytarz", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_2_body", "source": "Consumed Guardian's Fault", "translation": "Rozpadlina Pożartego Strażnika", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_3_body", "source": "Scourge's Hatchery", "translation": "Wylęgarnia Plagi", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_4_body", "source": "Volcano's Heart", "translation": "Serce Wulkanu", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_Start_body", "source": "Altar of Echoes", "translation": "Ołtarz Echa", "status": "draft"}
+{"id": "String_STR_Map_MusphelHolyGrail_body", "source": "Chalice of Muspel", "translation": "Kielich Muspela", "status": "draft"}
+{"id": "String_STR_Map_Owl_Design_body", "source": "Aullaeu Party Dungeon (Test)", "translation": "Grupowy Loch Aullaeu (test)", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_1_body", "source": "Hall of Glory", "translation": "Sala Chwały", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_2_body", "source": "Mirror Corridor", "translation": "Lustrzany Korytarz", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_3_body", "source": "Reflected Hall", "translation": "Sala Odbić", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_4_body", "source": "Depths within the Mirror", "translation": "Głębie Lustra", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_5_body", "source": "Divided Sanctum", "translation": "Podzielone Sanktuarium", "status": "draft"}
+{"id": "String_STR_Map_PhantomsHall_body", "source": "Hall of Illusion", "translation": "Sala Iluzji", "status": "draft"}
+{"id": "String_STR_Map_Poeta_body", "source": "Poeta", "translation": "Poeta", "status": "draft"}
+{"id": "String_STR_Map_ReforgedAbyss_Design_body", "source": "Raid Test", "translation": "Test rajdu", "status": "draft"}
+{"id": "String_STR_Map_ReforgedAbyss_body", "source": "Abyssal Forge: Ludra", "translation": "Kuźnia Otchłani: Ludra", "status": "draft"}
+{"id": "String_STR_Map_RootCellar_body", "source": "Root Cellar", "translation": "Root Piwnica", "status": "draft"}
+{"id": "String_STR_Map_SF_TEST_body", "source": "Scenario Field Test Map", "translation": "Testowa Mapa Scenariusza", "status": "draft"}
+{"id": "String_STR_Map_SealAdvanced_0001_body", "source": "Ruins of the Ancient City of Ru", "translation": "Ruiny Starożytnego Miasta Ru", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_001_body", "source": "Abandoned Memorial Room", "translation": "Opuszczona Sala Pamięci", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_002_body", "source": "Trickster's Den", "translation": "Legowisko Oszusta", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_003_body", "source": "Abandoned One's Grave", "translation": "Grobowiec Opuszczonego", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_004_body", "source": "Dratona Cave", "translation": "Jaskinia Dratony", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_005_body", "source": "Predator's Lair", "translation": "Legowisko Drapieżnika", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_006_body", "source": "Dusk Pit", "translation": "Dół Zmierzchu", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_007_body", "source": "Lost Ruins", "translation": "Zaginione Ruiny", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_008_body", "source": "Poisonous Plant Habitat", "translation": "Siedlisko Trujących Roślin", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_009_body", "source": "Valka's Nest", "translation": "Gniazdo Valki", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_010_body", "source": "Old Graveyard", "translation": "Stary Cmentarz Zbiorowy", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_011_body", "source": "Treasure Hunter's Residence", "translation": "Rezydencja Treasure Hunter's", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_012_body", "source": "Abandoned Archon Jail", "translation": "Opuszczone Więzienie Archontów", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_013_body", "source": "Fafnite Storage Room", "translation": "Skład Fafnitu", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_014_body", "source": "Insectoid Tunnel", "translation": "Tunel Owadów", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_015_body", "source": "Bloodsoaked Confessional", "translation": "Krwawy Konfesjonał", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_016_body", "source": "Prison of Oblivion", "translation": "Więzienie Zapomnienia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_017_body", "source": "Watcher's Temporary Outpost", "translation": "Tymczasowy Posterunek Obserwatora", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_018_body", "source": "Blue Dragon's Trap", "translation": "Pułapka Błękitnego Smoka", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_019_body", "source": "Hidden Vein Cave", "translation": "Jaskinia Ukrytej Żyły", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_020_body", "source": "Fortuneteller's Grave", "translation": "Grób Wróżbity", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_021_body", "source": "Howling Den", "translation": "Wyjące Legowisko", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_022_body", "source": "Ossuary of the Noble", "translation": "Ossuarium Szlachcica", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_023_body", "source": "Smuggler's Cave", "translation": "Jaskinia Przemytnika", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_024_body", "source": "Homish's Prison Compound", "translation": "Kompleks Więzienny Homisha", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_025_body", "source": "Kumbahum's Cave", "translation": "Jaskinia Kumbahuma", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_026_body", "source": "Victims' Cave", "translation": "Jaskinia Ofiar", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_027_body", "source": "Drana Depository", "translation": "Skład Drany", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_028_body", "source": "High Priest's Ruins", "translation": "Ruiny Arcykapłana", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_029_body", "source": "Closed Hideout", "translation": "Zamknięta Kryjówka", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_030_body", "source": "All-Curing Cave", "translation": "Jaskinia Panaceum", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_031_body", "source": "Fungie Habitat", "translation": "Siedlisko Fungie", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_032_body", "source": "Library of Wisdom", "translation": "Biblioteka Mądrości", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_033_body", "source": "Destroyed Scriptorium", "translation": "Zniszczone Skryptorium", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_034_body", "source": "Dark Root Cave", "translation": "Jaskinia Ciemnego Korzenia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_035_body", "source": "Unstable Cave", "translation": "Niestabilna Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_036_body", "source": "Lamnah Base", "translation": "Baza Lamnah", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_037_body", "source": "Twisted Pit", "translation": "Skręcony Dół", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_038_body", "source": "Rift Fissure", "translation": "Rozpadlina Rift", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_039_body", "source": "Scale Altar", "translation": "Ołtarz Łusek", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_040_body", "source": "Library of Foresight", "translation": "Biblioteka Proroctw", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_041_body", "source": "Skurv Laborer Den", "translation": "Legowisko Robotników Skurv", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_042_body", "source": "Dratona Assembly Area", "translation": "Obszar Zgromadzeń Dratona", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_043_body", "source": "Place of Rest", "translation": "Miejsce Wytchnienia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_044_body", "source": "Final Haven", "translation": "Ostatnia Przystań", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_045_body", "source": "Worshiper's Underground Cave", "translation": "Podziemna Jaskinia Wyznawcy", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_046_body", "source": "Fanatics' Den", "translation": "Legowisko Fanatyków", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_047_body", "source": "Spider Cave", "translation": "Jaskinia Pająków", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_048_body", "source": "Empty Cave", "translation": "Pusta Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_049_body", "source": "Lonely Rock Chasm", "translation": "Rozpadlina Samotnej Skały", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_050_body", "source": "Rock Cave", "translation": "Skalna Jaskinia", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_051_body", "source": "Den of Exiles", "translation": "Legowisko Wygnańców", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_052_body", "source": "Pirate's Treasure Storage", "translation": "Skład Skarbów Pirata", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_053_body", "source": "Shulak Cave", "translation": "Jaskinia Shulaków", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_054_body", "source": "Destruction Archons Armory", "translation": "Zbrojownia Archontów Zagłady", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_055_body", "source": "Ascetic's Cave", "translation": "Jaskinia Ascety", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_056_body", "source": "Lagta Fafnite Storage", "translation": "Skład Fafnitu Lagta", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_057_body", "source": "Warriors' Rest", "translation": "Odpoczynek Wojowników", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_058_body", "source": "Tayga Breeding Ground", "translation": "Teren Lęgowy Taygów", "status": "draft"}
+{"id": "String_STR_Map_Seal_Altgard_059_body", "source": "Library of Patience", "translation": "Biblioteka Cierpliwości", "status": "draft"}

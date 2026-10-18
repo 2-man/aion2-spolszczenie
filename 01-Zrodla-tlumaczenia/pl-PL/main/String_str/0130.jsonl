@@ -1,3 +1,73 @@
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_3_1_body", "source": "Destroy the Veil Console", "translation": "Zniszcz konsolę Zasłony", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_3_body", "source": "Remove the veil blocking the way", "translation": "Usuń zasłonę blokującą przejście", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_4_1_body", "source": "Defeat Raider Paitron", "translation": "Pokonaj najeźdźcę Paitrona", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_4_body", "source": "Defeat Raider Paitron", "translation": "Pokonaj najeźdźcę Paitrona", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_5_1_body", "source": "Collect loot from the treasure chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Desc_5_body", "source": "Find the Treasure Chest", "translation": "Znajdź skrzynię ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H2_Title_body", "source": "Clear out the Golden Branch Stronghold Ruins", "translation": "Oczyść ruiny Warowni Złotej Gałęzi", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_10_1_body", "source": "Follow Siruon", "translation": "Podążaj za Siruonem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_10_body", "source": "Go to Leumas's dwelling", "translation": "Udaj się do siedziby Leumasa", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_11_1_body", "source": "Check the Fallen Villager", "translation": "Zbadaj poległego wieśniaka", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_11_body", "source": "Check on the hostages", "translation": "Sprawdź, co z zakładnikami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_12_1_body", "source": "Defeat Mighty Leumas", "translation": "Pokonaj potężnego Leumasa", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_12_body", "source": "Defeat the leader", "translation": "Pokonaj przywódcę", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_13_1_body", "source": "Collect loot from the treasure chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_13_body", "source": "Examine the treasure chest", "translation": "Zbadaj skrzynię ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_1_1_body", "source": "Defeat the group of rogues", "translation": "Pokonaj grupę łotrów", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_1_body", "source": "Rescue captured Daeva", "translation": "Uwolnij pojmanych daeva", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_2_1_body", "source": "Talk to Siruon", "translation": "Porozmawiaj z Siruonem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_2_body", "source": "Talk to the rescued Daeva", "translation": "Porozmawiaj z uratowanym daeva", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_3_1_body", "source": "Obtain the prison key", "translation": "Zdobądź klucz do więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_3_body", "source": "Search the Pile of Chests", "translation": "Przeszukaj stos skrzyń", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_4_1_body", "source": "Open the first prison door", "translation": "Otwórz pierwsze drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_4_body", "source": "Rescue hostages", "translation": "Uwolnij zakładników", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_5_1_body", "source": "Examine the traces left inside the prison", "translation": "Zbadaj ślady pozostawione w więzieniu", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_5_body", "source": "Search the first prison", "translation": "Przeszukaj pierwsze więzienie", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_6_1_body", "source": "Talk to Siruon", "translation": "Porozmawiaj z Siruonem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_6_body", "source": "Find where the hostages were taken", "translation": "Ustal, dokąd zabrano zakładników", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_7_1_body", "source": "Open the second prison door", "translation": "Otwórz drugie drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_7_body", "source": "Rescue the hostages", "translation": "Uwolnij zakładników", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_8_1_body", "source": "Investigate the corpse", "translation": "Zbadaj zwłoki", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_8_body", "source": "Search the second prison", "translation": "Przeszukaj drugie więzienie", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_9_1_body", "source": "Talk to Siruon", "translation": "Porozmawiaj z Siruonem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Desc_9_body", "source": "Discuss the current situation", "translation": "Omów obecną sytuację", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_H3_Title_body", "source": "Defeat the forces in Rogue Sky Fortress", "translation": "Pokonaj siły w Fortecy Łotrów na Niebie", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_1_body", "source": "Go towards the voice asking for help", "translation": "Udaj się w stronę głosu wzywającego pomocy", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_2_body", "source": "Defeat Sorcery-Touched Mutant", "translation": "Pokonaj mutanta dotkniętego czarnoksięstwem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_3_body", "source": "Talk to the Ruins Researcher", "translation": "Porozmawiaj z badaczem ruin", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_4_body", "source": "Destory Lepharist Sorcery Device", "translation": "Zniszcz urządzenie czarnoksięskie Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_5_1_body", "source": "Destory Large Sorcery Device", "translation": "Zniszcz duże urządzenie czarnoksięskie", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_5_2_body", "source": "Defeat Sorcery-Touched Enhanced Mutant", "translation": "Pokonaj wzmocnionego mutanta dotkniętego czarnoksięstwem", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_6_body", "source": "Defeat Lunatic Researcher Sellutey", "translation": "Pokonaj obłąkanego badacza Selluteya", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_7_body", "source": "Collect loot from the treasure chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_8_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Desc_9_body", "source": "Defeat Lepharist Researcher", "translation": "Pokonaj badacza Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_1_body", "source": "Search the Suspicious Ruins", "translation": "Przeszukaj Podejrzane Ruiny", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_2_body", "source": "Defeat the pursuing mutants", "translation": "Pokonaj ścigające cię mutanty", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_3_body", "source": "Talk to the Ruins Researcher", "translation": "Porozmawiaj z badaczem ruin", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_4_body", "source": "Destory the Lepharist Sorcery Devices", "translation": "Zniszcz urządzenia czarnoksięskie Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_5_body", "source": "Destroy the Large Sorcery Device in the center", "translation": "Zniszcz duże urządzenie czarnoksięskie pośrodku", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_6_body", "source": "Defeat Lunatic Researcher Sellutey", "translation": "Pokonaj obłąkanego badacza Selluteya", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_7_body", "source": "Open the Treasure Chest", "translation": "Otwórz skrzynię ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_8_body", "source": "Search for any remaining mutants", "translation": "Poszukaj pozostałych mutantów", "status": "draft"}
+{"id": "String_STR_MapEvent_L2_GarrionTerritory_R1_Title_9_body", "source": "Defeat the attacking Lepharist Researchers", "translation": "Pokonaj atakujących badaczy Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Dymones_Desc_1_body", "source": "Talk to Dymones", "translation": "Porozmawiaj z Dymonesem", "status": "draft"}
+{"id": "String_STR_MapEvent_L_GarbaTalk_Desc_1_body", "source": "Talk to Garvia", "translation": "Porozmawiaj z Garvią", "status": "draft"}
+{"id": "String_STR_MapEvent_L_HitanieTalk_Desc_1_body", "source": "Talk to Hithanya", "translation": "Porozmawiaj z Hithanyą", "status": "draft"}
+{"id": "String_STR_MapEvent_L_IoneTalk_Desc_1_body", "source": "Talk to Ione", "translation": "Porozmawiaj z Ione", "status": "draft"}
+{"id": "String_STR_MapEvent_L_KalidTalk_Desc_1_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Kurtis_Desc_1_body", "source": "Talk to Kurtis's Apparition", "translation": "Porozmawiaj ze zjawą Kurtisa", "status": "draft"}
+{"id": "String_STR_MapEvent_L_LaceisTalk_Desc_1_body", "source": "Talk to Laveis", "translation": "Porozmawiaj z Laveisem", "status": "draft"}
+{"id": "String_STR_MapEvent_L_LutersTalk_Desc_1_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Nania_Desc_1_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_L_PernosTalk_Desc_1_body", "source": "Talk to Phernos", "translation": "Porozmawiaj z Phernosem", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_01_body", "source": "Search for Phernos", "translation": "Poszukaj Phernosa", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_03_body", "source": "Follow the corridor", "translation": "Podążaj korytarzem", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_04_body", "source": "Defeat the Ishtar Unit Drakan", "translation": "Pokonaj Drakanów z jednostki Ishtar", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_05_body", "source": "Pass through the destroyed corridor", "translation": "Przejdź przez zniszczony korytarz", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_06_body", "source": "Look for Phernos while destroying the test tubes", "translation": "Szukaj Phernosa, niszcząc probówki", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_07_body", "source": "Approach the illuminated test tubes", "translation": "Podejdź do oświetlonych probówek", "status": "draft"}
+{"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_09_body", "source": "Open the Ishtar Castle Door", "translation": "Otwórz drzwi zamku Ishtar", "status": "draft"}
 {"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_10_body", "source": "Check the Balaur Supply Chest", "translation": "Sprawdź skrzynię z zaopatrzeniem Balaurów", "status": "draft"}
 {"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_11_body", "source": "Take a weapon from the Drakan Corpse and defeat the remaining Drakan", "translation": "Zabierz broń ze zwłok Drakan i pokonaj pozostałych Drakan", "status": "draft"}
 {"id": "String_STR_MapEvent_L_Starter_InstanceLayer_1_12_body", "source": "Subdue Bargott", "translation": "Obezwładnij Bargotta", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_MapEvent_Seal_Altgard_045_04_body", "source": "Report to the Fanatic Operative", "translation": "Złóż raport fanatycznemu agentowi", "status": "draft"}
 {"id": "String_STR_MapEvent_Seal_Altgard_045_05_body", "source": "Open the Fanatics' Oratory Door", "translation": "Otwórz drzwi Oratorium Fanatyków", "status": "draft"}
 {"id": "String_STR_MapEvent_Seal_Altgard_045_06_body", "source": "Defeat the fanatics blocking the way", "translation": "Pokonaj fanatyków blokujących drogę", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_045_07_body", "source": "Obtain Zikel of Destruction Vol.2", "translation": "Zdobądź tom 2 „Zikela Zniszczenia”", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_046_01_body", "source": "Find the precious treasure chest", "translation": "Znajdź cenną skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_047_01_body", "source": "Collect hidden treasure from the odylium mine", "translation": "Zbierz ukryty skarb z kopalni odylium", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_048_01_body", "source": "Defeat enemies to find the half-digested key", "translation": "Pokonaj wrogów i znajdź częściowo strawiony klucz", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_048_02_body", "source": "Go through the door into the cave", "translation": "Przejdź przez drzwi do jaskini", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_048_03_body", "source": "Find the Krao Research Records", "translation": "Znajdź raporty badawcze Krao", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_049_01_body", "source": "Defeat Informant Zibro", "translation": "Pokonaj informatora Zibro", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_050_01_body", "source": "Find the tablet engraved with the 3rd chapter of Revelations of Khalil", "translation": "Znajdź tablicę z wyrytym 3. rozdziałem „Objawień Khalila”", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_051_01_body", "source": "Find the History of the Daeva", "translation": "Znajdź „Dzieje Daeva”", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_051_02_body", "source": "Solve the magic device puzzle to open the door", "translation": "Rozwiąż zagadkę magicznego urządzenia, aby otworzyć drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_051_03_body", "source": "Read the History of the Daeva", "translation": "Przeczytaj „Dzieje Daeva”", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_052_01_body", "source": "Pass through the underwater tunnel while avoiding toxic gas", "translation": "Przejdź podwodnym tunelem, omijając toksyczny gaz", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_052_02_body", "source": "Obtain the key from the Blades guarding the treasure storage", "translation": "Zdobądź klucz od Ostrzy strzegących Skarbca", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_052_03_body", "source": "Move inside and open the Treasure Storage door", "translation": "Wejdź do środka i otwórz drzwi Skarbca", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_052_04_body", "source": "Defeat Custodian Chakkerman", "translation": "Pokonaj dozorcę Chakkermana", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_052_05_body", "source": "Dive underwater and follow the hidden path", "translation": "Zanurkuj i podążaj ukrytą ścieżką", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_053_01_body", "source": "Defeat Mad Lazekhi", "translation": "Pokonaj obłąkanego Lazekhiego", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_054_01_body", "source": "Collect the hidden treasure inside the Armory", "translation": "Zbierz ukryty skarb w Zbrojowni", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_055_01_body", "source": "Defeat Reckless Jonas", "translation": "Pokonaj lekkomyślnego Jonasa", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_056_01_body", "source": "Defeat Supervisor Sinah", "translation": "Pokonaj nadzorcę Sinah", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_057_01_body", "source": "Find Zikel's Book", "translation": "Znajdź księgę Zikela", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_057_02_body", "source": "Destroy the Statue of Zikel's Sword to find the key", "translation": "Zniszcz posąg Miecza Zikela, aby znaleźć klucz", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_057_03_body", "source": "Go through the door", "translation": "Przejdź przez drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_058_01_body", "source": "Defeat all enemies while creating a disturbance", "translation": "Pokonaj wszystkich wrogów, odwracając ich uwagę", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_058_02_body", "source": "Wait for the enemies to open the door after hearing the disturbance", "translation": "Po hałasie poczekaj, aż wrogowie otworzą drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_058_03_body", "source": "Defeat all enemies to secure the Tayga Breeding Ground", "translation": "Pokonaj wszystkich wrogów, aby zabezpieczyć Wylęgarnię Tayg", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_059_01_body", "source": "Find Book of the Bulwark Vol.3 inside the library", "translation": "Znajdź w bibliotece „Księgę Bastionu”, tom 3", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_060_01_body", "source": "Enter the Odylium Marauder Den", "translation": "Wejdź do legowiska rabusiów Odylium", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Altgard_060_02_body", "source": "Avoid the traps and find the document on odyle storage and usage", "translation": "Unikaj pułapek i znajdź dokument o przechowywaniu i użyciu odyle", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_061_01_body", "source": "Operate the barrierstone to open the door", "translation": "Uruchom kamień bariery, aby otworzyć drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_061_02_body", "source": "Check the remaining records", "translation": "Sprawdź pozostałe zapiski", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_062_01_body", "source": "Examine the objects in the room full of servants", "translation": "Zbadaj przedmioty w sali pełnej sług", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_062_02_body", "source": "Search the room", "translation": "Przeszukaj salę", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_062_03_body", "source": "Move inside the base to look for traces", "translation": "Wejdź do bazy i poszukaj śladów", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_062_04_body", "source": "Kromede's Journal", "translation": "Dziennik Kromede", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_01_body", "source": "Solve the puzzle to open the locked door", "translation": "Rozwiąż zagadkę, aby otworzyć zamknięte drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_02_body", "source": "Solve the magic device puzzle", "translation": "Rozwiąż zagadkę magicznego urządzenia", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_03_body", "source": "Defeat Indnath's minions", "translation": "Pokonaj sługi Indnatha", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_04_body", "source": "Solve the puzzle to open the locked door", "translation": "Rozwiąż zagadkę, aby otworzyć zamknięte drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_05_body", "source": "Solve the magic device puzzle", "translation": "Rozwiąż zagadkę magicznego urządzenia", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_06_body", "source": "Defeat Indnath's minions", "translation": "Pokonaj sługi Indnatha", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_07_body", "source": "Solve the puzzle to open the locked door", "translation": "Rozwiąż zagadkę, aby otworzyć zamknięte drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_08_body", "source": "Defeat Indnath's minions", "translation": "Pokonaj sługi Indnatha", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_063_09_body", "source": "Check Oratory Tome", "translation": "Sprawdź tom Oratorium", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_064_01_body", "source": "Find the Blades base door key", "translation": "Znajdź klucz do drzwi bazy Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_064_02_body", "source": "Raid Blades base", "translation": "Zaatakuj bazę Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_064_03_body", "source": "Eliminate all Blades in the base", "translation": "Wyeliminuj wszystkie Ostrza w bazie", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_064_04_body", "source": "Open the Dust-Covered Chest", "translation": "Otwórz zakurzoną skrzynię", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_065_01_body", "source": "Pull the Lever to open the closed door", "translation": "Pociągnij za dźwignię, aby otworzyć zamknięte drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_065_02_body", "source": "Find the statue inscribed with history", "translation": "Znajdź posąg z wyrytymi dziejami", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_065_03_body", "source": "Examine the statue inscribed with history", "translation": "Zbadaj posąg z wyrytymi dziejami", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_066_01_body", "source": "Defeat Enraged Avelcatus", "translation": "Pokonaj rozwścieczonego Avelcatusa", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_01_body", "source": "Dive into the water", "translation": "Zanurkuj", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_02_body", "source": "Go into the cave", "translation": "Wejdź do jaskini", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_03_body", "source": "Talk to Young Explorer", "translation": "Porozmawiaj z młodym odkrywcą", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_04_body", "source": "Open the Door", "translation": "Otwórz drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_05_body", "source": "Defeat Water Spirits blocking the way", "translation": "Pokonaj duchy wody blokujące drogę", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_06_body", "source": "Recover Explorer's body", "translation": "Odzyskaj ciało odkrywcy", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_07_body", "source": "Open the Door", "translation": "Otwórz drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_08_body", "source": "Talk to Terrified Explorer", "translation": "Porozmawiaj z przerażonym odkrywcą", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_09_body", "source": "Open the Door", "translation": "Otwórz drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_067_10_body", "source": "Defeat the Pure Water Spirit Arbellun", "translation": "Pokonaj czystego ducha wody Arbelluna", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_068_01_body", "source": "Defeat Istan inside the nest", "translation": "Pokonaj Istana w gnieździe", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_069_01_body", "source": "Find Lamiphedon from the remaining traces", "translation": "Odnajdź Lamiphedona na podstawie pozostałych śladów", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_069_02_body", "source": "Defeat Deputy Commander Lamiphedon", "translation": "Pokonaj zastępcę dowódcy Lamiphedona", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_070_01_body", "source": "Defeat Leader Korin", "translation": "Pokonaj przywódcę Korina", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_071_01_body", "source": "Eliminate all the hiding Blades", "translation": "Wyeliminuj wszystkie ukrywające się Ostrza", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_071_02_body", "source": "Hiding Blades", "translation": "Ukryte Ostrza", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_072_01_body", "source": "Clear out Patamor Marauders", "translation": "Oczyść obóz rabusiów Patamor", "status": "draft"}
-{"id": "String_STR_MapEvent_Seal_Dark_073_01_body", "source": "Clear out the Kurpak Special Operations Unit", "translation": "Oczyść teren z jednostki specjalnej Kurpaka", "status": "draft"}

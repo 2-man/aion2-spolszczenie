@@ -1,250 +1,250 @@
-{"id":"SkillString_SkillString_NPC_1224920_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224920_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224930_skill_desc_effect","source":"Mighty Swipe","translation":"Potężne uderzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224930_skill_name","source":"Mighty Swipe","translation":"Potężne uderzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224940_skill_desc_effect","source":"Axe Throw","translation":"Rzut toporem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224940_skill_name","source":"Axe Throw","translation":"Rzut toporem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224950_skill_desc_effect","source":"Flash Step","translation":"Błyskawiczny krok","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224950_skill_name","source":"Flash Step","translation":"Błyskawiczny krok","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224960_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224960_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224970_skill_desc_effect","source":"Spread Aggro","translation":"Rozproszenie uwagi","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224970_skill_name","source":"Spread Aggro","translation":"Rozproszenie uwagi","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224980_skill_desc_effect","source":"Shuriken Toss","translation":"Rzut shurikenem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224980_skill_name","source":"Shuriken Toss","translation":"Rzut shurikenem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224990_skill_desc_effect","source":"Broad Swing","translation":"Szeroki zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1224990_skill_name","source":"Broad Swing","translation":"Szeroki zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225000_skill_desc_effect","source":"Draw","translation":"Wyciągnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225000_skill_name","source":"Draw","translation":"Wyciągnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225010_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225010_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225020_skill_desc_effect","source":"Wild Downstrike","translation":"Dzikie uderzenie w dół","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225020_skill_name","source":"Wild Downstrike","translation":"Dzikie uderzenie w dół","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225030_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225030_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225040_skill_desc_effect","source":"Rapid Shot","translation":"Szybki strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225040_skill_name","source":"Rapid Shot","translation":"Szybki strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225050_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225050_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225060_skill_desc_effect","source":"Wail","translation":"Zawodzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225060_skill_name","source":"Wail","translation":"Zawodzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225070_skill_desc_effect","source":"Droplet Blast","translation":"Wybuch kropli","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225070_skill_name","source":"Droplet Blast","translation":"Wybuch kropli","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225080_skill_desc_effect","source":"Rake","translation":"Rozdarcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225080_skill_name","source":"Rake","translation":"Rozdarcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225090_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225090_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225100_skill_desc_effect","source":"Rake","translation":"Rozdarcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225100_skill_name","source":"Rake","translation":"Rozdarcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225110_skill_desc_effect","source":"Fling Boulder","translation":"Rzut głazem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225110_skill_name","source":"Fling Boulder","translation":"Rzut głazem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225120_skill_desc_effect","source":"Overhead Slam","translation":"Uderzenie z góry","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225120_skill_name","source":"Overhead Slam","translation":"Uderzenie z góry","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225130_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225130_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225140_skill_desc_effect","source":"Enrage","translation":"Szał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225140_skill_name","source":"Enrage","translation":"Szał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225150_skill_desc_effect","source":"Rock Shard","translation":"Odłamek skały","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225150_skill_name","source":"Rock Shard","translation":"Odłamek skały","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225160_skill_desc_effect","source":"Strike","translation":"Uderzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225160_skill_name","source":"Strike","translation":"Uderzenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225170_skill_desc_effect","source":"Roar","translation":"Ryk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225170_skill_name","source":"Roar","translation":"Ryk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225180_skill_desc_effect","source":"Swipe","translation":"Zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225180_skill_name","source":"Swipe","translation":"Zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225190_skill_desc_effect","source":"Roll","translation":"Przetoczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225190_skill_name","source":"Roll","translation":"Przetoczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225200_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225200_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225210_skill_desc_effect","source":"Heal","translation":"Leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225210_skill_name","source":"Heal","translation":"Leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225220_skill_desc_effect","source":"Seed Shot","translation":"Strzał nasionem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225220_skill_name","source":"Seed Shot","translation":"Strzał nasionem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225230_skill_desc_effect","source":"Thorn Bush","translation":"Ciernisty krzew","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225230_skill_name","source":"Thorn Bush","translation":"Ciernisty krzew","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225240_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225240_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225250_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225250_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225260_skill_desc_effect","source":"Djembe Throw","translation":"Rzut djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225260_skill_name","source":"Djembe Throw","translation":"Rzut djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225270_skill_desc_effect","source":"Djembe Impact","translation":"Uderzenie djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225270_skill_name","source":"Djembe Impact","translation":"Uderzenie djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225280_skill_desc_effect","source":"Djembe Smash","translation":"Roztrzaskanie djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225280_skill_name","source":"Djembe Smash","translation":"Roztrzaskanie djembe","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225290_skill_name","source":"Laser","translation":"Laser","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225300_skill_name","source":"Laser","translation":"Laser","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225310_skill_desc_effect","source":"Teleport","translation":"Teleportacja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225310_skill_name","source":"Teleport","translation":"Teleportacja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225320_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225320_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225330_skill_desc_effect","source":"Restores HP","translation":"Przywraca PŻ","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225330_skill_name","source":"Restore HP","translation":"Przywraca PŻ","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225340_skill_desc_effect","source":"Bubble Shot","translation":"Strzał bańką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225340_skill_name","source":"Bubble Shot","translation":"Strzał bańką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225350_skill_desc_effect","source":"Claw Swipe","translation":"Uderzenie pazurem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225350_skill_name","source":"Claw Swipe","translation":"Uderzenie pazurem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225360_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225360_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225370_skill_desc_effect","source":"Heal","translation":"Leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225370_skill_name","source":"Heal","translation":"Leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225380_skill_desc_effect","source":"Magic Beam","translation":"Promień magii","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225380_skill_name","source":"Magic Beam","translation":"Promień magii","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225390_skill_desc_effect","source":"Magic Powder","translation":"Magiczny proszek","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225390_skill_name","source":"Magic Powder","translation":"Magiczny proszek","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225400_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225400_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225410_skill_desc_effect","source":"Wrathful Stomp","translation":"Gniewne tupnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225410_skill_name","source":"Wrathful Stomp","translation":"Gniewne tupnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225420_skill_desc_effect","source":"Leaf Blast","translation":"Wybuch liści","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225420_skill_name","source":"Leaf Blast","translation":"Wybuch liści","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225430_skill_desc_effect","source":"Leaf Storm","translation":"Burza liści","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225430_skill_name","source":"Leaf Storm","translation":"Burza liści","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225440_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225440_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225450_skill_desc_effect","source":"Swing","translation":"Zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225450_skill_name","source":"Swing","translation":"Zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225460_skill_desc_effect","source":"Scatter Seeds","translation":"Rozrzucenie nasion","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225460_skill_name","source":"Scatter Seeds","translation":"Rozrzucenie nasion","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225470_skill_desc_effect","source":"Rush","translation":"Szarża","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225470_skill_name","source":"Rush","translation":"Szarża","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225480_skill_desc_effect","source":"Overhead Slam","translation":"Uderzenie z góry","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225480_skill_name","source":"Overhead Slam","translation":"Uderzenie z góry","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225490_skill_desc_effect","source":"Teleport","translation":"Teleportacja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225490_skill_name","source":"Teleport","translation":"Teleportacja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225500_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225500_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225510_skill_desc_effect","source":"Rapid Bite","translation":"Szybkie ukąszenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225510_skill_name","source":"Rapid Bite","translation":"Szybkie ukąszenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225520_skill_desc_effect","source":"Spit Poison Fluid","translation":"Wyplucie trującej cieczy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225520_skill_name","source":"Spit Poison Fluid","translation":"Wyplucie trującej cieczy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225530_skill_desc_effect","source":"Tail Slash","translation":"Cięcie ogonem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225530_skill_name","source":"Tail Slash","translation":"Cięcie ogonem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225540_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225540_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225550_skill_desc_effect","source":"Wild Slice","translation":"Dzikie cięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225550_skill_name","source":"Wild Slice","translation":"Dzikie cięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225560_skill_desc_effect","source":"Sword Aura Blast","translation":"Wybuch aury miecza","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225560_skill_name","source":"Sword Aura Blast","translation":"Wybuch aury miecza","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225570_skill_desc_effect","source":"Helm Slash","translation":"Cięcie hełmem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225570_skill_name","source":"Helm Slash","translation":"Cięcie hełmem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225580_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225580_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225590_skill_desc_effect","source":"Stomp","translation":"Tupnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225590_skill_name","source":"Stomp","translation":"Tupnięcie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225600_skill_desc_effect","source":"Leaf Toss","translation":"Rzut liściem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225600_skill_name","source":"Leaf Toss","translation":"Rzut liściem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225610_skill_desc_effect","source":"Savage Swing","translation":"Dziki zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225610_skill_name","source":"Savage Swing","translation":"Dziki zamach","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225620_skill_desc_effect","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225620_skill_name","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225630_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225630_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225640_skill_desc_effect","source":"Enhance","translation":"Wzmocnienie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225640_skill_name","source":"Enhance","translation":"Wzmocnienie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225650_skill_desc_effect","source":"Toss Poison Dart","translation":"Rzut zatrutą strzałką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225650_skill_name","source":"Toss Poison Dart","translation":"Rzut zatrutą strzałką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225660_skill_desc_effect","source":"Poison Dart Pierce","translation":"Przebicie zatrutą strzałką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225660_skill_name","source":"Poison Dart Pierce","translation":"Przebicie zatrutą strzałką","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225670_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225670_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225680_skill_desc_effect","source":"Summon Totem","translation":"Przywołanie totemu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225680_skill_name","source":"Summon Totem","translation":"Przywołanie totemu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225690_skill_desc_effect","source":"Shadow Teleport","translation":"Teleportacja cienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225690_skill_name","source":"Shadow Teleport","translation":"Teleportacja cienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225700_skill_desc_effect","source":"Magic Bullet","translation":"Magiczny pocisk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225700_skill_name","source":"Magic Bullet","translation":"Magiczny pocisk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225710_skill_desc_effect","source":"Thunder Strike","translation":"Uderzenie gromu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225710_skill_name","source":"Thunder Strike","translation":"Uderzenie gromu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225720_skill_desc_effect","source":"Multi Shot","translation":"Wielokrotny strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225720_skill_name","source":"Multi Shot","translation":"Wielokrotny strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225730_skill_desc_effect","source":"Curse of Lightning","translation":"Klątwa błyskawicy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225730_skill_name","source":"Curse of Lightning","translation":"Klątwa błyskawicy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225731_skill_desc_effect","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225731_skill_name","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225740_skill_desc_effect","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225740_skill_name","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225750_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225750_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225760_skill_desc_effect","source":"Summon Totem","translation":"Przywołanie totemu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225760_skill_name","source":"Summon Totem","translation":"Przywołanie totemu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225770_skill_desc_effect","source":"Shadow Teleport","translation":"Teleportacja cienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225770_skill_name","source":"Shadow Teleport","translation":"Teleportacja cienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225780_skill_desc_effect","source":"Magic Bullet","translation":"Magiczny pocisk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225780_skill_name","source":"Magic Bullet","translation":"Magiczny pocisk","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225790_skill_desc_effect","source":"Thunder Strike","translation":"Uderzenie gromu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225790_skill_name","source":"Thunder Strike","translation":"Uderzenie gromu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225800_skill_desc_effect","source":"Multi Shot","translation":"Wielokrotny strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225800_skill_name","source":"Multi Shot","translation":"Wielokrotny strzał","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225810_skill_desc_effect","source":"Curse of Lightning","translation":"Klątwa błyskawicy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225810_skill_name","source":"Curse of Lightning","translation":"Klątwa błyskawicy","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225811_skill_desc_effect","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225811_skill_name","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225820_skill_desc_effect","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225820_skill_name","source":"AoE Explosion","translation":"Eksplozja obszarowa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225830_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225830_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225840_skill_desc_effect","source":"Shell Shelter","translation":"Schronienie w skorupie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225840_skill_name","source":"Shell Shelter","translation":"Schronienie w skorupie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225850_skill_desc_effect","source":"Droplet Blast","translation":"Wybuch kropli","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225850_skill_name","source":"Droplet Blast","translation":"Wybuch kropli","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225860_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225860_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225870_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225870_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225880_skill_desc_effect","source":"Back Roll","translation":"Przewrót w tył","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225880_skill_name","source":"Back Roll","translation":"Przewrót w tył","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225890_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225890_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225900_skill_desc_effect","source":"Headbutt","translation":"Uderzenie głową","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225900_skill_name","source":"Headbutt","translation":"Uderzenie głową","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225910_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225910_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225920_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225920_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225930_skill_desc_effect","source":"Branch Throw","translation":"Rzut gałęzią","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225930_skill_name","source":"Branch Throw","translation":"Rzut gałęzią","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225940_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225940_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225950_skill_desc_effect","source":"Destroy Pillar","translation":"Zniszczenie filaru","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225950_skill_name","source":"Destroy Pillar","translation":"Zniszczenie filaru","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225960_skill_desc_effect","source":"Rockfall","translation":"Spadające skały","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225960_skill_name","source":"Rockfall","translation":"Spadające skały","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225970_skill_desc_effect","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225970_skill_name","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225980_skill_desc_effect","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225980_skill_name","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225990_skill_desc_effect","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1225990_skill_name","source":"Lava","translation":"Lawa","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226000_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226000_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226010_skill_desc_effect","source":"Instant healing","translation":"Natychmiastowe leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226010_skill_name","source":"Instant Heal","translation":"Natychmiastowe leczenie","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226020_skill_desc_effect","source":"Energy Bullet","translation":"Pocisk energii","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226020_skill_name","source":"Energy Bullet","translation":"Pocisk energii","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226030_skill_desc_effect","source":"Summon Gust","translation":"Przywołanie podmuchu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226030_skill_name","source":"Summon Gust","translation":"Przywołanie podmuchu","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226040_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226040_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226050_skill_desc_effect","source":"Beam Blast","translation":"Wybuch promienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226050_skill_name","source":"Beam Blast","translation":"Wybuch promienia","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226060_skill_desc_effect","source":"Magic Bullet Shot","translation":"Strzał magicznym pociskiem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226060_skill_name","source":"Magic Bullet Shot","translation":"Strzał magicznym pociskiem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226070_skill_desc_effect","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226070_skill_name","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226080_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226080_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226090_skill_desc_effect","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226090_skill_name","source":"Magic Explosion","translation":"Magiczna eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226100_skill_desc_effect","source":"Magic Bullet Shot","translation":"Strzał magicznym pociskiem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226100_skill_name","source":"Magic Bullet Shot","translation":"Strzał magicznym pociskiem","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226110_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226110_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226120_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226120_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226130_skill_desc_effect","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226130_skill_name","source":"Attack","translation":"Atak","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226140_skill_desc_effect","source":"Drana Shot","translation":"Strzał draną","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226140_skill_name","source":"Drana Shot","translation":"Strzał draną","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226150_skill_desc_effect","source":"Explosion","translation":"Eksplozja","status":"draft"}
-{"id":"SkillString_SkillString_NPC_1226150_skill_name","source":"Explosion","translation":"Eksplozja","status":"draft"}
+{"id": "SkillString_SkillString_NPC_1224910_skill_desc_effect", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224910_skill_name", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224920_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224920_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224930_skill_desc_effect", "source": "Mighty Swipe", "translation": "Potężne uderzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224930_skill_name", "source": "Mighty Swipe", "translation": "Potężne uderzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224940_skill_desc_effect", "source": "Axe Throw", "translation": "Rzut toporem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224940_skill_name", "source": "Axe Throw", "translation": "Rzut toporem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224950_skill_desc_effect", "source": "Flash Step", "translation": "Błyskawiczny krok", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224950_skill_name", "source": "Flash Step", "translation": "Błyskawiczny krok", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224960_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224960_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224970_skill_desc_effect", "source": "Spread Aggro", "translation": "Rozproszenie uwagi", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224970_skill_name", "source": "Spread Aggro", "translation": "Rozproszenie uwagi", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224980_skill_desc_effect", "source": "Shuriken Toss", "translation": "Rzut shurikenem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224980_skill_name", "source": "Shuriken Toss", "translation": "Rzut shurikenem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224990_skill_desc_effect", "source": "Broad Swing", "translation": "Szeroki zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1224990_skill_name", "source": "Broad Swing", "translation": "Szeroki zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225000_skill_desc_effect", "source": "Draw", "translation": "Wyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225000_skill_name", "source": "Draw", "translation": "Wyciągnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225010_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225010_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225020_skill_desc_effect", "source": "Wild Downstrike", "translation": "Dzikie uderzenie w dół", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225020_skill_name", "source": "Wild Downstrike", "translation": "Dzikie uderzenie w dół", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225030_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225030_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225040_skill_desc_effect", "source": "Rapid Shot", "translation": "Szybki strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225040_skill_name", "source": "Rapid Shot", "translation": "Szybki strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225050_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225050_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225060_skill_desc_effect", "source": "Wail", "translation": "Zawodzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225060_skill_name", "source": "Wail", "translation": "Zawodzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225070_skill_desc_effect", "source": "Droplet Blast", "translation": "Wybuch kropli", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225070_skill_name", "source": "Droplet Blast", "translation": "Wybuch kropli", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225080_skill_desc_effect", "source": "Rake", "translation": "Rozdarcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225080_skill_name", "source": "Rake", "translation": "Rozdarcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225090_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225090_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225100_skill_desc_effect", "source": "Rake", "translation": "Rozdarcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225100_skill_name", "source": "Rake", "translation": "Rozdarcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225110_skill_desc_effect", "source": "Fling Boulder", "translation": "Rzut głazem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225110_skill_name", "source": "Fling Boulder", "translation": "Rzut głazem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225120_skill_desc_effect", "source": "Overhead Slam", "translation": "Uderzenie z góry", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225120_skill_name", "source": "Overhead Slam", "translation": "Uderzenie z góry", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225130_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225130_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225140_skill_desc_effect", "source": "Enrage", "translation": "Szał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225140_skill_name", "source": "Enrage", "translation": "Szał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225150_skill_desc_effect", "source": "Rock Shard", "translation": "Odłamek skały", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225150_skill_name", "source": "Rock Shard", "translation": "Odłamek skały", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225160_skill_desc_effect", "source": "Strike", "translation": "Uderzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225160_skill_name", "source": "Strike", "translation": "Uderzenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225170_skill_desc_effect", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225170_skill_name", "source": "Roar", "translation": "Ryk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225180_skill_desc_effect", "source": "Swipe", "translation": "Zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225180_skill_name", "source": "Swipe", "translation": "Zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225190_skill_desc_effect", "source": "Roll", "translation": "Przetoczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225190_skill_name", "source": "Roll", "translation": "Przetoczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225200_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225200_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225210_skill_desc_effect", "source": "Heal", "translation": "Leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225210_skill_name", "source": "Heal", "translation": "Leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225220_skill_desc_effect", "source": "Seed Shot", "translation": "Strzał nasionem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225220_skill_name", "source": "Seed Shot", "translation": "Strzał nasionem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225230_skill_desc_effect", "source": "Thorn Bush", "translation": "Ciernisty krzew", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225230_skill_name", "source": "Thorn Bush", "translation": "Ciernisty krzew", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225240_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225240_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225250_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225250_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225260_skill_desc_effect", "source": "Djembe Throw", "translation": "Rzut djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225260_skill_name", "source": "Djembe Throw", "translation": "Rzut djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225270_skill_desc_effect", "source": "Djembe Impact", "translation": "Uderzenie djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225270_skill_name", "source": "Djembe Impact", "translation": "Uderzenie djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225280_skill_desc_effect", "source": "Djembe Smash", "translation": "Roztrzaskanie djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225280_skill_name", "source": "Djembe Smash", "translation": "Roztrzaskanie djembe", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225290_skill_name", "source": "Laser", "translation": "Laser", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225300_skill_name", "source": "Laser", "translation": "Laser", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225310_skill_desc_effect", "source": "Teleport", "translation": "Teleportacja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225310_skill_name", "source": "Teleport", "translation": "Teleportacja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225320_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225320_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225330_skill_desc_effect", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225330_skill_name", "source": "Restore HP", "translation": "Przywraca PŻ", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225340_skill_desc_effect", "source": "Bubble Shot", "translation": "Strzał bańką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225340_skill_name", "source": "Bubble Shot", "translation": "Strzał bańką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225350_skill_desc_effect", "source": "Claw Swipe", "translation": "Uderzenie pazurem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225350_skill_name", "source": "Claw Swipe", "translation": "Uderzenie pazurem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225360_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225360_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225370_skill_desc_effect", "source": "Heal", "translation": "Leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225370_skill_name", "source": "Heal", "translation": "Leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225380_skill_desc_effect", "source": "Magic Beam", "translation": "Promień magii", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225380_skill_name", "source": "Magic Beam", "translation": "Promień magii", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225390_skill_desc_effect", "source": "Magic Powder", "translation": "Magiczny proszek", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225390_skill_name", "source": "Magic Powder", "translation": "Magiczny proszek", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225400_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225400_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225410_skill_desc_effect", "source": "Wrathful Stomp", "translation": "Gniewne tupnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225410_skill_name", "source": "Wrathful Stomp", "translation": "Gniewne tupnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225420_skill_desc_effect", "source": "Leaf Blast", "translation": "Wybuch liści", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225420_skill_name", "source": "Leaf Blast", "translation": "Wybuch liści", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225430_skill_desc_effect", "source": "Leaf Storm", "translation": "Burza liści", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225430_skill_name", "source": "Leaf Storm", "translation": "Burza liści", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225440_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225440_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225450_skill_desc_effect", "source": "Swing", "translation": "Zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225450_skill_name", "source": "Swing", "translation": "Zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225460_skill_desc_effect", "source": "Scatter Seeds", "translation": "Rozrzucenie nasion", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225460_skill_name", "source": "Scatter Seeds", "translation": "Rozrzucenie nasion", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225470_skill_desc_effect", "source": "Rush", "translation": "Szarża", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225470_skill_name", "source": "Rush", "translation": "Szarża", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225480_skill_desc_effect", "source": "Overhead Slam", "translation": "Uderzenie z góry", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225480_skill_name", "source": "Overhead Slam", "translation": "Uderzenie z góry", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225490_skill_desc_effect", "source": "Teleport", "translation": "Teleportacja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225490_skill_name", "source": "Teleport", "translation": "Teleportacja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225500_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225500_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225510_skill_desc_effect", "source": "Rapid Bite", "translation": "Szybkie ukąszenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225510_skill_name", "source": "Rapid Bite", "translation": "Szybkie ukąszenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225520_skill_desc_effect", "source": "Spit Poison Fluid", "translation": "Wyplucie trującej cieczy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225520_skill_name", "source": "Spit Poison Fluid", "translation": "Wyplucie trującej cieczy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225530_skill_desc_effect", "source": "Tail Slash", "translation": "Cięcie ogonem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225530_skill_name", "source": "Tail Slash", "translation": "Cięcie ogonem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225540_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225540_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225550_skill_desc_effect", "source": "Wild Slice", "translation": "Dzikie cięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225550_skill_name", "source": "Wild Slice", "translation": "Dzikie cięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225560_skill_desc_effect", "source": "Sword Aura Blast", "translation": "Wybuch aury miecza", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225560_skill_name", "source": "Sword Aura Blast", "translation": "Wybuch aury miecza", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225570_skill_desc_effect", "source": "Helm Slash", "translation": "Cięcie hełmem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225570_skill_name", "source": "Helm Slash", "translation": "Cięcie hełmem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225580_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225580_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225590_skill_desc_effect", "source": "Stomp", "translation": "Tupnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225590_skill_name", "source": "Stomp", "translation": "Tupnięcie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225600_skill_desc_effect", "source": "Leaf Toss", "translation": "Rzut liściem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225600_skill_name", "source": "Leaf Toss", "translation": "Rzut liściem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225610_skill_desc_effect", "source": "Savage Swing", "translation": "Dziki zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225610_skill_name", "source": "Savage Swing", "translation": "Dziki zamach", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225620_skill_desc_effect", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225620_skill_name", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225630_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225630_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225640_skill_desc_effect", "source": "Enhance", "translation": "Wzmocnienie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225640_skill_name", "source": "Enhance", "translation": "Wzmocnienie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225650_skill_desc_effect", "source": "Toss Poison Dart", "translation": "Rzut zatrutą strzałką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225650_skill_name", "source": "Toss Poison Dart", "translation": "Rzut zatrutą strzałką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225660_skill_desc_effect", "source": "Poison Dart Pierce", "translation": "Przebicie zatrutą strzałką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225660_skill_name", "source": "Poison Dart Pierce", "translation": "Przebicie zatrutą strzałką", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225670_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225670_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225680_skill_desc_effect", "source": "Summon Totem", "translation": "Przywołanie totemu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225680_skill_name", "source": "Summon Totem", "translation": "Przywołanie totemu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225690_skill_desc_effect", "source": "Shadow Teleport", "translation": "Teleportacja cienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225690_skill_name", "source": "Shadow Teleport", "translation": "Teleportacja cienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225700_skill_desc_effect", "source": "Magic Bullet", "translation": "Magiczny pocisk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225700_skill_name", "source": "Magic Bullet", "translation": "Magiczny pocisk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225710_skill_desc_effect", "source": "Thunder Strike", "translation": "Uderzenie gromu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225710_skill_name", "source": "Thunder Strike", "translation": "Uderzenie gromu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225720_skill_desc_effect", "source": "Multi Shot", "translation": "Wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225720_skill_name", "source": "Multi Shot", "translation": "Wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225730_skill_desc_effect", "source": "Curse of Lightning", "translation": "Klątwa błyskawicy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225730_skill_name", "source": "Curse of Lightning", "translation": "Klątwa błyskawicy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225731_skill_desc_effect", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225731_skill_name", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225740_skill_desc_effect", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225740_skill_name", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225750_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225750_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225760_skill_desc_effect", "source": "Summon Totem", "translation": "Przywołanie totemu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225760_skill_name", "source": "Summon Totem", "translation": "Przywołanie totemu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225770_skill_desc_effect", "source": "Shadow Teleport", "translation": "Teleportacja cienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225770_skill_name", "source": "Shadow Teleport", "translation": "Teleportacja cienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225780_skill_desc_effect", "source": "Magic Bullet", "translation": "Magiczny pocisk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225780_skill_name", "source": "Magic Bullet", "translation": "Magiczny pocisk", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225790_skill_desc_effect", "source": "Thunder Strike", "translation": "Uderzenie gromu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225790_skill_name", "source": "Thunder Strike", "translation": "Uderzenie gromu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225800_skill_desc_effect", "source": "Multi Shot", "translation": "Wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225800_skill_name", "source": "Multi Shot", "translation": "Wielokrotny strzał", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225810_skill_desc_effect", "source": "Curse of Lightning", "translation": "Klątwa błyskawicy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225810_skill_name", "source": "Curse of Lightning", "translation": "Klątwa błyskawicy", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225811_skill_desc_effect", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225811_skill_name", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225820_skill_desc_effect", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225820_skill_name", "source": "AoE Explosion", "translation": "Eksplozja obszarowa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225830_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225830_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225840_skill_desc_effect", "source": "Shell Shelter", "translation": "Schronienie w skorupie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225840_skill_name", "source": "Shell Shelter", "translation": "Schronienie w skorupie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225850_skill_desc_effect", "source": "Droplet Blast", "translation": "Wybuch kropli", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225850_skill_name", "source": "Droplet Blast", "translation": "Wybuch kropli", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225860_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225860_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225870_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225870_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225880_skill_desc_effect", "source": "Back Roll", "translation": "Przewrót w tył", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225880_skill_name", "source": "Back Roll", "translation": "Przewrót w tył", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225890_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225890_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225900_skill_desc_effect", "source": "Headbutt", "translation": "Uderzenie głową", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225900_skill_name", "source": "Headbutt", "translation": "Uderzenie głową", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225910_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225910_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225920_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225920_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225930_skill_desc_effect", "source": "Branch Throw", "translation": "Rzut gałęzią", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225930_skill_name", "source": "Branch Throw", "translation": "Rzut gałęzią", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225940_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225940_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225950_skill_desc_effect", "source": "Destroy Pillar", "translation": "Zniszczenie filaru", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225950_skill_name", "source": "Destroy Pillar", "translation": "Zniszczenie filaru", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225960_skill_desc_effect", "source": "Rockfall", "translation": "Spadające skały", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225960_skill_name", "source": "Rockfall", "translation": "Spadające skały", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225970_skill_desc_effect", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225970_skill_name", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225980_skill_desc_effect", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225980_skill_name", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225990_skill_desc_effect", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1225990_skill_name", "source": "Lava", "translation": "Lawa", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226000_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226000_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226010_skill_desc_effect", "source": "Instant healing", "translation": "Natychmiastowe leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226010_skill_name", "source": "Instant Heal", "translation": "Natychmiastowe leczenie", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226020_skill_desc_effect", "source": "Energy Bullet", "translation": "Pocisk energii", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226020_skill_name", "source": "Energy Bullet", "translation": "Pocisk energii", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226030_skill_desc_effect", "source": "Summon Gust", "translation": "Przywołanie podmuchu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226030_skill_name", "source": "Summon Gust", "translation": "Przywołanie podmuchu", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226040_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226040_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226050_skill_desc_effect", "source": "Beam Blast", "translation": "Wybuch promienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226050_skill_name", "source": "Beam Blast", "translation": "Wybuch promienia", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226060_skill_desc_effect", "source": "Magic Bullet Shot", "translation": "Strzał magicznym pociskiem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226060_skill_name", "source": "Magic Bullet Shot", "translation": "Strzał magicznym pociskiem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226070_skill_desc_effect", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226070_skill_name", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226080_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226080_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226090_skill_desc_effect", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226090_skill_name", "source": "Magic Explosion", "translation": "Magiczna eksplozja", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226100_skill_desc_effect", "source": "Magic Bullet Shot", "translation": "Strzał magicznym pociskiem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226100_skill_name", "source": "Magic Bullet Shot", "translation": "Strzał magicznym pociskiem", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226110_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226110_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226120_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226120_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226130_skill_desc_effect", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226130_skill_name", "source": "Attack", "translation": "Atak", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226140_skill_desc_effect", "source": "Drana Shot", "translation": "Strzał draną", "status": "draft"}
+{"id": "SkillString_SkillString_NPC_1226140_skill_name", "source": "Drana Shot", "translation": "Strzał draną", "status": "draft"}

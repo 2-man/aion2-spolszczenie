@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_FE_Masq_AllBubble_01_desc", "source": "Drop for Everyone", "translation": "Łup dla wszystkich", "status": "draft"}
+{"id": "EnvObjData_E_FE_Masq_OdBubble_01_desc", "source": "Green Odyle Drop", "translation": "Zielona kropla Odylu", "status": "draft"}
+{"id": "EnvObjData_E_FE_Masq_OdBubble_02_desc", "source": "Golden Odyle Drop", "translation": "Złota kropla Odylu", "status": "draft"}
 {"id": "EnvObjData_E_FE_Masq_OdBubble_03_desc", "source": "Rainbow Odyle Drop", "translation": "Tęczowa kropla Odylu", "status": "draft"}
 {"id": "EnvObjData_E_FE_Masq_OwlBox_01_desc", "source": "Restores Shugo Detection Power", "translation": "Przywraca moc wykrywania Shugo", "status": "draft"}
 {"id": "EnvObjData_E_FE_Masq_OwlBox_01_interact_desc", "source": "Detection Power is being restored, nyerk...", "translation": "Trwa przywracanie mocy wykrywania, nyerk...", "status": "draft"}
@@ -41,9 +44,9 @@
 {"id": "EnvObjData_E_FE_TrapBoard_01_Bonus2_desc", "source": "Trapboard Bonus", "translation": "Premia za planszę-pułapkę", "status": "draft"}
 {"id": "EnvObjData_E_FE_TrapBoard_01_Bonus_desc", "source": "Trapboard Bonus", "translation": "Premia za planszę-pułapkę", "status": "draft"}
 {"id": "EnvObjData_E_FE_TrapBoard_02_Bonus_desc", "source": "Trapboard Bonus", "translation": "Premia za planszę-pułapkę", "status": "draft"}
-{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloorPreview_001_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska podłoga-puzzle", "status": "draft"}
-{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloorPreview_002_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona podłoga-puzzle", "status": "draft"}
-{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloor_001_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska podłoga-puzzle", "status": "draft"}
+{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloorPreview_001_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska zagadka podłogowa", "status": "draft"}
+{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloorPreview_002_desc", "source": "Floor Puzzle - Red", "translation": "Czerwona zagadka podłogowa", "status": "draft"}
+{"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloor_001_desc", "source": "Floor Puzzle - Blue", "translation": "Niebieska zagadka podłogowa", "status": "draft"}
 {"id": "EnvObjData_E_FE_TrapBoard_PuzzleFloor_002_desc", "source": "Floor Puzzle – Incorrect", "translation": "Zagadka podłogowa – błędna odpowiedź", "status": "draft"}
 {"id": "EnvObjData_E_FlyCircle_001_desc", "source": "Flight Circle", "translation": "Krąg lotu", "status": "draft"}
 {"id": "EnvObjData_E_Fromise9_Auditorium_01_desc", "source": "fromis_9 Stage Function", "translation": "Funkcja sceny fromis_9", "status": "draft"}
@@ -135,7 +138,7 @@
 {"id": "EnvObjData_E_L0_Layer_2_Corpse_003_desc", "source": "Legionnaire Corpse", "translation": "Zwłoki legionisty", "status": "draft"}
 {"id": "EnvObjData_E_L0_Layer_2_DebrisPile_001_desc", "source": "Pile of Remnants", "translation": "Stos pozostałości", "status": "draft"}
 {"id": "EnvObjData_E_L0_Layer_2_Tower_01_desc", "source": "Communication Tower", "translation": "Wieża komunikacyjna", "status": "draft"}
-{"id":"EnvObjData_E_L0_Region_03_TeleportArtifact_001_desc","source":"Dawn Legion Forward Base","translation":"Wysunięta baza Legionu Świtu","status":"draft"}
+{"id": "EnvObjData_E_L0_Region_03_TeleportArtifact_001_desc", "source": "Dawn Legion Forward Base", "translation": "Wysunięta baza Legionu Świtu", "status": "draft"}
 {"id": "EnvObjData_E_L0_Region_04_WoodWall_001_desc", "source": "Wooden Wall", "translation": "Drewniany mur", "status": "draft"}
 {"id": "EnvObjData_E_L0_Region_07_BombBoxDeco_001_desc", "source": "Bomb Chest", "translation": "Skrzynia z bombą", "status": "draft"}
 {"id": "EnvObjData_E_L0_Region_07_TowerDeco_001_desc", "source": "Communication Tower", "translation": "Wieża komunikacyjna", "status": "draft"}
@@ -158,12 +161,12 @@
 {"id": "EnvObjData_E_L0_Starter_HQ004_SupplyBox_002_desc", "source": "Brigade Supply Depot Chest", "translation": "Skrzynia magazynu zaopatrzenia brygady", "status": "draft"}
 {"id": "EnvObjData_E_L0_Starter_OldCelvice_001_desc", "source": "Dead Member's Selvis", "translation": "Selvis poległego członka", "status": "draft"}
 {"id": "EnvObjData_E_L0_Starter_SupplyBox_003_desc", "source": "Forward Base Supply Chest", "translation": "Skrzynia z zaopatrzeniem wysuniętej bazy", "status": "draft"}
-{"id":"EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_001_desc","source":"Rock Hill Outpost","translation":"Posterunek na Skalnym Wzgórzu","status":"draft"}
-{"id":"EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_002_desc","source":"Alert Observation Post","translation":"Punkt obserwacyjny","status":"draft"}
-{"id":"EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_003_desc","source":"Hill of Purification","translation":"Wzgórze Oczyszczenia","status":"draft"}
+{"id": "EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_001_desc", "source": "Rock Hill Outpost", "translation": "Posterunek na Skalnym Wzgórzu", "status": "draft"}
+{"id": "EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_002_desc", "source": "Alert Observation Post", "translation": "Punkt obserwacyjny", "status": "draft"}
+{"id": "EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_003_desc", "source": "Hill of Purification", "translation": "Wzgórze Oczyszczenia", "status": "draft"}
 {"id": "EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_004_desc", "source": "Altamia Highland Ruins", "translation": "Ruiny na Wyżynie Altamii", "status": "draft"}
-{"id":"EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_005_desc","source":"Ancient Zumion Temple Site","translation":"Teren starożytnej świątyni Zumionów","status":"draft"}
-{"id":"EnvObjData_E_L1_AltamiCanyon_TeleportArtifact_001_desc","source":"Canyon Campsite","translation":"Obóz w kanionie","status":"draft"}
+{"id": "EnvObjData_E_L1_AlamiaHighland_TeleportArtifact_005_desc", "source": "Ancient Zumion Temple Site", "translation": "Teren starożytnej świątyni Zumionów", "status": "draft"}
+{"id": "EnvObjData_E_L1_AltamiCanyon_TeleportArtifact_001_desc", "source": "Canyon Campsite", "translation": "Obóz w kanionie", "status": "draft"}
 {"id": "EnvObjData_E_L1_AltamiCanyon_TeleportArtifact_002_desc", "source": "Canyon Sky Island", "translation": "Podniebna wyspa kanionu", "status": "draft"}
 {"id": "EnvObjData_E_L1_AltamiCanyon_TeleportArtifact_003_desc", "source": "Scar of the Wind", "translation": "Blizna Wiatru", "status": "draft"}
 {"id": "EnvObjData_E_L1_AltamiHighland_LayerEnterDoor_001_desc", "source": "Purifying Altar Door", "translation": "Drzwi Ołtarza Oczyszczenia", "status": "draft"}
@@ -181,7 +184,7 @@
 {"id": "EnvObjData_E_L1_BoxBundle_03_desc", "source": "Wind Breeze Merchants Supplies", "translation": "Towary handlarzy Wietrznej Bryzy", "status": "draft"}
 {"id": "EnvObjData_E_L1_BoxPile_002_desc", "source": "Chest Containing a Ledger", "translation": "Skrzynia z księgą rachunkową", "status": "draft"}
 {"id": "EnvObjData_E_L1_BrokenBarrel_01_desc", "source": "Broken Oak Barrel", "translation": "Rozbita dębowa beczka", "status": "draft"}
-{"id":"EnvObjData_E_L1_BrokenCart_01_desc","source":"Broken Cart","translation":"Rozbity wóz","status":"draft"}
+{"id": "EnvObjData_E_L1_BrokenCart_01_desc", "source": "Broken Cart", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_L1_BrokenWagon_01_desc", "source": "Remnants of the Broken Cart", "translation": "Pozostałości rozbitego wozu", "status": "draft"}
 {"id": "EnvObjData_E_L1_BrokenWagon_03_desc", "source": "Wind Breeze Merchants' Lost Items", "translation": "Zgubione przedmioty handlarzy Wietrznej Bryzy", "status": "draft"}
 {"id": "EnvObjData_E_L1_BrokenWagon_04_desc", "source": "Broken Shugo Wagon", "translation": "Rozbity wóz Shugo", "status": "draft"}
@@ -190,12 +193,12 @@
 {"id": "EnvObjData_E_L1_BrokenWoodenBarrel_01_desc", "source": "Destroyed Oak Barrel", "translation": "Zniszczona dębowa beczka", "status": "draft"}
 {"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_001_desc", "source": "Western Cantas Valley Camp", "translation": "Obóz w zachodniej dolinie Cantas", "status": "draft"}
 {"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_002_desc", "source": "Eastern Cantas Valley Campsite", "translation": "Obozowisko we wschodniej dolinie Cantas", "status": "draft"}
-{"id":"EnvObjData_E_L1_CantasValley_TeleportArtifact_003_desc","source":"Valley Outpost","translation":"Posterunek w dolinie","status":"draft"}
-{"id":"EnvObjData_E_L1_CantasValley_TeleportArtifact_004_desc","source":"Coastal Camp","translation":"Obóz na wybrzeżu","status":"draft"}
+{"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_003_desc", "source": "Valley Outpost", "translation": "Posterunek w dolinie", "status": "draft"}
+{"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_004_desc", "source": "Coastal Camp", "translation": "Obóz na wybrzeżu", "status": "draft"}
 {"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_005_desc", "source": "Cantas Valley Sky Island", "translation": "Podniebna wyspa w dolinie Cantas", "status": "draft"}
 {"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_006_desc", "source": "Cantas Valley Mushroom Tree Peak", "translation": "Szczyt Grzybowego Drzewa w dolinie Cantas", "status": "draft"}
 {"id": "EnvObjData_E_L1_CantasValley_TeleportArtifact_041_desc", "source": "Cantas Valley Mushroom Tree Peak", "translation": "Szczyt Grzybowego Drzewa w dolinie Cantas", "status": "draft"}
-{"id":"EnvObjData_E_L1_CanyonEndCamp_TeleportArtifact_001_desc","source":"Highland's End Campsite","translation":"Obóz na skraju wyżyny","status":"draft"}
+{"id": "EnvObjData_E_L1_CanyonEndCamp_TeleportArtifact_001_desc", "source": "Highland's End Campsite", "translation": "Obóz na skraju wyżyny", "status": "draft"}
 {"id": "EnvObjData_E_L1_Cart_01_desc", "source": "Broken Wagon", "translation": "Rozbity wóz", "status": "draft"}
 {"id": "EnvObjData_E_L1_Cart_02_desc", "source": "Cart", "translation": "Wóz", "status": "draft"}
 {"id": "EnvObjData_E_L1_Chair_001_desc", "source": "Wooden Chair with Backrest", "translation": "Drewniane krzesło z oparciem", "status": "draft"}
@@ -235,7 +238,7 @@
 {"id": "EnvObjData_E_L1_DawnLegionBaseBarracks_LayerExitDoor_001_desc", "source": "Caelid's Office Door", "translation": "Drzwi do gabinetu Caelida", "status": "draft"}
 {"id": "EnvObjData_E_L1_DawnLegionBaseCommand_LayerEnterDoor_001_desc", "source": "Dawn Legion Command Post Door", "translation": "Drzwi do stanowiska dowodzenia Legionu Świtu", "status": "draft"}
 {"id": "EnvObjData_E_L1_DawnLegionBaseCommand_LayerExitDoor_001_desc", "source": "Dawn Legion Command Post Door", "translation": "Drzwi do stanowiska dowodzenia Legionu Świtu", "status": "draft"}
-{"id":"EnvObjData_E_L1_DawnLegionBase_TeleportArtifact_001_desc","source":"Dawn Legion Base","translation":"Baza Legionu Świtu","status":"draft"}
+{"id": "EnvObjData_E_L1_DawnLegionBase_TeleportArtifact_001_desc", "source": "Dawn Legion Base", "translation": "Baza Legionu Świtu", "status": "draft"}
 {"id": "EnvObjData_E_L1_DeadShugo_001_desc", "source": "Fallen Shugo", "translation": "Poległy Shugo", "status": "draft"}
 {"id": "EnvObjData_E_L1_DeadShugo_002_desc", "source": "Fallen Shugo", "translation": "Poległy Shugo", "status": "draft"}
 {"id": "EnvObjData_E_L1_DeadShugo_003_desc", "source": "Fallen Shugo", "translation": "Poległy Shugo", "status": "draft"}
@@ -243,8 +246,5 @@
 {"id": "EnvObjData_E_L1_DeadmanRemains_002_desc", "source": "Daeva's Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
 {"id": "EnvObjData_E_L1_DeadmanRemains_003_desc", "source": "Daeva's Corpse", "translation": "Zwłoki Daevy", "status": "draft"}
 {"id": "EnvObjData_E_L1_DranaPlantation_BalaurBoxPile_01_001_desc", "source": "Prop: Broken Cart Remnants", "translation": "Rekwizyt: szczątki rozbitego wozu", "status": "draft"}
-{"id":"EnvObjData_E_L1_DranaPlantation_TeleportArtifact_001_desc","source":"Notos Legion Outpost","translation":"Posterunek Legionu Notos","status":"draft"}
-{"id":"EnvObjData_E_L1_DranaPlantation_TeleportArtifact_002_desc","source":"Laborer's Rest Stop","translation":"Miejsce odpoczynku robotników","status":"draft"}
-{"id":"EnvObjData_E_L1_DranaPlantation_TeleportArtifact_003_desc","source":"Drana Transport Hub","translation":"Węzeł transportowy Drany","status":"draft"}
-{"id": "EnvObjData_E_L1_DranaRoot_001_desc", "source": "Condensed Drana Root", "translation": "Skondensowany korzeń Drany", "status": "draft"}
-{"id": "EnvObjData_E_L1_DranaSprout_001_desc", "source": "Drana Sprout", "translation": "Pęd Drany", "status": "draft"}
+{"id": "EnvObjData_E_L1_DranaPlantation_TeleportArtifact_001_desc", "source": "Notos Legion Outpost", "translation": "Posterunek Legionu Notos", "status": "draft"}
+{"id": "EnvObjData_E_L1_DranaPlantation_TeleportArtifact_002_desc", "source": "Laborer's Rest Stop", "translation": "Miejsce odpoczynku robotników", "status": "draft"}

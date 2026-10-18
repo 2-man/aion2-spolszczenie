@@ -1,3 +1,73 @@
+{"id": "String_STR_MapEvent_FierceHornCave_14_body", "source": "Go to the Howling Throne", "translation": "Udaj się do Wyjącego Tronu", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_15_body", "source": "Defeat Ferocious Horn Nuakum", "translation": "Pokonaj zajadłego Nuakuma z rogiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_1_body", "source": "Go inside the Fera Surveillance Site", "translation": "Wejdź na posterunek obserwacyjny Fera", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_2_body", "source": "Go to the entrance of the Twinkling Abyss", "translation": "Udaj się do wejścia do Migoczącej Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_3_body", "source": "[Optional] Destroy the Wooden Barricade with the bombs", "translation": "[Opcjonalnie] Zniszcz drewnianą barykadę bombami", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_4_body", "source": "Defeat the Abyss entrance keeper", "translation": "Pokonaj strażnika wejścia do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_5_body", "source": "Destroy the Stone Wall blocking the Abyss entrance", "translation": "Zniszcz kamienny mur blokujący wejście do Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_6_body", "source": "Go to the Twinkling Abyss", "translation": "Udaj się do Migoczącej Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_7_body", "source": "Go to the Requiem Altar", "translation": "Udaj się do Ołtarza Requiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_8_body", "source": "Examine the Shining Mau Totem", "translation": "Zbadaj lśniący totem Mau", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_9_body", "source": "Use bombs to defeat Totem Shamans and Duduka", "translation": "Użyj bomb, aby pokonać szamanów totemów i Duduka", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_10_body", "source": "Bind with the Twinkling Abyss Kibelisk", "translation": "Zwiąż się z Kibeliskiem w Migoczącej Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_11_body", "source": "Go to the Requiem Altar", "translation": "Udaj się do Ołtarza Requiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_12_body", "source": "Use bombs to defeat Totem Shamans and Duduka", "translation": "Użyj bomb, aby pokonać szamanów totemów i Duduka", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_13_body", "source": "Go to the Mau's Resting Place", "translation": "Udaj się do Miejsca Spoczynku Mau", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_14_body", "source": "Defeat Necromancer Duanka", "translation": "Pokonaj nekromantę Duankę", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_15_body", "source": "Ride the Updraft to exit the cave", "translation": "Skorzystaj z prądu wstępującego, aby opuścić jaskinię", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_16_body", "source": "Bind with the Howling Throne Kibelisk", "translation": "Zwiąż się z Kibeliskiem Wyjącego Tronu", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_17_body", "source": "Defeat Ferocious Horn Nuakum", "translation": "Pokonaj zajadłego Nuakuma z rogiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_1_body", "source": "Go inside the Fera Surveillance Site", "translation": "Wejdź na posterunek obserwacyjny Fera", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_2_body", "source": "Destroy the Wooden Barricade with a bomb", "translation": "Zniszcz drewnianą barykadę bombą", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_3_body", "source": "Defeat Watchdog Kwapo", "translation": "Pokonaj psa stróżującego Kwapo", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_4_body", "source": "Go deeper", "translation": "Udaj się głębiej", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_5_body", "source": "Go inside the cave to destroy the Stone Wall", "translation": "Wejdź do jaskini, aby zniszczyć kamienny mur", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_6_body", "source": "Go to the entrance of the Twinkling Abyss", "translation": "Udaj się do wejścia do Migoczącej Otchłani", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_7_body", "source": "Go to the Requiem Altar", "translation": "Udaj się do Ołtarza Requiem", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_8_body", "source": "Use bombs to defeat Totem Shamans and Duduka", "translation": "Użyj bomb, aby pokonać szamanów totemów i Duduka", "status": "draft"}
+{"id": "String_STR_MapEvent_FierceHornCave_Easy_9_body", "source": "Defeat the Shining Mau Totem", "translation": "Pokonaj lśniący totem Mau", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_1_1_body", "source": "Defeat Ignus or Murute", "translation": "Pokonaj Ignusa lub Murute", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_1_2_body", "source": "[Optional] Operate the Coolant Console to weaken the Fire Aura", "translation": "[Opcjonalnie] Uruchom konsolę chłodzącą, aby osłabić Aurę Ognia", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_1_body", "source": "Defeat the Temple Guardian to remove the barrier", "translation": "Pokonaj strażnika świątyni, aby usunąć barierę", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_2_body", "source": "Go through the entrance to the Mirror Altar", "translation": "Przejdź przez wejście do Ołtarza Luster", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_3_body", "source": "Defeat Kromede's Desire", "translation": "Pokonaj Pragnienie Kromede", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_4_body", "source": "[Optional] Defeat Red Spark Ignus or Black Smoke Murute", "translation": "[Opcjonalnie] Pokonaj Czerwoną Iskrę Ignus lub Murute Czarnego Dymu", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_5_body", "source": "[Optional] Defeat Red Spark Ignus", "translation": "[Opcjonalnie] Pokonaj Czerwoną Iskrę Ignus", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_6_body", "source": "[Optional] Defeat Black Smoke Murute", "translation": "[Opcjonalnie] Pokonaj Murute Czarnego Dymu", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_7_body", "source": "[Optional] Defeat Silver Blade Rotan", "translation": "[Opcjonalnie] Pokonaj Rotana Srebrnego Ostrza", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_1_body", "source": "Defeat all spirits", "translation": "Pokonaj wszystkie duchy", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_2_body", "source": "Bind with the Path of Atonement Kibelisk", "translation": "Zwiąż się z Kibeliskiem na Ścieżce Pokuty", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_3_body", "source": "Enter the Temple", "translation": "Wejdź do świątyni", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_4_body", "source": "Operate the Coolant Console to weaken the Fire Aura", "translation": "Uruchom konsolę chłodzącą, aby osłabić Aurę Ognia", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_5_body", "source": "Glide to the entrance of the Fire Corridor", "translation": "Poszybuj do wejścia do Korytarza Ognia", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_6_body", "source": "Bind with the Mirror Altar Kibelisk", "translation": "Zwiąż się z Kibeliskiem przy Ołtarzu Luster", "status": "draft"}
+{"id": "String_STR_MapEvent_FireTemple_Easy_7_body", "source": "Open the Mirror Altar Door", "translation": "Otwórz drzwi Ołtarza Luster", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_10_body", "source": "Go toward the sound", "translation": "Udaj się w stronę dźwięku", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_1_body", "source": "Defeat the threatening Balaur", "translation": "Pokonaj zagrażającego Balaura", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_2_body", "source": "Talk to the Shugo Alchemist", "translation": "Porozmawiaj z alchemikiem Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_3_body", "source": "Operate the Security Module after disabling the veil", "translation": "Po wyłączeniu zasłony uruchom moduł ochronny", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_4_body", "source": "Operate the Power Tower Control Device", "translation": "Uruchom urządzenie sterujące Wieżą Mocy", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_5_body", "source": "Defeat Expedition Leader Cohta", "translation": "Pokonaj dowódcę ekspedycji Cohtę", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_6_body", "source": "Disable the Security Module Veil", "translation": "Wyłącz zasłonę modułu ochronnego", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_7_body", "source": "Destroy the Veil Generator", "translation": "Zniszcz generator Zasłony", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_8_body", "source": "Follow the Shugo Alchemist", "translation": "Podążaj za alchemikiem Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Desc_9_body", "source": "Collect loot from the treasure chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_1_body", "source": "Help the Shugo Alchemist", "translation": "Pomóż alchemikowi Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_2_body", "source": "Listen to the Shugo Alchemist's explanation", "translation": "Wysłuchaj wyjaśnień alchemika Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_3_body", "source": "Neutralize the Security Module", "translation": "Unieszkodliw moduł ochronny", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_4_body", "source": "Destroy the Drana Repository", "translation": "Zniszcz repozytorium Drany", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_5_body", "source": "Defeat the outpost leader", "translation": "Pokonaj przywódcę posterunku", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_6_body", "source": "Open the Cohta Outpost Treasure Chest", "translation": "Otwórz skrzynię ze skarbami na posterunku Cohta", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_7_body", "source": "Follow the Shugo Alchemist", "translation": "Podążaj za alchemikiem Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_8_body", "source": "Destroy the Veil Generator to remove the veil", "translation": "Zniszcz generator Zasłony, aby usunąć zasłonę", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D1_Title_9_body", "source": "Search Cohta Outpost", "translation": "Przeszukaj posterunek Cohta", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_1_body", "source": "Destroy Small Drana Repository", "translation": "Zniszcz Małe Repozytorium Drany", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_2_body", "source": "Defeat guards defending the Drana Repository", "translation": "Pokonaj strażników broniących repozytorium Drany", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_3_body", "source": "Go to the central Drana Repository", "translation": "Udaj się do centralnego repozytorium Drany", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_4_body", "source": "Defeat all enemies", "translation": "Pokonaj wszystkich wrogów", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_5_body", "source": "Defeat Mantasch", "translation": "Pokonaj Mantascha", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Desc_6_body", "source": "Collect loot from the Treasure Chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
+{"id": "String_STR_MapEvent_GarrionTerritory_D2_Title_0_body", "source": "Investigate the Mantasch Patrol Base", "translation": "Zbadaj bazę patrolową Mantasch", "status": "draft"}
 {"id": "String_STR_MapEvent_GarrionTerritory_D2_Title_1_body", "source": "Go to the Drana Repository", "translation": "Udaj się do repozytorium Drany", "status": "draft"}
 {"id": "String_STR_MapEvent_GarrionTerritory_D2_Title_2_body", "source": "Destroy the Drana Repository", "translation": "Zniszcz repozytorium Drany", "status": "draft"}
 {"id": "String_STR_MapEvent_GarrionTerritory_D2_Title_3_body", "source": "Approach the central Drana Repository", "translation": "Podejdź do centralnego repozytorium Drany", "status": "draft"}
@@ -178,73 +248,3 @@
 {"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Desc_5_body", "source": "Defeat Forester Daeva Wraiths", "translation": "Pokonaj upiory leśnych daeva", "status": "draft"}
 {"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Title_0_body", "source": "Investigate the Corrupted Forester Ruins", "translation": "Zbadaj ruiny splugawionych leśnych mieszkańców", "status": "draft"}
 {"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Title_1_body", "source": "Destroy the Corrupted Daeva's Belongings", "translation": "Zniszcz rzeczy splugawionego daeva", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Title_2_body", "source": "Go in search of the Treasure Chest", "translation": "Wyrusz na poszukiwanie skrzyni ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Title_3_body", "source": "Defeat the corrupted Forester Scafid", "translation": "Pokonaj splugawionego leśnego Scafida", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R2_01_Title_4_body", "source": "Investigate the Treasure Chest", "translation": "Zbadaj skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_01_Title_0_body", "source": "Help the Captured Burglar", "translation": "Pomóż pojmanemu włamywaczowi", "status": "draft"}
-{"id":"String_STR_MapEvent_GarrionTerritory_D_R3_01_Title_1_body","source":"Find Survivors","translation":"Znajdź ocalałych","status":"draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_01_Title_2_body", "source": "Check the Blades' Treasure Chest", "translation": "Sprawdź skrzynię ze skarbami Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_01_Title_3_body", "source": "Defeat Blades Commander", "translation": "Pokonaj dowódcę Ostrzy", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_01_Title_4_body", "source": "Investigate the Treasure Chest", "translation": "Zbadaj skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_Desc_1_body", "source": "Defeat Blades", "translation": "Pokonaj Ostrza", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_Desc_2_body", "source": "Find the Thief's companions", "translation": "Znajdź towarzyszy złodzieja", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_Desc_3_body", "source": "Check the Treasure Chest", "translation": "Sprawdź skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_Desc_4_body", "source": "Defeat Commander Nadin", "translation": "Pokonaj dowódcę Nadina", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R3_Desc_5_body", "source": "Open the Treasure Chest", "translation": "Otwórz skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_1_body", "source": "Talk to Royal Huey", "translation": "Porozmawiaj z Królewskim Hueyem", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_2_body", "source": "Manipulate the Specters for Collection", "translation": "Skieruj widma do zbiórki", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_3_body", "source": "Operate the Purification Brazier to Purify the Specters", "translation": "Uruchom palenisko oczyszczające, aby oczyścić widma", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_4_body", "source": "Attack and destroy the central door", "translation": "Zaatakuj i zniszcz główne drzwi", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_5_body", "source": "Enter the Suspicious Room", "translation": "Wejdź do podejrzanego pomieszczenia", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Desc_6_body", "source": "Defeat the Bierts Wraith", "translation": "Pokonaj upiora Bierts", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_1_body", "source": "Talk to the Survivor", "translation": "Porozmawiaj z ocalałym", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_2_body", "source": "Collect Legionnaires' Specters", "translation": "Zbierz widma legionistów", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_3_body", "source": "Purify Legionnaires' Specters", "translation": "Oczyść widma legionistów", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_4_body", "source": "Destroy the Central Gate", "translation": "Zniszcz główną bramę", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_5_body", "source": "Enter the Suspicious Room", "translation": "Wejdź do podejrzanego pomieszczenia", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R4_01_Title_6_body", "source": "Defeat the Wraith", "translation": "Pokonaj upiora", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Desc_1_body", "source": "Talk to the Vagabond Daeva", "translation": "Porozmawiaj z wędrownym daeva", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Desc_2_body", "source": "Defeat Commander Flauke", "translation": "Pokonaj dowódcę Flauke", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Desc_3_body", "source": "[Optional] Weaken Flauke by removing souls", "translation": "[Opcjonalnie] Osłab Flauke, usuwając dusze", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Desc_4_body", "source": "Search the Treasure Chest", "translation": "Przeszukaj skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Desc_5_body", "source": "Observe the Flauke Summoning Ritual", "translation": "Obserwuj rytuał przyzwania Flauke", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Title_1_body", "source": "Collect Outpost Information", "translation": "Zbierz informacje o posterunku", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Title_2_body", "source": "Defeat the captain", "translation": "Pokonaj kapitana", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Title_3_body", "source": "Collect loot from the Treasure Chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_D_R5_01_Title_4_body", "source": "Prepare for the Battle", "translation": "Przygotuj się do walki", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_1_body", "source": "Search the Treasure Chest", "translation": "Przeszukaj skrzynię ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_2_body", "source": "Defeat the chief", "translation": "Pokonaj wodza", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_3_body", "source": "Destroy the Stronghold Siegestone", "translation": "Zniszcz Kamień Oblężniczy Warowni", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_4_body", "source": "Defeat the captain", "translation": "Pokonaj kapitana", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_5_body", "source": "Operate the Trap Disabling Device", "translation": "Uruchom urządzenie wyłączające pułapki", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_6_body", "source": "Clear out the Stronghold", "translation": "Oczyść warownię", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_Desc_7_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Desc_1_body", "source": "Find Rohin's supplies", "translation": "Znajdź zapasy Rohina", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Desc_2_body", "source": "Find the thieves' Treasure Chest", "translation": "Znajdź skrzynię ze skarbami złodziei", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Desc_3_body", "source": "Defeat the marauder Ugaros", "translation": "Pokonaj rabusia Ugarosa", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Desc_4_body", "source": "Open the Treasure Chest and collect loot", "translation": "Otwórz skrzynię ze skarbami i zbierz łupy", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Title_1_body", "source": "Search the Ugaros Thieves Campsite", "translation": "Przeszukaj obozowisko złodziei Ugaros", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H1_Title_2_body", "source": "Find Rohin's lost supplies", "translation": "Znajdź zgubione zapasy Rohina", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Desc_1_body", "source": "Defeat the Miros Captain", "translation": "Pokonaj kapitana Mirosa", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Desc_2_body", "source": "Talk to the Reckless Farmer", "translation": "Porozmawiaj z lekkomyślnym farmerem", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Desc_3_body", "source": "Defeat Miros", "translation": "Pokonaj Mirosa", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Desc_4_body", "source": "Wait until Miros is alone (Optional)", "translation": "Poczekaj, aż Miros zostanie sam (opcjonalnie)", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Title_1_body", "source": "Search Miros Post", "translation": "Przeszukaj posterunek Mirosa", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Title_2_body", "source": "Talk to the Reckless Farmer", "translation": "Porozmawiaj z lekkomyślnym farmerem", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Title_3_body", "source": "Defeat the leader Miros", "translation": "Pokonaj przywódcę Mirosa", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H2_Title_4_body", "source": "Talk to the hiding farmer", "translation": "Porozmawiaj z ukrywającym się farmerem", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H3_Desc_1_body", "source": "Remove the Hallucinogenic Mushrooms", "translation": "Usuń halucynogenne grzyby", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H3_Desc_2_body", "source": "Defeat Addicted Poacher", "translation": "Pokonaj uzależnionego kłusownika", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H4_01_Desc_1_body", "source": "Open the Prison Door to rescue the Residents", "translation": "Otwórz drzwi więzienia, aby uwolnić mieszkańców", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H4_01_Desc_2_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H4_01_Desc_3_body", "source": "Destroy Trap Control Devices", "translation": "Zniszcz urządzenia sterujące pułapkami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Desc_1_body", "source": "Retrieve the goods from the Loot Chests", "translation": "Odzyskaj towary ze skrzyń z łupami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Desc_2_body", "source": "Light the Beacon", "translation": "Zapal sygnał świetlny", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Desc_3_body", "source": "Defeat Rogue Rogherr", "translation": "Pokonaj łotra Rogherra", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Desc_4_body", "source": "Collect loot from the Treasure Chest", "translation": "Zbierz łupy ze skrzyni ze skarbami", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Title_1_body", "source": "Search the Canyon Thieves Den", "translation": "Przeszukaj Kryjówkę Złodziei z Kanionu", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Title_2_body", "source": "Lure out the leader of the Canyon Thieves Den", "translation": "Zwab przywódcę Kryjówki Złodziei z Kanionu", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Title_3_body", "source": "Defeat the leader of the Canyon Thieves Den", "translation": "Pokonaj przywódcę Kryjówki Złodziei z Kanionu", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_H5_Title_4_body", "source": "Open the Treasure Chest in the Canyon Thieves Den", "translation": "Otwórz skrzynię ze skarbami w Kryjówce Złodziei z Kanionu", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_L1_R1_Desc_1_body", "source": "Talk to the Vanishing Soul", "translation": "Porozmawiaj ze znikającą duszą", "status": "draft"}
-{"id": "String_STR_MapEvent_GarrionTerritory_L1_R1_Desc_2_body", "source": "Destroy the Attack Stone", "translation": "Zniszcz Kamień Ataku", "status": "draft"}

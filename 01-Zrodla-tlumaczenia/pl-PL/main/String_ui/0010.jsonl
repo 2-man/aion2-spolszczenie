@@ -1,250 +1,250 @@
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_ALL_DESC1_body","source":"Measurement of all metrics automatically begins the moment you first attack an enemy after pressing the Start button.","translation":"Pomiar wszystkich statystyk rozpoczyna się automatycznie, gdy po naciśnięciu przycisku Start po raz pierwszy zaatakujesz wroga.","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_ALL_DESC2_body","source":"Measure All","translation":"Mierz wszystko","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_ALL_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_AUTOANALYZE_body","source":"Auto-Analysis Mode","translation":"Tryb automatycznej analizy","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_DETAILED_MODE_body","source":"Switch to Detailed Mode","translation":"Przełącz na tryb szczegółowy","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_OPACITY_body","source":"Opacity","translation":"Krycie","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_RECORD_RESET_body","source":"Reset all record","translation":"Zresetuj wszystkie rekordy","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_RECORD_body","source":"History","translation":"Historia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_RESET_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_SIMPLE_MODE_body","source":"Switch to Simple Mode","translation":"Przełącz na tryb prosty","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_START_body","source":"Start","translation":"Rozpocznij","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_STOP_body","source":"Stop","translation":"Zatrzymaj","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_TARGET_DESC1_body","source":"Analysis automatically begins the moment you first attack an enemy under Auto-Analysis Mode or after pressing the Start button.","translation":"Analiza rozpoczyna się automatycznie przy pierwszym ataku na wroga w trybie automatycznej analizy lub po naciśnięciu przycisku Start.","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_TARGET_DESC2_body","source":"Metric: {0}","translation":"Statystyka: {0}","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BUTTON_TARGET_body","source":"Select","translation":"Wybierz","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_CRITICAL_COUNT_body","source":"Critical Hits (Proportion)","translation":"Trafienia krytyczne (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_DPS_body","source":"DPS","translation":"DPS","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_FRONTATTACK_COUNT_body","source":"Front Attack Hits (Proportion)","translation":"Trafienia z przodu (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_ACCURACY_COUNT_body","source":"Received Hits (Proportion)","translation":"Otrzymane trafienia (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_ADDITIONALHIT_COUNT_body","source":"Received Multi-Hits (Proportion)","translation":"Otrzymane serie trafień (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_BACKATTACK_COUNT_body","source":"Received Back Attack Hits (Proportion)","translation":"Otrzymane trafienia od tyłu (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_BLOCK_COUNT_body","source":"Block (Proportion)","translation":"Blokowanie (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_CRITICAL_COUNT_body","source":"Received Critical Hits (Proportion)","translation":"Otrzymane trafienia krytyczne (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_FRONTATTACK_COUNT_body","source":"Received Front Attack Hits (Proportion)","translation":"Otrzymane trafienia z przodu (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_HARDHIT_COUNT_body","source":"Received Double Hits (Proportion)","translation":"Otrzymane podwójne trafienia (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_IMMUNE_COUNT_body","source":"Invincible (Proportion)","translation":"Niewrażliwość (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_IRONWALL_COUNT_body","source":"Endurance (Proportion)","translation":"Wytrzymałość (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_PERFECT_COUNT_body","source":"Received Perfect Hits (Proportion)","translation":"Otrzymane trafienia perfekcyjne (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_RESTORATION_COUNT_body","source":"Regeneration (Proportion)","translation":"Regeneracja (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_TOTAL_DAMAGE_COUNT_body","source":"Received Hits","translation":"Otrzymane trafienia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_GET_TOTAL_DAMAGE_body","source":"Total Damage Received","translation":"Łączne otrzymane obrażenia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_HARDHIT_COUNT_body","source":"Double Hits (Proportion)","translation":"Podwójne trafienia (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_IMMUNE_COUNT_body","source":"Invincible (Proportion)","translation":"Niewrażliwość (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_INFO_GUIDE_DETAILED_MODE_body","source":"[Auto-Analysis Mode]\n- Automatically analyzes combat when attacking a scarecrow or boss.\n\n[Single-Target Mode]\n- Select a target and press the Start button. Start analysis by attacking selected target.\n\n[Multi-Target Mode]\n- Press the Start button. Start analysis by attacking any target. Press the Stop button to end analysis.\n\nAnalysis result will be stored after each session, and the oldest record will be deleted if maximum number of records is reached.\n\n> HIT: Hit count\n> CRI: Critical\n> PERF: Perfect\n> DOUB: Double\n> FRNT: Front\n> BACK: Back\n> MULT: Multi-Hit\n> IMMU: Invincibility\nENDR: Endurance\nRSTO: Regeneration","translation":"[Tryb automatycznej analizy]\n- Automatycznie analizuje walkę podczas ataku na manekina treningowego lub bossa.\n\n[Tryb jednego celu]\n- Wybierz cel i naciśnij przycisk Start. Rozpocznij analizę, atakując wybrany cel.\n\n[Tryb wielu celów]\n- Naciśnij przycisk Start. Rozpocznij analizę, atakując dowolny cel. Naciśnij przycisk Stop, aby zakończyć analizę.\n\nWyniki analizy zostaną zapisane po każdej sesji. Po osiągnięciu limitu rekordów najstarszy zostanie usunięty.\n\n> HIT: liczba trafień\n> CRI: trafienie krytyczne\n> PERF: perfekcyjne trafienie\n> DOUB: podwójne trafienie\n> FRNT: atak z przodu\n> BACK: atak od tyłu\n> MULT: seria trafień\n> IMMU: niewrażliwość\nENDR: wytrzymałość\nRSTO: regeneracja","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_INFO_GUIDE_SIMPLE_MODE_body","source":"[Auto-Analysis Mode]\n- Automatically analyzes combat when attacking a scarecrow or boss.\n\n[Single-Target Mode]\n- Select a target and press the Start button. Start analysis by attacking selected target.\n\n[Multi-Target Mode]\n- Press the Start button. Start analysis by attacking any target. Press the Stop button to end analysis.\n\nAnalysis result will be stored after each session, and the oldest record will be deleted if maximum number of records is reached.","translation":"[Tryb automatycznej analizy]\n- Automatycznie analizuje walkę podczas ataku na manekina treningowego lub bossa.\n\n[Tryb jednego celu]\n- Wybierz cel i naciśnij przycisk Start. Rozpocznij analizę, atakując wybrany cel.\n\n[Tryb wielu celów]\n- Naciśnij przycisk Start. Rozpocznij analizę, atakując dowolny cel. Naciśnij przycisk Stop, aby zakończyć analizę.\n\nWyniki analizy zostaną zapisane po każdej sesji. Po osiągnięciu limitu rekordów najstarszy zostanie usunięty.","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_IRONWALL_COUNT_body","source":"Endurance (Proportion)","translation":"Wytrzymałość (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_NO_INFORMATION_body","source":"No combat power metric has been measured.","translation":"Nie zmierzono żadnej statystyki mocy bojowej.","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_PERFECT_COUNT_body","source":"Perfect Hits (Proportion)","translation":"Trafienia perfekcyjne (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RATIO_body","source":"{0}%","translation":"{0}%","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_RESET_CONFIRM_body","source":"Reset all records?","translation":"Zresetować wszystkie rekordy?","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_TARGET_ALL_body","source":"All","translation":"Wszystko","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_TARGET_DESC_body","source":"Target: {0}","translation":"Cel: {0}","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_TARGET_body","source":"Target","translation":"Cel","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_TIME_body","source":"Recorded Time","translation":"Czas zapisu","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RECORD_body","source":"History ({0}/{1})","translation":"Historia ({0}/{1})","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_RESTORATION_COUNT_body","source":"Regeneration (Proportion)","translation":"Regeneracja (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_ACCURACY_COUNT_body","source":"ACC","translation":"ACC","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_ADDITIONALHIT_COUNT_body","source":"MULT","translation":"MULT","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_BACKATTACK_COUNT_body","source":"BACK","translation":"BACK","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_BLOCK_COUNT_body","source":"BLOC","translation":"BLOC","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_CRITICAL_COUNT_body","source":"CRI","translation":"CRI","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_FRONTATTACK_COUNT_body","source":"FRNT","translation":"FRNT","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_HARDHIT_COUNT_body","source":"DOUB","translation":"DOUB","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_IMMUNE_COUNT_body","source":"INVC","translation":"INVC","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_IRONWALL_COUNT_body","source":"ENDR","translation":"ENDR","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_PERFECT_COUNT_body","source":"PERF","translation":"PERF","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_RESTORATION_COUNT_body","source":"RSTO","translation":"RSTO","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_TOTAL_DAMAGE_COUNT_body","source":"HIT","translation":"HIT","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_SKILL_TOTAL_DAMAGE_body","source":"Total Damage","translation":"Łączne obrażenia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TIME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TITLE_body","source":"Combat Analysis","translation":"Analiza walki","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_COUNT_body","source":"Total Hits","translation":"Łączna liczba trafień","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_DPS_DESC_body","source":"{0} ({1})","translation":"{0} ({1})","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_DPS_body","source":"Total Damage","translation":"Łączne obrażenia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_body","source":"Total Damage Given","translation":"Zadane obrażenia","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_TOTAL_HEAL_body","source":"Total Heal","translation":"Łączne leczenie","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_VALUE_RATIO_body","source":"{0} ({1}%)","translation":"{0} ({1}%)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_VALUE_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_DAMAGELOGVIEWER_COPY_body","source":"Copy","translation":"Kopiuj","status":"draft"}
-{"id":"String_UI_DAMAGELOGVIEWER_RESET_body","source":"Reset","translation":"Resetuj","status":"draft"}
-{"id":"String_UI_DAMAGELOGVIEWER_TITLE_body","source":"Damage Log UI","translation":"Interfejs dziennika obrażeń","status":"draft"}
-{"id":"String_UI_DAMAGELOGVIEWER_TOGGLEMODE_body","source":"Switch Mode","translation":"Zmień tryb","status":"draft"}
-{"id":"String_UI_DAMAGELOGVIEWER_TOOLTIPTEXT_body","source":"Damage Log Viewer","translation":"Przeglądarka dziennika obrażeń","status":"draft"}
-{"id":"String_UI_DAY_TIME_LIMIT_RESET_DAILY_body","source":"{0} daily","translation":"{0} dziennie","status":"draft"}
-{"id":"String_UI_DAY_TIME_LIMIT_RESET_MONTHLY_body","source":"Day {0} of Every Month at {1}","translation":"{0}. dzień każdego miesiąca o {1}","status":"draft"}
-{"id":"String_UI_DAY_TIME_LIMIT_RESET_WEEKLY_body","source":"Every {0} at {1}","translation":"Co {0} o {1}","status":"draft"}
-{"id":"String_UI_DAY_TIME_SEC_body","source":"{1}/{2}/{0} {3}:{4}:{5}","translation":"{1}/{2}/{0} {3}:{4}:{5}","status":"draft"}
-{"id":"String_UI_DAY_TIME_body","source":"{1}/{2}/{0} {3}:{4}","translation":"{1}/{2}/{0} {3}:{4}","status":"draft"}
-{"id":"String_UI_DAY_body","source":"{1}/{2}/{0}","translation":"{1}/{2}/{0}","status":"draft"}
-{"id":"String_UI_DEATH_BASICS_MSG_WITH_PENALTY_body","source":"Accumulated EXP loss is {0}% and can be recovered through Soul Healing.","translation":"Utratę doświadczenia w wysokości {0}% odzyskasz dzięki leczeniu duszy.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_COMMON_BUTTON_body","source":"Default Resurrection","translation":"Domyślne wskrzeszenie","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_DUNGEON_CONTINUE_BUTTON_MSG_body","source":"Transported to the resurrection point.","translation":"Przeniesiono do punktu wskrzeszenia.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_DUNGEON_RESTART_BUTTON_MSG_body","source":"Dungeon progression will reset, and you will resurrect at the resurrection point in the dungeon.","translation":"Postęp w lochu zostanie zresetowany, a ty odrodzisz się w punkcie wskrzeszenia w lochu.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_HOME_BUTTON_MSG_body","source":"Resurrect at {0}.","translation":"Wskrześ w: {0}.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_HOME_BUTTON_body","source":"Strongpoint Resurrection","translation":"Wskrzeszenie w punkcie strategicznym","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_CANNOT_USE_BY_MAP_MSG_body","source":"Direct resurrection not available in this area.","translation":"W tym obszarze nie można wskrzeszać bezpośrednio.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_CANNOT_USE_BY_PC_MSG_body","source":"Cannot be used on PCs to directly resurrect after dying.","translation":"Nie można użyć na graczach, aby wskrzesić ich bezpośrednio po śmierci.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_COOLTIME_body","source":"Can resurrect in {0}","translation":"Możesz wskrzesić za {0}","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_MSG_UNABLE_DUNGEON_body","source":"Exceeded the number of manual resurrections.","translation":"Przekroczono limit ręcznych wskrzeszeń.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_MSG_body","source":"Resurrect on the spot by using {0}.","translation":"Wskrześ na miejscu za pomocą {0}.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_body","source":"Manual Resurrection","translation":"Ręczne wskrzeszenie","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_ITEM_COOLTIME_body","source":"Time left until direct resurrection after a normal death: {0}","translation":"Czas do bezpośredniego wskrzeszenia po zwykłej śmierci: {0}","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_KIBEL_BUTTON_MSG_body","source":"Resurrect at {0}.","translation":"Wskrześ w: {0}.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_MSG_UNABLE_body","source":"Cannot resurrect using registered Kisk from current location.","translation":"Nie można wskrzesić przy użyciu zarejestrowanego Kiska z obecnego miejsca.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_MSG_body","source":"Resurrects at the location registered with Kisk.","translation":"Wskrzesza w miejscu zarejestrowanym przy Kisku.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_body","source":"Kisk Resurrection","translation":"Wskrzeszenie przy Kisku","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_NO_COUNT_body","source":"Exceeded the number of resurrections and cannot be resurrected by skill effects.","translation":"Przekroczono limit wskrzeszeń. Nie można wskrzesić za pomocą efektów umiejętności.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_CAN_USE_SKILL_body","source":"Available","translation":"Dostępne","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_CHARACTER_SKILL_body","source":"{0}/{1} Lv. {2}","translation":"{0}/{1} poz. {2}","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_body","source":"Party member within sight has Resurrect skill.","translation":"Widoczny członek drużyny ma umiejętność wskrzeszania.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_NOT_EXIST_body","source":"No Party members within sight have Resurrect skill.","translation":"Żaden widoczny członek drużyny nie ma umiejętności wskrzeszania.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_SKILL_BUTTON_MSG_body","source":"Resurrect on the spot with {0} effect.","translation":"Wskrześ na miejscu za pomocą efektu {0}.","status":"draft"}
-{"id":"String_UI_DEATH_CONFIRM_CHOICE_SKILL_BUTTON_body","source":"Skill Resurrection","translation":"Wskrzeszenie umiejętnością","status":"draft"}
-{"id":"String_UI_DEATH_GROWTH_GUIDE_ONE_body","source":"Enhancement: Increase your stats by enhancing gear and engraving Manastones and Theostones.","translation":"Ulepszanie: zwiększaj statystyki, ulepszając ekwipunek oraz grawerując kamienie many i teoskale.","status":"draft"}
-{"id":"String_UI_DEATH_GROWTH_GUIDE_THREE_body","source":"Daevanion: Activate Daevanion Nodes to awaken your character's potential by increasing stats and skill levels.","translation":"Daevanion: aktywuj węzły Daevanionu, by obudzić potencjał postaci, zwiększając statystyki i poziomy umiejętności.","status":"draft"}
-{"id":"String_UI_DEATH_GROWTH_GUIDE_TITLE_body","source":"Progress Guide","translation":"Przewodnik postępu","status":"draft"}
-{"id":"String_UI_DEATH_GROWTH_GUIDE_TWO_body","source":"Skills: Improve your skills to boost your stats, and enhance your combat with specialized setups tailored to specific situations.","translation":"Umiejętności: rozwijaj je, aby zwiększać statystyki i wzmacniać walkę dzięki wyspecjalizowanym zestawom na różne sytuacje.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_AUTOREGISTER_TITLE_AUTO_body","source":"Auto Extract","translation":"Automatyczne pozyskiwanie","status":"draft"}
-{"id":"String_UI_DECOMPOSE_AUTOREGISTER_TITLE_MANUAL_body","source":"Quick Select","translation":"Szybki wybór","status":"draft"}
-{"id":"String_UI_DECOMPOSE_AUTOREGISTER_TITLE_body","source":"Extract Settings","translation":"Ustawienia pozyskiwania","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_AUTO_SELECT_body","source":"Quick Select","translation":"Szybki wybór","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_DECOMPOSE_GUIDE_body","source":"Register the item to extract.","translation":"Wybierz przedmiot do pozyskania.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_DECOMPOSE_body","source":"Extract","translation":"Pozyskaj","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_EXTRACTION_body","source":"Extract Skin","translation":"Pozyskaj wygląd","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_SKIN_EXTRACTION_body","source":"Extract Skin","translation":"Pozyskaj wygląd","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BTN_UNSELECT_body","source":"Deselect","translation":"Odznacz","status":"draft"}
-{"id":"String_UI_DECOMPOSE_BUTTON_DETAIL_body","source":"View Details","translation":"Pokaż szczegóły","status":"draft"}
-{"id":"String_UI_DECOMPOSE_CAUTION_TEXT_ENCHANT_MULTI_body","source":"Includes enhanced gear.","translation":"Obejmuje ulepszony ekwipunek.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_CAUTION_TEXT_GRADE_MULTI_body","source":"Includes items of {0} Grade or higher.","translation":"Obejmuje przedmioty jakości {0} lub wyższej.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_CAUTION_TEXT_SKIN_body","source":"Skin can be extracted with a certain chance.","translation":"Wygląd można pozyskać z określoną szansą.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_CAUTION_TEXT_STONE_MULTI_body","source":"Includes gear engraved with Manastone or Theostone.","translation":"Obejmuje ekwipunek z wygrawerowanym kamieniem many lub teoskalem.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_CONFIRM_body","source":"Would you like to <system_point>Extract</> the selected item(s)?","translation":"Czy chcesz <system_point>pozyskać</> wybrane przedmioty?","status":"draft"}
-{"id":"String_UI_DECOMPOSE_FIX_DETAIL_body","source":"You can see the expected extraction results for each item.","translation":"Możesz sprawdzić przewidywany wynik pozyskiwania dla każdego przedmiotu.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_PREVIEW_COUNT_MIN_MAX_body","source":"{0}-{1}","translation":"{0}-{1}","status":"draft"}
-{"id":"String_UI_DECOMPOSE_PREVIEW_COUNT_RANDOM_body","source":"?","translation":"?","status":"draft"}
-{"id":"String_UI_DECOMPOSE_PREVIEW_ITEM_body","source":"Obtained Items","translation":"Uzyskane przedmioty","status":"draft"}
-{"id":"String_UI_DECOMPOSE_PREVIEW_SKIN_body","source":"Obtained Skin","translation":"Uzyskany wygląd","status":"draft"}
-{"id":"String_UI_DECOMPOSE_PREVIEW_body","source":"Preview Expected Extraction","translation":"Podgląd przewidywanego wyniku pozyskiwania","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RANDOM_DETAIL_body","source":"Includes items obtained by chance.","translation":"Obejmuje przedmioty zdobywane losowo.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RESULT_FAIL_body","source":"You have obtained nothing.","translation":"Nic nie zdobyto.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RESULT_ITEM_body","source":"Obtained Items","translation":"Uzyskane przedmioty","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RESULT_SKIN_FAIL_body","source":"You have obtained nothing.","translation":"Nic nie zdobyto.","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RESULT_SKIN_body","source":"Obtained Skin","translation":"Uzyskany wygląd","status":"draft"}
-{"id":"String_UI_DECOMPOSE_RESULT_body","source":"Extraction Results","translation":"Wyniki pozyskiwania","status":"draft"}
-{"id":"String_UI_DECOMPOSE_SETTING_NUMKEYPAD_LEVEL_TITLE_body","source":"Enter Level","translation":"Poziom wejścia","status":"draft"}
-{"id":"String_UI_DECOMPOSE_SETTING_NUMKEYPAD_TEXT_LEVEL_body","source":"Level","translation":"Poziom","status":"draft"}
-{"id":"String_UI_DELETE_AUTOREGISTER_TITLE_body","source":"Quick Select Settings","translation":"Ustawienia szybkiego wyboru","status":"draft"}
-{"id":"String_UI_DELETE_BTN_AUTO_SELECT_body","source":"Quick Select","translation":"Szybki wybór","status":"draft"}
-{"id":"String_UI_DELETE_BTN_DELETE_GUIDE_body","source":"Register the item to delete.","translation":"Wybierz przedmiot do usunięcia.","status":"draft"}
-{"id":"String_UI_DELETE_BTN_DELETE_body","source":"Delete","translation":"Usuń","status":"draft"}
-{"id":"String_UI_DELETE_BTN_UNSELECT_body","source":"Deselect","translation":"Odznacz","status":"draft"}
-{"id":"String_UI_DELETE_CAUTION_TEXT_ENCHANT_MULTI_body","source":"Includes enhanced gear.","translation":"Obejmuje ulepszony ekwipunek.","status":"draft"}
-{"id":"String_UI_DELETE_CAUTION_TEXT_GRADE_MULTI_body","source":"Includes items of {0} Grade or higher.","translation":"Obejmuje przedmioty jakości {0} lub wyższej.","status":"draft"}
-{"id":"String_UI_DELETE_CAUTION_TEXT_STONE_MULTI_body","source":"Includes gear engraved with Manastone or Theostone.","translation":"Obejmuje ekwipunek z wygrawerowanym kamieniem many lub teoskalem.","status":"draft"}
-{"id":"String_UI_DELETE_CONFIRM_NUMBER_GUIDE_body","source":"Delete item in bulk in amount entered.","translation":"Usuń zbiorczo przedmioty w podanej liczbie.","status":"draft"}
-{"id":"String_UI_DELETE_CONFIRM_body","source":"Would you like to <insufficient>delete</> the selected item(s)?","translation":"Czy chcesz <insufficient>usunąć</> wybrane przedmioty?","status":"draft"}
-{"id":"String_UI_DELIMITER_body","source":",","translation":",","status":"draft"}
-{"id":"String_UI_DEV_CLIENT_PROTOCOL_VERSION_body","source":"Client Version:","translation":"Wersja klienta:","status":"draft"}
-{"id":"String_UI_DEV_MAP_VERSION_MISMATCH_body","source":"Map version mismatch.","translation":"Niezgodna wersja mapy.","status":"draft"}
-{"id":"String_UI_DEV_PROTOCOL_VERSION_MISMATCH_body","source":"Protocol version mismatch.","translation":"Niezgodna wersja protokołu.","status":"draft"}
-{"id":"String_UI_DEV_SERVER_PROTOCOL_VERSION_body","source":"Server Version:","translation":"Wersja serwera:","status":"draft"}
-{"id":"String_UI_DISCONNECT_CHARACTER_SELECT_POPUP_DESC_body","source":"Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.","translation":"Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.","status":"draft"}
-{"id":"String_UI_DISCONNECT_CHARACTER_SELECT_POPUP_TITLE_body","source":"Select Character","translation":"Wybierz postać","status":"draft"}
-{"id":"String_UI_DISCONNECT_LOG_OUT_POPUP_DESC_body","source":"Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.","translation":"Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.","status":"draft"}
-{"id":"String_UI_DISCONNECT_LOG_OUT_POPUP_TITLE_body","source":"Logout","translation":"Wyloguj","status":"draft"}
-{"id":"String_UI_DISCONNECT_QUIT_GAME_POPUP_DESC1_body","source":"Exiting the game in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.","translation":"Gra zostanie zamknięta za <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.","status":"draft"}
-{"id":"String_UI_DISCONNECT_QUIT_GAME_POPUP_DESC2_body","source":"Press the Exit Now button to immediately exit the game.\nKeep in mind the character will remain in the field for a certain period.","translation":"Naciśnij przycisk Wyjdź teraz, aby natychmiast zamknąć grę.\nPamiętaj, że postać pozostanie w terenie przez pewien czas.","status":"draft"}
-{"id":"String_UI_DISCONNECT_QUIT_GAME_POPUP_FORCE_QUIT_body","source":"Exit Now","translation":"Wyjdź teraz","status":"draft"}
-{"id":"String_UI_DISCONNECT_QUIT_GAME_POPUP_TITLE_body","source":"Exit Game","translation":"Wyjdź z gry","status":"draft"}
-{"id":"String_UI_DISCONNECT_SELECT_SERVER_POPUP_DESC_body","source":"Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.","translation":"Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.","status":"draft"}
-{"id":"String_UI_DISCONNECT_SELECT_SERVER_POPUP_TITLE_body","source":"Select Server","translation":"Wybierz serwer","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_COUNT_body","source":"({0}/{1})","translation":"({0}/{1})","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_LEVEL_body","source":"Recommended Level","translation":"Zalecany poziom","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_body","source":"No. of Regional Quests in Progress","translation":"Liczba aktywnych zadań regionalnych","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_DESC2_body","source":"You can obtain Regional Quests from NPCs in villages and bases. When available, Regional Quests will appear in the Quest Tracker and on the map.","translation":"Zadania regionalne można otrzymać od NPC w wioskach i bazach. Dostępne zadania pojawią się w trackerze zadań i na mapie.","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_DESC_body","source":"You can complete requests from people in need throughout Atreia in return for rewards.","translation":"Możesz spełniać prośby potrzebujących mieszkańców Atrei w zamian za nagrody.","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_TITLE_body","source":"Try obtaining a regional quest.","translation":"Spróbuj przyjąć zadanie regionalne.","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_JOURNAL_NONE_body","source":"No ongoing regional quests.","translation":"Brak aktywnych zadań regionalnych.","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_JOURNAL_REWARDED_NONE_body","source":"No completed regional quests.","translation":"Brak ukończonych zadań regionalnych.","status":"draft"}
-{"id":"String_UI_DISTRICT_QUEST_REWARDED_CHECKBOX_body","source":"Completed Quest","translation":"Ukończone zadanie","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_ADDITIONAL_SUBTEXT_body","source":"Downloading additional {0} data in the background. The game may be played normally while downloading data, except for some content and functions.","translation":"W tle pobierane są dodatkowe dane ({0}). Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji.","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_DISAGREE_body","source":"Would you like to cancel the download?","translation":"Czy chcesz anulować pobieranie?","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_HOME_PATCH_SUBTEXT_body","source":"(You can start playing the game after downloading {0}. Remaining data will continue to download in the background.)","translation":"(Możesz rozpocząć grę po pobraniu danych ({0}). Pozostałe dane będą pobierane w tle.)","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_HOME_PATCH_body","source":"Need to download {0} data. Do you want to download?","translation":"Pobranie danych ({0}) jest wymagane. Czy chcesz je pobrać?","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_MOVE_TO_SERVERSELECT_body","source":"Moving to title screen.","translation":"Przenoszenie do ekranu tytułowego.","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_PATCH_ONLY_SUBTEXT_body","source":"The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.","translation":"Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji. Pobrane dane zostaną zachowane po wyjściu z gry, a pobieranie wznowi się przy następnym uruchomieniu.","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_PATCH_UNKNOWN_body","source":"Additional downloads may occur while using the game.","translation":"Podczas gry mogą być pobierane dodatkowe dane.","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_PATCH_body","source":"Need to download {0} data. Would you like to download?","translation":"Czy chcesz pobrać dane ({0})?","status":"draft"}
-{"id":"String_UI_DOWNLOAD_AGREEMENT_VOICE_SUBTEXT_body","source":"Required {0} data will be downloaded first, followed by the remaining data. The game may be played normally while downloading data, except for some content and functions.","translation":"Najpierw zostaną pobrane wymagane dane ({0}), a potem pozostałe. Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji.","status":"draft"}
-{"id":"String_UI_DREAMDUNGEON_INFO_BTN_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_DREAMDUNGEON_INFO_REWARD_TITLE_body","source":"Basic Rewards","translation":"Podstawowe nagrody","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_POPUP_BTN_GET_ALL_body","source":"Claim All","translation":"Odbierz wszystko","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_POPUP_BTN_GET_body","source":"Claim","translation":"Odbierz","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_POPUP_GET_ITEM_CAUTION_body","source":"Expired items will be removed from the list.","translation":"Przedmioty, których ważność wygasła, zostaną usunięte z listy.","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_POPUP_REMAIN_TIME_body","source":"{0}","translation":"{0}","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_POPUP_TITLE_body","source":"Drops Rewards","translation":"Nagrody za łupy","status":"draft"}
-{"id":"String_UI_DROPS_REWARD_TITLE_body","source":"Drops Rewards","translation":"Nagrody za łupy","status":"draft"}
-{"id":"String_UI_DUEL_CHALLENGE_DENY_body","source":"Decline","translation":"Odrzuć","status":"draft"}
-{"id":"String_UI_DUEL_CHALLENGE_RECEIVE_body","source":"<desc_point>{0}</> challenged you to a duel.","translation":"<desc_point>{0}</> wyzywa cię na pojedynek.","status":"draft"}
-{"id":"String_UI_DUEL_CHALLENGE_SEND_body","source":"Awaiting <desc_point>{0}</>'s response to Duel request.","translation":"Oczekiwanie na odpowiedź gracza <desc_point>{0}</> na wyzwanie na pojedynek.","status":"draft"}
-{"id":"String_UI_DUEL_CHAT_CHALLENGE_ACCEPT_body","source":"Accept","translation":"Akceptuj","status":"draft"}
-{"id":"String_UI_DUEL_REQUEST_AUTOREJECT_MSG_body","source":"Automatically declining in {0}s","translation":"Automatyczne odrzucenie za {0} s","status":"draft"}
-{"id":"String_UI_DUEL_RESULT_DRAW_body","source":"DRAW","translation":"REMIS","status":"draft"}
-{"id":"String_UI_DUEL_RESULT_LOSE_body","source":"LOSE","translation":"PORAŻKA","status":"draft"}
-{"id":"String_UI_DUEL_RESULT_WIN_body","source":"WIN","translation":"ZWYCIĘSTWO","status":"draft"}
-{"id":"String_UI_DUEL_START_body","source":"START","translation":"ROZPOCZNIJ","status":"draft"}
-{"id":"String_UI_DUEL_WARNNING_EXIT_body","source":"Failure to join the arena within the time limit will be counted as a defeat.","translation":"Niepojawienie się na arenie w wyznaczonym czasie zostanie uznane za porażkę.","status":"draft"}
-{"id":"String_UI_DUNGEONBUFFGRADE_TYPE_COMMON_body","source":"Common","translation":"Zwykły","status":"draft"}
-{"id":"String_UI_DUNGEONBUFFGRADE_TYPE_SPECIAL_body","source":"Special","translation":"Specjalny","status":"draft"}
-{"id":"String_UI_DUNGEON_BUFF_SELECT_BTN_CONFIRM_body","source":"Selection Complete","translation":"Wybór zakończony","status":"draft"}
-{"id":"String_UI_DUNGEON_BUFF_SELECT_DESC_body","source":"Select 1 effect.","translation":"Wybierz 1 efekt.","status":"draft"}
-{"id":"String_UI_DUNGEON_BUFF_SELECT_TITLE_body","source":"Select Effects","translation":"Wybierz efekty","status":"draft"}
-{"id":"String_UI_DUNGEON_ENTRANCE_CONDITION_TITLE_body","source":"Entry Requirements","translation":"Wymagania wejścia","status":"draft"}
-{"id":"String_UI_DUNGEON_ENTRANCE_DESCRIPTION_TITLE_body","source":"Dungeon Description","translation":"Opis lochu","status":"draft"}
-{"id":"String_UI_DUNGEON_ENTRANCE_ENTER_BUTTON_body","source":"Enter Dungeon","translation":"Wejdź do lochu","status":"draft"}
-{"id":"String_UI_DUNGEON_ENTRANCE_REWARD_TITLE_body","source":"Dungeon Rewards","translation":"Nagrody z lochu","status":"draft"}
-{"id":"String_UI_DUNGEON_HINT_MESSAGE_MAXLV_body","source":"Your level is too high to enter.","translation":"Twój poziom jest za wysoki, aby wejść.","status":"draft"}
-{"id":"String_UI_DUNGEON_HINT_MESSAGE_MINLV_body","source":"Your level is too low to enter.","translation":"Twój poziom jest za niski, aby wejść.","status":"draft"}
-{"id":"String_UI_DUNGEON_HINT_MESSAGE_RACE_body","source":"Only other faction can enter.","translation":"Wejść może tylko przeciwna frakcja.","status":"draft"}
-{"id":"String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_AUTO_DENY_body","source":"Automatically declining in {0}s","translation":"Automatyczne odrzucenie za {0} s","status":"draft"}
-{"id":"String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_BUTTON_ACCEPT_body","source":"Accept","translation":"Akceptuj","status":"draft"}
-{"id":"String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_BUTTON_DENY_body","source":"Decline","translation":"Odrzuć","status":"draft"}
-{"id":"String_UI_DUNGEON_HUD_MATCHING_START_SUPPRESSION_body","source":"Starting raid matchmaking.","translation":"Rozpoczynanie dobierania do rajdu.","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_BUTTON_READY_body","source":"Ready","translation":"Gotowość","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body","source":"Entering the dungeon shortly.","translation":"Za chwilę nastąpi wejście do lochu.","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_READY_WAITING_TIME_body","source":"{0}s","translation":"{0} s","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_TITLE_body","source":"Matchmaking Complete","translation":"Dobieranie zakończone","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_WARNING_body","source":"If you cancel matchmaking multiple times after it has already completed, subjugation entry will be restricted for a certain period of time.","translation":"Jeśli kilka razy anulujesz dobieranie po jego zakończeniu, wejście do podboju zostanie zablokowane na pewien czas.","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_POPUP_BUTTON_CANCEL_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_POPUP_ELAPSED_TIME_TEXT_body","source":"Elapsed Time","translation":"Czas, który upłynął","status":"draft"}
-{"id":"String_UI_DUNGEON_MATCHING_POPUP_TITLE_body","source":"Matchmaking in progress","translation":"Trwa dobieranie","status":"draft"}
-{"id":"String_UI_DUNGEON_PROCESS_OUT_POPUP_DESC_body","source":"Would you like to leave {0}?","translation":"Czy chcesz opuścić {0}?","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_ACCEPT_LIMIT_TOOLTIP_body","source":"Up to {0} duty quests from the journal and command items can be completed simultaneously.","translation":"Możesz jednocześnie wykonywać maksymalnie {0} zadań służbowych z dziennika i z przedmiotów rozkazów.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_ACCEPT_LIMIT_body","source":"No. of Duty Quests in Progress","translation":"Liczba aktywnych zadań służbowych","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_ACCEPT_LIMIT_count_body","source":"({0}/{1})","translation":"({0}/{1})","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_DESC2_body","source":"You can obtain quests by purchasing Commands from Command Shop Merchants located in Main Bases and the Abyss.","translation":"Zadania możesz otrzymać, kupując rozkazy u handlarzy w głównych bazach i Otchłani.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_DESC_body","source":"Various residents of Atreia are requesting help through Commands.","translation":"Różni mieszkańcy Atrei proszą o pomoc za pośrednictwem rozkazów.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_TITLE_body","source":"Try obtaining a command.","translation":"Spróbuj zdobyć rozkaz.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_body","source":"No missions in progress.","translation":"Brak aktywnych misji.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_RANDOM_CANCEL_BUTTON_body","source":"Cancel","translation":"Anuluj","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_RANDOM_GETREWARD_BUTTON_body","source":"Collect Reward","translation":"Odbierz nagrodę","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_RANDOM_REWARD_TOOLTIP_body","source":"Upon refreshing, you can check obtainable random rewards.\nYou can get at least 1 item of the highest chance in a random reward.","translation":"Po odświeżeniu zobaczysz dostępne nagrody losowe.\nWśród losowych nagród otrzymasz co najmniej 1 przedmiot z największą szansą.","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_REFRESH_body","source":"Daily Refresh","translation":"Codzienne odświeżenie","status":"draft"}
-{"id":"String_UI_DUTY_QUEST_RESET_TIME_body","source":"Reset {0}","translation":"Reset: {0}","status":"draft"}
-{"id":"String_UI_EMBLEM_ACQUIRED_LIST_body","source":"Owned Seal","translation":"Posiadana Pieczęć","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT10_body","source":"Sprint Seal","translation":"Pieczęć Sprintu","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT1_body","source":"Breath Seal","translation":"Pieczęć Oddechu","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT2_body","source":"Prismatic Seal","translation":"Pryzmatyczna Pieczęć","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT3_body","source":"Calamity Seal","translation":"Pieczęć Kataklizmu","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT4_body","source":"Blade Seal","translation":"Pieczęć Ostrza","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT5_body","source":"Destruction Seal","translation":"Pieczęć Zniszczenia","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT6_body","source":"Rage Seal","translation":"Pieczęć Gniewu","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT7_body","source":"Ironclad Seal","translation":"Pieczęć Żelaznej Skóry","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT8_body","source":"Focus Seal","translation":"Pieczęć Skupienia","status":"draft"}
-{"id":"String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT9_body","source":"Strike Seal","translation":"Pieczęć Uderzenia","status":"draft"}
-{"id":"String_UI_EMBLEM_EQUIPMENT_SET_STATE_body","source":"Set Effects","translation":"Efekty zestawu","status":"draft"}
-{"id":"String_UI_EMBLEM_EQUIPMENT_STATE_body","source":"Equipment Stats","translation":"Statystyki ekwipunku","status":"draft"}
-{"id":"String_UI_EMBLEM_SLOT_AUTOEQUIP_CATEGORY_DESC_body","source":"Adjust the conditions for Seal auto-equip.","translation":"Ustaw warunki automatycznego zakładania pieczęci.","status":"draft"}
-{"id":"String_UI_EMBLEM_SLOT_AUTOEQUIP_CATEGORY_body","source":"Auto Equip Condition","translation":"Warunek automatycznego zakładania","status":"draft"}
-{"id":"String_UI_EMBLEM_SLOT_AUTOEQUIP_TYPE_GRADE_body","source":"By Item Grade","translation":"Według jakości przedmiotu","status":"draft"}
+{"id": "String_UI_DAMAGEANALYZER_BLOCK_COUNT_body", "source": "Block (Proportion)", "translation": "Blokowanie (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_ALL_DESC1_body", "source": "Measurement of all metrics automatically begins the moment you first attack an enemy after pressing the Start button.", "translation": "Pomiar wszystkich statystyk rozpoczyna się automatycznie, gdy po naciśnięciu przycisku Start po raz pierwszy zaatakujesz wroga.", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_ALL_DESC2_body", "source": "Measure All", "translation": "Mierz wszystko", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_ALL_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_AUTOANALYZE_body", "source": "Auto-Analysis Mode", "translation": "Tryb automatycznej analizy", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_DETAILED_MODE_body", "source": "Switch to Detailed Mode", "translation": "Przełącz na tryb szczegółowy", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_OPACITY_body", "source": "Opacity", "translation": "Krycie", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_RECORD_RESET_body", "source": "Reset all record", "translation": "Zresetuj wszystkie rekordy", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_RECORD_body", "source": "History", "translation": "Historia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_RESET_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_SIMPLE_MODE_body", "source": "Switch to Simple Mode", "translation": "Przełącz na tryb prosty", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_START_body", "source": "Start", "translation": "Rozpocznij", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_STOP_body", "source": "Stop", "translation": "Zatrzymaj", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_TARGET_DESC1_body", "source": "Analysis automatically begins the moment you first attack an enemy under Auto-Analysis Mode or after pressing the Start button.", "translation": "Analiza rozpoczyna się automatycznie przy pierwszym ataku na wroga w trybie automatycznej analizy lub po naciśnięciu przycisku Start.", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_TARGET_DESC2_body", "source": "Metric: {0}", "translation": "Statystyka: {0}", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BUTTON_TARGET_body", "source": "Select", "translation": "Wybierz", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_CRITICAL_COUNT_body", "source": "Critical Hits (Proportion)", "translation": "Trafienia krytyczne (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_DPS_body", "source": "DPS", "translation": "DPS", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_FRONTATTACK_COUNT_body", "source": "Front Attack Hits (Proportion)", "translation": "Trafienia z przodu (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_ACCURACY_COUNT_body", "source": "Received Hits (Proportion)", "translation": "Otrzymane trafienia (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_ADDITIONALHIT_COUNT_body", "source": "Received Multi-Hits (Proportion)", "translation": "Otrzymane serie trafień (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_BACKATTACK_COUNT_body", "source": "Received Back Attack Hits (Proportion)", "translation": "Otrzymane trafienia od tyłu (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_BLOCK_COUNT_body", "source": "Block (Proportion)", "translation": "Blokowanie (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_CRITICAL_COUNT_body", "source": "Received Critical Hits (Proportion)", "translation": "Otrzymane trafienia krytyczne (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_FRONTATTACK_COUNT_body", "source": "Received Front Attack Hits (Proportion)", "translation": "Otrzymane trafienia z przodu (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_HARDHIT_COUNT_body", "source": "Received Double Hits (Proportion)", "translation": "Otrzymane podwójne trafienia (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_IMMUNE_COUNT_body", "source": "Invincible (Proportion)", "translation": "Niewrażliwość (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_IRONWALL_COUNT_body", "source": "Endurance (Proportion)", "translation": "Wytrzymałość (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_PERFECT_COUNT_body", "source": "Received Perfect Hits (Proportion)", "translation": "Otrzymane trafienia perfekcyjne (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_RESTORATION_COUNT_body", "source": "Regeneration (Proportion)", "translation": "Regeneracja (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_TOTAL_DAMAGE_COUNT_body", "source": "Received Hits", "translation": "Otrzymane trafienia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_GET_TOTAL_DAMAGE_body", "source": "Total Damage Received", "translation": "Łączne otrzymane obrażenia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_HARDHIT_COUNT_body", "source": "Double Hits (Proportion)", "translation": "Podwójne trafienia (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_IMMUNE_COUNT_body", "source": "Invincible (Proportion)", "translation": "Niewrażliwość (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_INFO_GUIDE_DETAILED_MODE_body", "source": "[Auto-Analysis Mode]\n- Automatically analyzes combat when attacking a scarecrow or boss.\n\n[Single-Target Mode]\n- Select a target and press the Start button. Start analysis by attacking selected target.\n\n[Multi-Target Mode]\n- Press the Start button. Start analysis by attacking any target. Press the Stop button to end analysis.\n\nAnalysis result will be stored after each session, and the oldest record will be deleted if maximum number of records is reached.\n\n> HIT: Hit count\n> CRI: Critical\n> PERF: Perfect\n> DOUB: Double\n> FRNT: Front\n> BACK: Back\n> MULT: Multi-Hit\n> IMMU: Invincibility\nENDR: Endurance\nRSTO: Regeneration", "translation": "[Tryb automatycznej analizy]\n- Automatycznie analizuje walkę podczas ataku na manekina treningowego lub bossa.\n\n[Tryb jednego celu]\n- Wybierz cel i naciśnij przycisk Start. Rozpocznij analizę, atakując wybrany cel.\n\n[Tryb wielu celów]\n- Naciśnij przycisk Start. Rozpocznij analizę, atakując dowolny cel. Naciśnij przycisk Stop, aby zakończyć analizę.\n\nWyniki analizy zostaną zapisane po każdej sesji. Po osiągnięciu limitu rekordów najstarszy zostanie usunięty.\n\n> HIT: liczba trafień\n> CRI: trafienie krytyczne\n> PERF: perfekcyjne trafienie\n> DOUB: podwójne trafienie\n> FRNT: atak z przodu\n> BACK: atak od tyłu\n> MULT: seria trafień\n> IMMU: niewrażliwość\nENDR: wytrzymałość\nRSTO: regeneracja", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_INFO_GUIDE_SIMPLE_MODE_body", "source": "[Auto-Analysis Mode]\n- Automatically analyzes combat when attacking a scarecrow or boss.\n\n[Single-Target Mode]\n- Select a target and press the Start button. Start analysis by attacking selected target.\n\n[Multi-Target Mode]\n- Press the Start button. Start analysis by attacking any target. Press the Stop button to end analysis.\n\nAnalysis result will be stored after each session, and the oldest record will be deleted if maximum number of records is reached.", "translation": "[Tryb automatycznej analizy]\n- Automatycznie analizuje walkę podczas ataku na manekina treningowego lub bossa.\n\n[Tryb jednego celu]\n- Wybierz cel i naciśnij przycisk Start. Rozpocznij analizę, atakując wybrany cel.\n\n[Tryb wielu celów]\n- Naciśnij przycisk Start. Rozpocznij analizę, atakując dowolny cel. Naciśnij przycisk Stop, aby zakończyć analizę.\n\nWyniki analizy zostaną zapisane po każdej sesji. Po osiągnięciu limitu rekordów najstarszy zostanie usunięty.", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_IRONWALL_COUNT_body", "source": "Endurance (Proportion)", "translation": "Wytrzymałość (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_NO_INFORMATION_body", "source": "No combat power metric has been measured.", "translation": "Nie zmierzono żadnej statystyki mocy bojowej.", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_PERFECT_COUNT_body", "source": "Perfect Hits (Proportion)", "translation": "Trafienia perfekcyjne (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RATIO_body", "source": "{0}%", "translation": "{0}%", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_RESET_CONFIRM_body", "source": "Reset all records?", "translation": "Zresetować wszystkie rekordy?", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_TARGET_ALL_body", "source": "All", "translation": "Wszystko", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_TARGET_DESC_body", "source": "Target: {0}", "translation": "Cel: {0}", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_TARGET_body", "source": "Target", "translation": "Cel", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_TIME_body", "source": "Recorded Time", "translation": "Czas zapisu", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RECORD_body", "source": "History ({0}/{1})", "translation": "Historia ({0}/{1})", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_RESTORATION_COUNT_body", "source": "Regeneration (Proportion)", "translation": "Regeneracja (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_ACCURACY_COUNT_body", "source": "ACC", "translation": "ACC", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_ADDITIONALHIT_COUNT_body", "source": "MULT", "translation": "MULT", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_BACKATTACK_COUNT_body", "source": "BACK", "translation": "BACK", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_BLOCK_COUNT_body", "source": "BLOC", "translation": "BLOC", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_CRITICAL_COUNT_body", "source": "CRI", "translation": "CRI", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_FRONTATTACK_COUNT_body", "source": "FRNT", "translation": "FRNT", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_HARDHIT_COUNT_body", "source": "DOUB", "translation": "DOUB", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_IMMUNE_COUNT_body", "source": "INVC", "translation": "INVC", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_IRONWALL_COUNT_body", "source": "ENDR", "translation": "ENDR", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_PERFECT_COUNT_body", "source": "PERF", "translation": "PERF", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_RESTORATION_COUNT_body", "source": "RSTO", "translation": "RSTO", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_TOTAL_DAMAGE_COUNT_body", "source": "HIT", "translation": "HIT", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_SKILL_TOTAL_DAMAGE_body", "source": "Total Damage", "translation": "Łączne obrażenia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TIME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TITLE_body", "source": "Combat Analysis", "translation": "Analiza walki", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_COUNT_body", "source": "Total Hits", "translation": "Łączna liczba trafień", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_DPS_DESC_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_DPS_body", "source": "Total Damage", "translation": "Łączne obrażenia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TOTAL_DAMAGE_body", "source": "Total Damage Given", "translation": "Zadane obrażenia", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_TOTAL_HEAL_body", "source": "Total Heal", "translation": "Łączne leczenie", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_VALUE_RATIO_body", "source": "{0} ({1}%)", "translation": "{0} ({1}%)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_VALUE_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_DAMAGELOGVIEWER_COPY_body", "source": "Copy", "translation": "Kopiuj", "status": "draft"}
+{"id": "String_UI_DAMAGELOGVIEWER_RESET_body", "source": "Reset", "translation": "Resetuj", "status": "draft"}
+{"id": "String_UI_DAMAGELOGVIEWER_TITLE_body", "source": "Damage Log UI", "translation": "Interfejs dziennika obrażeń", "status": "draft"}
+{"id": "String_UI_DAMAGELOGVIEWER_TOGGLEMODE_body", "source": "Switch Mode", "translation": "Zmień tryb", "status": "draft"}
+{"id": "String_UI_DAMAGELOGVIEWER_TOOLTIPTEXT_body", "source": "Damage Log Viewer", "translation": "Przeglądarka dziennika obrażeń", "status": "draft"}
+{"id": "String_UI_DAY_TIME_LIMIT_RESET_DAILY_body", "source": "{0} daily", "translation": "{0} dziennie", "status": "draft"}
+{"id": "String_UI_DAY_TIME_LIMIT_RESET_MONTHLY_body", "source": "Day {0} of Every Month at {1}", "translation": "{0}. dzień każdego miesiąca o {1}", "status": "draft"}
+{"id": "String_UI_DAY_TIME_LIMIT_RESET_WEEKLY_body", "source": "Every {0} at {1}", "translation": "Co {0} o {1}", "status": "draft"}
+{"id": "String_UI_DAY_TIME_SEC_body", "source": "{1}/{2}/{0} {3}:{4}:{5}", "translation": "{1}/{2}/{0} {3}:{4}:{5}", "status": "draft"}
+{"id": "String_UI_DAY_TIME_body", "source": "{1}/{2}/{0} {3}:{4}", "translation": "{1}/{2}/{0} {3}:{4}", "status": "draft"}
+{"id": "String_UI_DAY_body", "source": "{1}/{2}/{0}", "translation": "{1}/{2}/{0}", "status": "draft"}
+{"id": "String_UI_DEATH_BASICS_MSG_WITH_PENALTY_body", "source": "Accumulated EXP loss is {0}% and can be recovered through Soul Healing.", "translation": "Utratę doświadczenia w wysokości {0}% odzyskasz dzięki leczeniu duszy.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_COMMON_BUTTON_body", "source": "Default Resurrection", "translation": "Domyślne wskrzeszenie", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_DUNGEON_CONTINUE_BUTTON_MSG_body", "source": "Transported to the resurrection point.", "translation": "Przeniesiono do punktu wskrzeszenia.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_DUNGEON_RESTART_BUTTON_MSG_body", "source": "Dungeon progression will reset, and you will resurrect at the resurrection point in the dungeon.", "translation": "Postęp w lochu zostanie zresetowany, a ty odrodzisz się w punkcie wskrzeszenia w lochu.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_HOME_BUTTON_MSG_body", "source": "Resurrect at {0}.", "translation": "Wskrześ w: {0}.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_HOME_BUTTON_body", "source": "Strongpoint Resurrection", "translation": "Wskrzeszenie w punkcie strategicznym", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_CANNOT_USE_BY_MAP_MSG_body", "source": "Direct resurrection not available in this area.", "translation": "W tym obszarze nie można wskrzeszać bezpośrednio.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_CANNOT_USE_BY_PC_MSG_body", "source": "Cannot be used on PCs to directly resurrect after dying.", "translation": "Nie można użyć na graczach, aby wskrzesić ich bezpośrednio po śmierci.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_COOLTIME_body", "source": "Can resurrect in {0}", "translation": "Możesz wskrzesić za {0}", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_MSG_UNABLE_DUNGEON_body", "source": "Exceeded the number of manual resurrections.", "translation": "Przekroczono limit ręcznych wskrzeszeń.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_MSG_body", "source": "Resurrect on the spot by using {0}.", "translation": "Wskrześ na miejscu za pomocą {0}.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_BUTTON_body", "source": "Manual Resurrection", "translation": "Ręczne wskrzeszenie", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_ITEM_COOLTIME_body", "source": "Time left until direct resurrection after a normal death: {0}", "translation": "Czas do bezpośredniego wskrzeszenia po zwykłej śmierci: {0}", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_KIBEL_BUTTON_MSG_body", "source": "Resurrect at {0}.", "translation": "Wskrześ w: {0}.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_MSG_UNABLE_body", "source": "Cannot resurrect using registered Kisk from current location.", "translation": "Nie można wskrzesić przy użyciu zarejestrowanego Kiska z obecnego miejsca.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_MSG_body", "source": "Resurrects at the location registered with Kisk.", "translation": "Wskrzesza w miejscu zarejestrowanym przy Kisku.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_KISK_BUTTON_body", "source": "Kisk Resurrection", "translation": "Wskrzeszenie przy Kisku", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_NO_COUNT_body", "source": "Exceeded the number of resurrections and cannot be resurrected by skill effects.", "translation": "Przekroczono limit wskrzeszeń. Nie można wskrzesić za pomocą efektów umiejętności.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_CAN_USE_SKILL_body", "source": "Available", "translation": "Dostępne", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_CHARACTER_SKILL_body", "source": "{0}/{1} Lv. {2}", "translation": "{0}/{1} poz. {2}", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_EXIST_body", "source": "Party member within sight has Resurrect skill.", "translation": "Widoczny członek drużyny ma umiejętność wskrzeszania.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_REBIRTH_SKILL_PARTY_NOT_EXIST_body", "source": "No Party members within sight have Resurrect skill.", "translation": "Żaden widoczny członek drużyny nie ma umiejętności wskrzeszania.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_SKILL_BUTTON_MSG_body", "source": "Resurrect on the spot with {0} effect.", "translation": "Wskrześ na miejscu za pomocą efektu {0}.", "status": "draft"}
+{"id": "String_UI_DEATH_CONFIRM_CHOICE_SKILL_BUTTON_body", "source": "Skill Resurrection", "translation": "Wskrzeszenie umiejętnością", "status": "draft"}
+{"id": "String_UI_DEATH_GROWTH_GUIDE_ONE_body", "source": "Enhancement: Increase your stats by enhancing gear and engraving Manastones and Theostones.", "translation": "Ulepszanie: zwiększaj statystyki, ulepszając ekwipunek oraz grawerując kamienie many i teoskale.", "status": "draft"}
+{"id": "String_UI_DEATH_GROWTH_GUIDE_THREE_body", "source": "Daevanion: Activate Daevanion Nodes to awaken your character's potential by increasing stats and skill levels.", "translation": "Daevanion: aktywuj węzły Daevanionu, by obudzić potencjał postaci, zwiększając statystyki i poziomy umiejętności.", "status": "draft"}
+{"id": "String_UI_DEATH_GROWTH_GUIDE_TITLE_body", "source": "Progress Guide", "translation": "Przewodnik postępu", "status": "draft"}
+{"id": "String_UI_DEATH_GROWTH_GUIDE_TWO_body", "source": "Skills: Improve your skills to boost your stats, and enhance your combat with specialized setups tailored to specific situations.", "translation": "Umiejętności: rozwijaj je, aby zwiększać statystyki i wzmacniać walkę dzięki wyspecjalizowanym zestawom na różne sytuacje.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_AUTOREGISTER_TITLE_AUTO_body", "source": "Auto Extract", "translation": "Automatyczne pozyskiwanie", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_AUTOREGISTER_TITLE_MANUAL_body", "source": "Quick Select", "translation": "Szybki wybór", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_AUTOREGISTER_TITLE_body", "source": "Extract Settings", "translation": "Ustawienia pozyskiwania", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_AUTO_SELECT_body", "source": "Quick Select", "translation": "Szybki wybór", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_DECOMPOSE_GUIDE_body", "source": "Register the item to extract.", "translation": "Wybierz przedmiot do pozyskania.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_DECOMPOSE_body", "source": "Extract", "translation": "Pozyskaj", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_EXTRACTION_body", "source": "Extract Skin", "translation": "Pozyskaj wygląd", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_SKIN_EXTRACTION_body", "source": "Extract Skin", "translation": "Pozyskaj wygląd", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BTN_UNSELECT_body", "source": "Deselect", "translation": "Odznacz", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_BUTTON_DETAIL_body", "source": "View Details", "translation": "Pokaż szczegóły", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_CAUTION_TEXT_ENCHANT_MULTI_body", "source": "Includes enhanced gear.", "translation": "Obejmuje ulepszony ekwipunek.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_CAUTION_TEXT_GRADE_MULTI_body", "source": "Includes items of {0} Grade or higher.", "translation": "Obejmuje przedmioty jakości {0} lub wyższej.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_CAUTION_TEXT_SKIN_body", "source": "Skin can be extracted with a certain chance.", "translation": "Wygląd można pozyskać z określoną szansą.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_CAUTION_TEXT_STONE_MULTI_body", "source": "Includes gear engraved with Manastone or Theostone.", "translation": "Obejmuje ekwipunek z wygrawerowanym kamieniem many lub teoskalem.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_CONFIRM_body", "source": "Would you like to <system_point>Extract</> the selected item(s)?", "translation": "Czy chcesz <system_point>pozyskać</> wybrane przedmioty?", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_FIX_DETAIL_body", "source": "You can see the expected extraction results for each item.", "translation": "Możesz sprawdzić przewidywany wynik pozyskiwania dla każdego przedmiotu.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_PREVIEW_COUNT_MIN_MAX_body", "source": "{0}-{1}", "translation": "{0}-{1}", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_PREVIEW_COUNT_RANDOM_body", "source": "?", "translation": "?", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_PREVIEW_ITEM_body", "source": "Obtained Items", "translation": "Uzyskane przedmioty", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_PREVIEW_SKIN_body", "source": "Obtained Skin", "translation": "Uzyskany wygląd", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_PREVIEW_body", "source": "Preview Expected Extraction", "translation": "Podgląd przewidywanego wyniku pozyskiwania", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RANDOM_DETAIL_body", "source": "Includes items obtained by chance.", "translation": "Obejmuje przedmioty zdobywane losowo.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RESULT_FAIL_body", "source": "You have obtained nothing.", "translation": "Nic nie zdobyto.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RESULT_ITEM_body", "source": "Obtained Items", "translation": "Uzyskane przedmioty", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RESULT_SKIN_FAIL_body", "source": "You have obtained nothing.", "translation": "Nic nie zdobyto.", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RESULT_SKIN_body", "source": "Obtained Skin", "translation": "Uzyskany wygląd", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_RESULT_body", "source": "Extraction Results", "translation": "Wyniki pozyskiwania", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_SETTING_NUMKEYPAD_LEVEL_TITLE_body", "source": "Enter Level", "translation": "Poziom wejścia", "status": "draft"}
+{"id": "String_UI_DECOMPOSE_SETTING_NUMKEYPAD_TEXT_LEVEL_body", "source": "Level", "translation": "Poziom", "status": "draft"}
+{"id": "String_UI_DELETE_AUTOREGISTER_TITLE_body", "source": "Quick Select Settings", "translation": "Ustawienia szybkiego wyboru", "status": "draft"}
+{"id": "String_UI_DELETE_BTN_AUTO_SELECT_body", "source": "Quick Select", "translation": "Szybki wybór", "status": "draft"}
+{"id": "String_UI_DELETE_BTN_DELETE_GUIDE_body", "source": "Register the item to delete.", "translation": "Wybierz przedmiot do usunięcia.", "status": "draft"}
+{"id": "String_UI_DELETE_BTN_DELETE_body", "source": "Delete", "translation": "Usuń", "status": "draft"}
+{"id": "String_UI_DELETE_BTN_UNSELECT_body", "source": "Deselect", "translation": "Odznacz", "status": "draft"}
+{"id": "String_UI_DELETE_CAUTION_TEXT_ENCHANT_MULTI_body", "source": "Includes enhanced gear.", "translation": "Obejmuje ulepszony ekwipunek.", "status": "draft"}
+{"id": "String_UI_DELETE_CAUTION_TEXT_GRADE_MULTI_body", "source": "Includes items of {0} Grade or higher.", "translation": "Obejmuje przedmioty jakości {0} lub wyższej.", "status": "draft"}
+{"id": "String_UI_DELETE_CAUTION_TEXT_STONE_MULTI_body", "source": "Includes gear engraved with Manastone or Theostone.", "translation": "Obejmuje ekwipunek z wygrawerowanym kamieniem many lub teoskalem.", "status": "draft"}
+{"id": "String_UI_DELETE_CONFIRM_NUMBER_GUIDE_body", "source": "Delete item in bulk in amount entered.", "translation": "Usuń zbiorczo przedmioty w podanej liczbie.", "status": "draft"}
+{"id": "String_UI_DELETE_CONFIRM_body", "source": "Would you like to <insufficient>delete</> the selected item(s)?", "translation": "Czy chcesz <insufficient>usunąć</> wybrane przedmioty?", "status": "draft"}
+{"id": "String_UI_DELIMITER_body", "source": ",", "translation": ",", "status": "draft"}
+{"id": "String_UI_DEV_CLIENT_PROTOCOL_VERSION_body", "source": "Client Version:", "translation": "Wersja klienta:", "status": "draft"}
+{"id": "String_UI_DEV_MAP_VERSION_MISMATCH_body", "source": "Map version mismatch.", "translation": "Niezgodna wersja mapy.", "status": "draft"}
+{"id": "String_UI_DEV_PROTOCOL_VERSION_MISMATCH_body", "source": "Protocol version mismatch.", "translation": "Niezgodna wersja protokołu.", "status": "draft"}
+{"id": "String_UI_DEV_SERVER_PROTOCOL_VERSION_body", "source": "Server Version:", "translation": "Wersja serwera:", "status": "draft"}
+{"id": "String_UI_DISCONNECT_CHARACTER_SELECT_POPUP_DESC_body", "source": "Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.", "translation": "Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.", "status": "draft"}
+{"id": "String_UI_DISCONNECT_CHARACTER_SELECT_POPUP_TITLE_body", "source": "Select Character", "translation": "Wybierz postać", "status": "draft"}
+{"id": "String_UI_DISCONNECT_LOG_OUT_POPUP_DESC_body", "source": "Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.", "translation": "Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.", "status": "draft"}
+{"id": "String_UI_DISCONNECT_LOG_OUT_POPUP_TITLE_body", "source": "Logout", "translation": "Wyloguj", "status": "draft"}
+{"id": "String_UI_DISCONNECT_QUIT_GAME_POPUP_DESC1_body", "source": "Exiting the game in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.", "translation": "Gra zostanie zamknięta za <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.", "status": "draft"}
+{"id": "String_UI_DISCONNECT_QUIT_GAME_POPUP_DESC2_body", "source": "Press the Exit Now button to immediately exit the game.\nKeep in mind the character will remain in the field for a certain period.", "translation": "Naciśnij przycisk Wyjdź teraz, aby natychmiast zamknąć grę.\nPamiętaj, że postać pozostanie w terenie przez pewien czas.", "status": "draft"}
+{"id": "String_UI_DISCONNECT_QUIT_GAME_POPUP_FORCE_QUIT_body", "source": "Exit Now", "translation": "Wyjdź teraz", "status": "draft"}
+{"id": "String_UI_DISCONNECT_QUIT_GAME_POPUP_TITLE_body", "source": "Exit Game", "translation": "Wyjdź z gry", "status": "draft"}
+{"id": "String_UI_DISCONNECT_SELECT_SERVER_POPUP_DESC_body", "source": "Leaving in <Quit_TimeCount>{0}s</>.\nCountdown freezes while in combat.", "translation": "Pozostało <Quit_TimeCount>{0}s</>\nOdliczanie zatrzymuje się podczas walki.", "status": "draft"}
+{"id": "String_UI_DISCONNECT_SELECT_SERVER_POPUP_TITLE_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_COUNT_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_LEVEL_body", "source": "Recommended Level", "translation": "Zalecany poziom", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_ACCEPT_LIMIT_body", "source": "No. of Regional Quests in Progress", "translation": "Liczba aktywnych zadań regionalnych", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_DESC2_body", "source": "You can obtain Regional Quests from NPCs in villages and bases. When available, Regional Quests will appear in the Quest Tracker and on the map.", "translation": "Zadania regionalne można otrzymać od NPC w wioskach i bazach. Dostępne zadania pojawią się w śledzeniu zadań i na mapie.", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_DESC_body", "source": "You can complete requests from people in need throughout Atreia in return for rewards.", "translation": "Możesz spełniać prośby potrzebujących mieszkańców Atrei w zamian za nagrody.", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_JOURNAL_NONE_INFO_TITLE_body", "source": "Try obtaining a regional quest.", "translation": "Spróbuj przyjąć zadanie regionalne.", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_JOURNAL_NONE_body", "source": "No ongoing regional quests.", "translation": "Brak aktywnych zadań regionalnych.", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_JOURNAL_REWARDED_NONE_body", "source": "No completed regional quests.", "translation": "Brak ukończonych zadań regionalnych.", "status": "draft"}
+{"id": "String_UI_DISTRICT_QUEST_REWARDED_CHECKBOX_body", "source": "Completed Quest", "translation": "Ukończone zadanie", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_ADDITIONAL_SUBTEXT_body", "source": "Downloading additional {0} data in the background. The game may be played normally while downloading data, except for some content and functions.", "translation": "W tle pobierane są dodatkowe dane ({0}). Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji.", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_DISAGREE_body", "source": "Would you like to cancel the download?", "translation": "Czy chcesz anulować pobieranie?", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_HOME_PATCH_SUBTEXT_body", "source": "(You can start playing the game after downloading {0}. Remaining data will continue to download in the background.)", "translation": "(Możesz rozpocząć grę po pobraniu danych ({0}). Pozostałe dane będą pobierane w tle.)", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_HOME_PATCH_body", "source": "Need to download {0} data. Do you want to download?", "translation": "Pobranie danych ({0}) jest wymagane. Czy chcesz je pobrać?", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_MOVE_TO_SERVERSELECT_body", "source": "Moving to title screen.", "translation": "Przenoszenie do ekranu tytułowego.", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_PATCH_ONLY_SUBTEXT_body", "source": "The game may be played normally while downloading data, except for some content and functions. The downloaded data remains even upon exiting the game, and data download will resume next time it is launched.", "translation": "Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji. Pobrane dane zostaną zachowane po wyjściu z gry, a pobieranie wznowi się przy następnym uruchomieniu.", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_PATCH_UNKNOWN_body", "source": "Additional downloads may occur while using the game.", "translation": "Podczas gry mogą być pobierane dodatkowe dane.", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_PATCH_body", "source": "Need to download {0} data. Would you like to download?", "translation": "Czy chcesz pobrać dane ({0})?", "status": "draft"}
+{"id": "String_UI_DOWNLOAD_AGREEMENT_VOICE_SUBTEXT_body", "source": "Required {0} data will be downloaded first, followed by the remaining data. The game may be played normally while downloading data, except for some content and functions.", "translation": "Najpierw zostaną pobrane wymagane dane ({0}), a potem pozostałe. Podczas pobierania możesz normalnie grać, z wyjątkiem niektórych treści i funkcji.", "status": "draft"}
+{"id": "String_UI_DREAMDUNGEON_INFO_BTN_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_DREAMDUNGEON_INFO_REWARD_TITLE_body", "source": "Basic Rewards", "translation": "Podstawowe nagrody", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_POPUP_BTN_GET_ALL_body", "source": "Claim All", "translation": "Odbierz wszystko", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_POPUP_BTN_GET_body", "source": "Claim", "translation": "Odbierz", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_POPUP_GET_ITEM_CAUTION_body", "source": "Expired items will be removed from the list.", "translation": "Przedmioty, których ważność wygasła, zostaną usunięte z listy.", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_POPUP_REMAIN_TIME_body", "source": "{0}", "translation": "{0}", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_POPUP_TITLE_body", "source": "Drops Rewards", "translation": "Nagrody za łupy", "status": "draft"}
+{"id": "String_UI_DROPS_REWARD_TITLE_body", "source": "Drops Rewards", "translation": "Nagrody za łupy", "status": "draft"}
+{"id": "String_UI_DUEL_CHALLENGE_DENY_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_DUEL_CHALLENGE_RECEIVE_body", "source": "<desc_point>{0}</> challenged you to a duel.", "translation": "<desc_point>{0}</> wyzywa cię na pojedynek.", "status": "draft"}
+{"id": "String_UI_DUEL_CHALLENGE_SEND_body", "source": "Awaiting <desc_point>{0}</>'s response to Duel request.", "translation": "Oczekiwanie na odpowiedź gracza <desc_point>{0}</> na wyzwanie do pojedynku.", "status": "draft"}
+{"id": "String_UI_DUEL_CHAT_CHALLENGE_ACCEPT_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_DUEL_REQUEST_AUTOREJECT_MSG_body", "source": "Automatically declining in {0}s", "translation": "Automatyczne odrzucenie za {0} s", "status": "draft"}
+{"id": "String_UI_DUEL_RESULT_DRAW_body", "source": "DRAW", "translation": "REMIS", "status": "draft"}
+{"id": "String_UI_DUEL_RESULT_LOSE_body", "source": "LOSE", "translation": "PORAŻKA", "status": "draft"}
+{"id": "String_UI_DUEL_RESULT_WIN_body", "source": "WIN", "translation": "ZWYCIĘSTWO", "status": "draft"}
+{"id": "String_UI_DUEL_START_body", "source": "START", "translation": "ROZPOCZNIJ", "status": "draft"}
+{"id": "String_UI_DUEL_WARNNING_EXIT_body", "source": "Failure to join the arena within the time limit will be counted as a defeat.", "translation": "Niepojawienie się na arenie w wyznaczonym czasie zostanie uznane za porażkę.", "status": "draft"}
+{"id": "String_UI_DUNGEONBUFFGRADE_TYPE_COMMON_body", "source": "Common", "translation": "Zwykły", "status": "draft"}
+{"id": "String_UI_DUNGEONBUFFGRADE_TYPE_SPECIAL_body", "source": "Special", "translation": "Specjalny", "status": "draft"}
+{"id": "String_UI_DUNGEON_BUFF_SELECT_BTN_CONFIRM_body", "source": "Selection Complete", "translation": "Wybór zakończony", "status": "draft"}
+{"id": "String_UI_DUNGEON_BUFF_SELECT_DESC_body", "source": "Select 1 effect.", "translation": "Wybierz 1 efekt.", "status": "draft"}
+{"id": "String_UI_DUNGEON_BUFF_SELECT_TITLE_body", "source": "Select Effects", "translation": "Wybierz efekty", "status": "draft"}
+{"id": "String_UI_DUNGEON_ENTRANCE_CONDITION_TITLE_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_DUNGEON_ENTRANCE_DESCRIPTION_TITLE_body", "source": "Dungeon Description", "translation": "Opis lochu", "status": "draft"}
+{"id": "String_UI_DUNGEON_ENTRANCE_ENTER_BUTTON_body", "source": "Enter Dungeon", "translation": "Wejdź do lochu", "status": "draft"}
+{"id": "String_UI_DUNGEON_ENTRANCE_REWARD_TITLE_body", "source": "Dungeon Rewards", "translation": "Nagrody z lochu", "status": "draft"}
+{"id": "String_UI_DUNGEON_HINT_MESSAGE_MAXLV_body", "source": "Your level is too high to enter.", "translation": "Twój poziom jest za wysoki, aby wejść.", "status": "draft"}
+{"id": "String_UI_DUNGEON_HINT_MESSAGE_MINLV_body", "source": "Your level is too low to enter.", "translation": "Twój poziom jest za niski, aby wejść.", "status": "draft"}
+{"id": "String_UI_DUNGEON_HINT_MESSAGE_RACE_body", "source": "Only other faction can enter.", "translation": "Wejść może tylko przeciwna frakcja.", "status": "draft"}
+{"id": "String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_AUTO_DENY_body", "source": "Automatically declining in {0}s", "translation": "Automatyczne odrzucenie za {0} s", "status": "draft"}
+{"id": "String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_BUTTON_ACCEPT_body", "source": "Accept", "translation": "Akceptuj", "status": "draft"}
+{"id": "String_UI_DUNGEON_HUD_MATCHING_START_REQUIRE_BUTTON_DENY_body", "source": "Decline", "translation": "Odrzuć", "status": "draft"}
+{"id": "String_UI_DUNGEON_HUD_MATCHING_START_SUPPRESSION_body", "source": "Starting raid matchmaking.", "translation": "Rozpoczynanie dobierania do rajdu.", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_BUTTON_READY_body", "source": "Ready", "translation": "Gotowość", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body", "source": "Entering the dungeon shortly.", "translation": "Za chwilę nastąpi wejście do lochu.", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_READY_WAITING_TIME_body", "source": "{0}s", "translation": "{0} s", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_TITLE_body", "source": "Matchmaking Complete", "translation": "Dobieranie zakończone", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_COMPLETE_POPUP_WARNING_body", "source": "If you cancel matchmaking multiple times after it has already completed, subjugation entry will be restricted for a certain period of time.", "translation": "Jeśli kilka razy anulujesz dobieranie po jego zakończeniu, wejście do podboju zostanie zablokowane na pewien czas.", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_POPUP_BUTTON_CANCEL_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_POPUP_ELAPSED_TIME_TEXT_body", "source": "Elapsed Time", "translation": "Czas, który upłynął", "status": "draft"}
+{"id": "String_UI_DUNGEON_MATCHING_POPUP_TITLE_body", "source": "Matchmaking in progress", "translation": "Trwa dobieranie", "status": "draft"}
+{"id": "String_UI_DUNGEON_PROCESS_OUT_POPUP_DESC_body", "source": "Would you like to leave {0}?", "translation": "Czy chcesz opuścić {0}?", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_ACCEPT_LIMIT_TOOLTIP_body", "source": "Up to {0} duty quests from the journal and command items can be completed simultaneously.", "translation": "Możesz jednocześnie wykonywać maksymalnie {0} zadań służbowych z dziennika i z przedmiotów rozkazów.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_ACCEPT_LIMIT_body", "source": "No. of Duty Quests in Progress", "translation": "Liczba aktywnych zadań służbowych", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_ACCEPT_LIMIT_count_body", "source": "({0}/{1})", "translation": "({0}/{1})", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_DESC2_body", "source": "You can obtain quests by purchasing Commands from Command Shop Merchants located in Main Bases and the Abyss.", "translation": "Zadania możesz otrzymać, kupując rozkazy u handlarzy w głównych bazach i Otchłani.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_DESC_body", "source": "Various residents of Atreia are requesting help through Commands.", "translation": "Różni mieszkańcy Atrei proszą o pomoc za pośrednictwem rozkazów.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_INFO_TITLE_body", "source": "Try obtaining a command.", "translation": "Spróbuj zdobyć rozkaz.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_JOURNAL_SCROLL_NONE_body", "source": "No missions in progress.", "translation": "Brak aktywnych misji.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_RANDOM_CANCEL_BUTTON_body", "source": "Cancel", "translation": "Anuluj", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_RANDOM_GETREWARD_BUTTON_body", "source": "Collect Reward", "translation": "Odbierz nagrodę", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_RANDOM_REWARD_TOOLTIP_body", "source": "Upon refreshing, you can check obtainable random rewards.\nYou can get at least 1 item of the highest chance in a random reward.", "translation": "Po odświeżeniu zobaczysz dostępne nagrody losowe.\nWśród losowych nagród otrzymasz co najmniej 1 przedmiot z największą szansą.", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_REFRESH_body", "source": "Daily Refresh", "translation": "Codzienne odświeżenie", "status": "draft"}
+{"id": "String_UI_DUTY_QUEST_RESET_TIME_body", "source": "Reset {0}", "translation": "Reset: {0}", "status": "draft"}
+{"id": "String_UI_EMBLEM_ACQUIRED_LIST_body", "source": "Owned Seal", "translation": "Posiadana Pieczęć", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT10_body", "source": "Sprint Seal", "translation": "Pieczęć Sprintu", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT1_body", "source": "Breath Seal", "translation": "Pieczęć Oddechu", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT2_body", "source": "Prismatic Seal", "translation": "Pryzmatyczna Pieczęć", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT3_body", "source": "Calamity Seal", "translation": "Pieczęć Kataklizmu", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT4_body", "source": "Blade Seal", "translation": "Pieczęć Ostrza", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT5_body", "source": "Destruction Seal", "translation": "Pieczęć Zniszczenia", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT6_body", "source": "Rage Seal", "translation": "Pieczęć Gniewu", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT7_body", "source": "Ironclad Seal", "translation": "Pieczęć Żelaznej Skóry", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT8_body", "source": "Focus Seal", "translation": "Pieczęć Skupienia", "status": "draft"}
+{"id": "String_UI_EMBLEM_EMPTY_SLOT_TOOLTIP_SLOT9_body", "source": "Strike Seal", "translation": "Pieczęć Uderzenia", "status": "draft"}
+{"id": "String_UI_EMBLEM_EQUIPMENT_SET_STATE_body", "source": "Set Effects", "translation": "Efekty zestawu", "status": "draft"}
+{"id": "String_UI_EMBLEM_EQUIPMENT_STATE_body", "source": "Equipment Stats", "translation": "Statystyki ekwipunku", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_CATEGORY_DESC_body", "source": "Adjust the conditions for Seal auto-equip.", "translation": "Ustaw warunki automatycznego zakładania pieczęci.", "status": "draft"}
+{"id": "String_UI_EMBLEM_SLOT_AUTOEQUIP_CATEGORY_body", "source": "Auto Equip Condition", "translation": "Warunek automatycznego zakładania", "status": "draft"}

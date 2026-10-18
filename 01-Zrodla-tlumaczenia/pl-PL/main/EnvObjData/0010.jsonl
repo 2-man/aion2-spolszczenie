@@ -1,3 +1,6 @@
+{"id": "EnvObjData_E_Draconic_004_Hell_BUFF_06_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_004_Normal_BUFF_01_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
+{"id": "EnvObjData_E_Draconic_004_Normal_BUFF_02_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_004_Normal_BUFF_03_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_004_Normal_BUFF_04_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
 {"id": "EnvObjData_E_Draconic_004_Normal_BUFF_05_desc", "source": "Drakana Purification Device", "translation": "Urządzenie oczyszczające Drakan", "status": "draft"}
@@ -170,12 +173,12 @@
 {"id": "EnvObjData_E_Dungeon_D_0006_StoneNornir_003_desc", "source": "Petrified Nornir", "translation": "Skamieniały Nornir", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0006_StoneNornir_004_desc", "source": "Petrified Nornir", "translation": "Skamieniały Nornir", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0007_Door_001_desc", "source": "Wooden Root Door", "translation": "Drewniane drzwi Korzenia", "status": "draft"}
-{"id":"EnvObjData_E_Dungeon_D_0007_EnterPortal_001_desc","source":"Root of the Sacred Tree Entrance","translation":"Wejście do Korzenia Świętego Drzewa","status":"draft"}
+{"id": "EnvObjData_E_Dungeon_D_0007_EnterPortal_001_desc", "source": "Root of the Sacred Tree Entrance", "translation": "Wejście do Korzenia Świętego Drzewa", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0007_EnterPortal_001_interact_desc", "source": "Entering the Root of the Sacred Tree...", "translation": "Wchodzenie do Korzenia Świętego Drzewa...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0007_FafBlood_001_desc", "source": "Giant Poison Blood", "translation": "Olbrzymia zatruta krew", "status": "draft"}
-{"id":"EnvObjData_E_Dungeon_D_0007_Root_001_desc","source":"Root of the Sacred Tree","translation":"Korzeń Świętego Drzewa","status":"draft"}
-{"id":"EnvObjData_E_Dungeon_D_0007_Root_002_desc","source":"Root of the Sacred Tree","translation":"Korzeń Świętego Drzewa","status":"draft"}
-{"id":"EnvObjData_E_Dungeon_D_0007_Root_003_desc","source":"Root of the Sacred Tree","translation":"Korzeń Świętego Drzewa","status":"draft"}
+{"id": "EnvObjData_E_Dungeon_D_0007_Root_001_desc", "source": "Root of the Sacred Tree", "translation": "Korzeń Świętego Drzewa", "status": "draft"}
+{"id": "EnvObjData_E_Dungeon_D_0007_Root_002_desc", "source": "Root of the Sacred Tree", "translation": "Korzeń Świętego Drzewa", "status": "draft"}
+{"id": "EnvObjData_E_Dungeon_D_0007_Root_003_desc", "source": "Root of the Sacred Tree", "translation": "Korzeń Świętego Drzewa", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0008_BalaurBox_001_desc", "source": "Warden's Restroom Storage", "translation": "Składzik w toalecie strażnika", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0008_BalaurBox_001_interact_desc", "source": "Searching inside the Chest...", "translation": "Przeszukiwanie skrzyni...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0008_Door_001_desc", "source": "Underground Prison Door", "translation": "Drzwi podziemnego więzienia", "status": "draft"}
@@ -245,6 +248,3 @@
 {"id": "EnvObjData_E_Dungeon_D_0010_Door_006_interact_desc", "source": "Opening the Door...", "translation": "Otwieranie drzwi...", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0010_EnterPortal_001_desc", "source": "Blades Hideout Entrance", "translation": "Wejście do kryjówki Ostrzy", "status": "draft"}
 {"id": "EnvObjData_E_Dungeon_D_0010_EnterPortal_001_interact_desc", "source": "Entering the Blades Hideout...", "translation": "Wchodzenie do kryjówki Ostrzy...", "status": "draft"}
-{"id": "EnvObjData_E_Dungeon_D_0010_Message_001_desc", "source": "Suspicious Letter", "translation": "Podejrzany list", "status": "draft"}
-{"id": "EnvObjData_E_Dungeon_D_0010_Message_001_interact_desc", "source": "Reading the Letter...", "translation": "Czytanie listu...", "status": "draft"}
-{"id": "EnvObjData_E_Dungeon_D_0010_PaperPile_001_desc", "source": "Suspicious Letter", "translation": "Podejrzany list", "status": "draft"}

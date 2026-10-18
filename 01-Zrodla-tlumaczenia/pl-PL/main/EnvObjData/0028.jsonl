@@ -1,3 +1,9 @@
+{"id": "EnvObjData_Test_RiftPortal_001_desc", "source": "[Test] Spacetime Rift", "translation": "[Test] Spacetime Rift", "status": "technical"}
+{"id": "EnvObjData_Test_RiftPortal_001_interact_desc", "source": "Traveling to Altgard...", "translation": "Podróż do Altgardu...", "status": "draft"}
+{"id": "EnvObjData_Test_SocialAction_001_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_002_desc", "source": "Crowd NPC Occupation Test", "translation": "Crowd NPC Occupation Test", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_003_desc", "source": "Transparent Env(Crowd NPC Test)", "translation": "Transparent Env(Crowd NPC Test)", "status": "technical"}
+{"id": "EnvObjData_Test_SocialAction_02_desc", "source": "Bonfire", "translation": "Ognisko", "status": "draft"}
 {"id": "EnvObjData_Test_SocialAction_Chair_001_desc", "source": "Social Action_Chair", "translation": "Social Action_Chair", "status": "technical"}
 {"id": "EnvObjData_Test_SocialAction_Prop_001_desc", "source": "Chair(Crowd NPC Test)", "translation": "Chair(Crowd NPC Test)", "status": "technical"}
 {"id": "EnvObjData_Test_SocialAction_Prop_Small_001_desc", "source": "Chair (Flight Circle Test)", "translation": "Chair (Flight Circle Test)", "status": "technical"}

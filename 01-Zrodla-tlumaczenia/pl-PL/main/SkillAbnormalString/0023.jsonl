@@ -30,7 +30,7 @@
 {"id": "SkillAbnormalString_SkillAbnormalString_19801102_desc_effect", "source": "<desc_point>{abe:198011021:value02:divide100}%</> Move Speed", "translation": "<desc_point>{abe:198011021:value02:divide100}%</> Szybkości ruchu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19801102_desc_name", "source": "Time Vortex", "translation": "Wir czasu", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19801102_desc_summary", "source": "Reduces Move Speed", "translation": "Zmniejsza szybkość ruchu", "status": "draft"}
-{"id": "SkillAbnormalString_SkillAbnormalString_19804201_desc_name", "source": "Restore HP", "translation": "Przywrócenie PŻ", "status": "draft"}
+{"id": "SkillAbnormalString_SkillAbnormalString_19804201_desc_name", "source": "HP Regen", "translation": "Regeneracja PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19804201_desc_summary", "source": "Restores HP", "translation": "Przywraca PŻ", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19804202_desc_name", "source": "Defense Increase", "translation": "Zwiększenie obrony", "status": "draft"}
 {"id": "SkillAbnormalString_SkillAbnormalString_19804202_desc_summary", "source": "Increases Defense", "translation": "Zwiększa obronę", "status": "draft"}

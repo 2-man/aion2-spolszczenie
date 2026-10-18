@@ -1,250 +1,250 @@
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_COLOR_body","source":"Blush Color","translation":"Kolor różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_CONCENTRATION_body","source":"Blush Intensity","translation":"Intensywność różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_COLORUSE_body","source":"Blush Glitter Intensity","translation":"Intensywność brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_COLOR_body","source":"Blush Glitter Color","translation":"Kolor brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_METALIC_body","source":"Blush Glitter Reflection","translation":"Połysk brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_ROUGHNESS_body","source":"Blush Glitter Intensity","translation":"Intensywność brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_SIZE_body","source":"Blush Glitter Particle Size","translation":"Rozmiar drobin brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_USE_body","source":"Blush Glitter Distribution","translation":"Rozproszenie brokatu różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_ROUGHNESS_body","source":"Blush Gloss","translation":"Połysk różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_TYPE_body","source":"Blush Shape","translation":"Kształt różu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_COLOR_body","source":"Eyeliner Color","translation":"Kolor eyelinera","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_CONCENTRATION_body","source":"Eyeliner Intensity","translation":"Intensywność eyelinera","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_METALIC_body","source":"Eyeliner Reflection","translation":"Połysk eyelinera","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_ROUGHNESS_body","source":"Eyeliner Gloss","translation":"Połysk eyelinera","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_TYPE_body","source":"Eyeliner Shape","translation":"Kształt eyelinera","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_COLOR1_body","source":"Eyeshadow Color","translation":"Kolor cieni do powiek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_COLOR2_body","source":"Eyeshadow Detail Color","translation":"Kolor detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_CONCENTRATION1_body","source":"Eyeshadow Intensity","translation":"Intensywność cieni do powiek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_CONCENTRATION2_body","source":"Eyeshadow Detail Intensity","translation":"Intensywność detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_COLORUSE_body","source":"Eyeshadow Glitter Opacity","translation":"Krycie brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_COLOR_body","source":"Eyeshadow Glitter Color","translation":"Kolor brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_METALIC_body","source":"Eyeshadow Glitter Reflection","translation":"Połysk brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_ROUGHNESS_body","source":"Eyeshadow Glitter Intensity","translation":"Intensywność brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_SIZE_body","source":"Eyeshadow Glitter Particle Size","translation":"Rozmiar drobin brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_USE_body","source":"Eyeshadow Glitter Distribution","translation":"Rozproszenie brokatu cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_METALIC1_body","source":"Eyeshadow Reflection","translation":"Połysk cieni do powiek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_METALIC2_body","source":"Eyeshadow Detail Reflection","translation":"Połysk detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_COLORUSE_body","source":"Eyeshadow Detail Glitter Opacity","translation":"Krycie brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_COLOR_body","source":"Eyeshadow Detail Glitter Color","translation":"Kolor brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_METALIC_body","source":"Eyeshadow Detail Glitter Reflection","translation":"Połysk brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_ROUGHNESS_body","source":"Eyeshadow Detail Glitter Intensity","translation":"Intensywność brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_SIZE_body","source":"Eyeshadow Detail Glitter Particle Size","translation":"Rozmiar drobin brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_USE_body","source":"Eyeshadow Detail Glitter Distribution","translation":"Rozproszenie brokatu detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_ROUGHNESS1_body","source":"Eyeshadow Gloss","translation":"Połysk cieni do powiek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_ROUGHNESS2_body","source":"Eyeshadow Detail Gloss","translation":"Połysk detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_TYPE1_body","source":"Eyeshadow Shape","translation":"Kształt cieni do powiek","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_TYPE2_body","source":"Eyeshadow Detail Shape","translation":"Kształt detali cieni","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_ALPHA_body","source":"Intensity","translation":"Intensywność","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_COLOR_body","source":"Color","translation":"Kolor","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_ROUGHNESS_body","source":"Gloss","translation":"Połysk","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_TYPE_body","source":"Shape","translation":"Kształt","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_ALPHA_body","source":"Highlighter Intensity","translation":"Intensywność rozświetlacza","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_COLOR_body","source":"Highlighter Color","translation":"Kolor rozświetlacza","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_ROUGHNESS_body","source":"Highlighter Gloss","translation":"Połysk rozświetlacza","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_TYPE_body","source":"Highlighter Shape","translation":"Kształt rozświetlacza","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_COLOR1_body","source":"Lip Color","translation":"Kolor ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_COLOR2_body","source":"Lip Detail Color","translation":"Kolor detali ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_CONCENTRATION1_body","source":"Lip Intensity","translation":"Intensywność koloru ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_CONCENTRATION2_body","source":"Lip Detail Intensity","translation":"Intensywność detali ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_COLORUSE_body","source":"Lip Glitter Opacity","translation":"Krycie brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_COLOR_body","source":"Lip Glitter Color","translation":"Kolor brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_METALIC_body","source":"Lip Glitter Reflection","translation":"Połysk brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_ROUGHNESS_body","source":"Lip Glitter Intensity","translation":"Intensywność brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_SIZE_body","source":"Lip Glitter Particle Size","translation":"Rozmiar drobin brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_USE_body","source":"Lip Glitter Distribution","translation":"Rozproszenie brokatu ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_METALIC1_body","source":"Lip Reflection","translation":"Połysk ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_METALIC2_body","source":"Lip Detail Reflection","translation":"Połysk detali ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_ROUGHNESS1_body","source":"Lip Gloss","translation":"Połysk ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_ROUGHNESS2_body","source":"Lip Detail Gloss","translation":"Połysk detali ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_TYPE1_body","source":"Lip Shape","translation":"Kształt ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_TYPE2_body","source":"Lip Detail Shape","translation":"Kształt detali ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_ALPHA_body","source":"Contour Intensity","translation":"Intensywność konturowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_COLOR_body","source":"Contour Color","translation":"Kolor konturowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_ROUGHNESS_body","source":"Contour Gloss","translation":"Połysk konturowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_TYPE_body","source":"Contour Shape","translation":"Kształt konturowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_CHIN_STICK_body","source":"Jaw Protrusion","translation":"Wypukłość szczęki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_CHIN_TIP_WIDTH_body","source":"Width","translation":"Szerokość","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_LENGTH_body","source":"Chin Shape","translation":"Kształt podbródka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_A_UP_DOWN_body","source":"Side Jawline","translation":"Boczna linia szczęki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_LENGTH_body","source":"Lower Jaw Shape","translation":"Kształt dolnej szczęki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_UP_DOWN_body","source":"Lower Jaw Height","translation":"Wysokość dolnej szczęki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_WIDTH_body","source":"Lower Jaw Width","translation":"Szerokość dolnej szczęki","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIPCORNER_DEPTH_body","source":"Lip Corner Depth","translation":"Głębokość kącików ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIPCORNER_IN_OUT_body","source":"Lip Corner Position (Left, Right)","translation":"Położenie kącików ust (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_HEIGHT_body","source":"Lower Lip Protrusion","translation":"Wypukłość dolnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_UP_DOWN_body","source":"Lower Lip Thickness","translation":"Grubość dolnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_WIDTH_body","source":"Lower Lip Width","translation":"Szerokość dolnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_ROTATION_body","source":"Lip Angle","translation":"Kąt ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_THICKNESS_body","source":"Lip Thickness","translation":"Grubość warg","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_HEIGHT_body","source":"Upper Lip Protrusion","translation":"Wypukłość górnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_SIDE_THICKNESS_body","source":"Upper Lip Outer Thickness","translation":"Grubość zewnętrznej części górnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_THICKNESS_body","source":"Upper Lip Center Thickness","translation":"Grubość środkowej części górnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_WIDTH_body","source":"Upper Lip Width","translation":"Szerokość górnej wargi","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_SIZE_body","source":"Lip Size","translation":"Rozmiar ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_STICK_body","source":"Lip Protrusion","translation":"Wypukłość warg","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_TAIL_POSITION_body","source":"Lip Corner Position","translation":"Położenie kącików ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_TAIL_body","source":"Lip Corner Position (Top, Bottom)","translation":"Położenie kącików ust (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_VERTICAL_body","source":"Lip Position","translation":"Położenie ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_WIDTH_body","source":"Lip Size","translation":"Rozmiar ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_CORNER_body","source":"Lip Corner","translation":"Kąciki ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_HEIGHT_body","source":"Protrusion","translation":"Wypukłość","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_SIZE_POSITION_body","source":"Mouth Position / Size","translation":"Położenie / rozmiar ust","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_WIDTH_body","source":"Lip Thickness","translation":"Grubość warg","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_OUTLINE_body","source":"Shape","translation":"Kształt","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_WEIGHT_body","source":"Thickness","translation":"Grubość","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_body","source":"Mouth","translation":"Usta","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_DETAIL_body","source":"Nose","translation":"Nos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_HEIGHT_body","source":"Nose Root Height","translation":"Wysokość nasady nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_LOW_HEIGHT_body","source":"Nose Bridge Height","translation":"Wysokość grzbietu nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_LOW_UP_DOWN_body","source":"Nose Bridge Position","translation":"Położenie grzbietu nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_UP_DOWN_body","source":"Nose Root Position","translation":"Położenie nasady nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_EYEBROWIN_IN_OUT_body","source":"Distance Between Brows","translation":"Odległość między brwiami","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_LENGTH_body","source":"Nose Length","translation":"Długość nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_SIZE_body","source":"Nose Size","translation":"Rozmiar nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_FWD_BWD_body","source":"Nose Tip Height","translation":"Wysokość czubka nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_IN_OUT_body","source":"Nose Tip Width","translation":"Szerokość czubka nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_UP_DOWN_body","source":"Nose Tip Position","translation":"Położenie czubka nosa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSTIL_IN_OUT_body","source":"Nostril Width","translation":"Szerokość nozdrzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSTIL_UP_DOWN_body","source":"Nostril Position","translation":"Położenie nozdrzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_body","source":"Nose","translation":"Nos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_OUTLINE_body","source":"Face Type","translation":"Typ twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_ALPHA_body","source":"Freckle Intensity","translation":"Intensywność piegów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_COLOR_body","source":"Freckle Color","translation":"Kolor piegów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_TYPE_body","source":"Freckle Shape","translation":"Kształt piegów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_ALPHA_body","source":"Mole Intensity","translation":"Intensywność pieprzyka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_COLOR_body","source":"Mole Color","translation":"Kolor pieprzyka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_LOCATION_body","source":"Mole Position","translation":"Położenie pieprzyka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_TYPE_body","source":"Mole Shape","translation":"Kształt pieprzyka","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_COLOR_body","source":"Scar Color","translation":"Kolor blizny","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_DEPTH_body","source":"Scar Depth","translation":"Głębokość blizny","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_HORIZONTAL_body","source":"Scar Position (Left, Right)","translation":"Położenie blizny (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_ROTATE_body","source":"Rotate Scar","translation":"Obróć bliznę","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_VERTICAL_body","source":"Scar Position (Top, Bottom)","translation":"Położenie blizny (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_body","source":"Scar Position","translation":"Położenie blizny","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SHAPE_body","source":"Scar Type","translation":"Typ blizny","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_HORIZONTAL_body","source":"Scar Size (Left, Right)","translation":"Rozmiar blizny (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_VERTICAL_body","source":"Scar Size (Top, Bottom)","translation":"Rozmiar blizny (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_body","source":"Scar Size","translation":"Rozmiar blizny","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_ARM_L_body","source":"Left Arm Tattoo Design","translation":"Wzór tatuażu na lewym ramieniu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_ARM_R_body","source":"Right Arm Tattoo Design","translation":"Wzór tatuażu na prawym ramieniu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_LEG_L_body","source":"Left Leg Tattoo Design","translation":"Wzór tatuażu na lewej nodze","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_LEG_R_body","source":"Right Leg Tattoo Design","translation":"Wzór tatuażu na prawej nodze","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_ARM_L_body","source":"Left Arm","translation":"Lewe ramię","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_ARM_R_body","source":"Right Arm","translation":"Prawe ramię","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_LEG_L_body","source":"Left Leg","translation":"Lewa noga","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_LEG_R_body","source":"Right Leg","translation":"Prawa noga","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_TORSO_B_body","source":"Body (Back)","translation":"Ciało (plecy)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_TORSO_F_body","source":"Body (Front)","translation":"Ciało (przód)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TORSO_B_body","source":"Body Tattoo Design (Back)","translation":"Wzór tatuażu na plecach","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TORSO_F_body","source":"Body Tattoo Design (Front)","translation":"Wzór tatuażu z przodu ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_COLOR_body","source":"Tattoo Color","translation":"Kolor tatuażu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_FACE_TOOLTIP_FACE_body","source":"Face","translation":"Twarz","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_HORIZONTAL_body","source":"Tattoo Position (Left, Right)","translation":"Położenie tatuażu (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_VERTICAL_body","source":"Tattoo Position (Top, Bottom)","translation":"Położenie tatuażu (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_body","source":"Tattoo Position","translation":"Położenie tatuażu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_REVERSAL_LEFTRIGHT_body","source":"Flip Horizontally","translation":"Odbij w poziomie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_REVERSAL_TOPBOTTOM_body","source":"Flip Vertically","translation":"Odbij w pionie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_ROTATE_body","source":"Rotate Tattoo","translation":"Obróć tatuaż","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SHAPE_body","source":"Tattoo Design","translation":"Wzór tatuażu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_HORIZONTAL_body","source":"Tattoo Size (Left, Right)","translation":"Rozmiar tatuażu (lewo, prawo)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_VERTICAL_body","source":"Tattoo Size (Top, Bottom)","translation":"Rozmiar tatuażu (góra, dół)","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_body","source":"Tattoo Size","translation":"Rozmiar tatuażu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SYMMETRY_body","source":"Copy Symmetrically","translation":"Skopiuj symetrycznie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_FACE_SETTING_body","source":"Face","translation":"Twarz","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_BUTTON_DEFAULT_body","source":"Default","translation":"Domyślnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_BUTTON_TWOTONE_body","source":"Two-Tone","translation":"Dwukolorowe","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR1_COLOR_body","source":"Default Color","translation":"Domyślny kolor","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR1_GLOSINESS_body","source":"Hair Gloss","translation":"Połysk włosów","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR2_COLOR_body","source":"Two-Tone Dye","translation":"Dwukolorowe farbowanie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_body","source":"Color Selection","translation":"Wybór koloru","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_SHAPE_body","source":"Hairstyle","translation":"Fryzura","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_TWOTONE_HAIR1_LENGTH_body","source":"Two-Tone Dye Area","translation":"Obszar dwukolorowego farbowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_HAIR_MENU_TWOTONE_HAIR2_LENGTH_body","source":"Dye Contrast","translation":"Kontrast farbowania","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_BODY_PRESET_body","source":"Body Presets","translation":"Zestawy ciała","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_FACE_PRESET_body","source":"Face Presets","translation":"Zestawy twarzy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_MAKEUP_PRESET_body","source":"Makeup Presets","translation":"Zestawy makijażu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_COSTUME_body","source":"Preview Outfit","translation":"Podgląd stroju","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_COLOR_body","source":"Light Color","translation":"Kolor światła","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_ARTIFICIAL_body","source":"Indoor Lighting","translation":"Oświetlenie wnętrza","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_COLOR_body","source":"Colored Light","translation":"Kolorowe światło","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_NATURAL_body","source":"Natural Light","translation":"Światło naturalne","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_body","source":"Lighting Type","translation":"Rodzaj oświetlenia","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_body","source":"Lighting Position","translation":"Położenie oświetlenia","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_POSE_body","source":"Poses","translation":"Pozy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_1_body","source":"2","translation":"2","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_2_body","source":"3","translation":"3","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_3_body","source":"4","translation":"4","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_BASIC_body","source":"1","translation":"1","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_body","source":"Voice","translation":"Głos","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_WEAPON_body","source":"Weapons","translation":"Broń","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_WING_body","source":"Wings","translation":"Skrzydła","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TAB_SETTING_RADIO_COLOR_BUTTON_BOTH_body","source":"Individual","translation":"Indywidualnie","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_TITLE_body","source":"Customization","translation":"Personalizacja","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_COLOR1_body","source":"Base Color","translation":"Kolor podstawowy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_COLOR2_body","source":"Accent Color","translation":"Kolor akcentu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_INTENSITY1_body","source":"Base Texture Intensity","translation":"Intensywność tekstury podstawowej","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_INTENSITY2_body","source":"Accent Texture Intensity","translation":"Intensywność tekstury akcentu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_METALIC1_body","source":"Base Metallic","translation":"Metaliczność podstawowa","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_METALIC2_body","source":"Accent Metallic","translation":"Metaliczność akcentu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_ROUGHNESS1_body","source":"Base Gloss","translation":"Połysk podstawowy","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_ROUGHNESS2_body","source":"Accent Gloss","translation":"Połysk akcentu","status":"draft"}
-{"id":"String_UI_CUSTOMIZE_WARPAINTING_SHAPE_body","source":"War Paint Design","translation":"Wzór malowania wojennego","status":"draft"}
-{"id":"String_UI_CUTSCENE_BUTTON_SKIP_body","source":"SKIP","translation":"POMIŃ","status":"draft"}
-{"id":"String_UI_Chat_Type_Command_Format_body","source":"{0} ({1})","translation":"{0} ({1})","status":"draft"}
-{"id":"String_UI_ComponentCombine_Popup_AutomaticUsagePriorityGuide_body","source":"Owned materials will be used in the following order for crafting: event, bound, and unbound","translation":"Podczas wytwarzania materiały zostaną użyte w kolejności: wydarzenia, związane, niezwiązane","status":"draft"}
-{"id":"String_UI_ComponentCombine_Popup_OK_Button_body","source":"Confirm","translation":"Potwierdź","status":"draft"}
-{"id":"String_UI_ComponentCombine_Popup_Title_body","source":"Material Summary","translation":"Podsumowanie materiałów","status":"draft"}
-{"id":"String_UI_Craft_Recipe_LIST_AVAILABLE_COUNT_Try_body","source":"Crafting Available {0}/{1}","translation":"Można wytworzyć: {0}/{1}","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_Abyss_Reshanta_A_body","source":"Chaotic Lower Reshanta","translation":"Chaotyczne Dolne Reshanta","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_Abyss_Reshanta_C_body","source":"Chaotic Middle Reshanta","translation":"Chaotyczne Środkowe Reshanta","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_World_D_A_body","source":"Altgard","translation":"Altgard","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_World_D_B_body","source":"Morheim","translation":"Morheim","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_World_L_A_body","source":"Verteron","translation":"Verteron","status":"draft"}
-{"id":"String_UI_DAEVAEXPRESS_Map_World_L_B_body","source":"Eltnen","translation":"Eltnen","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_COMPLETE_SCORE_body","source":"Reach <DaevaGauge_Percent>100%</> Gauge Progress","translation":"Osiągnij <DaevaGauge_Percent>100%</> postępu wskaźnika","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_DESC_2_body","source":"You can earn Gauge Points by completing the content below.","translation":"Punkty wskaźnika zdobywasz, zaliczając poniższe treści.","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_DESC_3_body","source":"- Episode Quest\n- Regional Quest\n- Ascension Quest\n- Sealed Dungeon\n- Stronghold","translation":"- Zadanie epizodyczne\n- Zadanie regionalne\n- Zadanie Wstąpienia\n- Zapieczętowany loch\n- Twierdza","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_DESC_body","source":"Can be unlocked when all of the below requirements are met.","translation":"Odblokuje się po spełnieniu wszystkich poniższych wymagań.","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_NEED_SCORE_body","source":"Must reach <DaevaGauge_Percent>100%</> Gauge Progress","translation":"Osiągnij <DaevaGauge_Percent>100%</> postępu wskaźnika","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_POINT_INFO_body","source":"Earning extra Gauge Points. Earned points will be shown when the gauge is next updated.","translation":"Zdobywasz dodatkowe punkty wskaźnika. Pojawią się przy następnej aktualizacji wskaźnika.","status":"draft"}
-{"id":"String_UI_DAEVAGAUGE_TOOLTIP_QUEST_body","source":"{0} Complete","translation":"Ukończono: {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_AUTO_BATTLE_TRUE_body","source":"Daily Dungeon Support Available","translation":"Dostępne wsparcie w lochu dziennym","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_BTN_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_BUFF_LIST_TITLE_body","source":"Effects Available","translation":"Dostępne efekty","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_CONTENTS_TICKET_TITLE_body","source":"Attempt Count","translation":"Liczba prób","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_ENTRY_MAX_MEMBER_TITLE_body","source":"No. of Players","translation":"Liczba graczy","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_ENTRY_MAX_MEMBER_VALUE_body","source":"Up to {0}","translation":"Maksymalnie {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_PC_LEVEL_TITLE_body","source":"Entry Level","translation":"Poziom wejścia","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_PC_LEVEL_VALUE_body","source":"Lv. {0} or higher","translation":"Poz. {0} lub wyższy","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_CLEAR_WAVE_LEVEL_ONLYONE_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_CLEAR_WAVE_LEVEL_body","source":"Stage {0} Complete","translation":"Ukończono etap {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_EMPTY_body","source":"No clear record.","translation":"Brak zapisu ukończenia.","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_LAST_WAVE_LEVEL_ONLYONE_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_LAST_WAVE_LEVEL_body","source":"Stage {0}","translation":"Etap {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_RECORD_TITLE_body","source":"Previous Record","translation":"Poprzedni wynik","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_REWARD_TITLE_body","source":"Max Rewards","translation":"Maksymalne nagrody","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_REWARD_TYPICAL_TITLE_body","source":"Main Rewards","translation":"Główne nagrody","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_TIP_TITLE_body","source":"Info","translation":"Informacje","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_UNLOCK_body","source":"Unlock Condition","translation":"Warunek odblokowania","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TITLE_body","source":"Stage","translation":"Etap","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TOTAL_ONLYONE_body","source":"-","translation":"-","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TOTAL_body","source":"{0} Total Stages","translation":"Łącznie etapów: {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_LIST_COND_ENTRY_MINLV_body","source":"Must reach Lv. {0}","translation":"Wymagany poziom: {0}","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_LIST_EMPTY_body","source":"No accessible dungeon available.","translation":"Brak dostępnych lochów.","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_BUFF_LIST_DESC_body","source":"At the start, select 1 effect to aid you in battle.\nThe 3 choices of effect are decided randomly.","translation":"Na początku wybierz 1 efekt, który pomoże ci w walce.\n3 dostępne efekty są losowane.","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_BUFF_LIST_TITLE_body","source":"Available Effects List","translation":"Dostępne efekty","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_REWARD_DESC_body","source":"Rewards will be issued depending on the final score upon completion.","translation":"Nagrody zależą od końcowego wyniku po ukończeniu.","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_REWARD_HEADER_POINT_body","source":"Final Score","translation":"Wynik końcowy","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_REWARD_HEADER_REWARD_body","source":"Rewards","translation":"Nagrody","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_REWARD_POINT_body","source":"{0} or higher","translation":"{0} lub więcej","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_POPUP_REWARD_TITLE_body","source":"Clear Rewards","translation":"Nagrody za ukończenie","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_SCREENMSG_ENTER_body","source":"Enter","translation":"Wejdź","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_TAB_DAILY_body","source":"Unknown Fissure","translation":"Nieznana Szczelina","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_TAB_GROWTH_body","source":"Fields of Progress","translation":"Pola Postępu","status":"draft"}
-{"id":"String_UI_DAILYDUNGEON_TITLE_body","source":"Daily Dungeon","translation":"Loch dzienny","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_ACCURACY_COUNT_body","source":"Landed Hits (Proportion)","translation":"Trafienia (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_ADDITIONALHIT_COUNT_body","source":"Multi-Hit (Proportion)","translation":"Serie trafień (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BACKATTACK_COUNT_body","source":"Back Attack Hits (Proportion)","translation":"Trafienia od tyłu (udział)","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BATTLE_TIME_body","source":"Total Battle Time","translation":"Łączny czas walki","status":"draft"}
-{"id":"String_UI_DAMAGEANALYZER_BLOCK_COUNT_body","source":"Block (Proportion)","translation":"Blokowanie (udział)","status":"draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_FOREHEAD_CHEEK_body", "source": "Forehead / Cheekbone", "translation": "Czoło / kości policzkowe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_COLOR_body", "source": "Blush Color", "translation": "Kolor różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_CONCENTRATION_body", "source": "Blush Intensity", "translation": "Intensywność różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_COLORUSE_body", "source": "Blush Glitter Intensity", "translation": "Intensywność brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_COLOR_body", "source": "Blush Glitter Color", "translation": "Kolor brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_METALIC_body", "source": "Blush Glitter Reflection", "translation": "Połysk brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_ROUGHNESS_body", "source": "Blush Glitter Intensity", "translation": "Intensywność brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_SIZE_body", "source": "Blush Glitter Particle Size", "translation": "Rozmiar drobin brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_GLITTER_USE_body", "source": "Blush Glitter Distribution", "translation": "Rozproszenie brokatu różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_ROUGHNESS_body", "source": "Blush Gloss", "translation": "Połysk różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_CHEEK_COLOR_MENU_TYPE_body", "source": "Blush Shape", "translation": "Kształt różu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_COLOR_body", "source": "Eyeliner Color", "translation": "Kolor eyelinera", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_CONCENTRATION_body", "source": "Eyeliner Intensity", "translation": "Intensywność eyelinera", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_METALIC_body", "source": "Eyeliner Reflection", "translation": "Połysk eyelinera", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_ROUGHNESS_body", "source": "Eyeliner Gloss", "translation": "Połysk eyelinera", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYELINE_MENU_TYPE_body", "source": "Eyeliner Shape", "translation": "Kształt eyelinera", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_COLOR1_body", "source": "Eyeshadow Color", "translation": "Kolor cieni do powiek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_COLOR2_body", "source": "Eyeshadow Detail Color", "translation": "Kolor detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_CONCENTRATION1_body", "source": "Eyeshadow Intensity", "translation": "Intensywność cieni do powiek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_CONCENTRATION2_body", "source": "Eyeshadow Detail Intensity", "translation": "Intensywność detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_COLORUSE_body", "source": "Eyeshadow Glitter Opacity", "translation": "Krycie brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_COLOR_body", "source": "Eyeshadow Glitter Color", "translation": "Kolor brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_METALIC_body", "source": "Eyeshadow Glitter Reflection", "translation": "Połysk brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_ROUGHNESS_body", "source": "Eyeshadow Glitter Intensity", "translation": "Intensywność brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_SIZE_body", "source": "Eyeshadow Glitter Particle Size", "translation": "Rozmiar drobin brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_GLITTER_USE_body", "source": "Eyeshadow Glitter Distribution", "translation": "Rozproszenie brokatu cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_METALIC1_body", "source": "Eyeshadow Reflection", "translation": "Połysk cieni do powiek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_METALIC2_body", "source": "Eyeshadow Detail Reflection", "translation": "Połysk detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_COLORUSE_body", "source": "Eyeshadow Detail Glitter Opacity", "translation": "Krycie brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_COLOR_body", "source": "Eyeshadow Detail Glitter Color", "translation": "Kolor brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_METALIC_body", "source": "Eyeshadow Detail Glitter Reflection", "translation": "Połysk brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_ROUGHNESS_body", "source": "Eyeshadow Detail Glitter Intensity", "translation": "Intensywność brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_SIZE_body", "source": "Eyeshadow Detail Glitter Particle Size", "translation": "Rozmiar drobin brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_POINT_GLITTER_USE_body", "source": "Eyeshadow Detail Glitter Distribution", "translation": "Rozproszenie brokatu detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_ROUGHNESS1_body", "source": "Eyeshadow Gloss", "translation": "Połysk cieni do powiek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_ROUGHNESS2_body", "source": "Eyeshadow Detail Gloss", "translation": "Połysk detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_TYPE1_body", "source": "Eyeshadow Shape", "translation": "Kształt cieni do powiek", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_EYESHADOW_MENU_TYPE2_body", "source": "Eyeshadow Detail Shape", "translation": "Kształt detali cieni", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_ALPHA_body", "source": "Intensity", "translation": "Intensywność", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_COLOR_body", "source": "Color", "translation": "Kolor", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_ROUGHNESS_body", "source": "Gloss", "translation": "Połysk", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_FOUNDATION_TYPE_body", "source": "Shape", "translation": "Kształt", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_ALPHA_body", "source": "Highlighter Intensity", "translation": "Intensywność rozświetlacza", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_COLOR_body", "source": "Highlighter Color", "translation": "Kolor rozświetlacza", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_ROUGHNESS_body", "source": "Highlighter Gloss", "translation": "Połysk rozświetlacza", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_HIGHLIGHTER_TYPE_body", "source": "Highlighter Shape", "translation": "Kształt rozświetlacza", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_COLOR1_body", "source": "Lip Color", "translation": "Kolor ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_COLOR2_body", "source": "Lip Detail Color", "translation": "Kolor detali ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_CONCENTRATION1_body", "source": "Lip Intensity", "translation": "Intensywność koloru ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_CONCENTRATION2_body", "source": "Lip Detail Intensity", "translation": "Intensywność detali ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_COLORUSE_body", "source": "Lip Glitter Opacity", "translation": "Krycie brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_COLOR_body", "source": "Lip Glitter Color", "translation": "Kolor brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_METALIC_body", "source": "Lip Glitter Reflection", "translation": "Połysk brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_ROUGHNESS_body", "source": "Lip Glitter Intensity", "translation": "Intensywność brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_SIZE_body", "source": "Lip Glitter Particle Size", "translation": "Rozmiar drobin brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_GLITTER_USE_body", "source": "Lip Glitter Distribution", "translation": "Rozproszenie brokatu ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_METALIC1_body", "source": "Lip Reflection", "translation": "Połysk ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_METALIC2_body", "source": "Lip Detail Reflection", "translation": "Połysk detali ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_ROUGHNESS1_body", "source": "Lip Gloss", "translation": "Połysk ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_ROUGHNESS2_body", "source": "Lip Detail Gloss", "translation": "Połysk detali ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_TYPE1_body", "source": "Lip Shape", "translation": "Kształt ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_LIP_MENU_TYPE2_body", "source": "Lip Detail Shape", "translation": "Kształt detali ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_ALPHA_body", "source": "Contour Intensity", "translation": "Intensywność konturowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_COLOR_body", "source": "Contour Color", "translation": "Kolor konturowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_ROUGHNESS_body", "source": "Contour Gloss", "translation": "Połysk konturowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MAKEUP_SUBTITLE_SHADING_TYPE_body", "source": "Contour Shape", "translation": "Kształt konturowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_CHIN_STICK_body", "source": "Jaw Protrusion", "translation": "Wypukłość szczęki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_CHIN_TIP_WIDTH_body", "source": "Width", "translation": "Szerokość", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_LENGTH_body", "source": "Chin Shape", "translation": "Kształt podbródka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_A_UP_DOWN_body", "source": "Side Jawline", "translation": "Boczna linia szczęki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_LENGTH_body", "source": "Lower Jaw Shape", "translation": "Kształt dolnej szczęki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_UP_DOWN_body", "source": "Lower Jaw Height", "translation": "Wysokość dolnej szczęki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_CHIN_DETAIL_MENU_PLASTIMA_WIDTH_body", "source": "Lower Jaw Width", "translation": "Szerokość dolnej szczęki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIPCORNER_DEPTH_body", "source": "Lip Corner Depth", "translation": "Głębokość kącików ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIPCORNER_IN_OUT_body", "source": "Lip Corner Position (Left, Right)", "translation": "Położenie kącików ust (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_HEIGHT_body", "source": "Lower Lip Protrusion", "translation": "Wypukłość dolnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_UP_DOWN_body", "source": "Lower Lip Thickness", "translation": "Grubość dolnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_LOWER_WIDTH_body", "source": "Lower Lip Width", "translation": "Szerokość dolnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_ROTATION_body", "source": "Lip Angle", "translation": "Kąt ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_THICKNESS_body", "source": "Lip Thickness", "translation": "Grubość warg", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_HEIGHT_body", "source": "Upper Lip Protrusion", "translation": "Wypukłość górnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_SIDE_THICKNESS_body", "source": "Upper Lip Outer Thickness", "translation": "Grubość zewnętrznej części górnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_THICKNESS_body", "source": "Upper Lip Center Thickness", "translation": "Grubość środkowej części górnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_LIP_UPPER_WIDTH_body", "source": "Upper Lip Width", "translation": "Szerokość górnej wargi", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_SIZE_body", "source": "Lip Size", "translation": "Rozmiar ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_STICK_body", "source": "Lip Protrusion", "translation": "Wypukłość warg", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_TAIL_POSITION_body", "source": "Lip Corner Position", "translation": "Położenie kącików ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_TAIL_body", "source": "Lip Corner Position (Top, Bottom)", "translation": "Położenie kącików ust (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_VERTICAL_body", "source": "Lip Position", "translation": "Położenie ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_CHIN_SUBTITLE_MOUTH_DETAIL_MENU_MOUTH_WIDTH_body", "source": "Lip Size", "translation": "Rozmiar ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_CORNER_body", "source": "Lip Corner", "translation": "Kąciki ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_HEIGHT_body", "source": "Protrusion", "translation": "Wypukłość", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_SIZE_POSITION_body", "source": "Mouth Position / Size", "translation": "Położenie / rozmiar ust", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_DETAIL_LIP_WIDTH_body", "source": "Lip Thickness", "translation": "Grubość warg", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_OUTLINE_body", "source": "Shape", "translation": "Kształt", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_WEIGHT_body", "source": "Thickness", "translation": "Grubość", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_MOUTH_body", "source": "Mouth", "translation": "Usta", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_DETAIL_body", "source": "Nose", "translation": "Nos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_HEIGHT_body", "source": "Nose Root Height", "translation": "Wysokość nasady nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_LOW_HEIGHT_body", "source": "Nose Bridge Height", "translation": "Wysokość grzbietu nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_LOW_UP_DOWN_body", "source": "Nose Bridge Position", "translation": "Położenie grzbietu nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_BRIDGE_UP_DOWN_body", "source": "Nose Root Position", "translation": "Położenie nasady nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_EYEBROWIN_IN_OUT_body", "source": "Distance Between Brows", "translation": "Odległość między brwiami", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_LENGTH_body", "source": "Nose Length", "translation": "Długość nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_SIZE_body", "source": "Nose Size", "translation": "Rozmiar nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_FWD_BWD_body", "source": "Nose Tip Height", "translation": "Wysokość czubka nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_IN_OUT_body", "source": "Nose Tip Width", "translation": "Szerokość czubka nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSE_TIP_UP_DOWN_body", "source": "Nose Tip Position", "translation": "Położenie czubka nosa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSTIL_IN_OUT_body", "source": "Nostril Width", "translation": "Szerokość nozdrzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_SUBTITLE_NOSE_DETAIL_MENU_NOSTIL_UP_DOWN_body", "source": "Nostril Position", "translation": "Położenie nozdrzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_NOSE_body", "source": "Nose", "translation": "Nos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_OUTLINE_body", "source": "Face Type", "translation": "Typ twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_ALPHA_body", "source": "Freckle Intensity", "translation": "Intensywność piegów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_COLOR_body", "source": "Freckle Color", "translation": "Kolor piegów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_FRECKLE_TYPE_body", "source": "Freckle Shape", "translation": "Kształt piegów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_ALPHA_body", "source": "Mole Intensity", "translation": "Intensywność pieprzyka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_COLOR_body", "source": "Mole Color", "translation": "Kolor pieprzyka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_LOCATION_body", "source": "Mole Position", "translation": "Położenie pieprzyka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_SKIN_SUBTITLE_CHEEK_COLOR_MENU_MOLE_TYPE_body", "source": "Mole Shape", "translation": "Kształt pieprzyka", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_COLOR_body", "source": "Scar Color", "translation": "Kolor blizny", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_DEPTH_body", "source": "Scar Depth", "translation": "Głębokość blizny", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_HORIZONTAL_body", "source": "Scar Position (Left, Right)", "translation": "Położenie blizny (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_ROTATE_body", "source": "Rotate Scar", "translation": "Obróć bliznę", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_VERTICAL_body", "source": "Scar Position (Top, Bottom)", "translation": "Położenie blizny (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_LOCATION_body", "source": "Scar Position", "translation": "Położenie blizny", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SHAPE_body", "source": "Scar Type", "translation": "Typ blizny", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_HORIZONTAL_body", "source": "Scar Size (Left, Right)", "translation": "Rozmiar blizny (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_VERTICAL_body", "source": "Scar Size (Top, Bottom)", "translation": "Rozmiar blizny (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_SCAR_MENU_SIZE_body", "source": "Scar Size", "translation": "Rozmiar blizny", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_ARM_L_body", "source": "Left Arm Tattoo Design", "translation": "Wzór tatuażu na lewym ramieniu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_ARM_R_body", "source": "Right Arm Tattoo Design", "translation": "Wzór tatuażu na prawym ramieniu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_LEG_L_body", "source": "Left Leg Tattoo Design", "translation": "Wzór tatuażu na lewej nodze", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_LEG_R_body", "source": "Right Leg Tattoo Design", "translation": "Wzór tatuażu na prawej nodze", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_ARM_L_body", "source": "Left Arm", "translation": "Lewe ramię", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_ARM_R_body", "source": "Right Arm", "translation": "Prawe ramię", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_LEG_L_body", "source": "Left Leg", "translation": "Lewa noga", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_LEG_R_body", "source": "Right Leg", "translation": "Prawa noga", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_TORSO_B_body", "source": "Body (Back)", "translation": "Ciało (plecy)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TOOLTIP_TORSO_F_body", "source": "Body (Front)", "translation": "Ciało (przód)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TORSO_B_body", "source": "Body Tattoo Design (Back)", "translation": "Wzór tatuażu na plecach", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_BODYTATTOO_TORSO_F_body", "source": "Body Tattoo Design (Front)", "translation": "Wzór tatuażu z przodu ciała", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_COLOR_body", "source": "Tattoo Color", "translation": "Kolor tatuażu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_FACE_TOOLTIP_FACE_body", "source": "Face", "translation": "Twarz", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_HORIZONTAL_body", "source": "Tattoo Position (Left, Right)", "translation": "Położenie tatuażu (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_VERTICAL_body", "source": "Tattoo Position (Top, Bottom)", "translation": "Położenie tatuażu (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_LOCATION_body", "source": "Tattoo Position", "translation": "Położenie tatuażu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_REVERSAL_LEFTRIGHT_body", "source": "Flip Horizontally", "translation": "Odbij w poziomie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_REVERSAL_TOPBOTTOM_body", "source": "Flip Vertically", "translation": "Odbij w pionie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_ROTATE_body", "source": "Rotate Tattoo", "translation": "Obróć tatuaż", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SHAPE_body", "source": "Tattoo Design", "translation": "Wzór tatuażu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_HORIZONTAL_body", "source": "Tattoo Size (Left, Right)", "translation": "Rozmiar tatuażu (lewo, prawo)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_VERTICAL_body", "source": "Tattoo Size (Top, Bottom)", "translation": "Rozmiar tatuażu (góra, dół)", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SIZE_body", "source": "Tattoo Size", "translation": "Rozmiar tatuażu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_SUBTAB_TATTOO_SCAR_SUBTITLE_TATTOO_MENU_SYMMETRY_body", "source": "Copy Symmetrically", "translation": "Skopiuj symetrycznie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_FACE_SETTING_body", "source": "Face", "translation": "Twarz", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_BUTTON_DEFAULT_body", "source": "Default", "translation": "Domyślnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_BUTTON_TWOTONE_body", "source": "Two-Tone", "translation": "Dwukolorowe", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR1_COLOR_body", "source": "Default Color", "translation": "Domyślny kolor", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR1_GLOSINESS_body", "source": "Hair Gloss", "translation": "Połysk włosów", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_HAIR2_COLOR_body", "source": "Two-Tone Dye", "translation": "Dwukolorowe farbowanie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_COLOR_body", "source": "Color Selection", "translation": "Wybór koloru", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_SHAPE_body", "source": "Hairstyle", "translation": "Fryzura", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_TWOTONE_HAIR1_LENGTH_body", "source": "Two-Tone Dye Area", "translation": "Obszar dwukolorowego farbowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_HAIR_MENU_TWOTONE_HAIR2_LENGTH_body", "source": "Dye Contrast", "translation": "Kontrast farbowania", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_BODY_PRESET_body", "source": "Body Presets", "translation": "Zestawy sylwetki", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_FACE_PRESET_body", "source": "Face Presets", "translation": "Zestawy twarzy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PRESET_DROPBOX_TITLE_MAKEUP_PRESET_body", "source": "Makeup Presets", "translation": "Zestawy makijażu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_COSTUME_body", "source": "Preview Outfit", "translation": "Podgląd stroju", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_COLOR_body", "source": "Light Color", "translation": "Kolor światła", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_ARTIFICIAL_body", "source": "Indoor Lighting", "translation": "Oświetlenie wnętrza", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_COLOR_body", "source": "Colored Light", "translation": "Kolorowe światło", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_NATURAL_body", "source": "Natural Light", "translation": "Światło naturalne", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_TYPE_body", "source": "Lighting Type", "translation": "Rodzaj oświetlenia", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_LIGHTING_body", "source": "Lighting Position", "translation": "Położenie oświetlenia", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_POSE_body", "source": "Poses", "translation": "Pozy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_1_body", "source": "2", "translation": "2", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_2_body", "source": "3", "translation": "3", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_3_body", "source": "4", "translation": "4", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_BUTTON_BASIC_body", "source": "1", "translation": "1", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_VOICE_body", "source": "Voice", "translation": "Głos", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_WEAPON_body", "source": "Weapons", "translation": "Broń", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_PREVIEW_SUBTITLE_WING_body", "source": "Wings", "translation": "Skrzydła", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TAB_SETTING_RADIO_COLOR_BUTTON_BOTH_body", "source": "Individual", "translation": "Indywidualnie", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_TITLE_body", "source": "Customization", "translation": "Personalizacja", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_COLOR1_body", "source": "Base Color", "translation": "Kolor podstawowy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_COLOR2_body", "source": "Accent Color", "translation": "Kolor akcentu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_INTENSITY1_body", "source": "Base Texture Intensity", "translation": "Intensywność tekstury podstawowej", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_INTENSITY2_body", "source": "Accent Texture Intensity", "translation": "Intensywność tekstury akcentu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_METALIC1_body", "source": "Base Metallic", "translation": "Metaliczność podstawowa", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_METALIC2_body", "source": "Accent Metallic", "translation": "Metaliczność akcentu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_ROUGHNESS1_body", "source": "Base Gloss", "translation": "Połysk podstawowy", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_ROUGHNESS2_body", "source": "Accent Gloss", "translation": "Połysk akcentu", "status": "draft"}
+{"id": "String_UI_CUSTOMIZE_WARPAINTING_SHAPE_body", "source": "War Paint Design", "translation": "Wzór barw wojennych", "status": "draft"}
+{"id": "String_UI_CUTSCENE_BUTTON_SKIP_body", "source": "SKIP", "translation": "POMIŃ", "status": "draft"}
+{"id": "String_UI_Chat_Type_Command_Format_body", "source": "{0} ({1})", "translation": "{0} ({1})", "status": "draft"}
+{"id": "String_UI_ComponentCombine_Popup_AutomaticUsagePriorityGuide_body", "source": "Owned materials will be used in the following order for crafting: event, bound, and unbound", "translation": "Podczas wytwarzania materiały zostaną użyte w kolejności: wydarzenia, związane, niezwiązane", "status": "draft"}
+{"id": "String_UI_ComponentCombine_Popup_OK_Button_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
+{"id": "String_UI_ComponentCombine_Popup_Title_body", "source": "Material Summary", "translation": "Podsumowanie materiałów", "status": "draft"}
+{"id": "String_UI_Craft_Recipe_LIST_AVAILABLE_COUNT_Try_body", "source": "Crafting Available {0}/{1}", "translation": "Można wytworzyć: {0}/{1}", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_Abyss_Reshanta_A_body", "source": "Chaotic Lower Reshanta", "translation": "Chaotyczne Dolne Reshanta", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_Abyss_Reshanta_C_body", "source": "Chaotic Middle Reshanta", "translation": "Chaotyczne Środkowe Reshanta", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_World_D_A_body", "source": "Altgard", "translation": "Altgard", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_World_D_B_body", "source": "Morheim", "translation": "Morheim", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_World_L_A_body", "source": "Verteron", "translation": "Verteron", "status": "draft"}
+{"id": "String_UI_DAEVAEXPRESS_Map_World_L_B_body", "source": "Eltnen", "translation": "Eltnen", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_COMPLETE_SCORE_body", "source": "Reach <DaevaGauge_Percent>100%</> Gauge Progress", "translation": "Osiągnij <DaevaGauge_Percent>100%</> postępu wskaźnika", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_DESC_2_body", "source": "You can earn Gauge Points by completing the content below.", "translation": "Punkty wskaźnika zdobywasz, zaliczając poniższe treści.", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_DESC_3_body", "source": "- Episode Quest\n- Regional Quest\n- Ascension Quest\n- Sealed Dungeon\n- Stronghold", "translation": "- Zadanie epizodyczne\n- Zadanie regionalne\n- Zadanie Wstąpienia\n- Zapieczętowany loch\n- Twierdza", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_DESC_body", "source": "Can be unlocked when all of the below requirements are met.", "translation": "Odblokuje się po spełnieniu wszystkich poniższych wymagań.", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_NEED_SCORE_body", "source": "Must reach <DaevaGauge_Percent>100%</> Gauge Progress", "translation": "Osiągnij <DaevaGauge_Percent>100%</> postępu wskaźnika", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_POINT_INFO_body", "source": "Earning extra Gauge Points. Earned points will be shown when the gauge is next updated.", "translation": "Zdobywasz dodatkowe punkty wskaźnika. Pojawią się przy następnej aktualizacji wskaźnika.", "status": "draft"}
+{"id": "String_UI_DAEVAGAUGE_TOOLTIP_QUEST_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_AUTO_BATTLE_TRUE_body", "source": "Daily Dungeon Support Available", "translation": "Dostępne wsparcie w lochu dziennym", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_BTN_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_BUFF_LIST_TITLE_body", "source": "Effects Available", "translation": "Dostępne efekty", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_CONTENTS_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba prób", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_ENTRY_MAX_MEMBER_TITLE_body", "source": "No. of Players", "translation": "Liczba graczy", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_ENTRY_MAX_MEMBER_VALUE_body", "source": "Up to {0}", "translation": "Maksymalnie {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_PC_LEVEL_TITLE_body", "source": "Entry Level", "translation": "Poziom wejścia", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_PC_LEVEL_VALUE_body", "source": "Lv. {0} or higher", "translation": "Poz. {0} lub wyższy", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_CLEAR_WAVE_LEVEL_ONLYONE_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_CLEAR_WAVE_LEVEL_body", "source": "Stage {0} Complete", "translation": "Ukończono etap {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_EMPTY_body", "source": "No clear record.", "translation": "Brak zapisu ukończenia.", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_LAST_WAVE_LEVEL_ONLYONE_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_LAST_WAVE_LEVEL_body", "source": "Stage {0}", "translation": "Etap {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_RECORD_TITLE_body", "source": "Previous Record", "translation": "Poprzedni wynik", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_REWARD_TITLE_body", "source": "Max Rewards", "translation": "Maksymalne nagrody", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_REWARD_TYPICAL_TITLE_body", "source": "Main Rewards", "translation": "Główne nagrody", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_TIP_TITLE_body", "source": "Info", "translation": "Informacje", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_UNLOCK_body", "source": "Unlock Condition", "translation": "Warunek odblokowania", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TITLE_body", "source": "Stage", "translation": "Etap", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TOTAL_ONLYONE_body", "source": "-", "translation": "-", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_INFO_WAVE_LEVEL_TOTAL_body", "source": "{0} Total Stages", "translation": "Łącznie etapów: {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_LIST_COND_ENTRY_MINLV_body", "source": "Must reach Lv. {0}", "translation": "Wymagany poziom: {0}", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_LIST_EMPTY_body", "source": "No accessible dungeon available.", "translation": "Brak dostępnych lochów.", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_BUFF_LIST_DESC_body", "source": "At the start, select 1 effect to aid you in battle.\nThe 3 choices of effect are decided randomly.", "translation": "Na początku wybierz 1 efekt, który pomoże ci w walce.\n3 dostępne efekty są losowane.", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_BUFF_LIST_TITLE_body", "source": "Available Effects List", "translation": "Dostępne efekty", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_REWARD_DESC_body", "source": "Rewards will be issued depending on the final score upon completion.", "translation": "Nagrody zależą od końcowego wyniku po ukończeniu.", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_REWARD_HEADER_POINT_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_REWARD_HEADER_REWARD_body", "source": "Rewards", "translation": "Nagrody", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_REWARD_POINT_body", "source": "{0} or higher", "translation": "{0} lub więcej", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_POPUP_REWARD_TITLE_body", "source": "Clear Rewards", "translation": "Nagrody za ukończenie", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_SCREENMSG_ENTER_body", "source": "Enter", "translation": "Wejdź", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_TAB_DAILY_body", "source": "Unknown Fissure", "translation": "Nieznana Szczelina", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_TAB_GROWTH_body", "source": "Fields of Progress", "translation": "Pola Postępu", "status": "draft"}
+{"id": "String_UI_DAILYDUNGEON_TITLE_body", "source": "Daily Dungeon", "translation": "Loch dzienny", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_ACCURACY_COUNT_body", "source": "Landed Hits (Proportion)", "translation": "Trafienia (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_ADDITIONALHIT_COUNT_body", "source": "Multi-Hit (Proportion)", "translation": "Serie trafień (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BACKATTACK_COUNT_body", "source": "Back Attack Hits (Proportion)", "translation": "Trafienia od tyłu (udział)", "status": "draft"}
+{"id": "String_UI_DAMAGEANALYZER_BATTLE_TIME_body", "source": "Total Battle Time", "translation": "Łączny czas walki", "status": "draft"}

@@ -1,3 +1,27 @@
+{"id": "String_UI_SUPPRESSION_IINFO_REWARD_SEASON_TITLE_body", "source": "Expected Season Rewards", "translation": "Przewidywane nagrody sezonowe", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_IINFO_SEASON_END_TIME_body", "source": "Season resets in", "translation": "Reset sezonu za", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_CONTENTS_TICKET_TITLE_body", "source": "Attempt Count", "translation": "Liczba podejść", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_SOCRE_TITLE_body", "source": "Best Record", "translation": "Najlepszy wynik", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_INFO_TOOLTIP_NEED_MEMBER_body", "source": "Required Participants", "translation": "Wymagana liczba uczestników", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_READY_COMPLETE_body", "source": "Entering the dungeon shortly.", "translation": "Wkrótce nastąpi wejście do lochu.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_MATCHING_COMPLETE_POPUP_WARNING_body", "source": "If you cancel matchmaking multiple times after it has already completed, subjugation entry will be restricted for a certain period of time.", "translation": "Wielokrotne anulowanie ukończonego dobierania graczy zablokuje na pewien czas wejście do Podboju.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NORMAL_body", "source": "Normal", "translation": "Normalny", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NOTICE_MATCHING_SEASON_OUTDATE_body", "source": "Cannot begin matchmaking as the season has ended.", "translation": "Nie można rozpocząć dobierania graczy, ponieważ sezon dobiegł końca.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_NOTICE_SEASON_OUTDATE_body", "source": "Season has ended.", "translation": "Sezon dobiegł końca.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RANKING_REWARD_DESC_body", "source": "<BossChallenge_Score>Class Rank</>\nThis rank is calculated for individual classes.\nSeason Grades are determined based on your rank and cumulative rank point range.\nRanks are updated hourly.\n\n<BossChallenge_Score>Season Rewards</>\nRewards granted based on final season results.\nAfter the current season ends, Season Rewards will be delivered to your inventory the first time you enter the respective season content in the next season.\n\n<BossChallenge_Score>Buffs</>\nBuffs are applied based on current Class Rank.\nIf there are multiple buffs of the same type, only the highest-Grade buff of that type will be applied.\nBuffs currently applied may change when Ranks and Grades are updated.", "translation": "<BossChallenge_Score>Ranking klas</>\nRanking jest obliczany osobno dla każdej klasy.\nRangi sezonowe są ustalane na podstawie miejsca w rankingu i łącznego przedziału punktów rankingowych.\nRankingi są aktualizowane co godzinę.\n\n<BossChallenge_Score>Nagrody sezonowe</>\nNagrody przyznawane na podstawie końcowych wyników sezonu.\nPo zakończeniu bieżącego sezonu nagrody sezonowe zostaną dostarczone do ekwipunku przy pierwszym wejściu do odpowiedniej zawartości sezonowej w kolejnym sezonie.\n\n<BossChallenge_Score>Wzmocnienia</>\nWzmocnienia są przyznawane na podstawie bieżącego rankingu klas.\nJeśli dostępnych jest kilka wzmocnień tego samego typu, zostanie zastosowane tylko to o najwyższej randze.\nAktywne wzmocnienia mogą się zmienić po aktualizacji rankingu i rang.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_REQUIRED_CONDITION_body", "source": "Entry Requirements", "translation": "Wymagania wejścia", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_BUTTON_QUIT_body", "source": "Exit", "translation": "Wyjdź", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_CLEAR_body", "source": "Subjugation Success", "translation": "Podbój zakończony powodzeniem", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_DEATH_body", "source": "Remaining Deaths Count", "translation": "Pozostała liczba zgonów", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_REWARD_body", "source": "No rewards obtained.", "translation": "Nie zdobyto nagród.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_TITLE_body", "source": "{0} Failed", "translation": "{0} — niepowodzenie", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_FAIL_body", "source": "Subjugation Fail", "translation": "Podbój nieudany", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_BASIC_SCORE_body", "source": "Clear Points", "translation": "Punkty za ukończenie", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DEATH_body", "source": "Total Deaths", "translation": "Łączna liczba zgonów", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_DIFFICULTY_BONUS_body", "source": "Difficulty Bonus", "translation": "Premia za poziom trudności", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_NOCONTRIBUTE_body", "source": "Cannot receive reward and Rank Points due to </>insufficient Contribution<insufficient>.", "translation": "Nie otrzymasz nagrody ani punktów rankingowych z powodu </>niewystarczającego wkładu<insufficient>.", "status": "draft"}
+{"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_REWARD_body", "source": "Obtained Rewards", "translation": "Otrzymane nagrody", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TIME_body", "source": "Clear time", "translation": "Czas ukończenia", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TITLE_body", "source": "{0} Complete", "translation": "Ukończono: {0}", "status": "draft"}
 {"id": "String_UI_SUPPRESSION_RESULT_SUCCESS_TOTAL_SCORE_body", "source": "Final Score", "translation": "Wynik końcowy", "status": "draft"}
@@ -58,7 +82,7 @@
 {"id": "String_UI_Server_Transfer_Completed_Button_OK_body", "source": "Confirm", "translation": "Potwierdź", "status": "draft"}
 {"id": "String_UI_Server_Transfer_Completed_Notice_Push_body", "source": "<ref style=\"insufficient\" attr=\"color\">Switch push notifications to ON in Settings > Notifications to receive notifications.</>", "translation": "<ref style=\"insufficient\" attr=\"color\">Aby otrzymywać powiadomienia, włącz powiadomienia push w Ustawienia > Powiadomienia.</>", "status": "draft"}
 {"id": "String_UI_Server_Transfer_Completed_Notice_Title_body", "source": "Server Transfer Application", "translation": "Wniosek o transfer serwera", "status": "draft"}
-{"id": "String_UI_Server_Transfer_Completed_Notice_body", "source": "Server transfer application complete.\n\nYou cannot play the game while the transfer is in progress.\n\nThe transfer will proceed based on the order of applications received,\nand you will be notified via push notifications once completed.", "translation": "Wniosek o transfer serwera został złożony.\n\nPodczas transferu nie możesz grać.\n\nTransfery będą realizowane w kolejności otrzymania wniosków.\nPo zakończeniu otrzymasz powiadomienie push.", "status": "draft"}
+{"id": "String_UI_Server_Transfer_Completed_Notice_body", "source": "Server transfer application complete.\n\nYou cannot play the game while the transfer is in progress.\n\nThe transfer will proceed based on the order of applications received. You can log in again once the transfer is complete.", "translation": "Wniosek o transfer serwera został złożony.\n\nPodczas transferu nie możesz grać.\n\nTransfery będą realizowane w kolejności otrzymania wniosków. Po zakończeniu transferu możesz ponownie się zalogować.", "status": "draft"}
 {"id": "String_UI_Server_Transfer_Not_Available_Char_body", "source": "Cannot transfer server in current state. Please check the server transfer period.\nServer transfer is unavailable while in the Abyss, dungeons, and several other areas.", "translation": "Nie można teraz przenieść serwera. Sprawdź okres transferu.\nTransfer serwera jest niedostępny w Otchłani, lochach i niektórych innych obszarach.", "status": "draft"}
 {"id": "String_UI_Server_Transfer_Select_Button_body", "source": "Select Server", "translation": "Wybierz serwer", "status": "draft"}
 {"id": "String_UI_Server_Transfer_Select_Server_Char_body", "source": "Select the server you wish to transfer to.", "translation": "Wybierz serwer docelowy.", "status": "draft"}
@@ -70,7 +94,7 @@
 {"id": "String_UI_Server_Transfer_Transfer_Available_Text_body", "source": "Transfer Available", "translation": "Dostępny transfer", "status": "draft"}
 {"id": "String_UI_TARGETINFO_TEXT_TRIBALISTIC_body", "source": "Tribal Kinship", "translation": "Pokrewieństwo plemienne", "status": "draft"}
 {"id": "String_UI_TELEPORTARTIFACT_BUTTON_TELEPORT_body", "source": "Teleport", "translation": "Teleportuj", "status": "draft"}
-{"id": "String_UI_TELEPORTARTIFACT_ENGRAVE_INFO_body", "source": "Kibelisk Interactions", "translation": "Interakcje z Kibieliskiem", "status": "draft"}
+{"id": "String_UI_TELEPORTARTIFACT_ENGRAVE_INFO_body", "source": "Kibelisk Interactions", "translation": "Interakcje z Kibeliskiem", "status": "draft"}
 {"id": "String_UI_TELEPORTARTIFACT_ENGRAVE_MISSION_TITLE_body", "source": "Binding Method", "translation": "Sposób związania", "status": "draft"}
 {"id": "String_UI_TELEPORTARTIFACT_STATE_ENGRAVED_body", "source": "Bind Complete", "translation": "Związano", "status": "draft"}
 {"id": "String_UI_TELEPORTARTIFACT_STATE_MISSION_INCOMPLETE_body", "source": "Binding Incomplete", "translation": "Nieukończone wiązanie", "status": "draft"}
@@ -208,8 +232,8 @@
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_018_body", "source": "Wind Damage (AoE)", "translation": "Obrażenia od wiatru (obszarowe)", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_019_body", "source": "HP Regen A", "translation": "Regeneracja PŻ A", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_020_body", "source": "HP Regen B", "translation": "Regeneracja PŻ B", "status": "draft"}
-{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_021_body", "source": "Impact-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu uderzenie", "status": "draft"}
-{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_022_body", "source": "Ailment-type-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu dolegliwość", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_021_body", "source": "Impact-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu uderzeniowego", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_022_body", "source": "Ailment-type-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu dolegliwości", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_023_body", "source": "Mental-type-type Status Effect Shield", "translation": "Tarcza przeciw efektom osłabiającym typu mentalnego", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_024_body", "source": "Defense Up", "translation": "Zwiększenie obrony", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_025_body", "source": "Evasion Up", "translation": "Zwiększenie uniku", "status": "draft"}
@@ -220,31 +244,7 @@
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_030_body", "source": "Critical Up", "translation": "Premia do trafień krytycznych", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_GODSTONE_ABNORMAL_031_body", "source": "Enmity Boost", "translation": "Zwiększenie wrogości", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_OPTIONS_TITLE_body", "source": "Sorting Options", "translation": "Opcje sortowania", "status": "draft"}
-{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_ASC_body", "source": "By Grade Ascending", "translation": "Rosnąco według rangi", "status": "draft"}
-{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_DESC_body", "source": "By Grade Descending", "translation": "Malejąco według rangi", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_ASC_body", "source": "By Grade Ascending", "translation": "Rosnąco według jakości", "status": "draft"}
+{"id": "String_UI_TRADE_FILTER_OPTION_GRADE_DESC_body", "source": "By Grade Descending", "translation": "Malejąco według jakości", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_RACE_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
 {"id": "String_UI_TRADE_FILTER_RACE_DARK_body", "source": "Asmodians", "translation": "Asmodianie", "status": "draft"}
-{"id": "String_UI_TRADE_FILTER_RACE_LIGHT_body", "source": "Elyos", "translation": "Elyosi", "status": "draft"}
-{"id": "String_UI_TRADE_GRADE_FILTER_TITLE_body", "source": "Grade", "translation": "Ranga", "status": "draft"}
-{"id": "String_UI_TRADE_ITEMLIST_MY_ITEM_TEXT_body", "source": "Items Registered by Me", "translation": "Przedmioty wystawione przeze mnie", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_INFO_body", "source": "Item", "translation": "Przedmiot", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_OPTION_body", "source": "Properties", "translation": "Właściwości", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_EACH_NUMBER_body", "source": "{0} per item", "translation": "{0} za sztukę", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_EACH_body", "source": "Sale Price Per Item", "translation": "Cena sprzedaży za sztukę", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_LOW_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_LOW_body", "source": "Lowest Sale Price", "translation": "Najniższa cena sprzedaży", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_PRICE_body", "source": "Sale Price", "translation": "Cena sprzedaży", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_TIME_END_body", "source": "Period has expired", "translation": "Okres minął", "status": "draft"}
-{"id": "String_UI_TRADE_ITEM_TIME_body", "source": "Time Left", "translation": "Pozostały czas", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_BOOKMARK_ENCHANT_INFO_NUMBER_body", "source": "+{0}", "translation": "+{0}", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_BOOKMARK_ENCHANT_INFO_body", "source": "Max Enhance", "translation": "Maks. wzmocnienie", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_ALL_body", "source": "All", "translation": "Wszystkie", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BEFORE_BTN_body", "source": "Previous", "translation": "Poprzednia", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ALL_BTN_body", "source": "Purchase Selection {0}/5", "translation": "Kup zaznaczone {0}/5", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_CONFIRM_BTN_body", "source": "Purchase", "translation": "Kup", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ITEM_COUNT_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_ITEM_COUNT_body", "source": "Purchase Quantity", "translation": "Liczba zakupów", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_NOT_ENOUGH_MONEY_BTN_body", "source": "Purchase Quna", "translation": "Kup Quna", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_NOT_ENOUGH_MONEY_TEXT_body", "source": "Insufficient funds to purchase.", "translation": "Za mało środków na zakup.", "status": "draft"}
-{"id": "String_UI_TRADE_MAIN_CATEGORY_BUY_PRICE_NUMBER_body", "source": "{0}", "translation": "{0}", "status": "draft"}

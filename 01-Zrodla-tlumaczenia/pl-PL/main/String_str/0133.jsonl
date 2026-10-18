@@ -1,250 +1,250 @@
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_9_body","source":"Examine Hilsrother's chest of valuables","translation":"Zbadaj skrzynię kosztowności Hilsrothera","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ003_Title_1_body","source":"Investigate the Marauders Storage","translation":"Zbadaj magazyn maruderów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_1_body","source":"Defeat Hilsrother Marauders","translation":"Pokonaj maruderów Hilsrother","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_2_body","source":"Rescue the imprisoned Shugo","translation":"Uwolnij uwięzionego Shugo","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_3_body","source":"Rescue the Shugo hiding in the chest","translation":"Uwolnij Shugo ukrywającego się w skrzyni","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_4_body","source":"Rescue the Shugo hiding in the bush","translation":"Uwolnij Shugo ukrywającego się w krzakach","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_5_body","source":"Find and rescue the hidden Shugo","translation":"Odnajdź i uwolnij ukrytego Shugo","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_6_body","source":"Go to the Contaminated Spring entrance","translation":"Udaj się do wejścia do skażonego źródła","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ004_Title_1_body","source":"Rescue the Tsenka Merchant Members","translation":"Uratuj członków gildii kupieckiej Tsenka","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_10_body","source":"Talk to Caelid","translation":"Porozmawiaj z Caelidem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_1_1_body","source":"Defeat the suspicious faction","translation":"Pokonaj podejrzaną frakcję","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_1_2_body","source":"Destroy the Suspicious Rooting Device","translation":"Zniszcz podejrzane urządzenie do pobierania korzeni","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_2_body","source":"Wait until Luteros arrives","translation":"Poczekaj na przybycie Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_3_body","source":"Check the refugee's condition","translation":"Sprawdź stan uchodźcy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_4_body","source":"Talk to Eiron Refugee","translation":"Porozmawiaj z uchodźcą Eiron","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_5_body","source":"Proceed inside the Watchtower Camp","translation":"Idź dalej w głąb obozu przy wieży strażniczej","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_6_body","source":"Defeat the suspicious faction","translation":"Pokonaj podejrzaną frakcję","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_7_body","source":"Defeat Suspicious Ruin Overseer","translation":"Pokonaj podejrzanego nadzorcę ruin","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_8_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_9_body","source":"Talk via Selvis","translation":"Porozmawiaj przez Selvis","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ010_Title_1_body","source":"Find Caelid and Nania's whereabouts","translation":"Ustal, gdzie przebywają Caelid i Nania","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_1_body","source":"Examine the Neglected Corpses","translation":"Zbadaj porzucone zwłoki","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_2_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_3_body","source":"Investigate the Artifact Fragment","translation":"Zbadaj fragment artefaktu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_4_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_5_body","source":"Go with others","translation":"Wyrusz z pozostałymi","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_6_body","source":"Defeat Arca","translation":"Pokonaj Arcę","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_7_body","source":"Defeat remaining Arca","translation":"Pokonaj pozostałych członków Arca","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_8_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ020_Title_1_body","source":"Investigate the traces of the fall","translation":"Zbadaj ślady upadku","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_1_body","source":"Go to Kion","translation":"Udaj się do Kiona","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_2_body","source":"Join Nikos","translation":"Dołącz do Nikosa","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_3_body","source":"Talk to Kion","translation":"Porozmawiaj z Kionem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_4_body","source":"Investigate the Artifact Fragment","translation":"Zbadaj fragment artefaktu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_5_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ021_Title_1_body","source":"Investigate the artifact in the Abandoned Observatory","translation":"Zbadaj artefakt w Opuszczonym Obserwatorium","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_1_body","source":"Go with Caelid","translation":"Wyrusz z Caelidem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_2_body","source":"Talk to Kion","translation":"Porozmawiaj z Kionem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_3_body","source":"Purify the Orb with the Purifying Helix","translation":"Oczyść Kulę za pomocą Oczyszczającej Helisy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_4_body","source":"Talk to Kion","translation":"Porozmawiaj z Kionem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ022_Title_1_body","source":"Check the Purifying Helix in the Parched Rock Cave","translation":"Sprawdź Oczyszczającą Helisę w Jaskini Spękanej Skały","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_1_body","source":"Track the stench into the fissure","translation":"Podążaj za odorem w głąb rozpadliny","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_2_body","source":"Talk to Kion inside","translation":"Porozmawiaj z Kionem w środku","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_3_body","source":"Take cover and assess the situation","translation":"Ukryj się i oceń sytuację","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_4_body","source":"Defeat Lepharist","translation":"Pokonaj Lepharystę","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_5_body","source":"Defeat the Lepharist reinforcements","translation":"Pokonaj posiłki Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_6_body","source":"Talk to Kion","translation":"Porozmawiaj z Kionem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ030_Title_1_body","source":"Investigate the Foul Fissure","translation":"Zbadaj Plugawą Rozpadlinę","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_10_body","source":"Read the Lepharist Experiment Report","translation":"Przeczytaj raport z eksperymentu Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_11_body","source":"Investigate another Lepharist's records","translation":"Zbadaj kolejne zapiski Lepharysty","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_12_body","source":"Read Lepharist's Journal","translation":"Przeczytaj dziennik Lepharysty","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_13_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_14_body","source":"Install the Odyle Video Converter at the right spot","translation":"Zainstaluj konwerter wideo Odyle we właściwym miejscu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_15_body","source":"Check the contents of the Odyle Video Converter","translation":"Sprawdź zawartość konwertera wideo Odyle","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_16_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_1_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_2_body","source":"Defeat Lepharist","translation":"Pokonaj Lepharystę","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_3_body","source":"Examine the clue in the Bookshelf","translation":"Zbadaj wskazówkę w regale z książkami","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_4_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_5_body","source":"Check the Mysterious Document","translation":"Sprawdź tajemniczy dokument","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_6_body","source":"Examine the Suspicious Bookshelf","translation":"Zbadaj podejrzany regał z książkami","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_7_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_8_body","source":"Say the code phrase in front of the Suspicious Bookshelf","translation":"Wypowiedz hasło przed podejrzanym regałem z książkami","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_9_body","source":"Check the record in the hidden space","translation":"Sprawdź zapiski w ukrytym pomieszczeniu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ031_Title_1_body","source":"Search the Lepharist Hideout","translation":"Przeszukaj kryjówkę Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_10_body","source":"Escape toward the entrance to avoid the spreading flames","translation":"Uciekaj w stronę wejścia, by uniknąć rozprzestrzeniających się płomieni","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_1_body","source":"Eliminate Lepharists","translation":"Wyeliminuj Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_2_body","source":"Go downstairs","translation":"Zejdź na dół","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_3_body","source":"Talk to Luteros","translation":"Porozmawiaj z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_4_body","source":"Examine Lepharist Supplies","translation":"Zbadaj zaopatrzenie Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_5_body","source":"Talk to Luteros","translation":"Porozmawiaj z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_6_body","source":"Obtain the Powder Keg","translation":"Zdobądź beczkę prochu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_7_body","source":"Install the Powder Keg upstairs","translation":"Umieść beczkę prochu na piętrze","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_8_body","source":"Obtain bombs From the Bomb Chest","translation":"Zdobądź bomby ze skrzyni na bomby","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_9_body","source":"Throw the bomb into the Powder Keg","translation":"Wrzuć bombę do beczki prochu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ032_Title_1_body","source":"Cause a disturbance in the Unidentified Workshop","translation":"Wywołaj zamieszanie w niezidentyfikowanym warsztacie","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ040_1_Desc_1_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ040_1_Title_1_body","source":"Discuss future plans with Chloris","translation":"Omów dalsze plany z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ040_2_Desc_1_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ040_2_Title_1_body","source":"Discuss the journey ahead with Chloris","translation":"Omów dalszą podróż z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_1_body","source":"Deliver excavation tools","translation":"Dostarcz narzędzia do wykopalisk","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_2_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_3_body","source":"Defeat the test subjects","translation":"Pokonaj obiekty testowe","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_4_body","source":"Talk to Tiasiris","translation":"Porozmawiaj z Tiasiris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_5_body","source":"Talk to Caelid","translation":"Porozmawiaj z Caelidem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_6_body","source":"Talk to Chloris","translation":"Porozmawiaj z Chloris","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ050_Title_1_body","source":"Attempt to enter the underground laboratory","translation":"Spróbuj wejść do podziemnego laboratorium","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_1_body","source":"Discuss the plan with Luteros","translation":"Omów plan z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_2_body","source":"Obtain bombs From the Bomb Chest","translation":"Zdobądź bomby ze skrzyni na bomby","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_3_body","source":"Talk to Luteros","translation":"Porozmawiaj z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_4_body","source":"Plant the bombs inside the annex","translation":"Podłóż bomby w przybudówce","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_5_body","source":"Talk via Selvis","translation":"Porozmawiaj przez Selvis","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_6_body","source":"Go outside the annex","translation":"Wyjdź z przybudówki","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_7_body","source":"Join Luteros in a safe place","translation":"Dołącz do Luteros w bezpiecznym miejscu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ051_Title_1_body","source":"Carry out the operation with Luteros","translation":"Przeprowadź operację razem z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ052_Desc_1_body","source":"Operate the Biometric Device","translation":"Uruchom urządzenie biometryczne","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ052_Desc_2_body","source":"Talk to Luteros","translation":"Porozmawiaj z Luteros","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_B_Layer_HQ052_Title_1_body","source":"Remove the Lepharist Barrier Gate","translation":"Usuń barierę Lepharystów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_1_body","source":"Defeat the Kerubar attacking the members","translation":"Pokonaj Kerubara atakującego członków grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_2_body","source":"Talk to the Dawn Legionnaire","translation":"Porozmawiaj z żołnierzem Legionu Świtu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_3_body","source":"Search the remnants of the first batch of supplies","translation":"Przeszukaj pozostałości pierwszej partii zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_4_body","source":"Defeat the Kerubar and Kerubian","translation":"Pokonaj Kerubara i Kerubiana","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_5_body","source":"Search the remnants of the second batch of supplies","translation":"Przeszukaj pozostałości drugiej partii zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_6_body","source":"Defeat Kerubar and Kerubian","translation":"Pokonaj Kerubara i Kerubiana","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_7_body","source":"Search the remnants of the final batch of supplies","translation":"Przeszukaj pozostałości ostatniej partii zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Desc_8_body","source":"Talk to Robin","translation":"Porozmawiaj z Robinem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ001_Title_1_body","source":"Search Daminu Forest with Robin","translation":"Przeszukaj z Robinem Daminu Forest","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_10_body","source":"Treat the fallen member","translation":"Opatrz poległego członka grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_11_body","source":"Talk to the awakened member","translation":"Porozmawiaj z przebudzonym członkiem grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_12_body","source":"Defeat the Balaur pursuit team","translation":"Pokonaj oddział pościgowy Balaurów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_13_body","source":"Defeat the additional Balaur pursuit team","translation":"Pokonaj dodatkowy oddział pościgowy Balaurów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_14_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_15_body","source":"Talk via Selvis","translation":"Porozmawiaj przez Selvis","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_16_body","source":"Go to the Windstream","translation":"Udaj się do Strumienia Wiatru","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_17_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_1_body","source":"Go to Nania","translation":"Udaj się do Nanii","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_2_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_3_body","source":"Search the surroundings while following Nania","translation":"Przeszukaj okolicę, podążając za Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_4_body","source":"Search the fallen member","translation":"Przeszukaj poległego członka grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_5_body","source":"Go toward the source of the sound","translation":"Udaj się w stronę źródła dźwięku","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_6_body","source":"Talk to the surviving member","translation":"Porozmawiaj z ocalałym członkiem grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_7_body","source":"Search for surviving members","translation":"Poszukaj ocalałych członków grupy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_8_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Desc_9_body","source":"Collect Fenix Eggs","translation":"Zbierz jaja Fenix","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ002_Title_1_body","source":"Search the sky island with Nania","translation":"Przeszukaj Podniebną Wyspę razem z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ003_Desc_1_body","source":"Defeat Kobolds","translation":"Pokonaj koboldy","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ003_Desc_2_body","source":"Check the supply chest","translation":"Sprawdź skrzynię z zaopatrzeniem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ003_Desc_3_body","source":"Check the other supply chest","translation":"Sprawdź drugą skrzynię z zaopatrzeniem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ003_Title_1_body","source":"Seize the base in front of Migzatu Brigade Supply Depot","translation":"Zajmij bazę przed magazynem zaopatrzenia Brygady Migzatu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_10_body","source":"Open the Supply Depot Storage Door","translation":"Otwórz drzwi magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_11_body","source":"Go outside the storage door","translation":"Wyjdź przez drzwi magazynu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_12_body","source":"Avoid the traps and go outside","translation":"Omiń pułapki i wyjdź na zewnątrz","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_13_body","source":"Go to the Balaur Alarm Device","translation":"Udaj się do urządzenia alarmowego Balaurów","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_1_body","source":"Block the Balaur in front of the first device","translation":"Zatrzymaj Balaurów przed pierwszym urządzeniem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_2_body","source":"Block the Balaur in front of the second device","translation":"Zatrzymaj Balaurów przed drugim urządzeniem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_3_body","source":"Block the Balaur in front of the third device","translation":"Zatrzymaj Balaurów przed trzecim urządzeniem","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_15_body","source":"Go outside the supply depot","translation":"Wyjdź z magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_16_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_1_body","source":"Go inside the supply depot with Nania","translation":"Wejdź z Nanią do magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_2_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_3_body","source":"Defeat the patrolling Draconute","translation":"Pokonaj patrolującego Drakonida","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_4_body","source":"Go inside the supply depot with Nania","translation":"Wejdź z Nanią do magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_5_body","source":"Defeat the Draconute patrolling near the Storage","translation":"Pokonaj Drakonida patrolującego w pobliżu magazynu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_6_body","source":"Open the Supply Depot Storage Door","translation":"Otwórz drzwi magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_7_body","source":"Talk to the Dawn Legionnaire","translation":"Porozmawiaj z żołnierzem Legionu Świtu","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_8_body","source":"Check the Drakana in the Supply Depot Chests","translation":"Sprawdź Drakanę w skrzyniach magazynu zaopatrzenia","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Desc_9_body","source":"Talk to Nania","translation":"Porozmawiaj z Nanią","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Title_1_body","source":"Search inside the Brigade Supply Depot","translation":"Przeszukaj magazyn zaopatrzenia Brygady","status":"draft"}
-{"id":"String_STR_MapEvent_World_L_Starter_HQ004_Title_2_body","source":"Escape the Brigade Supply Depot","translation":"Ucieknij z magazynu zaopatrzenia Brygady","status":"draft"}
-{"id":"String_STR_Map_Abyss_Battlefield_A_01_body","source":"Abyss Rift Zone","translation":"Strefa Szczelin Otchłani","status":"draft"}
-{"id":"String_STR_Map_Abyss_Battlefield_A_02_body","source":"Abyss Rift Zone","translation":"Strefa Szczelin Otchłani","status":"draft"}
-{"id":"String_STR_Map_Abyss_F_A_body","source":"Abyss Reshanta","translation":"Otchłań Reshanty","status":"draft"}
-{"id":"String_STR_Map_Abyss_Reshanta_A_body","source":"Chaotic Lower Reshanta","translation":"Chaotyczna Dolna Reshanta","status":"draft"}
-{"id":"String_STR_Map_Abyss_Reshanta_B_body","source":"Chaotic Middle Reshanta","translation":"Chaotyczna Środkowa Reshanta","status":"draft"}
-{"id":"String_STR_Map_Abyss_Reshanta_C_body","source":"Chaotic Middle Reshanta","translation":"Chaotyczna Środkowa Reshanta","status":"draft"}
-{"id":"String_STR_Map_Abyss_Reshanta_D_Desc_body","source":"This newly observed region at the edge of the Abyss has been designated as the 'upper layer'. Investigation suggests that it is composed of fragments from the 'Bloodflame Nebula'. Once a part of the upper Abyss, these fragments were torn away from the nebula and displaced here by the impact of the Second Great Catastrophe.\n\nObserved within the region are remnants of the fortresses Krotan, Dukysas, and La Miren—as well as Ereshkigal’s brigade. The entrance to Reshanta's Eye is yet to be found, however. The central island is overgrown with clusters of thorn trees mutated by Drana and has been dubbed the 'Red Thorn Crown Isle.'\n\nInitial surveys and attempts to access the area have been delayed due to its location at the outer edge of the Abyss, and the presence of a peculiar force field that repels Daeva of considerable strength. This field continues to hinder a full-scale investigation, and some theorize it may be a barrier established to protect a specific target.","translation":"Ten nowo odkryty region na skraju Otchłani nazwano „górną warstwą”. Z badań wynika, że składa się z fragmentów „Mgławicy Krwawego Płomienia”. Niegdyś należały one do górnej Otchłani, lecz w wyniku uderzenia Drugiej Wielkiej Katastrofy zostały oderwane od mgławicy i przeniesione w to miejsce.\n\nW regionie zaobserwowano pozostałości fortec Krotan, Dukysas i La Miren oraz brygady Ereshkigala. Nie odnaleziono jeszcze wejścia do Oka Reshanty. Centralną wyspę porastają skupiska ciernistych drzew zmutowanych przez Dranę; nazwano ją „Wyspą Korony Czerwonych Cierni”.\n\nWstępne badania i próby dotarcia do tego obszaru opóźnia jego położenie na zewnętrznym skraju Otchłani oraz obecność osobliwego pola siłowego, które odpycha potężnych Daevów. Pole nadal uniemożliwia przeprowadzenie pełnych badań. Niektórzy przypuszczają, że jest barierą chroniącą konkretny cel.","status":"draft"}
-{"id":"String_STR_Map_Abyss_Reshanta_D_body","source":"Chaotic Upper Reshanta","translation":"Chaotyczna Górna Reshanta","status":"draft"}
-{"id":"String_STR_Map_Abyss_Test_body","source":"Abyss Test Map","translation":"Mapa testowa Otchłani","status":"draft"}
-{"id":"String_STR_Map_Abyss_body","source":"Abyss","translation":"Otchłań","status":"draft"}
-{"id":"String_STR_Map_AncientCityRuA_body","source":"Garzykan Observatory","translation":"Obserwatorium Garzykan","status":"draft"}
-{"id":"String_STR_Map_AncientCityRuB_body","source":"Underground Temple","translation":"Podziemna Świątynia","status":"draft"}
-{"id":"String_STR_Map_AncientCityRuC_body","source":"Garzykan Fortress","translation":"Twierdza Garzykana","status":"draft"}
-{"id":"String_STR_Map_Arkanis_1_body","source":"Shattered Floating Temple","translation":"Zniszczona Pływająca Świątynia","status":"draft"}
-{"id":"String_STR_Map_Arkanis_2_body","source":"Collapsed Corridor","translation":"Zawalony korytarz","status":"draft"}
-{"id":"String_STR_Map_Arkanis_3_body","source":"Void Altar","translation":"Ołtarz Pustki","status":"draft"}
-{"id":"String_STR_Map_Arkanis_4_body","source":"Slanted Plaza","translation":"Pochyły plac","status":"draft"}
-{"id":"String_STR_Map_Arkanis_body","source":"Shattered Arkanis","translation":"Zniszczone Arkanis","status":"draft"}
-{"id":"String_STR_Map_Art_Test_body","source":"Art Test Map","translation":"Mapa testowa grafiki","status":"draft"}
-{"id":"String_STR_Map_BakronIsland_body","source":"Vakron Sky Island","translation":"Podniebna Wyspa Vakron","status":"draft"}
-{"id":"String_STR_Map_Battlefield_A_1_body","source":"Odyle Shard Cradle","translation":"Kolebka Odyle Shard","status":"draft"}
-{"id":"String_STR_Map_Battlefield_B_1_Blue_body","source":"Frost Storm Fortress","translation":"Twierdza Lodowej Burzy","status":"draft"}
-{"id":"String_STR_Map_Battlefield_B_1_Red_body","source":"Fire Storm Fortress","translation":"Twierdza Ognistej Burzy","status":"draft"}
-{"id":"String_STR_Map_Battlefield_B_1_body","source":"Stormslumber Snowfield","translation":"Śnieżne Pole Burzowego Snu","status":"draft"}
-{"id":"String_STR_Map_Battlefield_C_1_body","source":"Sandstorm Temple","translation":"Świątynia Piaskowej Burzy","status":"draft"}
-{"id":"String_STR_Map_BlackShardZone_A_body","source":"Kration Conflict Zone","translation":"Strefa Konfliktu Kration","status":"draft"}
-{"id":"String_STR_Map_BlackShardZone_B_body","source":"Lonely Island","translation":"Samotna Wyspa","status":"draft"}
-{"id":"String_STR_Map_BlackShardZone_C_body","source":"Kibelium Fragment","translation":"Fragment Kibelium","status":"draft"}
-{"id":"String_STR_Map_BlackShardZone_D_body","source":"Abandoned Island","translation":"Opuszczona Wyspa","status":"draft"}
-{"id":"String_STR_Map_BlueBreathIsle_2_body","source":"Azure Primeval Forest","translation":"Lazurowy Pradawny Las","status":"draft"}
-{"id":"String_STR_Map_BlueBreathIsle_3_body","source":"Mushroom Colony","translation":"Kolonia Grzybów","status":"draft"}
-{"id":"String_STR_Map_BlueBreathIsle_4_body","source":"Moonlit Land","translation":"Księżycowa Kraina","status":"draft"}
-{"id":"String_STR_Map_BlueBreathIsle_5_body","source":"Moonlit Land","translation":"Księżycowa Kraina","status":"draft"}
-{"id":"String_STR_Map_BlueBreathIsle_body","source":"Azure Breath Island","translation":"Wyspa Lazurowego Oddechu","status":"draft"}
-{"id":"String_STR_Map_CoastalCave_body","source":"Coastal Cave","translation":"Nadmorska Jaskinia","status":"draft"}
-{"id":"String_STR_Map_ConqueredTerritory_L_R1_Desc_body","source":"A gathering place for deserters from the Illusion Cavaliers. The despair caused by the destruction of the Illusion Cavaliers caused many to abandon their pride as Daeva and leave the fortress. Now they are harsh and cruel, unrecognizable as the Cavaliers they once were.","translation":"Miejsce zbiórki dezerterów z Illusion Cavaliers. Rozpacz po zniszczeniu Illusion Cavaliers sprawiła, że wielu porzuciło dumę Daevy i opuściło fortecę. Teraz są surowi i okrutni, nie przypominają już dawnych Kawalerzystów.","status":"draft"}
-{"id":"String_STR_Map_ConqueredTerritory_L_R1_body","source":"Deserter Encampment","translation":"Obóz Dezerterów","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_2_body","source":"Floating Dimension","translation":"Pływający Wymiar","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_3_body","source":"Floating Dimension","translation":"Pływający Wymiar","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_4_body","source":"Distorted Spiral","translation":"Zniekształcona Spirala","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_5_body","source":"Distorted Crystal Cave","translation":"Zniekształcona Kryształowa Jaskinia","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_6_body","source":"Distorted Crystal Cave","translation":"Zniekształcona Kryształowa Jaskinia","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_7_body","source":"Collapsed Cradle","translation":"Zawalona Kolebka","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_8_body","source":"Collapsed Cradle","translation":"Zawalona Kolebka","status":"draft"}
-{"id":"String_STR_Map_CradleNihility_body","source":"Cradle of Nihility","translation":"Kolebka Nicości","status":"draft"}
-{"id":"String_STR_Map_DaevaCitadel_1_body","source":"Hall of Indomitability","translation":"Sala Niezłomności","status":"draft"}
-{"id":"String_STR_Map_DaevaCitadel_2_body","source":"Tarnished Ramparts","translation":"Zmatowiałe Wały","status":"draft"}
-{"id":"String_STR_Map_DaevaCitadel_3_body","source":"Execution's Crossing","translation":"Przeprawa Egzekucji","status":"draft"}
-{"id":"String_STR_Map_DaevaCitadel_4_body","source":"Defiled Hall of Honor","translation":"Zbezczeszczona Sala Honoru","status":"draft"}
-{"id":"String_STR_Map_DaevaCitadel_body","source":"Citadel of the Fallen Daeva","translation":"Cytadela Poległego Daevy","status":"draft"}
-{"id":"String_STR_Map_DeadDramataNest_body","source":"Dying Dramata's Nest","translation":"Gniazdo Dying Dramata's","status":"draft"}
-{"id":"String_STR_Map_Design_Test001_body","source":"Planning Test Map","translation":"Mapa testowa projektu","status":"draft"}
-{"id":"String_STR_Map_DestroyedDebris_A_body","source":"Dusk Battlefield","translation":"Pole Bitwy o Zmierzchu","status":"draft"}
-{"id":"String_STR_Map_DestroyedDebris_B_body","source":"Shade Island","translation":"Wyspa Cienia","status":"draft"}
-{"id":"String_STR_Map_DestroyedDebris_C_body","source":"Weathered Outcrop","translation":"Występ skalny Weathered","status":"draft"}
-{"id":"String_STR_Map_DestroyedDebris_D_body","source":"Exile Island","translation":"Wyspa Wygnańców","status":"draft"}
-{"id":"String_STR_Map_DeusCenter_body","source":"Deus Research Base","translation":"Baza Badawcza Deusa","status":"draft"}
-{"id":"String_STR_Map_Draconic_001_body","source":"Subjugation Closed","translation":"Subjugation Closed","status":"draft"}
-{"id":"String_STR_Map_Draconic_002_Design_Boss1_Subzone_body","source":"Courage Plaza","translation":"Plac Odwagi","status":"draft"}
-{"id":"String_STR_Map_Draconic_002_Design_Boss2_Subzone_body","source":"Fighting Spirit Plaza","translation":"Plac Waleczności","status":"draft"}
-{"id":"String_STR_Map_Draconic_002_Design_Boss3_Subzone_body","source":"Fury Plaza","translation":"Plac Furii","status":"draft"}
-{"id":"String_STR_Map_Draconic_002_Design_Boss4_Subzone_body","source":"Annihilation Plaza","translation":"Plac Zagłady","status":"draft"}
-{"id":"String_STR_Map_Draconic_002_body","source":"Beritra Brigade Fortress","translation":"Twierdza Brygady Beritry","status":"draft"}
-{"id":"String_STR_Map_Draconic_003_body","source":"(Draft Level)Subjugation_003","translation":"(Draft Level)Subjugation_003","status":"draft"}
-{"id":"String_STR_Map_Draconic_004_body","source":"Orcus's Grave","translation":"Grób Orcusa","status":"draft"}
-{"id":"String_STR_Map_Draconic_005_Boss_Subzone_body","source":"Fafnite Forge Depths","translation":"Głębie Kuźni Fafnitu","status":"draft"}
-{"id":"String_STR_Map_Draconic_005_body","source":"Fafnite Forge","translation":"Kuźnia Fafnitu","status":"draft"}
-{"id":"String_STR_Map_Draconic_006_body","source":"(Draft Level)Subjugation_006","translation":"(Draft Level)Subjugation_006","status":"draft"}
-{"id":"String_STR_Map_Draconic_007_body","source":"(Draft Level)Subjugation_007","translation":"(Draft Level)Subjugation_007","status":"draft"}
-{"id":"String_STR_Map_Draupnir_body","source":"Draupnir","translation":"Draupnir","status":"draft"}
-{"id":"String_STR_Map_DreamCrossroad_body","source":"Dream Crossroad","translation":"Skrzyżowanie Snów","status":"draft"}
-{"id":"String_STR_Map_DreamOfPain_body","source":"Dream of Torment","translation":"Sen Udręki","status":"draft"}
-{"id":"String_STR_Map_DungeonMaze_0001_body","source":"Fafnium Laboratory (tentative)","translation":"Laboratorium Fafnium (robocza nazwa)","status":"draft"}
-{"id":"String_STR_Map_DungeonRush_0001_body","source":"Abandoned Balaur Fortress (tentative)","translation":"Opuszczona Twierdza Balaurów (robocza nazwa)","status":"draft"}
-{"id":"String_STR_Map_DungeonTower_body","source":"Cavalier Training Ground","translation":"Teren Treningowy Kawalerzystów","status":"draft"}
-{"id":"String_STR_Map_DungeonWave_0001_body","source":"Daeva Bio-Research Base","translation":"Baza Badań Biologicznych nad Daevami","status":"draft"}
-{"id":"String_STR_Map_DungeonWave_body","source":"Wave Dungeon","translation":"Loch Wave","status":"draft"}
-{"id":"String_STR_Map_Dungeon_0003_body","source":"Nightmare","translation":"Koszmar","status":"draft"}
-{"id":"String_STR_Map_Dungeon_0004_body","source":"Narun's Dream","translation":"Sen Naruna","status":"draft"}
-{"id":"String_STR_Map_Dungeon_0005_body","source":"Subspace of Ascension","translation":"Podprzestrzeń Wstąpienia","status":"draft"}
-{"id":"String_STR_Map_Dungeon_0006_body","source":"Dream of Shattered Fragments","translation":"Sen Roztrzaskanych Fragmentów","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_01_body","source":"Nightmare Altar (Easy)","translation":"Ołtarz Koszmaru (łatwy)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_02_body","source":"Nightmare Altar (Normal)","translation":"Ołtarz Koszmaru (normalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_03_body","source":"Nightmare Altar (Hard)","translation":"Ołtarz Koszmaru (trudny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_04_body","source":"Nightmare Altar (Challenge)","translation":"Ołtarz Koszmaru (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_05_body","source":"Nightmare Altar (Insane)","translation":"Ołtarz Koszmaru (ekstremalny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_06_body","source":"Nightmare Altar (Hell)","translation":"Ołtarz Koszmaru (piekielny)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_001_body","source":"Nightmare Altar","translation":"Ołtarz Koszmaru","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_01_body","source":"Tyrant's Hideout (Easy)","translation":"Kryjówka Tyrana (łatwa)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_02_body","source":"Tyrant's Hideout (Normal)","translation":"Kryjówka Tyrana (normalna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_03_body","source":"Tyrant's Hideout (Hard)","translation":"Kryjówka Tyrana (trudna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_04_body","source":"Tyrant's Hideout (Challenge)","translation":"Kryjówka Tyrana (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_05_body","source":"Tyrant's Hideout (Insane)","translation":"Kryjówka Tyrana (ekstremalna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_06_body","source":"Tyrant's Hideout (Hell)","translation":"Kryjówka Tyrana (piekielna)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_002_body","source":"Tyrant's Hideout","translation":"Kryjówka Tyrana","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_01_body","source":"Sanctum of Loathing (Easy)","translation":"Sanktuarium Nienawiści (łatwe)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_02_body","source":"Sanctum of Loathing (Normal)","translation":"Sanktuarium Nienawiści (normalne)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_03_body","source":"Sanctum of Loathing (Hard)","translation":"Sanktuarium Nienawiści (trudne)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_04_body","source":"Sanctum of Loathing (Challenge)","translation":"Sanktuarium Nienawiści (wyzwanie)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_05_body","source":"Sanctum of Loathing (Insane)","translation":"Sanktuarium Nienawiści (ekstremalne)","status":"draft"}
-{"id":"String_STR_Map_Dungeon_Awaken_003_06_body","source":"Sanctum of Loathing (Hell)","translation":"Sanktuarium Nienawiści (piekielne)","status":"draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ005_Desc_5_body", "source": "Defeat field commander and supporters", "translation": "Pokonaj dowódcę polowego i jego stronników", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ005_Desc_6_body", "source": "Destroy the Balaur Alarm Device", "translation": "Zniszcz urządzenie alarmowe Balaurów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ005_Desc_7_body", "source": "Follow Caelid", "translation": "Podążaj za Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ005_Desc_8_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ005_Title_1_body", "source": "Share information safely", "translation": "Przekaż informacje w bezpieczny sposób", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_0_body", "source": "Go to the Dawn Legion Temporary Outpost", "translation": "Udaj się do Tymczasowego Posterunku Legionu Świtu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_1_body", "source": "Talk to Bao", "translation": "Porozmawiaj z Bao", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_2_body", "source": "Defeat the Aullaeu", "translation": "Pokonaj Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_3_body", "source": "Operate the Prison Door", "translation": "Uruchom drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_4_body", "source": "Talk to Bao", "translation": "Porozmawiaj z Bao", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_5_body", "source": "Retrieve the Wind Breeze Merchants Supplies", "translation": "Odzyskaj zaopatrzenie kupców Wietrznej Bryzy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ007_Desc_6_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_1_body", "source": "Enter the Southern Shugo Station", "translation": "Wejdź do Południowej Stacji Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_2_body", "source": "Defeat the Astin Mercenaries", "translation": "Pokonaj najemników Astin", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_3_body", "source": "Investigate the Mercenaries Weapon Rack", "translation": "Zbadaj stojak na broń najemników", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_4_body", "source": "Break the suspicious Pile of Chests", "translation": "Rozbij podejrzany stos skrzyń", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_5_body", "source": "Talk to Astin Mercenaries Watcher", "translation": "Porozmawiaj ze strażnikiem najemników Astin", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Desc_6_body", "source": "Talk to Arin", "translation": "Porozmawiaj z Arin", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ008_Title_1_body", "source": "Check the Southern Shugo Station", "translation": "Sprawdź Południową Stację Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_1_body", "source": "Defeat Aullaeu Forces", "translation": "Pokonaj siły Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_2_body", "source": "Talk to Holyaul", "translation": "Porozmawiaj z Holyaulem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_3_body", "source": "Open the prison door", "translation": "Otwórz drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_4_body", "source": "Defeat Additional Forces", "translation": "Pokonaj dodatkowe siły", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_5_body", "source": "Destroy the Aullaeu Lightning Totem", "translation": "Zniszcz totem błyskawic Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_6_body", "source": "Destroy Aullaeu Center Totem", "translation": "Zniszcz centralny totem Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Desc_7_body", "source": "Escape with Holyaul", "translation": "Ucieknij razem z Holyaulem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ009_Title_1_body", "source": "Rescue Holyaul", "translation": "Uratuj Holyaula", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_1_body", "source": "Talk to the guard", "translation": "Porozmawiaj ze strażnikiem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_2_body", "source": "Go near the Prison", "translation": "Udaj się w pobliże więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_3_body", "source": "Talk to the Kidnapped Shugo", "translation": "Porozmawiaj z porwanym Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_4_body", "source": "Talk to the Aullaeu Village Sentinel", "translation": "Porozmawiaj ze strażnikiem wioski Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_5_body", "source": "Defeat the nearby Aullaeu", "translation": "Pokonaj pobliskich Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_6_body", "source": "Defeat the incoming Aullaeu", "translation": "Pokonaj nadciągających Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_7_body", "source": "Defeat Aullaeu Totem Shaman", "translation": "Pokonaj szamana totemów Aullaeu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_8_body", "source": "Operate the Prison Door", "translation": "Uruchom drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Desc_9_body", "source": "Talk to the dying shugo", "translation": "Porozmawiaj z umierającym Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ010_Title_1_body", "source": "Rescue the Shugos", "translation": "Uratuj Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ011_Desc_1_1_body", "source": "Destroy the Dark Spiritstone", "translation": "Zniszcz Mroczny Kamień Ducha", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ011_Desc_1_2_body", "source": "Defeat {NPC:M_L1_HQ011_Specter_01_001}", "translation": "Pokonaj {NPC:M_L1_HQ011_Specter_01_001}", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ011_Desc_2_body", "source": "Go to the Dispatch Camp", "translation": "Udaj się do obozu wypadowego", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_A_Layer_HQ011_Title_1_body", "source": "Find Odite at the Canyon Campsite", "translation": "Znajdź Odite na Obozie w Kanionie", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ001_Desc_1_body", "source": "Inspect the Fallen Shugo", "translation": "Zbadaj poległego Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ001_Desc_2_body", "source": "Defeat the Hilsrother Marauders", "translation": "Pokonaj maruderów Hilsrother", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ001_Desc_3_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ001_Desc_4_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ001_Title_1_body", "source": "Rescue the Kidnapped Shugo", "translation": "Uratuj porwanego Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_10_body", "source": "Check the Marauders Storage Key", "translation": "Sprawdź klucz do magazynu maruderów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_1_body", "source": "Go inside", "translation": "Wejdź do środka", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_2_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_3_body", "source": "Destroy the Noisy Chest", "translation": "Zniszcz hałaśliwą skrzynię", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_4_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_5_body", "source": "Destroy the supply chest obstructing the view", "translation": "Zniszcz skrzynię z zaopatrzeniem zasłaniającą widok", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_6_body", "source": "Operate the Prison Door", "translation": "Uruchom drzwi więzienia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_7_body", "source": "Talk to Toya", "translation": "Porozmawiaj z Toyą", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_8_body", "source": "Defeat Hilsrother Elite Chaser", "translation": "Pokonaj elitarnego tropiciela Hilsrother", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Desc_9_body", "source": "Talk to Toya", "translation": "Porozmawiaj z Toyą", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ002_Title_1_body", "source": "Investigate the Hilsrother Marauders Outpost", "translation": "Zbadaj posterunek maruderów Hilsrother", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_10_body", "source": "Look at the Ruberein Water Vein Map closely", "translation": "Dokładnie przyjrzyj się mapie żył wodnych Ruberein", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_11_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_12_body", "source": "Talk to Hilsrother", "translation": "Porozmawiaj z Hilsrotherem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_13_body", "source": "Defeat Marauder Commander Hilsrother", "translation": "Pokonaj dowódcę maruderów Hilsrothera", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_14_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_1_body", "source": "Examine the Marauders supply chest", "translation": "Zbadaj skrzynię z zaopatrzeniem maruderów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_2_body", "source": "Examine the Marauders supply chest", "translation": "Zbadaj skrzynię z zaopatrzeniem maruderów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_3_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_4_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_5_body", "source": "Avoid the petrification traps to reach Dada", "translation": "Omijaj pułapki zamieniające w kamień, by dotrzeć do Dady", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_6_body", "source": "Talk to Moru", "translation": "Porozmawiaj z Moru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_7_body", "source": "Follow the Shugo's guidance to disarm the petrification traps", "translation": "Postępuj zgodnie ze wskazówkami Shugo, by rozbroić pułapki zamieniające w kamień", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_8_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Desc_9_body", "source": "Examine Hilsrother's chest of valuables", "translation": "Zbadaj skrzynię kosztowności Hilsrothera", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ003_Title_1_body", "source": "Investigate the Marauders Storage", "translation": "Zbadaj magazyn maruderów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_1_body", "source": "Defeat Hilsrother Marauders", "translation": "Pokonaj maruderów Hilsrother", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_2_body", "source": "Rescue the imprisoned Shugo", "translation": "Uwolnij uwięzionego Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_3_body", "source": "Rescue the Shugo hiding in the chest", "translation": "Uwolnij Shugo ukrywającego się w skrzyni", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_4_body", "source": "Rescue the Shugo hiding in the bush", "translation": "Uwolnij Shugo ukrywającego się w krzakach", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_5_body", "source": "Find and rescue the hidden Shugo", "translation": "Odnajdź i uwolnij ukrytego Shugo", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Desc_6_body", "source": "Go to the Contaminated Spring entrance", "translation": "Udaj się do wejścia do skażonego źródła", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ004_Title_1_body", "source": "Rescue the Tsenka Merchant Members", "translation": "Uratuj członków gildii kupieckiej Tsenka", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_10_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_1_1_body", "source": "Defeat the suspicious faction", "translation": "Pokonaj podejrzaną frakcję", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_1_2_body", "source": "Destroy the Suspicious Rooting Device", "translation": "Zniszcz podejrzane urządzenie do pobierania korzeni", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_2_body", "source": "Wait until Luteros arrives", "translation": "Poczekaj na przybycie Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_3_body", "source": "Check the refugee's condition", "translation": "Sprawdź stan uchodźcy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_4_body", "source": "Talk to Eiron Refugee", "translation": "Porozmawiaj z uchodźcą Eiron", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_5_body", "source": "Proceed inside the Watchtower Camp", "translation": "Idź dalej w głąb obozu przy wieży strażniczej", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_6_body", "source": "Defeat the suspicious faction", "translation": "Pokonaj podejrzaną frakcję", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_7_body", "source": "Defeat Suspicious Ruin Overseer", "translation": "Pokonaj podejrzanego nadzorcę ruin", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_8_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Desc_9_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvis", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ010_Title_1_body", "source": "Find Caelid and Nania's whereabouts", "translation": "Ustal, gdzie przebywają Caelid i Nania", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_1_body", "source": "Examine the Neglected Corpses", "translation": "Zbadaj porzucone zwłoki", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_2_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_3_body", "source": "Investigate the Artifact Fragment", "translation": "Zbadaj fragment artefaktu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_4_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_5_body", "source": "Go with others", "translation": "Wyrusz z pozostałymi", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_6_body", "source": "Defeat Arca", "translation": "Pokonaj Arcę", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_7_body", "source": "Defeat remaining Arca", "translation": "Pokonaj pozostałych członków Arca", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Desc_8_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ020_Title_1_body", "source": "Investigate the traces of the fall", "translation": "Zbadaj ślady upadku", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_1_body", "source": "Go to Kion", "translation": "Udaj się do Kiona", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_2_body", "source": "Join Nikos", "translation": "Dołącz do Nikosa", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_3_body", "source": "Talk to Kion", "translation": "Porozmawiaj z Kionem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_4_body", "source": "Investigate the Artifact Fragment", "translation": "Zbadaj fragment artefaktu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Desc_5_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ021_Title_1_body", "source": "Investigate the artifact in the Abandoned Observatory", "translation": "Zbadaj artefakt w Opuszczonym Obserwatorium", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_1_body", "source": "Go with Caelid", "translation": "Wyrusz z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_2_body", "source": "Talk to Kion", "translation": "Porozmawiaj z Kionem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_3_body", "source": "Purify the Orb with the Purifying Helix", "translation": "Oczyść Kulę za pomocą Oczyszczającej Helisy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ022_Desc_4_body", "source": "Talk to Kion", "translation": "Porozmawiaj z Kionem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ022_Title_1_body", "source": "Check the Purifying Helix in the Parched Rock Cave", "translation": "Sprawdź Oczyszczającą Helisę w Jaskini Spękanej Skały", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_1_body", "source": "Track the stench into the fissure", "translation": "Podążaj za odorem w głąb rozpadliny", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_2_body", "source": "Talk to Kion inside", "translation": "Porozmawiaj z Kionem w środku", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_3_body", "source": "Take cover and assess the situation", "translation": "Ukryj się i oceń sytuację", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_4_body", "source": "Defeat Lepharist", "translation": "Pokonaj Lepharystę", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_5_body", "source": "Defeat the Lepharist reinforcements", "translation": "Pokonaj posiłki Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Desc_6_body", "source": "Talk to Kion", "translation": "Porozmawiaj z Kionem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ030_Title_1_body", "source": "Investigate the Foul Fissure", "translation": "Zbadaj Plugawą Rozpadlinę", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_10_body", "source": "Read the Lepharist Experiment Report", "translation": "Przeczytaj raport z eksperymentu Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_11_body", "source": "Investigate another Lepharist's records", "translation": "Zbadaj kolejne zapiski Lepharysty", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_12_body", "source": "Read Lepharist's Journal", "translation": "Przeczytaj dziennik Lepharysty", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_13_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_14_body", "source": "Install the Odyle Video Converter at the right spot", "translation": "Zainstaluj konwerter wideo Odyle we właściwym miejscu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_15_body", "source": "Check the contents of the Odyle Video Converter", "translation": "Sprawdź zawartość konwertera wideo Odyle", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_16_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_1_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_2_body", "source": "Defeat Lepharist", "translation": "Pokonaj Lepharystę", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_3_body", "source": "Examine the clue in the Bookshelf", "translation": "Zbadaj wskazówkę w regale z książkami", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_4_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_5_body", "source": "Check the Mysterious Document", "translation": "Sprawdź tajemniczy dokument", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_6_body", "source": "Examine the Suspicious Bookshelf", "translation": "Zbadaj podejrzany regał z książkami", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_7_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_8_body", "source": "Say the code phrase in front of the Suspicious Bookshelf", "translation": "Wypowiedz hasło przed podejrzanym regałem z książkami", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Desc_9_body", "source": "Check the record in the hidden space", "translation": "Sprawdź zapiski w ukrytym pomieszczeniu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ031_Title_1_body", "source": "Search the Lepharist Hideout", "translation": "Przeszukaj kryjówkę Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_10_body", "source": "Escape toward the entrance to avoid the spreading flames", "translation": "Uciekaj w stronę wejścia, by uniknąć rozprzestrzeniających się płomieni", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_1_body", "source": "Eliminate Lepharists", "translation": "Wyeliminuj Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_2_body", "source": "Go downstairs", "translation": "Zejdź na dół", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_3_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_4_body", "source": "Examine Lepharist Supplies", "translation": "Zbadaj zaopatrzenie Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_5_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_6_body", "source": "Obtain the Powder Keg", "translation": "Zdobądź beczkę prochu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_7_body", "source": "Install the Powder Keg upstairs", "translation": "Umieść beczkę prochu na piętrze", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_8_body", "source": "Obtain bombs From the Bomb Chest", "translation": "Zdobądź bomby ze skrzyni na bomby", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Desc_9_body", "source": "Throw the bomb into the Powder Keg", "translation": "Wrzuć bombę do beczki prochu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ032_Title_1_body", "source": "Cause a disturbance in the Unidentified Workshop", "translation": "Wywołaj zamieszanie w niezidentyfikowanym warsztacie", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ040_1_Desc_1_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ040_1_Title_1_body", "source": "Discuss future plans with Chloris", "translation": "Omów dalsze plany z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ040_2_Desc_1_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ040_2_Title_1_body", "source": "Discuss the journey ahead with Chloris", "translation": "Omów dalszą podróż z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_1_body", "source": "Deliver excavation tools", "translation": "Dostarcz narzędzia do wykopalisk", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_2_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_3_body", "source": "Defeat the test subjects", "translation": "Pokonaj obiekty testowe", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_4_body", "source": "Talk to Tiasiris", "translation": "Porozmawiaj z Tiasiris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_5_body", "source": "Talk to Caelid", "translation": "Porozmawiaj z Caelidem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Desc_6_body", "source": "Talk to Chloris", "translation": "Porozmawiaj z Chloris", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ050_Title_1_body", "source": "Attempt to enter the underground laboratory", "translation": "Spróbuj wejść do podziemnego laboratorium", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_1_body", "source": "Discuss the plan with Luteros", "translation": "Omów plan z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_2_body", "source": "Obtain bombs From the Bomb Chest", "translation": "Zdobądź bomby ze skrzyni na bomby", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_3_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_4_body", "source": "Plant the bombs inside the annex", "translation": "Podłóż bomby w przybudówce", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_5_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvis", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_6_body", "source": "Go outside the annex", "translation": "Wyjdź z przybudówki", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Desc_7_body", "source": "Join Luteros in a safe place", "translation": "Dołącz do Luteros w bezpiecznym miejscu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ051_Title_1_body", "source": "Carry out the operation with Luteros", "translation": "Przeprowadź operację razem z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ052_Desc_1_body", "source": "Operate the Biometric Device", "translation": "Uruchom urządzenie biometryczne", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ052_Desc_2_body", "source": "Talk to Luteros", "translation": "Porozmawiaj z Luteros", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_B_Layer_HQ052_Title_1_body", "source": "Remove the Lepharist Barrier Gate", "translation": "Usuń barierę Lepharystów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_1_body", "source": "Defeat the Kerubar attacking the members", "translation": "Pokonaj Kerubara atakującego członków grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_2_body", "source": "Talk to the Dawn Legionnaire", "translation": "Porozmawiaj z żołnierzem Legionu Świtu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_3_body", "source": "Search the remnants of the first batch of supplies", "translation": "Przeszukaj pozostałości pierwszej partii zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_4_body", "source": "Defeat the Kerubar and Kerubian", "translation": "Pokonaj Kerubara i Kerubiana", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_5_body", "source": "Search the remnants of the second batch of supplies", "translation": "Przeszukaj pozostałości drugiej partii zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_6_body", "source": "Defeat Kerubar and Kerubian", "translation": "Pokonaj Kerubara i Kerubiana", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_7_body", "source": "Search the remnants of the final batch of supplies", "translation": "Przeszukaj pozostałości ostatniej partii zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Desc_8_body", "source": "Talk to Robin", "translation": "Porozmawiaj z Robinem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ001_Title_1_body", "source": "Search Daminu Forest with Robin", "translation": "Przeszukaj z Robinem Las Daminu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_10_body", "source": "Treat the fallen member", "translation": "Opatrz poległego członka grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_11_body", "source": "Talk to the awakened member", "translation": "Porozmawiaj z przebudzonym członkiem grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_12_body", "source": "Defeat the Balaur pursuit team", "translation": "Pokonaj oddział pościgowy Balaurów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_13_body", "source": "Defeat the additional Balaur pursuit team", "translation": "Pokonaj dodatkowy oddział pościgowy Balaurów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_14_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_15_body", "source": "Talk via Selvis", "translation": "Porozmawiaj przez Selvis", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_16_body", "source": "Go to the Windstream", "translation": "Udaj się do Strumienia Wiatru", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_17_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_1_body", "source": "Go to Nania", "translation": "Udaj się do Nanii", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_2_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_3_body", "source": "Search the surroundings while following Nania", "translation": "Przeszukaj okolicę, podążając za Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_4_body", "source": "Search the fallen member", "translation": "Przeszukaj poległego członka grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_5_body", "source": "Go toward the source of the sound", "translation": "Udaj się w stronę źródła dźwięku", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_6_body", "source": "Talk to the surviving member", "translation": "Porozmawiaj z ocalałym członkiem grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_7_body", "source": "Search for surviving members", "translation": "Poszukaj ocalałych członków grupy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_8_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Desc_9_body", "source": "Collect Fenix Eggs", "translation": "Zbierz jaja Fenix", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ002_Title_1_body", "source": "Search the sky island with Nania", "translation": "Przeszukaj Podniebną Wyspę razem z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ003_Desc_1_body", "source": "Defeat Kobolds", "translation": "Pokonaj koboldy", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ003_Desc_2_body", "source": "Check the supply chest", "translation": "Sprawdź skrzynię z zaopatrzeniem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ003_Desc_3_body", "source": "Check the other supply chest", "translation": "Sprawdź drugą skrzynię z zaopatrzeniem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ003_Title_1_body", "source": "Seize the base in front of Migzatu Brigade Supply Depot", "translation": "Zajmij bazę przed magazynem zaopatrzenia Brygady Migzatu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_10_body", "source": "Open the Supply Depot Storage Door", "translation": "Otwórz drzwi magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_11_body", "source": "Go outside the storage door", "translation": "Wyjdź przez drzwi magazynu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_12_body", "source": "Avoid the traps and go outside", "translation": "Omiń pułapki i wyjdź na zewnątrz", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_13_body", "source": "Go to the Balaur Alarm Device", "translation": "Udaj się do urządzenia alarmowego Balaurów", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_1_body", "source": "Block the Balaur in front of the first device", "translation": "Zatrzymaj Balaurów przed pierwszym urządzeniem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_2_body", "source": "Block the Balaur in front of the second device", "translation": "Zatrzymaj Balaurów przed drugim urządzeniem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_14_3_body", "source": "Block the Balaur in front of the third device", "translation": "Zatrzymaj Balaurów przed trzecim urządzeniem", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_15_body", "source": "Go outside the supply depot", "translation": "Wyjdź z magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_16_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_1_body", "source": "Go inside the supply depot with Nania", "translation": "Wejdź z Nanią do magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_2_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_3_body", "source": "Defeat the patrolling Draconute", "translation": "Pokonaj patrolującego Drakonida", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_4_body", "source": "Go inside the supply depot with Nania", "translation": "Wejdź z Nanią do magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_5_body", "source": "Defeat the Draconute patrolling near the Storage", "translation": "Pokonaj Drakonida patrolującego w pobliżu magazynu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_6_body", "source": "Open the Supply Depot Storage Door", "translation": "Otwórz drzwi magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_7_body", "source": "Talk to the Dawn Legionnaire", "translation": "Porozmawiaj z żołnierzem Legionu Świtu", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_8_body", "source": "Check the Drakana in the Supply Depot Chests", "translation": "Sprawdź Drakanę w skrzyniach magazynu zaopatrzenia", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Desc_9_body", "source": "Talk to Nania", "translation": "Porozmawiaj z Nanią", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Title_1_body", "source": "Search inside the Brigade Supply Depot", "translation": "Przeszukaj magazyn zaopatrzenia Brygady", "status": "draft"}
+{"id": "String_STR_MapEvent_World_L_Starter_HQ004_Title_2_body", "source": "Escape the Brigade Supply Depot", "translation": "Ucieknij z magazynu zaopatrzenia Brygady", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Battlefield_A_01_body", "source": "Abyss Rift Zone", "translation": "Strefa Szczelin Otchłani", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Battlefield_A_02_body", "source": "Abyss Rift Zone", "translation": "Strefa Szczelin Otchłani", "status": "draft"}
+{"id": "String_STR_Map_Abyss_F_A_body", "source": "Abyss Reshanta", "translation": "Otchłań Reshanty", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Reshanta_A_body", "source": "Chaotic Lower Reshanta", "translation": "Chaotyczna Dolna Reshanta", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Reshanta_B_body", "source": "Chaotic Middle Reshanta", "translation": "Chaotyczna Środkowa Reshanta", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Reshanta_C_body", "source": "Chaotic Middle Reshanta", "translation": "Chaotyczna Środkowa Reshanta", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Reshanta_D_Desc_body", "source": "This newly observed region at the edge of the Abyss has been designated as the 'upper layer'. Investigation suggests that it is composed of fragments from the 'Bloodflame Nebula'. Once a part of the upper Abyss, these fragments were torn away from the nebula and displaced here by the impact of the Second Great Catastrophe.\n\nObserved within the region are remnants of the fortresses Krotan, Dukysas, and La Miren—as well as Ereshkigal’s brigade. The entrance to Reshanta's Eye is yet to be found, however. The central island is overgrown with clusters of thorn trees mutated by Drana and has been dubbed the 'Red Thorn Crown Isle.'\n\nInitial surveys and attempts to access the area have been delayed due to its location at the outer edge of the Abyss, and the presence of a peculiar force field that repels Daeva of considerable strength. This field continues to hinder a full-scale investigation, and some theorize it may be a barrier established to protect a specific target.", "translation": "Ten nowo odkryty region na skraju Otchłani nazwano „górną warstwą”. Z badań wynika, że składa się z fragmentów „Mgławicy Krwawego Płomienia”. Niegdyś należały one do górnej Otchłani, lecz w wyniku uderzenia Drugiej Wielkiej Katastrofy zostały oderwane od mgławicy i przeniesione w to miejsce.\n\nW regionie zaobserwowano pozostałości fortec Krotan, Dukysas i La Miren oraz brygady Ereshkigala. Nie odnaleziono jeszcze wejścia do Oka Reshanty. Centralną wyspę porastają skupiska ciernistych drzew zmutowanych przez Dranę; nazwano ją „Wyspą Korony Czerwonych Cierni”.\n\nWstępne badania i próby dotarcia do tego obszaru opóźnia jego położenie na zewnętrznym skraju Otchłani oraz obecność osobliwego pola siłowego, które odpycha potężnych Daevów. Pole nadal uniemożliwia przeprowadzenie pełnych badań. Niektórzy przypuszczają, że jest barierą chroniącą konkretny cel.", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Reshanta_D_body", "source": "Chaotic Upper Reshanta", "translation": "Chaotyczna Górna Reshanta", "status": "draft"}
+{"id": "String_STR_Map_Abyss_Test_body", "source": "Abyss Test Map", "translation": "Mapa testowa Otchłani", "status": "draft"}
+{"id": "String_STR_Map_Abyss_body", "source": "Abyss", "translation": "Otchłań", "status": "draft"}
+{"id": "String_STR_Map_AncientCityRuA_body", "source": "Garzykan Observatory", "translation": "Obserwatorium Garzykan", "status": "draft"}
+{"id": "String_STR_Map_AncientCityRuB_body", "source": "Underground Temple", "translation": "Podziemna Świątynia", "status": "draft"}
+{"id": "String_STR_Map_AncientCityRuC_body", "source": "Garzykan Fortress", "translation": "Twierdza Garzykana", "status": "draft"}
+{"id": "String_STR_Map_Arkanis_1_body", "source": "Shattered Floating Temple", "translation": "Zniszczona Pływająca Świątynia", "status": "draft"}
+{"id": "String_STR_Map_Arkanis_2_body", "source": "Collapsed Corridor", "translation": "Zawalony korytarz", "status": "draft"}
+{"id": "String_STR_Map_Arkanis_3_body", "source": "Void Altar", "translation": "Ołtarz Pustki", "status": "draft"}
+{"id": "String_STR_Map_Arkanis_4_body", "source": "Slanted Plaza", "translation": "Pochyły plac", "status": "draft"}
+{"id": "String_STR_Map_Arkanis_body", "source": "Shattered Arkanis", "translation": "Zniszczone Arkanis", "status": "draft"}
+{"id": "String_STR_Map_Art_Test_body", "source": "Art Test Map", "translation": "Mapa testowa grafiki", "status": "draft"}
+{"id": "String_STR_Map_BakronIsland_body", "source": "Vakron Sky Island", "translation": "Podniebna Wyspa Vakron", "status": "draft"}
+{"id": "String_STR_Map_Battlefield_A_1_body", "source": "Odyle Shard Cradle", "translation": "Kolebka Odyle Shard", "status": "draft"}
+{"id": "String_STR_Map_Battlefield_B_1_Blue_body", "source": "Frost Storm Fortress", "translation": "Twierdza Lodowej Burzy", "status": "draft"}
+{"id": "String_STR_Map_Battlefield_B_1_Red_body", "source": "Fire Storm Fortress", "translation": "Twierdza Ognistej Burzy", "status": "draft"}
+{"id": "String_STR_Map_Battlefield_B_1_body", "source": "Stormslumber Snowfield", "translation": "Śnieżne Pole Burzowego Snu", "status": "draft"}
+{"id": "String_STR_Map_Battlefield_C_1_body", "source": "Sandstorm Temple", "translation": "Świątynia Piaskowej Burzy", "status": "draft"}
+{"id": "String_STR_Map_BlackShardZone_A_body", "source": "Kration Conflict Zone", "translation": "Strefa Konfliktu Kration", "status": "draft"}
+{"id": "String_STR_Map_BlackShardZone_B_body", "source": "Lonely Island", "translation": "Samotna Wyspa", "status": "draft"}
+{"id": "String_STR_Map_BlackShardZone_C_body", "source": "Kibelium Fragment", "translation": "Fragment Kibelium", "status": "draft"}
+{"id": "String_STR_Map_BlackShardZone_D_body", "source": "Abandoned Island", "translation": "Opuszczona Wyspa", "status": "draft"}
+{"id": "String_STR_Map_BlueBreathIsle_2_body", "source": "Azure Primeval Forest", "translation": "Lazurowy Pradawny Las", "status": "draft"}
+{"id": "String_STR_Map_BlueBreathIsle_3_body", "source": "Mushroom Colony", "translation": "Kolonia Grzybów", "status": "draft"}

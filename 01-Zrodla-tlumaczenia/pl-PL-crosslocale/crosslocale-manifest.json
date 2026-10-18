@@ -2,9 +2,9 @@
   "table": "pl-PL-crosslocale",
   "purpose": "Separate Polish translation sidecars for canonical English ??? rows; references only, not reconstructed English.",
   "canonicalCulture": "en-US",
-  "canonicalDecodedJsonSha256": "6e56b8496b80bc056e972cfb01c04df260895970511ad6d1d74b81b0350c83c5",
-  "canonicalInputSha256": "ffd9a6321165addbfa2cfc3d3a4d58e1a42d0ba6efe5714898f533188045e98f",
-  "auditJsonSha256": "6b2648968452f40f4cd09d7f11362ead32e4f825dd2ccd5a48ad0eb514b37c85",
+  "canonicalDecodedJsonSha256": "20f52036d35ba20f6419a3f90de4cf58e0a7c86736e08cc3db2f6e340d08dc91",
+  "canonicalInputSha256": "694a7d39e6bbe27c85dafa127d3feaca2a4a7a3c502ccf7385078b9c74dc6a3f",
+  "auditJsonSha256": "1f5328ae93eb2fd6e6e7fc81944a0589e5bc73db4cd42d1f6d48e9a972c92bc1",
   "records": 9569,
   "batchSize": 100,
   "selectionPolicy": {
@@ -17,60 +17,60 @@
   },
   "sourceFingerprints": {
     "de-DE": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\de-DE\\pakchunk506000-Windows_0_P.pak",
-      "containerSha256": "43f5ea34d531729810cc397301d27e238bbd29bbe3c3b584592ecfe8897789f4",
-      "datSha256": "cd24a4664104aac3b8f1f1a4d92c0c1cad9d0a65c9cafd80419cbc3b402b948f",
-      "decodedJsonSha256": "fa89a20ce80e051e8547126429a0479b710485e2a57663f454652661665fa776",
-      "recordCount": 152782
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\de-DE\\pakchunk506000-Windows_0_P.pak",
+      "containerSha256": "2493b71c34003c1086d18886bcd535783f377aaf4a434318458944261d966f5e",
+      "datSha256": "531bfdee57f57130248be16b1d30de593e7917e726c737f888d44e5f39e470e4",
+      "decodedJsonSha256": "55bf67018c0328974f868ac322fc555450f5494282cb741f9dd566e3b238f72f",
+      "recordCount": 153042
     },
     "en-US": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\en-US\\pakchunk502000-Windows_0_P.pak",
-      "containerSha256": "9f305aa46f63640a0d5f10fff206bae4e345b508f13a72fda1957337a2769b7c",
-      "datSha256": "ffd9a6321165addbfa2cfc3d3a4d58e1a42d0ba6efe5714898f533188045e98f",
-      "decodedJsonSha256": "f6b6c9cb8b421abc794ac55f413d9e9e591d09c5840f74eac6ba8e7f3b062081",
-      "recordCount": 152774
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\en-US\\pakchunk502000-Windows_0_P.pak",
+      "containerSha256": "07d61d63c131ce86a5674be28e14d9d93a11631a8704eb9c85e310123f11088c",
+      "datSha256": "694a7d39e6bbe27c85dafa127d3feaca2a4a7a3c502ccf7385078b9c74dc6a3f",
+      "decodedJsonSha256": "f7908b6c65096faedef70149210c06225809890a7ef0136606b7f5b899a8a0c8",
+      "recordCount": 153042
     },
     "es-ES": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\es-ES\\pakchunk508000-Windows_0_P.pak",
-      "containerSha256": "5173b1a1478c50e4f07516511995f10fe8200bdc016cafb32b0a5e8f9444fbc0",
-      "datSha256": "fdbccc9afb8a0432b8f9131ee1f826e5cfdb98cedbe38573c6c22951eba7c941",
-      "decodedJsonSha256": "2b4654374ccb3d344644600c350067fcbee7fb64279649c9f24d2419a562dd9b",
-      "recordCount": 152834
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\es-ES\\pakchunk508000-Windows_0_P.pak",
+      "containerSha256": "1baeb06d9d6b738b4c4d326f374adf9838f9b2501b79dbd5ad5facb89326044c",
+      "datSha256": "7fd9cb01b9a584cbd5dbf3f4d03b05880f5183ff6c9898ad685a1bae10b77ceb",
+      "decodedJsonSha256": "e5777df5bdc657c07d753fa51191e07860ec279c1dbc839244385fa985f504f6",
+      "recordCount": 153042
     },
     "fr-FR": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\fr-FR\\pakchunk507000-Windows_0_P.pak",
-      "containerSha256": "3f81789b8846d8d18e1f271d77c5653c19131bc352a5c3dabddc65cc63809fdd",
-      "datSha256": "8e3985517b5c8283a9327748b610ac8c6ab08b7ae2c7b3d3aa667232fe32c43f",
-      "decodedJsonSha256": "eefa58f1e3f3cc9142422397a9299e5deca8b6c21b89f9cf09ab0058d1b49484",
-      "recordCount": 152782
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\fr-FR\\pakchunk507000-Windows_0_P.pak",
+      "containerSha256": "b372b4280f70a5b9cda11595d02044bd228bb849b79734f5cb3fd17a9389a152",
+      "datSha256": "929aac8083e61d87481fbbe589ce595fd2f375c86d5e11f2e262b6b2675ce974",
+      "decodedJsonSha256": "2bcdcb89f32d73ffdd3b688cce4a4b27ee34eaf30b4a2ba3fc5b082a8a6e95f8",
+      "recordCount": 153042
     },
     "ja-JP": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\ja-JP\\pakchunk503000-Windows_0_P.pak",
-      "containerSha256": "78473d3d822d6ac402f27e8f1066f83081222bd42d9f5fff28f43375638ad73b",
-      "datSha256": "d55d72ff604b0229723730ae43889f53c9673d17daca117d9e6eb2f8f4439c72",
-      "decodedJsonSha256": "8e5633731ead5cd3c87776469fec8941ffb3d49d36348cf783bc842470115dc3",
-      "recordCount": 152826
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\ja-JP\\pakchunk503000-Windows_0_P.pak",
+      "containerSha256": "0d364be19eff957509adb141ba02e9e68dbfef05763284e3ecc15c6338057b20",
+      "datSha256": "81d403a490832d4abd5096c54565a1b80f866106ae44fa5067570aa787e9f8cd",
+      "decodedJsonSha256": "bfc3a5c6e12b94a8fcae6173c9ad5012c917b46583b8728e5debb8d57b64823f",
+      "recordCount": 153042
     },
     "ko-KR": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\ko-KR\\pakchunk501000-Windows_0_P.pak",
-      "containerSha256": "4197570ee8501ce8178cab595e666c02e2e7fd4b417aa2876b7f601c0f3e5bea",
-      "datSha256": "e0dd5e799acb1f5f9ad73a25eca1aa5c2389fa7e9350c2488e33e6c2660b4341",
-      "decodedJsonSha256": "3371d289607902f9a864e2931c079ed17c436f5f214f64ed758ec01c9ec310b1",
-      "recordCount": 152273
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\ko-KR\\pakchunk501000-Windows_0_P.pak",
+      "containerSha256": "5ab828a5c51710ca79739ab7008a961295b8df66fb270673939f09f01598e6b2",
+      "datSha256": "05fc6c5b5bd2525a5651e08f88c68c052ee8ad778acd9614ce12ae0a878ec000",
+      "decodedJsonSha256": "b4ecbc794f581e066c57c65baad5ba805fa7167059d76fd6e84d3b90fac7c122",
+      "recordCount": 152541
     },
     "pt-BR": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\pt-BR\\pakchunk509000-Windows_0_P.pak",
-      "containerSha256": "8c6384a1293d95b7e38c5e8ec6149f0458ae52303b4350107673f2816e835fe9",
-      "datSha256": "606fc474871be552e261988de929def431345feabda6dfddac1b978ff7c0fa4b",
-      "decodedJsonSha256": "1236acebdeb5eabc238650cc2bffdf2f20d4bb762ead023907e97cc3850c6df8",
-      "recordCount": 152782
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\pt-BR\\pakchunk509000-Windows_0_P.pak",
+      "containerSha256": "57a598a0d0a3f50f025eb3610ddb8a532516ae577a140200f01d41aabee836e4",
+      "datSha256": "3b3ef127a7a7cc68427b732c27859e7976b26702fa7d4825b3352045cbb501c9",
+      "decodedJsonSha256": "291d71eb01eb1210d711c645092ecc01cff83146759ce77dcdd7f74f7687cda4",
+      "recordCount": 153042
     },
     "ru-RU": {
-      "container": "local-originals\\Aion2\\Content\\Paks\\L10N\\Text\\ru-RU\\pakchunk510000-Windows_0_P.pak",
-      "containerSha256": "7487aaa8af88c4d94e30f416d015783485b36f344f8f04c763fa259f4bec4fb4",
-      "datSha256": "c4c434740fe87228ea26da2a6280602c69b792b822022d88337d2715a74c033b",
-      "decodedJsonSha256": "286ac39be2e3383a75ee137754d2af85f4b5394550f5a02ef87e1dc8e8eeb3a4",
-      "recordCount": 152782
+      "container": "E:\\SteamLibrary\\steamapps\\common\\AION2\\Aion2\\Content\\Paks\\L10N\\Text\\ru-RU\\pakchunk510000-Windows_0_P.pak",
+      "containerSha256": "136024a18d1d8cc398150eabd61dd1a1e5f34976e8b3a21b68d10b79dbd6680e",
+      "datSha256": "09f9451bf368317c396b39fbf9080ec06e7bf11ac1cb7959c34989e308e77bbb",
+      "decodedJsonSha256": "3d52b9fe8eb2cd140f8bc50ef880864c626925790ecc5ebf2bf6db67df6318a4",
+      "recordCount": 153042
     }
   },
   "batches": [
@@ -76925,13 +76925,65 @@
       "id": "String_STR_GAUGE_TEST_001_body",
       "selectedCulture": "ko-KR",
       "selectedSourceSha256": "a62925696ddfadcb016a89489b75b3fdab491812b8266a6f9a268bb10f78bd65",
-      "europeanAlternatives": []
+      "europeanAlternatives": [
+        {
+          "culture": "de-DE",
+          "source": "Bossleiste 1",
+          "sourceSha256": "b57a1d6169f3b8344eb7dea94648fc209d09c6e7958cc42831c00576fc17f53d"
+        },
+        {
+          "culture": "es-ES",
+          "source": "Medidor de jefe 1",
+          "sourceSha256": "c3fc6c025b59b0419ce97819f9a64318061ca83f0406407ff093fe3ac23743a6"
+        },
+        {
+          "culture": "fr-FR",
+          "source": "Jauge du boss 1",
+          "sourceSha256": "0fe5807df7e17681140b5e2cec98abb90e088b81fbb2b881425ee2a5563c696a"
+        },
+        {
+          "culture": "pt-BR",
+          "source": "Barra do Chefe 1",
+          "sourceSha256": "be45a6229b5cf394c011f8c74fdfe859a4521404aaa70f97c615933a62adccb5"
+        },
+        {
+          "culture": "ru-RU",
+          "source": "Шкала босса 1",
+          "sourceSha256": "13f0bf6e4b084535604ac2b22c0b731f9039b9d54ac9184939e1b3b6e6c24aaf"
+        }
+      ]
     },
     {
       "id": "String_STR_GAUGE_TEST_002_body",
       "selectedCulture": "ko-KR",
       "selectedSourceSha256": "d798e80bd2d0c8c8d8bee1499f9869a22f68c8920ca3e23d0e36049f0c5d9d49",
-      "europeanAlternatives": []
+      "europeanAlternatives": [
+        {
+          "culture": "de-DE",
+          "source": "Temperatur",
+          "sourceSha256": "2da10076c9e7b7c99685fa86ee36639eaa69c12431cb90593a1b5b54f7baae7e"
+        },
+        {
+          "culture": "es-ES",
+          "source": "Temperatura",
+          "sourceSha256": "46757bac6d43bf561e983046ab6c03b5798a1c26b1b02d907dc05d7f1d58608e"
+        },
+        {
+          "culture": "fr-FR",
+          "source": "Température",
+          "sourceSha256": "a7d165e8b0d6f290c6b950060e9465c96431acdcd6c1e82aa6b9712583021f3e"
+        },
+        {
+          "culture": "pt-BR",
+          "source": "Temperatura",
+          "sourceSha256": "46757bac6d43bf561e983046ab6c03b5798a1c26b1b02d907dc05d7f1d58608e"
+        },
+        {
+          "culture": "ru-RU",
+          "source": "Температура",
+          "sourceSha256": "8aa1d054af3f0ca77bf1787469fac6edf8250d2186189b911c9e7a3274ecf679"
+        }
+      ]
     }
   ]
 }

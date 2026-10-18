@@ -229,7 +229,7 @@
 {"id": "ServerName_1560_desc", "source": "Verteron", "translation": "Verteron", "status": "draft"}
 {"id": "ServerName_1560_short_desc", "source": "VER", "translation": "VER", "status": "draft"}
 {"id": "ServerName_15_desc", "source": "Dev_InterServer", "translation": "Deweloperski serwer międzyserwerowy", "status": "draft"}
-{"id": "ServerName_15_short_desc", "source": "인터Dev", "translation": "Międzyserwerowy serwer deweloperski", "status": "draft"}
+{"id": "ServerName_15_short_desc", "source": "인터Dev", "translation": "Międzyserwerowy — serwer deweloperski", "status": "draft"}
 {"id": "ServerName_1_desc", "source": "Elyos1_FullName", "translation": "Elyos1_FullName", "status": "draft"}
 {"id": "ServerName_1_short_desc", "source": "Elyos1", "translation": "Elyos1", "status": "draft"}
 {"id": "ServerName_2001_desc", "source": "Israphel", "translation": "Israphel", "status": "draft"}
